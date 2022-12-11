@@ -1,4 +1,4 @@
-# DLsite_HttpResponse_Grabber
+# DLwebsite_HttpResponse_Grabber
 
 A python script for grabbing the DragaliaLost.com/api/index.php parameter's response.
 
