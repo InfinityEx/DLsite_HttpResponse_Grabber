@@ -18,11 +18,12 @@ path=os.path.split(os.path.realpath(__file__))[0]
 lang='zh_cn'
 # time delta
 timelist={"zh_cn":"+08:00",
-    "zh_tw":"xx",
-    "en":"xx",
-    "en-gb":"xx",
-    "jp":"xx",
+    "zh_tw":"+08:00",
+    "en":"+00:00",
+    "en-gb":"+00:00",
+    "jp":"+09:00",
 }
+news_idlist=[]
 timedelta=uri.quote(timelist[lang])
 
 # news homepage list
@@ -40,7 +41,7 @@ headers={'user-agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537
 # sssa="%2B08%3A00"
 
 # collect all news info
-for i in range(3731,10001):
+for i in range(0,10001):
     id=i
     url_hplist=f"https://dragalialost.com/api/index.php?format=json&type=information&category_id=&priority_lower_than=&action=information_detail&article_id={id}&lang={lang}&td={timedelta}"
     response=rqs.post(url_hplist,headers=headers)
