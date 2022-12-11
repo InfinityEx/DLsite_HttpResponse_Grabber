@@ -1,0 +1,102 @@
+article_id:1167
+category_name:公告
+title_name:“Dragalia Fes”即将开放！
+image_path:
+
+message:<div>&ldquo;Dragalia Fes&rdquo;预计将于<span class="local_date" data-local_date="1585288800"></span>开放。</div><div><br></div><div>【关于Dragalia Fes】</div><div>&middot;★5角色、龙的初始出现概率将从4%提升至6%！</div><div>※召唤出★5或★5特选后，出现概率将变回初始概率6%。</div><div><br></div><div>【Dragalia Fes活动期间】</div><div><span class="local_date" data-local_date="1585288800"></span> ～ <span class="local_date" data-local_date="1585807140"></span></div><div><br></div><div>特选对象&ldquo;Fes限定Ver.&rdquo;角色如下：</div><div><br></div><div>【Fes限定Ver.角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/40d2a5ef017143d6a9dedac43cda4d63.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,498</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>换上新装备、成为埃尔菲莉丝护卫的沙音。<br>纯白的斗篷代表着她放弃暗杀<br>并誓以手中之剑守护挚友的的决心。<br>无论是染满鲜血的过去还是残酷的真相<br>都丝毫无法令她动摇。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a14e3aeaf8990581545b970f18bf5f82.png"></span>
+				<span>剑走偏锋</span>
+			</dt>
+			<dd>
+				<div>
+					对目标造成暗属性伤害，15秒内使其防御力下降5%。<br>此防御力下降效果不可叠加。<br>使用此技能后一定时间内发动【技能链】。<br>发动【技能链】时“剑走偏锋”技能效果<br>变为【对前方的敌人造成暗属性伤害，<br>对防御力下降状态的敌人造成的伤害提升】，<br>使用“剑走偏锋”对敌人造成伤害时会产生追加伤害<br>（对防御力下降状态的敌人造成的伤害提升）。<br>另外，目标处于特定状态时使用技能“暗影抹杀”<br>可使“剑走偏锋”在一定时间内发动【技能链】。<br>①目标拥有增益时：<br>技能效果变为【对目标造成暗属性伤害，<br>解除其1个增益效果】+追加伤害<br>（对防御力下降状态的敌人造成的伤害提升）<br>②目标处于“破防”状态时：<br>技能效果变为【对目标造成暗属性伤害，<br>对被破防的敌人造成的伤害提升】+追加伤害<br>（对被破防的敌人造成的伤害提升）<br>如同时满足①和②的条件，则优先获得①的效果。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/18bb75cee57f186afb031e6ca02c56f92.png"></span>
+				<span>暗影抹杀</span>
+			</dt>
+			<dd>
+				<div>
+					对目标造成暗属性伤害，使其进入“中毒”状态。<br>使用此技能后一定时间内发动【技能链】。<br>发动【技能链】时“暗影抹杀”技能效果<br>变为【对目标造成暗属性伤害，<br>对进入中毒状态的敌人造成的伤害提升】，<br>使用“暗影抹杀”对敌人造成伤害时会产生追加伤害<br>（对进入中毒状态的敌人造成的伤害提升）。<br>另外，目标处于特定状态时使用技能“剑走偏锋”<br>可使“暗影抹杀”在一定时间内发动【技能链】。<br>①目标拥有增益时：<br>技能效果变为【对目标造成暗属性伤害，<br>解除其1个增益效果】+追加伤害<br>（对进入中毒状态的敌人造成的伤害提升）<br>②目标处于“破防”状态时：<br>技能效果变为【对目标造成暗属性伤害，<br>对被破防的敌人造成的伤害提升】+追加伤害<br>（对被破防的敌人造成的伤害提升）<br>如同时满足①和②的条件，则优先获得①的效果。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龙化增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化槽上升率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【暗】中毒：中毒触发·攻＋13%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗<br>且使敌人进入中毒状态时获得<br>【15秒内攻击力提升13%的增益】。<br>此效果发动后10秒内不会再次发动。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a2241ae1de30904a24117f1388bd71782.png"></span><span>防御力下降特效＋30%</span></dt><dd><div>对进入“防御力下降”状态的敌人造成的伤害提升30%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bd7de81c28d0b9c93b0edbfc86b0cb6a2.png"></span><span>影卫的决心Ⅱ</span></dt><dd><div>进入“黑暗”、“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>中毒特效＋30%</span></dt><dd><div>对进入“中毒”状态的敌人造成的伤害提升30%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环50解锁时的数值，并非获得时的数值。</div><div>※数值不含因能力提升或下降的部分。</div><div>※同一人物无法编入同一队伍。</div><div>※联效EX能力为版本1.18.0追加的EX能力。联效EX能力在1.18.0之前的版本中无效。</div><div><br></div><div>【角色特征】<br>沙音（Fes限定Ver.）发动技能时将消耗新机制&ldquo;SP槽&rdquo;而非技能槽。<br>※武器技能除外。<br>攻击命中敌人即可积攒&ldquo;SP槽&rdquo;，最多可积攒发动3次技能所需的SP槽。<br>沙音发动技能&ldquo;剑走偏锋&rdquo;和&ldquo;暗影抹杀&rdquo;时各消耗1条SP槽，自身技能连续命中敌人即可发动&ldquo;技能链&rdquo;。<br>发动&ldquo;技能链&rdquo;后，根据技能组合和敌人的具体情况可产生不同的效果或追加伤害。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a8dfb66947a4809c9265b6ccf6bf4c68.jpg"></div><div><br>对象技能拥有&ldquo;技能链&rdquo;效果时，其图标框将闪烁蓝光。<br><br>▼以&ldquo;剑走偏锋&rdquo;起手的技能链效果例<br>【第1次】<br>发动技能&ldquo;剑走偏锋&rdquo;<br>&rArr;对目标造成暗属性伤害（使其防御力下降）<br><br>【第2次】<br>根据使用的技能和敌人的具体情况发动以下技能链效果中的其中一种：<br><br>(a)发动技能链效果下的&ldquo;剑走偏锋&rdquo;<br>&rArr;对前方的敌人造成暗属性伤害（对防御力下降状态的敌人造成的伤害提升）<br>&rArr;产生追加伤害（对防御力下降状态的敌人造成的伤害提升）<br><br>(b)目标拥有增益时(※1)发动技能链效果下的&ldquo;暗影抹杀&rdquo;<br>&rArr;对目标造成暗属性伤害，解除其1个增益效果<br>&rArr;产生追加伤害（对进入中毒状态的敌人造成的伤害提升）<br><br>(c)目标处于&ldquo;破防&rdquo;状态时(※2)发动技能链效果下的&ldquo;暗影抹杀&rdquo;<br>&rArr;对目标造成暗属性伤害（对被破防的敌人造成的伤害提升）<br>&rArr;产生追加伤害（对被破防的敌人造成的伤害提升）<br><br></div><div>※如同时满足(※1)和(※2)的条件，则优先获得(※1)的效果。<br><br>▼以&ldquo;暗影抹杀&rdquo;起手的技能链效果例<br>【第1次】<br>发动技能&ldquo;暗影抹杀&rdquo;<br>&rArr;对目标造成暗属性伤害，使其进入&ldquo;中毒&rdquo;状态<br><br>【第2次】<br>根据使用的技能和敌人的具体情况发动以下技能链效果中的其中一种：<br><br>(a)发动技能链效果下的&ldquo;暗影抹杀&rdquo;<br>&rArr;对目标造成暗属性伤害（对进入中毒状态的敌人造成的伤害提升）<br>&rArr;产生追加伤害（对进入中毒状态的敌人造成的伤害提升）<br><br>(b)目标拥有增益时(※1)发动技能链效果下的&ldquo;剑走偏锋&rdquo;<br>&rArr;对目标造成暗属性伤害，解除其1个增益效果<br>&rArr;产生追加伤害（对防御力下降状态的敌人造成的伤害提升）<br><br>(c)目标处于&ldquo;破防&rdquo;状态时(※2)发动技能链效果下的&ldquo;剑走偏锋&rdquo;<br>&rArr;对目标造成暗属性伤害（对被破防的敌人造成的伤害提升）<br>&rArr;产生追加伤害（对被破防的敌人造成的伤害提升）<br><br></div><div>※如同时满足(※1)和(※2)的条件，则优先获得(※1)的效果。</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div>
+
+start_time:1585105200; update_time1585105633

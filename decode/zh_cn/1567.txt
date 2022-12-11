@@ -1,0 +1,32 @@
+article_id:1567
+category_name:公告
+title_name:“龙辉护符交换所”追加新的龙辉护符！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1599804000"></span>起，&ldquo;龙辉护符交换所&rdquo;的列表中已追加新的龙辉护符。</div><div><br></div><div>可点击&ldquo;龙辉护符交换所&rdquo;中的&ldquo;特选&rdquo;及各稀有度标签页面交换追加的新龙辉护符。</div><div><br></div><div><strong>【新龙辉护符介绍】</strong></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/d921b966aac3316e2b389833aa77c0e52.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">月光派对</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>HP70% 会心威力＋22%&nbsp;(Max25%)</span></dt><dd><div>HP在70%以上时暴击伤害倍率提升22%。&nbsp;(Max25%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>技能增强＋6%&nbsp;(Max15%)</span></dt><dd><div>技能槽上升率提升6%。&nbsp;(Max15%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/392cf7b252e7e48ca1d1688cca4673b72.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">双花起舞</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span><span>HP全满 回复＋15%&nbsp;(Max20%)</span></dt><dd><div>HP全满时，回复技能效果提升15%。&nbsp;(Max20%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能伤害＋20%&nbsp;(Max40%)</span></dt><dd><div>攻击技能造成的伤害提升20%。&nbsp;(Max40%)</div></dd></dl></div></div></div><div><br></div><div>※最大上限解锁时的数值，并非获得时的数值。</div><div><br></div><div>【特选期间】</div><div><span class="local_date" data-local_date="1599804000"></span> ～ <span class="local_date" data-local_date="1601445599"></span></div><div><br></div><div><span style="color: rgb(184, 49, 47);">※特选期间结束后，仍可在各稀有度标签页面交换本次追加的龙辉护符。</span></div><div><br></div><div>【注意事项】</div><div>本公告以外的信息可进入商店中的&ldquo;龙辉护符交换所&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1599804000; update_time1599471939

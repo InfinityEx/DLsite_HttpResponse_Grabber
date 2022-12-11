@@ -1,0 +1,8 @@
+article_id:1990
+category_name:活动
+title_name:活动“PERSONA5 SCRAMBLE 失心之乱”终章追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/94e71eff2e03ec7844097a677b93f648.png
+
+message:<div><span class="local_date" data-local_date="1613109599"></span>结束的活动&ldquo;PERSONA5 SCRAMBLE 失心之乱&rdquo;已追加终章！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/94e71eff2e03ec7844097a677b93f648.png"></div><div><br></div><div>玩家可在游戏内下方菜单的&ldquo;任务&rdquo;中点击&ldquo;活动浮窗&rdquo;进入&ldquo;活动&rdquo;的&ldquo;限定任务&rdquo;阅读。</div><div><br></div><div>■终章解锁期间</div><div><span class="local_date" data-local_date="1613109600"></span> ～ <span class="local_date" data-local_date="1613714399"></span></div><div><br></div><div>■注意事项</div><div>终章仅限活动结束时已通关活动任务&ldquo;Take Your Heart&rdquo;的玩家阅读。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1613109600; update_time1612946856

@@ -1,0 +1,196 @@
+article_id:269
+category_name:公告
+title_name:传说召唤“雷迅英雄·光辉霸王”即将开放！
+image_path:
+
+message:<div>传说召唤&ldquo;雷迅英雄&middot;光辉霸王&rdquo;预计将于<span class="local_date" data-local_date="1551333600"></span>开放。</div><div><br></div><div>特选对象的角色&middot;龙&middot;龙辉护符的出现概率将提升。</div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1551333600"></span> ～ <span class="local_date" data-local_date="1552370340"></span></div><div><br></div><div>部分特选对象的角色&middot;龙&middot;龙辉护符详情如下：</div><div><br></div><div>【特选角色介绍】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/69c5ed6e8c0cd4525c55ed79b0a0a50f.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>80</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>758</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>502</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>2500</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">角色详情</div>
+			<div class="param">
+				<ul>
+					<li>因能操控雷电而得名“雷迅卿”，<br>担任“雷迅卿骑士团”的团长，<br>正在寻找令祖国半毁的深渊之种。<br>表面沉着冷静，内心却充满热情，<br>深受骑士团的部下爱戴。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8ed68e92eeb44273a852b29fb35debab2.png"></span>
+				<span>雷电爆裂</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成光属性伤害。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2b2bc8b0c47c3d2efa57f9e51de8aff02.png"></span>
+				<span>雷霆脉冲</span>
+			</dt>
+			<dd>
+				<div>
+					20秒内自身进入【带电】状态。<br>此效果期间将强化技能“雷电爆裂”，<br>自身的爆发攻击获得使敌人进入“麻痹”状态的效果。<br>自身处于非【带电】状态时，此技能随时间自动充能。<br>此技能的充能不受“技能槽提升效果”影响。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龙化增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化槽提升率提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/fd589517c61c65312e1509e13a36cd412.png"></span><span>爆发攻击伤害＋50%</span></dt><dd><div>爆发攻击造成的伤害提升50%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>中毒抗性＋100%</span></dt><dd><div>进入“中毒”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cb9a79af6cfdc75b0e5d4d610cfbe8c32.png"></span><span>电闪蓄力Ⅱ</span></dt><dd><div>“带电”状态时攻击力提升25%。</div></dd></dl></div></div></div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div><br></div><div>【特选龙介绍】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/0396335232a0c7d8530c93e061434ec1.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>371</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>124</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>995</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">龙详情</div>
+			<div class="param">
+				<ul>
+					<li>被誉为王中之王的龙。<br>相传曾按自己的喜好重塑世间万物，<br>这番伟业至今仍作为传说<br>在大陆各地为人所传颂。<br>他的荣光之下绝不容许阴霾存在。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8ed68e92eeb44273a852b29fb35debab2.png"></span>
+				<span>霸王剑</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成光属性伤害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/916d0547dd866ff9333344c772c14d732.png"></span><span>【光】攻击&暗抗性提升Ⅱ</span></dt><dd><div>装备角色属性为光时，<br>角色的攻击力提升50%，暗属性抗性提升15%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【特选龙辉护符介绍】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ef3aa8254716cb66ec17c8dd6b81d1c0.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>176</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>65</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>401</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【剑】技能伤害＋35%</span></dt><dd><div>装备角色的武器种类为剑时，<br>攻击技能造成的伤害提升35%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>龙之恩赐·攻Ⅱ</span></dt><dd><div>每次龙化提升攻击力。<br>此效果每回任务最多发动3次。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁时的数值，并非获得时的数值。</div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/070140ea2e64b1f1e7e6e19f65a01ab7.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>195</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>46</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>381</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3d57efbfc9ee679b982b0fd3ed6495302.png"></span><span>【光】异常状态无效Ⅱ</span></dt><dd><div>装备角色属性为光时，<br>任务中最多3次免于进入异常状态。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span><span>暗属性抗性＋8%</span></dt><dd><div>暗属性伤害减少8%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;或&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1551247200; update_time1551247397

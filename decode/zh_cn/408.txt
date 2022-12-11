@@ -1,0 +1,8 @@
+article_id:408
+category_name:公告
+title_name:“龙辉护符交换所”相关公告
+image_path:
+
+message:<div>感谢各位玩家一直以来对游戏的大力支持。</div><div><br></div><div>公告《关于召唤相关内容的调整》中提到的&ldquo;龙辉护符交换所&rdquo;预计将于2019/04/26(周五)实装。</div><div><br></div><div>交换所可交换的龙辉护符在4/26实装时将不包括至今为止在召唤及活动中出现的期间限定龙辉护符，</div><div>但今后可能会开放交换，届时将另行通知。</div><div><br></div><div>另外，日后预计将发布&ldquo;龙辉护符交换所&rdquo;相关的更新公告。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1555480800; update_time1555471986

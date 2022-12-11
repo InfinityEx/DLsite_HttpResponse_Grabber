@@ -1,0 +1,8 @@
+article_id:75
+category_name:公告
+title_name:关于部分游戏效果未正常显示的异常现象
+image_path:
+
+message:<div>目前已确认部分游戏效果（攻击技能显示效果等）未正常显示。</div><div>※重启游戏可解决问题。</div><div>※效果正常发动。</div><div><br></div><div>■已确认异常的对象</div><div>&middot;角色&quot;纳杰夫&quot;的技能&quot;爆发之刃&quot;显示效果</div><div>&middot;龙&quot;坎贝萝丝&quot;的技能&quot;熔岩&middot;天谴&quot;显示效果</div><div>&middot;活动团队战&quot;修普诺斯&quot;的攻击显示效果</div><div>&middot;活动BOSS&quot;暴风石&quot;的攻击显示效果</div><div><br></div><div>我们正在调查本异常现象的原因。</div><div>最新进展将第一时间更新在本公告中。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div>&nbsp;</div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1540989000; update_time1540989048

@@ -1,0 +1,8 @@
+article_id:1664
+category_name:公告
+title_name:阿基德系列武器强化所需金币调整公告
+image_path:
+
+message:<div>伴随着版本2.0.0更新中对武器进行的平衡调整，阿基德系列武器强化所需金币也已进行如下调整。</div><div><br></div><div>■调整前</div><div>&middot;Ⅰ阶制造</div><div>2,000,000金币</div><div>&middot;Ⅰ阶上限解锁（最多4次）</div><div>2,000,000金币</div><div>※制造Ⅰ阶武器所需金币。</div><div>&middot;升级为Ⅱ阶</div><div>3,000,000金币</div><div>&middot;Ⅱ阶上限解锁（最多4次）</div><div>无</div><div>※升级需先最大上限解锁，Ⅱ阶无法再进行上限解锁。</div><div>&middot;制造1把最大上限解锁Ⅱ阶武器所需金币</div><div>13,000,000金币</div><div><br></div><div>■调整后</div><div>&middot;武器制造</div><div>2,000,000金币</div><div>&middot;武器精炼前上限解锁（最多4次）</div><div>2,000,000金币</div><div>&middot;武器精炼</div><div>2,500,000金币</div><div>&middot;武器精炼后上限解锁（最多4次）</div><div>7,500,000金币</div><div>&middot;制造1把已精炼且最大上限解锁的武器所需金币</div><div>42,500,000金币</div><div><br></div><div>因上述调整未能事先告知玩家，我们将依次向<span class="local_date" data-local_date="1601636400"></span>前开始游戏的玩家发放以下道具作为补偿。</div><div><br></div><div>&middot;精金&times;1</div><div>&middot;最高级蜂蜜&times;50</div><div>&middot;金币&times;100,000,000</div><div><br></div><div>※玩家可在&ldquo;礼物箱&rdquo;领取补偿。</div><div>※补偿的领取期限为发送至礼物箱后7天内。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1601636400; update_time1601636320

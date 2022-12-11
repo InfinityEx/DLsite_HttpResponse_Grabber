@@ -1,0 +1,8 @@
+article_id:2034
+category_name:公告
+title_name:关于“自动龙化功能”的异常现象
+image_path:
+
+message:<div>目前已确认版本2.5.0后在任务中使用&ldquo;自动龙化功能&rdquo;龙化可能导致角色和龙均无法行动。</div><div><br></div><div>本异常现象将于今后的更新中进行修正。</div><div>最新进展将第一时间更新于游戏内及官方网站的公告中。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1614933000; update_time1615255452

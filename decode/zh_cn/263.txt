@@ -1,0 +1,8 @@
+article_id:263
+category_name:公告
+title_name:虚空之影讨伐战中"可制作的武器"说明有误
+image_path:
+
+message:<div>虚空之影讨伐战部分任务详情页面中&quot;可制作的武器&quot;说明有误，已进行以下修正：</div><div><br></div><div>■游荡蘑菇讨伐战</div><div>修正后：具有&quot;卷刃抗性&quot;能力或&quot;龙化槽下降抗性&quot;的武器</div><div>修正前：具有&quot;卷刃抗性&quot;能力的武器</div><div><br></div><div>■钢铁魔像讨伐战</div><div>修正后：具有&quot;卷刃抗性&quot;能力的武器</div><div>修正前：具有&quot;龙化槽下降抗性&quot;能力的武器</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1550835900; update_time1550836032

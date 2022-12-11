@@ -1,0 +1,8 @@
+article_id:163
+category_name:公告
+title_name:关于“奈法利耶（星龙祭Ver.）”、“阿莱克西斯（星龙祭Ver.）”的数值错误
+image_path:
+
+message:<div>当前传说召唤&ldquo;万众祈愿星龙祭&rdquo;可召唤角色&ldquo;奈法利耶（星龙祭Ver.）&rdquo;和&ldquo;阿莱克西斯（星龙祭Ver.）&rdquo;的数值有误。</div><div><br></div><div>我们已对其进行修正，目前显示为正确的数值。</div><div>本异常现象的原委和详情如下：</div><div><br></div><div>■原委和详情</div><div>在输入传说召唤&ldquo;万众祈愿星龙祭&rdquo;中可召唤角色&ldquo;奈法利耶（星龙祭Ver.）&rdquo;和&ldquo;阿莱克西斯（星龙祭Ver.）&rdquo;的数值时出错，导致数值低于传说召唤&ldquo;万众祈愿星龙祭&rdquo;公告中记载的数值。</div><div><br></div><div>■问题发生时间</div><div><span class="local_date" data-local_date="1545026400"></span>～<span class="local_date" data-local_date="1545236700"></span></div><div><br></div><div>本异常现象的修正内容如下：</div><div><br></div><div>■修正内容</div><div>传说召唤&ldquo;万众祈愿星龙祭&rdquo;可召唤角色&ldquo;奈法利耶（星龙祭Ver.）&rdquo;和&ldquo;阿莱克西斯（星龙祭Ver.）&rdquo;的★5、Lv.70、魔法圆环全解锁时的数值已修正为传说召唤&ldquo;万众祈愿星龙祭&rdquo;公告中所记载的正确数值。</div><div><br></div><div>※因数据修正，&ldquo;奈法利耶（星龙祭Ver.）&rdquo;和&ldquo;阿莱克西斯（星龙祭Ver.）&rdquo;根据等级和魔法圆环强化状况可能出现数值波动。</div><div>※相关角色的数值可能因部分数据修正而暂时出现异常。如发生本现象，可通过重启游戏解决问题。</div><div><br></div><div>我们将向<span class="local_date" data-local_date="1545236700"></span>前开始游戏的玩家依次发放以下道具作为补偿。</div><div><br></div><div>&middot;1张10连召唤券</div><div>&middot;1500个龙辉晶</div><div><br></div><div>我们将向<span class="local_date" data-local_date="1545236700"></span>前进行过传说召唤&ldquo;万众祈愿星龙祭&rdquo;的玩家依次发放以下道具作为补偿。</div><div><br></div><div>&middot;1000个龙辉晶</div><div><br></div><div>本次补偿可在<span class="local_date" data-local_date="1545890399"></span>前登录游戏领取。</div><div>领取期限为发送至礼物箱后7天内。<br><br>对于给各位玩家造成的困扰和不便，我们深表歉意。<br><br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1545236700; update_time1547531446

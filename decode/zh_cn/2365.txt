@@ -1,0 +1,8 @@
+article_id:2365
+category_name:公告
+title_name:关于设施活动【复刻】“舞动夏日☆盂兰盆舞”的异常现象
+image_path:
+
+message:<div><span class="local_date" data-local_date="1626328800"></span>起开放的设施活动【复刻】&ldquo;舞动夏日☆盂兰盆舞&rdquo;中出现了以下异常现象。</div><div>&middot;领取部分已完成的期间限定目标报酬时提示出错并返回主界面。</div><div>&middot;达成部分期间限定目标并领取报酬后，目标一览中仍会显示已达成的目标。</div><div>&middot;达成部分期间限定目标后未显示报酬的&ldquo;获取&rdquo;按钮，点击&ldquo;全部获取&rdquo;也无法领取其报酬。</div><div><br></div><div>■对象玩家</div><div><span class="local_date" data-local_date="1626328800"></span> ～ <span class="local_date" data-local_date="1626329400"></span>左右参加本活动的玩家</div><div><br></div><div>本异常现象已于<span class="local_date" data-local_date="1626339720"></span>左右修正完毕。</div><div><br></div><div>游戏内可能需要等待一段时间生效。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div>
+
+start_time:1626340500; update_time1626413019

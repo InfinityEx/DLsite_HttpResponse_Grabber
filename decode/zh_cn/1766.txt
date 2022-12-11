@@ -1,0 +1,8 @@
+article_id:1766
+category_name:公告
+title_name:《公主连结Re:Dive》联动活动预告
+image_path:
+
+message:<div>YouTube Live上已于<span class="local_date" data-local_date="1604577600"></span>左右公布，新活动&ldquo;公主连结Re:Dive 新朋友与异世界美食&rdquo;将于11月下旬开放！</div><div><br></div><div>本活动中来自《公主连结Re:Dive》的&ldquo;佩可莉姆&rdquo;将作为角色在活动和召唤中登场。</div><div>※本活动及召唤中登场的《公主连结Re:Dive》角色仅&ldquo;佩可莉姆&rdquo;。</div><div>※角色&ldquo;佩可莉姆&rdquo;将作为特选对象在召唤中登场，预计也会在今后的召唤中登场。</div><div><br></div><div>本活动为团队活动，讲述《Dragalia Lost ～失落的龙约～》的角色们与&ldquo;佩可莉姆&rdquo;携手共渡难关的故事。</div><div>活动剧情中《Dragalia Lost ～失落的龙约～》的2位角色将以新形象与1头新的龙一同登场。</div><div>其中1位角色可通过参与活动使其成为伙伴，另1位角色和新的龙则会在召唤中登场。</div><div><br></div><div>本次活动中还将使用预告视频中M・A・O小姐所演唱的新曲。</div><div>活动剧情及任务中会播放这首新曲，敬请期待！</div><div><br></div><div>角色&ldquo;佩可莉姆&rdquo;和活动&ldquo;公主连结Re:Dive 新朋友与异世界美食&rdquo;详情预计将通过游戏内和官方网站公告发布。</div><div><br></div><div>另外，值此活动公布之际向各位玩家发放以下礼物！</div><div>※领取期限为发送至&ldquo;礼物箱&rdquo;后7天内。</div><div><br></div><div>■礼物内容</div><div>龙辉晶&times;1,200</div><div><br></div><div>YouTube Live归档播放地址如下：</div><div><br></div><div>▼归档播放地址</div><div><a href="https://youtu.be/jG3WTtYmk5c">https://youtu.be/jG3WTtYmk5c</a></div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1604578200; update_time1604568153

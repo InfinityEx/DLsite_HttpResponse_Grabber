@@ -1,0 +1,74 @@
+article_id:1876
+category_name:公告
+title_name:“龙辉护符交换所”追加期间限定龙辉护符！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1609394400"></span>起，&ldquo;龙辉护符交换所&rdquo;的列表中已追加期间限定龙辉护符。</div><div><br></div><div>可点击&ldquo;龙辉护符交换所&rdquo;中的&ldquo;特选&rdquo;及各稀有度标签页面交换追加的期间限定龙辉护符。</div><div><br></div><div>【新龙辉护符介绍】</div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/cbde4cfab621e5f9f617adbd126b88832.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/4bc7ceaf11d54996eee5b6ba756bc05f2.png"></div>
+	<div class="discription">
+		<div class="charaName">新春可爱派天下第一大比拼</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5b8f1930779d870cb69bf678e6b5c28d2.png"></span><span>劫火特效＋25%&nbsp;(Max25%)</span></dt><dd><div>对进入“劫火”状态的敌人造成的伤害提升25%。&nbsp;(Max25%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/f2e385783acb4613791f8d5cba9c78a22.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/0aa465679884392adac7ac7a19d7e9432.png"></div>
+	<div class="discription">
+		<div class="charaName">两位十二龙氏，前来！</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能伤害＋30%&nbsp;(Max40%)</span></dt><dd><div>攻击技能造成的伤害提升30%。&nbsp;(Max40%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/c2cd18c2e4b5c328c2c5916b3283f7bf2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">恭贺新年</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span><span>光属性抗性＋13%&nbsp;(Max15%)</span></dt><dd><div>光属性伤害减少13%。&nbsp;(Max15%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/082c0276ead832573c5cecaaeee4ff522.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/0aa465679884392adac7ac7a19d7e9432.png"></div>
+	<div class="discription">
+		<div class="charaName">日出之国的使者</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能伤害＋30%&nbsp;(Max40%)</span></dt><dd><div>攻击技能造成的伤害提升30%。&nbsp;(Max40%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/224d16567c9e4c53e833b0600cd0b8bd2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">新年伊始</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>疾风怒涛·会心＋10%&nbsp;(Max15%)</span></dt><dd><div>连击达到15次以上时暴击率提升10%。&nbsp;(Max15%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/c6c194e79dd187160e407eb1c423a5f62.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/b6fe5f7f272fe5c0a9f21d57ac1ec20b2.png"></div>
+	<div class="discription">
+		<div class="charaName">板羽球对决！</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>背水一战·攻＋40%&nbsp;(Max60%)</span></dt><dd><div>HP在30%以下时，<br>发动【15秒内攻击力提升40%的增益】。<br>此效果每回任务最多发动1次。&nbsp;(Max60%)</div></dd></dl></div></div></div><div><br></div><div>※最大上限解锁时的数值，并非获得时的数值。</div><div><br></div><div>【特选期间】</div><div><span class="local_date" data-local_date="1609394400"></span> ～ <span class="local_date" data-local_date="1612072799"></span></div><div><br></div><div><span style="color: rgb(226, 80, 65);"><strong>※特选期间结束后，将无法交换本次追加的期间限定龙辉护符。</strong></span></div><div><br></div><div>【注意事项】</div><div>1. 本次特选的龙辉护符今后可能再次登场。</div><div>2. 本公告以外的信息可进入商店中的&ldquo;龙辉护符交换所&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1609394400; update_time1608782382

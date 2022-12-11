@@ -1,0 +1,8 @@
+article_id:2759
+category_name:公告
+title_name:关于道具召唤出错时选择“重试”会导致额外进行道具召唤的异常现象
+image_path:
+
+message:<div>目前已确认<span class="local_date" data-local_date="1640930820"></span>左右 ～ <span class="local_date" data-local_date="1640932320"></span>左右期间和<span class="local_date" data-local_date="1641017100"></span>左右 ～ <span class="local_date" data-local_date="1641017940"></span>左右期间&ldquo;商店&rdquo;的&ldquo;育成道具 育成礼包&rdquo;中出现了道具召唤出错显示&ldquo;与服务器连接失败。&rdquo;时选择&ldquo;重试&rdquo;可能导致额外进行道具召唤的异常现象。</div><div><br></div><div>额外进行道具召唤时可能不会显示召唤动画，但可正常获得道具。</div><div><br></div><div>目前本异常现象已得到解决。</div><div><br></div><div>我们将依次向本异常现象期间因选择&ldquo;重试&rdquo;而额外进行道具召唤的玩家发放额外进行道具召唤时消耗的龙辉晶作为补偿。</div><div><br></div><div>玩家可在&ldquo;礼物箱&rdquo;领取补偿。</div><div><br></div><div>■补偿发放对象</div><div><span class="local_date" data-local_date="1640930820"></span>左右 ～ <span class="local_date" data-local_date="1640932320"></span>左右期间和<span class="local_date" data-local_date="1641017100"></span>左右 ～ <span class="local_date" data-local_date="1641017940"></span>左右期间因选择&ldquo;重试&rdquo;而额外进行过道具召唤的玩家</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1641880800; update_time1641865789

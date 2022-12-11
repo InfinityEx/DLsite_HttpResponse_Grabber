@@ -1,0 +1,32 @@
+article_id:1439
+category_name:公告
+title_name:“龙辉护符交换所”追加新的龙辉护符！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1594620000"></span>起，&ldquo;龙辉护符交换所&rdquo;的列表中已追加新的龙辉护符。</div><div><br></div><div>可点击&ldquo;龙辉护符交换所&rdquo;中的&ldquo;特选&rdquo;及各稀有度标签页面交换追加的新龙辉护符。</div><div><br></div><div><strong>【新龙辉护符介绍】</strong></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/793a202652868636b4dd62c76797e5742.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">有猫相伴的夏天</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>爆发击破·攻＋6%&nbsp;(Max6%)</span></dt><dd><div>每使用爆发攻击打倒3个敌人<br>即发动【攻击力提升6%的增益】。<br>此效果每回任务最多发动5次。&nbsp;(Max6%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>技能增强·强击＋15%&nbsp;(Max15%)</span></dt><dd><div>爆发攻击命中时，技能槽上升率提升15%。&nbsp;(Max15%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/7cd0c0eec4f100c6d727c4a3f3e0273f2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">超炫的哦♪</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>龙化时间＋15%&nbsp;(Max20%)</span></dt><dd><div>龙化时间延长15%。&nbsp;(Max20%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>冰冻抗性＋50%&nbsp;(Max100%)</span></dt><dd><div>进入“冰冻”状态的概率下降50%。&nbsp;(Max100%)</div></dd></dl></div></div></div><div><br></div><div>※最大上限解锁时的数值，并非获得时的数值。</div><div><br></div><div>【特选期间】</div><div><span class="local_date" data-local_date="1594620000"></span> ～ <span class="local_date" data-local_date="1595915999"></span></div><div><br></div><div><span style="color: rgb(184, 49, 47);">※特选期间结束后，仍可在各稀有度标签页面交换本次追加的龙辉护符。</span></div><div><br></div><div>【注意事项】</div><div>本公告以外的信息可进入商店中的&ldquo;龙辉护符交换所&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1594620000; update_time1594277497

@@ -1,0 +1,8 @@
+article_id:1914
+category_name:公告
+title_name:关于角色“卢卡（和服Ver.）”技能“喜迎新春”的异常现象
+image_path:
+
+message:<div>目前已确认<span class="local_date" data-local_date="1610604000"></span>起召唤中新登场的角色&ldquo;卢卡（和服Ver.）&rdquo;出现了以下异常现象。</div><div><br></div><div>&middot;使用技能&ldquo;喜迎新春&rdquo;时，风属性以外的角色也会获得&ldquo;吉祥镜饼&rdquo;。</div><div><br></div><div>本现象将于今后的更新中进行修正。</div><div>最新进展将第一时间更新在本公告中。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1610517600; update_time1610440274

@@ -1,0 +1,8 @@
+article_id:630
+category_name:公告
+title_name:值此Dragalia Fes开放之际，向各位玩家发放“召唤券”！
+image_path:
+
+message:<div>值此Dragalia Fes开放之际，向各位玩家发放&ldquo;召唤券&rdquo;！</div><div>利用&ldquo;召唤券&rdquo;尽情享受Dragalia Fes吧！</div><div><br></div><div>■礼物内容</div><div>召唤券 3张</div><div><br></div><div>■发放对象</div><div><span class="local_date" data-local_date="1564120800"></span>前开始游戏的玩家</div><div><br></div><div>领取期限为发送至&ldquo;礼物箱&rdquo;后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1564120800; update_time1569485997

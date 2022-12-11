@@ -1,0 +1,32 @@
+article_id:1495
+category_name:公告
+title_name:“龙辉护符交换所”追加新的龙辉护符！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1597125600"></span>起，&ldquo;龙辉护符交换所&rdquo;的列表中已追加新的龙辉护符。</div><div><br></div><div>可点击&ldquo;龙辉护符交换所&rdquo;中的&ldquo;特选&rdquo;及各稀有度标签页面交换追加的新龙辉护符。</div><div><br></div><div><strong>【新龙辉护符介绍】</strong></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/b6790719064d0bdbcc3f0e2567b6f7022.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">夏末回忆</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28cbbe44c3b9fd009706ad48a7e4e0f52.png"></span><span>麻痹特效＋20%&nbsp;(Max25%)</span></dt><dd><div>对进入“麻痹”状态的敌人造成的伤害提升20%。&nbsp;(Max25%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8b711601d852df98c761a8d4dbee785a2.png"></span><span>昏迷特效＋20%&nbsp;(Max25%)</span></dt><dd><div>对进入“昏迷”状态的敌人造成的伤害提升20%。&nbsp;(Max25%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/dff441c5a3615abec4110f5fc739aca02.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">假日激情</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能伤害＋20%&nbsp;(Max40%)</span></dt><dd><div>攻击技能造成的伤害提升20%。&nbsp;(Max40%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>【短剑】暴击率＋12%&nbsp;(Max15%)</span></dt><dd><div>装备角色的武器种类为短剑时，<br>暴击率提升12%。&nbsp;(Max15%)</div></dd></dl></div></div></div><div><br></div><div>※最大上限解锁时的数值，并非获得时的数值。</div><div><br></div><div>【特选期间】</div><div><span class="local_date" data-local_date="1597125600"></span> ～ <span class="local_date" data-local_date="1597730399"></span></div><div><br></div><div><span style="color: rgb(184, 49, 47);">※特选期间结束后，仍可在各稀有度标签页面交换本次追加的龙辉护符。</span></div><div><br></div><div>【注意事项】</div><div>本公告以外的信息可进入商店中的&ldquo;龙辉护符交换所&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1597125600; update_time1596781562

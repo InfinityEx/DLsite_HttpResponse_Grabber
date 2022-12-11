@@ -1,0 +1,8 @@
+article_id:1644
+category_name:公告
+title_name:GAME LIVE JAPAN 2020《Dragalia Lost ～失落的龙约～》直播礼物发放
+image_path:
+
+message:<div>感谢各位玩家观看由拥有游戏媒体&ldquo;Fami通&rdquo;和&ldquo;电击游戏&rdquo;的KADOKAWA Game Linkage举办的游戏信息节目&ldquo;GAME LIVE JAPAN 2020&rdquo;中的《Dragalia Lost ～失落的龙约～》直播节目。</div><div>为庆祝节目中达成&ldquo;阿尔贝里亚大逃杀&rdquo;目标，我们已向<span class="local_date" data-local_date="1601200800"></span>前开始游戏的玩家发放以下礼物！</div><div><br></div><div>■礼物内容</div><div>&middot;金刚原石&times;5</div><div>&middot;召唤券&times;3</div><div><br></div><div>■注意事项</div><div>领取期限为发送至礼物箱后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1601200800; update_time1601199291

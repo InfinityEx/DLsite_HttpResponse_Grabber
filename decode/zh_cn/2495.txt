@@ -1,0 +1,198 @@
+article_id:2495
+category_name:公告
+title_name:“Fes限定Ver.”★5角色确定！“白金传说召唤”即将开放！
+image_path:
+
+message:<div>&ldquo;白金传说召唤&rdquo;预计将于<span class="local_date" data-local_date="1632722400"></span>开放。</div><div><br></div><div>本次白金传说召唤中&ldquo;10连召唤&rdquo;的第10位确定为&ldquo;Fes限定Ver.&rdquo;★5角色，召唤开放时所有曾在&ldquo;Dragalia Fes&rdquo;中出现过的&ldquo;Fes限定Ver.&rdquo;角色均可能出现。</div><div>本召唤期间最多可进行5次&ldquo;10连召唤&rdquo;。</div><div>另外，本召唤仅限使用龙钻。</div><div><br></div><div>【白金传说召唤期间】</div><div><span class="local_date" data-local_date="1632722400"></span> ～ <span class="local_date" data-local_date="1634536799"></span></div><div><br></div><div>&ldquo;白金传说召唤&rdquo;第10位确定出现的部分★5角色详情如下：</div><div><br></div><div>【第10位确定对象★5角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/536dd1cdaf6017d169efedf114766556.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>760</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>499</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>觉醒了精灵真正力量的纳姆。<br>体内隐藏的力量得到解放，<br>还可以改变身体的大小。<br>她不再是被人保护的精灵，<br>而是要为保护朋友而踏上战场。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e85e2d5f87af2b9a484d50eb16f8480c2.png"></span>
+				<span>精灵的惩罚</span>
+			</dt>
+			<dd><div>【通常状态时】<br>对目标和目标周围的敌人造成伤害，<br>解除其1个增益效果。<br>连击数不低于20时使用技能<br>可提升自身羽化槽。<br>【羽化时】<br>对周围的敌人造成伤害，<br>使其进入“裂风”状态。</div><div class="skill-detail">威力：107 × 16 Hit<br>所需SP：2,620<br>特殊效果<br>·增益解除<br>特殊龙化槽回复量：80<br><br>（特殊龙化时）<br>威力：532 × 5 Hit<br>特殊效果<br>·裂风<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f966791f17e374d3ea12252d10ee6c462.png"></span>
+				<span>精灵的幻风</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>【通常状态时】<br>对周围的敌人造成伤害，<br>解除其1个增益效果。<br>此攻击可在一段时间内追踪目标。<br>连击数不低于20时使用技能<br>可提升自身羽化槽。<br>【羽化时】<br>对周围的敌人造成伤害，<br>并对直线上的敌人造成伤害。</div><div class="skill-detail">威力：82 × 30 Hit<br>所需SP：5,240<br>所需共享SP：8,279<br>特殊效果<br>·增益解除<br>特殊龙化槽回复量: 150<br><br>（特殊龙化时）<br>威力：700 × 2 Hit<br>威力：1,092 × 1 Hit</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>暴击率＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队暴击率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span>
+				<span>【风】连击：连击时龙化充能Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为风时，<br>每50次连击龙化槽提升3%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6520d144b623d2b7b6131329914ae1a62.png"></span><span>羽化秘术Ⅱ</span></dt><dd><div>以特殊的“羽化”代替普通龙化。<br>羽化效果如下：<br>·龙化槽变为羽化槽。<br>·羽化槽达到一定量后点击按钮一律变为羽化形态。<br>·再次点击按钮或羽化槽耗尽后解除羽化形态。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/857a2a2fdbc31b188c91fbd6f6eca6b32.png"></span><span>精灵庇佑Ⅱ</span></dt><dd><div>进入“冰冻”、“湿身”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾风怒涛·攻＋20%</span></dt><dd><div>连击达到15次以上时攻击力提升20%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/15b9e2380f2320376ab01abea1df427f.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>743</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>重获机身的马斯古拉。<br>经过维修的机身可经由莱姬希内部的<br>思考回路“心”来进行远程操控。<br>他虽已决定凭借自己独有的力量战斗，<br>却常在战斗后流下眼泪般的液体。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e4c4b6c2cda86984ab5b0997b4b26db62.png"></span>
+				<span>code: 03 功率提升</span>
+			</dt>
+			<dd><div>自身获得【反应动作无效】和【护盾】。<br>自身拥有【功率全开】时，此技能变为<br>“code: 08 执行指令”，效果如下：<br>自身获得【反应动作无效】、【护盾】和【效能转换】。<br>【效能转换】效果期间强化普通攻击，<br>攻击命中次数提升。</div><div class="skill-detail">所需SP：3,840<br>特殊效果<br>·反应动作无效<br>　效果时间：15 秒<br>·护盾<br>　效果次数：1<br>　效果量：HP最大值的30%<br><br>（变化后）<br>所需SP：3,840<br>特殊效果<br>·反应动作无效<br>　效果时间：15 秒<br>·护盾<br>　效果次数：1<br>　效果量：HP最大值的30%<br>·效能转换<br>　效果时间：11 秒<br>　不可叠加<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e6227bb278c077fe5ca2ed4db4bd6ce42.png"></span>
+				<span>code: 36 冷却循环</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>自身获得【功率全开】。<br>自身拥有【功率全开】时，此技能变为<br>“code: 06 终结方案”，效果如下：<br>对周围的敌人造成伤害，<br>解除其1个增益效果。</div><div class="skill-detail">所需SP：5,570<br>特殊效果<br>·功率全开<br>　效果时间：26 秒<br><br>（变化后）<br>威力：489 × 6 Hit<br>所需SP：2,830<br>所需共享SP：16,668<br>特殊效果<br>·增益解除<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻击力＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队攻击力提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span>
+				<span>【水】连击：连击时增益技能持续时间＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为水<br>且连击达到10次以上时，<br>角色使用的增益技能持续时间提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>加速器Ⅱ</span></dt><dd><div>①每次使用技能1时，<br>自身获得攻击力提升的战意（士气上限Lv3）。<br>此效果发动后20秒内不会再次发动。<br>②拥有【功率全开】时获得以下效果：<br>·强化普通攻击，攻击时可对多个敌人进行追击。<br>·赋予第4段普通攻击【解除敌人1个增益的效果】。<br>·攻击速度提升6%。<br>·连击数不低于30时，攻击力提升10%，<br>暴击率提升8%，暴击伤害倍率提升8%。<br>·龙化时解除【功率全开】。<br>③【功率全开】解除时技能2充能50%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f3503b7c11dab7e6111611cb63f010c32.png"></span><span>魔动机关Ⅱ</span></dt><dd><div>进入“烧伤”、“昏迷”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5928d08635cbad73278c1391505a73392.png"></span><span>暴击驱动Ⅱ</span></dt><dd><div>每15次连击发动【暴击率提升4%的增益】，<br>最多可叠加至3层。<br>每次暴击可获得<br>【暴击伤害倍率提升4%的增益】，<br>最多可叠加至10层。<br>此效果发动后1秒内不会再次发动。<br>连击数重置时解除此能力提供的所有增益。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>【注意事项】</div><div>1. &ldquo;白金传说召唤&rdquo;详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;白金传说召唤&rdquo;，查看&ldquo;出现概率&rdquo;或&ldquo;召唤信息&rdquo;中的&ldquo;详情&rdquo;。</div><div>2. &ldquo;白金传说召唤&rdquo;中无法获得&ldquo;龙辉之印&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1632636000; update_time1631850515

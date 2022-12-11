@@ -1,0 +1,8 @@
+article_id:2741
+category_name:公告
+title_name:关于“华丽迷宫”中提示出错导致无法“继续”的异常现象
+image_path:
+
+message:<div>目前已确认因以下情况返回主界面后&ldquo;华丽迷宫&rdquo;中出现了选择&ldquo;继续&rdquo;时提示出错导致无法继续挑战的异常现象。</div><div><br></div><div>&middot;挑战50F过程中游戏内日期有所变更，日期变更后击败BOSS。</div><div>&middot;挑战任意层数过程中游戏内日期有所变更，日期变更后&ldquo;返程&rdquo;。</div><div><br></div><div>如出现本现象，可通过以下方法获得通关50F或&ldquo;返程&rdquo;应得的报酬。</div><div>1. 点击&ldquo;继续&rdquo;。</div><div>2. 点击&ldquo;取消&rdquo;。</div><div>3. 点击&ldquo;返程&rdquo;。</div><div><br></div><div>我们正在调查本异常现象的原因。</div><div>最新进展将第一时间更新在本公告中。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1640686800; update_time1641354050

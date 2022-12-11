@@ -1,0 +1,8 @@
+article_id:2031
+category_name:活动
+title_name:活动“防卫战～矛盾之心·人偶之战～”预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/686f5bc6ed5375a29dd5046a2e8b268a.png
+
+message:<div>活动&ldquo;防卫战～矛盾之心&middot;人偶之战～&rdquo;预计将于<span class="local_date" data-local_date="1615442400"></span>开始。</div><div>&ldquo;防卫战～矛盾之心&middot;人偶之战～&rdquo;是抵御袭来的众多敌人守卫据点的期间限定活动。</div><div>本活动中可获得用于解锁共享技能的道具，敬请参与！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/686f5bc6ed5375a29dd5046a2e8b268a.png"></div><div><br></div><div>机械神兵――</div><div>继承了古代人类夺回世界的意愿，</div><div>由机械士兵们所组成的军团。</div><div>千年的漫长岁月中，</div><div>受使命驱使的人偶们被无尽的战斗所侵蚀。</div><div>当其中两位个体与那拥有双&ldquo;心&rdquo;的人偶相遇，</div><div>人偶们命运的齿轮将开始转动&hellip;&hellip;</div><div><br></div><div>■注意事项</div><div>1. 参加活动任务需通关主线剧情第2章2-1(Normal)。</div><div>2. 参加多人模式需通关主线剧情第2章2-1(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div>
+
+start_time:1615269600; update_time1615170961

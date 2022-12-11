@@ -1,0 +1,200 @@
+article_id:2442
+category_name:公告
+title_name:“附奖传说召唤”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1630648800"></span>起，&ldquo;附奖传说召唤&rdquo;开放！</div><div>&ldquo;附奖传说召唤&rdquo;中，特选对象角色的出现概率提升。</div><div><br></div><div>进行&ldquo;附奖传说召唤&rdquo;可在获得角色&middot;龙的同时获得&ldquo;附奖&rdquo;。</div><div>附奖有白金奖、金奖、银奖、铜奖、5等、6等共计6种。</div><div>&ldquo;10连召唤&rdquo;第10次的附奖必为白金奖、金奖、银奖、铜奖其中之一。</div><div><span style="color: rgb(226, 80, 65);">获得的附奖可在礼物箱的&ldquo;无期限&rdquo;中领取。</span></div><div><br></div><div>※同时使用10张召唤券不等同于进行&ldquo;10连召唤&rdquo;，不确保第10次附奖必为白金奖、金奖、银奖、铜奖其中之一。</div><div>※附奖一览和出现概率可在&ldquo;附奖传说召唤&rdquo;开放期间点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;并在&ldquo;出现概率&rdquo;的&ldquo;附奖&rdquo;中查看。</div><div><br></div><div>【新登场的特选对象角色】</div><div>■角色</div><div>★5 赛希尔：风/铳（机关铳模式）</div><div>★5 利弗（轻装Ver.）：光/剑</div><div><br></div><div>【附奖传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1630648800"></span> ～ <span class="local_date" data-local_date="1631512799"></span></div><div><br></div><div>新登场的特选对象角色详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/513fd5cdcf2545a6adf8c14ce45b4213.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>755</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>504</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,499</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>可使用模式</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/4805e47916f093eb2b9049cff29e9eb72.png"><img src="https://dragalialost.akamaized.net/attached/information/images/d45c68ecb3b1d88cba2136c949f214772.png"><img src="https://dragalialost.akamaized.net/attached/information/images/1f0f10277cfc223cafe9e19e2d15434d2.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>曾侍奉阿尔贝里亚王国的骑士。<br>当年是忠心耿耿、对理想满腔热情的精英，<br>但因在战乱中受挫而舍弃了骑士道，<br>从此性格大变。如今在北方大陆<br>一边当佣兵一边过着颓废的生活。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/940e9aacd341deac57d6173b696dd1882.png"></span>
+				<span>啃啃魔养石</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>【通常状态时】<br>自身亢奋槽充能50%。<br>【亢奋模式时】<br>技能变为“枪林弹雨”，效果如下：<br>对目标和目标周围的敌人造成伤害，<br>使其进入“裂风”状态。</div><div class="skill-detail">所需SP：6,200<br><br>（变化后）<br>威力：73 × 30 Hit<br>所需SP：6,200<br>所需共享SP：8,494<br>特殊效果<br>·裂风<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/940e9aacd341deac57d6173b696dd1882.png"></span>
+				<span>嚼嚼魔养石</span>
+			</dt>
+			<dd><div>【通常状态时】<br>自身亢奋槽充能50%。<br>【亢奋模式时】<br>技能变为“毒弹连珠”，效果如下：<br>对前方的敌人造成伤害，<br>使其进入“中毒”状态。<br>自身获得攻击力提升的战意。</div><div class="skill-detail">所需SP：6,200<br><br>（变化后）<br>威力：115 × 10 Hit<br>威力：987 × 1 Hit<br>所需SP：6,200<br>特殊效果<br>·中毒<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：43.6<br>获得战意<br>·攻击力提升（士气上限Lv 2）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>怒气槽减少量＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队怒气槽减少量提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>【风】裂风：裂风触发·水抗＋8%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为风<br>且使敌人进入裂风状态时获得<br>【15秒内水属性抗性提升8%的增益】。<br>此效果发动后10秒内不会再次发动。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ab22e8f809167c972febcf9f85c1079e2.png"></span><span>魔养石之力Ⅱ</span></dt><dd><div>追加亢奋槽。亢奋槽效果如下：<br>①龙化解除时亢奋槽充能50%。<br>②亢奋槽满后发动亢奋模式。<br>亢奋模式中亢奋槽随时间经过减少，<br>期间获得以下效果：<br>·防御力提升20%。<br>·技能伤害提升10%。<br>·技能槽上升率提升8%。<br>·强化爆发攻击。<br>威力提升，爆发攻击期间<br>如受到可用技能规避的攻击<br>则自动回避攻击并使自身亢奋槽充能10%。<br>·亢奋槽变为0后解除亢奋模式。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span><span>湿身抗性＋100%</span></dt><dd><div>进入“湿身”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>技能充能·回避Ⅱ</span></dt><dd><div>回避敌人攻击时，<br>自身技能1和技能2充能20%。<br>此效果发动后15秒内不会再次发动。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/37a09aa2ed09d205f4bcd21f2587c675.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>为隐藏白燕骑士团团长的身份<br>而身着便装的利弗。即使卸下盔甲，<br>剑术和忠心依旧。为了实现<br>给阿尔贝里亚带来和平的理想，<br>甘当君主之剑东奔西走。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>英勇白燕</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>对前方的敌人造成伤害，<br>使其获得【属性攻击力下降】效果并进入“麻痹”状态。</div><div class="skill-detail">威力：1,783 × 1 Hit<br>所需SP：3,150<br>所需共享SP：7,654<br>特殊效果<br>·属性攻击力下降10%<br>　效果时间：10 秒<br>　不可叠加<br>·麻痹<br>　效果时间：13 秒<br>　效果间隔：3.9 秒<br>　威力：97<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd5464d0aeb6d41964c19ee25f922b922.png"></span>
+				<span>制约斩击</span>
+			</dt>
+			<dd><div>对前方的敌人造成伤害，<br>使其获得【光属性抗性下降】效果。<br>自身获得攻击力提升的战意。</div><div class="skill-detail">威力：437 × 3 Hit<br>威力：817 × 1 Hit<br>所需SP：6,880<br>特殊效果<br>·光属性抗性下降5%<br>　效果时间：10 秒<br>　不可叠加<br>获得战意<br>·攻击力提升（士气上限Lv 2）<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龙化增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化槽上升率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span>
+				<span>【光】背水：危机时·护盾Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为光<br>且HP在40%以下时获得<br>【使HP最大值50%以下的伤害无效的护盾】。<br>护盾仅生效1次，且不可与同种护盾叠加。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b067970c0dc4794d8ad1ad07f3bd61ae2.png"></span><span>正义之誓Ⅱ</span></dt><dd><div>爆发攻击发生变化：<br>爆发攻击变为2段攻击，<br>第2段攻击可使命中的敌人进入“裂伤”状态。<br>爆发攻击蓄力和攻击期间受到攻击不会被击退。<br>爆发攻击造成的伤害提升20%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>中毒抗性＋100%</span></dt><dd><div>进入“中毒”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/83bd9c8302b087a508daec2a8fc9b2cf2.png"></span><span>减益技能时间＋20%</span></dt><dd><div>减益技能持续时间提升20%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 附奖一览和出现概率可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;出现概率&rdquo;，查看&ldquo;附奖&rdquo;。</div><div>3. 进行&ldquo;10连召唤&rdquo;或同时使用10张召唤券获得的道具重复时，同种道具将统一发送至礼物箱的&ldquo;无期限&rdquo;中。</div><div>4. 特选对象角色在&ldquo;阿尔贝里亚大逃杀&rdquo;中解锁可变更外观的&ldquo;角色皮肤&rdquo;所需道具数量将有所减少。</div><div>※部分角色无法解锁角色皮肤。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1630648800; update_time1631260878

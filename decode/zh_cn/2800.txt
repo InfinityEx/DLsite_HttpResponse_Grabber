@@ -1,0 +1,8 @@
+article_id:2800
+category_name:公告
+title_name:关于强者的试炼特别目标的异常现象
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1643619600"></span>追记】</strong></span><br><span class="local_date" data-local_date="1643176800"></span>左右出现的异常现象目前已得到解决。<br><br>我们预计将在日后的维护中回收错误的别名并发放正确的别名。<br><br>对于给各位玩家造成的困扰和不便，我们再次深表歉意。<br><br></div><hr><div>目前已确认期间限定目标的&ldquo;强者的试炼特别目标&rdquo;中出现了达成以下对象目标所获得的报酬别名有误的异常现象。</div><div><br></div><div>▼对象目标</div><div>通过&ldquo;神威的试炼 超级&rdquo;吧</div><div>通过&ldquo;普鲁托的试炼 超级&rdquo;吧</div><div>通过&ldquo;玛斯的试炼 超级&rdquo;吧</div><div><br></div><div>关于本异常现象的最新进展将第一时间更新在本公告中。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1643191200; update_time1643768098

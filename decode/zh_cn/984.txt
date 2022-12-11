@@ -1,0 +1,8 @@
+article_id:984
+category_name:活动
+title_name:【复刻】“新春初曦招福开运”活动预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/c6d0a492a5bc797aee744f7f94feb5c7.png
+
+message:<div>团队活动【复刻】&ldquo;新春初曦招福开运&rdquo;预计将于<span class="local_date" data-local_date="1577340000"></span>开始。<br>本活动可在多人模式下挑战光属性的团队战BOSS。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/c6d0a492a5bc797aee744f7f94feb5c7.png"></div><div>临近新年的圣城迎来了东方客人&mdash;&mdash;<br>前来&ldquo;新年送福&rdquo;的日出之国武士一行。<br>更有一路追来的薙刀女孩处处阻挠，令圣城陷入骚乱！？<br>王子等人能否平安迎来新年？<br><br><br>■注意事项<br>1. 参加活动任务需通关主线剧情第2章2-1(Normal)。<br>2. 参加多人模式需通关主线剧情第2章2-1(Normal)。<br><br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1577253600; update_time1577265816

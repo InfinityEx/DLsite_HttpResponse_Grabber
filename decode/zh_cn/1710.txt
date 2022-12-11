@@ -1,0 +1,8 @@
+article_id:1710
+category_name:公告
+title_name:主线剧情追加第16章《新的牵绊与前路》＆追加可用“龙玉”进行上限解锁的龙！
+image_path:https://dragalialost.akamaized.net/attached/information/images/75e5710e01d27472ce83fc5ca7b5db22.png
+
+message:<div><span class="local_date" data-local_date="1603346400"></span>起，主线剧情已追加第16章《新的牵绊与前路》！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/75e5710e01d27472ce83fc5ca7b5db22.png"></div><div><br></div><div>正当王子一行人前往巴尔加海姆之际，阿尔贝里亚却陷入了危机。</div><div>谣言与纷乱四起，龙也开始作乱，而拯救一行人于危难的关键</div><div>在于迷茫的圣骑士以及高傲的王室长子&hellip;&hellip;人与龙的故事将迎来新的篇章。</div><div><br></div><div>敬请关注最新的主线剧情！</div><div><br></div><div>另外，<span class="local_date" data-local_date="1603346400"></span>起，已追加可用&ldquo;龙玉&rdquo;进行上限解锁的龙。</div><div>本次追加的可用&ldquo;龙玉&rdquo;进行上限解锁的龙如下：</div><div>&middot;木花开耶</div><div>&middot;思摩夫</div><div>&middot;帕祖祖</div><div>&middot;雷牙</div><div>&middot;忍</div><div><br></div><div>■注意事项</div><div>1.主线剧情第16章《新的牵绊与前路》可在通关第15章 4-8&ldquo;战胜黑暗&rdquo;后解锁。</div><div>2.点击主线剧情各章区域地图中显示的&ldquo;龙玉&rdquo;图标可查看可获得的&ldquo;龙玉&rdquo;种类、持有的龙玉数量、剩余可获得次数及可获得&ldquo;龙玉&rdquo;的任务。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1603346400; update_time1603077288

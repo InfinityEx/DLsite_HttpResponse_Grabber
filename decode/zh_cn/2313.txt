@@ -1,0 +1,8 @@
+article_id:2313
+category_name:活动
+title_name:设施活动【复刻】“舞动夏日☆盂兰盆舞”预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/a16ba5ebd56b219ec16017171a1168b6.png
+
+message:<div>设施活动【复刻】&ldquo;舞动夏日☆盂兰盆舞&rdquo;预计将于<span class="local_date" data-local_date="1626328800"></span>开始。<br>本活动可挑战火属性的BOSS，获得活动限定的报酬设施。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a16ba5ebd56b219ec16017171a1168b6.png"></div><div>■活动期间<br><span class="local_date" data-local_date="1626328800"></span> ～ <span class="local_date" data-local_date="1627538399"></span><br><br>■注意事项<br>1. 参加活动任务需通关主线剧情第2章 2-1(Normal)。<br>2. 参加多人模式需通关主线剧情第2章 2-1(Normal)。<br><br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1626069600; update_time1625625321

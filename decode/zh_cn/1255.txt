@@ -1,0 +1,8 @@
+article_id:1255
+category_name:活动
+title_name:“谢希耶尔叛乱战”将在“阿基德叛乱战”中登场！
+image_path:https://dragalialost.akamaized.net/attached/information/images/61e9593acabb1a03142e4373f8b3a458.png
+
+message:<div><span class="local_date" data-local_date="1588053600"></span>起，&ldquo;谢希耶尔叛乱战&rdquo;将在迎战新势力强敌的高难度任务&ldquo;阿基德叛乱战&rdquo;中登场！</div><div>同时将追加可用讨伐&ldquo;谢希耶尔&rdquo;获得的稀有素材制作的稀有度&ldquo;★6&rdquo;武器！</div><div><br></div><div>阿基德对不公的现实感到绝望。</div><div>阿基德对陈腐的欺骗感到绝望。</div><div>阿基德对虚伪的救赎感到绝望。</div><div>阿基德发出充满怜悯与轻蔑的嘲笑，</div><div>将宣扬虚伪正义的愚者打入绝望的深渊。</div><div>那绝望冷笑的双翼名为&mdash;&mdash;&ldquo;谢希耶尔&rdquo;。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/61e9593acabb1a03142e4373f8b3a458.png"></div><div>谢希耶尔（水） 需要战力：22,000</div><div><br></div><div>■追加&ldquo;阿基德系列&rdquo;武器</div><div><span class="local_date" data-local_date="1588053600"></span>起，&ldquo;制作&rdquo;中将追加强力的&ldquo;阿基德系列&rdquo;★6武器。</div><div>使用打倒&ldquo;谢希耶尔&rdquo;所获得的素材，可制作每次使用技能后技能效果均会变化的风属性武器。</div><div><br></div><div>获得过特定武器即可解锁用讨伐&ldquo;谢希耶尔&rdquo;获得的素材进行的武器制作。</div><div>解锁所需武器为可用讨伐&ldquo;虚空之影讨伐战&rdquo;的&ldquo;风暴奇美拉&rdquo;获得的素材制作的风属性★5Ⅱ阶武器。</div><div><br></div><div>解锁所需武器根据武器种类而有所不同，详情可点击&ldquo;制作&rdquo;页面的&ldquo;制造&rdquo;中显示的&ldquo;谢希耶尔&rdquo;各武器的&ldquo;素材确认&rdquo;查看。</div><div><br></div><div>※&ldquo;阿基德系列&rdquo;武器无法进行分解。</div><div>※今后预计将追加&ldquo;谢希耶尔叛乱战&rdquo;的各难度和&ldquo;阿基德系列&rdquo;Ⅱ阶及以上的武器。</div><div><br></div><div>【注意事项】</div><div>参加&ldquo;阿基德叛乱战&rdquo;需通关主线剧情第10章 6-3(Normal)并通过任意真龙之试炼的中级难度。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div>
+
+start_time:1587621600; update_time1587451275

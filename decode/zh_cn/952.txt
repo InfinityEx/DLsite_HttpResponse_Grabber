@@ -1,0 +1,214 @@
+article_id:952
+category_name:公告
+title_name:传说召唤“猫鼠大战闹新春 特选”即将开放！
+image_path:
+
+message:<div>传说召唤&ldquo;猫鼠大战闹新春 特选&rdquo;预计将于<span class="local_date" data-local_date="1577772000"></span>开放。</div><div><br></div><div>期间限定的角色&middot;龙将在传说召唤中登场。</div><div>曾在传说召唤&ldquo;招亥进福的胜利拂晓&rdquo;中登场的期间限定角色&middot;龙也将再次登场。</div><div>另外，特选对象角色&middot;龙的出现概率将提升。</div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1577772000"></span> ～ <span class="local_date" data-local_date="1578981540"></span></div><div><br></div><div>部分新登场的期间限定特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/fa3811cb0500f45c2b75f9e12805c6b2.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>763</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>497</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>统治东方岛国日出之国的十二龙氏之一，<br>子之龙氏。生性怕麻烦，<br>与大黑天缔结了契约。一有空就睡觉，<br>没空也会睡觉，睡觉就是一切。<br>是个我行我素的公主。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/59379722d1069610bbd6dca3b98022c12.png"></span>
+				<span>鼠之天诛</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成光属性伤害，使其进入“麻痹”状态。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>小菜一碟</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人造成光属性伤害。<br>10秒内自身攻击速度提升10%。<br>此技能伤害随连击数（最大30连击）提升。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>暴击率＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队暴击率提升10%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾风怒涛·攻＋20%</span></dt><dd><div>连击达到15次以上时攻击力提升20%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>诅咒抗性＋100%</span></dt><dd><div>进入“诅咒”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28cbbe44c3b9fd009706ad48a7e4e0f52.png"></span><span>麻痹特效＋30%</span></dt><dd><div>对进入“麻痹”状态的敌人造成的伤害提升30%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f578603a4ad7b92e87ed5b9b9e1c9f33.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>740</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>520</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>统治东方岛国日出之国的十二龙氏之一，<br>午之龙氏。梦想成为大将军的要强少女。<br>勇往直前不被他人左右，<br>挥刀斩向一切挡在其梦想之路上的人！<br>目标是一统天下！</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8546c399dccb9849710f6e84b0dc69352.png"></span>
+				<span>梦想进击</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成火属性伤害，<br>使其获得【野心炽火】。<br>【野心炽火】解除时可对其造成火属性伤害。<br>【野心炽火】不可叠加且无法被覆盖。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd5464d0aeb6d41964c19ee25f922b922.png"></span>
+				<span>天霸一闪</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成火属性伤害，<br>解除其1个增益效果。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻击力＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队攻击力提升10%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾风怒涛·攻＋20%</span></dt><dd><div>连击达到15次以上时攻击力提升20%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠抗性＋100%</span></dt><dd><div>进入“睡眠”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/874ebb8540cc62459ecedc47628161162.png"></span><span>下天之梦Ⅱ</span></dt><dd><div>连击达到15次以上时，<br>赋予爆发攻击【解除敌人1个增益的效果】。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>【特选龙介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/364f1ae556dc91bdf471807b324ca74a.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>日出之国的诸龙之长·天照<br>麾下的十二龙之一，“子”之龙。<br>为吉祥之龙，据说仅向人微笑<br>便会为其带来好运。样貌十分随和，<br>性格恬静优雅，爱吃软软的年糕。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>开运！金锤敲击</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成光属性伤害，<br>10秒内在地面设置【攻击速度增益区域】。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻击力＋55%</span></dt><dd><div>装备角色属性为光时，<br>角色的攻击力提升55%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】疾风怒涛·攻＋25%</span></dt><dd><div>装备角色属性为光时，<br>连击达到15次以上攻击力提升25%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div>
+
+start_time:1577685600; update_time1577268748

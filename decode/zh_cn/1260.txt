@@ -1,0 +1,8 @@
+article_id:1260
+category_name:公告
+title_name:关于部分任务初次过关报酬的异常现象
+image_path:
+
+message:<div><span class="local_date" data-local_date="1587362400"></span>起追加的主线剧情第13章 4-2(Normal)出现了初次过关报酬&ldquo;伟大轻羽&rdquo;的可获得数量显示为0导致无法获得的异常现象。</div><div><br></div><div>本异常现象已于<span class="local_date" data-local_date="1587708000"></span>左右进行的数据更新中得到修正。</div><div><br></div><div>修正前：伟大轻羽&times;0</div><div>修正后：伟大轻羽&times;3</div><div><br></div><div>我们将依次向对象玩家发放未能获得的素材道具作为补偿。</div><div><br></div><div>■对象期间</div><div><span class="local_date" data-local_date="1587362400"></span> ～ <span class="local_date" data-local_date="1587708000"></span></div><div><br></div><div>■对象玩家</div><div>对象期间通关主线剧情13章 4-2(Normal)却未能获得初次过关报酬的玩家</div><div><br></div><div>■补偿内容</div><div>伟大轻羽&times;3</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1587708000; update_time1587702364

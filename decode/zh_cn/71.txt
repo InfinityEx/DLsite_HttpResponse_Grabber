@@ -1,0 +1,8 @@
+article_id:71
+category_name:公告
+title_name:关于部分技能的攻击范围调整【追记】
+image_path:
+
+message:<div>目前已确认当前活动&quot;心地善良的少女与被困的守护龙&quot;中出现了部分技能无法命中团队战BOSS&quot;修普诺斯&quot;的异常现象。</div><div>因本异常现象对团队活动影响较大，我们已对部分技能的攻击范围作出调整。</div><div><br></div><div>本次调整后，角色技能可正常命中相较于角色更高的敌人。</div><div>受本次调整影响的技能如下：</div><div><br></div><div>■受影响角色及技能</div><div>&middot;角色&quot;艾蕾欧诺拉&quot;的技能1&quot;蝰蛇之箭&quot;</div><div>&middot;角色&quot;卢卡&quot; 的技能1&quot;闪光之箭&quot;</div><div>&middot;角色&quot;乌尔嘉&quot; 的技能2&quot;夺命闪电&quot;</div><div>&middot;角色&quot;威克&quot; 的技能2&quot;溅射之箭&quot;</div><div>&middot;武器&quot;天雷弓&quot;技能&quot;天雷破&quot;</div><div>&middot;武器&quot;加速齿轮弓&quot;技能&quot;加速破坏&quot;</div><div><br></div><div>因未发布公告作出上述调整，我们将向<span class="local_date" data-local_date="1540965600"></span>前开始游戏的玩家发送以下道具作为补偿。</div><div><br></div><div>○补偿内容</div><div>&middot;龙辉晶 300个</div><div>※玩家可在&quot;礼物箱&quot;领取。</div><div><br></div><div>本次调整的最新进展将第一时间更新在本公告中。</div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1540971000"></span>　追记</strong></span><br>补偿已发放完毕。<br>本次补偿可在<span class="local_date" data-local_date="1541570399"></span>前登录游戏领取。<br>领取期限为龙辉晶发送至礼物箱后7天内。<br><br>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1540966800; update_time1542364063

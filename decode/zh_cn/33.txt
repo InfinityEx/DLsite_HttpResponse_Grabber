@@ -1,0 +1,8 @@
+article_id:33
+category_name:公告
+title_name:关于多人模式中打倒BOSS时无法获得宝箱报酬的异常现象
+image_path:
+
+message:<div>目前已确认多人模式中出现了打倒BOSS时无法获得宝箱报酬的异常现象。</div><div><br></div><div>将游戏更新至预计于近期发布的版本&quot;Ver.1.0.6&quot;后，即便打倒BOSS时未显示宝箱，结算页面也将正常显示获得的报酬。</div><div>另外，上述异常现象将在今后的版本中进行修正。</div><div><br></div><div>对于未及时处理本异常现象给各位玩家造成的困扰和不便，我们深表歉意。</div><div>我们将向<span class="local_date" data-local_date="1539605700"></span>前开始游戏的玩家依次发放以下道具作为补偿。</div><div><br></div><div>&middot;高级蜂蜜 5个</div><div>&middot;灵鸟的圣灰5个</div><div>&middot;跳过券 6张</div><div><br></div><div>玩家可在&quot;礼物箱&quot;领取补偿。</div><div>本次补偿的领取期限为<span class="local_date" data-local_date="1540210500"></span>。</div><div><span style="color: rgb(184, 49, 47);">※如跳过券持有数已达上限30张，领取时获得的跳过券将作废。</span></div><div><br></div><div>本异常现象的最新进展将第一时间更新在本公告中。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1539605700; update_time1539606958

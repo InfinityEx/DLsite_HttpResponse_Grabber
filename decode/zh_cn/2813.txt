@@ -1,0 +1,243 @@
+article_id:2813
+category_name:公告
+title_name:“附奖传说召唤”即将开放！
+image_path:
+
+message:<div>&ldquo;附奖传说召唤&rdquo;预计将于<span class="local_date" data-local_date="1643954400"></span>开放。</div><div>&ldquo;附奖传说召唤&rdquo;中，特选对象角色&middot;龙的出现概率将提升。</div><div><br></div><div>进行&ldquo;附奖传说召唤&rdquo;可在获得角色&middot;龙的同时获得&ldquo;附奖&rdquo;。</div><div>附奖有白金奖、金奖、银奖、铜奖、5等、6等共计6种。</div><div>&ldquo;10连召唤&rdquo;第10次的附奖必为白金奖、金奖、银奖、铜奖其中之一。</div><div><span style="color: rgb(226, 80, 65);">获得的附奖可在礼物箱的&ldquo;无期限&rdquo;中领取。</span></div><div><br></div><div>※同时使用10张召唤券不等同于进行&ldquo;10连召唤&rdquo;，不确保第10次附奖必为白金奖、金奖、银奖、铜奖其中之一。</div><div>※附奖一览和出现概率可在&ldquo;附奖传说召唤&rdquo;开放期间点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;并在&ldquo;出现概率&rdquo;的&ldquo;附奖&rdquo;中查看。</div><div><br></div><div>【新登场的特选对象角色&middot;龙】</div><div>■角色</div><div>★5 巴尔库斯：光/斧</div><div>★5 法尔艾斯：风/枪</div><div><br></div><div>■龙</div><div>★5 米迦勒：风</div><div><br></div><div>【附奖传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1643954400"></span> ～ <span class="local_date" data-local_date="1644818399"></span></div><div><br></div><div>部分附奖详情如下：</div><div><br></div><div>【部分附奖内容】</div><div>■白金奖</div><div>白金奖可根据出现概率获得以下道具中的1种。</div><div>&middot;金刚晶 1个</div><div>&middot;大马士革钢 1个</div><div>&middot;精金 1个</div><div><br></div><div>■金奖</div><div>金奖可根据出现概率获得以下道具中的1种。</div><div>&middot;金刚原石 3个</div><div>&middot;英雄之证 2个</div><div>&middot;梦幻之圣匙 2个</div><div>&middot;星之砂 7个</div><div><br></div><div>■银奖</div><div>银奖可根据出现概率获得以下道具中的1种。</div><div>&middot;英雄之证 1个</div><div>&middot;金刚原石 1个</div><div>&middot;星之砂 3个</div><div>&middot;大马士革晶体 2个</div><div>&middot;月光晶 2个</div><div>&middot;骑士之证 2个</div><div>&middot;真辉龙之尾 3个</div><div>&middot;真碧龙之尾 3个</div><div>&middot;辉龙的勇敢之星 5个</div><div>&middot;碧龙的勇敢之星 5个</div><div>&middot;彩虹之珠 3个</div><div>&middot;金磷光之珠 5个</div><div>&middot;翡翠岚之珠 5个</div><div><br></div><div>新登场的特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/31e4155a9d69e7c2f41c12ea246bc254.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>747</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>515</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,502</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>阿尔贝里亚王国的第四王子。<br>领兵作战的将领，以善战闻名。<br>沉默寡言但性格耿直，心系国家百姓。<br>因某些原因曾任帝国将军，<br>目前则为守护世界而加入圣城势力。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd866680ac298f733f360d10f435a23d2.png"></span>
+				<span>王族闪击</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>对前方的敌人造成伤害，<br>使其进入“麻痹”和“闪热”状态。</div><div class="skill-detail">威力：500 × 4 Hit<br>威力：600 × 1 Hit<br>所需SP：3,849<br>所需共享SP：11,461<br>特殊效果<br>·麻痹<br>　效果时间：13 秒<br>　效果间隔：3.9 秒<br>　威力：97<br>·闪热<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41.6<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/81cf3f993b5bd3954266b8f69dffe5392.png"></span>
+				<span>雷霆无阻</span>
+			</dt>
+			<dd><div>对前方的敌人造成伤害，<br>解除其1个增益效果。</div><div class="skill-detail">威力：600 × 3 Hit<br>威力：1,700 × 1 Hit<br>所需SP：6,296<br>特殊效果<br>·增益解除<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防御力＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队防御力提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span>
+				<span>【光】士气：防势士气·治愈Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为光<br>且获得防御力提升的士气时<br>获得【持续回复HP的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ba285b9620ca098f55337e3c8cdbea182.png"></span><span>愈战愈勇Ⅱ</span></dt><dd><div>·龙化形态一律变为托尔。<br>·爆发攻击发生变化，攻击时吸引敌人。<br>·任务中受到攻击不会被击退<br>且始终处于【超强斗志】状态。<br>该【超强斗志】不会因虚无、异常状态<br>或技能发动解除。<br>·受到伤害时20秒内自身获得【反攻意志】。<br>效果期间普通攻击得到强化，威力和攻击范围提升。<br>此效果发动后5秒内不会再次发动。<br>·移动和回避以外的动作中受到伤害时，<br>回复受到伤害30%的自身HP。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>战神己路Ⅱ</span></dt><dd><div>进入“中毒”、“诅咒”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>王族之盾Ⅱ</span></dt><dd><div>HP在70%以下时，<br>全队获得防御力提升的士气（士气上限Lv2）<br>和【使HP最大值40%以下的伤害无效的特殊护盾】。<br>护盾仅生效1次，且可与普通护盾叠加。<br>此效果发动后30秒内不会再次发动。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div><br></div><div>■关于&ldquo;巴尔库斯&rdquo;的能力&ldquo;愈战愈勇Ⅱ&rdquo;<br><br>能力&ldquo;愈战愈勇Ⅱ&rdquo;可使&ldquo;巴尔库斯&rdquo;在任务期间始终处于【超强斗志】状态。<br>以【斗志】和【超强斗志】为触发条件的能力仅在任务开始时和重生时发动。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/634238f251a3bdd7cd0a7b0970653705.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>790</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>485</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>阿尔贝里亚王国的第二王子。<br>心思缜密，拥有非凡的智慧。<br>曾为与龙鳞病抗争而沦为“起始之人”的傀儡。<br>恢复自由之身以后<br>则以其聪明才智为了守护世界而奔波。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>智慧守护</span>
+			</dt>
+			<dd><div>■通常状态时<br>全队获得【护盾】、【水属性抗性提升】<br>和【造成全异常状态成功率提升】。<br><br>■强袭模式时<br>技能变为“乌拉诺斯的制裁”，效果如下：<br>·对直线上的敌人造成伤害，<br>使其进入“中毒”和“裂风”状态。<br>·对拥有【实验牺牲品】效果的对象造成追加伤害<br>并解除其1层【实验牺牲品】。<br>此攻击对进入异常状态的对象造成的伤害提升。</div><div class="skill-detail">所需SP：3,650<br>特殊效果<br>·护盾<br>　效果次数：1<br>　效果量：HP最大值的50%<br>·水属性抗性提升8%<br>　效果时间：25 秒<br>　不可叠加<br>·造成所有异常状态成功率提升40%<br>　效果时间：30 秒　<br>　叠加上限：3<br><br>（强袭模式时）<br>威力：588 × 2 Hit<br>追加伤害威力：672 × 1 Hit<br>所需SP：3,650<br>特殊效果<br>·增益解除<br>·中毒<br>　效果时间：15 秒<br>　效果间隔：2.9 秒<br>　威力：58.2<br>·裂风<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41<br>对特定状态敌人造成的伤害倍率<br>·所有异常状态：130%<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b1f0c47e843c74bf666bf16d4b0c25992.png"></span>
+				<span>信赖之誓</span>
+			</dt>
+			<dd><div>■通常状态时<br>·解除全队的异常状态，<br>使全队获得攻击力提升的士气。<br>·自身拥有【庇佑不存】效果时，<br>解除【庇佑不存】效果。<br>·自身强袭槽充能。<br><br>■强袭模式时<br>技能变为“乌拉诺斯的利爪”，效果如下：<br>·全队获得攻击力提升的士气。<br>·对前方的敌人造成伤害，<br>使攻击命中的敌人的“中毒”、“烧伤”、“麻痹”、<br>“冻伤”、“裂风”、“闪热”、“暗殇”、“劫火”效果<br>剩余时间延长15秒。<br>此效果无法使异常状态的剩余时间<br>超过其最初的持续时间。<br>此效果发动后15秒内不会对同一对象再次发动。</div><div class="skill-detail">所需SP：7,490<br>特殊效果<br>·全异常状态回复<br>获得士气<br>·攻击力提升（士气上限Lv 1）<br>强袭槽回复量：1,000<br><br>（强袭模式时）<br>威力：1,170 × 2 Hit<br>所需SP：7,490<br>获得士气<br>·攻击力提升（士气上限Lv 1）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队HP提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【风】无伤：非异常状态 攻＋6%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为风且未处于异常状态时，<br>攻击力提升6%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/abe4a6a530d11cfe89696086b25d6ece2.png"></span><span>天龙庇佑Ⅱ</span></dt><dd><div>①使敌人进入异常状态时，<br>自身获得攻击力提升的战意（士气上限Lv1）。<br>此效果发动后8秒内不会再次发动。<br>②龙化按钮变为强袭按钮并追加强袭槽。<br>爆发攻击命中可为强袭槽充能。<br>强袭模式中获得以下效果：<br>·普通攻击发生变化，命中时可为强袭槽充能。<br>·爆发攻击发生变化，<br>可对多个攻击对象和对象周围的敌人造成伤害。<br>使爆发攻击命中的敌人获得【实验牺牲品】。<br>·攻击力提升35%。<br>·受到可能造成异常状态的攻击时回复自身HP。<br>此效果发动后10秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>冰冻抗性＋100%</span></dt><dd><div>进入“冰冻”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>求生渴望Ⅱ</span></dt><dd><div>强袭模式中获得以下效果：<br>①进入异常状态的概率下降150%。<br>②受到不低于当前HP的伤害时，<br>消耗所有强袭槽使此次伤害无效。<br>此效果任务中最多发动1次。<br>受到使HP强制归0或可解除强袭模式的部分攻击时<br>不会发动此效果。<br>效果发动的动画期间，除部分攻击<br>和异常状态/增益/减益所造成的伤害外，<br>无视一切攻击。<br>③上述②的效果发动时，<br>解除自身的异常状态，<br>60秒内自身获得【庇佑不存】减益。<br>【庇佑不存】效果期间无法进入强袭模式，<br>且强袭槽无法充能。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/13ef6805e8839f10c027803bd2b0a156.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>被称作“五大天使”之一的龙。<br>奉行享乐主义的神秘天使。<br>言行浮夸，真实意图令人捉摸不透。<br>外表看似弱不禁风，实则有着强大无比的力量。<br>以其独有的信念指引人类和龙。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>天使之风</span>
+			</dt>
+			<dd><div>·近战模式：<br>对周围的敌人造成伤害，<br>使其进入“中毒”状态。<br>全队获得防御力提升的士气。<br>·远程模式：<br>对目标和目标周围的敌人造成伤害，<br>使其进入“裂风”状态。<br>全队获得【追击伤害】效果。</div><div class="skill-detail">（近战模式）<br>威力：1,478 × 2 Hit<br>特殊效果<br>·中毒<br>　效果时间：15 秒<br>　效果间隔：2.9 秒<br>　威力：43.6<br>获得士气<br>·防御力提升（士气上限Lv 2）<br><br>（远程模式）<br>威力：170 × 7 Hit<br>威力：265 × 4 Hit<br>特殊效果<br>·裂风<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：31<br>·追击伤害<br>　效果时间：180 秒<br>　效果量：40%<br>　不可叠加</div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【风】攻击力＋60%</span></dt><dd><div>装备角色属性为风时，<br>角色的攻击力提升60%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>【风】米迦勒的天佑Ⅱ</span></dt><dd><div>获得以下效果。<br>①②③仅装备角色属性为风时有效。<br>①最后一次攻击命中后至连击数重置前的时间延长2.5秒。<br>②任务开始时队伍中风属性角色获得<br>【60秒内攻击附带攻击力20%的追击伤害】的效果。<br>连击数重置时自身也可获得上述效果。<br>③每15次连击，攻击力提升3%。<br>最多可叠加至10层，<br>连击数重置时解除此增益。<br>④龙化为“米迦勒”期间，<br>在自身周围展开【米迦勒结界】。<br>【米迦勒结界】内有敌人时为近战模式，<br>无敌人时为远程模式。<br>普通攻击和技能“天使之风”根据模式发生变化。</div></dd></dl></div></div></div><div>※Lv100、上限解锁第4阶段、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 附奖一览和出现概率可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;出现概率&rdquo;，查看&ldquo;附奖&rdquo;。</div><div>3. 进行&ldquo;10连召唤&rdquo;或同时使用10张召唤券获得的道具重复时，同种道具将统一发送至礼物箱的&ldquo;无期限&rdquo;中。</div><div>4. 特选对象角色在&ldquo;阿尔贝里亚大逃杀&rdquo;中解锁可变更外观的&ldquo;角色皮肤&rdquo;所需道具数量将有所减少。</div><div>※部分角色无法解锁角色皮肤。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1643868000; update_time1643773359

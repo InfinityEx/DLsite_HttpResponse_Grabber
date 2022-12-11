@@ -1,0 +1,8 @@
+article_id:852
+category_name:活动
+title_name:剧情活动“暗影下的少女”即将开放！
+image_path:https://dragalialost.akamaized.net/attached/information/images/f75d8f851edf47ff21d42b87dc00f588.png
+
+message:<div>剧情活动&ldquo;暗影下的少女&rdquo;预计将于<span class="local_date" data-local_date="1572501600"></span>开始。</div><div><br></div><div>剧情活动&ldquo;暗影下的少女&rdquo;中可通过完成主线任务和各活动任务收集活动道具解锁特殊剧情。</div><div><br></div><div>&ldquo;暗影下的少女&rdquo;剧情涉及设施活动&ldquo;禁忌召唤&middot;封印图书馆&rdquo;剧情的核心内容。</div><div><span style="color: rgb(226, 80, 65);">强烈建议玩家在体验&ldquo;暗影下的少女&rdquo;剧情前先体验同时开始的设施活动【复刻】&ldquo;禁忌召唤&middot;封印图书馆&rdquo;。</span></div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/f75d8f851edf47ff21d42b87dc00f588.png"></div><div>一位少女的失踪&mdash;&mdash;那便是一切的起因。<br>有人为追寻失踪少女而来到了&ldquo;不老不死之村&rdquo;。<br>与支配村子的奇异之龙及异端祭司的相遇<br>将事件进一步引向混沌的深渊。<br>在那被崇拜和执念囚禁的村子里，谁能探明真相&hellip;&hellip;</div><div><br></div><div>敬请期待剧情活动&ldquo;暗影下的少女&rdquo;！</div><div><br></div><div>■注意事项</div><div>1. 参加活动任务需通关主线剧情第2章2-1(Normal)。</div><div>2. 参加多人模式需通关主线剧情第2章2-1(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1572415200; update_time1572318433

@@ -1,0 +1,41 @@
+article_id:2424
+category_name:公告
+title_name:“龙辉护符交换所”追加龙辉护符！【追记】
+image_path:
+
+message:<div><span class="local_date" data-local_date="1630044000"></span>起，&ldquo;龙辉护符交换所&rdquo;的列表中已追加龙辉护符。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1630061100"></span>追记<br></strong></span>本次恒常化并追加至交换所的龙辉护符为过去开放的活动中可获得的部分龙辉护符。<br><br>可在&ldquo;龙辉护符交换所&rdquo;的各稀有度标签下交换追加的龙辉护符。<br><br><strong>【恒常化的龙辉护符介绍】</strong></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/55e4a44dfde861c343e87104255cc86b2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/4bc7ceaf11d54996eee5b6ba756bc05f2.png"></div>
+	<div class="discription">
+		<div class="charaName">圣地伊尼希欧的守护者</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>【弓】会心威力＋25%&nbsp;(Max25%)</span></dt><dd><div>装备角色的武器种类为弓时，<br>暴击伤害倍率提升25%。&nbsp;(Max25%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/27de571e791dd056c921324b54482c172.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/25c211dcd77c11bf0f014d4b26f5f3992.png"></div>
+	<div class="discription">
+		<div class="charaName">毛茸茸床铺</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/fd589517c61c65312e1509e13a36cd412.png"></span><span>爆发攻击伤害＋40%&nbsp;(Max50%)</span></dt><dd><div>爆发攻击造成的伤害提升40%。&nbsp;(Max50%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/74027262b20bbbb553fb1d9df1893e9c2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">女忍者流装扮术</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span><span>怒气槽减少量＋25%&nbsp;(Max35%)</span></dt><dd><div>怒气槽减少量提升25%。&nbsp;(Max35%)</div></dd></dl></div></div></div><div><br></div><div>※最大上限解锁时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】<br>本公告以外的信息可进入商店中的&ldquo;龙辉护符交换所&rdquo;查看。<br><br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1630044000; update_time1630487701

@@ -1,0 +1,8 @@
+article_id:982
+category_name:公告
+title_name:关于部分角色、龙和武器的技能效果调整
+image_path:
+
+message:<div>我们将于<span class="local_date" data-local_date="1577340000"></span>左右进行的数据更新中对部分角色、龙和武器的技能效果进行调整。</div><div>今后预计将为部分角色追加可对进入&ldquo;中毒&rdquo;状态的敌人有效发挥作用的技能和能力效果，本次平衡调整为其中一环。</div><div><br></div><div>调整内容如下：</div><div><br></div><div><strong>■角色</strong></div><div>&middot;沙音（★4/短剑/暗）的技能&ldquo;暗影编织（Lv2及以上）&rdquo;追加&ldquo;造成中毒&rdquo;效果。</div><div>※通关主线剧情第8章 5-4后沙音将成为伙伴。</div><div><br></div><div><strong>■龙</strong></div><div>&middot;佐迪亚克（★4/暗）的技能&ldquo;诅咒剧毒&rdquo;追加&ldquo;造成中毒&rdquo;效果。</div><div>※通关主线剧情第5章 4-4后佐迪亚克将成为伙伴。</div><div><br></div><div><strong>■武器</strong></div><div>&middot;飓风歌者（★3/斧/风）的技能&ldquo;飓风回旋&rdquo;追加&ldquo;造成中毒&rdquo;效果。</div><div>&middot;闪光战斧（★3/斧/光）的技能&ldquo;闪光回旋&rdquo;追加&ldquo;造成中毒&rdquo;效果。</div><div>&middot;灵魂收割者（★3/斧/暗）的技能&ldquo;灵魂回旋&rdquo;追加&ldquo;造成中毒&rdquo;效果。</div><div>&middot;城墙破坏者（★3/斧/无）的技能&ldquo;粉碎回旋&rdquo;追加&ldquo;造成中毒&rdquo;效果。</div><div>※通关主线剧情第2章 6-2后解锁&ldquo;制作&rdquo;后，将铁匠铺等级提升至Lv2即可制作城墙破坏者，将铁匠铺提升至Lv3即可制作飓风歌者、闪光战斧和灵魂收割者。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1577253600; update_time1577177141

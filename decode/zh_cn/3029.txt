@@ -1,0 +1,244 @@
+article_id:3029
+category_name:公告
+title_name:“Dragalia Fes”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1659074400"></span>起，&ldquo;Dragalia Fes&rdquo;开放！</div><div><br></div><div>【关于Dragalia Fes】※含&ldquo;Dragalia Fes Extra&rdquo;</div><div>★5角色、龙的初始出现概率从4%提升至6%！</div><div>※召唤出★5或★5特选后，出现概率将变回初始概率6%。</div><div><br></div><div>【特选对象角色&middot;龙】</div><div>■角色</div><div>★5 库菈乌（Fes限定Ver.）：暗/魔杖</div><div>★5 塞西娅（Fes限定Ver.）：暗/刀</div><div><br></div><div>■龙</div><div>★5 凯特西（Fes限定Ver.）：暗</div><div><br></div><div>【Dragalia Fes Extra的出现概率】</div><div>★5 合计：6.00%</div><div>★5特选 合计：1.80%（角色：1.00% 龙：0.80%）</div><div>★5通常 合计：4.20%（角色：2.00% 龙：2.20%）</div><div>★4通常 合计：16.00%（角色：8.55% 龙：7.45%）</div><div>★3通常 合计：78.00%（角色：47.00% 龙：31.00%）</div><div><br></div><div>【Dragalia Fes活动期间】</div><div><span class="local_date" data-local_date="1659074400"></span> ～ <span class="local_date" data-local_date="1659506399"></span></div><div><br></div><div>特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/00aad51861a9e78ebb99cfa1d89a7c2e.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>785</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>489</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,514</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>从圣城封印的魔杖中获得强大力量的库菈乌。<br>告别了只能靠回复在后方支援伙伴的软弱，<br>向前迈出了坚实的一大步。<br>尽管体能依旧是她的弱项，<br>但她能活用才智，施放强大的攻击魔法。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d3e8717c75363aa57b66e9021fff4d352.png"></span>
+				<span>上古光束</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>对多个攻击对象和对象周围的敌人造成伤害。<br>命中敌人后将发动【技能升级】，效果发生最多2次变化。</div><div class="skill-detail">威力：88 × 3 Hit<br>威力：265 × 3 Hit<br>所需SP：2,814<br>所需共享SP：7,316<br><br>（技能升级第1阶段）<br>威力：88 × 4 Hit<br>威力：265 × 4 Hit<br>所需SP：2,814<br><br>（技能升级第2阶段）<br>威力：88 × 5 Hit<br>威力：265 × 5 Hit<br>所需SP：2,814<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0b6e96a9297308fa346ed1059be779062.png"></span>
+				<span>长者信念</span>
+			</dt>
+			<dd><div>对目标和目标周围的敌人造成伤害，使其防御力下降。<br>命中敌人后将发动【技能升级】，效果发生最多2次变化。</div><div class="skill-detail">威力：460 × 1 Hit<br>所需SP：6,000<br>特殊效果<br>·防御力下降10%<br>　效果时间：20 秒<br><br>（技能升级第1阶段）<br>威力：460 × 1 Hit<br>所需SP：6,000<br>特殊效果<br>·攻击力下降5%<br>　效果时间：20 秒<br>·防御力下降10%<br>　效果时间：20 秒<br><br>（技能升级第2阶段）<br>威力：460 × 1 Hit<br>回复量：22<br>所需SP：6,000<br>特殊效果<br>·攻击力下降5%<br>　效果时间：20 秒<br>·防御力下降10%<br>　效果时间：20 秒<br>·HP持续回复<br>　效果时间：15 秒　<br>　效果间隔：2.9 秒<br>　效果量：17<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能伤害＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能伤害提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span>
+				<span>【暗】坚守：HP80% 光抗＋6%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗<br>且HP不低于80%时光属性抗性提升6%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1582968ccea870712399e4e9e9e34edd2.png"></span><span>术式炼化Ⅱ</span></dt><dd><div>使用技能“上古光束”时，<br>自身发动【变则爆发】的增益，<br>使下次爆发攻击变为<br>在地面设置可持续10秒的<br>【攻击力提升增益区域】。<br>处于此区域中的角色攻击力提升25%。<br>【变则爆发】增益不会重复，<br>并在使用爆发攻击后解除。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bd7de81c28d0b9c93b0edbfc86b0cb6a2.png"></span><span>千古加护Ⅱ</span></dt><dd><div>进入“黑暗”、“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>开场技能槽＋100%</span></dt><dd><div>任务开始时技能槽提升100%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f84fed829db32b3cf6f80fd09ce25929.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>739</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>521</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>获得了创世之龙巴哈姆特力量的塞西娅。<br>由于与巴哈姆特的契约并不完整，<br>所以无法发挥全部的力量。<br>即便如此，这股力量也十分强大，<br>使用时需要付出沉重的代价。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3a6524f4f9c6d3f80a23eb3c1ac353f92.png"></span>
+				<span>创世圣冠</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>·对周围的敌人造成伤害。<br>·技能发动期间受到攻击不会被击退，<br>且受到的伤害减少30%。<br>·此技能随时间自动充能，<br>使用此技能后充能所需时间增加。<br>此技能的充能不受“技能槽上升率提升效果”影响，<br>充能所需时间增加最多发动2次。</div><div class="skill-detail">威力：394 × 5 Hit<br>所需SP：随时间自动充能<br>所需共享SP：6,240<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻击力＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队攻击力提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span>
+				<span>【暗】士气：会心威力·光抗＋6%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗<br>且获得暴击伤害倍率提升的士气时，<br>自身光属性抗性提升6%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b75445f3dd3b27a93ef9fadf6ac292a32.png"></span><span>创世龙灵威Ⅱ</span></dt><dd><div>①龙化按钮变为巴哈姆特召唤按钮并获得以下效果：<br>·巴哈姆特召唤期间部分普通攻击的威力提升。<br>·召唤出的巴哈姆特会自动发动攻击，<br>攻击一定次数后发动技能。<br>攻击威力与巴哈姆特（Fes限定Ver.）相同。<br>·未召唤巴哈姆特时<br>部分普通攻击命中敌人可为召唤槽充能。<br>②普通攻击时滑动屏幕的回避性能发生变化，<br>回避过程中可对周围的敌人发动追加攻击，<br>且再次发动普通攻击时<br>可保持原本的普通攻击阶段。<br>回避过程中再次进行回避将变为普通回避。<br>③回避敌人的攻击时，对周围的敌人造成伤害。<br>此效果每次回避最多发动1次。<br>④无法学会技能2。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bd7de81c28d0b9c93b0edbfc86b0cb6a2.png"></span><span>创世庇佑Ⅱ</span></dt><dd><div>进入“黑暗”、“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/2b61051285afb3de0474ccae5ace68ec2.png"></span><span>神谕大太刀Ⅱ</span></dt><dd><div>发动第5段或第9段普通攻击时，<br>自身获得暴击伤害倍率提升的战意（士气上限Lv1）。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c9d795baac8f6fb427537c9ee6653346.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>谢斯的契约龙。外表可爱却喜怒无常，<br>喜欢恶作剧。兴趣是观察人类<br>和夜间散步。将信赖之人以外的存在<br>都视作玩具。兼具热情与冷酷的性格<br>可以说与主人十分相似。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>优雅计谋</span>
+			</dt>
+			<dd><div>10秒内对前方的敌人造成伤害。</div><div class="skill-detail">威力：48.4 × 33 Hit<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【暗】狡黠妙计Ⅴ</span></dt><dd><div>装备角色属性为暗时，<br>任务开始时自身获得15次<br>【下一次技能伤害提升180%的增益】。<br>每25次连击自身获得<br>【下一次技能伤害提升180%的增益】。<br>【下一次技能伤害提升180%的增益】<br>最多可积累15次，超出部分不予计算。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【暗】龙化解除时·狡黠妙计Ⅴ</span></dt><dd><div>装备角色属性为暗时，<br>龙化解除时自身获得8次<br>【下一次技能伤害提升180%的增益】。</div></dd></dl></div></div></div><div>※Lv100、上限解锁第4阶段、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 特选对象角色在&ldquo;阿尔贝里亚大逃杀&rdquo;中解锁可变更外观的&ldquo;角色皮肤&rdquo;所需道具数量将有所减少。</div><div>※部分角色无法解锁角色皮肤。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1659074400; update_time1649843133

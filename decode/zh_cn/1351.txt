@@ -1,0 +1,8 @@
+article_id:1351
+category_name:公告
+title_name:关于王子育成训练的显示异常
+image_path:
+
+message:<div><span class="local_date" data-local_date="1590472800"></span>左右追加的王子育成训练中出现了显示异常。</div><div>本异常现象已于<span class="local_date" data-local_date="1590485400"></span>左右得到修正。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1590485400; update_time1590483091

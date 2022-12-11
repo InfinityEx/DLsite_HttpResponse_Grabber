@@ -1,0 +1,8 @@
+article_id:2658
+category_name:活动
+title_name:【复刻】“新春阴阳战”活动预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/bd939015d14a36877ec4adb87edc993c.png
+
+message:<div>团队活动【复刻】&ldquo;新春阴阳战&rdquo;预计将于<span class="local_date" data-local_date="1639634400"></span>开始。<br>本活动可在多人模式下挑战风属性的团队战BOSS。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/bd939015d14a36877ec4adb87edc993c.png"></div><div>活动主题曲：《Terrestrial paradise》/BlooDye<br><br>■活动期间<br><span class="local_date" data-local_date="1639634400"></span> ～ <span class="local_date" data-local_date="1640411999"></span><br><br>■注意事项<br>1. 参加活动任务需通关主线剧情第2章2-1(Normal)。<br>2. 参加多人模式需通关主线剧情第2章2-1(Normal)。<br><br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1639548000; update_time1638335770

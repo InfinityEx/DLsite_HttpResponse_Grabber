@@ -1,0 +1,8 @@
+article_id:789
+category_name:活动
+title_name:所有“真龙之试炼”即将追加新难度“高级”和“超级”！	
+image_path:https://dragalialost.akamaized.net/attached/information/images/3447fb2c591b2d81af9a9ecd8e78d892.png
+
+message:<div><span class="local_date" data-local_date="1570773600"></span>起，所有&ldquo;真龙之试炼&rdquo;将追加新难度&ldquo;高级&rdquo;！</div><div>另外，<span class="local_date" data-local_date="1571032800"></span>起，&ldquo;真龙之试炼&rdquo;将依次追加更高难度&ldquo;超级&rdquo;！</div><div>※原有的各种&ldquo;真龙之试炼&rdquo;将被划分为&ldquo;中级&rdquo;。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/3447fb2c591b2d81af9a9ecd8e78d892.png"></div><div><br></div><div>■注意事项</div><div>1. 挑战各属性&ldquo;真龙之试炼 高级&rdquo;需队伍战力在20000以上。</div><div>2. 挑战各属性&ldquo;真龙之试炼 超级&rdquo;需队伍战力在24000以上。</div><div>3. 挑战各属性&ldquo;真龙之试炼 高级&middot;超级&rdquo;需通过相应属性的&ldquo;真龙之试炼 中级&rdquo;。</div><div>例：挑战&ldquo;真耶梦加得的试炼 高级&rdquo; 需通过&ldquo;真耶梦加得的试炼 中级&rdquo;。</div><div>4. 参加多人模式需通关主线剧情第2章2-1(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1570428000; update_time1570160309

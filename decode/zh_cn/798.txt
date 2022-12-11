@@ -1,0 +1,167 @@
+article_id:798
+category_name:公告
+title_name:“龙传说召唤”即将开放！
+image_path:
+
+message:<div>&ldquo;龙传说召唤&rdquo;预计将于<span class="local_date" data-local_date="1570773600"></span>开放。</div><div><br></div><div>特选对象★5和★4龙的出现概率将提升。</div><div><br></div><div>【龙传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1570773600"></span> ～ <span class="local_date" data-local_date="1571378340"></span></div><div><br></div><div>部分特选对象龙详情如下：</div><div><br></div><div>【特选龙介绍】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7f3f9e6769423d84dcff956e66fd2668.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>在锻造上有很高造诣的龙。<br>拥有热血的性格，以传授人类锻造技术<br>并加以培养为乐。据说铁匠铺三姐妹的父亲<br>曾拜其为师并习得一身好手艺。<br>据说其为磨炼身心，经常泡在火山岩浆里。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>螺旋式坠龙踢</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成火属性伤害，<br>使其进入“昏迷”状态。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻击力&会心威力提升Ⅱ</span></dt><dd><div>装备角色属性为火时<br>角色的攻击力提升45%，暴击伤害倍率提升55%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2c42868832ed6a0184e634bcf1d29457.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>375</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1025</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>掌管爱与丰饶的美丽之龙。<br>只需轻轻一挥由巨树编成的法杖，<br>便能给大地带来恩泽。<br>深受世间万物爱戴，亦随性地爱着万物。<br>饲养着两只猫作为使魔，对它们疼爱有加。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>生命之息</span>
+			</dt>
+			<dd>
+				<div>
+					回复所有同伴的HP，并持续回复20秒。<br>使全队进入【超强斗志】状态。<br>【超强斗志】将在使用对象技能后解除。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【风】HP＋30%</span></dt><dd><div>装备角色属性为风时<br>HP提升30%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【风】技能增强＋35%</span></dt><dd><div>装备角色属性为风时，<br>技能槽上升率提升35%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3361c4d90b0dabb63f77f802aa358bb2.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>海滨歌姬龙终于站上了憧憬已久的舞台。<br>那相传甚至能让船只遇难的美妙歌声<br>令观众们如痴如醉。<br>她身着由人类手工缝制而成的演出服，<br>正可谓是人与龙的信赖中诞生的龙约歌姬。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/77c2ac9b0a7142033bc6402d88c4b32d2.png"></span>
+				<span>欢乐齐奏</span>
+			</dt>
+			<dd>
+				<div>
+					20秒内全队攻击力提升20%，防御力提升20%，<br>提升全队3阶段【斗志】。<br>此技能可通过龙化时进行的攻击再次充能，<br>1次龙化最多可使用2次。<br>【斗志】提升5阶段可转化为【超强斗志】，<br>强化攻击·回复技能。<br>【超强斗志】将在使用对象技能后解除。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻击力＋40%</span></dt><dd><div>装备角色属性为光时，<br>角色的攻击力提升40%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>欢乐时光☆</span></dt><dd><div>装备角色属性为光时，<br>全队龙化时间延长3秒。<br>龙化时间最多延长5秒。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1570687200; update_time1570520625

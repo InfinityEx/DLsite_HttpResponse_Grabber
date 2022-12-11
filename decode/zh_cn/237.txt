@@ -1,0 +1,8 @@
+article_id:237
+category_name:活动
+title_name:剧情活动“情人节·甜美佳肴”即将开放！
+image_path:
+
+message:<div>剧情活动&ldquo;情人节&middot;甜美佳肴&rdquo;预计将于<span class="local_date" data-local_date="1550124000"></span>开始。</div><div><br></div><div>本活动为全新形式，可通过完成任务和各种活动收集活动道具解锁情人节的特殊剧情。</div><div>敬请体验各角色的限定剧情！</div><div>&nbsp;<img src="https://dragalialost.akamaized.net/attached/information/images/7c52f3d392813bf66a6580f4a5093899.png"></div><div>情人节快乐！</div><div>向重要的人传达心意的节日终于来临。</div><div>打倒魔兽收集道具，就能与圣城的伙伴留下特别的回忆！？</div><div>你会选择那个严厉的她？还是那个多情的他？更有出人意料的对象登场！</div><div>如何选择全都取决于你。</div><div>享受比平常更为香甜醇厚的时光吧！</div><div><br></div><div>敬请期待剧情活动&ldquo;情人节&middot;甜美佳肴&rdquo;！</div><div><br></div><div>■注意事项</div><div>1. 参加活动任务需通关主线剧情第2章2-1(Normal)。</div><div>2. 参加多人模式需通关主线剧情第2章2-1(Normal)。</div><div>3. 活动期间及内容可能会在无预先通知的情况下变更。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1549605600; update_time1550125060

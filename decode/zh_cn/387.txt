@@ -1,0 +1,8 @@
+article_id:387
+category_name:公告
+title_name:“《Dragalia Lost ～失落的龙约～》官方推特账号 关注&转推活动”参与奖励
+image_path:
+
+message:<div>感谢各位玩家积极参与&ldquo;《Dragalia Lost ～失落的龙约～》官方推特账号 关注&amp;转推活动&rdquo;！</div><div>截至目前，总转推数已超过60000次！</div><div><br></div><div>为答谢各位玩家，我们将依次向<span class="local_date" data-local_date="1554789600"></span>前开始游戏的玩家发放以下道具。</div><div><br></div><div>&middot;10连召唤券 1张</div><div>&middot;觉醒水滴 35000个</div><div>&middot;龙辉晶 1000个</div><div>&middot;幸运四叶草 10个</div><div>&middot;跳过券 10张</div><div><br></div><div>玩家可在<span class="local_date" data-local_date="1555394399"></span>前登录游戏从&ldquo;礼物箱&rdquo;领取。</div><div>领取期限为发送至礼物箱后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1554789600; update_time1554708104

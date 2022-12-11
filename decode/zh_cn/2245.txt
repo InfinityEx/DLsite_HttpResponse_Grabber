@@ -1,0 +1,8 @@
+article_id:2245
+category_name:公告
+title_name:关于魔法圆环“批量解锁”和“自动解锁”功能的异常现象
+image_path:
+
+message:<div>目前已确认版本2.8.0更新中追加的魔法圆环&ldquo;批量解锁&rdquo;和&ldquo;自动解锁&rdquo;功能出现了以下异常现象。</div><div><br></div><div>■异常现象</div><div>&middot;已解锁任意&ldquo;EX能力&rdquo;魔力碎片的情况下进行&ldquo;自动解锁&rdquo;时，确认页面中显示的觉醒水滴消耗量可能低于实际所需觉醒水滴数量。</div><div><br></div><div>&middot;指定部分&ldquo;EX能力&rdquo;魔力碎片进行&ldquo;批量解锁&rdquo;时，点击&ldquo;EX能力&rdquo;魔力碎片并点击&ldquo;批量解锁&rdquo;后确认页面中显示的觉醒水滴消耗量可能高于前一页面所需素材中显示的觉醒水滴消耗量。</div><div>※本异常现象不会导致觉醒水滴的消耗量高于预期。即使确认页面中显示的觉醒水滴高于预期，解锁时实际消耗的觉醒水滴数量仍以点击&ldquo;EX能力&rdquo;魔力碎片后所需素材页面中显示的消耗量为准。</div><div>※本异常现象可能导致即使满足解锁&ldquo;EX能力&rdquo;实际所需觉醒水滴数量也无法进行&ldquo;批量解锁&rdquo;。</div><div><br></div><div>本现象将于今后的更新中进行修正。</div><div>最新进展将第一时间更新在本公告中。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1622199600; update_time1622199156

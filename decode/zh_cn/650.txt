@@ -1,0 +1,8 @@
+article_id:650
+category_name:公告
+title_name:夏日限定礼包第2弹！“夏日限定 武器强化礼包”和“夏日限定 光属性角色育成礼包”上架！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1565676000"></span>起，夏日限定礼包第2弹&ldquo;夏日限定 武器强化礼包&rdquo;和&ldquo;夏日限定 光属性角色育成礼包&rdquo;已于商店的&ldquo;特殊礼包&rdquo;中上架！</div><div><br></div><div>各礼包的详情如下：</div><div><br></div><div>■夏日限定 武器强化礼包</div><div>可获得用于强化武器的道具和龙钻的超值礼包。</div><div>&middot;龙钻 1230个（龙钻1200个+加赠30个）</div><div>&middot;大马士革钢 1个</div><div>&middot;金研磨石 50个</div><div><br></div><div>■夏日限定 光属性角色育成礼包</div><div>可获得用于解锁光属性角色魔法圆环的道具和龙钻的超值礼包。</div><div>&middot;龙钻 2400个（龙钻1920个+加赠480个）</div><div>&middot;魔力 200000个</div><div>&middot;英雄之证 3个</div><div>&middot;骑士之证 6个</div><div>&middot;光之珠 210个</div><div>&middot;闪光之珠 70个</div><div>&middot;圣天之珠 30个</div><div>&middot;辉龙之鳞 150个</div><div>&middot;辉龙之煌鳞 50个</div><div><br></div><div>■注意事项</div><div>各道具价格及其它详情等信息可点击主页&ldquo;商店&rdquo;中的&ldquo;特殊礼包&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div>
+
+start_time:1565676000; update_time1564651973

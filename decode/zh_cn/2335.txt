@@ -1,0 +1,8 @@
+article_id:2335
+category_name:公告
+title_name:关于魔法圆环解锁的异常现象
+image_path:
+
+message:<div><span class="local_date" data-local_date="1624845600"></span>起，游戏中出现了以下异常现象。</div><div>&middot;解锁&ldquo;EX能力&rdquo;后，&ldquo;EX能力&rdquo;的效果量提升可能未生效。</div><div>&middot;解锁&ldquo;EX能力&rdquo;时确认页面中显示的觉醒水滴消耗量可能低于实际所需觉醒水滴消耗量。</div><div>&middot;实际所需觉醒水滴消耗量不足时解锁&ldquo;EX能力&rdquo;可能显示&ldquo;错误码：60001&rdquo;并返回主界面。</div><div>※本异常现象不会导致觉醒水滴实际消耗量减少。</div><div>本异常现象已于<span class="local_date" data-local_date="1624869600"></span>左右修正完毕。</div><div>从主界面重新登录游戏即可解决问题。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div>
+
+start_time:1624871400; update_time1624876185

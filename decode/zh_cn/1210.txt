@@ -1,0 +1,8 @@
+article_id:1210
+category_name:公告
+title_name:赠送召唤券！
+image_path:
+
+message:<div>为感谢各位玩家对团队活动&ldquo;罪人之路&middot;龙眸轨迹&rdquo;的支持与关注，我们将依次向各位玩家发放以下礼物！</div><div><br></div><div>■礼物内容</div><div>召唤券&times;3</div><div><br></div><div>领取期限为发送至礼物箱后7天内。</div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1585980000; update_time1585905747

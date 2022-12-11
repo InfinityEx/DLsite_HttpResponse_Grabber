@@ -1,0 +1,156 @@
+article_id:1201
+category_name:公告
+title_name:传说召唤“罪人之路·龙眸轨迹 特选 Part 1”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1585807200"></span>起，传说召唤&ldquo;罪人之路&middot;龙眸轨迹 特选 Part 1&rdquo;开放！</div><div><br></div><div>特选对象角色&middot;龙的出现概率提升。</div><div><br></div><div>【新登场的特选对象角色&middot;龙】</div><div>■角色</div><div>★5 贝利娜：暗/短剑</div><div><br></div><div>■龙</div><div>★5 安德洛墨达：暗</div><div><br></div><div>※其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1585807200"></span> ～ <span class="local_date" data-local_date="1586757540"></span></div><div><br></div><div>新登场的特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/9ad9a0457651af65ba91a278261e3383.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>757</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>501</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,498</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>被活跃于世界暗处的神秘组织“结社”<br>注入龙之力的战斗狂少女。<br>并不憎恨改造自己身体之人，<br>反倒为彰显自己的强大而动用力量，<br>但不时因无法彻底控制力量而失控。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>桀骜之狂躁</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人造成暗属性伤害。<br>自身剩余HP越少，造成的伤害越多。<br>强袭模式时，此技能变为<br>“桀骜之狂躁崩坏”，效果如下：<br>对多个攻击对象和对象周围的敌人造成暗属性伤害。<br>解除其1个增益效果。<br>自身剩余HP越少，造成的伤害越多。<br>发动时消耗25%强袭槽，使此技能可再次发动。<br>【多重目标】技能可以多个敌人为目标发动。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>桀骜之惨祸</span>
+			</dt>
+			<dd>
+				<div>
+					自身强袭槽充能40%。<br>使用此技能时如自身HP高于30%，<br>自身HP将减少至最大值的30%<br>并根据减少的HP为强袭槽充能。<br>强袭模式时，此技能变为<br>“桀骜之惨祸暴虐”，<br>效果如下：<br>使用此技能时如自身HP高于30%，<br>自身HP将减少至最大值的30%<br>并对前方的敌人造成暗属性伤害。<br>自身剩余HP越少，造成的伤害越多。<br>发动此技能时将耗尽强袭槽。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>暴击率＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队暴击率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span>
+				<span>【暗】背水：危机时·光抗＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗<br>且HP在40%以下时获得<br>【光属性抗性提升10%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/15ca5a03b679a12193daa8e1b0247ee32.png"></span><span>桀骜之伴侣Ⅱ</span></dt><dd><div>龙化按钮变为强袭按钮并追加强袭槽。<br>强袭模式中普通攻击和爆发攻击发生变化，<br>自身剩余HP越少，普通攻击和爆发攻击<br>造成的伤害越高，并可为强袭槽充能。<br>此模式中技能伤害提升35%，防御力提升75%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>黑暗抗性＋100%</span></dt><dd><div>进入“黑暗”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8c8841b3f5aa35fb71f07f9075152dba2.png"></span><span>危机时·攻&攻击速度提升Ⅲ</span></dt><dd><div>HP在30%以下时，攻击力提升20%，攻击速度提升10%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>【特选龙介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8c5bd8a7a02c0141937cd8722bf3e408.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>曾被“结社”囚禁的龙。<br>相传其背负万人的罪孽，<br>并通过奉献自我对其进行净化。<br>但因“结社”的实验丧失了记忆，<br>如今与阿德尔潘结伴同行，为其提供帮助。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>不受祝福的牵绊之锁</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人造成暗属性伤害。<br>15秒内提升全队防御力30%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【暗】攻击力＋40%</span></dt><dd><div>装备角色属性为暗时，<br>角色的攻击力提升40%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/97a6a9c25dfb5181cf44056f25fad1b82.png"></span><span>【暗】危机时·攻防提升Ⅱ</span></dt><dd><div>装备角色属性为暗且HP在30%以下时，<br>攻击力提升40%，防御力提升100%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1585807200; update_time1585634637

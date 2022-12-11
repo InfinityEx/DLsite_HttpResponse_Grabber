@@ -1,0 +1,8 @@
+article_id:2207
+category_name:公告
+title_name:关于能力“减益技能时间＋〇%”的异常现象
+image_path:
+
+message:<div>目前已确认能力&ldquo;减益技能时间＋〇%&rdquo;出现了以下异常现象。</div><div><br></div><div>&middot;能力详情中未记载对&ldquo;中毒抗性下降&rdquo;、&ldquo;劫火抗性下降&rdquo;等可降低异常状态抗性的减益有效的内容。</div><div>&middot;拥有能力&ldquo;减益技能时间＋〇%&rdquo;的角色使用带有&ldquo;中毒抗性下降&rdquo;、&ldquo;劫火抗性下降&rdquo;等可降低异常状态抗性减益的共享技能时，无法发动能力&ldquo;减益技能时间＋〇%&rdquo;效果。</div><div>※拥有同种能力的龙辉护符不会出现本异常现象。</div><div>&middot;拥有能力&ldquo;减益技能时间＋〇%&rdquo;的角色通过技能以外的方式造成&ldquo;裂伤&rdquo;、&ldquo;攻击力下降&rdquo;、&ldquo;防御力下降&rdquo;减益时也会发动能力效果。</div><div>※拥有同种能力的龙辉护符不会出现本异常现象。</div><div>本异常现象预计将于<span class="local_date" data-local_date="1623218400"></span>左右进行的数据更新中修正。</div><div>同时，将对各能力详情进行以下变更：</div><div>&middot;能力&ldquo;减益技能时间＋〇%&rdquo;</div><div>变更前：造成裂伤、攻击力下降、防御力下降的减益技能效果时间提升〇%。</div><div>变更后：使用的减益技能效果时间提升〇%。</div>
+
+start_time:1622527200; update_time1622513152

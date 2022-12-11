@@ -1,0 +1,249 @@
+article_id:2739
+category_name:公告
+title_name:期间限定角色和龙再次登场！“附奖传说召唤”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1641362400"></span>起，&ldquo;附奖传说召唤&rdquo;开放！</div><div>&ldquo;附奖传说召唤&rdquo;中期间限定的角色&middot;龙再次登场。</div><div>另外，特选对象角色&middot;龙的出现概率提升。</div><div><br></div><div>进行&ldquo;附奖传说召唤&rdquo;可在获得角色&middot;龙的同时获得&ldquo;附奖&rdquo;。</div><div>附奖有白金奖、金奖、银奖、铜奖、5等、6等共计6种。</div><div>&ldquo;10连召唤&rdquo;第10次的附奖必为白金奖、金奖、银奖、铜奖其中之一。</div><div><span style="color: rgb(226, 80, 65);">获得的附奖可在礼物箱的&ldquo;无期限&rdquo;中领取。</span></div><div><br></div><div>※同时使用10张召唤券不等同于进行&ldquo;10连召唤&rdquo;，不确保第10次附奖必为白金奖、金奖、银奖、铜奖其中之一。</div><div>※附奖一览和出现概率可在&ldquo;附奖传说召唤&rdquo;开放期间点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;并在&ldquo;出现概率&rdquo;的&ldquo;附奖&rdquo;中查看。</div><div><br></div><div>【再次登场的期间限定特选对象角色&middot;龙】</div><div>■角色</div><div>★5 光秀：光/短剑</div><div>★5 晴明：火/魔杖</div><div><br></div><div>■龙</div><div>★5 大黑天：光</div><div><br></div><div>以往&ldquo;传说召唤&rdquo;中追加的部分其他期间限定角色&middot;龙也将再次登场。</div><div>登场角色&middot;龙的详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</div><div><span style="color: rgb(226, 80, 65);">※仅上述角色&middot;龙为特选对象。</span></div><div><span style="color: rgb(226, 80, 65);"><br></span></div><div><span style="color: rgb(226, 80, 65);">※&ldquo;龙辉之印&rdquo;仅可用于其获得时的召唤。<span class="local_date" data-local_date="1640930400"></span>～<span class="local_date" data-local_date="1641362399"></span>期间开放的&ldquo;Dragalia Fes&rdquo;中获得的&ldquo;龙辉之印&rdquo;无法用于本次&ldquo;附奖传说召唤&rdquo;。</span></div><div><br></div><div>【附奖传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1641362400"></span> ～ <span class="local_date" data-local_date="1642053599"></span></div><div><br></div><div>再次登场的期间限定特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/fa3811cb0500f45c2b75f9e12805c6b2.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>763</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>497</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>统治东方岛国日出之国的十二龙氏之一，<br>子之龙氏。生性怕麻烦，<br>与大黑天缔结了契约。一有空就睡觉，<br>没空也会睡觉，睡觉就是一切。<br>是个我行我素的公主。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/59379722d1069610bbd6dca3b98022c12.png"></span>
+				<span>鼠之天诛</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>对目标和目标周围的敌人<br>造成光属性伤害，使其进入“麻痹”状态。</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>小菜一碟</span>
+			</dt>
+			<dd><div>对目标和目标周围的敌人造成光属性伤害。<br>10秒内自身攻击速度提升10%。<br>此技能伤害随连击数（最大30连击）提升。</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>暴击率＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队暴击率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span>
+				<span>【光】连击：连击数持续时间延长Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为光时，<br>最后一次攻击命中后至连击数重置前的时间延长2.5秒。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾风怒涛·攻＋20%</span></dt><dd><div>连击达到15次以上时攻击力提升20%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>诅咒抗性＋100%</span></dt><dd><div>进入“诅咒”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28cbbe44c3b9fd009706ad48a7e4e0f52.png"></span><span>麻痹特效＋30%</span></dt><dd><div>对进入“麻痹”状态的敌人造成的伤害提升30%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/46f94ad5cbd2ddc93562ef3ff51b4523.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>747</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>513</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>统治东方岛国日出之国的“十二龙氏”之一，<br>丑之龙氏。是一位出类拔萃的天才阴阳师，<br>与牛头天王缔结了魂契。<br>拥有独自解决一切难题的能力，<br>喜欢单独行动。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c89df2db77c761dc648329bf7d4410322.png"></span>
+				<span>五神开衢恶鬼祓除</span>
+			</dt>
+			<dd><div>如未召唤【火精式鬼】，<br>40秒内召唤【火精式鬼】。<br>【火精式鬼】消耗使役槽并自动进行攻击。<br>【火精式鬼】的攻击命中15次后<br>仅升级1次【火精式鬼】。<br>升级后召唤时间重置为40秒，自动攻击威力提升。<br>并使自动攻击追加<br>【10秒内使敌人防御力下降10%】的效果。<br>此效果不可叠加。<br>【火精式鬼】的攻击不计入技能伤害。<br>如已召唤【火精式鬼】，<br>自身获得【使HP最大值20%以下的伤害无效的护盾】。<br>护盾仅生效1次，且不可与同种护盾叠加。</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0842a5082957e208cf98412b117988412.png"></span>
+				<span>退魔调伏·天刑星</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>对前方的敌人造成火属性伤害，<br>20秒内使敌人防御力下降10%，<br>使其进入“劫火”状态。<br>此防御力下降效果不可叠加。<br>此技能仅可在召唤【火精式鬼】期间使用，<br>使用技能时将解除【火精式鬼】。<br>如【火精式鬼】已升级，<br>技能威力提升并解除敌人1个增益效果。</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/317a0c478ead8a4a39304ffcbf29eda12.png"></span>
+				<span>OD特效&怒气槽减少量Ⅷ</span>
+			</dt>
+			<dd>
+				<div>
+					全队对OVERDRIVE的敌人造成的伤害提升15%，<br>怒气槽减少量提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span>
+				<span>【火】连击：连击时增益技能持续时间＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为火<br>且连击达到10次以上时，<br>角色使用的增益技能持续时间提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>式鬼使役之律令Ⅱ</span></dt><dd><div>追加使役槽。<br>爆发攻击效果变为<br>蓄力时对目标造成伤害<br>并可持续回复使役槽。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏迷抗性＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>式鬼回生之验Ⅱ</span></dt><dd><div>龙化槽每上升10%，<br>使役槽回复50%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/364f1ae556dc91bdf471807b324ca74a.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>日出之国的诸龙之长·天照<br>麾下的十二龙之一，“子”之龙。<br>为吉祥之龙，据说仅向人微笑<br>便会为其带来好运。样貌十分随和，<br>性格恬静优雅，爱吃软软的年糕。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>开运！金锤敲击</span>
+			</dt>
+			<dd><div>对前方的敌人造成光属性伤害，<br>10秒内在地面设置【攻击速度增益区域】。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻击力＋55%</span></dt><dd><div>装备角色属性为光时，<br>角色的攻击力提升55%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】疾风怒涛·攻＋25%</span></dt><dd><div>装备角色属性为光时，<br>连击达到15次以上攻击力提升25%。</div></dd></dl></div></div></div><div>※Lv100、上限解锁第4阶段、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 附奖一览和出现概率可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;出现概率&rdquo;，查看&ldquo;附奖&rdquo;。</div><div>3. 进行&ldquo;10连召唤&rdquo;或同时使用10张召唤券获得的道具重复时，同种道具将统一发送至礼物箱的&ldquo;无期限&rdquo;中。</div><div>4. 特选对象角色在&ldquo;阿尔贝里亚大逃杀&rdquo;中解锁可变更外观的&ldquo;角色皮肤&rdquo;所需道具数量将有所减少。</div><div>※部分角色无法解锁角色皮肤。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1641362400; update_time1640590565

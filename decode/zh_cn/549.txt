@@ -1,0 +1,211 @@
+article_id:549
+category_name:公告
+title_name:传说召唤“千祭一遇”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1561874400"></span>起，传说召唤&ldquo;千祭一遇&rdquo;开放！</div><div><br></div><div>当前特选对象角色&middot;龙的出现概率提升。</div><div><br></div><div>【新登场的特选对象角色&middot;龙】</div><div>■角色</div><div>★5 夜天：暗/剑</div><div>★5 娜茨：暗/刀</div><div><br></div><div>■龙</div><div>★5 忍：暗</div><div><br></div><div>※其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1561874400"></span> ～ <span class="local_date" data-local_date="1562824740"></span></div><div><br></div><div>新登场的特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选角色介绍】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e2d62e87f7ea6ee387ecf361b655fe40.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2498</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>日出之国的祭典工匠。<br>为了自己的目标而离开祖国前往阿尔贝里亚。<br>平时是个喜欢午睡的慵懒家伙，<br>但对祭典充满了热情，<br>凭借自己策划的祭典让众多小镇重新焕发生机。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7391c0f33efb07117ee2c7bdf7815b7c2.png"></span>
+				<span>神乐曲艺·御祭御免</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成暗属性伤害，<br>并提升自身1阶段【斗志】。<br>【斗志】提升5阶段可转化为【超强斗志】，<br>强化攻击·回复技能。<br>【超强斗志】将在使用对象技能后解除。<br>此技能在【超强斗志】效果发动时<br>将变为“神乐曲艺·六天剑舞”，<br>对目标发起追击。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/10a00f27f7b4fb0f1e9db38ca57076272.png"></span>
+				<span>提剑奉陪</span>
+			</dt>
+			<dd>
+				<div>
+					提升全队2阶段【斗志】。<br>【斗志】提升5阶段可转化为【超强斗志】，<br>强化攻击·回复技能。<br>【超强斗志】将在使用对象技能后解除。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龙化增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化槽提升率提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/0ca003e40efaeaec644df1940674fce52.png"></span><span>斗志提升时·攻&会心提升Ⅲ</span></dt><dd><div>根据自身【斗志】阶段提升相应攻击力和暴击率。<br>【超强斗志】时效果最大，攻击力提升20%，暴击率提升8%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痹抗性＋100%</span></dt><dd><div>进入“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>超强斗志链·攻＋20%</span></dt><dd><div>【超强斗志】触发时，<br>发动【15秒内攻击力提升20%的增益】。</div></dd></dl></div></div></div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/d585db682ccfd795dca3d4d4b71bd816.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>739</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>521</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>旅行中的祭典工匠，<br>是日出之国祭典工匠夜天的弟子兼搭档。<br>从准备出摊到引导神舆无所不包。<br>言行虽然粗俗，<br>但是位勤奋又会照顾人的大姐姐。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3f0dec434b5784c125591b226dcf5f662.png"></span>
+				<span>神乐曲艺·业刀乱魔</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成暗属性伤害，<br>并提升自身1阶段【斗志】。<br>自身剩余HP越少，造成的伤害越多。<br>【斗志】提升5阶段可转化为【超强斗志】，<br>强化攻击·回复技能。<br>【超强斗志】将在使用对象技能后解除。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6c0d33ea3eb33415241d8f0ee34c041a2.png"></span>
+				<span>祭机一转</span>
+			</dt>
+			<dd>
+				<div>
+					解除自身的所有减益。<br>使用此技能时如自身HP不满30%，<br>10秒内自身攻击力提升15%。<br>使用此技能时如自身HP不低于30%，<br>HP将变为最大值的20%，<br>并获得【使HP最大值80%以下的伤害无效的特殊护盾】。<br>护盾仅生效1次，可与普通护盾叠加。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻击力＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队攻击力提升10%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>斗志链·斗志Ⅲ</span></dt><dd><div>获得【斗志】提升的增益时<br>有80%的概率追加提升自身1阶段【斗志】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痹抗性＋100%</span></dt><dd><div>进入“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8c8841b3f5aa35fb71f07f9075152dba2.png"></span><span>危机时·攻&攻击速度提升Ⅲ</span></dt><dd><div>HP在30%以下时，攻击力提升20%，攻击速度提升10%。</div></dd></dl></div></div></div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div><br></div><div>【特选龙介绍】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c472f318672686da1d5a1ddad786aabd.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1006</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>遁于黑暗、活在暗影中的龙。<br>身上坚硬的鳞如甲胄一般，<br>使用独特的招式打倒敌人。<br>相传人们曾向他请教并学到战术，<br>那便是日出之国忍者的起源。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5347ab03287b73332172842f38879f5a2.png"></span>
+				<span>忍术·影身手里剑</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人造成暗属性伤害，<br>使全队进入【超强斗志】状态。<br>【超强斗志】将在使用对象技能后解除。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【暗】攻击力＋20%</span></dt><dd><div>装备角色属性为暗时，<br>角色的攻击力提升20%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【暗】技能伤害＋70%</span></dt><dd><div>装备角色属性为暗时，<br>攻击技能造成的伤害提升70%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1561874400; update_time1561529156

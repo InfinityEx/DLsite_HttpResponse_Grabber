@@ -1,0 +1,8 @@
+article_id:635
+category_name:活动
+title_name:团队活动“金银岛大冒险！”终章解锁！
+image_path:
+
+message:<div>将于<span class="local_date" data-local_date="1565675999"></span>结束的团队活动&ldquo;金银岛大冒险！&rdquo;终章已解锁！</div><div>&nbsp;</div><div>玩家可在活动页面的&ldquo;限定任务&rdquo;中阅读。</div><div><br></div><div>■终章解锁期间</div><div><span class="local_date" data-local_date="1565503200"></span> ～ <span class="local_date" data-local_date="1566280799"></span></div><div>&nbsp;</div><div>■注意事项</div><div>阅读终章需在活动结束前完成活动剧情第5话。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1565503200; update_time1564127127

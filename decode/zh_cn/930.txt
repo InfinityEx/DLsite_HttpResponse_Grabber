@@ -1,0 +1,8 @@
+article_id:930
+category_name:公告
+title_name:“火山奇美拉”将在虚空之影讨伐战中登场！
+image_path:https://dragalialost.akamaized.net/attached/information/images/c212ee993bb46ca075ec41459112eeac.png
+
+message:<div><span class="local_date" data-local_date="1577340000"></span>起，&ldquo;火山奇美拉&rdquo;将在&ldquo;虚空之影讨伐战&rdquo;中登场！</div><div>同时追加可用讨伐&ldquo;火山奇美拉&rdquo;获得的素材制作的武器。</div><div><br></div><div>吸收了&ldquo;黑暗魔力&rdquo;，</div><div>全身笼罩在熊熊烈焰中的奇美拉发出令人战栗的咆哮。</div><div>渴望鲜血的利爪与尖牙在烈焰之下更显锋利，</div><div>其灼热的火焰将随时间的流逝化作难以突破的高墙！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/c212ee993bb46ca075ec41459112eeac.png"></div><div>火山奇美拉（火） 需要战力：13,000</div><div><br></div><div>■追加可用讨伐&ldquo;火山奇美拉&rdquo;获得的素材制作的武器</div><div><span class="local_date" data-local_date="1577340000"></span>起，可制作的&ldquo;虚空之影系列&rdquo;追加威力强大的武器。</div><div>获得过特定武器即可解锁用讨伐&ldquo;火山奇美拉&rdquo;获得的素材进行的武器制作。</div><div>解锁所需武器为可用讨伐&ldquo;蝎狮&middot;狂暴&rdquo;获得的素材所制作的火属性★5武器。</div><div><br></div><div>解锁所需武器根据武器种类而有所不同，详情可点击&ldquo;制作&rdquo;页面的&ldquo;制造&rdquo;中显示的&ldquo;火山奇美拉&rdquo;各武器的&ldquo;素材确认&rdquo;查看。</div><div>※可用讨伐&ldquo;火山奇美拉&rdquo;获得的素材制作的武器无法进行分解。</div><div><br></div><div>【注意事项】</div><div>参加虚空之影讨伐战需通关主线剧情第7章 5-6(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div>
+
+start_time:1576476000; update_time1575603685

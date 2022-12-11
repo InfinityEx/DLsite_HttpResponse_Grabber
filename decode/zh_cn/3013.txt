@@ -1,0 +1,198 @@
+article_id:3013
+category_name:公告
+title_name:“Dragalia Fes Extra”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1663308000"></span>起，&ldquo;Dragalia Fes Extra&rdquo;开放！</div><div><br></div><div>【关于Dragalia Fes】※含&ldquo;Dragalia Fes Extra&rdquo;</div><div>★5角色、龙的初始出现概率从4%提升至6%！</div><div>※召唤出★5或★5特选后，出现概率将变回初始概率6%。</div><div><span style="color: rgb(226, 80, 65);">※以往&ldquo;Dragalia Fes&rdquo;中追加的角色&middot;龙也可能在本召唤中登场。登场角色&middot;龙的详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</span></div><div><br></div><div>【特选对象角色】</div><div>■角色</div><div>★5 卡珊德拉（浴衣Ver.）：火/法杖</div><div><br></div><div>【以往Dragalia Fes中登场过的特选对象角色】</div><div>■角色</div><div>★5 莱姬希（Fes限定Ver.）：火/短剑</div><div><br></div><div>【Dragalia Fes Extra的出现概率】</div><div>★5 合计：6.00%</div><div>★5特选 合计：1.00%（角色：1.00%）</div><div>★5通常 合计：5.00%（角色：2.00% 龙：3.00%）</div><div>★4通常 合计：16.00%（角色：8.55% 龙：7.45%）</div><div>★3通常 合计：78.00%（角色：47.00% 龙：31.00%）</div><div><br></div><div>【Dragalia Fes Extra活动期间】</div><div><span class="local_date" data-local_date="1663308000"></span> ～ <span class="local_date" data-local_date="1663653599"></span></div><div><br></div><div>特选对象角色详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6c14a44c3ffaf6ab4cf2df8d1eb30555.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/a6bf6cc478bdfec859a5780e4a4ddade2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>805</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>469</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,524</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>将回忆中的浴衣穿在身上的前宫廷魔法师。<br>倾听彷徨之人的恸哭，<br>用治愈之杖带给他人安逸。<br>身披带来苦涩回忆之物，<br>是她斩断留恋的仪式吗？亦或是……</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3b9d73b6d9d0f95096ff35ca8a12469d2.png"></span>
+				<span>幽世金鱼</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>回复全队HP<br>并使全队获得【追击之锦】。</div><div class="skill-detail">回复力：87<br>所需SP：7,734<br>所需共享SP：15,468<br>特殊效果<br>·追击之锦<br>　效果时间：30 秒<br>　追击伤害：40%<br>　不可叠加<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>涤魂秘术</span>
+			</dt>
+			<dd><div>持续回复全队HP。</div><div class="skill-detail">所需SP：13,188<br>特殊效果<br>·HP持续回复<br>　效果时间：15 秒　<br>　效果间隔：2.9 秒<br>　效果量：35<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回复技能效果＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队回复技能效果提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【火】背水：受到伤害时·攻＋13%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为火<br>且受到伤害时获得<br>【15秒内攻击力提升13%的增益】。<br>此效果发动后5秒内不会再次发动。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP全满 攻＋20%</span></dt><dd><div>HP全满时攻击力提升20%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏迷抗性＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>技能2槽满 攻＋30%</span></dt><dd><div>技能2槽满时，攻击力提升30%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/bc654ba44c2d52e422fe910f752c08cf.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>500</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>觉醒了全新力量“伊甸园”的莱姬希<br>以及决心战斗的马斯古拉。<br>为了实现麦斯特罗的愿望而投身<br>激烈的战场。性格截然相反的二人<br>如今已开始逐渐理解彼此。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/db0ecaba45b202d4c8bc6be2ec207a572.png"></span>
+				<span>code: 14 信念</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>对前方的敌人造成伤害。<br>伊甸园模式时此技能变为“code eden: 05 严厉”，<br>对前方的敌人造成伤害，<br>使其进入“烧伤”状态。</div><div class="skill-detail">威力：210.8 × 4 Hit<br>所需SP：2,476<br>所需共享SP：5,075<br><br>(伊甸园模式)<br>威力：124 × 6 Hit<br>威力：74.4 × 2 Hit<br>威力：99.2 × 4 Hit<br>所需SP：2,476<br>特殊效果<br>·烧伤<br>　效果时间：12 秒<br>　效果间隔：3.9 秒<br>　威力：97<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c31716617139519d6cf9b46ed104cb822.png"></span>
+				<span>伊甸园模式</span>
+			</dt>
+			<dd><div>切换为伊甸园模式并启动【起源之核】。<br>【起源之核】启动时可自动进行攻击。<br>【起源之核】造成的伤害不计入技能伤害。<br>伊甸园模式时此技能变为“code eden: 01 王冠”，<br>对前方的敌人造成伤害。</div><div class="skill-detail">所需SP：7,732<br>特殊效果<br>·起源之核<br>　效果时间：20 秒<br><br>(伊甸园模式)<br>威力：560 × 3 Hit<br>威力：616 × 1 Hit<br>所需SP：3,736</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d84b02c496bd915cc9ca72d7b486190a2.png"></span>
+				<span>普通攻击＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队普通攻击造成的伤害提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/03585ae11a2b0de283c914026533b3fe2.png"></span>
+				<span>【火】连击：10连击以上 风抗＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为火<br>且连击达到10次以上时获得<br>【风属性抗性提升10%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>共鸣槽Ⅱ</span></dt><dd><div>追加共鸣槽。<br>共鸣槽有3阶段，根据阶段发动效果。<br>第1阶段：<br>获得【防御力提升20%的增益】。<br>第2阶段：<br>追加获得【攻击技能造成的伤害提升15%的增益】。<br>第3阶段：<br>追加获得【攻击力提升15%的增益】。<br>获得【起源之核】时共鸣槽无法充能。<br>【起源之核】解除后，<br>共鸣槽变为0并解除根据阶段获得的增益。<br>共鸣槽可在普通攻击、爆发攻击和冲刺攻击时充能。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea4c47784ca6465117276eb2a3d9a0d92.png"></span><span>魔幻构造Ⅱ</span></dt><dd><div>进入“昏迷”、“睡眠”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5928d08635cbad73278c1391505a73392.png"></span><span>暴击驱动Ⅱ</span></dt><dd><div>每15次连击发动【暴击率提升4%的增益】，<br>最多可叠加至3层。<br>每次暴击可获得<br>【暴击伤害倍率提升4%的增益】，<br>最多可叠加至10层。<br>此效果发动后1秒内不会再次发动。<br>连击数重置时解除此能力提供的所有增益。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 特选对象角色在&ldquo;阿尔贝里亚大逃杀&rdquo;中解锁可变更外观的&ldquo;角色皮肤&rdquo;所需道具数量将有所减少。</div><div>※部分角色无法解锁角色皮肤。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1663308000; update_time1648635324

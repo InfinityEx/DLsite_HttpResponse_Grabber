@@ -1,0 +1,8 @@
+article_id:2641
+category_name:公告
+title_name:关于“莉莉丝封灭战 绝级”掉落报酬的异常现象【更新】
+image_path:
+
+message:<div>【<span class="local_date" data-local_date="1637913600"></span>追记】<br><span class="local_date" data-local_date="1637560800"></span> ～ <span class="local_date" data-local_date="1637906400"></span>期间出现的异常现象目前已得到解决。<br><br>对于给各位玩家造成的困扰和不便，我们再次深表歉意。</div><hr><div><span class="local_date" data-local_date="1637560800"></span>左右起，&ldquo;天魔封灭战 暗之章&rdquo;的&ldquo;莉莉丝封灭战 绝级&rdquo;中出现了击败BOSS&ldquo;莉莉丝&rdquo;后可获得2倍掉落报酬的异常现象。</div><div><br></div><div>本异常现象预计将于<span class="local_date" data-local_date="1637906400"></span>左右进行的数据更新中得到修正。</div><div><br></div><div>最新进展将第一时间更新在本公告中。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div>
+
+start_time:1637745300; update_time1637913534

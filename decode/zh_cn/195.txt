@@ -1,0 +1,82 @@
+article_id:195
+category_name:公告
+title_name:“Dragalia Fes”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1547100000"></span>起，&ldquo;Dragalia Fes&rdquo;开放！</div><div><br></div><div>【关于Dragalia Fes】</div><div>&bull;★5角色、龙、龙辉护符的初始出现概率从4%提升至6%！</div><div>&bull;期间限定角色&ldquo;Fes限定Ver.&rdquo;在活动期间登场！</div><div><br></div><div>【Dragalia Fes活动期间】</div><div><span class="local_date" data-local_date="1547100000"></span> ～ <span class="local_date" data-local_date="1547531940"></span></div><div><br></div><div>【Dragalia Fes的出现概率】</div><div>★5 合计：6.00%</div><div>★5特选 合计：0.50%（角色：0.50%）</div><div>★5通常 合计：5.50%（角色：1.00%　龙：1.50%　龙辉护符：3.00%）</div><div>★4通常 合计：16.00%（角色：4.82%　龙：3.72%　龙辉护符：7.45%）</div><div>★3通常 合计：78.00%（角色：33.25%　龙：17.25%　龙辉护符：27.50%）</div><div>※因精确到小数点后2位，全部相加也可能不足100%。</div><div><br></div><div>特选对象的&ldquo;Fes限定Ver.&rdquo;角色如下：</div><div><br></div><div>【Fes限定Ver.角色介绍】</div><div>&nbsp;<div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2549c2e3bcfcf42a46ae8df2903dca8d.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>80</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>843</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>485</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>2568</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">角色详情</div>
+			<div class="param">
+				<ul>
+					<li>卢卡的妹妹，森隐族弓箭手。<br>实力不逊于哥哥，是个活泼强势的女孩。<br>必杀技重拳攻击让卢卡吃尽苦头。<br>为了助大家一臂之力，<br>离开村落踏上了消灭魔兽的旅程。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b33341fc65d15df0dddf43902ed4cf212.png"></span>
+				<span>流火逐辉</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成火属性伤害，<br>根据自身增益数量追加发射【追踪弹】。<br>最多可追加发射7发【追踪弹】。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2b2bc8b0c47c3d2efa57f9e51de8aff02.png"></span>
+				<span>鼓舞之助</span>
+			</dt>
+			<dd>
+				<div>
+					10秒内全队攻击力提升20%。<br>效果发动后技能效果变为<br>【15秒内全队防御力提升20%】。<br>再次使用该技能后恢复原技能效果。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能槽提升率提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>鲜明气势Ⅱ</span></dt><dd><div>每20次连击发动【15秒内攻击力提升2%】和【15秒内暴击率提升1%】的增益效果。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea4c47784ca6465117276eb2a3d9a0d92.png"></span><span>森阳祝福Ⅱ</span></dt><dd><div>进入“昏迷”、“睡眠”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span><span>增益技能持续时间＋30%</span></dt><dd><div>增益技能持续时间提升30%。</div></dd></dl></div></div></div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;或&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;查看。</div><div>3. 活动期间及内容可能会在无预先通知的情况下变更。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1547100000; update_time1547532377

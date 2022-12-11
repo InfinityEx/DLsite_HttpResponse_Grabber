@@ -1,0 +1,8 @@
+article_id:2268
+category_name:公告
+title_name:主线剧情追加第20章《圣树》前篇＆追加可用“龙玉”进行上限解锁的龙！
+image_path:https://dragalialost.akamaized.net/attached/information/images/8d3ddca20cbbf1d8e57774cd2891c6cd.png
+
+message:<div><span class="local_date" data-local_date="1624255200"></span>起，主线剧情已追加第20章《圣树》前篇！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/8d3ddca20cbbf1d8e57774cd2891c6cd.png"></div><div><br></div><div>追踪奈迪犹和芩罗达的第七王子一行人</div><div>终于踏入圣树。自古以来便守护大地的圣树</div><div>给心系第七王子而内心纠结的库菈乌</div><div>带来了片刻的奇迹。怀着对主人的心意</div><div>和纯粹的决心，库菈乌与宿敌展开了正面对抗&mdash;&mdash;</div><div><br></div><div>敬请关注最新的主线剧情！</div><div><br></div><div>另外，<span class="local_date" data-local_date="1624255200"></span>起，已追加可用&ldquo;龙玉&rdquo;进行上限解锁的龙。</div><div>本次追加的可用&ldquo;龙玉&rdquo;进行上限解锁的龙如下：</div><div>&middot;荷鲁斯</div><div>&middot;斯堤克斯</div><div>&middot;AC-011 加兰德</div><div>&middot;铁扇公主</div><div>&middot;拉米艾尔</div><div><br></div><div>■注意事项</div><div>1. 主线剧情第20章《圣树》前篇可在通关第19章 5-4&ldquo;前往圣树&rdquo;后解锁。</div><div>2.点击主线剧情各章区域地图中显示的&ldquo;龙玉&rdquo;图标可查看可获得的&ldquo;龙玉&rdquo;种类、持有的龙玉数量、剩余可获得次数及可获得&ldquo;龙玉&rdquo;的任务。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1624255200; update_time1623811221

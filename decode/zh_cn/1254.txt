@@ -1,0 +1,62 @@
+article_id:1254
+category_name:公告
+title_name:“Dragalia Fes”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1587708000"></span>起，&ldquo;Dragalia Fes&rdquo;开放！</div><div><br></div><div>【关于Dragalia Fes】</div><div>&middot;★5角色、龙的初始出现概率从4%提升至6%！</div><div>※召唤出★5或★5特选后，出现概率将变回初始概率6%。</div><div><br></div><div>【Dragalia Fes的出现概率】</div><div>★5 合计：6.00%</div><div>★5特选 合计：0.80％（龙：0.80％）</div><div>★5通常 合计：5.20％（角色：2.40％ 龙：2.80％）</div><div>★4通常 合计：16.00%（角色：8.55%　龙：7.45%）</div><div>★3通常 合计：78.00%（角色：47.00%　龙：31.00%）</div><div><br></div><div>【Dragalia Fes活动期间】</div><div><span class="local_date" data-local_date="1587708000"></span> ～ <span class="local_date" data-local_date="1588226340"></span></div><div><br></div><div>特选对象&ldquo;Fes限定Ver.&rdquo;龙如下：</div><div><br></div><div>【Fes限定Ver.龙介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2231de46c8d801b451caed9a17aef385.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,006</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>号称有史以来最强的龙。<br>相传他曾用火焰将百国焚为焦土，<br>人们称其为“焰龙”并畏惧着他。<br>为成为世上最强的火龙而与莱昂尼多<br>缔结契约，接受了炼金术的改造。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>炼金狱火</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成火属性伤害，<br>20秒内自身攻击力提升20%。<br>攻击时吸引敌人。<br>此技能可通过龙化时进行的攻击再次充能，<br>1次龙化最多可使用2次。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻击力提升&HP50% 攻＋20%Ⅱ</span></dt><dd><div>装备角色属性为火时，<br>角色的攻击力提升70%。<br>HP在50%以上时攻击力追加提升20%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>【火】龙化解除时·技能槽＋100%</span></dt><dd><div>装备角色属性为火时，<br>龙化解除时，自身技能槽提升100%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1587708000; update_time1587435166

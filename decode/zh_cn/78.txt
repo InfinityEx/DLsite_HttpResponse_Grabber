@@ -1,0 +1,8 @@
+article_id:78
+category_name:公告
+title_name:致各位玩家的一封信【追记】
+image_path:
+
+message:<div>致各位玩家：</div><div><br></div><div>各位玩家，大家好。</div><div>我是《Dragalia Lost ～失落的龙约～》的Director&mdash;&mdash;松浦。</div><div><br></div><div>衷心感谢各位玩家一直以来对《Dragalia Lost ～失落的龙约～》的大力支持。</div><div><br></div><div>自9/27游戏上线起，已经历1个多月的时光。</div><div>各位玩家对游戏还满意吗？</div><div><br></div><div>我们已根据10月开放的活动&quot;忠龙之愿王之魂葬&quot;中广大玩家的宝贵意见及实际情况，</div><div>对当前的活动&quot;心地善良的少女与被困的守护龙&quot;进行了一系列调整。</div><div>详情请查看版本更新公告。</div><div><br></div><div>另外，我们认为目前的游戏平衡并不能满足各位玩家所追求的游戏乐趣。</div><div><br></div><div>为让玩家能培养更多的角色并通过各角色的剧情深入体验游戏，</div><div>我们考虑适当调整游戏初期至中期的角色培养过程。</div><div>在今后的更新中，我们将调整强化角色所需的&quot;金币&quot;、&quot;魔力&quot;和&quot;水晶&quot;的获得方法和获得数量。</div><div>关于调整的具体内容，我们将在本月中旬的更新中公布。</div><div><br></div><div>最后，为让玩家更好地享受游戏，我们将向各位玩家发送以下礼物。</div><div><br></div><div>▼礼物内容</div><div>&middot;50000魔力</div><div>&middot;100000金币</div><div>&middot;金水晶 30个</div><div><br></div><div>发放完毕后将更新在本公告中。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1541397600"></span>追记</strong></span><br>我们已向<span class="local_date" data-local_date="1541394000"></span>前开始游戏的玩家发放以下道具。<br><br>&middot;50000魔力<br>&middot;100000金币<br>&middot;金水晶 30个<br><br>玩家可在&quot;礼物箱&quot;领取。<br>本次发放的道具领取期限为<span class="local_date" data-local_date="1541998740"></span>。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div>
+
+start_time:1541394000; update_time1542070233

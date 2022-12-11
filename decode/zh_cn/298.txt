@@ -1,0 +1,8 @@
+article_id:298
+category_name:公告
+title_name:关于部分设备无法启动游戏的异常现象【更新】
+image_path:
+
+message:<div>目前已确认部分设备出现了无法启动游戏的异常现象。</div><div><br></div><div>我们正在调查本异常现象的原因。</div><div>最新进展将第一时间更新在本公告中。</div><div>&nbsp;</div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><span style="color: rgb(41, 105, 176);"><strong><br></strong></span></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1552453200"></span> 追记】</strong></span><br><br>本异常现象已于<span class="local_date" data-local_date="1552453200"></span>进行的数据中得到修正。<br><br>另外，海因瓦尔德发动技能&quot;触碰深渊&quot;时显示的效果已随之进行调整。<br><br>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1552460400"></span> 追記】</strong></span><br>我们已向<span class="local_date" data-local_date="1552453200"></span>前开始游戏的玩家发放以下道具作为补偿。<br><br>&middot;龙辉晶 300个<br><br>玩家可在<span class="local_date" data-local_date="1553065199"></span>前登录游戏领取。<br>领取期限为发送至礼物箱后7天内。<br><br>对于给各位玩家造成的困扰和不便，我们再次深表歉意。</div><div><br></div><div>&nbsp;</div>
+
+start_time:1552375200; update_time1552460700

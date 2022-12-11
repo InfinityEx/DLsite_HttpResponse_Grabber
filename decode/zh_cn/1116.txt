@@ -1,0 +1,84 @@
+article_id:1116
+category_name:公告
+title_name:传说召唤“盛宴！美食梦之味 特选 Part 2”即将开放！
+image_path:
+
+message:<div>传说召唤&ldquo;盛宴！美食梦之味 特选 Part 2&rdquo;预计将于<span class="local_date" data-local_date="1583215200"></span>开放。</div><div>特选对象角色的出现概率将提升。</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※本召唤不包含同时开放的传说召唤&ldquo;盛宴！美食梦之味 特选 Part 1&rdquo;中新登场的角色和龙。</span></div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1583215200"></span> ～ <span class="local_date" data-local_date="1583992740"></span></div><div><br></div><div>新登场的特选对象角色详情如下：</div><div><br></div><div>【特选角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/797b7824b05fc5ef64fb340a6f16f8a5.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>801</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>474</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,515</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>日出之国著名料亭·七草本宗家的女儿。<br>个性认真且注重礼节，<br>但在厨艺方面不甘人后。<br>厨艺高超，尤其对煮高汤情有独钟。<br>姐弟七人中排行第三，似乎很受家人们的溺爱。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/efd46b913dcbf7a981d5a5ac72ee59ec2.png"></span>
+				<span>备菜不怠方成馐</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成水属性伤害，并造成以下效果。<br>刺身船模式：使敌人进入“冻伤”状态。<br>天妇罗模式：提升对进入“冻伤”状态的敌人造成的伤害。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/52fb94e7033fa9c18241d4aa85a71c102.png"></span>
+				<span>宾至如归珍一品</span>
+			</dt>
+			<dd>
+				<div>
+					使全队获得以下效果。<br>刺身船模式：<br>15秒内暴击率提升10%，提升2阶段【灵感】。<br>天妇罗模式：<br>15秒内暴击伤害倍率提升50%，提升3阶段【灵感】。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>暴击率＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队暴击率提升10%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾风怒涛·攻＋20%</span></dt><dd><div>连击达到15次以上时攻击力提升20%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>烧伤抗性＋100%</span></dt><dd><div>进入“烧伤”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span><span>连击数持续时间＋4秒</span></dt><dd><div>最后一次攻击命中后至连击数重置前的时间延长4秒。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>【角色特征】</div><div>三叶可通过切换&ldquo;模式&rdquo;灵活地进行战斗。</div><div>点击战斗中显示的专用图标即可在【刺身船模式】、【天妇罗模式】间切换，攻击和效果将根据不同&ldquo;模式&rdquo;发生变化。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/56d0843aa0312efb3b3247db241cb9f9.png"><br></div><div><br></div><div>▼刺身船模式</div><div>连击达到20次及以上时普通攻击发生变化，变为片鱼动作攻击敌人。</div><div>技能&ldquo;备菜不怠方成馐&rdquo;对敌人造成伤害，使其进入&ldquo;冻伤&rdquo;状态。</div><div>技能&ldquo;宾至如归珍一品&rdquo;使全队获得暴击率提升的增益及&ldquo;灵感&rdquo;。</div><div><br></div><div>▼天妇罗模式</div><div>连击达到20次及以上时普通攻击发生变化，变为炸天妇罗动作攻击敌人。</div><div>技能&ldquo;备菜不怠方成馐&rdquo;对敌人造成伤害，对进入&ldquo;冻伤&rdquo;状态的敌人造成的伤害提升。</div><div>技能&ldquo;宾至如归珍一品&rdquo;使全队获得暴击伤害提升的增益及&ldquo;灵感&rdquo;。</div><div><br></div><div>※连击数达到20次及以上时，下一次普通攻击将发生变化。</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1583128800; update_time1582868713

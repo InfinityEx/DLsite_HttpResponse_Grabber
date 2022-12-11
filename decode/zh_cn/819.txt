@@ -1,0 +1,8 @@
+article_id:819
+category_name:公告
+title_name:关于竞速赛排行榜中出现的异常现象
+image_path:
+
+message:<div>目前已确认各&ldquo;真龙之试炼 高级&rdquo;的竞速赛排行榜中出现了以下异常现象：</div><div><br></div><div>&middot;过关时间分布中可能显示101%。</div><div>※本现象仅为显示异常。</div><div>&middot;TOP25排行榜中，过关时间入围排行榜的队伍可能未在排行榜中显示。</div><div><br></div><div>上述异常现象预计将于<span class="local_date" data-local_date="1571205600"></span>进行的下次排行榜更新中进行修正。</div><div>修正后将更新在本公告中。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1571205600"></span>追记】</strong></span><br>本公告中记载的异常现象已于<span class="local_date" data-local_date="1571205600"></span>修正完毕。<br><br>对于给各位玩家造成的困扰和不便，我们深表歉意。</div>
+
+start_time:1571133000; update_time1571207455

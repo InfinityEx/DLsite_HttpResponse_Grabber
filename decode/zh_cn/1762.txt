@@ -1,0 +1,220 @@
+article_id:1762
+category_name:公告
+title_name:光属性★5角色确定！“白金传说召唤”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1604642400"></span>起，&ldquo;白金传说召唤&rdquo;开放！</div><div><br></div><div>白金传说召唤是&ldquo;10连召唤&rdquo;的第10位确定为光属性★5角色的召唤。</div><div><span style="color: rgb(226, 80, 65);">※光属性以外的角色&middot;龙不会出现在本召唤中。</span></div><div>活动期间最多可进行2次&ldquo;10连召唤&rdquo;。</div><div>本召唤仅限使用龙钻。</div><div><br></div><div>【白金传说召唤期间】</div><div><span class="local_date" data-local_date="1604642400"></span> ～ <span class="local_date" data-local_date="1605247199"></span></div><div><br></div><div>&ldquo;白金传说召唤&rdquo;第10位确定出现的部分对象光属性★5角色详情如下：</div><div><br></div><div>【第10位确定对象光属性★5角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/080680256c40fd281cce297dbad7097e.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,500</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>可使用模式</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/48f0cf6b6186ad0c7fa467c24cc47eea2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/b8a3b3884cac48715702c5bf401cd8b22.png"><img src="https://dragalialost.akamaized.net/attached/information/images/26f43aab3c39a2bcdadd1b40dd88e7402.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>拥有稀世才能的炼金术士，甚至炼出了<br>被普遍认为不可能成功的“异界之匙”。<br>她的父母被军方杀害，由精灵一手养大。<br>虽然她希望过上自由的人生，<br>但这个世界却不肯放过天赋异禀的她。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/775392a8a09a554df496b2a54960c3e62.png"></span>
+				<span>驱动爆破</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对目标造成光属性伤害，<br>使其进入“闪热”状态。<br>【多重目标】技能可以多个敌人为目标发动。<br>拥有至少1个【炼金弹夹】时，此技能变为以下效果：<br>对直线上的敌人造成光属性伤害，<br>使其进入“闪热”状态。<br>消耗1个【炼金弹夹】。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>炼金强化</span>
+			</dt>
+			<dd>
+				<div>
+					根据当前已充满的【炼金槽】数量，<br>20秒内为自身提供【炼金弹夹】。<br>此效果期间使用爆发攻击将发射【正确答案】。<br>【正确答案】将消耗所有【炼金弹夹】<br>并根据消耗的数量提升命中数。<br>此技能仅可在至少充满1条【炼金槽】时使用。<br>拥有至少1个【炼金弹夹】时，此技能变为以下效果：<br>对前方的敌人造成光属性伤害。<br>消耗1个【炼金弹夹】。<br>学会此技能时追加【炼金槽】。<br>无【炼金弹夹】时，普通攻击、回避攻击和爆发攻击<br>命中敌人可为【炼金槽】充能。<br>连击数不低于30时，【炼金槽】充能量提升。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>怒气槽减少量＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队怒气槽减少量提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】连击：10连击以上 暗抗＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为光<br>且连击达到10次以上时获得<br>【暗属性抗性提升10%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3c27f8fc4d7206c65512f3f2c27c30762.png"></span><span>近似答案Ⅱ</span></dt><dd><div>滑动屏幕回避时，<br>对目标发动追加攻击。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>探寻答案Ⅱ</span></dt><dd><div>进入“中毒”、“诅咒”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>暴击输出Ⅱ</span></dt><dd><div>【炼金弹夹】增益因时间经过以外的因素解除时，<br>自身获得【15秒内暴击率提升30%的增益】。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8a4c99b98aeb6f4caa8e3453b728c183.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>767</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>492</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>为与猫一起冲浪而换上泳装的米科特。<br>奔波各地寻找爱猫刀背斩的他<br>听说了冲浪猫的传闻而来到海边。<br>这次他换上了自己擅长的弓箭<br>来为小猫们捕射鱼儿。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/90d8cd6109c5aa230672ce95592b1e492.png"></span>
+				<span>闪辉弓·奉射灭相</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成光属性伤害，使其进入“麻痹”状态。<br>通过能力“天之声”获得<br>【照破之闪】和【天潮之闪】2种增益期间，<br>此技能得到强化并获得以下追加效果。<br>追加效果：技能威力提升<br>并对进入“麻痹”状态的敌人造成的伤害提升。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>闪辉板·浩然正气</span>
+			</dt>
+			<dd>
+				<div>
+					30秒内自身攻击力提升20%。<br>通过能力“天之声”获得<br>【照破之闪】和【天潮之闪】2种增益期间，<br>此技能得到强化并获得以下追加效果。<br>追加效果：30秒内暴击率提升20%，<br>暴击伤害倍率提升15%。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能槽上升率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】麻痹：麻痹触发·暗抗＋8%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为光<br>且使敌人进入麻痹状态时获得<br>【15秒内暗属性抗性提升8%的增益】。<br>此效果发动后10秒内不会再次发动。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/0c5841f62a44ce904527e0e5e75265e52.png"></span><span>天之声Ⅱ</span></dt><dd><div>防御力提升5%，爆发攻击发生变化。<br>任务开始时12秒内自身获得【阳之闪】，<br>此效果期间使用爆发攻击时自身获得【照破之闪】。<br>【照破之闪】效果不会重复。<br>【阳之闪】效果结束后12秒内自身获得【浪之闪】，<br>此效果期间使用爆发攻击时自身获得【天潮之闪】。<br>【天潮之闪】效果不会重复。<br>【浪之闪】效果结束后12秒内自身获得【阳之闪】。<br>同时拥有【照破之闪】、【天潮之闪】时强化技能<br>“闪辉弓·奉射灭相”和“闪辉板·浩然正气”。<br>【照破之闪】和【天潮之闪】<br>在使用上述技能之一后解除。<br>【阳之闪】和【浪之闪】不受<br>能力“增益持续时间＋”效果影响。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>诅咒抗性＋100%</span></dt><dd><div>进入“诅咒”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5928d08635cbad73278c1391505a73392.png"></span><span>电闪雷鸣Ⅱ</span></dt><dd><div>对进入“麻痹”状态的敌人的暴击率提升20%<br>且暴击伤害倍率提升15%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>【注意事项】</div><div>1. &ldquo;白金传说召唤&rdquo;详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;白金传说召唤&rdquo;，查看&ldquo;出现概率&rdquo;或&ldquo;召唤信息&rdquo;中的&ldquo;详情&rdquo;。</div><div>2. &ldquo;白金传说召唤&rdquo;和传说召唤&ldquo;歌剧院的怪盗 特选&rdquo;同时开放。可点击召唤页面上方的&ldquo;&lt;&rdquo;和&ldquo;&gt;&rdquo;图标进行切换。</div><div>3. 传说召唤&ldquo;歌剧院的怪盗 特选&rdquo;中提升的★5出现概率不会因&ldquo;白金传说召唤&rdquo;而重置。</div><div>4. 其它注意事项可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，进入&ldquo;召唤信息&rdquo;&rarr;&ldquo;详情&rdquo;&rarr; &ldquo;注意事项&rdquo;查看。</div><div>5. &ldquo;白金传说召唤&rdquo;中无法获得&ldquo;龙辉之印&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1604642400; update_time1604458791

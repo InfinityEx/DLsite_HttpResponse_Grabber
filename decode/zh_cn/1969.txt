@@ -1,0 +1,164 @@
+article_id:1969
+category_name:公告
+title_name:传说召唤“PERSONA5 SCRAMBLE 失心之乱 特选 Part2”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1612591200"></span>起，传说召唤&ldquo;PERSONA5 SCRAMBLE 失心之乱 特选 Part2&rdquo;开放！</div><div><br></div><div>期间限定的角色&middot;龙在传说召唤中登场。</div><div>另外，特选对象角色&middot;龙的出现概率提升。</div><div><br></div><div>【新登场的期间限定特选对象角色】</div><div>■角色</div><div>★5 PANTHER：火/枪</div><div><br></div><div>【再次登场的期间限定特选对象龙】</div><div>■龙</div><div>★5 亚森：暗</div><div><br></div><div>以下期间限定角色也将在本次传说召唤&ldquo;PERSONA5 SCRAMBLE 失心之乱 特选 Part2&rdquo;中再次登场。</div><div><span style="color: rgb(226, 80, 65);">※以下角色非特选对象。</span></div><div><br></div><div>【再次登场的期间限定角色】</div><div>■角色</div><div>★5 JOKER：暗/短剑</div><div>★5 MONA：风/剑</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※&ldquo;龙辉之印&rdquo;仅可用于其获得时的召唤。传说召唤&ldquo;PERSONA5 SCRAMBLE 失心之乱 特选 Part1&rdquo;中获得的&ldquo;龙辉之印&rdquo;无法用于传说召唤&ldquo;PERSONA5 SCRAMBLE 失心之乱 特选 Part2&rdquo;。</span></div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1612591200"></span> ～ <span class="local_date" data-local_date="1613109599"></span></div><div><br></div><div>特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/15a457cb55b48d3db0054c318a7e1b8d.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>749</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>510</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>拥有出色外表和温柔内心的少女。<br>曾为保护挚友而牺牲自己，与JOKER一行<br>一起行动后决心反抗邪恶的大人们。<br>同时也觉醒了人格面具能力<br>并成为“心之怪盗团”的一员。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/043043e46b37ae46cb8ed5b5e9618b112.png"></span>
+				<span>超燃烧</span>
+			</dt>
+			<dd><div>【通常状态时】<br>对前方的敌人造成伤害。<br>此技能命中时，自身召唤槽上升。<br>自身获得【火焰强化】增益和【精确射击】增益。<br>【召唤卡门期间】<br>对前方的敌人造成伤害。<br>对“劫火”状态的敌人造成的伤害提升。</div><div class="skill-detail">
+
+威力：855 × 1 Hit<br>所需SP：5,920<br>特殊效果<br>·精确射击<br>　攻击力提升10%<br>　效果时间：15 秒<br>　不可叠加<br>·火焰强化<br>　火属性攻击力提升10%<br>　效果时间：15 秒<br>　不可叠加<br>召唤槽回复量：300<br><br>
+
+（卡门现身时）<br>威力：1496.2 × 1 Hit<br>所需SP：5,920<br>对特定状态敌人造成的伤害倍率<br>·劫火：135%</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd5464d0aeb6d41964c19ee25f922b922.png"></span>
+				<span>喜欢热情的人吗？</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>【通常状态时】<br>对前方的敌人造成伤害，<br>使其进入“劫火”状态。<br>【召唤卡门期间】<br>对前方的敌人造成伤害，<br>使其攻击力下降。<br>此效果不可叠加。<br>解除敌人1个增益效果。<br>解除敌人增益时，<br>使其火属性抗性下降。<br>此效果不可叠加。</div><div class="skill-detail">
+
+威力：267.1 × 3 Hit<br>威力：293.9 × 3 Hit<br>所需SP：11,840<br>所需共享SP：10,656<br>特殊效果<br>·劫火<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：31.1<br>召唤槽回复量：300<br><br>
+
+（卡门现身时）<br>威力：997.5 × 1 Hit<br>所需SP：11,840<br>特殊效果<br>·攻击力下降20%<br>　效果时间：30 秒<br>　不可叠加<br>·增益解除<br>·火属性抗性下降5%<br>　效果时间：30 秒<br>　不可叠加</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/71d793fb535ac808bdfe31e27ebe9b8b2.png"></span>
+				<span>燃烧率UPⅤ</span>
+			</dt>
+			<dd>
+				<div>
+					全队使敌人进入“劫火”状态的概率提升20%，<br>“劫火”状态的持续时间提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/132b47160438f5bd6b9ef2830f9358c82.png"></span>
+				<span>【火】热情焰舞Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为火时，<br>龙化时间延长20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/029eba960e21943162dd77888930a3d02.png"></span><span>魅舞之豹Ⅱ</span></dt><dd><div>·部分攻击获得“火焰”属性，<br>龙化按钮变为卡门召唤按钮。<br>召唤卡门期间，角色攻击时卡门将进行追加攻击。<br>·爆发攻击变为【冲锋枪】。<br>·防御力提升6%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠抗性＋100%</span></dt><dd><div>进入“睡眠”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ba1d939f31aa624b013b900d03a48812.png"></span><span>劫火触发·火属性攻击提升Ⅱ</span></dt><dd><div>使敌人进入劫火状态时，自身获得<br>【对风属性敌人造成的伤害倍率提升10%】的增益。<br>此效果最多可叠加至3层，<br>发动后5秒内不会再次发动。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/65028678f867c9d0827bfb65690821b0.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>JOKER的人格面具——“亚森”。<br>有着如面具般的样貌<br>和巨大的漆黑双翼。<br>那面具之下究竟隐藏着何种力量，<br>而“亚森”又有什么样的秘密？</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2719fe27911749dfccf7afb09adc17d52.png"></span>
+				<span>摩诃影牙</span>
+			</dt>
+			<dd><div>对目标和目标周围的敌人造成伤害。</div><div class="skill-detail">
+
+威力：2,540 × 1 Hit<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>攻击诀窍＋90%</span></dt><dd><div>装备角色攻击技能造成的伤害提升90%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>高级咒怨强化＋90%</span></dt><dd><div>装备角色属性为暗时，<br>攻击技能造成的伤害提升90%。<br>装备角色的攻击获得咒怨属性。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>■关于&ldquo;亚森&rdquo;</div><div>龙&ldquo;亚森&rdquo;缔结契约后即为最大信赖度状态。</div><div>&ldquo;亚森&rdquo;的龙剧情将在缔结契约时解锁，阅读前篇&middot;后篇后可获得与在&ldquo;龙之庭院&rdquo;中送礼时获得的&ldquo;来自龙的回礼&rdquo;同等的报酬。</div><div>※龙剧情后篇可在阅读前篇后解锁。</div><div>※&ldquo;圣城&rdquo;的&ldquo;龙之庭院&rdquo;龙一览中将不显示也无法选择&ldquo;亚森&rdquo;。</div><div>※与&ldquo;亚森&rdquo;缔结契约无法完成&ldquo;王子育成训练&rdquo;中的目标&ldquo;将龙的信赖度提升至10吧&rdquo;和&ldquo;将龙的信赖度提升至30吧&rdquo;。</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1612591200; update_time1612492941

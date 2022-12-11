@@ -1,0 +1,243 @@
+article_id:2553
+category_name:公告
+title_name:追加部分龙可进行上限解锁的第5阶段！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1635400800"></span>起，追加部分龙可进行上限解锁的第5阶段。</div><div><br></div><div>本次追加的对象龙及其数值如下：</div><div><br></div><div>■对象龙</div><div>★5 坎贝萝丝：火</div><div>★5 利维坦：水</div><div>★5 迦楼罗：风</div><div>★5 丘比特：光</div><div>★5 普鲁托：暗</div><div><br></div><div>■数值介绍</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/37ccc946be118ab07b2b5351af51b51a2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">坎贝萝丝</div><div class="cv">CV:喜多村英梨</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>389</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>147</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,146</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/46abce3ca5f53484635af11860f0d2c02.png"></span>
+				<span>熔岩·天谴</span>
+			</dt>
+			<dd><div>对目标和目标周围的敌人造成伤害，<br>使其攻击力和防御力下降<br>并使其进入“烧伤”状态。</div><div class="skill-detail">威力：220 × 7 Hit<br>特殊效果<br>·攻击力下降5%<br>　效果时间：10 秒<br>·防御力下降5%<br>　效果时间：10 秒<br>·烧伤<br>　效果时间：12 秒<br>　效果间隔：3.9 秒<br>　威力：97<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻击力＋65%</span></dt><dd><div>装备角色属性为火时，<br>角色的攻击力提升65%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>【火】力量激发Ⅰ</span></dt><dd><div>装备角色属性为火时，<br>任务开始时180秒内自身获得【力量激发】增益，<br>此效果期间攻击力提升30%。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/3bb410e6373f0358abe726cedf7d0ecd2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">利维坦</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>390</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>145</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,145</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0d671ee9f1118cae073adf924e4165c92.png"></span>
+				<span>漩涡风暴</span>
+			</dt>
+			<dd><div>对前方的敌人造成伤害，<br>使其进入“湿身”状态。</div><div class="skill-detail">威力：1,827 × 1 Hit<br>特殊效果<br>·湿身<br>　效果时间：8 秒<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【水】攻击力＋65%</span></dt><dd><div>装备角色属性为水时，<br>角色的攻击力提升65%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>【水】力量激发Ⅰ</span></dt><dd><div>装备角色属性为水时，<br>任务开始时180秒内自身获得【力量激发】增益，<br>此效果期间攻击力提升30%。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/d560e09cdc2027d06c492d67464eb2782.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">迦楼罗</div><div class="cv">CV:甲斐田裕子</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>403</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>134</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,147</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/357e4f36af381dcafe47e2ec6d1c69112.png"></span>
+				<span>魅惑飞吻</span>
+			</dt>
+			<dd><div>对前方的敌人造成伤害<br>并根据造成伤害回复HP。</div><div class="skill-detail">威力：420 × 3 Hit<br>HP吸取<br>·回复量：造成伤害的37%<br>　回复对象：自身<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【风】HP＋65%</span></dt><dd><div>装备角色属性为风时<br>HP提升65%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>【风】力量激发Ⅳ</span></dt><dd><div>装备角色属性为风时，<br>任务开始时180秒内自身获得【力量激发】增益，<br>此效果期间攻击力提升60%。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/1829afbdaf9119a1f41ccdd6a67fff9d2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">丘比特</div><div class="cv">CV:伊濑茉莉也</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>397</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>139</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,146</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>Lovely Pose</span>
+			</dt>
+			<dd><div>回复所有同伴的HP。<br>全队暴击率提升。</div><div class="skill-detail">回复力：30<br>特殊效果<br>·暴击率提升25%<br>　效果时间：15 秒<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻击力＋65%</span></dt><dd><div>装备角色属性为光时，<br>角色的攻击力提升65%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>【光】力量激发Ⅰ</span></dt><dd><div>装备角色属性为光时，<br>任务开始时180秒内自身获得【力量激发】增益，<br>此效果期间攻击力提升30%。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/d79918f35046d45a8184dcfc7971701f2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">普鲁托</div><div class="cv">CV:森川智之</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>388</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>148</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,146</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>恒久伤痛</span>
+			</dt>
+			<dd><div>对目标和目标周围的敌人造成伤害，<br>使其进入“中毒”状态。</div><div class="skill-detail">威力：980 × 1 Hit<br>特殊效果<br>·中毒<br>　效果时间：15 秒<br>　效果间隔：2.9 秒<br>　威力：58.2<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【暗】攻击&龙之恩赐Ⅵ</span></dt><dd><div>装备角色属性为暗时，<br>角色的攻击力提升60%，<br>龙化时自身获得【任务中攻击力提升10%的增益】。<br>此效果每回任务最多发动2次。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>【暗】力量激发Ⅰ</span></dt><dd><div>装备角色属性为暗时，<br>任务开始时180秒内自身获得【力量激发】增益，<br>此效果期间攻击力提升30%。</div></dd></dl></div></div></div><div><br></div><div><br></div><div>■注意事项</div><div>1. 本公告中记载的龙为Lv120、第5阶段上限解锁、最大信赖度时的数值。</div><div>2. 数值不含因能力而变动的部分。</div><div>3. 本公告前发布的公告或视频中记载的上述龙为Lv100、最大信赖度时的数值。</div><div><br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1635314400; update_time1635133100

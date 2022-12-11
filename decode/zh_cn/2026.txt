@@ -1,0 +1,8 @@
+article_id:2026
+category_name:公告
+title_name:“天魔封灭战”延期开放公告
+image_path:
+
+message:<div>为向各位玩家提供更优质的游戏内容，原定于<span class="local_date" data-local_date="1614924000"></span>开放的&ldquo;天魔封灭战&rdquo;将延期至3月中旬开放。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>具体开放时间等详情日后将另行公告。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1614578400; update_time1614564855

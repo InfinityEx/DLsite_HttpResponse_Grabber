@@ -1,0 +1,8 @@
+article_id:1827
+category_name:活动
+title_name:团队活动“公主连结Re:Dive 新朋友与异世界美食”终章追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/95befe27ad93d2f5e59351b215db83e6.png
+
+message:<div><span class="local_date" data-local_date="1607925599"></span>结束的团队活动&ldquo;公主连结Re:Dive 新朋友与异世界美食&rdquo;已追加终章！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/95befe27ad93d2f5e59351b215db83e6.png"></div><div><br></div><div>玩家可在&ldquo;主页&rdquo;点击左下方的浮窗进入&ldquo;团队活动&rdquo;的&ldquo;限定任务&rdquo;阅读。</div><div><br></div><div>■终章解锁期间</div><div><span class="local_date" data-local_date="1607925600"></span> ～ <span class="local_date" data-local_date="1608530399"></span></div><div>&nbsp;</div><div>■注意事项</div><div>终章仅限活动结束时已完成活动剧情第6话的玩家阅读。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div>
+
+start_time:1607925600; update_time1607053815

@@ -1,0 +1,8 @@
+article_id:1246
+category_name:活动
+title_name:活动【复刻】“FIRE EMBLEM 彼此相连的世界”即将开放！
+image_path:https://dragalialost.akamaized.net/attached/information/images/609c7122e11a32602603945706d9e528.png
+
+message:<div>活动【复刻】&ldquo;FIRE EMBLEM 彼此相连的世界&rdquo;预计将于<span class="local_date" data-local_date="1587362400"></span>开始。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/ef77497bd45f63590d697aa364e60c2c.png"></div><div><br></div><div>来自异世界的英雄们</div><div>如今，降临于失落龙约的世界！</div><div>激烈交锋的两位王子。</div><div>势均力敌的&ldquo;开启之力&rdquo;与&ldquo;龙之血&rdquo;。</div><div>与此同时，妖艳使者正率大军逼近。</div><div>交织在一起的信念，将引领世界走向何方&hellip;&hellip;</div><div><br></div><div>■活动期间</div><div><span class="local_date" data-local_date="1587362400"></span> ～ <span class="local_date" data-local_date="1589263199"></span></div><div><br></div><div>■注意事项</div><div>1. 参加活动任务需通关主线剧情第2章2-1(Normal)。</div><div>2. 参加多人模式需通关主线剧情第2章2-1(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。&quot;</div>
+
+start_time:1587103200; update_time1587031473

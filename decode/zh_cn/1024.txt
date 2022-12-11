@@ -1,0 +1,8 @@
+article_id:1024
+category_name:公告
+title_name:主线剧情第11章《可悲的战斗人偶》追加新剧情！
+image_path:https://dragalialost.akamaized.net/attached/information/images/7e3e2f31242358c1e4f9992493a7ca2c.png
+
+message:<div><span class="local_date" data-local_date="1579759200"></span>起，主线剧情第11章《可悲的战斗人偶》追加新剧情！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/7e3e2f31242358c1e4f9992493a7ca2c.png"></div><div>阿尔贝里亚王家的秘史，如今将重见天日&hellip;&hellip;</div><div>从哈尔口中得知真相的埃尔菲莉丝也不知所措。</div><div>书简和史书上所记载的、被王家隐藏的真相究竟是&hellip;&hellip;</div><div><br></div><div>敬请关注！</div><div><br></div><div>■注意事项</div><div>&middot;完成主线剧情第11章6-3&ldquo;两人的&lsquo;心&rsquo;&rdquo;即可解锁主线剧情第11章《可悲的战斗人偶》追加的新剧情。</div><div>&middot;追加的新剧情仅部分内容有语音。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1579759200; update_time1579232180

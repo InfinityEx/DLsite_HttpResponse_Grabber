@@ -1,0 +1,236 @@
+article_id:971
+category_name:公告
+title_name:“附奖传说召唤”即将开放！
+image_path:
+
+message:<div>&ldquo;附奖传说召唤&rdquo;预计将于<span class="local_date" data-local_date="1577340000"></span>开放。</div><div><br></div><div>&ldquo;附奖传说召唤&rdquo;中，特选对象角色的出现概率将提升。</div><div>进行&ldquo;附奖传说召唤&rdquo;可在获得角色&middot;龙的同时获得&ldquo;附奖&rdquo;。</div><div>附奖有白金奖、金奖、银奖、铜奖、5等、6等共计6种，白金奖可获得金刚晶或大马士革钢。</div><div>10连召唤第10次的附奖必为白金奖、金奖、银奖、铜奖其中之一。</div><div><span style="color: rgb(226, 80, 65);">获得的附奖可在礼物箱的&ldquo;无期限&rdquo;中领取。</span></div><div><br></div><div>【附奖传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1577340000"></span> ～ <span class="local_date" data-local_date="1577771999"></span></div><div><br></div><div>部分附奖详情如下：</div><div><br></div><div>※其它附奖一览和出现概率可在&ldquo;附奖传说召唤&rdquo;开放期间点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;并在&ldquo;出现概率&rdquo;的&ldquo;附奖&rdquo;中查看。</div><div><br></div><div>【部分附奖内容】</div><div>■白金奖</div><div>白金奖可根据出现概率获得以下道具中的1种。</div><div>&middot;金刚晶 1个</div><div>&middot;大马士革钢 1个</div><div><br></div><div>■金奖</div><div>金奖可根据出现概率获得以下道具中的1种。</div><div>&middot;金刚原石 5个</div><div>&middot;梦幻之圣匙 2个</div><div>&middot;星之砂 7个</div><div><br></div><div>■银奖</div><div>银奖可根据出现概率获得以下道具中的1种。</div><div>&middot;英雄之证 2个</div><div>&middot;金刚原石 2个</div><div>&middot;大马士革晶体 2个</div><div>&middot;月光晶 2个</div><div><br></div><div>部分特选对象角色详情如下：</div><div><br></div><div>【特选角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/fb8e05974ab6574a25b6f88c04981971.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>从异国游历而来的青年。<br>操纵宝石中封入的魔力，<br>使用“宝石魔法”。<br>身为剑术高超、心胸宽广的才俊，<br>却不知为何不擅长和女性打交道。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>爆发之刃</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成火属性伤害。<br>攻击时根据“气念结晶”强化阶段发射【炎刃】。<br>“气念结晶”最多可强化5个阶段。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/61659e0574213d0f815d202bee44a6312.png"></span>
+				<span>气念结晶</span>
+			</dt>
+			<dd>
+				<div>
+					发动【宝石魔法·炎刃强化】。<br>10秒内自身防御力提升15%，强化技能“爆发之刃”。<br>“爆发之刃”最多可强化5个阶段，<br>此效果在任务中持续发动。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龙化增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化槽上升率提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>狮子奋进·攻＋6%</span></dt><dd><div>每打倒5个敌人<br>即发动【攻击力提升6%的增益】。<br>此效果每回任务最多发动5次。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠抗性＋100%</span></dt><dd><div>进入“睡眠”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>开场技能槽＋100%</span></dt><dd><div>任务开始时技能槽提升100%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/4229c01ed49001669b1ffc22c8b05998.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>798</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>476</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,514</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>对自己的才能深信不疑的天才少女。<br>操控武器和魔力的水准都是一流。<br>性格目中无人，<br>经常惹麻烦把周围的人耍得团团转，<br>但拥有足以夸下海口的实力。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>流星乱舞</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成火属性伤害。<br>攻击时可进行移动。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>闪耀地狱</span>
+			</dt>
+			<dd>
+				<div>
+					15秒内发动【地狱模式】。<br>【地狱模式】中自身攻击力提升15%<br>并获得普通攻击可降低对方防御力的效果。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>暴击率＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队暴击率提升10%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾风怒涛·衰弱＋20%</span></dt><dd><div>连击达到15次以上时，<br>对敌人造成减益效果的概率提升20%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠抗性＋100%</span></dt><dd><div>进入“睡眠”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a92e675fd730e94b01a7ce6f30bea04b2.png"></span><span>破防特效＋30%</span></dt><dd><div>对被破防的敌人造成的伤害提升30%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6ff97e31e768ce15c3824c74ea06ae01.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>514</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>处事淡然而豁达的原宫廷魔法师。<br>亚罗拉斯王幼年时期便已身在王城，<br>于公于私都支持着亚罗拉斯王。<br>好像很在意身为亚罗拉斯王儿子的王子。<br>外表看起来非常年轻，但实际年龄在60岁以上。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/664ab15021624233c6463200327f209d2.png"></span>
+				<span>暗黑阴爪</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成暗属性伤害。<br>任务中自身HP最大值提升5%。<br>自身HP提升效果达到上限时，<br>变为HP回复效果。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9ea8a32b7cfc8137849e156a527c44202.png"></span>
+				<span>紫堇咆哮</span>
+			</dt>
+			<dd>
+				<div>
+					【暗夜术式】展开后<br>对目标和目标周围的敌人造成暗属性伤害。<br>根据【暗夜术式】展开时<br>自身受到的伤害给予特殊伤害。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能伤害＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能伤害提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>开场技能槽＋100%</span></dt><dd><div>任务开始时技能槽提升100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痹抗性＋100%</span></dt><dd><div>进入“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>起死回生·攻＋10%</span></dt><dd><div>HP在30%以下时，<br>发动【任务中攻击力提升10%的增益】。<br>此效果每回任务最多发动3次。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;或&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;查看。</div><div>3. 附奖一览和出现概率可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;出现概率&rdquo;，查看&ldquo;附奖&rdquo;。</div><div>4. &ldquo;10连召唤&rdquo;获得的道具重复时，同种道具将统一发送至礼物箱的&ldquo;无期限&rdquo;中。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1577253600; update_time1577155205

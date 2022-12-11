@@ -1,0 +1,8 @@
+article_id:2673
+category_name:公告
+title_name:主线剧情追加第23章《“起始之人”》前篇！
+image_path:https://dragalialost.akamaized.net/attached/information/images/e8e70d93a46f08eb92a240f4d1c32405.png
+
+message:<div><span class="local_date" data-local_date="1639980000"></span>起，主线剧情已追加第23章《&ldquo;起始之人&rdquo;》前篇！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/e8e70d93a46f08eb92a240f4d1c32405.png"></div><div><br></div><div>圣都格拉姆斯因撒旦的肆虐而化作废墟。</div><div>仿佛是在嘲笑着为重建圣都而奔走的众人，</div><div>&ldquo;起始之人&rdquo;的影子始终若隐若现。</div><div>在法尔艾斯和贝维特的操作之下，</div><div>造物主归来的脚步逐渐逼近&hellip;&hellip;</div><div><br></div><div>敬请关注最新的主线剧情！</div><div><br></div><div>■注意事项</div><div>1. 主线剧情第23章《&ldquo;起始之人&rdquo;》前篇可在通关第22章 5-4&ldquo;临行的馈赠&rdquo;后解锁。</div><div>2. 本次主线剧情前篇追加时将不追加新的可用&ldquo;龙玉&rdquo;进行上限解锁的龙。点击主线剧情各章区域地图中显示的&ldquo;龙玉&rdquo;图标可查看可获得的&ldquo;龙玉&rdquo;种类、持有的龙玉数量、剩余可获得次数及可获得&ldquo;龙玉&rdquo;的任务。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1639980000; update_time1639963385

@@ -1,0 +1,188 @@
+article_id:2479
+category_name:公告
+title_name:暗属性★5角色确定！“白金传说召唤”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1631858400"></span>起，&ldquo;白金传说召唤&rdquo;开放！</div><div><br></div><div>白金传说召唤是&ldquo;10连召唤&rdquo;的第10位确定为暗属性★5角色的召唤。</div><div><span style="color: rgb(226, 80, 65);">※暗属性以外的角色&middot;龙不会出现在本召唤中。</span></div><div>活动期间最多可进行2次&ldquo;10连召唤&rdquo;。</div><div>本召唤仅限使用龙钻。</div><div><br></div><div>【白金传说召唤期间】</div><div><span class="local_date" data-local_date="1631858400"></span> ～ <span class="local_date" data-local_date="1632722399"></span></div><div><br></div><div>&ldquo;白金传说召唤&rdquo;第10位确定出现的部分对象暗属性★5角色详情如下：</div><div><br></div><div>【第10位确定对象暗属性★5角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a21ed038074a3c693d0fe7084395128e.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,498</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>可使用模式</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/6312b216795ce6aa08c57851351eeb1b2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/d45c68ecb3b1d88cba2136c949f214772.png"><img src="https://dragalialost.akamaized.net/attached/information/images/c10d099648b4bc58a4f2bde4fe0dfd752.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>换上性感泳装的绯龙。<br>不知道是不是因为成熟的魅力<br>和风韵见长的缘故，给人一种<br>暗之魔力被激活的感觉。手持谢斯送的铳，<br>（计划）瞄准王子的心发射致命一击。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3cc7e63555e75a6121c412637b8b12272.png"></span>
+				<span>暮色回忆</span>
+			</dt>
+			<dd><div>【通常状态时】<br>·对周围的敌人造成伤害，<br>使其防御力下降并进入“暗殇”状态。<br>·攻击命中时为强袭槽充能。<br>【强袭模式时】<br>·对周围的敌人造成伤害，<br>使其防御力下降并进入“暗殇”状态。<br>·自身获得【普通攻击强化】增益。<br>此增益会在强袭模式解除时或一定时间后解除。<br>发动时消耗强袭槽，使此技能可再次发动。</div><div class="skill-detail">威力：513 × 2 Hit<br>所需SP：3,950<br>特殊效果<br>·防御力下降5%<br>　效果时间：10 秒<br>　不可叠加<br>·暗殇<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41<br>强袭槽回复量：300<br><br>（强袭模式时）<br>威力：624 × 2 Hit<br>所需SP：3,950<br>特殊效果<br>·防御力下降5%<br>　效果时间：10 秒<br>　不可叠加<br>·普通攻击强化<br>　效果时间：10 秒<br>　不可叠加<br>·暗殇<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41<br>强袭槽消耗量：850</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7bd001c2146691a592e7e2b4a13d5ca62.png"></span>
+				<span>夏夜铳弹</span>
+			</dt>
+			<dd><div>对直线上的敌人造成伤害，<br>自身获得攻击力提升的战意。</div><div class="skill-detail">威力：1,767 × 1 Hit<br>所需SP：9,855<br>获得战意<br>·攻击力提升（士气上限Lv 3）<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>怒气槽减少量＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队怒气槽减少量提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>【暗】龙化：龙化增强＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗时，<br>龙化槽上升率提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bb78ae882a78ef4449c1181d5399204b2.png"></span><span>盛夏恋心Ⅱ</span></dt><dd><div>龙化按钮变为强袭按钮并追加强袭槽。<br>强袭模式中获得以下效果：<br>·普通攻击发生变化，命中时可为强袭槽充能。<br>·攻击力提升25%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痹抗性＋100%</span></dt><dd><div>进入“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>开场技能槽＋100%</span></dt><dd><div>任务开始时技能槽提升100%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/4294d52f854d6fd82fbd9c62e9494cf1.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>300年前封印了狄涅尔帝国<br>复活的魔神莫尔托梅塞亚的英雄，<br>也是建立阿尔贝里亚王国的建国之王。<br>据传其身为多龙契约者与传说中的<br>六龙缔结契约，本领了得。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f027b7d150713815ba70175982c142822.png"></span>
+				<span>破晓王冠</span>
+			</dt>
+			<dd><div>通过真普鲁托<br>对目标和目标周围的敌人造成伤害，<br>使其进入“暗殇”状态。<br>此攻击受部分龙化中发动的能力效果影响。<br>此后阿尔贝琉斯将进一步<br>对目标和目标周围的敌人造成伤害。</div><div class="skill-detail">威力：327 × 3 Hit<br>威力：200 × 1 Hit<br>威力：1,100 × 1 Hit<br>所需SP：3,360<br>特殊效果<br>·暗殇<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3252f46b4caf10a0c15847a5d89335072.png"></span>
+				<span>破晓荣光</span>
+			</dt>
+			<dd><div>通过真耶梦加得<br>对周围的敌人造成伤害，<br>使其进入“昏迷”状态。<br>此技能命中时，自身龙化槽上升。<br>此攻击受部分龙化中发动的能力效果影响。</div><div class="skill-detail">威力：271 × 8 Hit<br>所需SP：5,045<br>特殊效果<br>·昏迷<br>　效果时间：6 秒<br>　效果间隔：0 秒<br>　威力：0<br>龙化槽回复量：50<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龙化增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化槽上升率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【暗】龙化：龙化中伤害提升＋12%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗时，<br>龙化中的伤害倍率提升12%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/34b4dd55399920298262636d1267db0f2.png"></span><span>开场龙化槽&龙化·防</span></dt><dd><div>任务开始时龙化槽提升25%。<br>龙化中的防御力提升25%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>黑暗抗性＋100%</span></dt><dd><div>进入“黑暗”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/874ebb8540cc62459ecedc47628161162.png"></span><span>龙之狂势Ⅱ</span></dt><dd><div>龙化中，赋予攻击【解除敌人1个增益的效果】。<br>龙化瞬间的攻击无此效果。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>【注意事项】</div><div>1. &ldquo;白金传说召唤&rdquo;详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;白金传说召唤&rdquo;，查看&ldquo;出现概率&rdquo;或&ldquo;召唤信息&rdquo;中的&ldquo;详情&rdquo;。</div><div>2. &ldquo;白金传说召唤&rdquo;和&ldquo;暗属性传说召唤&rdquo;同时开放。可点击召唤页面上方的&ldquo;&lt;&rdquo;和&ldquo;&gt;&rdquo;图标进行切换。</div><div>3. &ldquo;暗属性传说召唤&rdquo;中提升的★5出现概率不会因白金传说召唤而重置。</div><div>4. 其它注意事项可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，进入&ldquo;召唤信息&rdquo;&rarr;&ldquo;详情&rdquo;&rarr; &ldquo;注意事项&rdquo;查看。</div><div>5. &ldquo;白金传说召唤&rdquo;中无法获得&ldquo;龙辉之印&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1631858400; update_time1631512693

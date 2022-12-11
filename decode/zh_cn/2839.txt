@@ -1,0 +1,8 @@
+article_id:2839
+category_name:活动
+title_name:【复刻】“防卫战～天灼幻沙走秀台～”活动预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/cbcede8c4b744bc284c0636424b28d32.png
+
+message:<div>活动【复刻】&ldquo;防卫战～天灼幻沙走秀台～&rdquo;预计将于<span class="local_date" data-local_date="1650002400"></span>开始。</div><div>【复刻】&ldquo;防卫战～天灼幻沙走秀台～&rdquo;是抵御袭来的众多敌人守卫据点的期间限定活动。</div><div>本活动中可获得用于解锁共享技能的道具，敬请参与！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/cbcede8c4b744bc284c0636424b28d32.png"></div><div><br></div><div>■注意事项</div><div>1. 参加活动任务需通关主线剧情第2章2-1(Normal)。</div><div>2. 参加多人模式需通关主线剧情第2章2-1(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1649743200; update_time1644462801

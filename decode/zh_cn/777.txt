@@ -1,0 +1,8 @@
+article_id:777
+category_name:公告
+title_name:“与同盟成员共同挑战任务”活动【更新】
+image_path:
+
+message:<div>我们将向活动期间在多人模式下加入条件为&ldquo;仅限同盟&rdquo;的房间挑战任务的各位玩家发放&ldquo;龙辉晶&rdquo;。<br>借此机会与同盟成员共同享受多人模式的乐趣吧！<br>活动详情如下：<br><br>■礼物内容<br>龙辉晶 300个<br><br>■活动期间<br><span class="local_date" data-local_date="1569823200"></span> ～ <span class="local_date" data-local_date="1570773599"></span><br><br>■发放时间<br><span class="local_date" data-local_date="1571119200"></span>后依次发放<br><br>■发放对象<br>活动期间在多人模式下加入条件为&ldquo;仅限同盟&rdquo;的房间，至少挑战过1次任务的玩家</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/ca85323ab60f74b6ef7b5e9fb5b65cfb.png"></div><div><br></div><div>■注意事项<br>1. 本活动礼物发放对象不包括将房间条件从&ldquo;仅限同盟&rdquo;变更为&ldquo;公开&rdquo;后挑战任务的玩家。<br>2. 即使活动在战斗途中结束，无论是否成功完成任务，参与的玩家均可获得礼物。<br>3. 活动期间加入条件为&ldquo;仅限同盟&rdquo;的房间并挑战任务的玩家，即使之后不再属于任何同盟也可获得礼物。<br>4. 参加多人模式需通关主线剧情第2章2-1(Normal)。</div><div><br></div><table style="width: 100%;"><tbody><tr><td style="width: 100.0000%;"><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1571119200"></span>追记】</strong></span><br><span style="color: rgb(0, 0, 0);">我们已向满足条件的玩家发放以下道具。<br><br>&middot;龙辉晶 300个<br><br>领取期限为发送至礼物箱后7天内。</span><br><br><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1571133900"></span>追记】</strong></span><span style="color: rgb(0, 0, 0);"><br><span class="local_date" data-local_date="1571119200"></span>发放的300个龙辉晶未能发放给部分玩家。<br>我们已于<span class="local_date" data-local_date="1571133900"></span>向满足条件但尚未获得礼物的玩家补发300个龙辉晶。<br><br>对于给各位玩家造成的困扰和不便，我们深表歉意。</span><br></td></tr></tbody></table><div><br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1569823200; update_time1571133996

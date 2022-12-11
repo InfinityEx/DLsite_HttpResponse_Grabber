@@ -1,0 +1,102 @@
+article_id:1272
+category_name:公告
+title_name:传说召唤“FIRE EMBLEM 新启之门 特选 Part 2”即将开放！
+image_path:
+
+message:<div>传说召唤&ldquo;FIRE EMBLEM 新启之门 特选 Part 2&rdquo;预计将于<span class="local_date" data-local_date="1588572000"></span>开放。</div><div><br></div><div>期间限定角色将在传说召唤中登场。</div><div>另外，特选对象角色的出现概率将提升。</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※本召唤不包含同时开放的传说召唤&ldquo;FIRE EMBLEM 彼此相连的世界 特选&rdquo;和&ldquo;FIRE EMBLEM 新启之门 特选 Part 1&rdquo;中的期间限定★5角色。</span></div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1588572000"></span> ～ <span class="local_date" data-local_date="1589263140"></span></div><div><br></div><div>新登场的期间限定特选对象角色详情如下：</div><div><br></div><div>【特选角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/48f0eddeadd14648119fac420f511cdf.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>761</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>498</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>性格天真烂漫的神龙族公主。<br>外表年幼却拥有强大的力量，<br>并因此而沉睡多年。<br>为守护其珍视的存在时<br>会解放龙石变为神龙形态战斗。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a1893bcd6433f94720394c97f1e561ca2.png"></span>
+				<span>神龙之翼</span>
+			</dt>
+			<dd>
+				<div>
+					对周围的敌人造成水属性伤害。<br>此技能命中时，自身神龙化槽上升。<br>神龙化时，此技能变为<br>“雾之吐息”，效果如下：<br>对前方的敌人造成水属性伤害，<br>使其进入“冻伤”状态。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/66a5bb3f1f3cd2eb2317ec23ff90eed92.png"></span>
+				<span>龙之技巧</span>
+			</dt>
+			<dd>
+				<div>
+					自身神龙化槽充能。<br>神龙化时，此技能变为<br>“神龙一击”，效果如下：<br>对目标和目标周围的敌人造成水属性伤害。<br>对进入“冻伤”状态的敌人造成的伤害提升。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d84b02c496bd915cc9ca72d7b486190a2.png"></span>
+				<span>普通攻击＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队普通攻击造成的伤害提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>【水】龙化：龙化增强＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为水时，<br>龙化槽上升率提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6163a3e2bd3e21c7e83f1397180af08e2.png"></span><span>神龙族的公主Ⅱ</span></dt><dd><div>龙化按钮变为神龙化按钮并追加神龙化槽。<br>神龙化槽达到一定量后点击按钮即可变为神龙。<br>再次点击按钮或经过一定时间后变回琪姬。<br>变回琪姬后如神龙化槽达到一定量，<br>可在经过一定时间后再次变为神龙。<br>神龙化时将减轻受到的伤害。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>烧伤抗性＋100%</span></dt><dd><div>进入“烧伤”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/45e56814cd3c293c83f5513d3dc5800b2.png"></span><span>冻伤特效＋30%</span></dt><dd><div>对进入“冻伤”状态的敌人造成的伤害提升30%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1588485600; update_time1588060070

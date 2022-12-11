@@ -1,0 +1,8 @@
+article_id:223
+category_name:公告
+title_name:给各位玩家的谢礼！
+image_path:
+
+message:<div>非常感谢各位玩家在上周末举办的&quot;斗会议2019&quot;和&quot;2019 台北国际电玩展&quot;中对龙约展位的关注与青睐。</div><div><br></div><div>为感谢各位玩家一直以来对我们的支持，我们已发放以下道具作为谢礼。</div><div>希望能为各位玩家的冒险之旅提供帮助。</div><div><br></div><div>■礼物内容</div><div>龙辉晶 1500个</div><div><br></div><div>■发放对象</div><div><span class="local_date" data-local_date="1548658800"></span>前开始游戏的玩家</div><div><br></div><div>玩家可在<span class="local_date" data-local_date="1549263599"></span>前登录游戏领取。</div><div>领取期限为礼物发送至礼物箱后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1548658800; update_time1548667254

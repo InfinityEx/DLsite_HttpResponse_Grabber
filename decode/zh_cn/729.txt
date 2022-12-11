@@ -1,0 +1,167 @@
+article_id:729
+category_name:公告
+title_name:“龙传说召唤”即将开放！
+image_path:
+
+message:<div>&ldquo;龙传说召唤&rdquo;预计将于<span class="local_date" data-local_date="1568872800"></span>开放。</div><div><br></div><div>特选对象★5和★4龙的出现概率将提升。</div><div><br></div><div>【龙传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1568872800"></span> ～ <span class="local_date" data-local_date="1569562140"></span></div><div><br></div><div>部分特选对象龙详情如下：</div><div><br></div><div>【特选龙介绍】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/00c72ae7371fd738d31aee50d06f8c94.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>377</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>119</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>外表如猛兽般强壮的龙。<br>虽然看起来凶恶，<br>内心却最喜欢好玩的事物。<br>在马戏团表演招人喜欢的杂技，<br>然而战斗时会用尖牙利爪横扫敌军。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>闪电破击</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成光属性伤害，<br>使其进入“麻痹”状态。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>【光】HP&攻击力＋30%</span></dt><dd><div>装备角色属性为光时，<br>HP和攻击力提升30%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/777cdefbe9741243ad307d3e52c38424.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>377</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>119</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>为情所困之人的伙伴。<br>对爱与幸福有着无与伦比的热爱，<br>并将它们带给世间的人们。<br>他尚且年幼，纯洁无暇。<br>对所有怀着爱意的人都十分友善。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>Lovely Pose</span>
+			</dt>
+			<dd>
+				<div>
+					回复所有同伴的HP。<br>15秒内全队暴击率提升25%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻击力＋60%</span></dt><dd><div>装备角色属性为光时，<br>角色的攻击力提升60%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c7ac8aa2268fe99649995415f05f4563.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>掌管死亡的龙。并非喜欢杀戮，<br>而是把品味濒死之人的强烈感情<br>当做其生存的价值。<br>因此经常出现在灾害、疫病、战争爆发之地，<br>被人们当做不祥之兆所畏惧。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1dc2f6f0f6e043a02de111856f4d5c092.png"></span>
+				<span>月食之门</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成暗属性伤害，使其进入“黑暗”状态。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>【暗】HP&攻击力＋30%</span></dt><dd><div>装备角色属性为暗时，<br>HP和攻击力提升30%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1568786400; update_time1568774769

@@ -1,0 +1,167 @@
+article_id:577
+category_name:公告
+title_name:“龙传说召唤”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1563602400"></span>起，&ldquo;龙传说召唤&rdquo;开放！</div><div><br></div><div>特选对象的★5和★4龙的出现概率提升。</div><div>※部分★5和★4角色也是特选对象。</div><div><br></div><div>【龙传说召唤的出现概率】</div><div>★5特选 合计：2.00%（角色：0.50%　龙：1.50%）</div><div>★5通常 合计：2.00%（角色：0.75%　龙：1.25%）</div><div>★4特选 合计：7.00%（角色：1.75%　龙：5.25%）</div><div>★4通常 合计：9.00%（角色：5.05%　龙：3.95%）</div><div>★3通常 合计：80.00%（角色：48.00%　龙：32.00%）</div><div><br></div><div>【龙传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1563602400"></span> ～ <span class="local_date" data-local_date="1564120740"></span></div><div><br></div><div>部分特选对象龙详情如下：</div><div><br></div><div>【特选龙介绍】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6ac329f269181beeb987857f7114d55d.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>栖息在禁书图书馆的神秘之龙。<br>其话语晦涩难懂，行动令人难以捉摸，<br>自称是侍奉“遥远之主”的使者。<br>奈亚拉托提普——<br>相传此名并非指一头龙，其真相究竟……</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>黑暗笼罩</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成暗属性伤害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【暗】HP30% 攻＋50%</span></dt><dd><div>装备角色属性为暗，且HP在30%以上时，<br>攻击力提升50%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>【暗】背水一战·盾Ⅱ</span></dt><dd><div>装备角色属性为暗，且HP在30%以下时，<br>获得【使HP最大值60%以下的伤害无效的护盾】。<br>护盾仅生效1次，且不可与同种护盾叠加。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/63d8fab3cf33b47b91d1f5c32feb319b.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>掌管暴风与灾厄的龙。<br>他振翅会引起暴风与毒雾、带来疾病。<br>虽然几乎不与人类打交道，<br>但一直关注着勇敢直面并最终<br>克服灾厄的人类，对他们心存敬意。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>灾厄之风</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成风属性伤害，<br>使其进入“中毒”状态。<br>并使其防御力下降5%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【风】攻击力＋50%</span></dt><dd><div>装备角色属性为风时，<br>角色的攻击力提升50%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>【风】中毒特效＋20%</span></dt><dd><div>装备角色属性为风时，<br>对进入“中毒”状态的敌人造成的伤害提升20%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c7ac8aa2268fe99649995415f05f4563.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>掌管死亡的龙。并非喜欢杀戮，<br>而是把品味濒死之人的强烈感情<br>当做其生存的价值。<br>因此经常出现在灾害、疫病、战争爆发之地，<br>被人们当做不祥之兆所畏惧。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1dc2f6f0f6e043a02de111856f4d5c092.png"></span>
+				<span>月食之门</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成暗属性伤害，使其进入“黑暗”状态。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>【暗】HP&攻击力＋30%</span></dt><dd><div>装备角色属性为暗时，<br>HP和攻击力提升30%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>其他特选对象角色&middot;龙如下：</div><div>角色：★5海因瓦尔德、★4诺斯通</div><div>龙：★4札格纳特、★4菲尼克斯、★4斯特利伯格</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1563602400; update_time1563359476

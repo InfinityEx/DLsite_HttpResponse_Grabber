@@ -1,0 +1,8 @@
+article_id:1973
+category_name:公告
+title_name:“内山夕实与朝井彩加的Dragalia Lost广播庭院　外勤版”直播礼物发放
+image_path:
+
+message:<div>非常感谢各位玩家观看<span class="local_date" data-local_date="1612519200"></span>左右起进行直播的节目&ldquo;内山夕实与朝井彩加的Dragalia Lost广播庭院 外勤版&rdquo;。</div><div><br></div><div>因节目直播中的活动目标已达成，我们将依次向<span class="local_date" data-local_date="1612524600"></span>前开始游戏的玩家发放以下礼物。</div><div><br></div><div>■礼物内容</div><div>&middot;龙辉晶 1,200个</div><div><br></div><div>■注意事项</div><div>领取期限为发送至礼物箱后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1612524600; update_time1612523570

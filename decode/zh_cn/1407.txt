@@ -1,0 +1,8 @@
+article_id:1407
+category_name:公告
+title_name:主线剧情追加第14章《动乱的王都》！
+image_path:https://dragalialost.akamaized.net/attached/information/images/3888755b288380a51f4f04409f983d74.png
+
+message:<div><span class="local_date" data-local_date="1592805600"></span>起，主线剧情已追加第14章《动乱的王都》！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/3888755b288380a51f4f04409f983d74.png"></div><div><br></div><div>向王都进军的新阿尔贝里亚军遭到了哈尔所率领的帝国军的阻击。</div><div>而莫尔托梅塞亚则出于某种目的在王座静候一行人的到来。</div><div>大战过后，第七王子为拯救妹妹塞西娅所做的决断将引来巨大的混沌与动乱&hellip;&hellip;</div><div><br></div><div>敬请关注最新的主线剧情！</div><div>&nbsp;</div><div>■注意事项</div><div>主线剧情第14章《动乱的王都》可在通关第13章 5-6&ldquo;决断&rdquo;后解锁。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1592805600; update_time1592452914

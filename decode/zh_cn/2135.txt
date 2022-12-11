@@ -1,0 +1,8 @@
+article_id:2135
+category_name:公告
+title_name:关于角色“兰扎卜（儿童Ver.）”技能详情的异常现象
+image_path:
+
+message:<div>目前已确认<span class="local_date" data-local_date="1618466400"></span>起出现了以下异常现象。</div><div><br></div><div>&middot;角色&ldquo;兰扎卜（儿童Ver.）&rdquo;的技能1&ldquo;强力挥击 Lv1&rdquo;与技能2&ldquo;活力本垒打 Lv1&rdquo;技能详情中显示的性能相关内容颠倒。</div><div>※本现象仅为显示异常。</div><div><br></div><div>本现象将于今后的更新中进行修正。</div><div>最新进展将第一时间更新在本公告中。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1618480200; update_time1618480202

@@ -1,0 +1,8 @@
+article_id:859
+category_name:公告
+title_name:关于“真朱庇特的试炼 中级”中异常现象的修正
+image_path:
+
+message:<div>我们已在<span class="local_date" data-local_date="1572345000"></span>进行的数据更新中对&ldquo;真朱庇特的试炼 中级&rdquo;中出现的以下异常现象进行了修正。</div><div>对于未能提前告知玩家告知，我们深表歉意。</div><div><br></div><div>■修正的异常现象</div><div>&middot;&ldquo;真朱庇特的试炼 中级&rdquo;中，朱庇特的攻击&ldquo;绝对雷暴&rdquo;威力低于预期。</div><div><br></div><div>我们将依次向<span class="local_date" data-local_date="1572345000"></span>前开始游戏的玩家发放以下道具作为补偿：</div><div><br></div><div>&middot;龙辉晶 &times; 300</div><div><br></div><div>领取期限为发送至礼物箱后7天内。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们再次深表歉意。</div><div>&nbsp;</div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1572345600; update_time1572345522

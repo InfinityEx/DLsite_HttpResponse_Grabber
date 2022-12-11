@@ -1,0 +1,8 @@
+article_id:1224
+category_name:活动
+title_name:设施活动【复刻】“希望与友情的寻蛋之旅”预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/3d26dccf51bb55e66cdabd56a125d33f.png
+
+message:<div>设施活动【复刻】&ldquo;希望与友情的寻蛋之旅&rdquo;预计将于<span class="local_date" data-local_date="1586757600"></span>开始。</div><div>本活动可挑战火属性的BOSS，获得活动限定的报酬设施。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/3d26dccf51bb55e66cdabd56a125d33f.png"></div><div>大量兔耳从大陆各地集结至此！</div><div>森隐族的春季祭典今年也将如期举办！</div><div>祭典上最受人瞩目的是寻蛋比赛，</div><div>收集彩蛋最多的参赛者将能实现任何愿望。</div><div>挡在王子与卢卡兄妹面前的，是幼时便与卢卡相识的森隐族们。</div><div>冠军究竟将花落谁家？</div><div><br></div><div>■活动期间</div><div><span class="local_date" data-local_date="1586757600"></span> ～ <span class="local_date" data-local_date="1587362399"></span></div><div><br></div><div>■注意事项</div><div>1. 参加活动任务需通关主线剧情第2章2-1(Normal)。</div><div>2. 参加多人模式需通关主线剧情第2章2-1(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1586498400; update_time1586323953

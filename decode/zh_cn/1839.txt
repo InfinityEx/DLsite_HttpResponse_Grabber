@@ -1,0 +1,8 @@
+article_id:1839
+category_name:公告
+title_name:关于“追击伤害”
+image_path:
+
+message:<div>对敌人造成伤害时可产生追加伤害的增益名称将于<span class="local_date" data-local_date="1608010800"></span>进行的数据更新后变更为&ldquo;追击伤害&rdquo;。</div><div><br></div><div>■什么是&ldquo;追击伤害&rdquo;</div><div>&ldquo;追击伤害&rdquo;是在造成伤害时追加产生无属性伤害的增益。</div><div>此增益不可叠加，重复获得时将覆盖原有增益。</div><div><br></div><div>&middot;关于追加伤害</div><div>&ldquo;追击伤害&rdquo;所造成的伤害基于施加增益的角色在施加时的攻击力进行计算。</div><div>追加伤害与获得增益角色的增益、能力和龙化时的强化效果无关，不触发暴击、特效或吸血效果。</div><div><br></div><div>■关于技能详情变更</div><div>卡珊德拉（浴衣Ver.）的技能&ldquo;幽世金鱼&rdquo;详情也随之进行变更。</div><div>※仅变更表述方式，实际效果不变。</div><div>※以下为Lv80、魔法圆环解锁至50时的详情，并非获得时的详情。</div><div><br></div><div>【变更前】</div><div>回复全队HP，</div><div>30秒内全队获得【追击之锦（不可叠加）】。</div><div>此效果期间对敌人造成伤害时可造成追加伤害。</div><div>追加伤害为使用者以攻击力的40%</div><div>发动该次攻击时所造成的伤害。</div><div>追加伤害为无属性，</div><div>不受获此效果角色的增益、能力及龙化的</div><div>强化效果影响，也无暴击、特效或吸血效果。</div><div><br></div><div>【变更后】</div><div>回复全队HP，</div><div>30秒内全队获得【追击之锦】。</div><div>【追击之锦】可赋予</div><div>攻击力40%的【追击伤害】。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1607925600; update_time1607922809

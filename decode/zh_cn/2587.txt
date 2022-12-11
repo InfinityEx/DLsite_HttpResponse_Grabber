@@ -1,0 +1,8 @@
+article_id:2587
+category_name:活动
+title_name:“天魔封灭战 暗之章”的“莉莉丝封灭战”追加高难度“绝级”！
+image_path:https://dragalialost.akamaized.net/attached/information/images/e24ea777fdeae78e264af44430225551.png
+
+message:<div><span class="local_date" data-local_date="1636956000"></span>起，迎战威胁北格拉斯迪亚大陆的恶魔们的高难度任务&ldquo;天魔封灭战 暗之章&rdquo;的&ldquo;莉莉丝封灭战&rdquo;已追加高难度&ldquo;绝级&rdquo;！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/e24ea777fdeae78e264af44430225551.png"></div><div>纵使早已一败涂地，她却从未放弃挣扎。</div><div>当那不曾消散的复仇之心从异界的深渊中蔓延而出，</div><div>洁白的羽翼便会在永劫不复的憎恶浸染下堕入漆黑。</div><div>本应传达神意的天使在侵蚀之下失去理性，</div><div>化为戴着纯洁面具的暗炎少女。</div><div>她正是那邪恶的化身&mdash;&mdash;莉莉丝。</div><div>在本能驱使之下粉碎一切的少女，乃真正的恶魔。</div><div><br></div><div>■重生次数及重生奖励调整</div><div>重生次数及重生奖励已于<span class="local_date" data-local_date="1636956000"></span>起进行如下调整：</div><div>&ldquo;莉莉丝封灭战 超级&rdquo;的重生次数调整为1次，追加重生奖励。</div><div>&ldquo;莉莉丝封灭战 高级&rdquo;的重生次数调整为2次，调整重生奖励内容。</div><div>&ldquo;堕天使拉米艾尔封灭战&rdquo;的重生次数调整为3次，调整重生奖励内容。</div><div><br></div><div>■交换所</div><div>可在交换所用任务中获得的道具&ldquo;贪乐永暗结晶&rdquo;交换各种各样的道具。</div><div><br></div><div>■&ldquo;莉莉丝封灭战 绝级&rdquo;中需进行&ldquo;队伍切换&rdquo;</div><div>&ldquo;莉莉丝封灭战 绝级&rdquo;任务中BOSS属性会发生变化，需进行&ldquo;队伍切换&rdquo;切换为事先设置好的另一支队伍。</div><div><br></div><div>因此，开始任务前需按指定属性编成2支队伍。</div><div>育成2支队伍挑战&ldquo;莉莉丝封灭战 绝级&rdquo;吧。</div><div><br></div><div>※需进行&ldquo;队伍切换&rdquo;的任务中无法获得角色经验值。</div><div><br></div><div>【注意事项】</div><div>1. 参加&ldquo;天魔封灭战&rdquo;需通关主线剧情第16章 4-6(Normal)。</div><div>2. 挑战&ldquo;莉莉丝封灭战 绝级【单人】&rdquo;需通关任意超级难度的天魔封灭战【单人】或【多人】。</div><div>3. 挑战&ldquo;莉莉丝封灭战 绝级【多人】&rdquo;需通关任意超级难度的天魔封灭战【单人】或【多人】。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1636956000; update_time1635141573

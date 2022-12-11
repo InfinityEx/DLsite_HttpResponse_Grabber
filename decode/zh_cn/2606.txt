@@ -1,0 +1,8 @@
+article_id:2606
+category_name:活动
+title_name:“星魂解放团队战”即将登场！
+image_path:https://dragalialost.akamaized.net/attached/information/images/6e322df872571aec3a4a3449c8c0ff7a.png
+
+message:<div>&ldquo;星魂解放团队战&rdquo;预计将于<span class="local_date" data-local_date="1638597600"></span>起在活动任务中登场！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/6e322df872571aec3a4a3449c8c0ff7a.png"></div><div>&ldquo;星魂&rdquo;&mdash;&mdash;</div><div>那是世上积累至今的无数记忆。</div><div>那是曾经出现、有朝一日将再次出现的破灭记忆。</div><div>那是侵蚀世界的昔日灾厄。</div><div>去解放那被灾祸的记忆所禁锢的世界吧！</div><div><br></div><div>&ldquo;星魂解放团队战&rdquo;详情如下：</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/f0b5d90e44337046673367aee5ca6e03.png"></div><div>■登场BOSS</div><div>塔纳托斯<br><br></div><div>■&ldquo;星魂解放团队战&rdquo;概要</div><div>&ldquo;星魂解放团队战&rdquo;是可挑战曾经登场的团队战BOSS、仅在周六和周日开放的活动任务。</div><div>挑战&ldquo;星魂解放团队战&rdquo;的任务需使用&ldquo;星魂碎片&rdquo;。</div><div>可一次使用多个星魂碎片并获得相应倍数的报酬。</div><div>例：在1次挑战中使用3次挑战所需的星魂碎片即可获得3倍的报酬。</div><div><br></div><div>■星魂碎片</div><div>&ldquo;星魂碎片&rdquo;可在主线任务和活动任务的各任务中获得。</div><div>※完成&ldquo;宝龙之挑战&rdquo;的任务也无法获得&ldquo;星魂碎片&rdquo;。</div><div>※在&ldquo;星魂解放团队战&rdquo;活动期间完成各任务也无法获得&ldquo;星魂碎片&rdquo;。</div><div><br></div><div>&ldquo;星魂碎片&rdquo;的持有数上限为300个。</div><div>※超过持有数上限的&ldquo;星魂碎片&rdquo;将作废。</div><div><br></div><div>&ldquo;星魂解放团队战&rdquo;开放期间可在商店中购买&ldquo;星魂碎片&rdquo;。</div><div>挑战&ldquo;星魂解放团队战&rdquo;任务时，如&ldquo;星魂碎片&rdquo;不足可直接购买。</div><div><br></div><div>■注意事项</div><div>1. 参加&ldquo;星魂解放团队战&rdquo;需通关主线剧情第2章2-1(Normal)。</div><div>2. 参加多人模式需通关主线剧情第2章2-1(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1638165600; update_time1636364706

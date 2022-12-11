@@ -1,0 +1,287 @@
+article_id:1188
+category_name:公告
+title_name:魔法圆环“第6层”解锁角色追加！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1585634400"></span>起，部分角色追加魔法圆环&ldquo;第6层&rdquo;。</div><div><br></div><div>本次追加的对象角色及其数值如下：</div><div><br></div><div>■对象角色</div><div>★3 华兹：暗/短剑</div><div>★3 埃里克：暗/斧</div><div>★3 伊露缇米娅：暗/魔杖</div><div><br></div><div><br></div><div>■数值介绍</div><div>&middot;★3角色</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/20730ef015f6ede6d77f8a2c63e91c4f2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/8882a1e2cd557667e16b4245e73d8a6f2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">华兹</div><div class="cv">CV:铃村健一</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>907</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>543</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>3,090</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>致命之刃</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成暗属性伤害。<br>对进入“中毒”状态的敌人造成的伤害提升。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c194e8eb49b93802407e9becde7f09762.png"></span>
+				<span>死亡之刃</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成暗属性伤害，<br>使其进入“睡眠”状态。<br>对进入“中毒”状态的敌人造成的伤害提升。<br>发动【装填：淬毒之刃】。<br>此效果期间使用爆发攻击将发射【淬毒之刃】。<br>【淬毒之刃】命中敌人时将造成“中毒”效果。<br>发动时装填可发射1次的【淬毒之刃】。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>暴击率＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队暴击率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span>
+				<span>【暗】中毒：中毒触发·光抗＋5%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗<br>且使敌人进入中毒状态时获得<br>【15秒内光属性抗性提升5%的增益】。<br>此效果发动后10秒内不会再次发动。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a92e675fd730e94b01a7ce6f30bea04b2.png"></span><span>破防特效＋35%</span></dt><dd><div>对被破防的敌人造成的伤害提升35%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/accaa8252fc4f8f52a5bf0964aac9cf32.png"></span><span>黑暗抗性·改＋50%</span></dt><dd><div>进入“黑暗”状态的概率下降50%。<br>受到可能造成黑暗的攻击时，<br>自身获得【10秒内攻击力提升15%的增益】。<br>此效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>黑暗抗性＋50%</span></dt><dd><div>进入“黑暗”状态的概率下降50%。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/87ca50283412f3b7dd11353eabfb8ce62.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/8882a1e2cd557667e16b4245e73d8a6f2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">埃里克</div><div class="cv">CV:增田俊树</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>844</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>590</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>3,074</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd5464d0aeb6d41964c19ee25f922b922.png"></span>
+				<span>奋力挥击</span>
+			</dt>
+			<dd>
+				<div>
+					对周围的敌人造成暗属性伤害。<br>攻击时吸引敌人。<br>对进入“中毒”状态的敌人造成的伤害提升。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>狂野之击</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成暗属性伤害。<br>对进入“中毒”状态的敌人造成的伤害提升。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防御力＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队防御力提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【暗】中毒：中毒触发·攻＋8%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗<br>且使敌人进入中毒状态时获得<br>【15秒内攻击力提升8%的增益】。<br>此效果发动后10秒内不会再次发动。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/0e1656c9555db35b672ada02c9f7d1ab2.png"></span><span>狂野贵族</span></dt><dd><div>爆发攻击造成的伤害提升30%。<br>使用技能“狂野之击”时，<br>自身发动【驱散爆发】的增益，<br>下次爆发攻击追加<br>【解除敌人1个增益的效果】。<br>【驱散爆发】增益不会重复，<br>并在使用爆发攻击后解除。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/accaa8252fc4f8f52a5bf0964aac9cf32.png"></span><span>黑暗抗性·改＋50%</span></dt><dd><div>进入“黑暗”状态的概率下降50%。<br>受到可能造成黑暗的攻击时，<br>自身获得【10秒内攻击力提升15%的增益】。<br>此效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>黑暗抗性＋50%</span></dt><dd><div>进入“黑暗”状态的概率下降50%。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/cc29c0eef99a6cbb504603ad069f84f02.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/8882a1e2cd557667e16b4245e73d8a6f2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">伊露缇米娅</div><div class="cv">CV:植田佳奈</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>893</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>557</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>3,090</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cec8794d33276918ce38bfaa577312842.png"></span>
+				<span>梦魇暗流</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成暗属性伤害，<br>使其进入“中毒”状态。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>暗黑爆裂</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人造成暗属性伤害，<br>对进入“中毒”状态的敌人造成的伤害提升。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能伤害＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能伤害提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span>
+				<span>【暗】坚守：HP80% 光抗＋3%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗<br>且HP不低于80%时光属性抗性提升3%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>HP全满 技＋45%</span></dt><dd><div>HP全满时技能伤害提升45%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/760d630739a2cdfb77dad15b5985557d2.png"></span><span>麻痹抗性·改＋50%</span></dt><dd><div>进入“麻痹”状态的概率下降50%。<br>受到可能造成麻痹的攻击时，<br>自身获得【10秒内攻击力提升15%的增益】<br>获得增益的效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痹抗性＋50%</span></dt><dd><div>进入“麻痹”状态的概率下降50%。</div></dd></dl></div></div></div><div><br></div><div><br></div><div>■注意事项</div><div>1. 本公告中记载的角色数值为Lv100、魔法圆环解锁至70时的数值。</div><div>2. 数值不含因能力而变动的部分。</div><div>3. 在本公告前发布的公告或视频中记载的上述角色数值均为Lv80、魔法圆环解锁至50时的数值。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1585548000; update_time1585285891

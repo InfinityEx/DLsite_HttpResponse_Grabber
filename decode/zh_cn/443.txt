@@ -1,0 +1,8 @@
+article_id:443
+category_name:公告
+title_name:关于“★5角色召唤”召唤信息的记载错误
+image_path:
+
+message:<div>因&ldquo;★5角色召唤&rdquo;召唤信息的&ldquo;详情&rdquo;中部分内容记载有误，现已进行如下修正：</div><div><br></div><div>■内容</div><div>修正前：召唤出已成为伙伴的角色时，将不会获得重复角色，而是获得3000个觉醒水滴。</div><div>修正后：召唤出已成为伙伴的角色时，将不会获得重复角色，而是获得8500个觉醒水滴。</div><div><br></div><div>本异常现象仅为记载错误。</div><div>召唤出已成为伙伴的角色时，可正常获得8500个觉醒水滴。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1557208800; update_time1557203445

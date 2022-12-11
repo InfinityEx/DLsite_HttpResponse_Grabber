@@ -1,0 +1,214 @@
+article_id:1577
+category_name:公告
+title_name:火属性★5角色确定！“白金传说召唤”即将开放！
+image_path:
+
+message:<div>&ldquo;白金传说召唤&rdquo;预计将于<span class="local_date" data-local_date="1600149600"></span>开放。</div><div><br></div><div>白金传说召唤是&ldquo;10连召唤&rdquo;的第10位确定为火属性★5角色的召唤。</div><div><span style="color: rgb(226, 80, 65);">※火属性以外的角色&middot;龙不会出现在本召唤中。</span></div><div>活动期间最多可进行2次&ldquo;10连召唤&rdquo;。</div><div>本召唤仅限使用龙钻。</div><div><br></div><div>【白金传说召唤期间】</div><div><span class="local_date" data-local_date="1600149600"></span> ～ <span class="local_date" data-local_date="1600667999"></span></div><div><br></div><div>&ldquo;白金传说召唤&rdquo;第10位确定出现的部分对象火属性★5角色详情如下：</div><div><br></div><div>【第10位确定对象火属性★5角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6478a12d3ac38484ce2ea469cdd50a39.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>747</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>513</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>为见到“沙之国”的后代、<br>避免女王身份暴露而变装的奈法利耶。<br>认真的性格让她连娜迪茵的<br>说话方式都试图模仿，<br>但因不习惯而说得磕磕绊绊。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cadf41dcf9f43df87058edb9a8b100f72.png"></span>
+				<span>狂欢派对夜！</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					5秒内对前方的敌人造成火属性伤害，<br>并提升自身3阶段【斗志】。<br>攻击时吸引敌人。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/06499dd1bcb0b7a89f51a1074231ed122.png"></span>
+				<span>幻沙天灼</span>
+			</dt>
+			<dd>
+				<div>
+					发动技能时进行一定时间的咏唱。<br>咏唱结束后<br>对目标和目标周围的敌人造成火属性伤害。<br>此技能咏唱时可进行移动。<br>咏唱时无法免疫敌人攻击。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能伤害＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能伤害提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/03585ae11a2b0de283c914026533b3fe2.png"></span>
+				<span>【火】坚守：HP80% 风抗＋6%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为火<br>且HP不低于80%时风属性抗性提升6%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>会心时会心威力提升Ⅱ</span></dt><dd><div>每次暴击自身获得<br>【20秒内暴击伤害倍率提升25%的增益】。<br>此效果发动后7秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠抗性＋100%</span></dt><dd><div>进入“睡眠”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能伤害＋30%</span></dt><dd><div>攻击技能造成的伤害提升30%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/371f6d0c16fcb34d3f669996c04f0b3e.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>749</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>510</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>打扮奇特、随心所欲地在各地<br>观光旅行并最终来到圣城的少女。<br>喜欢用异界漂来的魔导器<br>将景色记录成画，坚持要与<br>成为朋友的人一起“自拍”。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3382bb2cf6bb5fa22a657048bd3857102.png"></span>
+				<span>自拍闪光</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					使用“自拍闪光”时发动以下效果：<br>效果1：对前方的敌人造成火属性伤害。<br>效果2：攻击范围内的队伍角色数量（含自身）<br>计入累计命中次数。<br>效果3：解除前方的敌人1个增益效果。<br>效果4：使前方的敌人进入“烧伤”状态。<br>效果5：随效果1～2的命中次数获得追加效果。<br>命中次数3：<br>提升自身1阶段【斗志】，<br>对敌人造成火属性追加伤害。<br>命中次数4～5：<br>提升自身3阶段【斗志】，<br>对敌人造成火属性追加伤害。<br>命中次数6及以上：<br>使自身进入【超强斗志】状态，<br>对敌人造成火属性追加伤害。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>忆悟曙光</span>
+			</dt>
+			<dd>
+				<div>
+					自身随机获得以下增益效果之一。<br>生动闪光：<br>15秒内自身攻击力提升30%。<br>动感锐化：<br>15秒内自身攻击力提升30%，<br>技能“自拍闪光”效果1造成伤害的次数变为3倍。<br>此使造成伤害次数变为3倍的效果不可叠加。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队HP提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【火】烧伤：烧伤触发·攻＋13%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为火<br>且使敌人进入烧伤状态时获得<br>【15秒内攻击力提升13%的增益】。<br>此效果发动后10秒内不会再次发动。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>斗志链·斗志Ⅲ</span></dt><dd><div>获得【斗志】提升的增益时<br>有80%的概率追加提升自身1阶段【斗志】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏迷抗性＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>超强斗志链·攻＋20%</span></dt><dd><div>【超强斗志】触发时，<br>发动【15秒内攻击力提升20%的增益】。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>【注意事项】</div><div>&ldquo;白金传说召唤&rdquo;详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;白金传说召唤&rdquo;，查看&ldquo;出现概率&rdquo;或&ldquo;召唤信息&rdquo;中的&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1600063200; update_time1599822132

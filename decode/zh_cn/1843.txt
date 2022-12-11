@@ -1,0 +1,311 @@
+article_id:1843
+category_name:公告
+title_name:魔法圆环“第6层”解锁角色追加！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1608271200"></span>起，部分角色追加魔法圆环&ldquo;第6层&rdquo;。</div><div><br></div><div>本次追加的对象角色及其数值如下：</div><div>※角色的技能Lv提升后，设置为共享技能时技能槽更难提升。</div><div><br></div><div>■对象角色</div><div>★5 库菈乌(星龙祭Ver.)：水/短剑</div><div>★4 扎因弗拉德(星龙祭Ver.)：风/魔杖</div><div>★4 奈法利耶(星龙祭Ver.)：水/弓</div><div><br></div><div>■数值介绍</div><div>&middot;★5角色</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/1bcc8794a77ba2c39bca1c808b5183732.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">库菈乌（星龙祭Ver.）</div><div class="cv">CV:内山夕实</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>961</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>568</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>3,229</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f23251faac385b6083b7adc84b169d2a2.png"></span>
+				<span>闪耀赠礼</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>3</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成水属性伤害，<br>提升自身与周围同伴1阶段【斗志】。<br>发动【冰冻之礼】，使下次爆发攻击获得<br>【使敌人进入“冰冻”状态的效果】。<br>此技能命中敌人后将发动【技能升级】，<br>第1阶段攻击力提升，第2阶段追加暴击率提升。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>星夜恩赐</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成水属性伤害。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>暴击率＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队暴击率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span>
+				<span>【水】连击：连击数持续时间延长Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为水时，<br>最后一次攻击命中后至连击数重置前的时间延长2.5秒。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/97a6a9c25dfb5181cf44056f25fad1b82.png"></span><span>铃音赠礼者</span></dt><dd><div>HP在70%以上时攻击力和防御力提升13%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f9540aa3b892c485f82bfd1ef78b1b72.png"></span><span>昏迷抗性·改＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。<br>受到可能造成昏迷的攻击时，<br>自身获得【10秒内攻击力提升15%的增益】<br>获得增益的效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>20连击斗志提升</span></dt><dd><div>每20次连击提升1阶段【斗志】。</div></dd></dl></div></div></div><div>技能&ldquo;闪耀赠礼&rdquo;由Lv3升级至Lv4后，【发动技能时使敌人进入&ldquo;冰冻&rdquo;状态的效果】将变为使爆发攻击获得【使敌人进入&ldquo;冰冻&rdquo;状态的效果】，使敌人进入&ldquo;冰冻&rdquo;状态的几率也有所提升。</div><div>升级后可在玩家需要的时机使敌人进入冰冻状态，更便于使用。</div><div>另外，此技能作为支援技能和共享技能使用时，Lv4效果与其它Lv相同，仍为【发动技能时使敌人进入&ldquo;冰冻&rdquo;状态的效果】。<br><br></div><div>&middot;★4角色</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/bc35e67bacf5a2e4fd67c908fb5b0f592.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">扎因弗拉德（星龙祭Ver.）</div><div class="cv">CV:关智一</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>916</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>565</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>3,161</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>龙之馈赠</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					15秒内全队风属性角色暴击率提升22%，<br>全队攻击力提升5%。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/eedeb82f382c79ce1e8e580efaa403f92.png"></span>
+				<span>圣佑龙息</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成风属性伤害。<br>此技能命中时，自身龙化槽上升。<br>任务中进行1次龙化后会强化技能，<br>提升技能命中时的龙化槽上升量。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能伤害＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能伤害提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【风】龙化：龙之恩赐·攻Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为风时，<br>每次龙化提升攻击力。<br>此效果每回任务最多发动3次。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>技能连接·攻＋15%</span></dt><dd><div>自身当前操作角色的技能1可使用时，<br>该角色获得【10秒内攻击力提升15%的增益】。<br>此效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9d77939f4269ebb33ba6b5e2044474042.png"></span><span>湿身抗性·改＋100%</span></dt><dd><div>进入“湿身”状态的概率下降100%。<br>受到可能造成湿身的攻击时，<br>自身获得【10秒内攻击力提升15%的增益】<br>获得增益的效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>龙之恩赐·攻Ⅳ</span></dt><dd><div>每次龙化提升攻击力。<br>此效果每回任务最多发动3次。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/f85670f2c0407b0ab6652a225bb297812.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">奈法利耶（星龙祭Ver.）</div><div class="cv">CV:尤加奈</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>957</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>557</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>3,204</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2c1bfc17f576d6c5f7d31dc8568743502.png"></span>
+				<span>星雪射击</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成水属性伤害，<br>使其进入“冻伤”状态。<br>对进入“冻伤”状态的敌人造成的伤害提升。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/238e26f1fb8055213f344b979afe79322.png"></span>
+				<span>礼物狂欢</span>
+			</dt>
+			<dd>
+				<div>
+					使周围同伴获得<br>【使HP最大值20%以下的伤害无效的护盾】<br>并【提升3阶段斗志】。<br>发动【准备礼物】，并准备2个【礼物】。<br>此效果期间使用爆发攻击即可派发【礼物】。<br>【礼物】可使周围同伴获得<br>【使HP最大值20%以下的伤害无效的护盾】<br>并【提升3阶段斗志】。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能槽上升率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>【水】冻伤：冻伤触发·火抗＋7%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为水<br>且使敌人进入冻伤状态时获得<br>【15秒内火属性抗性提升7%的增益】。<br>此效果发动后10秒内不会再次发动。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能伤害＋35%</span></dt><dd><div>攻击技能造成的伤害提升35%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c0b3ec2bdf2af0f73ef2627b87da47152.png"></span><span>烧伤抗性·改＋100%</span></dt><dd><div>进入“烧伤”状态的概率下降100%。<br>受到可能造成烧伤的攻击时，<br>自身获得【10秒内攻击力提升15%的增益】<br>获得增益的效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a74512b1be6552f814d492e56318e602.png"></span><span>带来笑容的女王</span></dt><dd><div>连击达到15次以上时获得<br>【普通攻击有25%概率使敌人6秒内进入冰冻状态的效果】<br>【对进入冻伤状态的敌人造成的伤害提升10%的效果】。</div></dd></dl></div></div></div><div>解锁魔法圆环第6层的同时修正能力&ldquo;疾风怒涛&middot;冰冻Ⅰ&rdquo;的详情描述。</div><div>能力的实际效果不变。</div><div>修正前：连击达到15次以上时，赋予普通攻击【6秒内有10%概率使敌人进入冰冻状态的效果】。</div><div>修正后：连击达到15次以上时，赋予普通攻击【有10%概率使敌人6秒内进入冰冻状态的效果】。</div><div><br></div><div><br></div><div>■注意事项</div><div>1. 本公告中记载的角色数值为Lv100、魔法圆环解锁至70时的数值。</div><div>2. 数值不含因能力而变动的部分。</div><div>3. 在本公告前发布的公告或视频中记载的上述角色数值均为Lv80、魔法圆环解锁至50时的数值。</div><div>4. 角色的技能Lv提升后，设置为共享技能时技能槽更难提升。<br><br></div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1608184800; update_time1608095996

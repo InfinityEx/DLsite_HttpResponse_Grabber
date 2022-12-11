@@ -1,0 +1,300 @@
+article_id:2719
+category_name:公告
+title_name:“Dragalia Fes”即将开放！
+image_path:
+
+message:<div>&ldquo;Dragalia Fes&rdquo;预计将于<span class="local_date" data-local_date="1640930400"></span>开放！</div><div><br></div><div>【关于Dragalia Fes】※含&ldquo;Dragalia Fes Extra&rdquo;</div><div>期间限定的角色&middot;龙将在Dragalia Fes中登场。</div><div>&middot;★5角色、龙的初始出现概率将从4%提升至6%！</div><div>※召唤出★5或★5特选后，出现概率将变回初始概率6%。</div><div><span style="color: rgb(226, 80, 65);">※本次新追加的★5角色&ldquo;信玄&rdquo;、&ldquo;幸村&rdquo;和★5龙&ldquo;不动明王&rdquo;在<span class="local_date" data-local_date="1641362400"></span>～<span class="local_date" data-local_date="1642053599"></span>期间开放的&ldquo;附奖传说召唤&rdquo;中也将登场，但非特选对象。</span></div><div><br></div><div>【新登场的特选对象龙】</div><div>■龙</div><div>★5 兽化谢希耶尔（Fes限定Ver.）：水</div><div><br></div><div>【新登场的期间限定特选对象角色&middot;龙】</div><div>■角色</div><div>★5 信玄：风/斧</div><div>★5 幸村：暗/枪</div><div><br></div><div>■龙</div><div>★5 不动明王：风</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※&ldquo;龙辉之印&rdquo;仅可用于其获得时的召唤。本次&ldquo;Dragalia Fes&rdquo;中获得的&ldquo;龙辉之印&rdquo;无法用于<span class="local_date" data-local_date="1641362400"></span>～<span class="local_date" data-local_date="1642053599"></span>期间开放的&ldquo;附奖传说召唤&rdquo;。</span></div><div><br></div><div>【Dragalia Fes活动期间】</div><div><span class="local_date" data-local_date="1640930400"></span> ～ <span class="local_date" data-local_date="1641362399"></span></div><div><br></div><div>特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/19881d7b7f6374c6726b5c37cf871896.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>兽化的谢希耶尔的残渣。<br>她成为阿基德后得到的面具令力量增幅，<br>其中的部分力量分离成了兽形。<br>总是如梦呓般念叨着<br>她对这世间谎言的绝望。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>绝望冰河</span>
+			</dt>
+			<dd><div>对周围的敌人造成伤害，<br>使其进入“冻伤”状态。</div><div class="skill-detail">威力：2,400 × 1 Hit<br>特殊效果<br>·冻伤<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/65d6cd12143fa0ae6dd9c9d0d7ecd0b12.png"></span><span>【水】消除谎言的制裁之翼Ⅴ</span></dt><dd><div>①装备角色属性为水时，攻击力提升100%。<br>②龙化为“兽化谢希耶尔（Fes限定Ver.）”期间<br>可使用以下效果的龙之爆发：<br>对目标和目标周围的敌人造成伤害<br>并在地面设置箭矢。<br>箭矢可反弹“兽化谢希耶尔（Fes限定Ver.）”的<br>普通攻击，并在被技能“绝望冰河”命中时<br>对周围的敌人造成伤害。<br>最多可同时设置2支箭矢，<br>箭矢在被技能“绝望冰河”命中后<br>或持续时间结束后消失。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cdd3ed074b225f69183840cb525b5da32.png"></span><span>【水】绝望之痛Ⅱ</span></dt><dd><div>①装备角色属性为水时，<br>对进入“冻伤”状态的敌人造成的伤害提升15%，<br>龙化中连击达到15次以上时，<br>普通攻击可造成【折磨】减益效果。<br>此减益最多可叠加至10层，<br>且在任务中可持续至被敌人解除为止。<br>每层【折磨】可使防御力下降1%，冻伤抗性下降2%。<br>②装备角色防御力下降20%，<br>最后一次攻击命中后至连击数重置前的时间缩短1秒。</div></dd></dl></div></div></div><div>※Lv100、上限解锁第4阶段、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/4e0d353e53c4dae5dac123e04fcc1eb4.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/84b1ffb7fd8678c120c0d11a60d38bdd2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>822</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>467</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,529</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>统治东方岛国日出之国的十二龙氏之一，<br>寅之龙氏。身经百战的猛将，行事为人却<br>谨慎且真诚。尽管给人一种威严老者的印象，<br>真实年龄却比看起来年轻。善于为他人着想，<br>广受家臣、百姓的爱戴和某位龙氏的敬仰。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/70c2617b21338a4e2ca3e2974d53be2d2.png"></span>
+				<span>极技风林火山</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>■通常状态时<br>对周围的敌人造成伤害，<br>使其进入“裂风”状态<br>并获得起爆之阵【虎将战疗之计】。<br>此技能蓄力时根据点击屏幕的次数<br>可追加相应次数的追击，<br>可点击次数上限为当前【胜仗战备】增益层数。<br>单次触发3次追击时<br>解除所有【胜仗战备】并获得【风林火山】增益。<br>技能发动期间受到攻击不会被击退。<br><br>■风林火山模式时<br>对周围的敌人造成伤害，<br>使其进入“裂风”状态<br>并获得起爆之阵【虎将战疗之计】。<br>此技能蓄力时根据点击屏幕的次数<br>可追加最多3次追击。<br>技能发动期间受到攻击不会被击退。<br><br>■【虎将战疗之计】起爆效果<br>回复全队HP。</div><div class="skill-detail">威力：1,600 × 1 Hit<br>特殊效果<br>·裂风<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41<br>·虎将战疗之计<br>　计数：30<br>　回复力：140<br>（第1次追击）<br>威力：800 × 1 Hit<br>特殊效果<br>·攻击力下降10%<br>　效果时间：30 秒<br>　不可叠加<br>（第2次追击）<br>威力：800 × 1 Hit<br>特殊效果<br>·劫火<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41.6<br>（第3次追击）<br>威力：800 × 1 Hit<br>回复力：35<br>特殊效果<br>·反应动作无效<br>　效果时间：10 秒<br>·风林火山<br>　效果时间：30 秒<br>所需SP：2,040<br>所需共享SP：15,026</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>坚虎不摧之阵</span>
+			</dt>
+			<dd><div>■通常状态时<br>自身获得防御力提升的战意和【胜仗战备】。<br><br>■风林火山模式时<br>自身获得防御力提升的战意、<br>【提升最大HP的增益】和【伤害减免】。</div><div class="skill-detail">所需SP：7,500<br>特殊效果<br>·胜仗战备<br>　叠加上限：3<br>获得战意<br>·防御力提升（士气上限Lv 3）<br><br>（能力效果发动时）<br>所需SP：7,500<br>特殊效果<br>·HP提升10%<br>·伤害减少70%<br>　效果时间：3 秒<br>获得战意<br>·防御力提升（士气上限Lv 3）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防御力＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队防御力提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span>
+				<span>【风】士气：防势士气·湿身抗性＋100%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为风<br>且获得防御力提升的士气时，<br>进入“湿身”状态的概率下降100%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/960f67e40a48d076cbb60f50cf7a4fcd2.png"></span><span>暴虎冯河之姿Ⅱ</span></dt><dd><div>·受到伤害时自身获得2层【胜仗战备】，<br>最多可叠加至3层。<br>此效果发动后20秒内不会再次发动。<br>·爆发攻击发生变化，<br>受到攻击不会被击退，<br>降低所受除部分攻击外的所有伤害。<br>爆发攻击发动的瞬间<br>受到敌人攻击时可降低所受伤害<br>并使自身获得3层【胜仗战备】。<br>·获得【风林火山】时发动风林火山模式。<br>风林火山模式中第3段和第5段<br>普通攻击可产生追踪目标的龙卷。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>冰冻抗性＋100%</span></dt><dd><div>进入“冰冻”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b748da7dce2f5b415c28b297c8ba21592.png"></span><span>势如猛虎Ⅱ</span></dt><dd><div>风林火山模式中<br>攻击威力提升50%，攻击力提升20%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div>※&ldquo;起爆之阵&rdquo;为减益效果之一。详情请查看帮助。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/85c9a0ebdd7bd75ea0d37c652b178c74.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>748</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>511</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>统治东方岛国日出之国的十二龙氏之一，<br>申之龙氏。兼具努力与毅力的少女。<br>因寅申两家之争而受难，后为信玄所救。<br>立志继承信玄的衣钵，并为此忘我地<br>日夜磨炼武力，最终成为了龙氏。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>猿迅全开！</span>
+			</dt>
+			<dd><div>■通常状态时<br>技能发动期间受到攻击不会被击退。<br>使用技能时发动【技能升级】，效果依次变化。<br>初始状态：对周围的敌人造成伤害。<br>第1阶段：攻击范围扩大，对周围的敌人造成伤害。<br>第2阶段：攻击范围扩大，对周围的敌人造成伤害，<br>自身进入【斗魂释放】状态。<br><br>■【斗魂释放】状态时<br>此技能变为“必杀！猿虎无双！！”，效果如下：<br>对前方的敌人造成伤害，<br>使其获得起爆之阵【战猿丽击之计】。<br>技能发动过程中点击屏幕一定次数<br>可使最后一段攻击得到强化并追加以下效果。<br>再次使敌人获得【战猿丽击之计】，<br>“热血！猿虎连突！！”技能槽上升。<br><br>■【战猿丽击之计】起爆效果<br>对该起爆之阵对象和其周围的敌人造成伤害。</div><div class="skill-detail">威力：1,348 × 1 Hit<br>所需SP：7,800<br><br>（技能升级第1阶段）<br>威力：1,722 × 1 Hit<br>所需SP：7,800<br><br>（技能升级第2阶段）<br>威力：987 × 2 Hit<br>所需SP：7,800<br><br>（斗魂释放状态时）<br>威力：375 × 4 Hit<br>威力：584 × 1 Hit（最大时）<br>所需SP：2,980<br>特殊效果<br>·战猿丽击之计<br>　计数：15<br>　威力：4,300 × 1 Hit<br>・技能充能<br>　效果量：15%</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>斗猿十字枪！</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>■通常状态时<br>对目标和目标周围的敌人造成伤害。<br>自身“猿迅全开！”技能槽上升。<br><br>■【斗魂释放】状态时<br>此技能变为“热血！猿虎连突！！”，效果如下：<br>对前方的敌人造成伤害，<br>使其进入“暗殇”状态。<br>技能发动过程中点击屏幕一定次数<br>可使最后一段攻击得到强化并追加以下效果。<br>使敌人进入“劫火”状态。</div><div class="skill-detail">威力：684 × 2 Hit<br>所需SP：5,120<br>特殊效果<br>・技能充能<br>　效果量：15%<br><br>（斗魂释放状态时）<br>威力：101 × 21 Hit<br>威力：747 × 2 Hit（最大时）<br>所需SP：6,120<br>所需共享SP：13,770<br>特殊效果<br>·劫火<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：31<br>·暗殇<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：31</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队HP提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span>
+				<span>【暗】连击：连击数持续时间延长Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗时，<br>最后一次攻击命中后至连击数重置前的时间延长2.5秒。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bac19ceb28ad4775b6cadccafd67ccdc2.png"></span><span>猿飞之势Ⅱ</span></dt><dd><div>【斗魂释放】状态时发动以下效果：<br>·攻击力提升10%，攻击技能造成的伤害提升40%。<br>·自身获得【反应动作无效】增益。<br>·普通攻击、技能1和技能2发生变化。<br>·回避动作发生变化，对周围的敌人造成伤害。<br>回避时点击屏幕可中断动作<br>并向目标发动特殊冲刺攻击。<br>·特殊冲刺攻击或爆发攻击过程中<br>发动普通攻击可从第2段起手。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痹抗性＋100%</span></dt><dd><div>进入“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾风怒涛·攻＋20%</span></dt><dd><div>连击达到15次以上时攻击力提升20%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div>※&ldquo;起爆之阵&rdquo;为减益效果之一。详情请查看帮助。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ed1e8b09e2f216a991eab1578833c1f2.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>日出之国的诸龙之长·天照<br>麾下的十二龙之一，“寅”之龙。<br>虽然沉默寡言，不爱表露情绪，<br>内心却无时无刻不在挂念着信玄。<br>那过于沉重的爱有时甚至有些可怕……</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>俱利伽罗风阵</span>
+			</dt>
+			<dd><div>对目标和目标周围的敌人造成伤害。<br>自身获得【不动金刚】。</div><div class="skill-detail">威力：417 × 6 Hit<br>特殊效果<br>·不动金刚<br>　效果次数：2<br>　効果量：HP最大值的100%<br>　不可叠加<br>·裂风<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【风】攻击力＋70%</span></dt><dd><div>装备角色属性为风时，<br>角色的攻击力提升70%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f108f85cdce1ed615ebbc32b7d5d6a472.png"></span><span>【风】加持变换Ⅱ</span></dt><dd><div>装备角色属性为风时，<br>任务开始时自身获得<br>使HP最大值以下的伤害无效2次的【不动金刚】。<br>此效果不可叠加。<br>【不动金刚】全部解除时自身获得【修罗金刚】，<br>此效果期间攻击速度提升10%，<br>对水属性敌人造成的伤害倍率提升30%。<br>【不动金刚】全部解除时龙化槽提升50%，<br>此效果发动后180秒内不会再次发动。</div></dd></dl></div></div></div><div>※Lv100、上限解锁第4阶段、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 特选对象角色在&ldquo;阿尔贝里亚大逃杀&rdquo;中解锁可变更外观的&ldquo;角色皮肤&rdquo;所需道具数量将有所减少。</div><div>※部分角色无法解锁角色皮肤。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1640844000; update_time1640689289

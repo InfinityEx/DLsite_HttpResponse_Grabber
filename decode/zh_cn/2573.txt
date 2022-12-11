@@ -1,0 +1,8 @@
+article_id:2573
+category_name:公告
+title_name:主线剧情追加第22章《两位契约者》前篇！
+image_path:https://dragalialost.akamaized.net/attached/information/images/b93791f971239291c1126eea55699e4d.png
+
+message:<div><span class="local_date" data-local_date="1635746400"></span>起，主线剧情已追加第22章《两位契约者》前篇！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/b93791f971239291c1126eea55699e4d.png"></div><div><br></div><div>和奈迪犹的决战一触即发，此时创世与破坏之龙</div><div>却从沉睡中苏醒，欲将世间一切归零。</div><div>与巴哈姆特的战斗进行得如火如荼之时，</div><div>王子窥见了奈迪犹的过去。他将何去何从，</div><div>奈迪犹那不为人知的真正意图又是&hellip;&hellip;</div><div><br></div><div>敬请关注最新的主线剧情！</div><div><br></div><div>■注意事项</div><div>1. 主线剧情第22章《两位契约者》前篇可在通关第21章 6-3&ldquo;决战一触即发&rdquo;后解锁。</div><div>2. 本次主线剧情前篇追加时将不追加新的可用&ldquo;龙玉&rdquo;进行上限解锁的龙。点击主线剧情各章区域地图中显示的&ldquo;龙玉&rdquo;图标可查看可获得的&ldquo;龙玉&rdquo;种类、持有的龙玉数量、剩余可获得次数及可获得&ldquo;龙玉&rdquo;的任务。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1635746400; update_time1635305997

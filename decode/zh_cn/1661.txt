@@ -1,0 +1,115 @@
+article_id:1661
+category_name:公告
+title_name:“附奖传说召唤”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1601877600"></span>起，&ldquo;附奖传说召唤&rdquo;开放！</div><div><br></div><div>&ldquo;附奖传说召唤&rdquo;中，特选对象角色的出现概率提升。</div><div>进行&ldquo;附奖传说召唤&rdquo;可在获得角色&middot;龙的同时获得&ldquo;附奖&rdquo;。</div><div><br></div><div>附奖有白金奖、金奖、银奖、铜奖、5等、6等共计6种。</div><div>&ldquo;10连召唤&rdquo;第10次的附奖必为白金奖、金奖、银奖、铜奖其中之一。</div><div><span style="color: rgb(226, 80, 65);">获得的附奖可在礼物箱的&ldquo;无期限&rdquo;中领取。</span></div><div><br></div><div>※同时使用10张召唤券不等同于进行&ldquo;10连召唤&rdquo;，不确保第10次附奖必为白金奖、金奖、银奖、铜奖其中之一。</div><div>※附奖一览和出现概率可在&ldquo;附奖传说召唤&rdquo;开放期间点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;并在&ldquo;出现概率&rdquo;的&ldquo;附奖&rdquo;中查看。</div><div><br></div><div>【新登场的特选对象角色】</div><div>■角色</div><div>★5 伊莉雅：光/铳（长铳模式）<br>※长铳为射程较远、擅长远距离攻击的模式。</div><div><br></div><div>【附奖传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1601877600"></span> ～ <span class="local_date" data-local_date="1602482399"></span></div><div><br></div><div>新登场的特选对象角色详情如下：</div><div><br></div><div>【特选角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/080680256c40fd281cce297dbad7097e.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,500</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>可使用模式</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/48f0cf6b6186ad0c7fa467c24cc47eea2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/b8a3b3884cac48715702c5bf401cd8b22.png"><img src="https://dragalialost.akamaized.net/attached/information/images/26f43aab3c39a2bcdadd1b40dd88e7402.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>拥有稀世才能的炼金术士，甚至炼出了<br>被普遍认为不可能成功的“异界之匙”。<br>她的父母被军方杀害，由精灵一手养大。<br>虽然她希望过上自由的人生，<br>但这个世界却不肯放过天赋异禀的她。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/775392a8a09a554df496b2a54960c3e62.png"></span>
+				<span>驱动爆破</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对目标造成光属性伤害，<br>使其进入“闪热”状态。<br>【多重目标】技能可以多个敌人为目标发动。<br>拥有至少1个【炼金弹夹】时，此技能变为以下效果：<br>对直线上的敌人造成光属性伤害，<br>使其进入“闪热”状态。<br>消耗1个【炼金弹夹】。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>炼金强化</span>
+			</dt>
+			<dd>
+				<div>
+					根据当前已充满的【炼金槽】数量，<br>20秒内为自身提供【炼金弹夹】。<br>此效果期间使用爆发攻击将发射【正确答案】。<br>【正确答案】将消耗所有【炼金弹夹】<br>并根据消耗的数量提升命中数。<br>此技能仅可在至少充满1条【炼金槽】时使用。<br>拥有至少1个【炼金弹夹】时，此技能变为以下效果：<br>对前方的敌人造成光属性伤害。<br>消耗1个【炼金弹夹】。<br>学会此技能时追加【炼金槽】。<br>无【炼金弹夹】时，普通攻击、回避攻击和爆发攻击<br>命中敌人可为【炼金槽】充能。<br>连击数不低于30时，【炼金槽】充能量提升。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>怒气槽减少量＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队怒气槽减少量提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】连击：10连击以上 暗抗＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为光<br>且连击达到10次以上时获得<br>【暗属性抗性提升10%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3c27f8fc4d7206c65512f3f2c27c30762.png"></span><span>近似答案Ⅱ</span></dt><dd><div>滑动屏幕回避时，<br>对目标发动追加攻击。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>探寻答案Ⅱ</span></dt><dd><div>进入“中毒”、“诅咒”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>暴击输出Ⅱ</span></dt><dd><div>【炼金弹夹】增益因时间经过以外的因素解除时，<br>自身获得【15秒内暴击率提升30%的增益】。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 附奖一览和出现概率可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;出现概率&rdquo;，查看&ldquo;附奖&rdquo;。</div><div>3. 进行10连召唤或同时使用10张召唤券获得的道具重复时，同种道具将统一发送至礼物箱的&ldquo;无期限&rdquo;中。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1601877600; update_time1601633176

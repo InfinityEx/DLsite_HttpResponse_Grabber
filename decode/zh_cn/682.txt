@@ -1,0 +1,8 @@
+article_id:682
+category_name:公告
+title_name:值此传说召唤开放之际，向各位玩家发放“10连召唤券”！【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1566370800"></span>更新</strong></span></div><div>因原公告内容有误，现已撤回并进行修正。</div><div><br></div><div>■修正内容</div><div>修正前：我们已向各位玩家发放&ldquo;10连召唤券&rdquo;！</div><div>修正后：我们将向各位玩家依次发放&ldquo;10连召唤券&rdquo;！</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><hr><div>值此传说召唤开放之际，我们将向各位玩家依次发放&ldquo;10连召唤券&rdquo;！</div><div>希望能为各位玩家在当前的&ldquo;Melodious Summer♪ 特选&rdquo;和即将开放的&ldquo;娇艳玫瑰绽放情人节&rdquo;中提供帮助。</div><div><br></div><div>■礼物内容</div><div>10连召唤券 1张</div><div><br></div><div>■发放对象</div><div><span class="local_date" data-local_date="1566367200"></span>前开始游戏的玩家</div><div><br></div><div>玩家可在<span class="local_date" data-local_date="1566971999"></span>前从&ldquo;礼物箱&rdquo;领取。</div><div><br></div><div>※本次发放的10连召唤券的使用期限为领取后30天内。</div><div>※召唤时将优先消耗有使用期限的10连召唤券。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1566367200; update_time1569481054

@@ -1,0 +1,8 @@
+article_id:2722
+category_name:公告
+title_name:关于元旦前后的咨询回复
+image_path:
+
+message:<div><span class="local_date" data-local_date="1640703600"></span> ～ <span class="local_date" data-local_date="1641221999"></span>期间的咨询，我们将依次进行回复。</div><div><br></div><div>根据所发送的内容，可能需在<span class="local_date" data-local_date="1641258000"></span>后进行回复。</div><div>请各位玩家见谅。</div><div><br></div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1640671200; update_time1640250619

@@ -1,0 +1,80 @@
+article_id:1618
+category_name:公告
+title_name:“龙辉护符交换所”追加恒常化的龙辉护符！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1601013600"></span>起，伴随&ldquo;回忆活动&rdquo;的活动任务追加，部分期间限定护符已恒常化并追加至交换所。</div><div>可在&ldquo;龙辉护符交换所&rdquo;的&ldquo;特选&rdquo;及各稀有度标签下交换追加的龙辉护符。</div><div><br></div><div>【恒常化的龙辉护符介绍】</div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/065bdfea2945c816a0f6573c39b9c6192.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">万圣夜魔女</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【魔杖】技能伤害＋40%&nbsp;(Max40%)</span></dt><dd><div>装备角色的武器种类为魔杖时，<br>攻击技能造成的伤害提升40%。&nbsp;(Max40%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/63d71fadcdab08dbda4d555b5e8284942.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">万圣节·巫女·手制</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>HP全满 技＋40%&nbsp;(Max40%)</span></dt><dd><div>HP全满时技能伤害提升40%。&nbsp;(Max40%)</div></dd><dt class="event 20826"><span><img src="https://dragalialost.akamaized.net/attached/information/images/942ae6f4594c4dd5be5626cd5fec1d072.png"></span><span>恶作剧P＋100%&nbsp;(Max100%)</span></dt><dd class="event 20826"><div>完成任务时获得的【恶作剧P】提升100%。&nbsp;(Max100%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/85c7dc13a0f8e67fdf87e0d0d0c3f8b62.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">不给糖就捣蛋</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span><span>暗属性抗性＋10%&nbsp;(Max15%)</span></dt><dd><div>暗属性伤害减少10%。&nbsp;(Max15%)</div></dd><dt class="event 20826"><span><img src="https://dragalialost.akamaized.net/attached/information/images/942ae6f4594c4dd5be5626cd5fec1d072.png"></span><span>恶作剧P＋100%&nbsp;(Max100%)</span></dt><dd class="event 20826"><div>完成任务时获得的【恶作剧P】提升100%。&nbsp;(Max100%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/db5b855f6014d5663ea7ad7d019adf9d2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">假面舞会·歌剧</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span><span>暗属性抗性＋10%&nbsp;(Max15%)</span></dt><dd><div>暗属性伤害减少10%。&nbsp;(Max15%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/c2af8599001eaa69546a293ead8b17f52.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">希露姬的万圣节</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>黑暗抗性＋50%&nbsp;(Max100%)</span></dt><dd><div>进入“黑暗”状态的概率下降50%。&nbsp;(Max100%)</div></dd><dt class="event 20826"><span><img src="https://dragalialost.akamaized.net/attached/information/images/71ca6f198687c952036797855e36daa92.png"></span><span>南瓜饼干＋50%&nbsp;(Max50%)</span></dt><dd class="event 20826"><div>完成任务时获得的【南瓜饼干】提升50%。&nbsp;(Max50%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/2f86f0d9ed3f7517d3bdb613136cf2082.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/8882a1e2cd557667e16b4245e73d8a6f2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">南瓜盒</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>诅咒抗性＋25%&nbsp;(Max100%)</span></dt><dd><div>进入“诅咒”状态的概率下降25%。&nbsp;(Max100%)</div></dd><dt class="event 20826"><span><img src="https://dragalialost.akamaized.net/attached/information/images/71ca6f198687c952036797855e36daa92.png"></span><span>南瓜饼干＋50%&nbsp;(Max50%)</span></dt><dd class="event 20826"><div>完成任务时获得的【南瓜饼干】提升50%。&nbsp;(Max50%)</div></dd></dl></div></div></div><div><br></div><div>※最大上限解锁时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>本公告以外的信息可进入商店中的&ldquo;龙辉护符交换所&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1601002800; update_time1600991535

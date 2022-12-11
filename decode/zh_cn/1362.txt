@@ -1,0 +1,268 @@
+article_id:1362
+category_name:公告
+title_name:“光属性传说召唤”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1591164000"></span>起，&ldquo;光属性传说召唤&rdquo;开放！</div><div><br></div><div>&ldquo;光属性传说召唤&rdquo;中仅出现光属性角色&middot;龙。</div><div><span style="color: rgb(226, 80, 65);">※光属性以外的角色&middot;龙不会出现在本召唤中。</span></div><div><br></div><div>【光属性传说召唤期间】</div><div><span class="local_date" data-local_date="1591164000"></span> ～ <span class="local_date" data-local_date="1591941540"></span></div><div><br></div><div>&ldquo;光属性传说召唤&rdquo;中出现的部分★5角色&middot;★5龙详情如下：</div><div><br></div><div>【★5角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/69c5ed6e8c0cd4525c55ed79b0a0a50f.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>因能操控雷电而得名“雷迅卿”，<br>担任“雷迅卿骑士团”的团长，<br>正在寻找令祖国半毁的深渊之种。<br>表面沉着冷静，内心却充满热情，<br>深受骑士团的部下爱戴。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>雷电爆裂</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成光属性伤害。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>雷霆脉冲</span>
+			</dt>
+			<dd>
+				<div>
+					20秒内自身进入【带电】状态。<br>此效果期间将强化技能“雷电爆裂”，<br>自身的爆发攻击获得使敌人进入“麻痹”状态的效果。<br>自身处于非【带电】状态时，此技能随时间自动充能。<br>此技能的充能不受“技能槽提升效果”影响。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龙化增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化槽上升率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>【光】麻痹：麻痹触发·会心＋13%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为光<br>且使敌人进入麻痹状态时获得<br>【15秒内暴击率提升13%的增益】。<br>此效果发动后10秒内不会再次发动。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/fd589517c61c65312e1509e13a36cd412.png"></span><span>爆发攻击伤害＋50%</span></dt><dd><div>爆发攻击造成的伤害提升50%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>中毒抗性＋100%</span></dt><dd><div>进入“中毒”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cb9a79af6cfdc75b0e5d4d610cfbe8c32.png"></span><span>电闪蓄力Ⅱ</span></dt><dd><div>“带电”状态时攻击力提升25%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/213321f8f4b710e2888352fd6c867d47.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/a6bf6cc478bdfec859a5780e4a4ddade2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>810</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>466</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,516</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>获得神谕的修道院长。<br>因得到了帮助王子的神谕而造访圣城。<br>严厉的性格虽增强了自身的信心，<br>也有着将神之教诲强加于人的一面。<br>极其厌恶谎言可能也是性格使然。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>救世之光</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					回复所有同伴的HP，<br>解除同伴的“诅咒”状态。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e4c4b6c2cda86984ab5b0997b4b26db62.png"></span>
+				<span>神圣守护者</span>
+			</dt>
+			<dd>
+				<div>
+					使全队获得<br>【使HP最大值30%以下的伤害无效的护盾】，<br>并持续回复15秒。<br>护盾仅生效1次，且不可与同种护盾叠加。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回复技能效果＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队回复技能效果提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【光】无伤：HP60% 攻＋6%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为光<br>且HP不低于60%时获得<br>【攻击力提升6%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>开场技能槽＋100%</span></dt><dd><div>任务开始时技能槽提升100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>诅咒抗性＋100%</span></dt><dd><div>进入“诅咒”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span><span>HP70% 回复＋15%</span></dt><dd><div>HP在70%以上时回复技能效果提升15%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>【★5龙介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/777cdefbe9741243ad307d3e52c38424.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>377</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>119</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>为情所困之人的伙伴。<br>对爱与幸福有着无与伦比的热爱，<br>并将它们带给世间的人们。<br>他尚且年幼，纯洁无暇。<br>对所有怀着爱意的人都十分友善。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>Lovely Pose</span>
+			</dt>
+			<dd>
+				<div>
+					回复所有同伴的HP。<br>15秒内全队暴击率提升25%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻击力＋60%</span></dt><dd><div>装备角色属性为光时，<br>角色的攻击力提升60%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1591164000; update_time1590739733

@@ -1,0 +1,8 @@
+article_id:2571
+category_name:公告
+title_name:关于Android 12环境下的游戏显示问题
+image_path:
+
+message:<div>目前已确认Android设备在系统更新至&ldquo;Android 12&rdquo;后启动游戏时出现了可能无法正常显示画面下方的异常现象。</div><div><br></div><div>最新进展将第一时间更新在本公告中。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div>
+
+start_time:1634713200; update_time1634782464

@@ -1,0 +1,8 @@
+article_id:2533
+category_name:更新
+title_name:版本更新公告【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1635390000"></span>追记】</strong></span><br>我们已向<span class="local_date" data-local_date="1635390000"></span>前开始游戏的玩家发放以下道具。<br><br>&middot;10连召唤券 1张<br><br>※领取期限为发送至礼物箱后7天内。</div><div><br></div><hr><div>版本2.13.0预计将于<span class="local_date" data-local_date="1635303600"></span>左右发布。</div><div>另外，预计将于<span class="local_date" data-local_date="1635390000"></span>左右进行强制更新。</div><div><br></div><div>更新至版本2.13.0后，将无法匹配到仍在使用旧版本的玩家。</div><div>※房间一览中将不显示使用旧版本的玩家所创建的房间，也无法随机加入房间、输入房间ID加入或从同盟聊天中加入房间。</div><div><br></div><div>为感谢各位玩家对本次更新的积极配合，我们将向各位玩家发放10连召唤券。</div><div>10连召唤券预计将于强制更新后发放。</div><div>发放完毕后将更新在本公告中。</div><div>※强制更新前，即使玩家更新至版本2.13.0也无法提前获得10连召唤券。</div><div><br></div><div>版本2.13.0详情如下：</div><div><br></div><div>■主要更新内容</div><div>&middot;万圣节限定语音</div><div><br></div><div><span class="local_date" data-local_date="1635400800"></span>～<span class="local_date" data-local_date="1636610399"></span>期间，在角色一览页面或队伍编成页面中点击或长按任意角色，可在点击画面右下方的&ldquo;放大镜&rdquo;图标后出现的页面中播放万圣节限定语音。</div><div>※下载语音后会显示语音播放按钮。</div><div><br></div><div>&middot;更新内容为10月末～11月期间新角色登场和新任务追加的准备工作以及部分游戏异常修正。</div><div><br></div><div>■注意事项</div><div>1. 版本更新信息显示至商店可能需要一定时间。</div><div>另外，设备内临时数据可能导致无法更新。</div><div>如无法更新，请关闭设备电源，等待1～2分钟后重试。</div><div>2. 本文中的角色、游戏画面为开发中的内容。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1634698800; update_time1635389956

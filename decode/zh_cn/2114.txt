@@ -1,0 +1,8 @@
+article_id:2114
+category_name:活动
+title_name:活动“迎击战～艾缪尔学院☆创校～”预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/17eb0d5d0b067996d858c2ad852c565c.png
+
+message:<div>活动&ldquo;迎击战～艾缪尔学院☆创校～&rdquo;预计将于<span class="local_date" data-local_date="1618207200"></span>开始。</div><div>&ldquo;迎击战～艾缪尔学院☆创校～&rdquo;是在据点抵御众多敌人来袭的活动。</div><div>本活动中可获得用于解锁共享技能的道具和体力回复道具等报酬，敬请参与！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/17eb0d5d0b067996d858c2ad852c565c.png"></div><div><br></div><div>啊哈哈哈哈哈哈！</div><div>这可是本大爷为自己创立的</div><div>专门歌颂本大爷的学院！</div><div>什么！？有人入侵学院！？</div><div>该死的弟弟又来捣乱了吗&hellip;&hellip;</div><div>喂！这是怎么回事！？</div><div>那保护欲过度的姐姐</div><div>和肌肉男居然变成了小孩！？</div><div><br></div><div>■注意事项</div><div>参加活动需通关主线剧情第2章 2-1(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div>
+
+start_time:1617948000; update_time1617599082

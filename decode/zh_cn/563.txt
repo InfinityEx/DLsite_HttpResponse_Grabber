@@ -1,0 +1,8 @@
+article_id:563
+category_name:公告
+title_name:主线剧情追加第9章《Let's Party！》！
+image_path:https://dragalialost.akamaized.net/attached/information/images/98c32705b0f0ac2fe3af5e58c0916149.png
+
+message:<div><span class="local_date" data-local_date="1563170400"></span>起，主线剧情已追加第9章《Let&#39;s Party！》！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/98c32705b0f0ac2fe3af5e58c0916149.png"></div><div>第三王女谢斯突然寄来了派对的邀请函。</div><div>为问清她真正的意图，一行人动身前往绚烂都市香榭利亚。</div><div>舞厅里充斥着各种错综复杂的思虑，没有休止符的轮舞曲正拉开帷幕&hellip;&hellip;</div><div><br></div><div>敬请期待最新的主线剧情！</div><div>&nbsp;</div><div>■注意事项</div><div>主线剧情第9章《Let&#39;s Party！》可在通关第8章 5-4&ldquo;因爱而强大&rdquo;后解锁。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1563170400; update_time1569488255

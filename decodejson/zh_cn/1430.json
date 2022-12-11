@@ -1,0 +1,613 @@
+article_id:1430,category_name:公告,title_name:魔法圆环“第6层”解锁角色追加！,image_path:,message:<div><span class="local_date" data-local_date="1593754200"></span>起，部分角色追加魔法圆环&ldquo;第6层&rdquo;。</div><div><br></div><div>本次追加的对象角色及其数值如下：</div><div>※角色的技能Lv提升后，设置为共享技能时技能槽更难提升。</div><div><br></div><div>■对象角色</div><div>★5 阿莱克西斯：水/剑</div><div>★5 莉莉：水/魔杖</div><div>★4 卡丽娜：水/斧</div><div>★4 卢塔：水/短剑</div><div>★3 夏迪：水/剑</div><div>★3 里卡多：水/法杖<br><br></div><div><br></div><div><br></div><div>■数值介绍</div><div>&middot;★5角色</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/93f55f140d291f47e1b416df327714562.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">阿莱克西斯</div><div class="cv">CV:中村悠一</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>907</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>603</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>3,190</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/02e0e90cb54331571331affbe607d6362.png"></span>
+				<span>壮丽之汐</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成水属性伤害，<br>使其进入“冻伤”状态。<br>根据自身增益数量获得【增强效果】，<br>造成的伤害提升。<br>发动【征服之主】，<br>强化下次爆发攻击和“壮丽之汐”。<br>爆发攻击强化后将变为【三连飞剑】，可进行远距离攻击。<br>“壮丽之汐”强化后将变为“壮丽之汐Ⅱ”，伤害提升。<br>使用“壮丽之汐Ⅱ”可叠加【征服之主】，<br>进一步强化下次爆发攻击和“壮丽之汐”。<br>【三连飞剑】的伤害提升<br>且对进入“冻伤”状态的敌人造成的伤害进一步提升。<br>“壮丽之汐”将变为“壮丽之汐Ⅲ”，伤害提升。<br>使用【三连飞剑】或“壮丽之汐Ⅲ”时解除【征服之主】。<br>作为共享技能使用时无法发动【征服之主】。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd5464d0aeb6d41964c19ee25f922b922.png"></span>
+				<span>皇家漩涡</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成水属性伤害。<br>根据自身增益数量获得【增强效果】，<br>造成的伤害提升。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龙化增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化槽上升率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【水】连击：10连击以上 攻＋13%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为水<br>且连击达到10次以上时获得<br>【攻击力提升13%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>霸心之王</span></dt><dd><div>每使用爆发攻击打倒3个敌人<br>即发动【攻击力提升6%的增益】。<br>此效果每回任务最多发动5次。<br>自身获得【征服之主】效果期间<br>发动【攻击力提升5%的增益】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f9540aa3b892c485f82bfd1ef78b1b72.png"></span><span>昏迷抗性·改＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。<br>受到可能造成昏迷的攻击时，<br>自身获得【10秒内攻击力提升15%的增益】<br>获得增益的效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/fd589517c61c65312e1509e13a36cd412.png"></span><span>爆发攻击伤害＋55%</span></dt><dd><div>爆发攻击造成的伤害提升55%。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/cd719ee2951d2fea5582b06e2bf06feb2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">莉莉</div><div class="cv">CV:井口裕香</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>899</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>613</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>3,202</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>花之水晶</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成水属性伤害，<br>使其进入“冰冻”和“冻伤”状态。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>冰冻之风</span>
+			</dt>
+			<dd>
+				<div>
+					对周围的敌人造成水属性伤害。<br>30秒内发动【闪亮水晶】。<br>此效果期间技能“冰冻之风”的攻击范围扩大，<br>强化普通攻击使其<br>对进入“冻伤”状态的敌人造成的伤害提升。<br>【闪亮水晶】不可叠加，重复发动时覆盖原效果。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能伤害＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能伤害提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>【水】坚守：HP80% 火抗＋6%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为水<br>且HP不低于80%时火属性抗性提升6%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP全满 攻＋20%</span></dt><dd><div>HP全满时攻击力提升20%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c0b3ec2bdf2af0f73ef2627b87da47152.png"></span><span>烧伤抗性·改＋100%</span></dt><dd><div>进入“烧伤”状态的概率下降100%。<br>受到可能造成烧伤的攻击时，<br>自身获得【10秒内攻击力提升15%的增益】<br>获得增益的效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>技能充能&开场技能槽＋100%</span></dt><dd><div>任务开始时技能槽提升100%。<br>使用技能时技能槽提升5%。</div></dd></dl></div></div></div><div>&middot;★4角色</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/41fe74575e9642a1006ac0c1612427d62.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">卡丽娜</div><div class="cv">CV:丰口惠</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/84b1ffb7fd8678c120c0d11a60d38bdd2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>958</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>542</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>3,200</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>惊涛骇浪</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成水属性伤害，<br>使其进入“冻伤”状态。<br>根据自身增益数量获得【增强效果】，<br>造成的伤害提升。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd5464d0aeb6d41964c19ee25f922b922.png"></span>
+				<span>叉骨惩戒</span>
+			</dt>
+			<dd>
+				<div>
+					30秒内自身防御力提升30%。<br>对周围的敌人造成水属性伤害，<br>攻击时吸引敌人。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防御力＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队防御力提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【水】无伤：HP60% 攻＋5%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为水<br>且HP不低于60%时获得<br>【攻击力提升5%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>防御链·治愈Ⅴ</span></dt><dd><div>获得防御力提升的增益时，<br>发动【25秒内持续回复HP的增益】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f9540aa3b892c485f82bfd1ef78b1b72.png"></span><span>昏迷抗性·改＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。<br>受到可能造成昏迷的攻击时，<br>自身获得【10秒内攻击力提升15%的增益】<br>获得增益的效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>技能充能&开场技能槽＋100%</span></dt><dd><div>任务开始时技能槽提升100%。<br>使用技能时技能槽提升5%。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/408bcf2bce6f660731e2e2fe90d0fbb52.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">卢塔</div><div class="cv">CV:小西克幸</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>932</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>550</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>3,172</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd5464d0aeb6d41964c19ee25f922b922.png"></span>
+				<span>碎裂之击</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>3</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对周围的敌人造成水属性伤害，<br>使其进入“冻伤”状态。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>冰冻之舞</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成水属性伤害，<br>使其攻击力和防御力下降5%。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>暴击率＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队暴击率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>【水】连击：10连击以上 火抗＋9%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为水<br>且连击达到10次以上时获得<br>【火属性抗性提升9%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>疾风怒涛·会心＋15%</span></dt><dd><div>连击达到15次以上时暴击率提升15%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f9540aa3b892c485f82bfd1ef78b1b72.png"></span><span>昏迷抗性·改＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。<br>受到可能造成昏迷的攻击时，<br>自身获得【10秒内攻击力提升15%的增益】<br>获得增益的效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8d6a7e6b25da55b58f836507a080c3802.png"></span><span>热舞激情</span></dt><dd><div>每使用爆发攻击打倒3个敌人<br>即发动【攻击力提升6%的增益】。<br>此效果每回任务最多发动5次。<br>暴击时自身获得【热舞激情】，<br>下次爆发攻击获得【使敌人进入冻伤状态的效果】。<br>【热舞激情】增益不会重复，<br>并在使用爆发攻击后解除。<br>【热舞激情】增益发动后10秒内不会再次发动。</div></dd></dl></div></div></div><div>&middot;★3角色</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/d6b86b463b4fa4b015401994c471d85d2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/8882a1e2cd557667e16b4245e73d8a6f2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">夏迪</div><div class="cv">CV:羽多野涉</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/84b1ffb7fd8678c120c0d11a60d38bdd2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>952</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>517</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>3,079</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>夏迪剑击</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>3</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成水属性伤害，<br>使其进入“冻伤”状态。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cec8794d33276918ce38bfaa577312842.png"></span>
+				<span>夏迪惩击</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成水属性伤害，<br>使其进入“冻伤”状态。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龙化增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化槽上升率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【水】无伤：HP60% 攻＋3%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为水<br>且HP不低于60%时获得<br>【攻击力提升3%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP全满 攻＋20%</span></dt><dd><div>HP全满时攻击力提升20%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c0b3ec2bdf2af0f73ef2627b87da47152.png"></span><span>烧伤抗性·改＋50%</span></dt><dd><div>进入“烧伤”状态的概率下降50%。<br>受到可能造成烧伤的攻击时，<br>自身获得【10秒内攻击力提升15%的增益】<br>获得增益的效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>烧伤抗性＋50%</span></dt><dd><div>进入“烧伤”状态的概率下降50%。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/27db593f4a1a8e497c8f5d545ff50a212.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/8882a1e2cd557667e16b4245e73d8a6f2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">里卡多</div><div class="cv">CV:山下大辉</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/a6bf6cc478bdfec859a5780e4a4ddade2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>921</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>532</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>3,073</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>仁慈治愈</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					回复所有同伴的HP，<br>解除同伴的“烧伤”状态。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>圣洁之水</span>
+			</dt>
+			<dd>
+				<div>
+					回复所有同伴的HP，并持续回复15秒。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回复技能效果＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队回复技能效果提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>【水】HP＋7%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为水时，<br>HP提升7%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e2a2a164952dbf54d16329db5533b25a2.png"></span><span>HP全满 防&回复提升Ⅰ</span></dt><dd><div>HP全满时，防御力提升20%，<br>回复技能效果提升10%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f9540aa3b892c485f82bfd1ef78b1b72.png"></span><span>昏迷抗性·改＋50%</span></dt><dd><div>进入“昏迷”状态的概率下降50%。<br>受到可能造成昏迷的攻击时，<br>自身获得【10秒内攻击力提升15%的增益】<br>获得增益的效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏迷抗性＋50%</span></dt><dd><div>进入“昏迷”状态的概率下降50%。</div></dd></dl></div></div></div><div><br></div><div><br></div><div>■注意事项</div><div>1. 本公告中记载的角色数值为Lv100、魔法圆环解锁至70时的数值。</div><div>2. 数值不含因能力而变动的部分。</div><div>3. 在本公告前发布的公告或视频中记载的上述角色数值均为Lv80、魔法圆环解锁至50时的数值。</div><div>4. 角色的技能Lv提升后，设置为共享技能时技能槽更难提升。<br><br></div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>,start_time:1593669600,update_time1593756257

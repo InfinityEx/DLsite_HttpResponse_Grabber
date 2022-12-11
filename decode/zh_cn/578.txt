@@ -1,0 +1,8 @@
+article_id:578
+category_name:公告
+title_name:关于“加斯特”的技能发动时的语音变更
+image_path:
+
+message:<div>版本1.9.0起，角色&ldquo;加斯特&rdquo;发动技能&ldquo;冽风之枪&ldquo;时的日语语音已进行变更。</div><div>※仅变更台词，&ldquo;加斯特&rdquo;的CV不变。</div><div><br></div><div>对于未能事先通知各位玩家而造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1562565600; update_time1562555885

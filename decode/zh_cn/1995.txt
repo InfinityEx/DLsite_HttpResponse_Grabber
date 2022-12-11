@@ -1,0 +1,161 @@
+article_id:1995
+category_name:公告
+title_name:“龙传说召唤”即将开放！
+image_path:
+
+message:<div>&ldquo;龙传说召唤&rdquo;预计将于<span class="local_date" data-local_date="1613973600"></span>开放。</div><div><br></div><div>特选对象★5和★4龙的出现概率将提升。</div><div><br></div><div>【特选对象龙】</div><div>■龙</div><div>★5 贝尔坎特：暗</div><div>★5 阿波罗：火</div><div>★5 安德洛墨达：暗</div><div>★4 菲尼克斯：火</div><div>★4 伊夫利特：火</div><div>★4 札格纳特：暗</div><div><br></div><div>【龙传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1613973600"></span> ～ <span class="local_date" data-local_date="1614319199"></span></div><div><br></div><div>部分特选对象龙详情如下：</div><div><br></div><div>【特选龙介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7e42c48318ea87c36aad2c352b685557.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>对音乐格外喜爱的龙。演奏乐器、<br>唱歌、指挥、作曲都是超一流水平。<br>虽然身形酷似鲸鱼，但不仅能在海里游动，<br>也能在空中遨游。据说贝尔坎特<br>游过的天空下会响起洗涤心灵的音乐。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>美妙演奏</span>
+			</dt>
+			<dd><div>对前方的敌人造成暗属性伤害，<br>位于自身或其他角色设置的增益区域中时，<br>此技能得到强化、攻击范围扩大并追加<br>使自身获得【任务中暴击伤害倍率提升15%的增益】效果。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/0ca003e40efaeaec644df1940674fce52.png"></span><span>【暗】攻击力&暴击率提升Ⅴ</span></dt><dd><div>装备角色属性为暗时，<br>角色的攻击力提升45%，暴击率提升20%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/4458980ede9d21c5caf98ae8848068ff.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>负有盛名的好战之龙，<br>同时也是竞技都市阿波罗尼亚的守护者。<br>在阿波罗尼亚，<br>每天都会举办格斗大会。<br>众多追求名誉之人在这里切磋武艺。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/46abce3ca5f53484635af11860f0d2c02.png"></span>
+				<span>荣耀光环</span>
+			</dt>
+			<dd><div>对目标和目标周围的敌人<br>造成火属性伤害，使其进入“烧伤”状态。<br>并使其防御力下降5%。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻击力＋50%</span></dt><dd><div>装备角色属性为火时，<br>角色的攻击力提升50%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/332b0b04ccb12c122bbc2ba7b27bff5b2.png"></span><span>【火】烧伤特效＋20%</span></dt><dd><div>装备角色属性为火时，<br>对进入“烧伤”状态的敌人造成的伤害提升20%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8c5bd8a7a02c0141937cd8722bf3e408.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>曾被“结社”囚禁的龙。<br>相传其背负万人的罪孽，<br>并通过奉献自我对其进行净化。<br>但因“结社”的实验丧失了记忆，<br>如今与阿德尔潘结伴同行，为其提供帮助。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>不受祝福的牵绊之锁</span>
+			</dt>
+			<dd><div>对目标和目标周围的敌人造成暗属性伤害。<br>15秒内全队防御力提升30%。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【暗】攻击力＋40%</span></dt><dd><div>装备角色属性为暗时，<br>角色的攻击力提升40%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/97a6a9c25dfb5181cf44056f25fad1b82.png"></span><span>【暗】危机时·攻防提升Ⅱ</span></dt><dd><div>装备角色属性为暗且HP在30%以下时，<br>攻击力提升40%，防御力提升100%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1613887200; update_time1613525187

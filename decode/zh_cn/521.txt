@@ -1,0 +1,211 @@
+article_id:521
+category_name:公告
+title_name:传说召唤“幸福婚礼的钟声”即将开放！
+image_path:
+
+message:<div>传说召唤&ldquo;幸福婚礼的钟声&rdquo;预计将于<span class="local_date" data-local_date="1561010400"></span>开放。</div><div><br></div><div>特选对象角色&middot;龙的出现概率将提升。</div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1561010400"></span> ～ <span class="local_date" data-local_date="1561874340"></span></div><div><br></div><div>部分新登场的特选对象角色&middot;龙详情如下：</div><div><span style="color: rgb(226, 80, 65);">※本召唤中新登场的角色&middot;龙并非期间限定，仍会在今后的传说召唤中登场。</span></div><div><br></div><div>【特选角色介绍】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/d69a749951e0467c7521fe1f3a0aeaf2.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>795</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>480</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2515</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>为了给王国带来胜利与和平，<br>为了永远留在心上人的身边，<br>美丽的圣骑士身着纯白的新娘礼服<br>屹立于战场之上。<br>愿少女的这份心意永不褪色！</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>婚礼教堂</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成风属性伤害，<br>10秒内在地面设置【持续回复HP的增益区域】。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ef2fadd4e5171b8628a69b7295d667602.png"></span>
+				<span>永恒钟声</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成风属性伤害，<br>10秒内在地面设置【防御减益区域】。<br>此区域内的敌人防御力下降15%。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龙化增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化槽提升率提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>技能增强＋8%</span></dt><dd><div>技能槽上升率提升8%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span><span>湿身抗性＋100%</span></dt><dd><div>进入“湿身”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>防御链·攻＋13%</span></dt><dd><div>获得防御力提升的增益时，<br>发动【15秒内攻击力提升13%的增益】。</div></dd></dl></div></div></div><div><span style="color: rgb(226, 80, 65);">※埃尔菲莉丝（新娘Ver.）的技能&ldquo;婚礼教堂&rdquo;设置的增益区域持续时间不会因能力&ldquo;增益技能持续时间＋○%&rdquo;而延长。</span></div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ef560aa1b0fc85ca1b249da225b9ce23.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>800</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>475</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2470</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>身着日出之国的新娘服装，<br>使用“新娘忍术”进行战斗的葵。<br>虽说这身装束与忍者大相径庭，<br>但据说也有穿上它才能使用的忍术。<br>葵决定在出嫁时要穿上这身传统嫁衣。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2ef60e9ac871b2e176714b7eed8d3132.png"></span>
+				<span>新娘忍术·唐伞扫刃</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成风属性伤害，<br>使其进入“睡眠”状态。攻击时吸引敌人。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd5464d0aeb6d41964c19ee25f922b922.png"></span>
+				<span>新娘忍术·狐狸嫁女</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成风属性伤害，回复所有同伴的HP。<br>对进入“睡眠”状态的敌人造成的伤害提升。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>暴击率＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队暴击率提升10%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>睡眠触发·PT攻＋15%</span></dt><dd><div>使敌人进入睡眠状态时，全队获得<br>【10秒内攻击力提升15%的增益】。<br>此效果发动后5秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>冰冻抗性＋100%</span></dt><dd><div>进入“冰冻”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>技能增强·强击＋12%</span></dt><dd><div>爆发攻击命中时，技能槽上升率提升12%。</div></dd></dl></div></div></div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div><br></div><div>【特选龙介绍】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2c42868832ed6a0184e634bcf1d29457.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>375</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1025</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>掌管爱与丰饶的美丽之龙。<br>只需轻轻一挥由巨树编成的法杖，<br>便能给大地带来恩泽。<br>深受世间万物爱戴，亦随性地爱着万物。<br>饲养着两只猫作为使魔，对它们疼爱有加。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>生命之息</span>
+			</dt>
+			<dd>
+				<div>
+					回复所有同伴的HP，并持续回复20秒。<br>使全队进入【超强斗志】状态。<br>【超强斗志】将在使用对象技能后解除。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【风】HP＋30%</span></dt><dd><div>装备角色属性为风时<br>HP提升30%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【风】技能增强＋35%</span></dt><dd><div>装备角色属性为风时，<br>技能槽上升率提升35%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1560924000; update_time1560854885

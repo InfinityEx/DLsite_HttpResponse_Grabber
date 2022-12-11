@@ -1,0 +1,8 @@
+article_id:393
+category_name:活动
+title_name:“FIRE EMBLEM 彼此相连的世界”活动期间确定！
+image_path:
+
+message:<div>&ldquo;FIRE EMBLEM 彼此相连的世界&rdquo;活动期间已确定！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/c695f53c4997b75a393bea7c65c5eb80.png"></div><div>■活动期间</div><div>2019/04/26(UTC+8) 维护结束后 ～ <span class="local_date" data-local_date="1557813599"></span></div><div><br></div><div>敬请期待活动！</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1555038000; update_time1555029522

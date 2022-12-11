@@ -1,0 +1,8 @@
+article_id:2111
+category_name:公告
+title_name:关于团队活动“破晓之龙约”部分任务调整
+image_path:
+
+message:<div><span class="local_date" data-local_date="1617343200"></span>起，我们已对团队活动&ldquo;破晓之龙约&rdquo;部分任务进行以下调整。</div><div><br></div><div>■对象任务</div><div>任务2 圣域龙讨伐战</div><div><br></div><div>■调整内容</div><div>调整团队战BOSS的&ldquo;苍蓝之魂&rdquo;部位HP使其更易被破坏。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1617609600; update_time1617687035

@@ -1,0 +1,322 @@
+article_id:1415
+category_name:公告
+title_name:“Dragalia Fes”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1593410400"></span>起，&ldquo;Dragalia Fes&rdquo;开放！</div><div><br></div><div>【关于Dragalia Fes】</div><div>&middot;★5角色、龙的初始出现概率从4%提升至6%！</div><div>※召唤出★5或★5特选后，出现概率将变回初始概率6%。</div><div><span style="color: rgb(226, 80, 65);">※本次新追加的★5角色&ldquo;尤金(水)&rdquo;、&ldquo;凯瑟琳(水)&rdquo;及★5龙&ldquo;斯堤克斯(水)&rdquo;在今后的传说召唤中也将登场。</span></div><div><br></div><div>【新登场的特选对象角色&middot;龙】</div><div>■角色</div><div>★5 尤金：水/剑</div><div>★5 凯瑟琳：水/枪</div><div><br></div><div>■龙</div><div>★5 凯特西（Fes限定Ver.）：暗</div><div>★5 斯堤克斯：水</div><div><br></div><div>【Dragalia Fes的出现概率】</div><div>★5 合计：6.00%</div><div>★5特选 合计：2.60%（角色：1.00% 龙：1.60%）</div><div>★5通常 合计：3.40%（角色：2.00% 龙：1.40%）</div><div>★4通常 合计：16.00%（角色：8.55%　龙：7.45%）</div><div>★3通常 合计：78.00%（角色：47.00%　龙：31.00%）</div><div><br></div><div>【Dragalia Fes活动期间】</div><div><span class="local_date" data-local_date="1593410400"></span> ～ <span class="local_date" data-local_date="1593755940"></span></div><div><br></div><div>新登场的特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选龙介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c9d795baac8f6fb427537c9ee6653346.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,006</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>谢斯的契约龙。外表可爱却喜怒无常，<br>喜欢恶作剧。兴趣是观察人类<br>和夜间散步。将信赖之人以外的存在<br>都视作玩具。兼具热情与冷酷的性格<br>可以说与主人十分相似。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>优雅计谋</span>
+			</dt>
+			<dd>
+				<div>
+					10秒内对前方的敌人造成暗属性伤害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【暗】狡黠妙计Ⅱ</span></dt><dd><div>装备角色属性为暗时，<br>任务开始时自身获得15次<br>【下一次技能伤害提升180%的增益】。<br>每25次连击自身获得<br>【下一次技能伤害提升180%的增益】。<br>【下一次技能伤害提升180%的增益】<br>最多可积累15次，超出部分不予计算。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【暗】龙化解除时·狡黠妙计Ⅱ</span></dt><dd><div>装备角色属性为暗时，<br>龙化解除时自身获得8次<br>【下一次技能伤害提升180%的增益】。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>■关于凯特西（Fes限定Ver.）的攻击<br>龙化为凯特西（Fes限定Ver.）时，普通攻击可对周围的敌人造成伤害并使其进入&ldquo;睡眠&rdquo;状态。</div><div><br>■关于增益数量计算<br>因凯特西（Fes限定Ver.）的能力&ldquo;【暗】狡黠妙计Ⅰ/Ⅱ&rdquo;获得的增益在计算&ldquo;性能根据自身增益数量变化的技能&rdquo;的增益数量时始终视为1。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/28d811f9bc8daf6bcf25228805b49ddd.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>守护南方大陆河川的龙。<br>幼龙成年后身形会发生巨大变化。<br>平时性格友善，但若人类在幼龙眼前<br>触犯禁忌，其便会变出满怀恶意的分身，<br>灾难也会随之降临。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>净化波涛</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成水属性伤害。<br>此技能随斯堤克斯普通攻击获得的<br>【冥河之魂】数量得到强化。<br>【冥河之魂】可叠加至3层，<br>龙化解除或使用技能时全部解除。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【水】时间经过技能伤害Ⅱ</span></dt><dd><div>装备角色属性为水时，<br>每15秒自身获得<br>【下一次技能伤害提升50%的增益】。<br>此增益最多可叠加至4层，<br>使用攻击技能后全部解除。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【特选角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ccb60e7decb113229df985a2e7ba2e08.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>797</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>479</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,516</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>性格阴暗又不坦率的少年。<br>声称自己不需要朋友，<br>但其实觉得很寂寞。<br>性格容易紧张，不擅长与人交流。<br>内心深处想要改变自己。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>尤金理论</span>
+			</dt>
+			<dd>
+				<div>
+					10秒内在地面设置【增益区域】。<br>使用技能时发动【技能升级】，效果依次变化。<br>初始状态【野草小兵之进击】：<br>攻击力提升20%。<br>第1阶段【剑骑士之急袭】：<br>攻击力提升20%，火属性抗性提升8%。<br>第2阶段【圣龙王之鼓舞】：<br>攻击力提升20%，火属性抗性提升8%，<br>暴击伤害倍率提升20%。使用技能时自身获得<br>【致胜一招】，使技能“将军”准备就绪。<br>技能“将军”仅可在获得【致胜一招】时使用，<br>【致胜一招】最多可叠加2层。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/afc20a16a5386d949ce9cd874cf2f6012.png"></span>
+				<span>将军</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成水属性伤害。<br>此技能仅可在获得【致胜一招】时使用。<br>使用技能时解除1层【致胜一招】。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龙化增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化槽上升率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【水】龙化：龙之恩赐·攻Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为水时，<br>每次龙化提升攻击力。<br>此效果每回任务最多发动3次。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6c8630603e25801ad9b184d92642fad02.png"></span><span>会心时灵感提升Ⅱ</span></dt><dd><div>每次暴击可提升自身1阶段【灵感】。<br>此效果发动后10秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏迷抗性＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span><span>HP70% 防＋13%</span></dt><dd><div>HP在70%以上时防御力提升13%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8df224fa18dbb4e690483bc2d71f028e.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>508</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>南格拉斯迪亚大陆乡下小镇奎因贝尔<br>镇长的女儿。盛气凌人的性格<br>和引领周围人的言行很引人注目，<br>但其实严于律己。尽管是大小姐出身，<br>依旧为追求完美的自我而不懈努力。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1afb4a1e63b9349ff028357edec9da6a2.png"></span>
+				<span>凯瑟琳召唤</span>
+			</dt>
+			<dd>
+				<div>
+					自身获得【完美防御】。<br>【完美防御】可根据能力“完美之巅”发挥各种效果。<br>【完美防御】可叠加至3层。<br>10秒内自身攻击力提升20%。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5df6e7b975d220221d524e55556940f92.png"></span>
+				<span>凯瑟琳完美指令</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成水属性伤害。<br>此技能随自身获得的【完美防御】数量得到强化。<br>使用技能时解除所有【完美防御】。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队HP提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【水】连击：10连击以上 攻＋13%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为水<br>且连击达到10次以上时获得<br>【攻击力提升13%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6ddcc8f713334a535e381df622386dc92.png"></span><span>完美之巅Ⅱ</span></dt><dd><div>自身普通攻击、爆发攻击和技能“凯瑟琳完美指令”<br>随自身获得的【完美防御】数量得到强化。<br>获得【完美防御】效果期间<br>受到攻击不会被击退且受到所有属性伤害降低10%，<br>但会解除1层【完美防御】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏迷抗性＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能伤害＋30%</span></dt><dd><div>攻击技能造成的伤害提升30%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1593410400; update_time1593136376

@@ -1,0 +1,8 @@
+article_id:1997
+category_name:活动
+title_name:设施活动“恶魔诱惑下的虚假乐园”预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/acb2777c0e7fd5b054aa95c773b5bd02.png
+
+message:<div>设施活动&ldquo;恶魔诱惑下的虚假乐园&rdquo;预计将于<span class="local_date" data-local_date="1614319200"></span>开始。<br>本活动可挑战风属性的BOSS，获得活动限定的报酬设施。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/8ceacfda2e77088e60bcb8e7e5912ae8.png"></div><div>王子一行人在北大陆的旅途中造访了一处名为乐园的山间村庄。<br>乐园中一位被称为乐母的女子<br>用神秘的力量不断改写着人们的记忆。<br>那股力量是否来自&ldquo;封印石&rdquo;的瘴气？<br>王子与使徒决定一同潜入那虚假的乐园进行调查，然而&hellip;&hellip;<br><br>■活动期间<br><span class="local_date" data-local_date="1614319200"></span> ～ <span class="local_date" data-local_date="1615442399"></span><br><br>■注意事项<br>1. 参加活动任务需通关主线剧情第2章 2-1(Normal)。<br>2. 参加多人模式需通关主线剧情第2章 2-1(Normal)。<br><br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1614146400; update_time1613526184

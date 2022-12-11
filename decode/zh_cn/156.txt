@@ -1,0 +1,8 @@
+article_id:156
+category_name:公告
+title_name:“真龙之试炼”已追加“真布伦希尔德的试炼”！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1545026400"></span>起，最高难度的活动任务&ldquo;真龙之试炼&rdquo;已追加新内容&mdash;&mdash;&ldquo;真布伦希尔德的试炼&rdquo;！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/e435a8901b26431ee32bcd3f7bac6874.png"></div><div>快来挑战烈焰环绕的红莲之主真正的实力吧！</div><div><br></div><div><strong>【&ldquo;真布伦希尔德的试炼&rdquo;追加后的变更】</strong></div><div><br></div><div><strong>1. 交换所的&ldquo;真龙之试炼&rdquo;中已追加&ldquo;真布伦希尔德&rdquo;。</strong></div><div><br></div><div>■数值</div><div>&middot;Lv 100/100</div><div>&middot;HP 350</div><div>&middot;攻击力 120</div><div>&middot;战力 1070</div><div><br></div><div>■龙详情</div><div>绯龙布伦希尔德释放隐藏之力后的形态。环绕全身的红莲之火，可将周遭万物都化为灰烬。</div><div>唯一例外是心爱的王子。</div><div>恋爱之火愈发高涨！</div><div><br></div><div>■技能</div><div>&middot;绯红地狱</div><div>对目标和目标周围的敌人</div><div>造成火属性伤害，使其进入&ldquo;烧伤&rdquo;状态。</div><div><br></div><div>■能力</div><div>&middot;【火】HP&amp;攻击力＋30%</div><div>装备角色属性为火时，HP和攻击力提升30%。</div><div>&middot;龙化时间＋20%</div><div>龙化时间延长20%。</div><div><br></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div><strong>2. 交换所的&ldquo;狄涅尔帝国迎击战&rdquo;中已追加龙辉护符&ldquo;烈焰女王&rdquo;。</strong></div><div><br>■能力<br>&middot;真绯龙抗性＋25%、绯龙抗性＋20%、火属性抗性＋5%<br>※最大Lv、最大上限解锁时的数值，并非获得时的数值。<br><br></div><div><strong>3. 挑战活动的UI已变更。</strong></div><div><br></div><div>&middot;活动任务中的挑战活动新追加&ldquo;真龙之试炼&rdquo;，可在&ldquo;真龙之试炼&rdquo;中挑战&ldquo;真耶梦加得的试炼&rdquo;和&ldquo;真布伦希尔德的试炼&rdquo;。</div><div><br></div><div>【注意事项】</div><div>1. 挑战&ldquo;真布伦希尔德的试炼&rdquo;需队伍战力在13000以上。</div><div>2. 挑战&ldquo;真布伦希尔德的试炼&rdquo;需通过&ldquo;布伦希尔德的试炼 超级&rdquo;。</div><div>3. 参加多人模式需通关主线剧情第2章2-1(Normal)。</div>
+
+start_time:1545026400; update_time1545026566

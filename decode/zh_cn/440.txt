@@ -1,0 +1,8 @@
+article_id:440
+category_name:公告
+title_name:关于使用复数张跳过券时无法开始任务的异常现象
+image_path:
+
+message:<div>目前已确认试图使用复数张跳过券开始任务时，如总消耗体力大于体力最大值，将提示&quot;错误码:20021&quot;而无法开始任务。</div><div><br></div><div>本异常现象已于<span class="local_date" data-local_date="1556280000"></span>得到解决。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1556280000; update_time1556288013

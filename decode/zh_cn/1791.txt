@@ -1,0 +1,8 @@
+article_id:1791
+category_name:公告
+title_name:关于角色“拉碧丝”爆发攻击的异常现象【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1606806600"></span>追记】</strong></span></div><div>本异常现象已于<span class="local_date" data-local_date="1606456800"></span>左右进行的数据更新中得到修正。</div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。<br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><hr><div>角色&ldquo;拉碧丝&rdquo;出现了以下异常现象：</div><div><br></div><div>&middot;爆发攻击同时命中多个敌人时的技能槽提升量高于命中单个敌人时的技能槽提升量。</div><div><br></div><div>本异常现象将于<span class="local_date" data-local_date="1606456800"></span>左右的数据更新中进行修正。</div><div><br></div><div>我们将于本异常现象修正后依次向<span class="local_date" data-local_date="1606456799"></span>前开始游戏的玩家发放以下道具作为补偿。</div><div><br></div><div>&middot;龙辉晶&times;120</div><div><br></div><div>※领取期限为发送至礼物箱后7天内。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div>
+
+start_time:1605765600; update_time1606806640

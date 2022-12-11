@@ -1,0 +1,8 @@
+article_id:148
+category_name:维护
+title_name:关于12/25的游戏维护【追记】
+image_path:
+
+message:<div>我们预计将于以下时间段对游戏进行维护。</div><div><br></div><div>※维护中无法进行游戏，请各位玩家谅解。</div><div>※&ldquo;每日加赠礼包&rdquo;和&ldquo;每日回复礼包&rdquo;请在本次维护前领取。</div><div><br></div><div>■维护时间</div><div><span class="local_date" data-local_date="1545715800"></span> ～ <span class="local_date" data-local_date="1545717600"></span></div><div><br></div><div>■维护内容</div><div>&middot;&ldquo;新手欢迎礼包&rdquo;的可购买次数由1次变更为2次。</div><div>※已购买过&ldquo;新手欢迎礼包&rdquo;的玩家，维护结束后可再购买1次。</div><div>&middot;&ldquo;★5角色召唤券&rdquo;可召唤的角色追加&ldquo;莉莉&rdquo;、&ldquo;纳杰夫&rdquo;、&ldquo;洛依泽&ldquo;、&ldquo;卢克雷齐娅&rdquo;。</div><div><br></div><div>■注意事项</div><div>维护开始与结束时间可能会在无预先通知的情况下变更。</div><div><br></div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1545717600"></span> 追记</strong></span><br>维护已于<span class="local_date" data-local_date="1545717600"></span>结束。<br>感谢各位玩家对本次维护的支持和理解。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1544932800; update_time1545991944

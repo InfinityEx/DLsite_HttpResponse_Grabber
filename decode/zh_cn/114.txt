@@ -1,0 +1,8 @@
+article_id:114
+category_name:公告
+title_name:关于真耶梦加得"风暴追击"的异常现象【追记】
+image_path:
+
+message:<div>目前已确认游戏版本1.2.0的&quot;真耶梦加得的试炼&quot;中出现了真耶梦加得的&quot;风暴追击&quot;攻击未正常进行的异常现象。</div><div>※本异常现象过去也曾出现，在版本1.1.5中进行过修正。</div><div><br></div><div>我们正在调查本异常现象的原因。</div><div>最新进展将第一时间更新在本公告中。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1543298400"></span> 追记</strong></span><br>目前已确认解决本异常现象需对游戏进行版本更新。<br>我们预计将在下一次版本更新中修正本异常现象。<br>因此，原定于<span class="local_date" data-local_date="1543374000"></span>进行的版本1.2.0强制更新将取消，下一次强制更新预计将于<span class="local_date" data-local_date="1543546800"></span>进行。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1543469400"></span> 追记</strong></span><br>本异常现象已于版本1.2.1中进行了修正。<br>我们将依次向<span class="local_date" data-local_date="1543546800"></span>前开始游戏的玩家发放以下道具作为补偿。<br><br>&middot;300个龙辉晶<br><br>本次补偿可在<span class="local_date" data-local_date="1544151540"></span>前登录游戏领取。<br>领取期限为发送至礼物箱后7天内。<br><br>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1543231500; update_time1543909958

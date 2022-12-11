@@ -1,0 +1,243 @@
+article_id:2899
+category_name:公告
+title_name:追加部分龙可进行上限解锁的第5阶段！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1646028000"></span>起，追加部分龙可进行上限解锁的第5阶段。</div><div><br></div><div>本次追加的对象龙及其数值如下：</div><div><br></div><div>■对象龙</div><div>★5阿波罗：火</div><div>★5斯堤克斯：水</div><div>★5帕祖祖：风</div><div>★5神圣菲尼克斯：光</div><div>★5埃庇米修斯：暗</div><div><br></div><div>■数值介绍</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/d84cae895107153e129dd8fe5ce091662.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">阿波罗</div><div class="cv">CV:小野大辅</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>389</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>147</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,146</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/46abce3ca5f53484635af11860f0d2c02.png"></span>
+				<span>荣耀光环</span>
+			</dt>
+			<dd><div>对目标和目标周围的敌人造成伤害，<br>使其进入“烧伤”状态并使其防御力下降。</div><div class="skill-detail">威力：360 × 1 Hit<br>威力：840 × 1 Hit<br>特殊效果<br>·防御力下降5%<br>　效果时间：10 秒<br>·烧伤<br>　效果时间：30 秒<br>　效果间隔：3.9 秒<br>　威力：41.5<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>【火】攻击力＋55%&力量激发Ⅰ</span></dt><dd><div>装备角色属性为火时，<br>角色的攻击力提升55%，<br>任务开始时180秒内自身获得【力量激发】增益，<br>此效果期间攻击力提升30%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/332b0b04ccb12c122bbc2ba7b27bff5b2.png"></span><span>【火】烧伤特效＋20%</span></dt><dd><div>装备角色属性为火时，<br>对进入“烧伤”状态的敌人造成的伤害提升20%。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/1beb6d346f94fd079dd48bde89f452022.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">斯堤克斯</div><div class="cv">CV:嶋村侑</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>390</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>145</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,145</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>净化波涛</span>
+			</dt>
+			<dd><div>对直线上的敌人造成伤害。<br>此技能随斯堤克斯普通攻击获得的<br>【冥河之魂】数量得到强化。<br>使用技能时解除全部【冥河之魂】。</div><div class="skill-detail">威力：180 × 7 Hit<br>（消耗1个冥河之魂时）<br>威力：180 × 10 Hit<br>（消耗2个冥河之魂时）<br>威力：180 × 13 Hit<br>（消耗3个冥河之魂时）<br>威力：180 × 16 Hit<br>特殊效果<br>·冥河之魂<br>　叠加上限：3<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>汹涌激流</span></dt><dd><div>装备角色属性为水时，<br>每10秒自身获得【力量奔流】。<br>效果期间下一次技能伤害提升50%。<br>此增益最多可叠加至4层，<br>使用攻击技能后全部解除。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>【水】力量激发Ⅰ</span></dt><dd><div>装备角色属性为水时，<br>任务开始时180秒内自身获得【力量激发】增益，<br>此效果期间攻击力提升30%。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/e74bf73714fa67a0958f4a1a6e2790762.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">帕祖祖</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>389</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>146</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,145</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>灾厄之风</span>
+			</dt>
+			<dd><div>对直线上的敌人造成伤害，<br>使其进入“中毒”状态并使其防御力下降。</div><div class="skill-detail">威力：182 × 5 Hit<br>特殊效果<br>·防御力下降5%<br>　效果时间：10 秒<br>·中毒<br>　效果时间：30 秒<br>　效果间隔：2.9 秒<br>　威力：29.1<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>【风】攻击力＋55%&力量激发Ⅰ</span></dt><dd><div>装备角色属性为风时，<br>角色的攻击力提升55%，<br>任务开始时180秒内自身获得【力量激发】增益，<br>此效果期间攻击力提升30%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>【风】中毒特效＋20%</span></dt><dd><div>装备角色属性为风时，<br>对进入“中毒”状态的敌人造成的伤害提升20%。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/69720a76e7e8a80e5fdebd8f1f74989a2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">神圣菲尼克斯</div><div class="cv">CV:市之濑加那</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>391</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>144</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,145</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>再生之火</span>
+			</dt>
+			<dd><div>对周围的敌人造成伤害，<br>使其进入“麻痹”状态。<br>解除所有同伴的“诅咒”和“中毒”状态。</div><div class="skill-detail">威力：260 × 7 Hit<br>特殊效果<br>·中毒回复<br>·诅咒回复<br>·麻痹<br>　效果时间：13 秒<br>　效果间隔：3.9 秒<br>　威力：88.3<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>【光】攻击力＋55%&力量激发Ⅰ</span></dt><dd><div>装备角色属性为光时，<br>角色的攻击力提升55%，<br>任务开始时180秒内自身获得【力量激发】增益，<br>此效果期间攻击力提升30%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28cbbe44c3b9fd009706ad48a7e4e0f52.png"></span><span>【光】麻痹特效＋20%</span></dt><dd><div>装备角色属性为光时，<br>对进入“麻痹”状态的敌人造成的伤害提升20%。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/f959f6c14bdd6e6366bd435ba0b187342.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">埃庇米修斯</div><div class="cv">CV:白井悠介</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>388</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>148</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,146</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>埃庇米修斯的孤毒</span>
+			</dt>
+			<dd><div>对周围的敌人造成伤害，<br>使其进入“中毒”状态。</div><div class="skill-detail">威力：1,260 × 1 Hit<br>特殊效果<br>·中毒<br>　效果时间：30 秒<br>　效果间隔：2.9 秒<br>　威力：29.1<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>【暗】攻击力＋55%&力量激发Ⅰ</span></dt><dd><div>装备角色属性为暗时，<br>角色的攻击力提升55%，<br>任务开始时180秒内自身获得【力量激发】增益，<br>此效果期间攻击力提升30%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>【暗】中毒特效＋20%</span></dt><dd><div>装备角色属性为暗时，<br>对进入“中毒”状态的敌人造成的伤害提升20%。</div></dd></dl></div></div></div><div><br></div><div><br></div><div>■注意事项</div><div>1. 本公告中记载的龙为Lv120、第5阶段上限解锁、最大信赖度时的数值。</div><div>2. 数值不含因能力而变动的部分。</div><div>3. 本公告前发布的公告或视频中记载的上述龙为Lv100、最大信赖度时的数值。</div><div><br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1646028000; update_time1646014770

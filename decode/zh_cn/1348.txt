@@ -1,0 +1,8 @@
+article_id:1348
+category_name:公告
+title_name:商店中追加新商品“★6武器上限解锁礼包”！
+image_path:https://dragalialost.akamaized.net/attached/information/images/358fbabcc0c3a6eb06584a63b7b90525.png
+
+message:<div><span class="local_date" data-local_date="1590991200"></span>起，&ldquo;★6武器上限解锁礼包&rdquo;已于商店&ldquo;育成道具 育成礼包&rdquo;的&ldquo;本月&rdquo;中上架！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/358fbabcc0c3a6eb06584a63b7b90525.png"></div><div>礼包的详情如下：</div><div><br></div><div>■★6武器上限解锁礼包</div><div>购买龙钻即可获得加赠的★6武器上限解锁道具。</div><div><br></div><div>＜商品包含道具＞</div><div>&middot;龙钻 2,000个(龙钻1,920个+加赠80个)</div><div><br></div><div>＜加赠道具＞</div><div>&middot;精金&times;1</div><div><br></div><div>■注意事项</div><div>道具价格及其它详情等信息可点击主页&ldquo;商店&rdquo;中的&ldquo;育成道具 育成礼包&rdquo;的&ldquo;本月&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1590991200; update_time1590469746

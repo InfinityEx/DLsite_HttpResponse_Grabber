@@ -1,0 +1,210 @@
+article_id:1816
+category_name:公告
+title_name:魔法圆环“第6层”解锁角色追加！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1607319600"></span>起，部分角色追加魔法圆环&ldquo;第6层&rdquo;。</div><div><br></div><div>本次追加的对象角色及其数值如下：</div><div>※角色的技能Lv提升后，设置为共享技能时技能槽更难提升。</div><div><br></div><div>■对象角色</div><div>★4 塞蕾娜：火/剑</div><div>★4 勇也：火/短剑</div><div><br></div><div>■数值介绍</div><div>&middot;★4角色</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/434b451cb3ac4cff9adb5c47bd219b952.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">塞蕾娜</div><div class="cv">CV:内田真礼</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/84b1ffb7fd8678c120c0d11a60d38bdd2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>968</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>531</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>3,179</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/504300d592534f448407b7bb70e5ec7f2.png"></span>
+				<span>突击之焰</span>
+			</dt>
+			<dd>
+				<div>
+					10秒内全队暴击率提升10%，<br>对直线上的敌人造成火属性伤害。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>纯真剑舞</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>3</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成火属性伤害。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龙化增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化槽上升率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>【火】连击：10连击以上 会心＋12%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为火<br>且连击达到10次以上时获得<br>【暴击率提升12%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>粉身碎骨·会心威力＋7%</span></dt><dd><div>每20次连击自身获得<br>【任务中暴击伤害倍率提升7%的增益】。<br>此效果每回任务最多发动3次。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f9540aa3b892c485f82bfd1ef78b1b72.png"></span><span>昏迷抗性·改＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。<br>受到可能造成昏迷的攻击时，<br>自身获得【10秒内攻击力提升15%的增益】<br>获得增益的效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>粉身碎骨·会心＋5%</span></dt><dd><div>每30次连击自身获得<br>【任务中暴击率提升5%的增益】。<br>此效果每回任务最多发动3次。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/676778d9d6017eac3257d23b79e87dfa2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">勇也</div><div class="cv">CV:田村睦心</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>928</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>553</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>3,171</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>飙车！无人可挡！</span>
+			</dt>
+			<dd>
+				<div>
+					对周围的敌人造成火属性伤害，<br>10秒内自身攻击速度提升20%。<br>攻击时可控制方向。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8c34fcb89d5a300e55bf63bd264927542.png"></span>
+				<span>放马过来！鸡冠流！</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					15秒内全队防御力提升10%，攻击力提升15%。<br>全队获得【使HP最大值30%以下的伤害无效的护盾】。<br>护盾仅生效1次，且不可与同种护盾叠加。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>暴击率＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队暴击率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>【火】龙化：龙化增强＋18%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为火时，<br>龙化槽上升率提升18%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7dbdfc8aed4cf8dba6df11212a4e78522.png"></span><span>胆怯之心Ⅲ</span></dt><dd><div>HP不低于60%时攻击力提升20%。<br>HP低于60%时攻击力下降20%。<br>技能“飙车！无人可挡！”每命中3次，<br>自身获得【技能伤害提升5%】增益<br>和【5秒内防御力下降10%】减益。<br>【技能伤害提升5%】增益最多可叠加至100%，<br>并在使用攻击技能后全部解除。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f9540aa3b892c485f82bfd1ef78b1b72.png"></span><span>昏迷抗性·改＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。<br>受到可能造成昏迷的攻击时，<br>自身获得【10秒内攻击力提升15%的增益】<br>获得增益的效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>技能连接·会心＋10%</span></dt><dd><div>自身当前操作角色的技能1可使用时，<br>该角色获得【5秒内暴击率提升10%的增益】。<br>此效果发动后15秒内不会再次发动。</div></dd></dl></div></div></div><div>角色&ldquo;勇也&rdquo;魔法圆环第6层解锁的技能&ldquo;飙车！无人可挡！ Lv4&rdquo;比Lv1～Lv3拥有更多的命中次数和更广的攻击范围，攻击时也更易控制方向。通过控制方向可对敌人造成更大伤害。</div><div><br></div><div>■注意事项</div><div>1. 本公告中记载的角色数值为Lv100、魔法圆环解锁至70时的数值。</div><div>2. 数值不含因能力而变动的部分。</div><div>3. 在本公告前发布的公告或视频中记载的上述角色数值均为Lv80、魔法圆环解锁至50时的数值。</div><div>4. 角色的技能Lv提升后，设置为共享技能时技能槽更难提升。<br><br></div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1607234400; update_time1607066843

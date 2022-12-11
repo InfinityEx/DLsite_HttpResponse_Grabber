@@ -1,0 +1,8 @@
+article_id:1560
+category_name:活动
+title_name:活动“防卫战～天灼幻沙走秀台～”预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/cbcede8c4b744bc284c0636424b28d32.png
+
+message:<div>活动&ldquo;防卫战～天灼幻沙走秀台～&rdquo;预计将于<span class="local_date" data-local_date="1599804000"></span>开始。</div><div>&ldquo;防卫战～天灼幻沙走秀台～&rdquo;是抵御袭来的众多敌人守卫据点的期间限定活动。</div><div>本活动中可获得用于解锁共享技能的道具，敬请参与！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/cbcede8c4b744bc284c0636424b28d32.png"></div><div><br></div><div>为了寻回失去的记忆，</div><div>妾身与娜迪茵一同参加了沙之民的祭典。</div><div>为隐藏女王的身份而换上便装，</div><div>却不知为何成了时装秀的模特！？</div><div>帝国也在此时袭来，骚乱不断！</div><div>究竟能否寻回记忆！？</div><div><br></div><div>■注意事项</div><div>1. 参加活动任务需通关主线剧情第2章2-1(Normal)。</div><div>2. 参加多人模式需通关主线剧情第2章2-1(Normal)。</div><div>3. 活动&ldquo;防卫战～天灼幻沙走秀台～&rdquo;的剧情为全语音。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1599631200; update_time1599009912

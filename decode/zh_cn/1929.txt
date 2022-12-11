@@ -1,0 +1,8 @@
+article_id:1929
+category_name:公告
+title_name:关于“失落历史～莫尔托梅塞亚歼灭战～”的周常奖励
+image_path:
+
+message:<div>目前已确认通关<span class="local_date" data-local_date="1610604000"></span>追加的&ldquo;失落历史～莫尔托梅塞亚歼灭战～&rdquo;时，单人模式和多人模式下获得的周常奖励数量有所不同。</div><div><br></div><div>本异常现象预计将于<span class="local_date" data-local_date="1611554400"></span>进行的数据更新中修正。</div><div><br></div><div>修正前在单人模式下通关&ldquo;失落历史～莫尔托梅塞亚歼灭战～&rdquo;并获得周常奖励的玩家可在修正后获得差额部分的奖励作为补偿。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1610700600; update_time1610701391

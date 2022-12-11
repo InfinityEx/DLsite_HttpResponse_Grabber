@@ -1,0 +1,249 @@
+article_id:2752
+category_name:公告
+title_name:“Dragalia Fes Extra”即将开放！
+image_path:
+
+message:<div>&ldquo;Dragalia Fes Extra&rdquo;预计将于<span class="local_date" data-local_date="1642053600"></span>开放。</div><div><br></div><div>【关于Dragalia Fes】※含&ldquo;Dragalia Fes Extra&rdquo;</div><div>&middot;★5角色、龙的初始出现概率将从4%提升至6%！</div><div>※召唤出★5或★5特选后，出现概率将变回初始概率6%。</div><div><span style="color: rgb(226, 80, 65);">※本次新追加的★5角色&ldquo;纳姆（和服Ver.）&rdquo;(光)在今后的传说召唤中也将登场。</span></div><div><span style="color: rgb(226, 80, 65);">※以往&ldquo;Dragalia Fes&rdquo;中追加的角色&middot;龙也可能在本召唤中登场。登场角色&middot;龙的详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</span></div><div><br></div><div>【新追加的特选对象角色】</div><div>■角色</div><div>★5 纳姆（和服Ver.）：光/法杖</div><div><br></div><div>【以往Dragalia Fes中登场过的特选对象角色&middot;龙】</div><div>■角色</div><div>★5 卢卡（Fes限定Ver.）：光/刀</div><div><br></div><div>■龙</div><div>★5 托尔（Fes限定Ver.）：光</div><div><br></div><div>【Dragalia Fes Extra活动期间】</div><div><span class="local_date" data-local_date="1642053600"></span> ～ <span class="local_date" data-local_date="1642485599"></span></div><div><br></div><div>特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3ef64f17b9518941e05a219a927c7c4a.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/a6bf6cc478bdfec859a5780e4a4ddade2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>810</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>466</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,516</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>身着新年盛装的纳姆。<br>为了与大家一同创造美好的回忆，<br>今年也准备进行各种挑战。<br>羽化姿态也穿上崭新和服的纳姆，<br>新年伊始就状态绝佳！</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>精灵的日出</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>■通常状态时<br>·回复全队HP并持续回复。<br>·使用技能时消耗自身召唤的【蝶】<br>并根据其数量追加回复全队HP。<br>·【蝶】数量不低于6时，<br>使全队获得【暗属性抗性提升】。<br><br>■羽化时<br>·对多个攻击对象和对象周围的敌人造成伤害，<br>使其进入“闪热”状态。<br>·攻击时消耗自身召唤的【蝶】和【旋舞蝶】<br>并对其所在位置造成追加伤害。</div><div class="skill-detail">回复力：105<br>每只【蝶】的回复力：6<br>所需SP：6,255<br>所需共享SP：16,982<br>特殊效果<br>·HP持续回复<br>　效果时间：15 秒　<br>　效果间隔：2.9 秒<br>　效果量：45<br>·暗属性抗性提升20%<br>　效果时间：10 秒<br>　不可叠加<br><br>（特殊龙化时）<br>威力：338 × 5 Hit<br>追加伤害威力：168 × 1 Hit<br>特殊效果<br>·闪热<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6c0d33ea3eb33415241d8f0ee34c041a2.png"></span>
+				<span>精灵的好运</span>
+			</dt>
+			<dd><div>■通常状态时<br>·回复全队HP，解除全队异常状态并使全队获得<br>【攻击暗属性敌人时的伤害倍率提升的增益】。<br>·使用技能时消耗自身召唤的【蝶】<br>并根据其数量为自身羽化槽充能。<br>·【蝶】数量不低于6时，<br>使全队获得【提升最大HP的增益】。<br><br>■羽化时<br>·对周围的敌人造成伤害。<br>·使用技能后13秒内<br>在自身周围召唤4只【旋舞蝶】。<br>【旋舞蝶】在解除羽化形态时消失。</div><div class="skill-detail">回复力：110<br>所需SP：8,940<br>特殊效果<br>·全异常状态回复<br>·HP提升10%<br>·光属性攻击力提升10%<br>　效果时间：30 秒<br>　不可叠加<br>每只【蝶】的羽化槽回复量：75<br><br>（特殊龙化时）<br>威力：1,045 × 1 Hit<br><br>（【旋舞蝶】攻击）<br>威力：72 × 1 Hit<br>攻击间隔：1.5秒</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回复技能效果＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队回复技能效果提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span>
+				<span>【光】连击：连击时龙化充能Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为光时，<br>每50次连击龙化槽提升3%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d92fa00a576f3016a247125bc75a97e32.png"></span><span>新春羽化秘术Ⅱ</span></dt><dd><div>①以特殊的“羽化”代替普通龙化。<br>羽化效果如下：<br>·龙化槽变为羽化槽。<br>·羽化槽达到一定量后点击按钮一律变为羽化形态。<br>·再次点击按钮或羽化槽耗尽后解除羽化形态。<br>②普通攻击、爆发攻击、冲刺攻击和羽化形态的<br>普通攻击变为召唤持续追踪目标的【蝶】。<br>【蝶】在羽化或解除羽化形态时消失。<br>③使用爆发攻击时回复全队HP。<br>④每次使用技能1、技能2和羽化后的技能1、技能2时，<br>自身获得暴击伤害倍率提升的战意（士气上限Lv1）。<br>此效果发动后8秒内不会再次发动。<br>⑤任务开始时全队获得<br>【可抵御纳姆HP最大值20%伤害的生命护盾】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>中毒抗性＋100%</span></dt><dd><div>进入“中毒”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>开场技能槽＋100%</span></dt><dd><div>任务开始时技能槽提升100%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6b56faf9763502a18edfbb89d96dab4a.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>517</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,502</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>决意创造一个没有任何争端的<br>容身之处的卢卡。为跨越种族间的隔阂，<br>在各个种族的帮助下换上了全新的装备。<br>为了不忘那无比重要的约定<br>而手持友人之刀，誓要斩断纷争之源。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cbd8f43df3f5398db1f1d365ac553ca22.png"></span>
+				<span>光耀爆裂斩击</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>对直线上的敌人造成伤害。<br>自身每持有1种不同图标的增益，<br>此技能和龙化时可造成伤害的<br>技能的暴击率提升10%。</div><div class="skill-detail">威力：502.4 × 4 Hit<br>所需SP：2,870<br>所需共享SP：11,193<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>闪电超频</span>
+			</dt>
+			<dd><div>自身暴击伤害倍率大幅提升。</div><div class="skill-detail">所需SP：3,899<br>特殊效果<br>·暴击强化80%<br>　效果时间：10 秒<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻击力＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队攻击力提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】连击：10连击以上 暗抗＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为光<br>且连击达到10次以上时获得<br>【暗属性抗性提升10%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/daec86e89dfb95ad45d6f68c08c841752.png"></span><span>纽带之力Ⅱ</span></dt><dd><div>自身每持有1种不同图标的增益，<br>暴击率提升4%（最多提升28%）。<br>每次暴击自身可在20秒内随机获得<br>【森隐族秘技】、【人族睿智】、<br>【罗卡族技艺】其中1种增益。<br>各增益均可使自身暴击率提升3%，<br>但无法与自身叠加。<br>此效果发动后3秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/2752d5bf66ac339cb32a3adf1a41e1702.png"></span><span>不屈誓约Ⅱ</span></dt><dd><div>进入“诅咒”状态的概率下降100%。<br>受到可能造成诅咒的攻击时，<br>自身获得【10秒内暴击率提升15%的增益】。<br>此效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>疾风怒涛·会心＋13%</span></dt><dd><div>连击达到15次以上时暴击率提升13%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>■关于卢卡（Fes限定Ver.）的共享技能<br>角色&ldquo;卢卡（Fes限定Ver.）&rdquo;的技能&ldquo;光耀爆裂斩击&rdquo;无法作为共享技能带入&ldquo;华丽迷宫&rdquo;。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7be9448214ab47b76a5fc8f074461691.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>巴尔库斯的契约龙，掌管雷霆之力<br>并自称雷神。拥有电光一闪便能<br>将战场上的一切化为灰烬的强大力量，<br>在世界各地广为流传。<br>其作为武者的思想也影响着巴尔库斯。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>雷神之锤</span>
+			</dt>
+			<dd><div>对目标和目标周围的敌人造成伤害，<br>使其进入“麻痹”状态。<br>此技能蓄力时可根据点击屏幕次数最多强化至3阶段。<br>一定时间后或强化至最高阶段可发动攻击。</div><div class="skill-detail">威力：1,780 × 1 Hit（最大时）<br>特殊效果<br>·麻痹<br>　效果时间：26 秒<br>　效果间隔：3.9 秒<br>　威力：44.2<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/212bea9478466c5e63454315256b6a5f2.png"></span><span>【光】战车驱动者Ⅴ</span></dt><dd><div>装备角色属性为光时发动以下效果。<br>效果1：攻击力提升50%。<br>效果2：每5秒提升1阶段【斗志】。<br>效果3：根据自身【斗志】阶段提升相应攻击力。<br>【超强斗志】时效果达到最大，可使攻击力提升45%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>【光】轰鸣者Ⅱ</span></dt><dd><div>装备角色属性为光时，<br>龙化解除时获得【超强斗志】<br>并使全队获得【超强斗志】。</div></dd></dl></div></div></div><div>※Lv100、上限解锁第4阶段、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 特选对象角色在&ldquo;阿尔贝里亚大逃杀&rdquo;中解锁可变更外观的&ldquo;角色皮肤&rdquo;所需道具数量将有所减少。</div><div>※部分角色无法解锁角色皮肤。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1641967200; update_time1641952709

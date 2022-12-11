@@ -1,0 +1,8 @@
+article_id:1166
+category_name:公告
+title_name:迎接1.5Year Anniversary，向各位玩家发放道具！
+image_path:
+
+message:<div>《Dragalia Lost ～失落的龙约～》将于<span class="local_date" data-local_date="1585288800"></span>迎来上线1.5周年！</div><div>为迎接上线1.5周年纪念日，我们将依次向各位玩家发放以下道具！</div><div><br></div><div>■礼物内容</div><div>金水晶&times;500</div><div>高级蜂蜜&times;25</div><div><br></div><div>■发放对象</div><div><span class="local_date" data-local_date="1585288800"></span>前开始游戏的玩家</div><div><br></div><div>领取期限为发送至礼物箱后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1584684000; update_time1584609681

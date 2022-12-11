@@ -1,0 +1,161 @@
+article_id:2679
+category_name:公告
+title_name:“龙传说召唤”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1639980000"></span>起，&ldquo;龙传说召唤&rdquo;开放！</div><div><br></div><div>特选对象★5和★4龙的出现概率提升。</div><div><br></div><div>【特选对象龙】</div><div>■龙</div><div>★5 凯特西（夏日Ver.）：光</div><div>★5 格布纽&amp;克雷纽：水</div><div>★5 拉米艾尔：暗</div><div>★4 沃加诺伊：水</div><div>★4 林德巴鲁姆：光</div><div>★4 札格纳特：暗</div><div><br></div><div>【龙传说召唤的出现概率】</div><div>★5特选 合计：2.40%（角色：0% 龙：2.40%）</div><div>★5通常 合计：1.60%（角色：0.75% 龙：0.85%）</div><div>★4特选 合计：7.00%（角色：0% 龙：7.00%）</div><div>★4通常 合计：9.00%（角色：5.05% 龙：3.95%）</div><div>★3通常 合计：80.00%（角色：48.00% 龙：32.00%）</div><div><br></div><div>【龙传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1639980000"></span> ～ <span class="local_date" data-local_date="1640930399"></span></div><div><br></div><div>部分特选对象龙详情如下：</div><div><br></div><div>【特选龙介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/34d95e5f4fcd93ee848f269181b12f17.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>和谢斯来到海滩度过夏日假期的凯特西。<br>用质感高级的遮阳帽和太阳镜<br>将自己全副武装，优雅地享受着假期……<br>然而，引以为傲的毛却与夏天不太对路。<br>白天喜欢蜷缩在太阳伞下。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>热带诡计</span>
+			</dt>
+			<dd><div>对周围的敌人造成伤害，<br>使其进入“闪热”状态。<br>全队获得防御力提升的士气。</div><div class="skill-detail">威力：1,750 × 1 Hit<br>特殊效果<br>·闪热<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41.6<br>获得士气<br>·防御力提升（士气上限Lv 2）<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻击力＋50%</span></dt><dd><div>装备角色属性为光时，<br>角色的攻击力提升50%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/adb13b3fa2060593c1c02f8b47ef97442.png"></span><span>【光】海滩妙计Ⅱ</span></dt><dd><div>装备角色属性为光时获得以下效果：<br>·任务开始时技能槽提升100%。<br>·获得防御力提升的士气时，<br>对进入“闪热”状态的敌人造成的伤害提升25%。</div></dd></dl></div></div></div><div>※Lv100、上限解锁第4阶段、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/55b6044f296f2653f59e151bd80b3975.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>喜欢可爱而梦幻之物的龙。<br>擅长修理武器，<br>与妹妹克雷纽形影不离。<br>交给她的武器<br>都会变得可爱又梦幻！</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>跳跳跳舞！</span>
+			</dt>
+			<dd><div>10秒内在地面设置【技能槽持续上升增益区域】。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【水】攻击力＋45%</span></dt><dd><div>装备角色属性为水时，<br>角色的攻击力提升45%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【水】技能回流Ⅱ</span></dt><dd><div>装备角色属性为水时，<br>使用技能时回复该技能35%的技能槽。</div></dd></dl></div></div></div><div>※Lv100、上限解锁第4阶段、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8a895ec91dce75fe626028c7d731352c.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>被称作“五大天使”之一的龙。<br>性格沉稳，拥有冷静的分析能力，<br>偶尔也会展现毒舌的一面。<br>原本对人类毫无感情，但如今却对<br>通过圣痕连结的使徒抱有近乎父爱的情感。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cec8794d33276918ce38bfaa577312842.png"></span>
+				<span>天使之声</span>
+			</dt>
+			<dd><div>对前方的敌人造成暗属性伤害，<br>使其进入“中毒”状态，<br>15秒内使其防御力下降20%。<br>此防御力下降效果不可叠加。<br>使装备角色的技能2准备就绪。<br>90秒内使装备角色的技能1和技能2自动充能。<br>此充能不受“技能槽上升率提升效果”影响。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c793d967ec5a1e469bd1b8ed200f254d2.png"></span><span>【暗】攻击力&开场龙化槽Ⅴ</span></dt><dd><div>装备角色属性为暗时，<br>角色的攻击力提升60%，任务开始时自身的龙化槽提升50%。</div></dd></dl></div></div></div><div>※Lv100、上限解锁第4阶段、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1639980000; update_time1639448734

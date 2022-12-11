@@ -1,0 +1,243 @@
+article_id:3050
+category_name:公告
+title_name:“传说召唤”即将开放！
+image_path:
+
+message:<div>&ldquo;传说召唤&rdquo;预计将于<span class="local_date" data-local_date="1650261600"></span>开放。</div><div><span style="color: rgb(226, 80, 65);">※本次召唤中可用龙辉之印交换本召唤中登场的所有★5角色和★5龙。详情可在&ldquo;传说召唤&rdquo;开放期间点击画面下方菜单的&ldquo;召唤&rdquo;查看&ldquo;龙辉之印&rdquo;。</span></div><div><br></div><div>【传说召唤期间】</div><div><span class="local_date" data-local_date="1650261600"></span> ～ <span class="local_date" data-local_date="1651039199"></span></div><div><br></div><div>&ldquo;传说召唤&rdquo;中出现的部分★5角色&middot;★5龙详情如下：</div><div><br></div><div>【★5角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2f49cba91d9e49e208e5b14d6b251b91.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>761</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>498</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>变身为人类形态的青龙墨丘利。<br>为与本性正直的人们携手共进而试图<br>了解人类，并因此对其文化产生兴趣。<br>不同的外表之下是不变的使命，<br>决不饶恕任何威胁和平之徒。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/80922336d78c6a339d07de68c524e4242.png"></span>
+				<span>怒涛狂澜</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>对前方的敌人造成伤害，<br>使其进入“冻伤”状态。<br>此技能命中时，自身龙化槽上升。<br>获得攻击力提升的士气时性能发生变化。</div><div class="skill-detail">威力：540 × 3 Hit<br>所需SP：2,800<br>特殊效果<br>·冻伤<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41<br>龙化槽回复量：40<br><br>（变化后）<br>威力：600 × 4 Hit<br>所需SP：2,800<br>所需共享SP：9,940<br>特殊效果<br>·冻伤<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41<br>龙化槽回复量：50</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/965d37e14de2ff3025ebd071ceb568dd2.png"></span>
+				<span>破灭之水</span>
+			</dt>
+			<dd><div>对前方的敌人造成伤害，<br>自身获得攻击力提升的战意。<br>龙化时性能发生变化。</div><div class="skill-detail">威力：322 × 6 Hit<br>所需SP：8,000<br>获得战意<br>·攻击力提升（士气上限Lv 2）<br><br>（变化后）<br>威力：322 × 9 Hit<br>所需SP：8,000<br>获得战意<br>·攻击力提升（士气上限Lv 2）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>暴击率＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队暴击率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span>
+				<span>【水】士气：攻势士气·烧伤抗性＋100%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为水<br>且获得攻击力提升的士气时，<br>进入“烧伤”状态的概率下降100%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/67e1d7b7a658af6624ecd3c0af03e0d52.png"></span><span>青龙现身Ⅱ</span></dt><dd><div>进入“湿身”状态的概率下降100%。<br>龙化形态一律变为墨丘利。<br>龙化中的伤害倍率提升14%。<br>1次任务中龙化2次或以上将变为真墨丘利。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏迷抗性＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>水泡护盾Ⅱ</span></dt><dd><div>获得攻击力提升的士气时，<br>自身获得【守护水泡】。<br>此效果在【守护水泡】解除后10秒内不会再次发动。<br>【守护水泡】效果如下：<br>·使HP最大值30%以下的伤害无效的特殊护盾效果。<br>护盾仅生效1次，且可与普通护盾叠加。<br>·持续回复HP<br>【守护水泡】不可叠加，<br>并在受到攻击或失去攻击力提升的士气后解除。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3a121e0f896611b6a6341dc4d6532a6d.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>517</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,502</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>变身为人类形态的辉龙朱庇特。<br>在无聊的日常中追寻刺激的结果，他决定<br>更近距离地观察人类的生活。尽管改变了<br>外形，其性格却依旧。喜欢用言语捉弄人类，<br>并为能看到对方慌张失措的样子感到愉悦。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>雷霆打击</span>
+			</dt>
+			<dd><div>对前方的敌人造成伤害，<br>使其进入“闪热”状态。<br>自身获得攻击力提升的战意。<br>攻击命中的敌人拥有【雷电蓄集】时，<br>可根据【雷电蓄集】等级造成追加伤害，<br>【雷电蓄集】为最高等级时则解除【雷电蓄集】。</div><div class="skill-detail">威力：1,200 × 1 Hit<br>（雷电蓄集Lv1）<br>威力：300 × 1 Hit<br>（雷电蓄集Lv2）<br>威力：300 × 2 Hit<br>（雷电蓄集Lv3）<br>威力：300 × 3 Hit<br>（雷电蓄集Lv4）<br>威力：300 × 4 Hit<br>所需SP：2,640<br>特殊效果<br>·闪热<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41.6<br>获得战意<br>·攻击力提升（士气上限Lv 1）</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0b6e96a9297308fa346ed1059be779062.png"></span>
+				<span>雷光一闪</span>
+			</dt>
+			<dd><div>摆出架势一定时间后，<br>使目标获得【雷电蓄集】。<br>摆出架势期间受到可回避的攻击时<br>使目标和目标周围的敌人获得【雷电蓄集Lv4】。</div><div class="skill-detail">所需SP：10,560<br>特殊效果<br>·雷电蓄集Lv1<br>　效果时间：60 秒<br>·雷电蓄集Lv4<br>　效果时间：15 秒</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻击力＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队攻击力提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span>
+				<span>【光】士气：攻势士气·诅咒抗性＋100%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为光<br>且获得攻击力提升的士气时，<br>进入“诅咒”状态的概率下降100%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a59180d889cf164d6560fdcbdc5d43a52.png"></span><span>辉龙现身Ⅱ</span></dt><dd><div>·进入“麻痹”状态的概率下降100%。<br>·龙化形态一律变为朱庇特，<br>1次任务中龙化2次或以上将变为真朱庇特。<br>·回避敌人攻击时<br>使攻击的敌人获得【雷电蓄集】，<br>自身获得攻击力提升的战意（士气上限Lv1）。<br>此效果发动后10秒内不会再次发动。<br>【雷电蓄集】最高可提升至Lv4，<br>解除时可对拥有【雷电蓄集】的目标<br>和目标周围的敌人造成伤害。<br>【雷电蓄集】等级越高，攻击范围和威力越大。<br>最高等级的【雷电蓄集】解除时<br>还可使敌人进入“麻痹”和“昏迷”状态。<br>Lv1：持续时间60秒<br>Lv2：持续时间45秒<br>Lv3：持续时间30秒<br>Lv4：持续时间15秒</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>中毒抗性＋100%</span></dt><dd><div>进入“中毒”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cb9a79af6cfdc75b0e5d4d610cfbe8c32.png"></span><span>浴雷而生Ⅱ</span></dt><dd><div>位于【雷电蓄集】解除的攻击范围内时，<br>回复自身HP，自身龙化槽提升20%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>【★5龙介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2b19455a6dd29cfef6859df2b8b3f99a.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>活在1000年前的碧龙。<br>第一次封魔战争时他介入人龙之间，<br>摸索出延续至今的和平之路。<br>他将灵魂传予后代，走完了一生。<br>继承了其高洁之魂的龙如今存在于世上某处。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>终焉风暴</span>
+			</dt>
+			<dd><div>对周围的敌人造成风属性伤害，<br>使其任务中风属性抗性降低10%。<br>此效果不可叠加。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>【风】HP&攻击力＋35%</span></dt><dd><div>装备角色属性为风时，<br>HP和攻击力提升35%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【风】疾风怒涛·技能＋70%</span></dt><dd><div>装备角色属性为风时，<br>连击达到15次以上<br>攻击技能造成的伤害提升70%。</div></dd></dl></div></div></div><div>※Lv100、上限解锁第4阶段、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 出现概率详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1650175200; update_time1647518450

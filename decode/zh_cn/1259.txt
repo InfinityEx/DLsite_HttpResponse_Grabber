@@ -1,0 +1,380 @@
+article_id:1259
+category_name:公告
+title_name:魔法圆环“第6层”解锁角色追加！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1588053600"></span>起，部分角色追加魔法圆环&ldquo;第6层&rdquo;。</div><div><br></div><div>本次追加的对象角色及其数值如下：</div><div><br></div><div>■对象角色</div><div>★5 加斯特：风/枪</div><div>★4 克雷伊曼：暗/魔杖</div><div>★3 罗德里戈：暗/剑</div><div>★3 索菲：风/法杖</div><div><br></div><div><br></div><div>■数值介绍</div><div>&middot;★5角色</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/e5883e05caa41a7dbc9e3eec5b789c4e2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">加斯特</div><div class="cv">CV:花江夏树</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>947</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>582</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>3,209</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>冽风之枪</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成风属性伤害，<br>使其进入“中毒”状态，<br>并使其攻击力下降30%。<br>对进入“中毒”状态的敌人造成的伤害提升。<br>此攻击力下降效果不可叠加。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>灵魂熏香</span>
+			</dt>
+			<dd>
+				<div>
+					15秒内全队技能槽上升率提升30%。<br>全队随机获得【15秒内攻击力提升25%】<br>【15秒内防御力提升25%】【任务中HP最大值提升20%】<br>其中一个增益效果。<br>也有几率同时获得上述所有增益并解除异常状态。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队HP提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【风】中毒：中毒触发·攻＋13%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为风<br>且使敌人进入中毒状态时获得<br>【15秒内攻击力提升13%的增益】。<br>此效果发动后10秒内不会再次发动。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>背水一战·治愈Ⅴ</span></dt><dd><div>HP在30%以下时，<br>发动【20秒内持续回复HP的增益】。<br>此效果每回任务最多发动3次。<br>获得增益的效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dfbbb18cd6a812083fd505b275d3a42a2.png"></span><span>冰冻抗性·改＋100%</span></dt><dd><div>进入“冰冻”状态的概率下降100%。<br>受到可能造成冰冻的攻击时，<br>自身获得【10秒内攻击力提升15%的增益】<br>获得增益的效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP70% 攻＋15%</span></dt><dd><div>HP在70%以上时攻击力提升15%。</div></dd></dl></div></div></div><div>&middot;★4角色</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/a9ec970c32e6205401786536a0cb32112.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">克雷伊曼</div><div class="cv">CV:石冢运升</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>913</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>568</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>3,181</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/eedeb82f382c79ce1e8e580efaa403f92.png"></span>
+				<span>暗黑锁链</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成暗属性伤害，<br>使其进入“中毒”状态。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>禁忌领域</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成暗属性伤害，使其进入“睡眠”状态。<br>对进入“中毒”状态的敌人造成的伤害提升。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能伤害＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能伤害提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span>
+				<span>【暗】背水：危机时·光抗＋9%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗<br>且HP在40%以下时获得<br>【光属性抗性提升9%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/41ba9eec2c3107ead5743161546840932.png"></span><span>狂乱之势</span></dt><dd><div>使用技能“禁忌领域”时，<br>自身发动【狂乱之势】增益，<br>使下次爆发攻击变为<br>赋予自身【任务中技能随时间<br>自动充能，但HP持续减少】增益的效果。<br>【狂乱之势】增益不会重复，<br>并在使用爆发攻击后解除。<br>【狂乱之势】每回任务最多发动5次。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/accaa8252fc4f8f52a5bf0964aac9cf32.png"></span><span>黑暗抗性·改＋100%</span></dt><dd><div>进入“黑暗”状态的概率下降100%。<br>受到可能造成黑暗的攻击时，<br>自身获得【10秒内攻击力提升15%的增益】。<br>此效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能伤害＋35%</span></dt><dd><div>攻击技能造成的伤害提升35%。</div></dd></dl></div></div></div><div>&middot;★3角色</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/c66d9abcb74ced9320368761a55b1eb42.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/8882a1e2cd557667e16b4245e73d8a6f2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">罗德里戈</div><div class="cv">CV:内田雄马</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>856</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>576</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>3,072</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cec8794d33276918ce38bfaa577312842.png"></span>
+				<span>碎裂斩</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成暗属性伤害，<br>使其进入“中毒”状态。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/eb4c4e9c82440af294fc67b181f6cfbb2.png"></span>
+				<span>暗影之爪</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成暗属性伤害，<br>使其进入“中毒”状态。<br>回复造成伤害5%的自身HP。<br>此回复效果不超过自身HP最大值的10%。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龙化增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化槽上升率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【暗】无伤：HP60% 攻＋3%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗<br>且HP不低于60%时获得<br>【攻击力提升3%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP70% 攻＋15%</span></dt><dd><div>HP在70%以上时攻击力提升15%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/760d630739a2cdfb77dad15b5985557d2.png"></span><span>麻痹抗性·改＋50%</span></dt><dd><div>进入“麻痹”状态的概率下降50%。<br>受到可能造成麻痹的攻击时，<br>自身获得【10秒内攻击力提升15%的增益】<br>获得增益的效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痹抗性＋50%</span></dt><dd><div>进入“麻痹”状态的概率下降50%。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/011f03b822c817cf9d7ffd414425be032.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/8882a1e2cd557667e16b4245e73d8a6f2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">索菲</div><div class="cv">CV:小清水亚美</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/a6bf6cc478bdfec859a5780e4a4ddade2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>918</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>533</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>3,071</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>绿风治愈</span>
+			</dt>
+			<dd>
+				<div>
+					回复所有同伴的HP。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>狂风之怒</span>
+			</dt>
+			<dd>
+				<div>
+					对周围的敌人造成风属性伤害，<br>使其进入“中毒”状态。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回复技能效果＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队回复技能效果提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>【风】中毒：中毒触发·会心＋9%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为风<br>且使敌人进入中毒状态时获得<br>【15秒内暴击率提升9%的增益】。<br>此效果发动后10秒内不会再次发动。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span><span>回复技能效果＋15%</span></dt><dd><div>回复技能效果提升15%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dfbbb18cd6a812083fd505b275d3a42a2.png"></span><span>冰冻抗性·改＋50%</span></dt><dd><div>进入“冰冻”状态的概率下降50%。<br>受到可能造成冰冻的攻击时，<br>自身获得【10秒内攻击力提升15%的增益】<br>获得增益的效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>冰冻抗性＋50%</span></dt><dd><div>进入“冰冻”状态的概率下降50%。</div></dd></dl></div></div></div><div><br></div><div><br></div><div>■注意事项</div><div>1. 本公告中记载的角色数值为Lv100、魔法圆环解锁至70时的数值。</div><div>2. 数值不含因能力而变动的部分。</div><div>3. 在本公告前发布的公告或视频中记载的上述角色数值均为Lv80、魔法圆环解锁至50时的数值。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1587967200; update_time1587612437

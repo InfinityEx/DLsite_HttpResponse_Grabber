@@ -1,0 +1,170 @@
+article_id:1403
+category_name:公告
+title_name:“龙传说召唤”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1592805600"></span>起，&ldquo;龙传说召唤&rdquo;开放！</div><div><br></div><div>特选对象★5和★4龙的出现概率提升。</div><div><span style="color: rgb(226, 80, 65);">※本召唤不包含同时开放的传说召唤&ldquo;奇幻&middot;万圣节2&rdquo;中登场的期间限定角色和龙。</span></div><div><br></div><div>【龙传说召唤的出现概率】</div><div>★5特选 合计：2.40%（角色：0% 龙：2.40%）</div><div>★5通常 合计：1.60%（角色：0.75% 龙：0.85%）</div><div>★4特选 合计：7.00%（角色：0% 龙：7.00%）</div><div>★4通常 合计：9.00%（角色：5.05% 龙：3.95%）</div><div>★3通常 合计：80.00%（角色：48.00% 龙：32.00%）</div><div><br></div><div>【龙传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1592805600"></span> ～ <span class="local_date" data-local_date="1593410340"></span></div><div><br></div><div>特选对象龙详情如下：</div><div><br></div><div>【特选龙介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8c5bd8a7a02c0141937cd8722bf3e408.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>曾被“结社”囚禁的龙。<br>相传其背负万人的罪孽，<br>并通过奉献自我对其进行净化。<br>但因“结社”的实验丧失了记忆，<br>如今与阿德尔潘结伴同行，为其提供帮助。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>不受祝福的牵绊之锁</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人造成暗属性伤害。<br>15秒内提升全队防御力30%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【暗】攻击力＋40%</span></dt><dd><div>装备角色属性为暗时，<br>角色的攻击力提升40%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/97a6a9c25dfb5181cf44056f25fad1b82.png"></span><span>【暗】危机时·攻防提升Ⅱ</span></dt><dd><div>装备角色属性为暗且HP在30%以下时，<br>攻击力提升40%，防御力提升100%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3361c4d90b0dabb63f77f802aa358bb2.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>海滨歌姬龙终于站上了憧憬已久的舞台。<br>那相传甚至能让船只遇难的美妙歌声<br>令观众们如痴如醉。<br>她身着由人类手工缝制而成的演出服，<br>正可谓是人与龙的信赖中诞生的龙约歌姬。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/77c2ac9b0a7142033bc6402d88c4b32d2.png"></span>
+				<span>欢乐齐奏</span>
+			</dt>
+			<dd>
+				<div>
+					20秒内全队攻击力提升20%，防御力提升20%，<br>提升全队3阶段【斗志】。<br>此技能可通过龙化时进行的攻击再次充能，<br>1次龙化最多可使用2次。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻击力＋40%</span></dt><dd><div>装备角色属性为光时，<br>角色的攻击力提升40%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>欢乐时光☆</span></dt><dd><div>装备角色属性为光时，<br>全队龙化时间延长3秒。<br>龙化时间最多延长5秒。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1cb95dc5a5061d224b64ca7d2665ff34.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,005</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>来自日出之国、绯樱环绕的龙。<br>会为其看好之人带来花开般的荣华。<br>但其力量过于强大，受其恩惠者<br>皆如昙花一现般迅速凋零。因此相传<br>只有能承受那股力量的强者才可得其相助。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>少女神乐·花衣之舞</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成火属性伤害，使自身获得<br>【下一次技能伤害提升40%的增益】。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻击力＋20%</span></dt><dd><div>装备角色属性为火时，<br>角色的攻击力提升20%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【火】技能伤害＋90%</span></dt><dd><div>装备角色属性为火时，<br>攻击技能造成的伤害提升90%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>其他特选对象龙如下：</div><div>★4龙：伊夫利特、林德巴鲁姆、札格纳特</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1592805600; update_time1592377595

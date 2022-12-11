@@ -1,0 +1,198 @@
+article_id:2126
+category_name:公告
+title_name:梅露莎（万圣节Ver.）再次登场！传说召唤“奇幻·万圣节”即将再次开放！
+image_path:
+
+message:<div>传说召唤&ldquo;奇幻&middot;万圣节&rdquo;预计将于<span class="local_date" data-local_date="1618812000"></span>再次开放。</div><div><br></div><div>期间限定的角色&middot;龙将再次登场。</div><div>另外，特选对象角色&middot;龙的出现概率将提升。</div><div><br></div><div>【再次登场的期间限定特选对象角色&middot;龙】</div><div>■角色</div><div>★5 梅露莎（万圣节Ver.）：风/枪</div><div>★5 阿加莎（万圣节Ver.）：水/刀</div><div>★5 穆穆（万圣节Ver.）：火/斧</div><div>★5 埃尔菲莉丝（万圣节Ver.）：光/枪</div><div>★4 卢恩（万圣节Ver.）：火/法杖</div><div>★4 欧蒂塔（万圣节Ver.）：水/剑</div><div>★4 伊露缇米娅（万圣节Ver.）：光/法杖</div><div>★3 爱德华（万圣节Ver.）：光/刀</div><div><br></div><div>■龙</div><div>★5 玛利蒂姆斯（万圣节Ver.）：水</div><div>★4 希露姬（万圣节Ver.）：光</div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1618812000"></span> ～ <span class="local_date" data-local_date="1619589599"></span></div><div><br></div><div>部分再次登场的期间限定特选对象角色详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1966f58af89345baf4a89eae74037fba.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>790</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>485</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>变装成僵尸的森隐族少女。<br>平时温柔善良，但万圣节时<br>卖力扮演着行走的恐怖尸体。<br>然而终究还是难掩对派对的兴奋之情，<br>变成了活泼雀跃的僵尸。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/11558585106c5018e7f5f984e61288292.png"></span>
+				<span>诡异复苏</span>
+			</dt>
+			<dd><div>15秒内全队攻击力提升25%。</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b6dadd2717890e18594f663a9069c9bf2.png"></span>
+				<span>剧毒噬咬</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>对前方的敌人造成风属性伤害，<br>使其进入“中毒”状态，<br>30秒内使其中毒抗性下降20%。<br>此效果不可叠加。<br>攻击时可控制方向。</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队HP提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【风】无伤：HP60% 攻＋6%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为风<br>且HP不低于60%时获得<br>【攻击力提升6%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3c77eb4ce89d7a87424b9733969ae7282.png"></span><span>重生HP提升Ⅱ</span></dt><dd><div>重生时以80%HP的状态重生。<br>此效果每回任务最多发动1次。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>冰冻抗性＋100%</span></dt><dd><div>进入“冰冻”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>中毒触发·PT攻＋10%</span></dt><dd><div>使敌人进入中毒状态时，全队获得<br>【10秒内攻击力提升10%的增益】。<br>此效果发动后5秒内不会再次发动。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/0ce78e97cc74a660d266df1db7b4fdcf.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>743</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>扮成吸血鬼的“全知教团”祭司。<br>在万圣节时的街上游玩的身影<br>如孩童般无邪，但其不经意间露出的<br>妖艳微笑仿暗夜之月般魅惑人心。<br>不知其内心是虚无，亦或是……</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d436213ee1d25605303354b04cb18e92.png"></span>
+				<span>无名掠夺者</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>对直线上的敌人造成水属性伤害，<br>10秒内使其防御力下降3%。</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/10fc81680bc1c3cbf52e7271e7cfdf5f2.png"></span>
+				<span>疯狂之棺</span>
+			</dt>
+			<dd><div>对目标和目标周围的敌人<br>造成水属性伤害，使其进入“裂伤”状态。</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻击力＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队攻击力提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>【水】坚守：HP80% 火抗＋6%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为水<br>且HP不低于80%时火属性抗性提升6%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e915bc581ed54d29f06ebfc9f8eed8252.png"></span><span>防御力下降触发·减益成功率Ⅱ</span></dt><dd><div>使敌人进入“防御力下降”状态时<br>自身获得【5秒内减益成功率提升50%的增益】。<br>此效果发动后5秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏迷抗性＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>裂伤触发·HP回复Ⅱ</span></dt><dd><div>使敌人进入“裂伤”状态时回复自身HP。<br>此效果发动后5秒内不会再次发动。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 特选对象角色在&ldquo;阿尔贝里亚大逃杀&rdquo;中解锁可变更外观的&ldquo;角色皮肤&rdquo;所需道具数量将有所减少。</div><div>※部分角色无法解锁角色皮肤。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1618725600; update_time1618302130

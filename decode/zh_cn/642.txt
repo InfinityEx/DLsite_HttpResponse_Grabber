@@ -1,0 +1,8 @@
+article_id:642
+category_name:公告
+title_name:关于部分龙的能力调整【追记】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1564470900"></span>追记】</strong></span><br>本公告中的数据更新时间记载有误。<br>正确记载应为&ldquo;我们将在<span class="local_date" data-local_date="1564552800"></span>实施的数据更新中对能力进行调整&rdquo;。<br><br>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><hr><div><span class="local_date" data-local_date="1564462800"></span>左右进行的数据更新中，我们对部分龙的能力进行了调整。</div><div>详情如下：</div><div><br></div><div><strong><u>■对象龙及调整内容</u></strong></div><div><strong>&middot;木花开耶</strong></div><div>【调整前】</div><div>未解锁时：【火】攻击力＋10%、【火】技能伤害＋50%</div><div>最大上限解锁时：【火】攻击力＋20%、【火】技能伤害＋70%</div><div>【调整后】</div><div>未解锁时：【火】攻击力＋10%、【火】技能伤害＋70%</div><div>最大上限解锁时：【火】攻击力＋20%、【火】技能伤害＋90%</div><div><br></div><div><strong>&middot;忍</strong></div><div>【调整前】</div><div>未解锁时：【暗】攻击力＋10%、【暗】技能伤害＋50%</div><div>最大上限解锁时：【暗】攻击力＋20%、【暗】技能伤害＋70%</div><div>【调整后】</div><div>未解锁时：【暗】攻击力＋10%、【暗】技能伤害＋70%</div><div>最大上限解锁时：【暗】攻击力＋20%、【暗】技能伤害＋90%</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1564462800; update_time1564477855

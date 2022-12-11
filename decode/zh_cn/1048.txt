@@ -1,0 +1,8 @@
+article_id:1048
+category_name:公告
+title_name:关于重生后部分角色出现的技能槽异常现象【追记】
+image_path:
+
+message:<div>目前已确认版本1.16.1起新功能&ldquo;重生&rdquo;出现了以下异常现象。</div><div><br></div><div>■重生后，以下技能的技能槽无法随时间自动充能。</div><div>&middot;阿尔贝尔：&ldquo;雷霆脉冲&rdquo;</div><div>&middot;德尔菲：&ldquo;九天&middot;零落之牢&rdquo;、&ldquo;六天&middot;腐蚀之牢&rdquo;</div><div>&middot;主人公（Fes限定Ver.）：&ldquo;荣光之上&rdquo;</div><div>※重生前可正常随时间自动充能。</div><div><br></div><div>■重生后，&ldquo;埃尔菲莉丝（Fes限定Ver.）&rdquo;即使未处于&ldquo;圣天启示&rdquo;状态且&ldquo;圣天神使&rdquo;的技能槽未满100%，技能槽也不随时间自动减少。</div><div>※重生前，未处于&ldquo;圣天启示&rdquo;状态且&ldquo;圣天神使&rdquo;的技能槽未满100%时，技能槽可正常随时间自动减少。</div><div>※处于&ldquo;圣天启示&rdquo;状态时，&ldquo;圣天神使&rdquo;可正常随时间自动充能。</div><div><br></div><div>■重生后，&ldquo;维尔莎拉（夏日Ver.）&rdquo;技能&ldquo;火热一刻&rdquo;的技能槽在使用技能&ldquo;常夏之花&rdquo;前无法随时间自动充能。</div><div>※重生前可正常随时间自动充能。</div><div><br></div><div>我们正在对上述异常现象进行修正。</div><div>最新进展将第一时间更新在本公告中。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1581051600"></span>追记】</strong></span></div><div>本异常现象已于版本1.16.2的更新中得到了修正。</div><div>对于给各位玩家造成的困扰和不便，我们再次深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1580206500; update_time1581054785

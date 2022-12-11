@@ -1,0 +1,8 @@
+article_id:235
+category_name:公告
+title_name:“新手育成支援活动”开始！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1549519200"></span>起、&ldquo;新手育成支援活动！&rdquo;开始。</div><div><br></div><div>完成期间限定的&ldquo;新手育成支援活动！&rdquo;日常目标，强化自己的队伍吧！</div><div><br></div><div>完成所有&ldquo;新手育成支援活动！&rdquo;日常目标，每天可获得100个龙辉晶，活动期间内总计可获得1500个龙辉晶！</div><div>另外，活动期间内通常的日常目标可获得的报酬也会增加。</div><div><br></div><div>■活动期间</div><div><span class="local_date" data-local_date="1549519200"></span> ～ <span class="local_date" data-local_date="1550815199"></span></div><div><br></div><div>■新手育成支援目标内容</div><div>1. 完成龙之试炼吧</div><div>报酬：熟透的龙之果实 3个</div><div><br></div><div>2. 完成2次遗迹试炼吧</div><div>报酬：每日更新的火/水/风/光/暗的1种宝珠 70个</div><div><br></div><div>3. 完成10次任务吧</div><div>报酬：最高级蜂蜜 2个</div><div><br></div><div>4. 以多人模式完成3次任务吧</div><div>报酬：灵鸟之圣灰 1个</div><div><br></div><div>5. 完成所有新手育成支援目标吧</div><div>报酬：龙辉晶 100个</div><div><br></div><div>■注意事項</div><div>1. 期间限定的日常目标可点击主页&ldquo;目标&rdquo;中的&ldquo;每日&rdquo;查看。</div><div>2. 通常日常目标的&ldquo;完成所有日常目标吧&rdquo;不包含期间限定的日常目标。</div><div>3. 活动期间及内容可能会在无预先通知的情况下变更。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1549519200; update_time1549517803

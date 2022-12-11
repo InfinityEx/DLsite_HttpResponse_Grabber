@@ -1,0 +1,44 @@
+article_id:1243
+category_name:公告
+title_name:“龙辉护符交换所”追加期间限定龙辉护符！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1587362400"></span>起，&ldquo;龙辉护符交换所&rdquo;的列表中已追加期间限定龙辉护符。</div><div><br></div><div>可点击&ldquo;龙辉护符交换所&rdquo;中的&ldquo;特选&rdquo;及各稀有度标签页面交换追加的期间限定龙辉护符。</div><div><br></div><div>【新龙辉护符介绍】</div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/1a133cdd6dcde17904fe95da2e1404d22.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">英雄降临</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>狮子奋进·攻＋6%&nbsp;(Max6%)</span></dt><dd><div>每打倒5个敌人<br>即发动【攻击力提升6%的增益】。<br>此效果每回任务最多发动5次。&nbsp;(Max6%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>防御链·治愈Ⅲ&nbsp;(MaxⅢ)</span></dt><dd><div>获得防御力提升的增益时，<br>发动【20秒内持续回复HP的增益】。&nbsp;(MaxⅢ)</div></dd><dt class="event 21402"><span><img src="https://dragalialost.akamaized.net/attached/information/images/50414c0f4cf49a0e38fdb008b7fe30de2.png"></span><span>英雄P＋60%&nbsp;(Max100%)</span></dt><dd class="event 21402"><div>完成任务时获得的【英雄P】提升60%。&nbsp;(Max100%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/3252507f7a54a11a8a037cf054e623e42.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">片刻的宁静</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>开场伤害护盾Ⅲ&nbsp;(MaxⅢ)</span></dt><dd><div>任务开始时获得<br>【使HP最大值30%以下的伤害无效的护盾】。<br>护盾仅生效1次，且不可与同种护盾叠加。&nbsp;(MaxⅢ)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span><span>HP70% 防＋8%&nbsp;(Max20%)</span></dt><dd><div>HP在70%以上时防御力提升8%。&nbsp;(Max20%)</div></dd><dt class="event 21402"><span><img src="https://dragalialost.akamaized.net/attached/information/images/50414c0f4cf49a0e38fdb008b7fe30de2.png"></span><span>英雄P＋40%&nbsp;(Max100%)</span></dt><dd class="event 21402"><div>完成任务时获得的【英雄P】提升40%。&nbsp;(Max100%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/5bcf09eae582405f5c7ec6dbca2f1aaf2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/8882a1e2cd557667e16b4245e73d8a6f2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">特务机关的信鸮</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>龙化时间＋10%&nbsp;(Max20%)</span></dt><dd><div>龙化时间延长10%。&nbsp;(Max20%)</div></dd><dt class="event 21402"><span><img src="https://dragalialost.akamaized.net/attached/information/images/50414c0f4cf49a0e38fdb008b7fe30de2.png"></span><span>英雄P＋20%&nbsp;(Max100%)</span></dt><dd class="event 21402"><div>完成任务时获得的【英雄P】提升20%。&nbsp;(Max100%)</div></dd></dl></div></div></div><div><br></div><div>※最大上限解锁时的数值，并非获得时的数值。</div><div><br></div><div>【特选期间】</div><div><span class="local_date" data-local_date="1587362400"></span> ～ <span class="local_date" data-local_date="1589263199"></span></div><div><br></div><div><span style="color: rgb(226, 80, 65);"><strong>※特选期间结束后，将无法交换本次追加的期间限定龙辉护符。</strong></span></div><div><br></div><div>【注意事项】</div><div>1. 本次特选的龙辉护符今后可能再次登场。</div><div>2. 本公告以外的信息可进入商店中的&ldquo;龙辉护符交换所&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1587362400; update_time1586999537

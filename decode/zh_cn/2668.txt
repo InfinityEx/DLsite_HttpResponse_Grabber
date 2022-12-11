@@ -1,0 +1,251 @@
+article_id:2668
+category_name:公告
+title_name:“Dragalia Fes Extra”即将开放！
+image_path:
+
+message:<div>&ldquo;Dragalia Fes Extra&rdquo;预计将于<span class="local_date" data-local_date="1639548000"></span>开放。</div><div><br></div><div>【关于Dragalia Fes】※含&ldquo;Dragalia Fes Extra&rdquo;</div><div>★5角色、龙的初始出现概率将从4%提升至6%！</div><div>※召唤出★5或★5特选后，出现概率将变回初始概率6%。</div><div><span style="color: rgb(226, 80, 65);">※本次新追加的★5角色&ldquo;彩羽&amp;乙羽&rdquo;(火)在今后的传说召唤中也将登场。</span></div><div><span style="color: rgb(226, 80, 65);">※以往&ldquo;Dragalia Fes&rdquo;中追加的角色&middot;龙也可能在本召唤中登场。登场角色&middot;龙的详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</span></div><div><br></div><div>【新追加的特选对象角色】</div><div>■角色</div><div>★5 彩羽&amp;乙羽：火/法杖</div><div><br></div><div>【以往Dragalia Fes中登场过的特选对象角色&middot;龙】</div><div>■角色</div><div>★5 莱昂尼多（Fes限定Ver.）：火/铳（机关铳模式）</div><div><br></div><div>■龙</div><div>★5 无畏阿格尼（Fes限定Ver.）：火</div><div><br></div><div>以下期间限定角色&middot;龙也将在本次Dragalia Fes中再次登场。</div><div><span style="color: rgb(226, 80, 65);">※以下角色&middot;龙非特选对象。</span></div><div><br></div><div>【再次登场的期间限定角色&middot;龙】</div><div>■角色</div><div>★5 莉莉（星龙祭Ver.）：水/法杖</div><div>★5 维克托（星龙祭Ver.）：暗/斧</div><div>★5 马萝拉（星龙祭Ver.）：光/斧</div><div>★5 库菈乌（星龙祭Ver.）：水/短剑</div><div>★4 奈法利耶（星龙祭Ver.）：水/弓</div><div>★4 阿莱克西斯（星龙祭Ver.）：水/魔杖</div><div>★4 扎因弗拉德（星龙祭Ver.）：风/魔杖</div><div><br></div><div>■龙</div><div>★5 贞德（星龙祭Ver.）：水</div><div><br></div><div>【Dragalia Fes Extra活动期间】</div><div><span class="local_date" data-local_date="1639548000"></span> ～ <span class="local_date" data-local_date="1639979999"></span></div><div><br></div><div>特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/d0a22c32a47efb5837a5e4e689319006.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>765</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>492</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,497</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>曾身为“阿基德”成员的双胞胎姐妹。<br>黑发的是彩羽，白发的是乙羽。<br>她们性格天真而残忍，<br>并坚信自己的自由才是最正确的。<br>在“阿基德”毁灭后随心所欲地行动着。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d07d9921bf8130db4dfafb43dde61cc52.png"></span>
+				<span>双蝶幻舞</span>
+			</dt>
+			<dd><div>【通常状态时】<br>·对目标和目标周围的敌人造成伤害。<br>此技能命中时，自身龙化槽上升。<br>·解除全队的异常状态。<br>·在“彩羽”和“乙羽”间切换操作对象。<br>·使用技能“悄然蝶至/蝶舞之笼”后立刻使用此技能时，<br>使“悄然蝶至/蝶舞之笼”准备就绪。<br><br>【龙化状态时】<br>此技能变为“双流交融”，效果如下：<br>·对目标和目标周围的敌人造成伤害，<br>使其进入“昏迷”、“烧伤”和“劫火”状态<br>并根据造成伤害回复HP。<br>攻击时吸引敌人。<br>·全队获得攻击力提升的士气。<br>全队获得【提升最大HP的增益】和【紫之羽衣】。</div><div class="skill-detail">威力：81 × 14 Hit<br>所需SP：8,364<br>龙化槽回复量：40<br>特殊效果<br>·全异常状态回复<br><br>（龙化状态时）<br>威力：396 × 7 Hit<br>特殊效果<br>·HP提升15%<br>·紫之羽衣<br>　不可叠加<br>　HP持续回复<br>　效果间隔：2.9 秒<br>　效果量：HP最大值的2%<br>　昏迷特效提升10%<br>　烧伤特效提升5%<br>　劫火特效提升5%<br>·昏迷<br>　效果时间：7 秒<br>·烧伤<br>　效果时间：12 秒<br>　效果间隔：3.9 秒<br>　威力：97<br>·劫火<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41<br>获得士气<br>·攻击力提升（士气上限Lv 1）<br>HP吸取<br>·回复量：造成伤害的10%<br>　回复上限：各角色HP最大值的10%<br>　回复对象：全队</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3171d52c1cdee5d533d25df908ef96252.png"></span>
+				<span>悄然蝶至/蝶舞之笼</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>此技能效果随操作对象不同而变化。<br>【操作彩羽时】<br>此技能变为“悄然蝶至”，效果如下：<br>·对目标和目标周围的敌人造成伤害，<br>使其进入“昏迷”状态。<br>·回复全队HP<br>并使全队获得【青之羽衣】。<br><br>【操作乙羽时】<br>此技能变为“蝶舞之笼”，效果如下：<br>·对多个攻击对象和对象周围的敌人造成伤害，<br>使其进入“烧伤”和“劫火”状态。<br>此攻击不会对同一对象重复发动。<br>·回复全队HP<br>并使全队获得【追击伤害】和【红之羽衣】。</div><div class="skill-detail">（操作彩羽时）<br>威力：1,395 × 1 Hit<br>回复力：60<br>所需SP：4,132<br>所需共享SP：16,395<br>特殊效果<br>·昏迷<br>　效果时间：6 秒<br>·青之羽衣<br>　效果时间：30 秒　<br>　叠加上限：3<br>　风属性抗性提升4%<br>　HP持续回复<br>　效果间隔：2.9 秒<br>　效果量：18<br><br>（操作乙羽时）<br>威力：1,048 × 1 Hit<br>回复力：60<br>所需SP：4,132<br>特殊效果<br>·红之羽衣<br>　造成所有异常状态成功率提升50%<br>　效果时间：30 秒<br>　叠加上限：3<br>·追击伤害<br>　效果时间：30 秒<br>　追击伤害：40%<br>　不可叠加<br>·烧伤<br>　效果时间：12 秒<br>　效果间隔：3.9 秒<br>　威力：72.7<br>·劫火<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：31</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>龙化中伤害提升＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化中的伤害倍率提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span>
+				<span>【火】连击：连击时增益技能持续时间＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为火<br>且连击达到10次以上时，<br>角色使用的增益技能持续时间提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c0668faa3dc59d6a25d13c11b55642532.png"></span><span>比翼蝶Ⅱ</span></dt><dd><div>①“彩羽”和“乙羽”共享所有数值。<br>任务开始时操作对象为“彩羽”。<br>“彩羽”和“乙羽”的普通攻击、爆发攻击、冲刺攻击<br>和技能2性能均有所不同。爆发攻击效果如下：<br>·彩羽：对直线上的敌人造成伤害，<br>使其20秒内【攻击力下降5%】（不可叠加）。<br>·乙羽：对周围的敌人造成伤害。<br><br>②龙化形态一律变为兽化彩羽&乙羽。<br>龙化中获得以下效果：<br>·自身龙化时间延长25%。<br>·龙化技能等级与角色“彩羽&乙羽”技能1等级相同。<br>·普通攻击可使敌人<br>30秒内【烧伤抗性下降20%】（不可叠加）<br>或30秒内【劫火抗性下降20%】（不可叠加）。<br>·可使用以下效果的龙之爆发。<br>对周围的敌人造成伤害，<br>使其进入“昏迷”和“劫火”状态。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6a94f7adaeafadf56700005abbf6d8fe2.png"></span><span>双蝶舞Ⅱ</span></dt><dd><div>①任务中每使用1次技能“双蝶幻舞”，<br>自身进入异常状态的概率降低20%。<br>此效果最多可叠加至5层。<br>②使用技能“双蝶幻舞”或“悄然蝶至/蝶舞之笼”时，<br>自身获得攻击力提升的战意（士气上限Lv1）。<br>获得战意的效果发动后8秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cb8b9d60b801a6b11eda8d8e40214f1f2.png"></span><span>止路歌&通行歌Ⅱ</span></dt><dd><div>①自身未处于异常状态时受到伤害降低10%。<br>②自身未处于异常状态时每9秒获得1层【嬉戏时光】。<br>此效果期间攻击力提升5%，<br>回复技能效果提升10%。<br>此效果最多可叠加至3层，<br>自身进入异常状态后全部解除。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div><br></div><div>■关于彩羽&amp;乙羽的共享技能<br>共享技能为操作彩羽时的技能&ldquo;悄然蝶至&rdquo;。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3ff784282748bd3cda73d4c104decd20.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,499</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>可使用模式</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/4805e47916f093eb2b9049cff29e9eb72.png"><img src="https://dragalialost.akamaized.net/attached/information/images/d45c68ecb3b1d88cba2136c949f214772.png"><img src="https://dragalialost.akamaized.net/attached/information/images/1f0f10277cfc223cafe9e19e2d15434d2.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>阿尔贝里亚王国的第一王子。<br>为了让世界摆脱龙的支配，<br>意图统一包括南格拉斯迪亚大陆<br>在内的整个世界。其身着的红莲之衣<br>代表着决心，贯彻自己的信念不动摇。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/775392a8a09a554df496b2a54960c3e62.png"></span>
+				<span>统御者魔弹</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>对前方的敌人造成伤害，使其进入“劫火”状态。</div><div class="skill-detail">威力：100 × 18 Hit<br>所需SP：3,780<br>所需共享SP：7,975<br>特殊效果<br>·劫火<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41.6<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d06b5882930f12e76cbac51669f220ff2.png"></span>
+				<span>支配世界</span>
+			</dt>
+			<dd><div>自身获得【激进魔力】。<br>对周围的敌人造成伤害，解除其1个增益效果。<br>【激进魔力】效果期间再次获得【激进魔力】<br>可提升效果等级强化效果。<br>【激进魔力】等级会在效果时间结束后降低，<br>Lv1时降级则会解除效果。<br>Lv1：40秒内受到的伤害减少10%。<br>Lv2：40秒内攻击力提升5%，受到的伤害减少10%。<br>Lv3：40秒内攻击力提升5%，受到的伤害减少15%。<br>Lv4：40秒内攻击力提升10%，受到的伤害减少20%。<br>Lv5：任务中攻击力提升10%，受到的伤害减少20%。</div><div class="skill-detail">威力：300 × 7 Hit<br>所需SP：7,560<br>特殊效果<br>·增益解除<br>·激进魔力<br>　效果时间：40 秒<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>怒气槽减少量＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队怒气槽减少量提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span>
+				<span>【火】连击：连击时龙化充能Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为火时，<br>每50次连击龙化槽提升3%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/054d33d79920a0e51bbbb11909b08bf92.png"></span><span>霸者龙之血Ⅱ</span></dt><dd><div>龙化形态一律变为玛斯。<br>自身获得【激进魔力Lv5】时，<br>龙化时间减半且龙化时消耗龙化槽降低50%。<br>此效果发动期间龙化后，<br>龙化解除时将解除【激进魔力Lv5】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea4c47784ca6465117276eb2a3d9a0d92.png"></span><span>霸者意志Ⅱ</span></dt><dd><div>进入“昏迷”、“睡眠”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/62ec54c3111dcff5d7c6fadf0c9e0ae92.png"></span><span>燃尽Ⅱ</span></dt><dd><div>对进入“劫火”状态的敌人造成的伤害提升30%。<br>对OVERDRIVE的敌人造成的伤害提升10%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b2ab4643463a8f1144917100ea9a555a.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>被称为炎帝的贪婪之龙阿格尼<br>重获新生的形态。他与追求和平世界者的内心<br>产生共鸣，进而从侵蚀身体的瘴气中解脱出来。<br>吞噬一切的欲望比之前更剧烈地燃烧，<br>将万物化为灰烬。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>烈焰侵袭</span>
+			</dt>
+			<dd><div>对前方的敌人造成伤害，<br>使其进入“劫火”状态。<br>对被破防的敌人造成的伤害下降。<br>如以敌人为目标且非技能使用中时<br>龙化时间变为0则自动发动。<br>此效果即使技能槽未满也会发动。</div><div class="skill-detail">威力：1,078 × 1 Hit<br>威力：1,470 × 1 Hit<br>特殊效果<br>·劫火<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41.6<br>对特定状态敌人造成的伤害倍率<br>·破防：75%<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻击力＋70%</span></dt><dd><div>装备角色属性为火时，<br>角色的攻击力提升70%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ba1d939f31aa624b013b900d03a48812.png"></span><span>【火】灼热沸腾Ⅱ</span></dt><dd><div>装备角色属性为火时，<br>龙化槽每上升10%自身发动<br>【45秒内对风属性和无属性敌人<br>造成的伤害倍率提升30%的增益】<br>此效果不可叠加，发动后5秒内不会再次发动。</div></dd></dl></div></div></div><div>※Lv100、上限解锁第4阶段、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 特选对象角色在&ldquo;阿尔贝里亚大逃杀&rdquo;中解锁可变更外观的&ldquo;角色皮肤&rdquo;所需道具数量将有所减少。</div><div>※部分角色无法解锁角色皮肤。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1639461600; update_time1639359716

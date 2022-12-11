@@ -1,0 +1,8 @@
+article_id:1159
+category_name:公告
+title_name:1.5Year Anniversary “纳姆Channel”预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/10e80e6430452a6293564f2f3d3b9689.png
+
+message:<div>&ldquo;纳姆Channel&rdquo;预计将于<span class="local_date" data-local_date="1585105200"></span>左右在《Dragalia Lost ～失落的龙约～》YouTube官方频道公开。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/10e80e6430452a6293564f2f3d3b9689.png"></div><div><br></div><div>&ldquo;纳姆Channel&rdquo;将为各位玩家带来1.5Year Anniversary相关消息、新功能及版本1.18.0更新内容等各种各样的情报，敬请关注！</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1584943200; update_time1584509960

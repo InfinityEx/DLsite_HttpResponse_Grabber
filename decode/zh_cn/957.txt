@@ -1,0 +1,8 @@
+article_id:957
+category_name:活动
+title_name:“猫鼠大战闹新春”活动预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/a326c5943c7af47524de05d7eb8b7361.png
+
+message:<div>团队活动&ldquo;猫鼠大战闹新春&rdquo;预计将于<span class="local_date" data-local_date="1577772000"></span>开始。</div><div>本活动可在多人模式下挑战暗属性的团队战BOSS。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a326c5943c7af47524de05d7eb8b7361.png"></div><div>今年的元旦热闹又华丽！<br>懒散的公主带着个性鲜明的一群人来了！<br>十二龙氏光秀前来送福，<br>却在途中被猫龙抢走了福。<br>为夺回福而站出来的鼠龙、天下第一可爱的男孩子、日舞高人，<br>还有&hellip;&hellip;另一位十二龙氏。<br>猫鼠大战闹新春开始啦～<br><br><br>■注意事项<br>1. 参加活动任务需通关主线剧情第2章2-1(Normal)。<br>2. 参加多人模式需通关主线剧情第2章2-1(Normal)。<br><br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1577426400; update_time1577519613

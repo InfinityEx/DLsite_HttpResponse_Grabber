@@ -1,0 +1,8 @@
+article_id:1185
+category_name:活动
+title_name:团队活动“罪人之路·龙眸轨迹”终章追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/452f5a5726c9ca21d4c4f781196d4e60.png
+
+message:<div><span class="local_date" data-local_date="1586757599"></span>结束的团队活动&ldquo;罪人之路&middot;龙眸轨迹&rdquo;已追加终章！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/452f5a5726c9ca21d4c4f781196d4e60.png"></div><div><br></div><div>玩家可在&ldquo;主页&rdquo;点击左下方的浮窗进入&ldquo;团队活动&rdquo;的&ldquo;限定任务&rdquo;阅读。<br><br>■终章解锁期间<br><span class="local_date" data-local_date="1586757600"></span> &nbsp;～ <span class="local_date" data-local_date="1587362399"></span><br>&nbsp;<br>■注意事项<br>终章仅限活动结束时已完成活动剧情第5话的玩家阅读。<br><br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1586757600; update_time1585209881

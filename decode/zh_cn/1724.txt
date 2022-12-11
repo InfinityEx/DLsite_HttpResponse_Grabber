@@ -1,0 +1,8 @@
+article_id:1724
+category_name:公告
+title_name:部分任务周常奖励调整公告
+image_path:
+
+message:<div><span class="local_date" data-local_date="1604296800"></span>起，部分任务的周常奖励中将追加&ldquo;星之砂&rdquo;。</div><div>详情如下：</div><div><br></div><div>■追加道具</div><div>&middot;星之砂 1个</div><div>※&ldquo;2倍奖励礼包&rdquo;效果期间将变为2个。</div><div><br></div><div>■对象任务</div><div>&ldquo;真龙之试炼&rdquo;</div><div>真耶梦加得的试炼 中级&middot;高级&middot;超级</div><div>真墨丘利的试炼 中级&middot;高级&middot;超级</div><div>真布伦希尔德的试炼 中级&middot;高级&middot;超级</div><div>真朱庇特的试炼 中级&middot;高级&middot;超级</div><div>真佐迪亚克的试炼 中级&middot;高级&middot;超级</div><div><br></div><div>&ldquo;阿基德叛乱战&rdquo;</div><div>卢弗&middot;托修卡特尔叛乱战 中级&middot;高级&middot;超级</div><div>谢希耶尔叛乱战 中级&middot;高级&middot;超级</div><div>彩羽&amp;乙羽叛乱战 中级&middot;高级&middot;超级</div><div>凯严叛乱战 中级&middot;高级&middot;超级</div><div>塔耳塔洛斯叛乱战 中级&middot;高级</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1603681200; update_time1603681258

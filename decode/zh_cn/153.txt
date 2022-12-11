@@ -1,0 +1,344 @@
+article_id:153
+category_name:公告
+title_name:传说召唤“万众祈愿星龙祭”开放！【更新】
+image_path:
+
+message:<div><span class="local_date" data-local_date="1545026400"></span>起，传说召唤&ldquo;万众祈愿星龙祭&rdquo;开放！</div><div><br></div><div>期间限定的角色&middot;龙&middot;龙辉护符在传说召唤中登场。</div><div>另外，当前特选对象的角色&bull;龙&bull;龙辉护符的出现概率提升。</div><div><br></div><div>【期间限定角色&middot;龙&middot;龙辉护符】</div><div>■角色</div><div>&ldquo;库菈乌（星龙祭Ver.）&rdquo;、&ldquo;奈法利耶（星龙祭Ver.）&rdquo;、&ldquo;阿莱克西斯（星龙祭Ver.）&rdquo;</div><div><br>■龙</div><div>&ldquo;贞德（星龙祭Ver.）&rdquo;</div><div><br>■龙辉护符</div><div>&ldquo;向星龙树许愿&rdquo;、&ldquo;星龙祭的王子殿下&rdquo;、&ldquo;孩子们的星龙祭&rdquo;、&ldquo;流星之夜的晚餐&rdquo;</div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1545026400"></span> ～ <span class="local_date" data-local_date="1546235999"></span></div><div><br></div><div>部分特选对象的角色&middot;龙&middot;龙辉护符详情如下：</div><div><br></div><div>【特选角色介绍】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/60b5c00e15e3361aca5a35186030b003.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>80</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>801</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>474</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>2515</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">角色详情</div>
+			<div class="param">
+				<ul>
+					<li>为给庆祝星龙祭的人们送去礼物<br>而打扮成圣星使者的库菈乌。<br>她又是忙着做饭，又是忙着布置装饰，<br>为了操办星龙祭忙前忙后。<br>宴会上伙伴们的笑容就是她最大的欣慰。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ca058650bcc4ff61cb80d7b2f64906fa2.png"></span>
+				<span>闪耀赠礼</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成水属性伤害，<br>使其进入“冰冻”状态。<br>提升自身与周围同伴1阶段【斗志】。<br>此技能命中敌人后将发动【技能升级】，<br>第1阶段攻击力提升，第2阶段追加暴击率提升。<br>【技能升级】第2阶段命中时解除。<br>【斗志】提升5阶段可转化为【超强斗志】，<br>强化攻击·回复技能。<br>【超强斗志】将在使用对象技能后解除。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/280872d7979e0e0ee0479187b94e8e2d2.png"></span>
+				<span>星夜恩赐</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成水属性伤害。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>暴击率＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队暴击率提升10%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP70% 攻＋13%</span></dt><dd><div>HP在70%以上时攻击力提升13%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏迷抗性＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>30连击斗志提升</span></dt><dd><div>每30次连击提升1阶段【斗志】。</div></dd></dl></div></div></div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ca5196799abdd6e4846d313029b2cd18.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>70</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>736</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>428</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>2234</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">角色详情</div>
+			<div class="param">
+				<ul>
+					<li>打扮成星龙祭时派发礼物的<br>圣星使者的昔日异国女王。<br>温柔善良、为民着想的她非常适合这项工作。<br>为了大家的笑容而一丝不苟地发礼物的样子，<br>正是人们理想中的圣星使者。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/561a0539d1bd151beb360108290db24e2.png"></span>
+				<span>星雪射击</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成水属性伤害。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0f9d9359a14bae165ffa90dd928147752.png"></span>
+				<span>礼物狂欢</span>
+			</dt>
+			<dd>
+				<div>
+					发动【准备礼物】，并准备2个【礼物】。<br>此效果期间使用爆发攻击即可派发【礼物】。<br>【礼物】可使周围同伴获得<br>【使HP最大值15%以下的伤害无效的护盾】<br>并【提升1阶段斗志】。<br>【斗志】提升5阶段可转化为【超强斗志】，<br>强化攻击·回复技能。<br>【超强斗志】将在使用对象技能后解除。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能增强＋11%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能槽提升率提升11%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能伤害＋25%</span></dt><dd><div>攻击技能造成的伤害提升25%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>烧伤抗性＋100%</span></dt><dd><div>进入“烧伤”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾风怒涛·冰冻Ⅰ</span></dt><dd><div>连击达到15次以上时，赋予普通攻击<br>【6秒内有10%概率使敌人进入冰冻状态的效果】。</div></dd></dl></div></div></div><div>※★5觉醒、魔法圆环全解锁时的数值，并非获得时的数值。</div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/9a0704d7d6b02321f1e676ea65be5f43.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>70</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>685</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>465</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>2260</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">角色详情</div>
+			<div class="param">
+				<ul>
+					<li>打扮成在星龙祭时发礼物的圣星使者的<br>昔日异国之王。虽然他很为<br>家臣与子民们着想，性格却傲慢无礼。<br>即使成为了圣星使者也依旧我行我素。<br>令周围的人十分头疼。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1f6d0bbf9a2503a371995eae39d200e32.png"></span>
+				<span>星冰之穹</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成水属性伤害，使其进入“冰冻”状态。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66d36f720c8a46a8288996f833a36202.png"></span>
+				<span>王之赏赐</span>
+			</dt>
+			<dd>
+				<div>
+					10秒内自身与周围同伴的攻击力提升15%，<br>并提升1阶段【斗志】。<br>【斗志】提升5阶段可转化为【超强斗志】，<br>强化攻击·回复技能。<br>【超强斗志】将在使用对象技能后解除。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能伤害＋11%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能伤害提升11%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>爆发击破·斗志Ⅱ</span></dt><dd><div>每使用爆发攻击打倒3个敌人，<br>提升2阶段【斗志】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏迷抗性＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>技能增强＋5%</span></dt><dd><div>技能槽上升率提升5%。</div></dd></dl></div></div></div><div>※★5觉醒、魔法圆环全解锁时的数值，并非获得时的数值。</div><div><br></div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>【特选龙介绍】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/0a38324525be592770d9433863b2956b.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>370</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>125</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>995</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">龙详情</div>
+			<div class="param">
+				<ul>
+					<li>为庆祝星龙祭而穿上了华丽礼服的贞德。<br>未穿惯的礼服令她略显羞涩，<br>但其实她内心非常中意。<br>即使衣着华贵，贞德依旧怀着崇高的信念，<br>默默守护着享受星龙祭的人们。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/54e02ddb18bf8eda23bb838e53029bfd2.png"></span>
+				<span>钻石风暴</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成水属性伤害，<br>使其进入“冰冻”状态。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>星龙祭的加护Ⅱ</span></dt><dd><div>装备角色属性为水时，<br>角色的攻击力提升45%，暴击率提升20%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【特选龙辉护符介绍】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/df40900e4b1f490ad4d94261bd66b0ea.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>189</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>51</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>380</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span><span>HP70% 防＋10%</span></dt><dd><div>HP在70%以上时防御力提升10%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>防御链·治愈Ⅱ</span></dt><dd><div>得到防御力提升的增益时，<br>发动【在20秒内持续回复HP的增益】。</div></dd><dt class="event 20803"><span><img src="https://dragalialost.akamaized.net/attached/information/images/8039b5cf8a9bb7837a3a4ed563da0d4c2.png"></span><span>星龙祭P＋150%</span></dt><dd class="event 20803"><div>完成任务时获得的【星龙祭P】提升150%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁时的数值，并非获得时的数值。</div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/07ba1e459af35c0a1d37bd04650e43dd.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>177</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>63</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>380</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>暴击伤害＋15%</span></dt><dd><div>暴击伤害倍率提升15%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>【水】疾风怒涛·会心＋10%</span></dt><dd><div>装备角色属性为水时，<br>连击达到15次以上暴击率提升10%。</div></dd><dt class="event 20803"><span><img src="https://dragalialost.akamaized.net/attached/information/images/8039b5cf8a9bb7837a3a4ed563da0d4c2.png"></span><span>星龙祭P＋150%</span></dt><dd class="event 20803"><div>完成任务时获得的【星龙祭P】提升150%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 本召唤活动的特选角色&bull;龙&bull;龙辉护符可能会在今后的召唤活动中再次登场（★数、出现概率可能变动）。</div><div>2. 传说召唤的出现概率可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;出现概率&rdquo;查看。</div><div>3. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;查看。</div><div>4. 召唤出已成为伙伴的角色时，将不会获得重复角色，而是获得&ldquo;觉醒水滴&rdquo;。可获得的&ldquo;觉醒水滴&rdquo;数量根据角色★数有所差异。</div><div>5. &ldquo;每日1次限定召唤&rdquo;仅限使用龙钻。&ldquo;每日1次限定召唤&rdquo;将于每日14:00重置。</div><div>6. 如连续10次未召唤出★5角色&bull;龙&bull;龙辉护符，则下次召唤时★5角色&bull;龙&bull;龙辉护符的出现概率将提升。出现概率提升详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，并查看&ldquo;详情&rdquo;中的&ldquo;关于传说召唤&rdquo;。</div><div>7. 其它注意事项可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;中的&ldquo;注意事项&rdquo;。</div><div>8. 传说召唤活动期间及内容可能会在无预先通知的情况下变更。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1545297600"></span>更新】</strong></span><br>我们已依照12/20发布的《关于&quot;奈法利耶（星龙祭Ver.）&quot;、&quot;阿莱克西斯（星龙祭Ver.）&quot;的数值错误》公告内容对本公告中的相关内容进行了修正。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1545026400; update_time1547531264

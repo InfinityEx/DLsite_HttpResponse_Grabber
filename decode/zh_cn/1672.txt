@@ -1,0 +1,8 @@
+article_id:1672
+category_name:公告
+title_name:关于无法完成主线剧情目标的异常现象
+image_path:
+
+message:<div>更新至版本2.0.0后，主线剧情中出现了可能无法完成特定目标的异常现象。</div><div>本异常现象现已修正完毕，可正常完成对象目标。</div><div><br></div><div>■异常现象发生期间无法完成的目标</div><div>&middot;第12章 1-2　</div><div>获得无属性★5初始系列武器吧</div><div><br></div><div>&middot;第12章 4-3</div><div>获得水属性★5初始系列武器吧</div><div><br></div><div>&middot;第14章 4-6</div><div>获得★5火属性的火山奇美拉武器吧</div><div><br></div><div>&middot;第14章 4-8</div><div>对★5火属性的火山奇美拉武器进行武器精炼吧</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1601964000; update_time1601964257

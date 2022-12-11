@@ -1,0 +1,8 @@
+article_id:126
+category_name:公告
+title_name:关于能力"OVERDRIVE特效"对团队战BOSS"斯伯纳克"无效的异常现象
+image_path:
+
+message:<div>目前已确认当前活动&quot;划破黑暗的光之歌声&quot;中对团队战BOSS&quot;斯伯纳克&quot;本体以外的各部位进行攻击时，出现了部分角色和龙辉护符的能力&quot;OVERDRIVE特效&quot;无效的异常现象。</div><div>※已确认本异常现象在所有难度中均会出现。</div><div><br></div><div>我们正在调查本异常现象的原因。</div><div>最新进展将第一时间更新在本公告中。</div><div>&nbsp;</div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div>&nbsp;</div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1543557600; update_time1545359628

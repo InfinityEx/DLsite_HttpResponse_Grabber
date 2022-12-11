@@ -1,0 +1,8 @@
+article_id:1976
+category_name:公告
+title_name:团队活动“PERSONA5 SCRAMBLE 失心之乱”需要战力调整公告
+image_path:
+
+message:<div>团队活动&ldquo;PERSONA5 SCRAMBLE 失心之乱&rdquo;试炼任务的需要战力预计将于<span class="local_date" data-local_date="1612591200"></span>起调整为以下推荐战力。</div><div><br></div><div>■试炼任务 单人模式</div><div>&middot;JOKER的试炼 中级</div><div>调整前：需要战力 10,000</div><div>调整后：推荐战力 10,000</div><div><br></div><div>&middot;JOKER的试炼 高级</div><div>调整前：需要战力 25,000</div><div>调整后：推荐战力 25,000</div><div><br></div><div>&middot;SOPHIE的试炼 中级</div><div>调整前：需要战力 10,000</div><div>调整后：推荐战力 10,000</div><div><br></div><div>&middot;SOPHIE的试炼 高级</div><div>调整前：需要战力 25,000</div><div>调整后：推荐战力 25,000</div><div><br></div><div>■试炼任务 多人模式</div><div>&middot;JOKER的试炼 高级</div><div>调整前：需要战力 30,000</div><div>调整后：推荐战力 25,000</div><div><br></div><div>&middot;SOPHIE的试炼 高级</div><div>调整前：需要战力 30,000</div><div>调整后：推荐战力 25,000</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1612515600; update_time1612859387

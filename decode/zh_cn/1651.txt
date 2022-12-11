@@ -1,0 +1,274 @@
+article_id:1651
+category_name:公告
+title_name:“Dragalia Fes”即将开放！
+image_path:
+
+message:<div>&ldquo;Dragalia Fes&rdquo;预计将于<span class="local_date" data-local_date="1601445600"></span>开放。</div><div><br></div><div>【关于Dragalia Fes】※含&ldquo;Dragalia Fes Extra&rdquo;</div><div>&middot;★5角色、龙的初始出现概率将从4%提升至6%！</div><div>※召唤出★5或★5特选后，出现概率将变回初始概率6%。</div><div><span style="color: rgb(226, 80, 65);">※本次新追加的★5角色&ldquo;梅奈&rdquo;(风)及★5龙&ldquo;始祖耶梦加得&rdquo;(风)在今后的传说召唤中也将登场。</span></div><div><span style="color: rgb(226, 80, 65);">※同时开放的&ldquo;白金传说召唤&rdquo;中不含本召唤新追加的角色和龙。</span></div><div><br></div><div>【Dragalia Fes活动期间】</div><div><span class="local_date" data-local_date="1601445600"></span> ～ <span class="local_date" data-local_date="1601877599"></span></div><div><br></div><div>新登场的特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/45b7d48284e508e26b039b467f90a01b.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>770</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>489</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>来自异界的另一个塞西娅。<br>她为了拯救自己所在的世界，与王子等人<br>共同行动。虽然她对于在这个世界<br>与伙伴们的关系及自己的定位尚存困惑，<br>却也不忘思考自己力所能及的事。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/89ff2ae17052136be491702e97c672842.png"></span>
+				<span>荣耀圣域</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					回复全队HP并在地面设置【回复区域】。<br>60秒内全队攻击力提升15%。<br>此攻击力提升效果不可叠加。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/73b4f043d682574987f05766f345a8962.png"></span>
+				<span>神圣之冠</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人造成光属性伤害。<br>【多重目标】技能可以多个敌人为目标发动。<br>15秒内自身爆发攻击蓄力速度提升30%。<br>此效果不可叠加。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回复技能效果＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队回复技能效果提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>【光】连击：10连击以上 会心＋13%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为光<br>且连击达到10次以上时获得<br>【暴击率提升13%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/59b79e43c808695a2c55911edd3331bb2.png"></span><span>圣魔巫女Ⅱ</span></dt><dd><div>追加巫女槽。<br>使用技能1和技能2可为巫女槽充能。<br>槽满时自身发动【暮光之月】增益。<br>使下次爆发攻击可蓄力至5阶段<br>并根据阶段提升威力。<br>【暮光之月】增益不会重复，<br>并在使用爆发攻击后解除。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>圣片加护Ⅱ</span></dt><dd><div>进入“中毒”、“诅咒”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>巫女之祈愿Ⅱ</span></dt><dd><div>通过能力效果提升HP时<br>根据效果量提升相应的攻击力。<br>自身剩余HP越多，提升的攻击力越高。<br>此效果对象不含因EX能力和联效EX能力提升的HP。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b1bb2958f2bed1253fbe482f303cc4b8.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>805</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>470</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>精灵国的王女。精灵会有一段体型变大的时期，<br>而他们会趁此机会离开精灵国了解外面的世界。<br>梅奈在走出国门的当天遇到了还是婴儿的<br>伊莉雅，阴差阳错之下成了她的养母。<br>身为母亲的爱改变了怯懦的梅奈。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/57b60dca90c3dc5547b26002aeb55a522.png"></span>
+				<span>精灵魔法</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>3</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成风属性伤害，<br>15秒内使其攻击力下降20%。<br>此攻击力下降效果不可叠加。<br>攻击时根据自身召唤的【蝶】数量追加发射【追踪弹】。<br>【蝶】数量不低于6时，<br>【追踪弹】获得15秒内使敌人防御力下降10%的效果。<br>此防御力下降效果不可叠加。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a7a0c4020baa6597d703d8cf2e9cfb2c2.png"></span>
+				<span>幻蝶之吻</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人造成风属性伤害。<br>攻击时对自身召唤的【蝶】位置造成追加伤害。<br>【蝶】数量不低于6时，<br>追加伤害获得使敌人进入“中毒”状态的效果。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能槽上升率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span>
+				<span>【风】连击：连击数持续时间延长Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为风时，<br>最后一次攻击命中后至连击数重置前的时间延长2.5秒。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7120dd17ed90ed030b3a31cb43ce2b332.png"></span><span>破蛹成蝶Ⅱ</span></dt><dd><div>普通攻击、爆发攻击、冲刺攻击<br>变为召唤持续追踪目标的【蝶】。<br>任务开始时全队获得<br>【可抵御自身HP最大值20%伤害的生命护盾】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span><span>湿身抗性＋100%</span></dt><dd><div>进入“湿身”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>疾风怒涛·会心＋13%</span></dt><dd><div>连击达到15次以上时暴击率提升13%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※自身召唤出的&ldquo;蝶&rdquo;数量在今后的版本更新后将显示得更清晰。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2b19455a6dd29cfef6859df2b8b3f99a.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>活在1000年前的碧龙。<br>第一次封魔战争时他介入人龙之间，<br>摸索出延续至今的和平之路。<br>他将灵魂传予后代，走完了一生。<br>继承了其高洁之魂的龙如今存在于世上某处。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>终焉风暴</span>
+			</dt>
+			<dd>
+				<div>
+					对周围的敌人造成风属性伤害，<br>使其任务中风属性抗性降低10%。<br>此效果不可叠加。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>【风】HP&攻击力＋35%</span></dt><dd><div>装备角色属性为风时，<br>HP和攻击力提升35%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【风】疾风怒涛·技能＋70%</span></dt><dd><div>装备角色属性为风时，<br>连击达到15次以上<br>攻击技能造成的伤害提升70%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1601359200; update_time1601348276

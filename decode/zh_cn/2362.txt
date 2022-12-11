@@ -1,0 +1,8 @@
+article_id:2362
+category_name:活动
+title_name:期间限定育成活动“荣光之路”即将开放！
+image_path:https://dragalialost.akamaized.net/attached/information/images/4f6858f57d43bd096313bc40dc3c6618.png
+
+message:<div>期间限定育成活动&ldquo;荣光之路&rdquo;预计将于<span class="local_date" data-local_date="1626674400"></span>开放。</div><div>&ldquo;荣光之路&rdquo;中，可挑战活动限定任务获得掉落报酬。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/4f6858f57d43bd096313bc40dc3c6618.png"></div><div><br></div><div>■活动期间</div><div><span class="local_date" data-local_date="1626674400"></span> ～ <span class="local_date" data-local_date="1627624799"></span></div><div><br></div><div>■注意事项</div><div>1. 参加活动任务需通关主线剧情第2章 2-1(Normal)。</div><div>2. 参加多人模式需通关主线剧情第2章 2-1(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1626415200; update_time1626248830

@@ -1,0 +1,8 @@
+article_id:758
+category_name:公告
+title_name:每日1次免费10连召唤活动即将开放！活动期间最多可免费召唤100次！
+image_path:https://dragalialost.akamaized.net/attached/information/images/da559b1546a01fadf5f71d11560c3ac8.png
+
+message:<div><img src="https://dragalialost.akamaized.net/attached/information/images/da559b1546a01fadf5f71d11560c3ac8.png"></div><div>每日可在对象传说召唤中免费进行1次&ldquo;10连召唤&rdquo;的&ldquo;每日1次免费10连召唤活动&rdquo;预计将于<span class="local_date" data-local_date="1569564000"></span>开放！</div><div><br></div><div>■活动期间</div><div><span class="local_date" data-local_date="1569564000"></span> ～ <span class="local_date" data-local_date="1570427940"></span></div><div><br></div><div>■对象传说召唤</div><div>每日可在以下传说召唤中各进行1次免费&ldquo;10连召唤&rdquo;：</div><div>&middot;Dragalia Fes</div><div>※<span class="local_date" data-local_date="1569564000"></span> ～ <span class="local_date" data-local_date="1570168740"></span>期间，最多可免费召唤7天，总计7次&ldquo;10连召唤&rdquo;。</div><div><br></div><div>&middot;克洛诺斯～轮回的命运指针～ 特选</div><div>※<span class="local_date" data-local_date="1570168800"></span> ～ <span class="local_date" data-local_date="1570427940"></span>期间，最多可免费召唤3天，总计3次&ldquo;10连召唤&rdquo;。</div><div><br></div><div>【注意事项】</div><div>1. 每日(14:00 ～ 次日13:59)可在对象传说召唤中进行1次免费&ldquo;10连召唤&rdquo;。</div><div>2. &ldquo;每日1次免费10连召唤&rdquo;将于每日14:00重置。</div><div>3. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1569477600; update_time1574300288

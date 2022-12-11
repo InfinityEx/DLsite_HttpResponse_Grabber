@@ -1,0 +1,274 @@
+article_id:1698
+category_name:公告
+title_name:传说召唤“暗影下的少女 特选”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1603087200"></span>起，传说召唤&ldquo;暗影下的少女 特选&rdquo;开放！</div><div><span style="color: rgb(226, 80, 65);">※本召唤的特选对象为曾在&ldquo;禁忌召唤&middot;封印图书馆 特选&rdquo;、&ldquo;暗影下的少女 特选 Part1&rdquo;和&ldquo;暗影下的少女 特选 Part2&rdquo;中追加的角色&middot;龙。</span></div><div><br></div><div>特选对象角色&middot;龙的出现概率提升。</div><div><br></div><div>【特选对象角色&middot;龙】</div><div>■角色</div><div>★5 拉托妮：暗/枪</div><div>★5 库格尔：暗/斧</div><div>★5 阿加莎：风/法杖</div><div>★5 海因瓦尔德：暗/法杖</div><div><br></div><div>■龙</div><div>★5 奈亚拉托提普：暗</div><div>★5 哈斯塔：风</div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1603087200"></span> ～ <span class="local_date" data-local_date="1603432799"></span></div><div><br></div><div>部分特选对象角色详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a3d367b658d9d6f02f029227291c43e2.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>748</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>511</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>脸上总带着一丝忧郁的神秘少女。<br>在怪异图书馆事件中<br>失去了亲人而变成孤身一人。<br>偶尔会做十分可怕的噩梦，<br>对自己体内某些异样的存在感到恐惧。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/334b74601c5335a157f2f2aa2e3b9cd32.png"></span>
+				<span>天降混沌</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人造成暗属性伤害。<br>对进入“中毒”状态的敌人造成的伤害提升。<br>此技能发动时点击屏幕<br>可进行相应次数（最多4次）的追击。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/deb7134796a0b428f6b5a7a145a0d8262.png"></span>
+				<span>混沌召唤</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成暗属性伤害。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队HP提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>【暗】龙化：龙化增强＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗时，<br>龙化槽上升率提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/18a0c508eccb37dc48c820d6ec7c0f152.png"></span><span>无面白相Ⅱ</span></dt><dd><div>龙化形态一律变为奈亚拉托提普。<br>龙化时自身获得【20秒内持续回复HP的增益】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痹抗性＋100%</span></dt><dd><div>进入“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>龙化时间＋20%</span></dt><dd><div>龙化时间延长20%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/4c787065ff3716aa3c45a77daef205d9.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>741</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>519</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>伊莉雅教会的异端审问官。<br>看似冷酷无情，其实很有人情味且泪点很低。<br>某个事件之后认识到光靠惩罚那些<br>被认定为异端的人物不能解决任何问题，<br>反而四处奔走，为嫌犯收集其不是异端的证据。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>制裁回旋</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成暗属性伤害，<br>使其防御力下降5%。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>无情打击</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成暗属性伤害。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防御力＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队防御力提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【暗】背水：危机时·攻＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗<br>且HP在40%以下时获得<br>【攻击力提升15%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/561f0cc02896bcc3c7580180041730282.png"></span><span>OVERDRIVE特效＋13%</span></dt><dd><div>对OVERDRIVE的敌人造成的伤害提升13%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痹抗性＋100%</span></dt><dd><div>进入“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>背水一战·攻＋50%</span></dt><dd><div>HP在30%以下时，<br>发动【15秒内攻击力提升50%的增益】。<br>此效果每回任务最多发动1次。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1b6f3b683acc68e34ed823c75a686d40.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>栖息在禁书图书馆的神秘之龙。<br>其话语晦涩难懂，行动令人难以捉摸，<br>自称是侍奉“遥远之主”的使者。<br>奈亚拉托提普——<br>相传此名并非指一头龙，其真相究竟……</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>黑暗笼罩</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成暗属性伤害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【暗】HP30% 攻＋50%</span></dt><dd><div>装备角色属性为暗且HP在30%以上时，<br>攻击力提升50%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>月夜嚎者Ⅱ</span></dt><dd><div>装备角色属性为暗且HP在30%以下时，<br>20秒内自身获得【染血之舌】的效果。<br>【染血之舌】效果期间<br>可使HP最大值60%以下的伤害无效1次，<br>并提升攻击力30%。<br>【染血之舌】效果不会重复，并在受到攻击后解除。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1603087200; update_time1602669083

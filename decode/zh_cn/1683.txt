@@ -1,0 +1,8 @@
+article_id:1683
+category_name:公告
+title_name:“《Dragalia Lost ～失落的龙约～》　直播&观看活动”礼物发放
+image_path:
+
+message:<div>为纪念<span class="local_date" data-local_date="1601186400"></span>起在日本游戏视频共享应用Mirrativ开展的&ldquo;《Dragalia Lost ～失落的龙约～》　直播&amp;观看活动&rdquo;中《Dragalia Lost ～失落的龙约～》直播数超过500，我们将依次向各位玩家发放以下礼物。</div><div><br></div><div>■礼物内容</div><div>金币&times;2,222,222</div><div><br></div><div>领取期限为发送至&ldquo;礼物箱&rdquo;后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1602223200; update_time1602223570

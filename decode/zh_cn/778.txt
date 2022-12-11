@@ -1,0 +1,8 @@
+article_id:778
+category_name:公告
+title_name:值此“星魂解放团队战”开放之际，向各位玩家发放“星魂碎片”！
+image_path:
+
+message:<div>值此&ldquo;星魂解放团队战&rdquo;开放之际，我们将依次向各位玩家发放&ldquo;星魂碎片&rdquo;！</div><div>本次将分2次发放&ldquo;星魂碎片&rdquo;，每次发放150个。</div><div>使用&ldquo;星魂碎片&rdquo;，积极挑战&ldquo;星魂解放团队战&rdquo;吧！</div><div><br></div><div>■礼物内容</div><div>星魂碎片150个&times;2次（最多300个）</div><div><br></div><div>■发放期间</div><div>第1次：<span class="local_date" data-local_date="1569650400"></span> ～ <span class="local_date" data-local_date="1572847199"></span></div><div>第2次：<span class="local_date" data-local_date="1569736800"></span> ～ <span class="local_date" data-local_date="1572847199"></span></div><div><br></div><div>■发放对象</div><div><span class="local_date" data-local_date="1570773600"></span>前开始游戏的玩家</div><div><br></div><div>■注意事项</div><div>1.无法领取超过上限（300个）的星魂碎片，超过部分将留在&ldquo;礼物箱&rdquo;。</div><div>2.领取期限为发送至礼物箱后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div><div><span style="color: rgb(44, 130, 201);"><strong><span class="local_date" data-local_date="1569654000"></span>追记<br></strong></span>150个&quot;星魂碎片&quot;已于<span class="local_date" data-local_date="1569652200"></span>发放完毕。<br>对于未能及时向各位玩家发放道具，我们深表歉意。</div>
+
+start_time:1569650400; update_time1569654884

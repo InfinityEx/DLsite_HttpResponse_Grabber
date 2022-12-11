@@ -1,0 +1,8 @@
+article_id:2062
+category_name:活动
+title_name:“谢希耶尔叛乱战”追加高难度“绝级”！
+image_path:https://dragalialost.akamaized.net/attached/information/images/13c34656e10b0424b5d51b40f1f537bd.png
+
+message:<div><span class="local_date" data-local_date="1616738400"></span>起，迎战新势力强敌的高难度任务&ldquo;阿基德叛乱战&rdquo;的&ldquo;谢希耶尔叛乱战&rdquo;已追加高难度&ldquo;绝级&rdquo;！<br><br>&ldquo;谢希耶尔叛乱战 绝级&rdquo;仅可用风属性角色&middot;龙挑战。<br>通关后可获得对★6风属性武器进一步进行武器精炼所需的素材道具。<br>&ldquo;阿基德系列&rdquo;武器的精炼程度达到第2阶段后，外观将发生变化！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/13c34656e10b0424b5d51b40f1f537bd.png"></div><div>阿基德对不公的现实感到绝望。<br>阿基德对陈腐的欺骗感到绝望。<br>阿基德对虚伪的救赎感到绝望。<br>阿基德发出充满怜悯与轻蔑的嘲笑，<br>将宣扬虚伪正义的愚者打入绝望的深渊。<br>那绝望冷笑的双翼名为&mdash;&mdash;&ldquo;谢希耶尔&rdquo;。<br><br>■&ldquo;阿基德系列&rdquo;武器追加<br><span class="local_date" data-local_date="1616738400"></span>起，&ldquo;阿基德系列&rdquo;强力的风属性★6武器已解锁武器精炼第2阶段。<br>武器的精炼程度达到第2阶段后，外观将发生变化。<br><br>获得过特定武器即可解锁用讨伐&ldquo;谢希耶尔&rdquo;获得的素材进行的武器制作。<br>解锁所需武器为可用讨伐&ldquo;虚空之影讨伐战&rdquo;的&ldquo;风暴奇美拉&rdquo;获得的素材制造的风属性★5武器。<br><br>解锁所需武器根据武器种类而有所不同，详情可点击&ldquo;武器制造&amp;强化&rdquo;的&ldquo;阿基德系列&rdquo;中风属性武器的&ldquo;素材确认&rdquo;查看。<br><br>■设施<br>设施&ldquo;觉醒之岚树&rdquo;的Lv上限解锁至Lv30。<br><br>■重生次数及重生奖励调整<br>重生次数及重生奖励已于<span class="local_date" data-local_date="1616738400"></span>起进行如下调整：<br>&ldquo;谢希耶尔叛乱战 超级&rdquo;的重生次数调整为1次，追加重生奖励。<br>&ldquo;谢希耶尔叛乱战 高级&rdquo;的重生次数调整为2次，调整重生奖励内容。<br>&ldquo;谢希耶尔叛乱战 中级&rdquo;的重生次数调整为3次，调整重生奖励内容。<br><br>【注意事项】<br>1. 参加&ldquo;阿基德叛乱战&rdquo;需通关主线剧情第10章 6-3(Normal)并通过任意真龙之试炼的中级难度。<br>2. 挑战&ldquo;谢希耶尔叛乱战 绝级【单人】&rdquo;需通关任意超级难度的阿基德叛乱战【单人】或【多人】。<br>3. 挑战&ldquo;谢希耶尔叛乱战 绝级【多人】&rdquo;需通关任意超级难度的阿基德叛乱战【单人】或【多人】。<br><br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1616738400; update_time1616135580

@@ -1,0 +1,8 @@
+article_id:2061
+category_name:公告
+title_name:关于角色“琪姬”神龙化的异常现象
+image_path:
+
+message:<div>目前已确认角色&ldquo;琪姬&rdquo;出现了以下异常现象。</div><div><br></div><div>&middot;角色&ldquo;琪姬&rdquo;神龙化时会再次发动&ldquo;【水】HP＋〇%&rdquo;等可提升数值的联效EX能力导致效果叠加。</div><div>▼对象联效EX能力</div><div>　&middot;【属性】HP＋〇%</div><div>　&middot;【属性】防御力＋〇%</div><div>　&middot;防御力＋〇%</div><div><br></div><div>本异常现象预计将于3月下旬版本.2.6.0更新中进行修正。</div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1616137200; update_time1616135399

@@ -1,0 +1,8 @@
+article_id:242
+category_name:公告
+title_name:关于★5主角能力“玩家获得的经验值＋15%”的异常现象
+image_path:
+
+message:<div>目前已确认★5主角能力&ldquo;玩家获得的经验值＋15%&rdquo;在部分任务通关后所获得的经验值相较于正常情况少&ldquo;1&rdquo;的异常现象。</div><div>※能力&ldquo;玩家获得的经验值＋10%&rdquo;效果正常生效。</div><div><br></div><div>本异常现象已于<span class="local_date" data-local_date="1550120400"></span>进行的维护中得到解决。</div><div><br></div><div>我们将依次向<span class="local_date" data-local_date="1550120400"></span>前开始游戏且拥有★5主角的玩家发放以下道具作为补偿，请耐心等待。</div><div><br></div><div>・最高级蜂蜜　20个</div><div><br></div><div>玩家可在&ldquo;礼物箱&rdquo;领取。</div><div>玩家可在<span class="local_date" data-local_date="1550728740"></span>前登录游戏领取。</div><div>领取期限为发送至礼物箱后7天内。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div>&nbsp;</div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1550128200; update_time1550128267

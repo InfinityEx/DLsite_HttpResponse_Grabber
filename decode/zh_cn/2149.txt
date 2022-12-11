@@ -1,0 +1,200 @@
+article_id:2149
+category_name:公告
+title_name:火属性★5角色确定！“白金传说召唤”即将开放！
+image_path:
+
+message:<div>&ldquo;白金传说召唤&rdquo;预计将于<span class="local_date" data-local_date="1619762400"></span>开放。</div><div><br></div><div>白金传说召唤是&ldquo;10连召唤&rdquo;的第10位确定为火属性★5角色的召唤。</div><div><span style="color: rgb(226, 80, 65);">※火属性以外的角色&middot;龙不会出现在本召唤中。</span></div><div>活动期间最多可进行2次&ldquo;10连召唤&rdquo;。</div><div>本召唤仅限使用龙钻。</div><div><br></div><div>【白金传说召唤期间】</div><div><span class="local_date" data-local_date="1619762400"></span> ～ <span class="local_date" data-local_date="1620885599"></span></div><div><br></div><div>&ldquo;白金传说召唤&rdquo;第10位确定出现的部分对象火属性★5角色详情如下：</div><div><br></div><div>【第10位确定对象火属性★5角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ab4a5eea7755da4d7bea802add8396cf.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>742</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>本领了得的佣兵兰扎卜因时空物理<br>魔法实验变成了孩子的身体。<br>虽然身体变小了，但其身经百战<br>积累的经验和有情有义的男子气概……<br>以及令人震惊的大食量依旧不变。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c2db8e594e072513922d2af7ebfa68c62.png"></span>
+				<span>强力挥击</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>对前方的敌人造成伤害，<br>使其进入“劫火”状态。</div><div class="skill-detail">威力：1,015 × 1 Hit<br>所需SP：3,230<br>所需共享SP：8,559<br>特殊效果<br>·劫火<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41.6</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20f15e05dab3cf33c2c02e36b5f9d8722.png"></span>
+				<span>活力本垒打</span>
+			</dt>
+			<dd><div>自身获得攻击力提升的战意。<br>使技能“强力挥击”准备就绪，<br>且下次使用“强力挥击”时必定暴击。<br>同时拥有此效果和超强灵感的状态下<br>使用技能将同时消耗此效果和超强灵感并暴击。</div><div class="skill-detail">所需SP：7,583<br>获得战意<br>·攻击力提升（士气上限Lv 2）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防御力＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队防御力提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【火】士气：攻势士气·攻＋8%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为火<br>且获得攻击力提升的士气时，<br>攻击力提升8%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>强力击球手Ⅱ</span></dt><dd><div>可提升的暴击率上限变为10%，<br>暴击伤害倍率提升40%。<br>超强灵感可正常生效。<br>技能“强力挥击”暴击时，<br>自身获得攻击力提升的战意（士气上限Lv2）。<br>此效果发动后1秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏迷抗性＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cc3f28b7bfce6dfc1ea65f36822cae7f2.png"></span><span>战意（攻） 攻击速度＋8%</span></dt><dd><div>获得攻击力提升的战意时，攻击速度提升8%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2c0ddd66cbd375e9ce7abdd8dc69856e.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,499</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>可使用模式</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/48f0cf6b6186ad0c7fa467c24cc47eea2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/b8a3b3884cac48715702c5bf401cd8b22.png"><img src="https://dragalialost.akamaized.net/attached/information/images/26f43aab3c39a2bcdadd1b40dd88e7402.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>隶属于北方伊莉雅教会的“使徒”之一。<br>性格严肃，对任何事都会打分评判。<br>和“天使”乌列通过圣痕连结，<br>为了不辜负他的期望<br>而不懈努力，力求完美。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/45933deb0335e561b2a5a7d32d03583d2.png"></span>
+				<span>龙眸炎弹</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>【通常状态时】<br>对直线上的敌人造成伤害，<br>使其进入“劫火”状态。<br>【圣痕枷锁解除时】<br>对直线上的敌人造成伤害，<br>使其进入“劫火”状态并获得【乌列的神罚】。<br>【乌列的神罚】效果期间再次获得【乌列的神罚】<br>可提升效果等级强化效果。<br>【乌列的神罚】等级会在效果时间结束后降低，<br>Lv1时降级则会解除效果。<br>Lv1：15秒内攻击力下降15%。<br>Lv2：15秒内攻击力下降20%。<br>Lv3：10秒内攻击力下降30%，劫火抗性下降25%。</div><div class="skill-detail">威力：2,709 × 1 Hit<br>所需SP：3,810<br>特殊效果<br>·劫火<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41.6<br><br>（能力效果发动时）<br>威力：1,507 × 2 Hit<br>所需SP：3,810<br>所需共享SP：13,144<br>特殊效果<br>·乌列的神罚<br>　效果时间：15 秒<br>·劫火<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41.6</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>贤者之智</span>
+			</dt>
+			<dd><div>自身获得【乌列的祝福】。</div><div class="skill-detail">所需SP：7,560<br>特殊效果<br>·乌列的祝福<br>　特殊规避<br>　效果次数：3<br>　不可叠加</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>怒气槽减少量＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队怒气槽减少量提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/03585ae11a2b0de283c914026533b3fe2.png"></span>
+				<span>【火】坚守：HP80% 风抗＋6%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为火<br>且HP不低于80%时风属性抗性提升6%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>乌列的圣约Ⅱ</span></dt><dd><div>【通常状态时】<br>·任务开始时300秒内自身获得【圣痕枷锁】减益。<br>·回避敌人攻击时【圣痕枷锁】剩余时间减少36秒。<br>此效果发动后10秒内不会再次发动。<br>·爆发攻击发生变化。<br>长按时如受到可用技能规避的攻击<br>则自动回避攻击<br>并对直线上的敌人造成火属性伤害，<br>使其获得【乌列的神罚】。<br>【圣痕枷锁解除时】<br>·在通常状态时的效果基础上追加以下效果：<br>强化普通攻击和爆发攻击，<br>威力和技能槽上升率提升，<br>对进入“劫火”状态的敌人造成的伤害提升35%。<br>·获得【乌列的祝福】效果期间技能槽上升率提升12%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠抗性＋100%</span></dt><dd><div>进入“睡眠”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4fcd5ec5d6fb145301b13016087b14a92.png"></span><span>乌列的制裁Ⅱ</span></dt><dd><div>回避敌人攻击时<br>使攻击的敌人获得【乌列的神罚】。<br>此效果发动后15秒内不会再次发动。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>【注意事项】</div><div>1. &ldquo;白金传说召唤&rdquo;详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;白金传说召唤&rdquo;，查看&ldquo;出现概率&rdquo;或&ldquo;召唤信息&rdquo;中的&ldquo;详情&rdquo;。</div><div>2. &ldquo;白金传说召唤&rdquo;中无法获得&ldquo;龙辉之印&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1619589600; update_time1619168328

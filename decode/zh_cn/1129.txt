@@ -1,0 +1,156 @@
+article_id:1129
+category_name:公告
+title_name:传说召唤“女神福音与信仰之刃”开放！【更新】
+image_path:
+
+message:<div>【<span class="local_date" data-local_date="1585117800"></span>更新】<br>因召唤信息中霍普（教会骑士Ver.）的联效EX能力记载有误，现已进行如下修正：<br><br>修正前：【风】无伤：HP60% 攻＋3%<br>修正后：【风】无伤：HP60% 攻＋5%<br><br>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><hr><div><span class="local_date" data-local_date="1583992800"></span>起，传说召唤&ldquo;女神福音与信仰之刃&rdquo;开放！</div><div><br></div><div>特选对象角色&middot;龙的出现概率提升。</div><div><br></div><div>【新登场的特选对象角色&middot;龙】</div><div>■角色</div><div>★5 德莱茨：风/刀</div><div>★4 霍普（教会骑士Ver.）：风/剑</div><div><br></div><div>■龙</div><div>★5 亚列：风</div><div><br></div><div>※其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1583992800"></span> ～ <span class="local_date" data-local_date="1585288740"></span></div><div><br></div><div>部分新登场的特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/fa68ac44d6bd3f5c58b2b086269b2608.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>781</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>494</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,495</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>统领炼狱派的圣骑士。<br>为了正确的信仰不惜牺牲一切，<br>但也渴望着没有争斗的和平世界<br>与人们的幸福。如今正为了<br>实现这个理想而祈祷并奋战。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>永恒恩赐</span>
+			</dt>
+			<dd>
+				<div>
+					15秒内全队风属性角色攻击力提升30%。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6dc6c36e6e05224a9c6a4de33447bb5a2.png"></span>
+				<span>圣洁之刃</span>
+			</dt>
+			<dd>
+				<div>
+					10秒内发动【圣洁之刃】。<br>此效果期间自身进入以下状态：<br>普通攻击发生变化，<br>此技能变为“天启肃清”并可立即使用，<br>虽无法移动、回避或发动爆发攻击，<br>但可在7秒内持续提升【永恒恩赐】的技能槽。<br>【圣洁之刃】将在发动“天启肃清”<br>或经过一定时间后等条件下解除。<br>（天启肃清：对多个目标和目标周围的敌人<br>造成风属性伤害，使其进入“中毒”状态。<br>此技能将在一定范围内由近至远进行攻击。<br>如范围内的敌人少于可攻击的对象数量，<br>剩余攻击将再次由近至远对所选择的对象进行攻击。）<br>此技能随时间自动充能。<br>此技能的充能不受“技能槽提升效果”影响。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span>
+				<span>增益技能持续时间＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队增益技能持续时间提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>【风】连击：10连击以上 水抗＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为风<br>且连击达到10次以上时获得<br>【水属性抗性提升10%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span><span>增益技能持续时间＋25%</span></dt><dd><div>增益技能持续时间提升25%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span><span>湿身抗性＋100%</span></dt><dd><div>进入“湿身”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>中毒特效＋30%</span></dt><dd><div>对进入“中毒”状态的敌人造成的伤害提升30%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※联效EX能力为版本1.18.0追加的EX能力。联效EX能力在1.18.0之前的版本中无效。</div><div><br></div><div>【特选龙介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/00fbdac27092d3c10d96be1370c9fe03.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>以伊莉雅之名讨伐一切<br>加害于人类之龙的龙。<br>为了向人们传达伊莉雅的教诲<br>并维持龙与人共同生活的世界<br>而奔走于世界各地。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>极飓冲击</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成风属性伤害，使其进入“昏迷”状态。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【风】攻击力＋50%</span></dt><dd><div>装备角色属性为风时，<br>角色的攻击力提升50%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【风】技能增强＋30%</span></dt><dd><div>装备角色属性为风时，<br>技能槽上升率提升30%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1583992800; update_time1585117804

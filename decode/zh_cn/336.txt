@@ -1,0 +1,8 @@
+article_id:336
+category_name:公告
+title_name:关于体力及共斗之翼等信息可能显示有误的异常现象
+image_path:
+
+message:<div>在2019/3/18进行的维护后，出现了游戏中显示的体力及共斗之翼等信息与实际数据不符、未正常显示正确信息的异常现象。</div><div><br></div><div>如出现本异常现象，可能发生以下情况：</div><div>&middot;提示&ldquo;错误码：99999&rdquo;并返回主界面。</div><div>&middot;更新为正确的数据后，显示的体力及共斗之翼、魔力、金币等数值突然发生变化。</div><div>※仅为数据显示恢复正常，体力及共斗之翼、魔力、金币等实际数值并无变化。</div><div><br></div><div>目前本异常现象已得到解决。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1553850000; update_time1553853301

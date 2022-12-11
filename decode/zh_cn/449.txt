@@ -1,0 +1,8 @@
+article_id:449
+category_name:活动
+title_name:【复刻】“划破黑暗的光之歌声”活动预告
+image_path:
+
+message:<div>已追加新难度的团队活动【复刻】&ldquo;划破黑暗的光之歌声&rdquo;预计将于<span class="local_date" data-local_date="1557813600"></span>开始。</div><div>本活动可在多人模式下挑战暗属性的团队战BOSS。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/c2d447188be6830ef8f284382cf3f564.png"></div><div>因历史悠久的少年合唱团而闻名的雪之镇</div><div>每天都回荡着清亮的歌声。</div><div>然而青春期的少年少女们却暗自烦恼&hellip;&hellip;</div><div>王子一行人能否打倒吞噬人们内心的阴影而日渐强大的魔兽&ldquo;斯伯纳克&rdquo;！？</div><div>&nbsp;</div><div>■注意事项</div><div>1. 参加活动任务需通关主线剧情第2章2-1(Normal)。</div><div>2. 参加多人模式需通关主线剧情第2章2-1(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1557468000; update_time1557370968

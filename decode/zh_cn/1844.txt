@@ -1,0 +1,8 @@
+article_id:1844
+category_name:公告
+title_name:版本2.3.0更新的“阿尔贝里亚大逃杀”调整公告
+image_path:
+
+message:<div>■追加角色/武器外观变更功能</div><div>版本2.3.0起将追加变更角色/武器外观的功能。</div><div>在活动页面的&ldquo;角色设置&rdquo;中对已成为伙伴的角色使用&ldquo;皮肤兑换券&rdquo;即可解锁其皮肤，皮肤解锁后可作为出击角色的外观使用。</div><div>※&ldquo;皮肤兑换券&rdquo;可通过2021年1月的月间大逃杀积分报酬获得。</div><div>※版本2.2.0的交换所中已有的皮肤今后仅可通过交换所获得。</div><div>※部分角色无法解锁皮肤。</div><div><br></div><div>另外，也可在活动页面的&ldquo;角色设置&rdquo;中设置已拥有的武器皮肤作为武器外观使用。</div><div>※无法设置尚未解锁武器皮肤的武器。</div><div><br></div><div>■追加能力道具</div><div>追加可在地图中获得的&ldquo;能力道具&rdquo;，角色获得&ldquo;能力道具&rdquo;后可发动其能力效果。</div><div>能力道具无持有上限，可获得多个能力，但相同的能力效果不可叠加。</div><div>※各能力详情请查看活动内&ldquo;玩法&rdquo;。</div><div><br></div><div>■追加火山地图</div><div>版本2.3.0起，部分地图将变为火山区域。地图全域中每隔一段时间便会有火球坠落。</div><div>可通过坠落的火球获得新技能道具和能力道具。</div><div>※各技能和机关详情请查看活动内&ldquo;玩法&rdquo;。</div><div><br></div><div>■元旦前后的&ldquo;阿尔贝里亚大逃杀&rdquo;活动日程调整</div><div>以下期间将全时段开放&ldquo;阿尔贝里亚大逃杀&rdquo;：</div><div><span class="local_date" data-local_date="1608703200"></span> ～ <span class="local_date" data-local_date="1609912799"></span></div><div>※<span class="local_date" data-local_date="1609912800"></span>后将恢复为<span class="local_weekly_time" data-local_date="1670392800"></span> ～ <span class="local_weekly_time" data-local_date="1670565540"></span>开放。</div><div><br></div><div>■异常现象修正</div><div>交换所中的&ldquo;［皮肤］穆穆&rdquo;将于<span class="local_date" data-local_date="1608530400"></span>左右进行的数据更新中修正为&ldquo;［皮肤］穆穆（Fes限定Ver.）&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div>
+
+start_time:1608012000; update_time1607931712

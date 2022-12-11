@@ -1,0 +1,8 @@
+article_id:61
+category_name:公告
+title_name:关于特定主线剧情第5章 4-1"塞西娅"和第6章 4-4"光之王冠"中无法继续游戏的异常现象【追记】
+image_path:
+
+message:<div>目前已确认游戏版本更新至1.1.2后，以下主线剧情任务出现了无法继续游戏的异常现象。</div><div><br></div><div>&middot;第5章 4-1&quot;塞西娅&quot;</div><div>&middot;第6章 4-4&quot;光之王冠&quot;</div><div><br></div><div>我们正在调查本异常现象的原因。</div><div>最新进展将第一时间更新在本公告中。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1540881900"></span>追记</strong></span><br>本异常现象已于<span class="local_date" data-local_date="1540879200"></span>进行的数据更新中进行了修正。<br><br>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1540816200; update_time1542363739

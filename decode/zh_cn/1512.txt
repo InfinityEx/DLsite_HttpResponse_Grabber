@@ -1,0 +1,8 @@
+article_id:1512
+category_name:活动
+title_name:设施活动【复刻】“Melodious Summer♪”即将开放！
+image_path:https://dragalialost.akamaized.net/attached/information/images/fbf937b08d8c743657e493d930054a9c.png
+
+message:<div>设施活动【复刻】&ldquo;Melodious Summer♪&rdquo;预计将于<span class="local_date" data-local_date="1597730400"></span>开始。</div><div>本活动可挑战暗属性的BOSS，获得活动限定的报酬设施。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/fbf937b08d8c743657e493d930054a9c.png"><br></div><div>夏日！大海！舞台！</div><div>举办演唱会，将歌声献给大家&mdash;&mdash;</div><div>这便是海滨歌姬塞壬的愿望。</div><div>王子一行人为了实现她的愿望而忙着搭建舞台并招揽观众。</div><div>然而，一路上却困难重重&hellip;&hellip;</div><div>塞壬究竟能否将歌声带给众人？</div><div>王子一行人的夏天还远未结束！</div><div><br></div><div>■活动期间</div><div><span class="local_date" data-local_date="1597730400"></span> ～ <span class="local_date" data-local_date="1598594399"></span></div><div><br></div><div>■注意事项</div><div>1. 参加活动任务需通关主线剧情第2章 2-1(Normal)。</div><div>2. 参加多人模式需通关主线剧情第2章 2-1(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1597644000; update_time1597308719

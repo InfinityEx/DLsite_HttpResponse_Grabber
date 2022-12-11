@@ -1,0 +1,8 @@
+article_id:77
+category_name:公告
+title_name:数据更新公告
+image_path:
+
+message:<div>游戏将于<span class="local_date" data-local_date="1541088900"></span>左右进行数据更新。</div><div><br></div><div>本次数据更新内容如下：</div><div><br></div><div>■数据更新内容</div><div>修正活动&quot;心地善良的少女与被困的守护龙&quot;中不显示团队战BOSS&quot;修普诺斯&quot;的异常现象。</div><div><br></div><div>■注意事项</div><div>数据更新时可能提示&quot;有新版本。&quot;</div><div>上述内容仅指游戏内数据更新，无需升级游戏版本。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1541088000; update_time1542364259

@@ -1,0 +1,136 @@
+article_id:870
+category_name:公告
+title_name:传说召唤“可怕☆爱之火☆乘车袭来”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1573624800"></span>起，传说召唤&ldquo;可怕☆爱之火☆乘车袭来&rdquo;开放！</div><div><br></div><div>特选对象角色&middot;龙的出现概率提升。</div><div><br></div><div>【新登场的特选对象角色&middot;龙】</div><div>■角色</div><div>★5 切尔茜：火/弓</div><div>★4 勇也：火/短剑</div><div><br></div><div>■龙</div><div>★5 迦具土：火</div><div><br></div><div>※其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1573624800"></span> ～ <span class="local_date" data-local_date="1574920740"></span></div><div><br></div><div>部分新登场的特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选角色介绍】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/935ca03a676ff40703b2b6ee02c5bc00.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>763</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>495</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,498</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>最喜欢卢卡的森隐族女孩。<br>爱慕卢卡并称其为“卢卡亲☆”，<br>为照顾卢卡而对其穷追不舍。<br>经常失去理性而采取出人意料的行动。<br>为了深爱的他会不惜牺牲自己。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/675c04a4767e3334ef726465460e4be62.png"></span>
+				<span>消失吧电灯泡★</span>
+			</dt>
+			<dd>
+				<div>
+					对目标造成火属性伤害。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>遍体鳞伤如天堂☆</span>
+			</dt>
+			<dd>
+				<div>
+					60秒内发动【不爱我就去死★】。<br>此效果期间自身攻击力提升30%，<br>每次攻击将承受自身HP最大值3%的伤害。<br>效果期间获得技能【消失吧电灯泡★】<br>造成伤害5%的回复效果，<br>此增益的回复效果不超过角色HP最大值的49%。<br>龙化时将解除【不爱我就去死★】的所有效果。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能槽上升率提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8c8841b3f5aa35fb71f07f9075152dba2.png"></span><span>危机时·攻&攻击速度提升Ⅲ</span></dt><dd><div>HP在30%以下时，攻击力提升20%，攻击速度提升10%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏迷抗性＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/94180caecbefc8ce72737608068138b12.png"></span><span>失控的爱意★★</span></dt><dd><div>获得【不爱我就去死★】增益期间，<br>攻击力提升30%，防御力下降20%。</div></dd></dl></div></div></div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>【特选龙介绍】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/48c9c38a62f1a7c71e5a3af747247409.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>991</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>生于日出之国南方的火山、<br>泡在热水中长大的豪爽壮年火龙。<br>有接纳万物的胸怀和强韧的体魄，<br>无论怎样的猛攻都无法使其动摇。<br>喜欢吃名产“炸鸡”，常劝别人“吃吧”。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>豪焰天灼</span>
+			</dt>
+			<dd>
+				<div>
+					对周围的敌人造成火属性伤害，<br>使其进入“烧伤”状态。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻击力＋45%</span></dt><dd><div>装备角色属性为火时，<br>角色的攻击力提升45%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】技能连接·攻＋15%</span></dt><dd><div>自身当前操作角色的技能1可使用时，<br>如该角色为火属性角色则获得<br>【10秒内火属性角色攻击力提升15%的增益】。<br>此效果发动后15秒内不会再次发动。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1573624800; update_time1573439442

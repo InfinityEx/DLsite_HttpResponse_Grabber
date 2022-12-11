@@ -1,0 +1,8 @@
+article_id:2777
+category_name:公告
+title_name:“阿尔贝里亚大逃杀”龙变更！月间报酬和每月更新的交换所内容更新！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1661925600"></span>起，&ldquo;阿尔贝里亚大逃杀&rdquo;已进行以下变更和更新。</div><div><br></div><div>■龙化对象变更</div><div>所有武器种类角色可龙化的对象均变更为&ldquo;耶梦加得&rdquo;。</div><div>※今后可龙化的对象也可能发生变更。</div><div><br></div><div>变更前：无畏尼德霍格</div><div>变更后：耶梦加得</div><div><br></div><div>■月间大逃杀积分报酬更新</div><div>月间大逃杀积分报酬已更新。</div><div>可根据每月获得的大逃杀积分领取相应的报酬。</div><div>※<span class="local_date" data-local_date="1661925600"></span>更新的月间大逃杀积分报酬可在<span class="local_date" data-local_date="1664517599"></span>前领取。</div><div><br></div><div>■更新交换所内容</div><div>&ldquo;阿尔贝里亚大逃杀&rdquo;交换所中每月更新的可交换内容已更新。</div><div>※<span class="local_date" data-local_date="1661925600"></span>追加的每月更新的内容可在<span class="local_date" data-local_date="1664517599"></span>前交换。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1661925600; update_time1642132517

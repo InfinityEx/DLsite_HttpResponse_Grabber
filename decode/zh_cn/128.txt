@@ -1,0 +1,8 @@
+article_id:128
+category_name:公告
+title_name:数据更新公告
+image_path:
+
+message:<div>游戏将于<span class="local_date" data-local_date="1543578000"></span>左右进行数据更新。</div><div><br></div><div>■数据更新内容</div><div>修正了以下异常现象：</div><div>&middot;传说召唤&quot;余音缭绕的爱之旋律&quot;的介绍动画可能无法正常播放。</div><div>※因本次修正，所有玩家进入相关页面时均会再次播放该介绍动画。</div><div>&middot;活动任务&quot;雪球袭来&quot;中，库菈乌的语音音量可能与设置不符。</div><div><br></div><div>■注意事项</div><div>数据更新时可能提示&quot;有新版本。&quot;</div><div>上述内容仅指游戏内数据更新，无需升级游戏版本。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1543576500; update_time1543576560

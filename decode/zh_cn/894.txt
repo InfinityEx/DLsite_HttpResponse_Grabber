@@ -1,0 +1,8 @@
+article_id:894
+category_name:公告
+title_name:关于虚空之影讨伐战的详情页面未正常显示的异常现象
+image_path:
+
+message:<div><span class="local_date" data-local_date="1574316000"></span> ～ <span class="local_date" data-local_date="1574319180"></span>期间，当前虚空之影讨伐战出现了&ldquo;幽魂骑士&middot;冥府讨伐战&rdquo;和&ldquo;蝎狮&middot;狂暴讨伐战&rdquo;任务详情页面未正常显示的异常现象。</div><div><br></div><div>目前本异常现象已得到解决。</div><div>&nbsp;</div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1574317500; update_time1574320851

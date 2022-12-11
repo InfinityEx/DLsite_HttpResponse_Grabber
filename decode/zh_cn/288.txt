@@ -1,0 +1,8 @@
+article_id:288
+category_name:活动
+title_name:团队活动“舞姬与魔龙的圆舞曲”终章追加！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1552370399"></span>结束的团队活动&ldquo;舞姬与魔龙的圆舞曲&rdquo;已追加终章！</div><div><br></div><div>玩家可在&ldquo;主页&rdquo;点击左上方的浮窗进入&ldquo;团队活动&rdquo;的&ldquo;限定任务&rdquo;阅读。</div><div><br></div><div>■终章解锁期间</div><div><span class="local_date" data-local_date="1552370400"></span> ～ <span class="local_date" data-local_date="1552975199"></span></div><div><br></div><div>■注意事项</div><div>终章仅限活动结束时已完成活动剧情第5话的玩家阅读。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1552370400; update_time1552283938

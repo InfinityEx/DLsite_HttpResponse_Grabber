@@ -1,0 +1,373 @@
+article_id:1694
+category_name:公告
+title_name:“Dragalia Fes Extra”即将开放！
+image_path:
+
+message:<div>&ldquo;Dragalia Fes Extra&rdquo;预计将于<span class="local_date" data-local_date="1602828000"></span>开放。</div><div><br></div><div>【关于Dragalia Fes】※含&ldquo;Dragalia Fes Extra&rdquo;</div><div>期间限定的角色&middot;龙将在Dragalia Fes中登场。</div><div>★5角色、龙的初始出现概率将从4%提升至6%！</div><div>※召唤出★5或★5特选后，出现概率将变回初始概率6%。</div><div><span style="color: rgb(226, 80, 65);">※以往&ldquo;Dragalia Fes&rdquo;中追加的角色&middot;龙也可能在本召唤中登场。登场角色&middot;龙的详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</span></div><div><br></div><div>【新登场的期间限定特选对象角色】</div><div>■角色</div><div>★5 梅露莎（万圣节Ver.）：风/枪</div><div>★5 阿加莎（万圣节Ver.）：水/刀</div><div><br></div><div>【以往Dragalia Fes中登场过的特选对象角色&middot;龙】</div><div>■角色</div><div>★5 沙音（Fes限定Ver.）：暗/剑</div><div><br></div><div>■龙</div><div>★5 凯特西（Fes限定Ver.）：暗</div><div><br></div><div>以下期间限定角色&middot;龙也将在本次Dragalia Fes中再次登场。</div><div><span style="color: rgb(226, 80, 65);">※以下角色&middot;龙非特选对象。</span></div><div>【再次登场的期间限定角色&middot;龙】</div><div>■角色</div><div>★5 穆穆（万圣节Ver.）：火/斧</div><div>★5 埃尔菲莉丝（万圣节Ver.）：光/枪</div><div>★4 卢恩（万圣节Ver.）：火/法杖</div><div>★4 欧蒂塔（万圣节Ver.）：水/剑</div><div>★4 伊露缇米娅（万圣节Ver.）：光/法杖</div><div>★3 爱德华（万圣节Ver.）：光/刀</div><div><br></div><div>■龙</div><div>★5 玛利蒂姆斯（万圣节Ver.）：水</div><div>★4 希露姬（万圣节Ver.）：光</div><div><br></div><div>【Dragalia Fes Extra活动期间】</div><div><span class="local_date" data-local_date="1602828000"></span> ～ <span class="local_date" data-local_date="1603087199"></span></div><div><br></div><div>特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1966f58af89345baf4a89eae74037fba.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>790</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>485</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>变装成僵尸的森隐族少女。<br>平时温柔善良，但万圣节时<br>卖力扮演着行走的恐怖尸体。<br>然而终究还是难掩对派对的兴奋之情，<br>变成了活泼雀跃的僵尸。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/11558585106c5018e7f5f984e61288292.png"></span>
+				<span>诡异复苏</span>
+			</dt>
+			<dd>
+				<div>
+					15秒内全队攻击力提升25%。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b6dadd2717890e18594f663a9069c9bf2.png"></span>
+				<span>剧毒噬咬</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成风属性伤害，<br>使其进入“中毒”状态，<br>30秒内使其中毒抗性下降10%。<br>此效果不可叠加。<br>攻击时可控制方向。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队HP提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【风】无伤：HP60% 攻＋6%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为风<br>且HP不低于60%时获得<br>【攻击力提升6%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3c77eb4ce89d7a87424b9733969ae7282.png"></span><span>重生HP提升Ⅱ</span></dt><dd><div>重生时以80%HP的状态重生。<br>此效果每回任务最多发动1次。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>冰冻抗性＋100%</span></dt><dd><div>进入“冰冻”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>中毒触发·PT攻＋10%</span></dt><dd><div>使敌人进入中毒状态时，全队获得<br>【10秒内攻击力提升10%的增益】。<br>此效果发动后5秒内不会再次发动。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/0ce78e97cc74a660d266df1db7b4fdcf.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>743</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>扮成吸血鬼的“全知教团”祭司。<br>在万圣节时的街上游玩的身影<br>如孩童般无邪，但其不经意间露出的<br>妖艳微笑仿暗夜之月般魅惑人心。<br>不知其内心是虚无，亦或是……</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d436213ee1d25605303354b04cb18e92.png"></span>
+				<span>无名掠夺者</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成水属性伤害，<br>10秒内使其防御力下降3%。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/10fc81680bc1c3cbf52e7271e7cfdf5f2.png"></span>
+				<span>疯狂之棺</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成水属性伤害，使其进入“裂伤”状态。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻击力＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队攻击力提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>【水】坚守：HP80% 火抗＋6%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为水<br>且HP不低于80%时火属性抗性提升6%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e915bc581ed54d29f06ebfc9f8eed8252.png"></span><span>防御力下降触发·减益成功率Ⅱ</span></dt><dd><div>使敌人进入“防御力下降”状态时<br>自身获得【5秒内减益成功率提升50%的增益】。<br>此效果发动后5秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏迷抗性＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>裂伤触发·HP回复Ⅱ</span></dt><dd><div>使敌人进入“裂伤”状态时回复自身HP。<br>此效果发动后5秒内不会再次发动。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/40d2a5ef017143d6a9dedac43cda4d63.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>换上新装备、成为埃尔菲莉丝护卫的沙音。<br>纯白的斗篷代表着她放弃暗杀<br>并誓以手中之剑守护挚友的决心。<br>无论是染满鲜血的过去还是残酷的真相<br>都丝毫无法令她动摇。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a14e3aeaf8990581545b970f18bf5f82.png"></span>
+				<span>剑走偏锋</span>
+			</dt>
+			<dd>
+				<div>
+					对目标造成暗属性伤害，15秒内使其防御力下降5%。<br>此防御力下降效果不可叠加。<br>使用此技能后一定时间内发动【技能链】。<br>发动【技能链】时“剑走偏锋”技能效果<br>变为【对前方的敌人造成暗属性伤害，<br>对防御力下降状态的敌人造成的伤害提升】，<br>使用“剑走偏锋”对敌人造成伤害时会产生追加伤害<br>（对防御力下降状态的敌人造成的伤害提升）。<br>另外，目标处于特定状态时使用技能“暗影抹杀”<br>可使“剑走偏锋”在一定时间内发动【技能链】。<br>①目标拥有增益时：<br>技能效果变为【对目标造成暗属性伤害，<br>解除其1个增益效果】+追加伤害<br>（对防御力下降状态的敌人造成的伤害提升）<br>②目标处于“破防”状态时：<br>技能效果变为【对目标造成暗属性伤害，<br>对被破防的敌人造成的伤害提升】+追加伤害<br>（对被破防的敌人造成的伤害提升）<br>如同时满足①和②的条件，则优先获得①的效果。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/18bb75cee57f186afb031e6ca02c56f92.png"></span>
+				<span>暗影抹杀</span>
+			</dt>
+			<dd>
+				<div>
+					对目标造成暗属性伤害，使其进入“中毒”状态。<br>使用此技能后一定时间内发动【技能链】。<br>发动【技能链】时“暗影抹杀”技能效果<br>变为【对目标造成暗属性伤害，<br>对进入中毒状态的敌人造成的伤害提升】，<br>使用“暗影抹杀”对敌人造成伤害时会产生追加伤害<br>（对进入中毒状态的敌人造成的伤害提升）。<br>另外，目标处于特定状态时使用技能“剑走偏锋”<br>可使“暗影抹杀”在一定时间内发动【技能链】。<br>①目标拥有增益时：<br>技能效果变为【对目标造成暗属性伤害，<br>解除其1个增益效果】+追加伤害<br>（对进入中毒状态的敌人造成的伤害提升）<br>②目标处于“破防”状态时：<br>技能效果变为【对目标造成暗属性伤害，<br>对被破防的敌人造成的伤害提升】+追加伤害<br>（对被破防的敌人造成的伤害提升）<br>如同时满足①和②的条件，则优先获得①的效果。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龙化增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化槽上升率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【暗】中毒：中毒触发·攻＋13%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗<br>且使敌人进入中毒状态时获得<br>【15秒内攻击力提升13%的增益】。<br>此效果发动后10秒内不会再次发动。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a2241ae1de30904a24117f1388bd71782.png"></span><span>防御力下降特效＋30%</span></dt><dd><div>对进入“防御力下降”状态的敌人造成的伤害提升30%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bd7de81c28d0b9c93b0edbfc86b0cb6a2.png"></span><span>影卫的决心Ⅱ</span></dt><dd><div>进入“黑暗”、“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>中毒特效＋30%</span></dt><dd><div>对进入“中毒”状态的敌人造成的伤害提升30%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c9d795baac8f6fb427537c9ee6653346.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>谢斯的契约龙。外表可爱却喜怒无常，<br>喜欢恶作剧。兴趣是观察人类<br>和夜间散步。将信赖之人以外的存在<br>都视作玩具。兼具热情与冷酷的性格<br>可以说与主人十分相似。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>优雅计谋</span>
+			</dt>
+			<dd>
+				<div>
+					10秒内对前方的敌人造成暗属性伤害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【暗】狡黠妙计Ⅴ</span></dt><dd><div>装备角色属性为暗时，<br>任务开始时自身获得15次<br>【下一次技能伤害提升180%的增益】。<br>每25次连击自身获得<br>【下一次技能伤害提升180%的增益】。<br>【下一次技能伤害提升180%的增益】<br>最多可积累15次，超出部分不予计算。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【暗】龙化解除时·狡黠妙计Ⅴ</span></dt><dd><div>装备角色属性为暗时，<br>龙化解除时自身获得8次<br>【下一次技能伤害提升180%的增益】。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1602741600; update_time1602647147

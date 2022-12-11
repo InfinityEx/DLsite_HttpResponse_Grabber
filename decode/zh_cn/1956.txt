@@ -1,0 +1,267 @@
+article_id:1956
+category_name:公告
+title_name:传说召唤“PERSONA5 SCRAMBLE 失心之乱 特选 Part1”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1612072800"></span>起，传说召唤&ldquo;PERSONA5 SCRAMBLE 失心之乱 特选 Part1&rdquo;开放！</div><div><br></div><div>期间限定的角色&middot;龙在传说召唤中登场。</div><div>另外，特选对象角色&middot;龙的出现概率提升。</div><div><span style="color: rgb(226, 80, 65);">本次新追加的★5角色&ldquo;JOKER&rdquo;、&ldquo;MONA&rdquo;和★5龙&ldquo;亚森&rdquo;在<span class="local_date" data-local_date="1612591200"></span>起开放的传说召唤&ldquo;PERSONA5 SCRAMBLE 失心之乱 特选 Part2&rdquo;中也将登场，但仅★5龙&ldquo;亚森&rdquo;为传说召唤&ldquo;PERSONA5 SCRAMBLE 失心之乱 特选 Part2&rdquo;的特选对象。</span></div><div><br></div><div>【新登场的期间限定特选对象角色&middot;龙】</div><div>■角色</div><div>★5 JOKER：暗/短剑</div><div>★5 MONA：风/剑</div><div><br></div><div>■龙</div><div>★5 亚森：暗</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※&ldquo;龙辉之印&rdquo;仅可用于其获得时的召唤。传说召唤&ldquo;PERSONA5 SCRAMBLE 失心之乱 特选 Part1&rdquo;中获得的&ldquo;龙辉之印&rdquo;无法用于传说召唤&ldquo;PERSONA5 SCRAMBLE 失心之乱 特选 Part2&rdquo;。</span></div><div><br></div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1612072800"></span> ～ <span class="local_date" data-local_date="1612591199"></span></div><div><br></div><div>特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a5ac276fd084534d4d56bb559142318f.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>757</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>501</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>被卷入东京精神失控事件的高三学生。<br>以此事件为契机觉醒了人格面具的能力，<br>与伙伴们组成“心之怪盗团”，<br>矫正堕落的大人们扭曲的内心使其悔改，<br>并因此解决了巨大阴谋之下的事件。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6d8d8fde4a3346581a1d93ab4d70499d2.png"></span>
+				<span>标记射击</span>
+			</dt>
+			<dd><div>【通常状态时】<br>对前方的敌人造成伤害。<br>此技能命中时，自身召唤槽上升。<br>【召唤亚森期间】<br>对前方的敌人造成伤害。</div><div class="skill-detail">
+
+威力：354 × 7 Hit<br>所需SP：3,120<br>召唤槽回复量:300<br><br>
+
+（亚森现身时）<br>威力：354 × 7 Hit<br>威力：750 × 1 Hit<br>所需SP：3,120<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9bf3fe22f62e503eadabcd3cbb53adcc2.png"></span>
+				<span>幻影射击</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>【通常状态时】<br>对前方的敌人造成伤害，<br>使其攻击力下降。<br>此效果不可叠加。<br>此技能命中时，自身召唤槽上升。<br>【召唤亚森期间】<br>对目标和目标周围的敌人造成伤害，<br>使其攻击力下降。<br>此效果不可叠加。</div><div class="skill-detail">
+
+威力：448 × 4 Hit<br>威力：312 × 3 Hit<br>所需SP：5,450<br>所需共享SP：9,537<br>召唤槽回复量:300<br>特殊效果<br>·攻击力下降15%<br>　效果时间：20 秒<br>　不可叠加<br><br>
+
+（亚森现身时）<br>威力：3,030 × 1 Hit<br>所需SP：5,450<br>特殊效果<br>·攻击力下降20%<br>　效果时间：20 秒<br>　不可叠加<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cc3f28b7bfce6dfc1ea65f36822cae7f2.png"></span>
+				<span>速度強化＋7%</span>
+			</dt>
+			<dd>
+				<div>
+					全队攻击速度提升7%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span>
+				<span>祝福抗性Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗<br>且连击达到10次以上时获得<br>【光属性抗性提升10%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/60df48c9c73687a9a506bb178e23e1582.png"></span><span>反抗意志Ⅱ</span></dt><dd><div>·部分攻击获得“咒怨”属性，<br>龙化按钮变为亚森召唤按钮。<br>召唤亚森期间，角色攻击时亚森将进行追加攻击。<br>·爆发攻击变为开枪射击，并可蓄力2段。<br>蓄力2段的爆发攻击命中后，<br>解除敌人1个增益并提升自身召唤槽。<br>·防御力提升6%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>黑暗抗性＋100%</span></dt><dd><div>进入“黑暗”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>30连击斗志提升</span></dt><dd><div>每30次连击提升1阶段【斗志】。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/12784d71a31af5aa1e3749652ebcf107.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>755</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>504</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>会说人话的黑猫（？）困于异境之时<br>被JOKER所救，从此跟随JOKER行动。<br>拥有丰富的异境知识，<br>在怪盗团里担任引导者的角色，<br>同时也是吉祥物般的存在。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/392285144c0d61e839e121ec4c7aa99d2.png"></span>
+				<span>摩尔加纳汽车</span>
+			</dt>
+			<dd><div>【通常状态时】<br>对前方的敌人造成伤害。<br>此技能命中时，自身召唤槽上升。<br>攻击时可控制方向。<br>【召唤苏洛期间】<br>对前方的敌人造成伤害。<br>此技能更易暴击。<br>偶尔可发动更强大的技能。</div><div class="skill-detail">
+
+威力：225 × 10 Hit<br>所需SP：2,715<br>召唤槽回复量：300<br><br>
+
+（苏洛现身时）<br>威力：825 × 3 Hit<br>所需SP：2,715<br>此技能暴击率 + 30%<br><br>（苏洛现身时偶尔发生变化）<br>威力：500 × 5 Hit<br>所需SP：2,715<br>此技能暴击率 + 50%</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>招财猫</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>【通常状态时】<br>对周围的敌人造成伤害。<br>攻击时吸引敌人。<br>此技能命中时，自身召唤槽上升。<br>【召唤苏洛期间】<br>对目标和目标周围的敌人造成伤害。<br>攻击时吸引敌人。</div><div class="skill-detail">
+
+威力：600 × 4 Hit<br>所需SP：5,450<br>所需共享SP：8,447<br>召唤槽回复量：300<br><br>
+
+（苏洛现身时）<br>威力：600 × 5 Hit<br>所需SP：5,450</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/65863989132db80658f5d919573c14e92.png"></span>
+				<span>疾风强化＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队风属性攻击造成的伤害提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>高傲怪杰Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为风<br>且连击达到10次以上时获得<br>【水属性抗性提升10%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/de68dfd8e782062e4dfdec817bb1418e2.png"></span><span>黑猫向导Ⅱ</span></dt><dd><div>·部分攻击获得“疾风”属性，<br>龙化按钮变为苏洛召唤按钮。<br>召唤苏洛期间，角色攻击时苏洛将进行追加攻击并可回复全队HP。<br>·爆发攻击变为发射弹弓。<br>发动爆发攻击时30秒内自身获得【兽之眼】增益。<br>此效果期间召唤槽上升量提升20%。<br>【兽之眼】将在召唤苏洛时解除，<br>召唤苏洛期间无法获得【兽之眼】。<br>·通常状态时，普通攻击和爆发攻击可为召唤槽充能。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>冰冻抗性＋100%</span></dt><dd><div>进入“冰冻”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>暴击伤害＋20%</span></dt><dd><div>暴击伤害倍率提升20%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/65028678f867c9d0827bfb65690821b0.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>JOKER的人格面具——“亚森”。<br>有着如面具般的样貌<br>和巨大的漆黑双翼。<br>那面具之下究竟隐藏着何种力量，<br>而“亚森”又有什么样的秘密？</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2719fe27911749dfccf7afb09adc17d52.png"></span>
+				<span>摩诃影牙</span>
+			</dt>
+			<dd><div>对目标和目标周围的敌人造成伤害。</div><div class="skill-detail">
+
+威力：2,540 × 1 Hit<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>攻击诀窍＋90%</span></dt><dd><div>装备角色攻击技能造成的伤害提升90%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>高级咒怨强化＋90%</span></dt><dd><div>装备角色属性为暗时，<br>攻击技能造成的伤害提升90%。<br>装备角色的攻击获得咒怨属性。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>■关于&ldquo;亚森&rdquo;</div><div>龙&ldquo;亚森&rdquo;缔结契约后即为最大信赖度状态。</div><div>&ldquo;亚森&rdquo;的龙剧情将在缔结契约时解锁，阅读前篇&middot;后篇后可获得与在&ldquo;龙之庭院&rdquo;中送礼时获得的&ldquo;来自龙的回礼&rdquo;同等的报酬。</div><div>※龙剧情后篇可在阅读前篇后解锁。</div><div>※&ldquo;圣城&rdquo;的&ldquo;龙之庭院&rdquo;龙一览中将不显示也无法选择&ldquo;亚森&rdquo;。</div><div>※与&ldquo;亚森&rdquo;缔结契约无法完成&ldquo;王子育成训练&rdquo;中的目标&ldquo;将龙的信赖度提升至10吧&rdquo;和&ldquo;将龙的信赖度提升至30吧&rdquo;。</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1612072800; update_time1611733800

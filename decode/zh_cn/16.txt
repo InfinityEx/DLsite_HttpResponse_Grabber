@@ -1,0 +1,8 @@
+article_id:16
+category_name:公告
+title_name:首次活动纪念奖励！
+image_path:
+
+message:<div>感谢各位玩家一直以来对游戏的支持。</div><div><br></div><div>《Dragalia Lost ～失落的龙约～》首次活动&ldquo;忠龙之愿王之魂葬&rdquo;已于<span class="local_date" data-local_date="1538632800"></span>开始。</div><div>为纪念游戏首次活动，已向玩家发放以下道具。</div><div>希望能为您在&ldquo;忠龙之愿王之魂葬&rdquo;中的冒险提供帮助。</div><div><br></div><div>■奖励内容</div><div>&middot;10连召唤券 1张</div><div>&middot;高级蜂蜜 3个</div><div>&middot;灵鸟之圣灰 6个</div><div><br></div><div>■奖励对象</div><div><span class="local_date" data-local_date="1539583199"></span>前进行游戏的玩家</div><div><br></div><div>■领取方法</div><div>可在&ldquo;主页&rdquo;的&ldquo;礼物箱&rdquo;领取。</div><div>如未收到奖励，请返回主界面后再次查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1538632800; update_time1540519212

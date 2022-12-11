@@ -1,0 +1,8 @@
+article_id:102
+category_name:公告
+title_name:关于11/21(周三)发生的iOS版无法使用付费功能购买道具的异常现象
+image_path:
+
+message:<div>目前已确认2018/11/21(周三) 09:20（UTC+8）左右，iOS版发生了无法使用付费功能购买道具的异常现象。</div><div>App Store也出现了问题。</div><div><br></div><div>本异常现象的最新进展将第一时间更新在本公告中，请耐心等待。</div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>2018/11/21 10:35（UTC+8） 追记</strong></span></div><div>目前已确认异常现象已得到解决。如购买时遇到问题，请重启游戏。</div>
+
+start_time:1542764400; update_time1542860307

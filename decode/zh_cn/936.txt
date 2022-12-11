@@ -1,0 +1,8 @@
+article_id:936
+category_name:公告
+title_name:“星龙祭登录奖励”活动开始！【更新】
+image_path:https://dragalialost.akamaized.net/attached/information/images/05eebca049321975db471b80a1f5e8ff.png
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1576240440"></span>追记】</strong></span><br><span class="local_date" data-local_date="1576130400"></span> ～ <span class="local_date" data-local_date="1576219500"></span>期间，部分图片中的&ldquo;活动期间&rdquo;误显示为日语，现已进行修正。</div><div><br></div><div>对于给各位玩家带来的困惑和不便，我们深表歉意。</div><hr><div><span class="local_date" data-local_date="1576130400"></span>起，&ldquo;星龙祭登录奖励&rdquo;活动开始！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/05eebca049321975db471b80a1f5e8ff.png"></div><div><br></div><div>活动期间登录游戏即可获得以下豪华奖励！</div><div><br></div><div>■登录奖励内容</div><div>第1天：已上限解锁的★4武器&ldquo;圣愿之刃（短剑）&rdquo; 1把</div><div>第2天：星龙祭烤鸡 3只</div><div>第3天：表情（锵锵♪） 1个</div><div>第4天：龙辉晶 300个</div><div>第5天：龙辉晶 300个</div><div>第6天：10连召唤券 1张</div><div>第7天：星龙祭烤鸡 3只</div><div>第8天：龙辉晶 300个</div><div>第9天：龙辉晶 300个</div><div>第10天：圣星使者的礼物 1个</div><div><br></div><div><br></div><div>■活动期间</div><div><span class="local_date" data-local_date="1576130400"></span> ～ <span class="local_date" data-local_date="1577339999"></span></div><div><br></div><div>■注意事项</div><div>1. 登录奖励将在每日14:00后登录游戏时发放至礼物箱。</div><div>2. 发放至礼物箱的登录奖励有领取期限。</div><div>3.获得的表情将直接追加至表情一览。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div>
+
+start_time:1576130400; update_time1576457026

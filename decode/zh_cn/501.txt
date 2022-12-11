@@ -1,0 +1,167 @@
+article_id:501
+category_name:公告
+title_name:“龙传说召唤”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1559973600"></span>起，&ldquo;龙传说召唤&rdquo;开放！</div><div><br></div><div>特选对象的★5和★4龙的出现概率提升。</div><div>※部分★5和★4角色也是特选对象。</div><div><br></div><div>【龙传说召唤的出现概率】</div><div>★5特选 合计：2.00%（角色：0.50%　龙：1.50%）</div><div>★5通常 合计：2.00%（角色：0.75%　龙：1.25%）</div><div>★4特选 合计：7.00%（角色：1.75%　龙：5.25%）</div><div>★4通常 合计：9.00%（角色：5.05%　龙：3.95%）</div><div>★3通常 合计：80.00%（角色：48.00%　龙：32.00%）</div><div><br></div><div>【龙传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1559973600"></span> ～ <span class="local_date" data-local_date="1561010340"></span></div><div><br></div><div>部分特选对象的龙详情如下：</div><div><br></div><div>【特选龙介绍】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1106fd36aa21dc3e181dea67a0237075.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>看似是可爱的熊猫，却是货真价实的龙。<br>师从麒麟族武术家，<br>武艺高强、身手敏捷的熊猫……咳，的龙。<br>育有一子，名为毛毛，<br>总是放心不下他的爱子。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>仙气咆哮波</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成风属性伤害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【风】攻击力&会心威力提升Ⅱ</span></dt><dd><div>装备角色属性为风时，<br>角色的攻击力提升45%，暴击伤害倍率提升55%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2e5c900615adc4ed73480f831df7796b.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>继承了原初之火的强大火龙。<br>其信条是“保护弱者是强者的义务”，<br>但那份过于强大的力量<br>曾伤害了本应保护的人们，<br>那之后便与人类保持距离。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>普罗米修斯之火</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成火属性伤害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/916d0547dd866ff9333344c772c14d732.png"></span><span>【火】攻击&风抗性提升Ⅱ</span></dt><dd><div>装备角色属性为火时，<br>角色的攻击力提升50%，风属性抗性提升15%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>&nbsp;<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/0396335232a0c7d8530c93e061434ec1.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>被誉为王中之王的龙。<br>相传曾按自己的喜好重塑世间万物，<br>这番伟业至今仍作为传说<br>在大陆各地为人所传颂。<br>他的荣光之下绝不容许阴霾存在。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>霸王剑</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成光属性伤害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/916d0547dd866ff9333344c772c14d732.png"></span><span>【光】攻击&暗抗性提升Ⅱ</span></dt><dd><div>装备角色属性为光时，<br>角色的攻击力提升50%，暗属性抗性提升15%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>其它特选对象角色&middot;龙如下：</div><div>角色：★5洛依泽、★4苦海</div><div>龙：★4沃格尔、★4沃加诺伊、★4林德巴鲁姆</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其他特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;或&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1559973600; update_time1560224909

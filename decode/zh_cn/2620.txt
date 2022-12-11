@@ -1,0 +1,8 @@
+article_id:2620
+category_name:活动
+title_name:退敌活动“爱如流星”预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/521cf8cf8859aaf2150cddd4a20ce475.png
+
+message:<div>退敌活动&ldquo;爱如流星&rdquo;预计将于<span class="local_date" data-local_date="1638165600"></span>开始。</div><div><br></div><div>&ldquo;爱如流星&rdquo;是在规定时间内打倒尽可能多的敌人赚取分数的期间限定活动！</div><div>本活动中可获得龙辉护符和武器皮肤等豪华奖励，敬请参与！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/521cf8cf8859aaf2150cddd4a20ce475.png"></div><div><br></div><div>■活动概要</div><div>活动&ldquo;爱如流星&rdquo;中可通过挑战各种任务获得龙辉护符和素材道具。</div><div><br></div><div>&ldquo;退敌任务&rdquo;中将有大量敌人袭来，越接近尾声，袭来的敌人数量越多。</div><div>打倒尽可能多的敌人，一扫敌军的威胁吧！</div><div><br></div><div>■随机匹配</div><div>多人模式匹配系统。</div><div>无需创建房间或加入房间，选择任务难度与队伍编成即可自动匹配队友并迅速开始任务。</div><div><br></div><div>&ldquo;退敌任务&rdquo;的&ldquo;中级&rdquo;和&ldquo;高级&rdquo;难度可使用随机匹配。</div><div><br></div><div>■退敌任务</div><div>在规定时间内打倒尽可能多的敌人的任务，分为单人模式和多人模式两种。</div><div>不断袭来的敌人将考验走位技巧和技能、龙化的使用时机。</div><div><br></div><div>退敌任务中登场的敌人与普通的敌人特点不同。</div><div>本次活动中登场的敌人对近距离攻击的抗性较高。</div><div><br></div><div>任务中无失败条件，在规定时间内打倒尽可能多的敌人吧。</div><div>打倒的敌人数量将决定可获得的报酬量。</div><div><br></div><div>■报酬任务</div><div>使用通过日常目标报酬获得的&ldquo;挑战券&rdquo;可挑战的单人模式限定任务。</div><div>任务中仅会出现高分敌人。</div><div><br></div><div>■注意事项</div><div>1. 参加活动任务需通关主线剧情第2章2-1(Normal)。</div><div>2. 参加多人模式需通关主线剧情第2章2-1(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1637906400; update_time1636968257

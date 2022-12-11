@@ -1,0 +1,8 @@
+article_id:1900
+category_name:公告
+title_name:《女神异闻录5 乱战 魅影攻手》联动活动预告
+image_path:
+
+message:<div>YouTube Live上已于<span class="local_date" data-local_date="1610114400"></span>左右公布，《女神异闻录5 乱战 魅影攻手》联动活动将于1月下旬开放！</div><div><br></div><div>本活动中来自《女神异闻录5 乱战 魅影攻手》的&ldquo;JOKER&rdquo;等角色将在活动和召唤中登场。</div><div>角色&ldquo;JOKER&rdquo;在战斗中积攒龙化槽后可唤出&ldquo;亚森&rdquo;共同作战。</div><div>其奔跑动作、短刀刀法以及用铳进行的攻击都忠实地还原了原作。</div><div>通过推进活动任务或召唤还可让&ldquo;心之怪盗团&rdquo;的其他成员成为伙伴。</div><div><br></div><div>本活动为团队活动，讲述&ldquo;JOKER&rdquo;一行与圣城的伙伴们一同解决《Dragalia Lost ～失落的龙约～》世界中出现的异象的故事。</div><div>活动中更有还原原作的各种动画效果。</div><div><br></div><div>《女神异闻录5 乱战 魅影攻手》联动活动详情预计将通过游戏内和官方网站公告发布。</div><div><br></div><div>YouTube Live归档播放地址如下：</div><div><br></div><div>▼归档播放地址</div><div><a href="https://youtu.be/T4sCwCubDa8">https://youtu.be/T4sCwCubDa8</a></div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1610115300; update_time1610087152

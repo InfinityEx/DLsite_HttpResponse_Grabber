@@ -1,0 +1,8 @@
+article_id:36
+category_name:公告
+title_name:“轻松龙约”第20话更新
+image_path:
+
+message:<div>4格漫画&ldquo;轻松龙约&rdquo;第20话现已更新。</div><div>玩家可按以下步骤阅读&ldquo;轻松龙约&rdquo;。</div><div><br></div><div>1. 点击游戏内画面下方的&ldquo;菜单&rdquo;。</div><div><br></div><div>2. 点击4格漫画&ldquo;轻松龙约&rdquo;即可阅读。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1540188000; update_time1540361455

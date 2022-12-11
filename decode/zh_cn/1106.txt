@@ -1,0 +1,8 @@
+article_id:1106
+category_name:活动
+title_name:设施活动“盛宴！美食梦之味”预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/faf0e067de311f1be07dad429403b918.png
+
+message:<div>设施活动&ldquo;盛宴！美食梦之味&rdquo;预计将于<span class="local_date" data-local_date="1582869600"></span>开始。</div><div>本活动可挑战火属性的BOSS，获得活动限定的报酬设施。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/faf0e067de311f1be07dad429403b918.png"></div><div>角逐世界第一厨师的大赛&ldquo;美食梦之味&rdquo;。</div><div>技艺超群的厨师们与期盼绝美佳肴的观众齐聚于此。</div><div>更有贪吃龙&hellip;&hellip;甚至还有会动的蔬菜！？</div><div>性格迥异的人们欢聚一堂，共同开启一场美食的盛宴！</div><div><br></div><div>■活动期间</div><div><span class="local_date" data-local_date="1582869600"></span> ～ <span class="local_date" data-local_date="1583992799"></span></div><div><br></div><div>■注意事项</div><div>1. 参加活动任务需通关主线剧情第2章 2-1(Normal)。</div><div>2. 参加多人模式需通关主线剧情第2章 2-1(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div>
+
+start_time:1582696800; update_time1582253280

@@ -1,0 +1,8 @@
+article_id:771
+category_name:公告
+title_name:伴随日本消费税法改订进行的“龙钻”价格调整
+image_path:
+
+message:<div>非常感谢各位玩家一直以来对《Dragalia Lost ～失落的龙约～》的大力支持。</div><div><br></div><div>因日本消费税法改订后2019年10月1日起消费税率变更，我们将对所有日本应用商店中出售的&ldquo;龙钻&rdquo;价格进行调整。</div><div><br></div><div>具体调整日期等详情确定后将第一时间发布公告。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1569558600; update_time1569561685

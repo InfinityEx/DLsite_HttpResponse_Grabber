@@ -1,0 +1,8 @@
+article_id:1127
+category_name:公告
+title_name:关于多人模式中网络连接不稳定的现象
+image_path:
+
+message:<div>以下期间多人模式中出现了网络连接不稳定的现象。</div><div>&nbsp;</div><div>■异常现象出现期间</div><div><span class="local_date" data-local_date="1583231400"></span>左右 ～<span class="local_date" data-local_date="1583244000"></span>左右</div><div><br></div><div>目前玩家已可正常游戏。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div>&nbsp;</div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1583314200; update_time1583459770

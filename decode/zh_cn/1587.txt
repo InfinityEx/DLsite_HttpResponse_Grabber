@@ -1,0 +1,170 @@
+article_id:1587
+category_name:公告
+title_name:“龙传说召唤”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1600668000"></span>起，&ldquo;龙传说召唤&rdquo;开放！</div><div><br></div><div>特选对象★5和★4龙的出现概率提升。</div><div><br></div><div>【龙传说召唤的出现概率】</div><div>★5特选 合计：2.40%（角色：0% 龙：2.40%）</div><div>★5通常 合计：1.60%（角色：0.75% 龙：0.85%）</div><div>★4特选 合计：7.00%（角色：0% 龙：7.00%）</div><div>★4通常 合计：9.00%（角色：5.05% 龙：3.95%）</div><div>★3通常 合计：80.00%（角色：48.00% 龙：32.00%）</div><div><br></div><div>【龙传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1600668000"></span> ～ <span class="local_date" data-local_date="1601186399"></span></div><div><br></div><div>特选对象龙详情如下：</div><div><br></div><div>【特选龙介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/529e5839d479d337626ae7ef76790ae8.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,096</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>陪伴建国之王阿尔贝琉斯直至最后的<br>传说中的六龙之一，被称为冥龙。<br>一度战败徘徊于死亡的深渊，<br>但为完成王的遗愿，阻止复活的<br>魔神的野心而再次振翅高飞。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>恒久伤痛</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人造成暗属性伤害，<br>使其进入“中毒”状态。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【暗】攻击&龙之恩赐Ⅴ</span></dt><dd><div>装备角色属性为暗时，<br>角色的攻击力提升55%，<br>龙化时自身获得【任务中攻击力提升10%的增益】。<br>此效果每回任务最多发动2次。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/fe90174ae44fbc655aebfd11acf6e30d.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,095</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>隶属于以北格拉斯迪亚大陆为中心<br>活动的武装龙集团“普劳达”的<br>空军镇压部队。清廉高洁重礼节，<br>反对横亘在人龙之间的陈腐规矩，<br>立志开辟人龙并肩战斗的道路。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>破阻之斩</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成风属性伤害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【风】攻击力＋50%</span></dt><dd><div>装备角色属性为风时，<br>角色的攻击力提升50%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>【风】勇猛果敢·攻盾Ⅱ</span></dt><dd><div>装备角色属性为风时，<br>每15秒未被攻击击退，自身获得<br>【使HP最大值40%以下的伤害无效的特殊护盾】。<br>护盾仅生效1次，且可与普通护盾叠加。<br>此护盾存在时攻击力提升30%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/28d811f9bc8daf6bcf25228805b49ddd.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,095</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>守护南方大陆河川的龙。<br>幼龙成年后身形会发生巨大变化。<br>平时性格友善，但若人类在幼龙眼前<br>触犯禁忌，其便会变出满怀恶意的分身，<br>灾难也会随之降临。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>净化波涛</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成水属性伤害。<br>此技能随斯堤克斯普通攻击获得的<br>【冥河之魂】数量得到强化。<br>【冥河之魂】最多可叠加至3层，<br>龙化解除或使用技能时全部解除。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【水】时间经过技能伤害Ⅴ</span></dt><dd><div>装备角色属性为水时，<br>每15秒自身获得<br>【下一次技能伤害提升50%的增益】。<br>此增益最多可叠加至4层，<br>使用攻击技能后全部解除。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>其他特选对象龙如下：</div><div>★4龙：沃加诺伊、沃格尔、札格纳特</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1600668000; update_time1600239903

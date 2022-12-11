@@ -1,0 +1,8 @@
+article_id:82
+category_name:公告
+title_name:关于购买付费道具失败的调查状况【追记】
+image_path:
+
+message:<div>关于购买付费道具失败的现象，长期以来给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>经过调查,我们正在与平台提供方进行沟通与协调，将尽快修正该现象。</div><div>目前，我们预计将于11月份的版本升级中改善本现象。</div><div><br></div><div>对于部分玩家仍然可能购买失败的问题，我们将继续调查原因并进行修正。</div><div>付费道具可正常购买后，将再次进行告知。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1542198000"></span> 追记</strong></span><br>购买付费道具失败的异常现象已于版本1.1.5中修正完毕。<br>对于给各位玩家造成的困扰和不便，我们深表歉意。<br><br>出现本异常现象的玩家可按以下步骤正常进行购买。<br>1. 点击购买龙钻或特殊礼包页面下方的&quot;结束购买&quot;。<br>如提示以下信息，请点击&quot;关闭&quot;。<br>&quot;已再次处理购买请求。※如有中断的购买请求，将会完成购买。&quot;<br>2. 关闭游戏后重启游戏即可正常购买龙钻和商店中的付费道具。<br><br>对于给各位玩家造成的困扰和不便，我们再次深表歉意。<br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1541655600; update_time1542198044

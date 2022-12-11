@@ -1,0 +1,8 @@
+article_id:707
+category_name:公告
+title_name:主线剧情追加第10章《魔神再临》！
+image_path:https://dragalialost.akamaized.net/attached/information/images/45efdfde8dd1fcb0d1b63246d5a5a72b.png
+
+message:<div>主线剧情预计将于<span class="local_date" data-local_date="1568268000"></span>起追加第10章《魔神再临》！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/45efdfde8dd1fcb0d1b63246d5a5a72b.png"><br></div><div>敬请期待最新的主线剧情！<br>&nbsp;</div><div>■注意事项</div><div>主线剧情第10章《魔神再临》可在通关第9章 5-5&ldquo;Shall We Dance？&rdquo;后解锁。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1568181600; update_time1569476737

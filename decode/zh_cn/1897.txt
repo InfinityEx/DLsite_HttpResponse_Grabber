@@ -1,0 +1,8 @@
+article_id:1897
+category_name:活动
+title_name:活动“竞技场～新年赐福！竞技大比拼～”预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/3545f973ee347bad9de96e892e63eb7b.png
+
+message:<div>活动&ldquo;竞技场～新年赐福！竞技大比拼～&rdquo;预计将于<span class="local_date" data-local_date="1610517600"></span>开始。</div><div><br></div><div>&ldquo;竞技场～新年赐福！竞技大比拼～&rdquo;是在竞技大赛中争夺冠军的活动！</div><div>本活动中可获得用于解锁共享技能的道具和体力回复道具等报酬，敬请参与！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/3545f973ee347bad9de96e892e63eb7b.png"></div><div><br></div><div>今年的元旦来一场竞技大比拼吧！</div><div>新年伊始，解决了麻烦事的晴明</div><div>宣布将开展庆贺元旦的竞技大赛。</div><div>跃跃欲试前来参加的选手中</div><div>竟有令人怀念的老面孔与神秘人物！？</div><div>大赛一片混战之中，卢卡和埃尔菲莉丝</div><div>各自不可让步的信念将发生激烈碰撞！</div><div><br></div><div>■注意事项</div><div>参加活动任务需通关主线剧情第2章 2-1(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1610258400; update_time1609742547

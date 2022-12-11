@@ -1,0 +1,170 @@
+article_id:1445
+category_name:公告
+title_name:“龙传说召唤”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1595052000"></span>起，&ldquo;龙传说召唤&rdquo;开放！</div><div><br></div><div>特选对象★5和★4龙的出现概率提升。</div><div><br></div><div>【龙传说召唤的出现概率】</div><div>★5特选 合计：2.40%（角色：0% 龙：2.40%）</div><div>★5通常 合计：1.60%（角色：0.75% 龙：0.85%）</div><div>★4特选 合计：7.00%（角色：0% 龙：7.00%）</div><div>★4通常 合计：9.00%（角色：5.05% 龙：3.95%）</div><div>★3通常 合计：80.00%（角色：48.00% 龙：32.00%）</div><div><br></div><div>【龙传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1595052000"></span> ～ <span class="local_date" data-local_date="1596088740"></span></div><div><br></div><div>特选对象龙详情如下：</div><div><br></div><div>【特选龙介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c28dd6b359796f5828b21768c043907b.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,096</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>被伊莉雅教抹去存在的龙。<br>曾担任向巫女传达伊莉雅话语的职责，<br>但因违反了秩序而遭到封印。<br>封印解除后为了让世人了解<br>“教会的真相”而一直在暗地里活动。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>无情厄运</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成暗属性伤害，<br>使其进入“中毒”状态。<br>40秒内使全队获得对“中毒”状态的敌人<br>造成的伤害提升15%的效果。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【暗】HP＋30%</span></dt><dd><div>装备角色属性为暗时<br>HP提升30%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【暗】技能增强＋35%</span></dt><dd><div>装备角色属性为暗时，<br>技能槽上升率提升35%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/55b6044f296f2653f59e151bd80b3975.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,095</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>喜欢可爱而梦幻之物的龙。<br>擅长修理武器，<br>与妹妹克雷纽形影不离。<br>交给她的武器<br>都会变得可爱又梦幻！</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>跳跳跳舞！</span>
+			</dt>
+			<dd>
+				<div>
+					10秒内在地面设置【技能槽持续上升增益区域】。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【水】攻击力＋45%</span></dt><dd><div>装备角色属性为水时，<br>角色的攻击力提升45%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【水】技能回流Ⅱ</span></dt><dd><div>装备角色属性为水时，<br>使用技能时回复该技能35%的技能槽。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2c42868832ed6a0184e634bcf1d29457.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>375</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,095</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>掌管爱与丰饶的美丽之龙。<br>只需轻轻一挥由巨树编成的法杖，<br>便能给大地带来恩泽。<br>深受世间万物爱戴，亦随性地爱着万物。<br>饲养着两只猫作为使魔，对它们疼爱有加。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>生命之息</span>
+			</dt>
+			<dd>
+				<div>
+					回复所有同伴的HP，并持续回复20秒。<br>使全队进入【超强斗志】状态。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【风】HP＋30%</span></dt><dd><div>装备角色属性为风时<br>HP提升30%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【风】技能增强＋35%</span></dt><dd><div>装备角色属性为风时，<br>技能槽上升率提升35%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>其他特选对象龙如下：</div><div>★4龙：沃加诺伊、斯特利伯格、希露姬</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1595052000; update_time1595915879

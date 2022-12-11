@@ -1,0 +1,169 @@
+article_id:1841
+category_name:公告
+title_name:马萝拉(星龙祭Ver.)再次登场！传说召唤“爱雪纷飞星龙祭”再次开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1608271200"></span>起，传说召唤&ldquo;爱雪纷飞星龙祭&rdquo;再次开放！</div><div><br></div><div>期间限定的角色&middot;龙在传说召唤中再次登场。</div><div>另外，特选对象角色&middot;龙的出现概率提升。</div><div><br></div><div>【再次登场的期间限定特选对象角色&middot;龙】</div><div>■角色</div><div>★5 马萝拉(星龙祭Ver.)：光/斧</div><div>★5 库菈乌(星龙祭Ver.)：水/短剑</div><div>★4 扎因弗拉德(星龙祭Ver.)：风/魔杖</div><div>★4 奈法利耶(星龙祭Ver.)：水/弓</div><div>★4 阿莱克西斯(星龙祭Ver.)：水/魔杖</div><div><br></div><div>■龙</div><div>★5 贞德（星龙祭Ver.）：水</div><div><br></div><div>【特选对象龙】</div><div>■龙</div><div>★5 神圣菲尼克斯：光</div><div>★4 林德巴鲁姆：光</div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1608271200"></span> ～ <span class="local_date" data-local_date="1609135199"></span></div><div><br></div><div>部分再次登场的期间限定特选对象角色和特选对象龙详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a5251c1b5cc67c900ec767067041a7d7.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>747</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>515</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,502</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>魅惑的狙击手华丽变身！<br>于流星之夜变身为星龙祭的圣人降临！<br>用甜言蜜语诱惑并惩罚坏男人，<br>夺回被夺走的纯爱。<br>其名为——圣星爱使·马萝拉！</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/eedeb82f382c79ce1e8e580efaa403f92.png"></span>
+				<span>圣星爱使的礼物♪</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成光属性伤害，<br>15秒内使暗属性敌人防御力下降15%。<br>此防御力下降效果不可叠加。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>冬日的危险游戏！</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成光属性伤害，<br>对“防御力下降”状态的敌人造成的伤害提升。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防御力＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队防御力提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【光】麻痹：麻痹触发·攻＋13%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为光<br>且使敌人进入麻痹状态时获得<br>【15秒内攻击力提升13%的增益】。<br>此效果发动后10秒内不会再次发动。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/561f0cc02896bcc3c7580180041730282.png"></span><span>OVERDRIVE特效＋13%</span></dt><dd><div>对OVERDRIVE的敌人造成的伤害提升13%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>诅咒抗性＋100%</span></dt><dd><div>进入“诅咒”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>防御力下降触发·盾Ⅱ</span></dt><dd><div>使敌人进入“防御力下降”状态时，<br>自身获得【使HP最大值20%以下的伤害无效的护盾】。<br>护盾仅生效1次，且不可与同种护盾叠加。<br>此效果发动后5秒内不会再次发动。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8bc9a414f15cb3cdc443e2f394ad6b5c.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>菲尼克斯种群中司掌“再生”的龙。<br>平时充满活力且认真可靠，<br>可一旦松懈便会捅娄子或撒娇。<br>有人根据其外观推测其为<br>伊莉雅教象征“圣鸟”的原型，真假未知。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>再生之火</span>
+			</dt>
+			<dd>
+				<div>
+					对周围的敌人造成光属性伤害，<br>使其进入“麻痹”状态。<br>解除同伴的“诅咒”和“中毒”状态。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻击力＋50%</span></dt><dd><div>装备角色属性为光时，<br>角色的攻击力提升50%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28cbbe44c3b9fd009706ad48a7e4e0f52.png"></span><span>【光】麻痹特效＋20%</span></dt><dd><div>装备角色属性为光时，<br>对进入“麻痹”状态的敌人造成的伤害提升20%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1608271200; update_time1608186857

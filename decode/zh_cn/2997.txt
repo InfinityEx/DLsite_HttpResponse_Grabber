@@ -1,0 +1,8 @@
+article_id:2997
+category_name:公告
+title_name:商店中的道具可交换个数已更新！
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1662105600"></span>追记】</strong></span></div><div>本公告中记载了部分无法购买的道具，现已删除相关内容。</div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><hr><div>商店中的道具可交换次数已于<span class="local_date" data-local_date="1662012000"></span>更新！<br>已达到可交换个数上限的玩家现可重新交换。<br><br><strong>■星魂解放团队战交换所</strong><br>通关星魂解放团队战获得的星魂石可在交换所交换各种各样的道具。<br>星魂解放团队战交换所可在主页&ldquo;商店&rdquo;点击&ldquo;交换所&rdquo;进入&ldquo;星魂解放团队战&rdquo;查看。<br>※可点击星魂解放团队战的放大镜图标，通过任务详情页面中显示的掉落报酬栏查看可获得星魂石的任务。<br><strong><br>■虚空之影交换所</strong><br>讨伐虚空之影获得的素材道具可在交换所交换各种各样的道具。<br>虚空之影讨伐战交换所可在主页&ldquo;商店&rdquo;点击&ldquo;交换所&rdquo;进入&ldquo;虚空之影讨伐战&rdquo;查看。<br>※部分报酬的可交换次数将不会重置。<br><br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1662012000; update_time1662108301

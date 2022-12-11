@@ -1,0 +1,8 @@
+article_id:426
+category_name:重要事项
+title_name:关于召唤所需龙钻及龙辉晶的数量调整【追记】
+image_path:
+
+message:<div>感谢各位玩家一直以来对游戏的大力支持。</div><div><br></div><div>为提升各位玩家在《Dragalia Lost ～失落的龙约～》中的游戏体验，我们认为有必要对召唤作出进一步的调整。</div><div>我们预计将于2019/04/26(周五)的维护结束后，对召唤所需龙钻及龙辉晶的数量进行以下调整：</div><div><br></div><div>■召唤所需龙钻及龙辉晶的数量调整详情</div><div><br></div><div>&bull;1次召唤</div><div>调整前：150个</div><div>调整后：120个</div><div><br></div><div>&bull;10连召唤</div><div>调整前：1500个</div><div>调整后：1200个</div><div><br></div><div>※1次召唤和10连召唤中，所需龙钻及龙辉晶的数量一致。</div><div>※每日1次限定召唤所需龙钻的数量不变。</div><div>※1次召唤券、10连召唤券的召唤次数不变。</div><div>※商店中召唤相关的商品价格不变。</div><div><br></div><div>■调整实施时间</div><div>2019/04/26(周五)维护结束后</div><div><br></div><div>■召唤所需龙钻及龙辉晶的数量调整后追加发放道具</div><div>本次调整后，使用&ldquo;龙钻&rdquo;、&ldquo;龙辉晶&rdquo;及&ldquo;召唤券&rdquo;进行召唤时，每次召唤可获得的觉醒水滴平均期望值将发生变化。</div><div>为此我们将根据玩家在调整前进行召唤的情况追加发放&ldquo;觉醒水滴&rdquo;。</div><div><br></div><div><br></div><div>■对召唤进行调整的补偿/赔礼</div><div>※包括4/12发布的公告《关于召唤相关内容的调整》中提到的内容。</div><div><br></div><div>1. 补偿</div><div><br></div><div>★5：5500个(召唤调整前后觉醒水滴的差值)</div><div>★4：1200个(召唤调整前后觉醒水滴的差值)</div><div>★3：召唤相关内容调整前后使用&ldquo;龙钻&rdquo;、&ldquo;龙辉晶&rdquo;及&ldquo;召唤券&rdquo;通过召唤获得相应&ldquo;觉醒水滴&rdquo;期望值的差值</div><div><br></div><div>2. 赔礼</div><div><br></div><div>&middot;龙辉晶 4500个</div><div>&middot;觉醒水滴 25000个</div><div><br></div><div>■发放时间</div><div>预计将于2019/04/26后依次发放。</div><div>玩家可在&ldquo;礼物箱&rdquo;领取。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1556263800"></span>追记】</strong></span></div><div>因召唤所需龙钻及龙辉晶的数量调整，我们已向对象玩家发放补偿。</div><div>玩家可在&ldquo;礼物箱&rdquo;领取。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1556263800; update_time1556264716

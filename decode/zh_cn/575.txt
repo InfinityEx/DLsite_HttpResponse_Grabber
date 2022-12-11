@@ -1,0 +1,211 @@
+article_id:575
+category_name:公告
+title_name:传说召唤“三姐妹情深！温情满工坊 特选”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1562824800"></span>起，传说召唤&ldquo;三姐妹情深！温情满工坊 特选&rdquo;开放！</div><div><br></div><div>特选对象角色&middot;龙的出现概率提升。</div><div><br></div><div>【新登场的特选对象角色&middot;龙】</div><div>■角色</div><div>★5 罗吉娜：火/斧</div><div>★5 雷吉娜：火/刀</div><div>★4 卢吉娜：水/短剑</div><div><br></div><div>■龙</div><div>★5 阿尔库特斯：火</div><div><br></div><div>※其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1562824800"></span> ～ <span class="local_date" data-local_date="1563861540"></span></div><div><br></div><div>部分新登场的特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选角色介绍】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3d3ca986f30e4fdc8e12a23a4720c2ec.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>742</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>铁匠三姐妹中的次女，<br>负责挥锻锤将武器锻打成型。<br>拥有自由调控火焰温度的能力。<br>责任心很强，对于武器品质决不妥协。<br>继承了伟大父亲的技艺，带领着三姐妹前进。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>锻造冲击</span>
+			</dt>
+			<dd>
+				<div>
+					对周围的敌人造成火属性伤害。<br>此技能发动时点击屏幕<br>可进行相应次数（最多6次）的追击。<br>追击时可控制方向。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8c34fcb89d5a300e55bf63bd264927542.png"></span>
+				<span>铁匠守护</span>
+			</dt>
+			<dd>
+				<div>
+					15秒内全队防御力提升25%。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防御力＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队防御力提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>技能连接·攻＋10%</span></dt><dd><div>自身当前操作角色的技能1可使用时，<br>该角色获得【10秒内攻击力提升10%的增益】。<br>此效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠抗性＋100%</span></dt><dd><div>进入“睡眠”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>防御链·攻＋13%</span></dt><dd><div>获得防御力提升的增益时，<br>发动【15秒内攻击力提升13%的增益】。</div></dd></dl></div></div></div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2a7627c39fc0d8b8ccbc2528e320f586.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/84b1ffb7fd8678c120c0d11a60d38bdd2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>818</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>471</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2529</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>铁匠铺三姐妹的长女，负责为打造好的武器附魔。<br>作为铁匠铺实际上的掌柜，<br>尽管性格悠哉，却以自己的节奏<br>将店铺生意打理得井井有条。<br>她那令人忘却烦恼的治愈系笑容是一大卖点。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>强火锻炉</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成火属性伤害，<br>使其进入“烧伤”状态。<br>命中敌人后将发动【技能升级】，效果依次变化。<br>第1阶段：追加15秒内自身暴击率提升10%的效果。<br>第2阶段：对“烧伤”状态的敌人造成的伤害也同时提升。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>附魔强化</span>
+			</dt>
+			<dd>
+				<div>
+					使技能“强火锻炉”准备就绪，<br>20秒内自身暴击伤害倍率提升50%。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻击力＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队攻击力提升10%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span><span>技能连接·防＋15%</span></dt><dd><div>自身当前操作角色的技能1可使用时，<br>该角色获得【10秒内防御力提升15%的增益】。<br>此效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠抗性＋100%</span></dt><dd><div>进入“睡眠”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>防御链·治愈Ⅳ</span></dt><dd><div>获得防御力提升的增益时，<br>发动【20秒内持续回复HP的增益】。</div></dd></dl></div></div></div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div><br></div><div>【特选龙介绍】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7f3f9e6769423d84dcff956e66fd2668.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>在锻造上有很高造诣的龙。<br>拥有热血的性格，以传授人类锻造技术<br>并加以培养为乐。据说铁匠铺三姐妹的父亲<br>曾拜其为师并习得一身好手艺。<br>据说其为磨炼身心，经常泡在火山岩浆里。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>螺旋式坠龙踢</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成火属性伤害，<br>使其进入“昏迷”状态。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻击力&会心威力提升Ⅱ</span></dt><dd><div>装备角色属性为火时<br>角色的攻击力提升45%，暴击伤害倍率提升55%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1562824800; update_time1562638141

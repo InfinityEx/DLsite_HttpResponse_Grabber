@@ -1,0 +1,8 @@
+article_id:166
+category_name:公告
+title_name:来自圣星使者的礼物！
+image_path:
+
+message:<div><img src="https://dragalialost.akamaized.net/attached/information/images/c21ebf8c756c8d811cb074044d81525f.png"></div><div>星龙祭快乐！</div><div><br></div><div>各位玩家对当前季节活动&ldquo;飘雪之夜的星龙树下&rdquo;还满意吗？</div><div><br></div><div>流星之夜，星龙树下。相互间交换礼物的星龙祭晚宴正在圣城火热进行中。</div><div><br></div><div>圣城的伙伴们装扮成圣星使者，为各位亲爱的玩家带来了礼物！</div><div><br></div><div>■礼物内容</div><div>&middot;1000个龙辉晶</div><div><br></div><div>■对象</div><div><span class="local_date" data-local_date="1545721200"></span>前开始游戏的玩家</div><div><br></div><div><span class="local_date" data-local_date="1546325999"></span>前登陆游戏可领取礼物。</div><div>龙辉晶的领取期限为发送至礼物箱后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1545721200; update_time1545721287

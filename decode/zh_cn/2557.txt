@@ -1,0 +1,8 @@
+article_id:2557
+category_name:公告
+title_name:关于Android设备中无法跳过主界面的异常现象【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1634522400"></span>追记】</strong></span><br><span class="local_date" data-local_date="1634476500"></span> ～ <span class="local_date" data-local_date="1634513220"></span>期间出现的异常现象目前已得到解决。<br><br>我们将依次向<span class="local_date" data-local_date="1634513220"></span>前开始游戏的玩家发放以下道具作为补偿。<br><br>&middot;龙辉晶&times;300<br>&middot;最高级蜂蜜&times;10<br>&middot;灵鸟之圣灰&times;10<br><br>※玩家可在&ldquo;礼物箱&rdquo;领取补偿。<br>※补偿的领取期限为发送至礼物箱后7天内。<br><br>对于给各位玩家造成的困扰和不便，我们再次深表歉意。</div><div><br></div><hr><div>目前已确认<span class="local_date" data-local_date="1634476500"></span>起出现了Android设备启动游戏后会在主界面提示&ldquo;错误码：160&rdquo;并无法前进的异常现象。</div><div>目前我们正在调查上述异常现象发生的原因。</div><div>最新进展将第一时间更新在本公告中。</div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div>
+
+start_time:1634480400; update_time1634536359

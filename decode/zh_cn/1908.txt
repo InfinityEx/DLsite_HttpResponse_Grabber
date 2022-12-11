@@ -1,0 +1,8 @@
+article_id:1908
+category_name:公告
+title_name:阿基德叛乱战“卢弗·托修卡特尔叛乱战 绝级”调整公告【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【2021/01/27 12:10追记】</strong></span><br>我们已向2021/01/27 12:00前开始游戏的玩家发放以下道具作为本次调整的补偿。<br><br>&middot;龙辉晶 600个<br><br>※领取期限为发送至礼物箱后7天内。</div><hr><div>感谢各位玩家踊跃挑战&ldquo;卢弗&middot;托修卡特尔叛乱战 绝级&rdquo;。</div><div><br></div><div>目前已确认有玩家以装备非火属性龙的队伍通关了火属性角色限定任务&ldquo;卢弗&middot;托修卡特尔叛乱战 绝级&rdquo;。</div><div>考虑到今后阿基德叛乱战绝级难度的平衡性，我们决定在2021年1月下旬进行的版本更新中对&ldquo;卢弗&middot;托修卡特尔叛乱战 绝级&rdquo;追加仅可使用火属性龙的限制。</div><div><br></div><div>本次因考虑不周而需要对开放中的任务进行编成限制调整，给各位玩家造成了困扰和不便，我们深表歉意。</div><div><br></div><div>调整详情如下：</div><div><br></div><div>■调整内容</div><div>&middot;&ldquo;卢弗&middot;托修卡特尔叛乱战 绝级&rdquo;追加队伍编成中对龙属性的限制。</div><div><br></div><div>※因本次调整，2021年1月下旬进行的版本更新中将重置已保存的&ldquo;卢弗&middot;托修卡特尔叛乱战 绝级&rdquo;过关队伍记录中的龙相关信息。</div><div>※今后追加的所有阿基德叛乱战&ldquo;绝级&rdquo;难度均将对角色和龙的属性进行限制。</div><div>※可在不装备龙的情况下挑战任务。</div><div>※武器、共享技能、支援技能无属性限制。</div><div><br></div><div>我们将向2021年1月下旬进行的版本更新前开始游戏的玩家发放以下道具作为补偿。</div><div><br></div><div>&middot;龙辉晶 600个</div><div>※补偿预计将于2020年1月下旬进行的版本更新后发放。</div><div><br></div><div>关于本次调整的最新进展将第一时间更新在本公告中。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1610258400; update_time1611716974

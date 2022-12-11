@@ -1,0 +1,8 @@
+article_id:1038
+category_name:公告
+title_name:第2弹！“期间限定礼包”上架！
+image_path:https://dragalialost.akamaized.net/attached/information/images/789e2246c33c6bc5f53304c106d4ca27.png
+
+message:<div><span class="local_date" data-local_date="1580796000"></span>起，&ldquo;期间限定 水属性角色育成礼包&rdquo;、&ldquo;期间限定 龙强化礼包&rdquo;已于商店中上架！</div><div><br></div><div>■可购买期间</div><div><span class="local_date" data-local_date="1580796000"></span> ～ <span class="local_date" data-local_date="1581919199"></span></div><div><br></div><div>■各礼包详情</div><div>1. 期间限定 水属性角色育成礼包</div><div>购买龙钻即可获得附赠的用于强化水属性角色和水属性设施的道具。</div><div><br></div><div>＜商品包含道具＞</div><div>&middot;龙钻 2,400个(龙钻 1,920个+加赠480个)</div><div><br></div><div>＜加赠道具＞</div><div>&middot;魔力&times;200,000</div><div>&middot;骑士之证&times;6</div><div>&middot;英雄之证&times;3</div><div>&middot;水之珠&times;210</div><div>&middot;水流之珠&times;70</div><div>&middot;沧海之珠&times;30</div><div>&middot;青龙之鳞&times;150</div><div>&middot;青龙之流鳞&times;50</div><div><br></div><div>2. 期间限定 龙强化礼包</div><div>购买龙钻即可获得附赠的用于强化龙的道具。</div><div><br></div><div>＜商品包含道具＞</div><div>&middot;龙钻 1,230个(龙钻1,200个+加赠30个)</div><div><br></div><div>＜加赠道具＞</div><div>&middot;金刚晶&times;1</div><div>&middot;熟透的龙之果实&times;350</div><div><br></div><div>■注意事项</div><div>1. 期间限定礼包上架期间仅限购买1次。</div><div>2. 各道具价格及其它详情等信息可点击主页&ldquo;商店&rdquo;中的&ldquo;期间限定礼包&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1580796000; update_time1579761201

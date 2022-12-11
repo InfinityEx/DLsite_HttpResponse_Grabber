@@ -1,0 +1,8 @@
+article_id:2086
+category_name:公告
+title_name:向各位玩家发放礼物！
+image_path:
+
+message:<div>感谢各位玩家积极参与<span class="local_date" data-local_date="1617256799"></span>为止在《Dragalia Lost ～失落的龙约～》官方推特账号开展的有奖问答活动。</div><div>为答谢广大玩家，我们将根据正确回答数向各位玩家依次发放以下礼物！</div><div>■礼物内容</div><div>&middot;召唤券&times;15</div><div>&middot;熟透的龙之果实&times;50</div><div>&middot;英雄之证&times;3</div><div>&middot;大马士革钢&times;1</div><div>&middot;觉醒水滴&times;5,000</div><div>&middot;金刚晶&times;1</div><div>&middot;10连召唤券&times;1</div><div>&middot;金币&times;7,000,000</div><div><br></div><div>■发放对象</div><div><span class="local_date" data-local_date="1617343200"></span>前开始游戏的玩家</div><div><br></div><div>领取期限为发送至礼物箱后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1617343200; update_time1617255899

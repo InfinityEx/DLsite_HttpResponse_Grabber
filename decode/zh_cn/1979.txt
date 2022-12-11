@@ -1,0 +1,8 @@
+article_id:1979
+category_name:活动
+title_name:【复刻】“舞姬与魔龙的圆舞曲”活动预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/4fd975b7e43a2120284bfd45064073a6.png
+
+message:<div>团队活动【复刻】&ldquo;舞姬与魔龙的圆舞曲&rdquo;预计将于<span class="local_date" data-local_date="1613455200"></span>开始。<br>本活动可在多人模式下挑战暗属性的团队战BOSS。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/4fd975b7e43a2120284bfd45064073a6.png"></div><div>被魔兽囚禁的舞姬&middot;菲丽嘉<br>与试图解救她的龙&middot;幽影。<br>为帮助追求自由而逃亡的他们，<br>王子一行人向&ldquo;死神&rdquo;发起了挑战。<br>此刻，一段关于爱的故事正拉开帷幕&hellip;&hellip;<br><br>■活动期间<br><span class="local_date" data-local_date="1613455200"></span> ～ <span class="local_date" data-local_date="1614319199"></span><br><br>■注意事项<br>1. 参加活动任务需通关主线剧情第2章2-1(Normal)。<br>2. 参加多人模式需通关主线剧情第2章2-1(Normal)。<br><br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1613109600; update_time1612775182

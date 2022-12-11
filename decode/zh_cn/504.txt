@@ -1,0 +1,8 @@
+article_id:504
+category_name:公告
+title_name:关于未正常显示使用条款·隐私政策后确认页面的再次显示
+image_path:
+
+message:<div><span class="local_date" data-local_date="1559528400"></span>左右 ～ <span class="local_date" data-local_date="1559531580"></span>左右期间，出现了游戏内的使用条款&middot;隐私政策、召唤信息、公告等未正常显示的异常现象。</div><div>目前本异常现象已得到解决。</div><div><br></div><div>我们已在主界面为受本异常现象影响而未能同意使用条款&middot;隐私政策的玩家再次显示使用条款确认页面。</div><div>如需继续游戏，请仔细阅读并同意隐私政策及服务条款。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1559635200; update_time1559633044

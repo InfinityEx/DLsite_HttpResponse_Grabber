@@ -1,0 +1,8 @@
+article_id:160
+category_name:公告
+title_name:关于龙辉护符效果未正常生效的异常现象【追记】
+image_path:
+
+message:<div>目前已确认使用跳过券完成任务并选择再战时，龙辉护符&quot;送给你的礼物&quot;出现了效果未正常生效的异常现象。</div><div><br></div><div>本异常现象已于<span class="local_date" data-local_date="1545363600"></span>得到解决。</div><div><br></div><div>■异常现象发生期间</div><div><span class="local_date" data-local_date="1545026400"></span>～<span class="local_date" data-local_date="1545363600"></span></div><div><br></div><div>■关于补偿</div><div>补偿已根据以下标准于<span class="local_date" data-local_date="1545386700"></span>发放完毕。</div><div><br></div><div>我们已向异常现象发生期间满足以下所有条件且未在任务中正常获得经验值的玩家发放&quot;跳过券&quot;和&quot;蜂蜜&quot;作为补偿。</div><div>&middot;异常现象发生期间使用了跳过券完成任务。</div><div>&middot;使用了主人公以外的角色进行队伍编成。</div><div>&middot;装备了龙辉护符&quot;送给你的礼物&quot;。</div><div><br></div><div>■关于发放的&quot;蜂蜜&quot;数量</div><div>每消耗10体力可获得1个&quot;蜂蜜&quot;。</div><div>消耗体力不满10时将进位处理。</div><div>例：消耗10体力可获得1个&quot;蜂蜜&quot;；消耗11体力可获得2个&quot;蜂蜜&quot;。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1545979500"></span> 追记</strong></span><br>目前已发现<span class="local_date" data-local_date="1545386700"></span>的补偿未发放给支援角色设定为主人公的玩家。我们已向上述玩家追加发放了作为补偿的&quot;跳过券&quot;和&quot;蜂蜜&quot;。<br><br>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1545386700; update_time1547531367

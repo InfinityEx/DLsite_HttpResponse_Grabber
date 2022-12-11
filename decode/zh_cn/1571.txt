@@ -1,0 +1,8 @@
+article_id:1571
+category_name:更新
+title_name:版本更新公告【更新】
+image_path:
+
+message:<div>版本1.23.1预计将于<span class="local_date" data-local_date="1599706800"></span>左右发布。</div><div>另外，预计将于<span class="local_date" data-local_date="1599793200"></span>左右进行强制更新。</div><div><br></div><div>为感谢各位玩家对本次更新的积极配合，我们将向各位玩家发放10连召唤券。</div><div>10连召唤券预计将于强制更新后发放。发放完毕后将更新在本公告中。</div><div>※强制更新前，即使玩家更新至版本1.23.1也无法提前获得10连召唤券。</div><div><br></div><div>■游戏异常修正</div><div>&middot;部分角色和敌人的技能及攻击效果音未正常播放。</div><div>&middot;部分技能发动时的动画效果无法通过使用其它技能取消。</div><div>&middot;&ldquo;塔耳塔洛斯叛乱战&rdquo;的&ldquo;中级&rdquo;和&ldquo;高级&rdquo;难度单人模式中，在异维空间用支援技能的攻击打倒分身后，操作角色可能无法返回原空间导致无法继续游戏。</div><div><br></div><div>因查明&ldquo;关于目前已确认的游戏异常&rdquo;中记载的以下内容实为正常现象，已予以删除。</div><div>&middot;&ldquo;彩羽&amp;乙羽叛乱战&rdquo;的&ldquo;中级&rdquo;和&ldquo;高级&rdquo;难度中，武器种类为&ldquo;剑&middot;短剑&middot;刀&middot;斧&middot;枪&rdquo;的同伴AI角色会攻击与操作角色目标不同的敌人。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>■注意事项</div><div>版本更新信息显示至商店可能需要一定时间。</div><div>另外，设备内临时数据可能导致无法更新。</div><div>如无法更新，请关闭设备电源，等待1～2分钟后重试。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1599793200"></span>追记】</strong></span></div><div>我们已向<span class="local_date" data-local_date="1599793200"></span>前开始游戏的玩家发放以下道具。</div><div><br>&middot;10连召唤券 1张</div><div><br>※领取期限为发送至礼物箱后7天内。</div><div><br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1599706800; update_time1599793201

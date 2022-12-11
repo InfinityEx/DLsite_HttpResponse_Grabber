@@ -1,0 +1,8 @@
+article_id:187
+category_name:公告
+title_name:“元旦登录奖励”活动开始！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1546322400"></span>起，&ldquo;元旦登录奖励&rdquo;活动开始！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/2e7d2c3d6f293b48dc516b7f46857cf5.png"></div><div>活动期间登录游戏即可获得10连召唤券和龙辉晶！</div><div><br></div><div>最多可获得7天登录奖励，总计3张10连召唤券和2000个龙辉晶。</div><div><br></div><div>■元旦登录奖励详情</div><div>第1天：10连召唤券 1张</div><div>第2天：10连召唤券 1张</div><div>第3天：龙辉晶 500个</div><div>第4天：龙辉晶 500个</div><div>第5天：龙辉晶 500个</div><div>第6天：龙辉晶 500个</div><div>第7天：10连召唤券 1张</div><div><br></div><div>■活动期间</div><div><span class="local_date" data-local_date="1546322400"></span>～<span class="local_date" data-local_date="1548395999"></span></div><div><br></div><div>■注意事项</div><div>1. 登录奖励将在每日14:00后登录游戏时发放至礼物箱。</div><div>2. 发放至礼物箱的登录奖励有领取期限。</div><div>3. 活动期间及内容可能会在无预先通知的情况下变更。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1546322400; update_time1549535717

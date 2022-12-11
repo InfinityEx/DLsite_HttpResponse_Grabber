@@ -1,0 +1,8 @@
+article_id:3261
+category_name:公告
+title_name:“梦幻自选礼包”上架！
+image_path:https://dragalialost.akamaized.net/attached/information/images/cc73df1b81d5b098df9157d20e6cf19b.png
+
+message:<div><img src="https://dragalialost.akamaized.net/attached/information/images/cc73df1b81d5b098df9157d20e6cf19b.png"></div><div><span class="local_date" data-local_date="1664431200"></span>起，&ldquo;梦幻自选礼包&rdquo;已于商店上架！</div><div><br></div><div>&ldquo;梦幻自选礼包&rdquo;是可用1200龙钻购买1张10连召唤券，并自行选择1位角色或1头龙的特殊礼包。</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※本次&ldquo;梦幻自选礼包&rdquo;可购买的角色和龙中不含期间限定角色&middot;龙。</span></div><div><br></div><div>■可购买期间</div><div><span class="local_date" data-local_date="1664431200"></span> ～ <span class="local_date" data-local_date="1664863199"></span></div><div><br></div><div>■注意事项</div><div>1. &ldquo;梦幻自选礼包&rdquo;上架期间内仅限购买1次。</div><div>2. 无法购买已成为伙伴的角色。</div><div>3. 可购买的角色和龙请点击主页的&ldquo;梦幻自选礼包&rdquo;浮窗，通过点击特殊礼包内的&ldquo;梦幻自选礼包&rdquo;的&ldquo;购买&rdquo;按钮后显示的&ldquo;前往购买列表&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1664431200; update_time1648434063

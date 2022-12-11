@@ -1,0 +1,383 @@
+article_id:749
+category_name:公告
+title_name:Dragalia Fes限定★5角色确定！“白金传说召唤”即将开放！
+image_path:
+
+message:<div>&ldquo;白金传说召唤&rdquo;预计将于<span class="local_date" data-local_date="1569564000"></span>开放。</div><div><br></div><div>白金传说召唤是&ldquo;10连召唤&rdquo;的第10位确定为Dragalia Fes限定★5角色&ldquo;主人公（Fes限定Ver.）&rdquo;、&ldquo;库菈乌（Fes限定Ver.）&rdquo;、&ldquo;穆穆（Fes限定Ver.）&rdquo;、&ldquo;兰扎卜（Fes限定Ver.）&rdquo;、&ldquo;希里丝（Fes限定Ver.）&rdquo;其中之一的期间限定召唤。</div><div>本召唤期间仅可进行1次&ldquo;10连召唤&rdquo;。</div><div>另外，本召唤仅限使用龙钻。</div><div><br></div><div>【白金传说召唤 活动期间】</div><div><span class="local_date" data-local_date="1569564000"></span> ～ <span class="local_date" data-local_date="1570773540"></span></div><div><br></div><div>&ldquo;白金传说召唤&rdquo;第10位确定出现的★5角色详情如下：</div><div><br></div><div>【第10位确定对象★5角色介绍】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b4c1dc2e18e32bb9e5cb86720c66bbe6.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>继承了阿尔贝里亚的意志<br>并决意战斗到底的第七王子。<br>其勇气和善良吸引着众人聚集到他身边。<br>与伙伴间的友情和信赖<br>将化作超越传说的强大力量。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>升腾王冠</span>
+			</dt>
+			<dd>
+				<div>
+					对周围的敌人造成光属性伤害。<br>10秒内在地面设置【攻击增益区域】。<br>此区域内的同伴攻击力提升20%。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e3c8bf74f6e5d50e339f98d82b8411472.png"></span>
+				<span>荣光之上</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成光属性伤害。<br>使其进入“麻痹”状态。<br>使全队获得以下增益：<br>【15秒内攻击力提升15%】【15秒内防御力提升15%】<br>【使HP最大值20%以下的伤害无效的护盾】。<br>护盾仅生效1次，且不可与同种护盾叠加。<br>此技能随时间自动充能。<br>此技能的充能不受“技能槽提升效果”影响。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2993ccd3f5c88b4fc376f81999404f672.png"></span>
+				<span>龙化强化Ⅷ</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化中的伤害倍率提升10%，龙化时间延长20%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/62ec54c3111dcff5d7c6fadf0c9e0ae92.png"></span><span>龙光意志Ⅱ</span></dt><dd><div>龙化时间自然消耗速度减缓30%，<br>龙化中攻击速度提升10%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>圣片加护Ⅱ</span></dt><dd><div>进入“中毒”、“诅咒”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span><span>龙之充能Ⅱ</span></dt><dd><div>HP在30%以下时，自身龙化槽提升50%。<br>此效果每回任务最多发动1次。</div></dd></dl></div></div></div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div>※数值不含因能力提升的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/00aad51861a9e78ebb99cfa1d89a7c2e.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>785</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>489</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2514</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>从圣城封印的魔杖中获得强大力量的库菈乌。<br>告别了只能靠回复在后方支援伙伴的软弱，<br>向前迈出了坚实的一大步。<br>尽管体能依旧是她的弱项，<br>但她能活用才智，施放强大的攻击魔法。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d3e8717c75363aa57b66e9021fff4d352.png"></span>
+				<span>上古光束</span>
+			</dt>
+			<dd>
+				<div>
+					对多个攻击对象和对象周围的敌人造成暗属性伤害。<br>命中敌人后将发动【技能升级】。<br>初始状态：攻击3个目标。<br>第1阶段：攻击4个目标。<br>第2阶段：攻击5个目标。<br>此技能将在一定范围内由近至远进行攻击。<br>如范围内的敌人少于可攻击的对象数量，<br>剩余攻击将再次由近至远对所选择的对象进行攻击。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0b6e96a9297308fa346ed1059be779062.png"></span>
+				<span>长者信念</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人造成暗属性伤害，<br>20秒内使其防御力下降10%。<br>命中敌人后将发动【技能升级】。<br>第1阶段：追加使其攻击力下降5%的效果。<br>第2阶段：进一步追加回复所有同伴的HP，<br>并持续回复15秒的效果。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能伤害＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能伤害提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1582968ccea870712399e4e9e9e34edd2.png"></span><span>术式炼化Ⅱ</span></dt><dd><div>使用技能“上古光束”时，<br>自身发动【变则爆发】的增益，<br>使下次爆发攻击变为<br>向地面设置可持续10秒的<br>【攻击力提升增益区域】。<br>处于此区域中的角色攻击力提升25%。<br>【变则爆发】增益不会重复，<br>并在使用爆发攻击后解除。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bd7de81c28d0b9c93b0edbfc86b0cb6a2.png"></span><span>千古加护Ⅱ</span></dt><dd><div>进入“黑暗”、“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>开场技能槽＋100%</span></dt><dd><div>任务开始时技能槽提升100%。</div></dd></dl></div></div></div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div>※数值不含因能力提升的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/82bfc3e062d7395e35b3d7eb5cc72a2b.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>749</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>510</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>“想陪在心上人身边！”——这样的少女心<br>令绯龙布伦希尔德摇身一变成为人类。<br>爱慕着曾救下自己的王子，<br>并称其为“亲爱的”，常向其送去火热的视线。<br>尽管种族有别，但这对她来说不成问题。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>龙扫千军</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成火属性伤害。<br>此技能命中敌人后，自身龙化槽上升。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>绯红烈焰</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成火属性伤害。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队HP提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b5b8a0971c2940faccafb60e2bb060ab2.png"></span><span>绯龙现身Ⅱ</span></dt><dd><div>进入“烧伤”状态的概率下降100%。<br>龙化形态一律变为布伦希尔德。<br>龙化时自身获得【任务中攻击力提升15%<br>并强化技能“绯红烈焰”的增益】。<br>此效果每回任务最多发动1次。<br>1次任务中龙化2次或以上将变为真布伦希尔德，<br>龙化中的攻击速度提升15%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ed2537bb247dfd2ad93353a86c3d8c12.png"></span><span>怒火集蓄Ⅱ</span></dt><dd><div>进入“昏迷”状态的概率下降100%。<br>受到可能造成昏迷的攻击时，<br>技能“龙扫千军”充能50%。<br>技能充能效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>龙化时间＋20%</span></dt><dd><div>龙化时间延长20%。</div></dd></dl></div></div></div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div>※数值不含因能力提升的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/58ce0d396b817863dd9d392b71e2e95a.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>755</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>504</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>兰扎卜成为了新阿尔贝里亚王国的战斗队长。<br>身穿伙伴们准备的新盔甲，<br>放下佣兵时代的战斧转而拿起了剑。<br>虽然性格依旧莽撞，<br>但多少有了一些作为统帅的威严和气场。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>飓风之剑</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成风属性伤害。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/862d02981336441f770826c64d15b0162.png"></span>
+				<span>旋风谋略</span>
+			</dt>
+			<dd>
+				<div>
+					发动【风缠剑】。<br>强化自身爆发攻击3次，<br>10秒内提升全队防御力10%。<br>爆发攻击强化后将变为【三连飞剑】，<br>可进行远程攻击。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龙化增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化槽提升率提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>百战功成Ⅱ</span></dt><dd><div>追加攻击槽和爆发槽。<br>根据满槽数量提升防御力，<br>并在使用技能“飓风之剑”时<br>消耗已满的攻击槽/爆发槽提升威力。<br>攻击槽：普通攻击命中敌人时充能。<br>爆发槽：爆发攻击命中敌人时充能。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/857a2a2fdbc31b188c91fbd6f6eca6b32.png"></span><span>铁壁豪气Ⅱ</span></dt><dd><div>进入“冰冻”、“湿身”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能伤害＋30%</span></dt><dd><div>攻击技能造成的伤害提升30%。</div></dd></dl></div></div></div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div>※数值不含因能力提升的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/793a1a25a01bb7b1142c483fc2ee0a73.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>843</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>485</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2568</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>卢卡的妹妹，森隐族弓箭手。<br>实力不逊于哥哥，是个活泼强势的女孩。<br>必杀技重拳攻击让卢卡吃尽苦头。<br>为了助大家一臂之力，<br>离开村落踏上了消灭魔兽的旅程。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cec8794d33276918ce38bfaa577312842.png"></span>
+				<span>流火逐辉</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成火属性伤害，<br>根据自身增益数量追加发射【追踪弹】。<br>最多可追加发射7发【追踪弹】。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>鼓舞之助</span>
+			</dt>
+			<dd>
+				<div>
+					10秒内全队攻击力提升20%。<br>效果发动后技能效果变为<br>【15秒内全队防御力提升20%】。<br>再次使用该技能后恢复原技能效果。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能槽提升率提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>鲜明气势Ⅱ</span></dt><dd><div>每20次连击发动【15秒内攻击力提升2%的增益】和【15秒内暴击率提升1%的增益】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea4c47784ca6465117276eb2a3d9a0d92.png"></span><span>森阳祝福Ⅱ</span></dt><dd><div>进入“昏迷”、“睡眠”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span><span>增益技能持续时间＋30%</span></dt><dd><div>增益技能持续时间提升30%。</div></dd></dl></div></div></div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div>※数值不含因能力提升的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>【注意事项】</div><div>&ldquo;白金传说召唤&rdquo;详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;白金传说召唤&rdquo;，查看&ldquo;出现概率&rdquo;或&ldquo;召唤信息&rdquo;中的&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1569477600; update_time1569294688

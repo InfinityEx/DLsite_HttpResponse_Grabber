@@ -1,0 +1,8 @@
+article_id:268
+category_name:公告
+title_name:庆祝游戏上线国家/地区追加的纪念礼物！
+image_path:
+
+message:<div>感谢各位玩家一直以来对游戏的支持。</div><div><br></div><div><span class="local_date" data-local_date="1551160800"></span>起，《Dragalia Lost ～失落的龙约～》已于爱尔兰、英国、澳大利亚、加拿大、新加坡、新西兰正式上线。</div><div><br></div><div>为庆祝游戏上线国家/地区追加，我们已向<span class="local_date" data-local_date="1553493600"></span>前开始游戏的玩家发放以下道具。</div><div><br></div><div>&middot;龙辉晶 1500个</div><div><br></div><div>玩家可在<span class="local_date" data-local_date="1554098399"></span>前登录游戏领取。</div><div>领取期限为发送至礼物箱后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1551160800; update_time1551160924

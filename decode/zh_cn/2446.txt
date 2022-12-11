@@ -1,0 +1,8 @@
+article_id:2446
+category_name:活动
+title_name:活动“防卫战～幽囚之困·龙眸轨迹～”预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/4729037acce24f41121bddbd470087af.png
+
+message:<div>活动&ldquo;防卫战～幽囚之困&middot;龙眸轨迹～&rdquo;预计将于<span class="local_date" data-local_date="1631253600"></span>开始。</div><div>&ldquo;防卫战～幽囚之困&middot;龙眸轨迹～&rdquo;是抵御袭来的众多敌人守卫据点的期间限定活动。</div><div>本活动中可获得用于解锁共享技能的道具，敬请参与！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/4729037acce24f41121bddbd470087af.png"></div><div><br></div><div>■注意事项</div><div>1. 参加活动任务需通关主线剧情第2章2-1(Normal)。</div><div>2. 参加多人模式需通关主线剧情第2章2-1(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1630994400; update_time1630543985

@@ -1,0 +1,164 @@
+article_id:257
+category_name:公告
+title_name:“龙传说召唤”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1550815200"></span>起，&ldquo;龙传说召唤&rdquo;开放！</div><div><br></div><div>龙传说召唤期间，特选对象的★5和★4龙的出现概率提升。</div><div>※部分★5和★4角色及龙辉护符也是特选对象。</div><div><br></div><div>【龙传说召唤的出现概率】</div><div>★5特选　　　　合计：2%（角色：0.40%　龙：1.20%　龙辉护符：0.40%）</div><div>★5通常　　　　合计：2%（角色：0.40%　龙：1.20%　龙辉护符：0.40%）</div><div>★4特选　　　　合计：7%（角色：1.25%　龙：4.50%　龙辉护符：1.25%）</div><div>★4通常　　　　合计：9%（角色：3.07%　龙：3.95%　龙辉护符：1.97%）</div><div>★3通常　　　　合计：80%（角色：33.75%　龙：28.50%　龙辉护符：17.75%）</div><div><br></div><div>【龙传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1550815200"></span> ～ <span class="local_date" data-local_date="1551333540"></span></div><div><br></div><div>部分特选对象的角色&middot;龙&middot;龙辉护符详情如下：</div><div><br></div><div>【特选龙介绍】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a8e4d23f67d58e60e8e35e15de2a7d68.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>369</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>127</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>996</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">龙详情</div>
+			<div class="param">
+				<ul>
+					<li>炎之帝王。称火焰的性质是“吞噬一切的贪欲”，<br>为填饱肚子而要求人们向他进贡。<br>表面上一副威风凛凛的样子，<br>内在却是任性的吃货。<br>不过会很负责地保护那些进贡的人。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cb241c1bff1c072c2b8450241b15c37b2.png"></span>
+				<span>毁灭之击</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成火属性伤害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻击力＋60%</span></dt><dd><div>装备角色属性为火时，<br>角色的攻击力提升60%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【特选龙介绍】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ff429af05310cfbbbc4603d58cd1c7a4.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>376</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>119</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>995</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">龙详情</div>
+			<div class="param">
+				<ul>
+					<li>传说中的老龙。<br>支配着南格拉斯迪亚大陆周边海域，<br>被海员们崇拜着。性格豪放，无比自信。<br>特别喜欢年轻的冒险者，<br>会主动庇护他们并多管闲事地给予建议。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1f6d0bbf9a2503a371995eae39d200e32.png"></span>
+				<span>海神三叉戟</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成水属性伤害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>【水】HP&攻击力＋30%</span></dt><dd><div>装备角色属性为水时，<br>HP和攻击力提升30%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【特选龙介绍】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f17d5eeae892e81a5235b30909e1fc1a.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>369</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>126</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>995</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">龙详情</div>
+			<div class="param">
+				<ul>
+					<li>聚集平原住民信仰的龙。<br>对称颂自己的人加以庇护，<br>对谋害自己的人施以制裁。<br>性格谨慎，做事小心。<br>无论多么微小的威胁，他都不会容忍。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3b8c6f3c96c407cfbd6115f294a01def2.png"></span>
+				<span>瓦基扬之怒</span>
+			</dt>
+			<dd>
+				<div>
+					对周围的敌人造成风属性伤害，<br>使其进入“昏迷”状态。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【风】攻击力＋60%</span></dt><dd><div>装备角色属性为风时，<br>角色的攻击力提升60%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>其它特选角色&middot;龙&middot;龙辉护符如下：</div><div>角色：★5米科特、★4凡妮莎</div><div>龙：★4伊夫利特、★4波丽亚芙、★4札格纳特</div><div>龙辉护符：★5天才的灵感、★4此身成影</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;或&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;查看。</div><div>3. 活动期间及内容可能会在无预先通知的情况下变更。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1550815200; update_time1550812339

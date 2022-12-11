@@ -1,0 +1,8 @@
+article_id:810
+category_name:公告
+title_name:关于台风19号对咨询回复的影响
+image_path:
+
+message:<div>受台风19号影响，对于10/12（UTC）前后咨询的回复可能需要较长时间。</div><div>另外，对于需进行详细调查的咨询，回复可能需要更长的时间。</div><div>请各位玩家见谅。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1570773600; update_time1570771020

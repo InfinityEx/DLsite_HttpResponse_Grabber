@@ -1,0 +1,8 @@
+article_id:1203
+category_name:公告
+title_name:通常目标“绑定Nintendo账号吧”报酬变更公告
+image_path:
+
+message:<div><span class="local_date" data-local_date="1588053600"></span>起，通常目标&ldquo;绑定Nintendo账号吧&rdquo;的达成报酬将变更为1,200个龙辉晶。</div><div><br></div><div>当前的通常目标 &ldquo;绑定Nintendo账号吧&rdquo;（报酬：100个龙辉晶）将于<span class="local_date" data-local_date="1588053599"></span>结束。</div><div><br></div><div>尚未绑定过Nintendo账号的玩家在<span class="local_date" data-local_date="1588053599"></span>前进行绑定即可达成目标获得100个龙辉晶！</div><div><br></div><div>※已绑定Nintendo账号的玩家在<span class="local_date" data-local_date="1588053600"></span>后登录游戏即可获得1,200个龙辉晶作为目标达成报酬！</div><div><br></div><div>Nintendo账号绑定方法请查看以下公告：</div><div><a href="https://dragalialost.com/chs/news/detail/526">《【重要】关于游戏存档数据备份》</a></div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1587448800; update_time1585620207

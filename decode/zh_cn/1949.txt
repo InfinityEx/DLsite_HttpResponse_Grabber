@@ -1,0 +1,8 @@
+article_id:1949
+category_name:公告
+title_name:“纳姆的波澜冒险记！”第32话更新
+image_path:
+
+message:<div>介绍主线剧情概要的4格漫画&ldquo;纳姆的波澜冒险记！&rdquo;第32话现已更新。</div><div>玩家可按以下步骤阅读&ldquo;纳姆的波澜冒险记！&rdquo;。</div><div><br></div><div>【游戏内】</div><div>点击画面上方&ldquo;菜单&rdquo;中的&ldquo;纳姆的波澜冒险记！&rdquo;。</div><div><br></div><div>【官方网站】</div><div>点击官方网站首页的&ldquo;纳姆的波澜冒险记！&rdquo;图标。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1612159200; update_time1611543859

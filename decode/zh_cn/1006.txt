@@ -1,0 +1,8 @@
+article_id:1006
+category_name:活动
+title_name:设施活动【复刻】“三姐妹情深！温情满工坊”预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/6b6a348f07f3c62ac73c18f6aa62d5e7.png
+
+message:<div>设施活动【复刻】&ldquo;三姐妹情深！温情满工坊&rdquo;预计将于<span class="local_date" data-local_date="1578981600"></span>开始。</div><div>本活动可挑战风属性的BOSS，获得活动限定的报酬设施。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/6b6a348f07f3c62ac73c18f6aa62d5e7.png"></div><div>齐心协力进行锻造的圣城铁匠铺三姐妹&mdash;&mdash;</div><div>认真可靠的二姐&middot;罗吉娜、</div><div>温柔不拘小节的大姐&middot;雷吉娜、</div><div>爱幻想充满活力的小妹&middot;卢吉娜。</div><div>铁匠虽是支援伙伴战斗的幕后角色&hellip;&hellip;但她们也同样历经波折！</div><div>那是作为铁匠勇攀高峰、精益求精的少女们所谱写的，热情洋溢的故事！</div><div><br></div><div>■活动期间</div><div><span class="local_date" data-local_date="1578981600"></span> ～ <span class="local_date" data-local_date="1579759199"></span></div><div><br></div><div>■注意事项</div><div>1. 参加活动任务需通关主线剧情第2章 2-1(Normal)。</div><div>2. 参加多人模式需通关主线剧情第2章 2-1(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1578895200; update_time1578622500

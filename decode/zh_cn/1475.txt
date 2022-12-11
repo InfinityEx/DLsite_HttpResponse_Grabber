@@ -1,0 +1,371 @@
+article_id:1475
+category_name:公告
+title_name:“Dragalia Fes”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1596088800"></span>起，&ldquo;Dragalia Fes&rdquo;开放！</div><div><br></div><div>【关于Dragalia Fes】※含&ldquo;Dragalia Fes Extra&rdquo;</div><div>&middot;★5角色、龙的初始出现概率从4%提升至6%！</div><div>※召唤出★5或★5特选后，出现概率将变回初始概率6%。</div><div><span style="color: rgb(226, 80, 65);">※本次新追加的★5角色&ldquo;希诺亚（夏日Ver.）&rdquo;(风)、&ldquo;诺斯通（夏日Ver.）&rdquo;(风)及★5龙&ldquo;木花开耶（夏日Ver.）&rdquo;(风)在今后的传说召唤中也将登场。</span></div><div><br></div><div>【新登场的特选对象角色&middot;龙】</div><div>■角色</div><div>★5 莱姬希（Fes限定Ver.）：火/短剑</div><div>★5 希诺亚（夏日Ver.）：风/魔杖</div><div>★5 诺斯通（夏日Ver.）：风/短剑</div><div><br></div><div>■龙</div><div>★5 木花开耶（夏日Ver.）：风</div><div><br></div><div>【Dragalia Fes的出现概率】</div><div>★5 合计：6.00%</div><div>★5特选 合计：2.30%（角色：1.50% 龙：0.80%）</div><div>★5通常 合计：3.70%（角色：1.50% 龙：2.20%）</div><div>★4通常 合计：16.00%（角色：8.55%　龙：7.45%）</div><div>★3通常 合计：78.00%（角色：47.00%　龙：31.00%）</div><div><br></div><div>【Dragalia Fes活动期间】</div><div><span class="local_date" data-local_date="1596088800"></span> ～ <span class="local_date" data-local_date="1596520740"></span></div><div><br></div><div>新登场的特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/bc654ba44c2d52e422fe910f752c08cf.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>500</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,498</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>觉醒了全新力量“伊甸园”的莱姬希<br>以及决心战斗的马斯古拉。<br>为了实现麦斯特罗的愿望而投身<br>激烈的战场。性格截然相反的二人<br>如今已开始逐渐理解彼此。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/db0ecaba45b202d4c8bc6be2ec207a572.png"></span>
+				<span>code: 14 信念</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					此技能发动时效果随自身模式发生变化。<br>普通模式：<br>对前方的敌人造成火属性伤害。<br>伊甸园模式：<br>此技能变为“code eden: 05 严厉”，<br>对前方的敌人造成火属性伤害，<br>使其进入“烧伤”状态。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c31716617139519d6cf9b46ed104cb822.png"></span>
+				<span>伊甸园模式</span>
+			</dt>
+			<dd>
+				<div>
+					此技能发动时效果随自身模式发生变化。<br>普通模式：<br>自身20秒内切换为伊甸园模式并启动【起源之核】。<br>【起源之核】启动时可自动进行攻击。<br>【起源之核】造成的伤害不计入技能伤害。<br>伊甸园模式：<br>此技能变为“code eden: 01 王冠”，<br>对前方的敌人造成火属性伤害。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d84b02c496bd915cc9ca72d7b486190a2.png"></span>
+				<span>普通攻击＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队普通攻击造成的伤害提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/03585ae11a2b0de283c914026533b3fe2.png"></span>
+				<span>【火】连击：10连击以上 风抗＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为火<br>且连击达到10次以上时获得<br>【风属性抗性提升10%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>共鸣槽Ⅱ</span></dt><dd><div>追加共鸣槽。<br>共鸣槽有3阶段，根据阶段发动效果。<br>第1阶段：<br>获得【防御力提升20%的增益】。<br>第2阶段：<br>追加获得【攻击技能造成的伤害提升15%的增益】。<br>第3阶段：<br>追加获得【攻击力提升15%的增益】。<br>获得【起源之核】时共鸣槽无法充能。<br>【起源之核】解除后，<br>共鸣槽变为0并解除根据阶段获得的增益。<br>共鸣槽可在普通攻击、爆发攻击和冲刺攻击时充能。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea4c47784ca6465117276eb2a3d9a0d92.png"></span><span>魔幻构造Ⅱ</span></dt><dd><div>进入“昏迷”、“睡眠”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5928d08635cbad73278c1391505a73392.png"></span><span>暴击驱动Ⅱ</span></dt><dd><div>每15次连击发动【暴击率提升4%的增益】，<br>最多可叠加至3层。<br>每次暴击可获得<br>【暴击伤害倍率提升4%的增益】，<br>最多可叠加至10层。<br>此效果发动后1秒内不会再次发动。<br>连击数重置时解除此能力提供的所有增益。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/9ccd0d4037cbc5067f57314817ba7471.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>788</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>487</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,515</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>换上泳装的魔法学者。<br>为研究时空物理魔法奉献一切，<br>无论失败多少次都从不气馁……<br>然而最近终于感到有些疲惫，<br>为转换心情而在这夏日来到海滩度假。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/74798abffd9249b4acc0e828ab82f3cf2.png"></span>
+				<span>时空实验</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成风属性伤害，使其进入“中毒”状态。<br>自身获得【过劳】。攻击时吸引敌人。<br>（过劳：自身“时空实验”的技能槽上升率下降30%，<br>最多可叠加至3层，无法通过龙化解除。）
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6c0d33ea3eb33415241d8f0ee34c041a2.png"></span>
+				<span>夏日小憩</span>
+			</dt>
+			<dd>
+				<div>
+					解除所有通过技能“时空实验”获得的【过劳】，<br>随机获得以下效果之一：<br>【提升自身2阶段灵感】<br>【30秒内自身暴击伤害倍率提升15%】<br>【30秒内自身暴击率提升20%】。<br>获得效果数量与解除的【过劳】层数一致，<br>无法重复获得同一效果。<br>拥有3层【过劳】时使用技能“夏日小憩”<br>可使全队获得所有效果。<br>无【过劳】时使用技能“夏日小憩”<br>可获得拥有1层【过劳】时的效果。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能伤害＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能伤害提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>【风】中毒：中毒触发·水抗＋8%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为风<br>且使敌人进入中毒状态时获得<br>【15秒内水属性抗性提升8%的增益】。<br>此效果发动后10秒内不会再次发动。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c0445f978345989c82032f191eb199602.png"></span><span>坚韧之心Ⅱ</span></dt><dd><div>技能“时间实验”<br>根据自身获得的【过劳】层数得到强化。<br>1层【过劳】时“时空实验”的技能伤害提升20%。<br>此后每多1层【过劳】，<br>“时空实验”的技能伤害提升5%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>冰冻抗性＋100%</span></dt><dd><div>进入“冰冻”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能伤害＋30%</span></dt><dd><div>攻击技能造成的伤害提升30%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2338d37cfd2a2edaabf5988e594dd8a0.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>760</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>499</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>换上泳装的绘本作家。<br>已经能够写出幸福结局的他<br>决心创作一本描绘晴朗夏日的绘本。<br>雪白的纸面上画着的碧海蓝天与沙滩，<br>是经历过悲剧后终于寻得幸福结局的故事。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/09ae602fbcb6c90d7a043eb6c3ef72882.png"></span>
+				<span>宛如思念之夏</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人造成风属性伤害。<br>使用技能时发动【技能升级】，效果依次变化。<br>此技能与“宛如泡沫之恋”共享【技能升级】效果。<br>第1～2阶段：伤害提升。<br>第3阶段：无造成伤害效果，<br>解除通过技能“宛如泡沫之恋Ⅳ”获得的<br>所有【悲剧之心】，使全队进入【超强斗志】状态。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/09ae602fbcb6c90d7a043eb6c3ef72882.png"></span>
+				<span>宛如泡沫之恋</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人造成风属性伤害。<br>使用技能时发动【技能升级】，效果依次变化。<br>此技能与“宛如思念之夏”共享【技能升级】效果。<br>第1～2阶段：伤害提升。<br>第3阶段：使对象进入“中毒”状态，自身获得【悲剧之心】。<br>获得【悲剧之心】时使用“宛如泡沫之恋”第3阶段<br>将根据【悲剧之心】层数对自身造成伤害。<br>（悲剧之心：无法提升【斗志】，<br>最多可叠加至4层，无法通过龙化解除。）
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>暴击率＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队暴击率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span>
+				<span>【风】连击：10连击以上 治愈Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为风<br>且连击达到10次以上时获得<br>【持续回复HP的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>斗志提升时·技能增强Ⅲ</span></dt><dd><div>根据自身【斗志】阶段提升相应技能槽上升率。<br>【超强斗志】时效果最大，技能槽上升率提升25%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>冰冻抗性＋100%</span></dt><dd><div>进入“冰冻”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>中毒特效＋30%</span></dt><dd><div>对进入“中毒”状态的敌人造成的伤害提升30%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>【特选龙介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/bf2b4bf0c4eaa34aebbe3d77f7eb2015.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,095</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>身着泳装的木花开耶。<br>她所带来的花香伴着海风，<br>为众人带来温暖与惬意。<br>也许正因如此，只身一人来到海边的她<br>周围仍洋溢着新朋友们的笑容。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>少女神乐·海滨嬉戏</span>
+			</dt>
+			<dd>
+				<div>
+					回复自身HP并获得【笑容之花】。<br>【笑容之花】可根据能力“夏日回忆”发挥各种效果。<br>【笑容之花】最多可叠加至6层。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>【风】夏日回忆Ⅴ</span></dt><dd><div>装备角色属性为风时，<br>任务开始时自身获得【笑容之花】。<br>每过60秒自身获得1层【笑容之花】，<br>最多可叠加至6层。<br>自身根据【笑容之花】层数获得以下增益。<br>1层【笑容之花】：攻击力＋40%<br>2层【笑容之花】：防御力＋20%<br>3层【笑容之花】：技能伤害＋50%<br>4层【笑容之花】：水属性抗性＋5%<br>6层【笑容之花】：持续回复自身HP</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1596088800; update_time1595990008

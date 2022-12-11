@@ -1,0 +1,8 @@
+article_id:882
+category_name:公告
+title_name:版本1.13.2更新公告【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1573794300"></span>追记】</strong></span></div><div>版本1.13.2已于<span class="local_date" data-local_date="1573794000"></span>进行了强制更新。</div><div>本次版本更新内容如下：</div><div>■更新内容</div><div>修正了&ldquo;真佐迪亚克的试炼 超级&rdquo;中特定条件下真佐迪亚克不再发动攻击的异常现象。</div><div>为感谢各位玩家对本次维护的理解和配合，我们将依次向<span class="local_date" data-local_date="1573794000"></span>前开始游戏的玩家发放以下道具。</div><div><br></div><div>&middot;10连召唤券 1张</div><div><br></div><div>本次补偿可在&ldquo;礼物箱&rdquo;领取。</div><div>领取期限为发送至礼物箱后7天内。</div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div><hr><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1573726800"></span>追记】<br></strong></span>因版本1.13.2的强制更新时间有所变更，现已进行如下修正：<br><br>修正前：<span class="local_date" data-local_date="1573797600"></span>左右<br>修正后：<span class="local_date" data-local_date="1573794000"></span>左右<br><br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。<br><br></div><hr><div>版本1.13.2已于<span class="local_date" data-local_date="1573700400"></span>左右发布。版本1.13.2中包含对&ldquo;真佐迪亚克的试炼 超级&rdquo;中特定条件下真佐迪亚克不再发动攻击的异常现象的修正准备工作。</div><div><br></div><div>强制更新后异常现象将得到彻底修正。</div><div>预计将于<span class="local_date" data-local_date="1573794000"></span>左右强制更新至版本1.13.2。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>■注意事项</div><div>版本更新信息显示至商店可能需要一定时间。</div><div>另外，设备内临时数据可能导致无法更新。</div><div>如无法更新，请关闭设备电源，等待1～2分钟后重试。</div>
+
+start_time:1573710300; update_time1573794264

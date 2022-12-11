@@ -1,0 +1,8 @@
+article_id:1394
+category_name:活动
+title_name:“洪流奇美拉”将在虚空之影讨伐战中登场！
+image_path:https://dragalialost.akamaized.net/attached/information/images/ff4bb3c581fc122be499c47abe776137.png
+
+message:<div><span class="local_date" data-local_date="1592805600"></span>起，&ldquo;洪流奇美拉&rdquo;将在&ldquo;虚空之影讨伐战&rdquo;中登场！</div><div>同时追加可用讨伐&ldquo;洪流奇美拉&rdquo;获得的素材制作的武器。</div><div><br></div><div>它宛如无情的洪水，席卷并吞噬一切。</div><div>它残忍地侵蚀众生，将其吞没至海底。</div><div>&ldquo;黑暗魔力&rdquo;侵蚀的猛兽与汹涌波涛的肆虐之下，</div><div>渺小的生命将陷入长眠&hellip;&hellip;</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/51237857fbce30cbd2271f07dffcdbc8.png"></div><div>洪流奇美拉（水） 需要战力：13,000</div><div><br></div><div>■追加可用讨伐&ldquo;洪流奇美拉&rdquo;获得的素材制作的武器</div><div><span class="local_date" data-local_date="1592805600"></span>起，可制作的&ldquo;虚空之影系列&rdquo;追加威力强大的武器。</div><div>获得过特定武器即可解锁用讨伐&ldquo;洪流奇美拉&rdquo;获得的素材进行的武器制作。</div><div>解锁所需武器为可用讨伐&ldquo;蝎狮&middot;暴怒&rdquo;获得的素材所制作的水属性★5武器。</div><div><br></div><div>解锁所需武器根据武器种类而有所不同，详情可点击&ldquo;制作&rdquo;页面的&ldquo;制造&rdquo;中显示的&ldquo;洪流奇美拉&rdquo;各武器的&ldquo;素材确认&rdquo;查看。</div><div>※可用讨伐&ldquo;洪流奇美拉&rdquo;获得的素材制作的武器无法进行分解。</div><div><br></div><div>【注意事项】</div><div>参加虚空之影讨伐战需通关主线剧情第7章 5-6(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div>
+
+start_time:1592546400; update_time1592356390

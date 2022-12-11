@@ -1,0 +1,169 @@
+article_id:1759
+category_name:公告
+title_name:传说召唤“歌剧院的怪盗 特选”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1604469600"></span>起，传说召唤&ldquo;歌剧院的怪盗 特选&rdquo;开放！</div><div>特选对象角色&middot;龙的出现概率提升。</div><div><br></div><div>【新追加的特选对象角色&middot;龙】</div><div>■角色</div><div>★5 卡丽娜（歌剧Ver.）：暗/弓</div><div><br></div><div>■龙</div><div>★5 贝尔坎特：暗</div><div><br></div><div>※其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;查看。</div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1604469600"></span> ～ <span class="local_date" data-local_date="1605247199"></span></div><div><br></div><div>新追加的特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a54a48b6313db1b291d04899afa67bde.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>801</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>472</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,513</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>享受大海与自由的海盗团女船长。<br>她的气魄和胆识不输给任何人。<br>为了让看不到歌剧的边境人民<br>欣赏歌剧，她把自己的海盗团训练成了<br>“海盗歌剧团”，向着一望无际的大海启航。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/afc42abd520d2e6796ab1dcc81039dda2.png"></span>
+				<span>海盗咏叹调</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					对周围的敌人造成暗属性伤害，<br>使其进入“暗殇”状态。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>海盗歌剧</span>
+			</dt>
+			<dd>
+				<div>
+					10秒内在地面设置【暴击率增益区域】。<br>此区域内的同伴暴击率提升15%。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能槽上升率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span>
+				<span>【暗】一帆风顺：光抗＋7%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗且位于增益区域中时，<br>自身发动【光属性抗性提升7%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ec72ef8cd42c62205b75088898a601112.png"></span><span>暗殇特效＋30%</span></dt><dd><div>对进入“暗殇”状态的敌人造成的伤害提升30%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痹抗性＋100%</span></dt><dd><div>进入“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>一帆风顺·会心威力＋30%</span></dt><dd><div>角色位于增益区域中时，<br>自身暴击伤害倍率提升30%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7e42c48318ea87c36aad2c352b685557.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>对音乐格外喜爱的龙。演奏乐器、<br>唱歌、指挥、作曲都是超一流水平。<br>虽然身形酷似鲸鱼，但不仅能在海里游动，<br>也能在空中遨游。据说贝尔坎特<br>游过的天空下会响起洗涤心灵的音乐。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>美妙演奏</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成暗属性伤害，<br>位于自身或其他角色设置的增益区域中时，<br>此技能得到强化、攻击范围扩大并追加<br>使自身获得【任务中暴击伤害倍率提升15%的增益】效果。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/0ca003e40efaeaec644df1940674fce52.png"></span><span>【暗】攻击力&暴击率提升Ⅴ</span></dt><dd><div>装备角色属性为暗时，<br>角色的攻击力提升45%，暴击率提升20%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1604469600; update_time1604643153

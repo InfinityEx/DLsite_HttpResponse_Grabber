@@ -1,0 +1,8 @@
+article_id:2033
+category_name:更新
+title_name:版本更新公告
+image_path:
+
+message:<div>为修正部分异常现象，版本2.5.1已于<span class="local_date" data-local_date="1614927600"></span>左右发布。</div><div><br></div><div>■修正的异常现象</div><div>&middot;系统版本不低于Android 11的设备中选择&ldquo;Nintendo账号注册/绑定&rdquo;时无法跳转至Nintendo账号相关网页并无法进行账号注册/绑定。</div><div>&middot;系统版本不低于Android 11的设备中在游戏内&ldquo;菜单&rdquo;&rarr;&ldquo;其他&rdquo;&rarr;&ldquo;账号管理&rdquo;内选择&ldquo;管理账号信息&rdquo;时无法跳转至Nintendo账号相关网页。</div><div><br></div><div>仅Android设备需进行本次更新。</div><div>因本异常现象而无法注册/绑定Nintendo账号的玩家请在更新至版本2.5.1后再次尝试。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>■注意事项</div><div>版本更新信息显示至商店可能需要一定时间。</div><div>另外，设备内临时数据可能导致无法更新。</div><div>如无法更新，请关闭设备电源，等待1～2分钟后重试。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1614927600; update_time1615255165

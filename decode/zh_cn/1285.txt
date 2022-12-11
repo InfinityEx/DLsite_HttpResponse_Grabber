@@ -1,0 +1,8 @@
+article_id:1285
+category_name:公告
+title_name:来自琪姬&穆穆的礼物！
+image_path:
+
+message:<div>为感谢各位玩家对活动&ldquo;FIRE EMBLEM 新启之门&rdquo;的支持与关注，两位龙将依次向各位玩家发放以下礼物！</div><div><br></div><div>■礼物内容</div><div>召唤券&times;5</div><div>法夫纳币&times;50</div><div><br></div><div>领取期限为发送至礼物箱后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1588831200; update_time1588246535

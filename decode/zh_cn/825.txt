@@ -1,0 +1,8 @@
+article_id:825
+category_name:公告
+title_name:关于部分龙的能力调整
+image_path:
+
+message:<div>我们预计将于<span class="local_date" data-local_date="1572501600"></span>左右对部分龙的能力进行调整。</div><div>详情如下：</div><div><br></div><div>■对象龙及调整内容</div><div>&middot;奈亚拉托提普</div><div>【调整前】</div><div>未上限解锁时：【暗】HP30% 攻＋35%、【暗】背水一战&middot;盾Ⅰ</div><div>最大上限解锁时：【暗】HP30% 攻＋50%、【暗】背水一战&middot;盾Ⅱ</div><div><br></div><div>【调整后】</div><div>未上限解锁时：【暗】HP30% 攻＋35%、月夜嚎者Ⅰ</div><div>最大上限解锁时：【暗】HP30% 攻＋50%、月夜嚎者Ⅱ</div><div><br></div><div>【能力详情】</div><div>月夜嚎者Ⅰ：装备角色属性为暗且HP在30%以下时，20秒内自身获得【染血之舌】的效果。【染血之舌】效果期间可使HP最大值50%以下的伤害无效1次，并提升攻击力20%。【染血之舌】效果不会重复，并在受到攻击后解除。</div><div><br></div><div>月夜嚎者Ⅱ：装备角色属性为暗且HP在30%以下时，20秒内自身获得【染血之舌】的效果。【染血之舌】效果期间可使HP最大值60%以下的伤害无效1次，并提升攻击力30%。【染血之舌】效果不会重复，并在受到攻击后解除。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1571896800; update_time1571895736

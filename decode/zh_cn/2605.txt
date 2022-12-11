@@ -1,0 +1,243 @@
+article_id:2605
+category_name:公告
+title_name:“Dragalia Fes Extra”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1636696800"></span>起，&ldquo;Dragalia Fes Extra&rdquo;开放！</div><div><br></div><div>【关于Dragalia Fes】※含&ldquo;Dragalia Fes Extra&rdquo;</div><div>★5角色、龙的初始出现概率从4%提升至6%！</div><div>※召唤出★5或★5特选后，出现概率将变回初始概率6%。</div><div><span style="color: rgb(226, 80, 65);">※本次新追加的★5角色&ldquo;幻身朱庇特&rdquo;(光)、★5龙&ldquo;乌列&rdquo;(火)在今后的传说召唤中也将登场。</span></div><div><span style="color: rgb(226, 80, 65);">※以往&ldquo;Dragalia Fes&rdquo;中追加的角色也可能在本召唤中登场。登场角色的详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</span></div><div><span style="color: rgb(226, 80, 65);">※同时开放的&ldquo;白金传说召唤&rdquo;和&ldquo;★5确定欢乐大礼☆刮奖召唤&rdquo;中不含本召唤新追加的角色和龙。</span></div><div><br></div><div>【新追加的特选对象角色&middot;龙】</div><div>■角色</div><div>★5 幻身朱庇特：光/刀</div><div><br></div><div>■龙</div><div>★5 乌列：火</div><div><br></div><div>【以往Dragalia Fes中登场过的特选对象角色】</div><div>■角色</div><div>★5 主人公（Fes限定Ver.）：光/剑</div><div><br></div><div>【Dragalia Fes Extra的出现概率】</div><div>★5 合计：6.00%</div><div>★5特选 合计：1.80%（角色：1.00% 龙：0.80%）</div><div>★5通常 合计：4.20%（角色：2.00% 龙：2.20%）</div><div>★4通常 合计：16.00%（角色：8.55% 龙：7.45%）</div><div>★3通常 合计：78.00%（角色：47.00% 龙：31.00%）</div><div><br></div><div>【Dragalia Fes Extra活动期间】</div><div><span class="local_date" data-local_date="1636696800"></span> ～ <span class="local_date" data-local_date="1637042399"></span></div><div><br></div><div>特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3a121e0f896611b6a6341dc4d6532a6d.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>517</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,502</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>变身为人类形态的辉龙朱庇特。<br>在无聊的日常中追寻刺激的结果，他决定<br>更近距离地观察人类的生活。尽管改变了<br>外形，其性格却依旧。喜欢用言语捉弄人类，<br>并为能看到对方慌张失措的样子感到愉悦。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>雷霆打击</span>
+			</dt>
+			<dd><div>对前方的敌人造成伤害，<br>使其进入“闪热”状态。<br>自身获得攻击力提升的战意。<br>攻击命中的敌人拥有【雷电蓄集】时，<br>可根据【雷电蓄集】等级造成追加伤害，<br>【雷电蓄集】为最高等级时则解除【雷电蓄集】。</div><div class="skill-detail">威力：1,200 × 1 Hit<br>（雷电蓄集Lv1）<br>威力：300 × 1 Hit<br>（雷电蓄集Lv2）<br>威力：300 × 2 Hit<br>（雷电蓄集Lv3）<br>威力：300 × 3 Hit<br>（雷电蓄集Lv4）<br>威力：300 × 4 Hit<br>所需SP：2,640<br>特殊效果<br>·闪热<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41.6<br>获得战意<br>·攻击力提升（士气上限Lv 1）</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0b6e96a9297308fa346ed1059be779062.png"></span>
+				<span>雷光一闪</span>
+			</dt>
+			<dd><div>摆出架势一定时间后，<br>使目标获得【雷电蓄集】。<br>摆出架势期间受到可回避的攻击时<br>使目标和目标周围的敌人获得【雷电蓄集Lv4】。</div><div class="skill-detail">所需SP：10,560<br>特殊效果<br>·雷电蓄集Lv1<br>　效果时间：60 秒<br>·雷电蓄集Lv4<br>　效果时间：15 秒</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻击力＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队攻击力提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span>
+				<span>【光】士气：攻势士气·诅咒抗性＋100%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为光<br>且获得攻击力提升的士气时，<br>进入“诅咒”状态的概率下降100%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a59180d889cf164d6560fdcbdc5d43a52.png"></span><span>辉龙现身Ⅱ</span></dt><dd><div>·进入“麻痹”状态的概率下降100%。<br>·龙化形态一律变为朱庇特，<br>1次任务中龙化2次或以上将变为真朱庇特。<br>·回避敌人攻击时<br>使攻击的敌人获得【雷电蓄集】，<br>自身获得攻击力提升的战意（士气上限Lv1）。<br>此效果发动后10秒内不会再次发动。<br>【雷电蓄集】最高可提升至Lv4，<br>解除时可对拥有【雷电蓄集】的目标<br>和目标周围的敌人造成伤害。<br>【雷电蓄集】等级越高，攻击范围和威力越大。<br>最高等级的【雷电蓄集】解除时<br>还可使敌人进入“麻痹”和“昏迷”状态。<br>Lv1：持续时间60秒<br>Lv2：持续时间45秒<br>Lv3：持续时间30秒<br>Lv4：持续时间15秒</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>中毒抗性＋100%</span></dt><dd><div>进入“中毒”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cb9a79af6cfdc75b0e5d4d610cfbe8c32.png"></span><span>浴雷而生Ⅱ</span></dt><dd><div>位于【雷电蓄集】解除的攻击范围内时，<br>回复自身HP，自身龙化槽提升20%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2952db0737f7a4c136b9581aaf2d6ebd.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>被称作“五大天使”之一的龙。<br>作为一名完美主义者，他绝不允许自己<br>或他人犯错。会给别人打分并判断对方<br>是否合格。与他通过圣痕相连的使徒也<br>继承了他那完美主义的性格。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>天使之焰</span>
+			</dt>
+			<dd><div>对目标和目标周围的敌人造成伤害，<br>使其进入“劫火”状态。<br>攻击时吸引敌人。</div><div class="skill-detail">威力：450 × 5 Hit<br>特殊效果<br>·劫火<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41.6<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻击力＋60%</span></dt><dd><div>装备角色属性为火时，<br>角色的攻击力提升60%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>【火】乌列的天佑Ⅱ</span></dt><dd><div>装备角色属性为火<br>且回避敌人攻击时，<br>自身获得【乌列的热诚】增益。<br>【乌列的热诚】可升级。<br>【乌列的热诚】增益效果期间发动以下效果：<br>Lv1：60秒内攻击力提升10%，<br>使敌人进入“劫火”状态的概率提升20%。<br>Lv2：40秒内攻击力提升20%，<br>使敌人进入“劫火”状态的概率提升40%。<br>Lv3：20秒内攻击力提升30%，<br>使敌人进入“劫火”状态的概率提升80%。</div></dd></dl></div></div></div><div>※Lv100、上限解锁第4阶段、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b4c1dc2e18e32bb9e5cb86720c66bbe6.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>继承了阿尔贝里亚的意志<br>并决意战斗到底的第七王子。<br>其勇气和善良吸引着众人聚集到他身边。<br>与伙伴间的友情和信赖<br>将化作超越传说的强大力量。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>升腾王冠</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>对周围的敌人造成伤害，<br>设置【攻击增益区域】。</div><div class="skill-detail">威力：1,652 × 1 Hit<br>所需SP：3,817<br>所需共享SP：16,794<br>特殊效果<br>·攻击力提升20%<br>　效果时间：10 秒</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e3c8bf74f6e5d50e339f98d82b8411472.png"></span>
+				<span>荣光之上</span>
+			</dt>
+			<dd><div>对前方的敌人造成伤害，<br>使其进入“麻痹”状态。<br>全队攻击力和防御力提升并获得护盾。<br>此技能随时间自动充能。</div><div class="skill-detail">威力：134 × 3 Hit<br>威力：400 × 10 Hit<br>所需SP：随时间自动充能<br>特殊效果<br>·攻击力提升15%<br>　效果时间：15 秒<br>·防御力提升15%<br>　效果时间：15 秒<br>·护盾<br>　效果次数：1<br>　效果量：HP最大值的20%<br>·麻痹<br>　效果时间：13 秒<br>　效果间隔：3.9 秒<br>　威力：60<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2993ccd3f5c88b4fc376f81999404f672.png"></span>
+				<span>龙化强化Ⅷ</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化中的伤害倍率提升10%，龙化时间延长20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span>
+				<span>【光】龙化：龙化时治愈Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为光时，<br>每次龙化获得【20秒内持续回复HP的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/62ec54c3111dcff5d7c6fadf0c9e0ae92.png"></span><span>龙光意志Ⅱ</span></dt><dd><div>龙化时间自然消耗速度减缓30%，<br>龙化中的攻击速度提升10%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>圣片加护Ⅱ</span></dt><dd><div>进入“中毒”、“诅咒”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span><span>龙之充能Ⅱ</span></dt><dd><div>HP在30%以下时，自身龙化槽提升50%。<br>此效果每回任务最多发动1次。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 特选对象角色在&ldquo;阿尔贝里亚大逃杀&rdquo;中解锁可变更外观的&ldquo;角色皮肤&rdquo;所需道具数量将有所减少。</div><div>※部分角色无法解锁角色皮肤。</div><div>3. 龙辉之印交换所需&ldquo;龙辉之印&rdquo;数量与以往有所不同。详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1636696800; update_time1636508735

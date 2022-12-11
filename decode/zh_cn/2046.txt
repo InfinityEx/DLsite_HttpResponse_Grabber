@@ -1,0 +1,8 @@
+article_id:2046
+category_name:公告
+title_name:关于“莫尔托梅塞亚歼灭战”的异常现象
+image_path:
+
+message:<div>目前已确认<span class="local_date" data-local_date="1615442400"></span>起出现了以下异常现象。</div><div><br></div><div>&middot;挑战&ldquo;防卫战 超级&rdquo;等可使用任务技能的任务后再挑战&ldquo;莫尔托梅塞亚歼灭战&rdquo;时会显示防卫战的任务技能导致无法发动原本的任务技能。</div><div>※本异常现象可通过重启游戏暂时解决。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1615460700; update_time1615513052

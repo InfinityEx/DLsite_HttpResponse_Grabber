@@ -1,0 +1,84 @@
+article_id:1021
+category_name:公告
+title_name:“Dragalia Fes”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1579759200"></span>起，&ldquo;Dragalia Fes&rdquo;开放！</div><div><br></div><div>【关于Dragalia Fes】</div><div>&middot;★5角色、龙的初始出现概率将从4%提升至6%！</div><div>※召唤出★5或★5特选后，出现概率将变回初始概率6%。</div><div><br></div><div>&middot;追加仅在Dragalia Fes活动期间出现的期间限定角色&ldquo;Fes限定Ver.&rdquo;！</div><div>※特选对象外的&ldquo;Fes限定Ver.&rdquo;角色也将同时追加。</div><div><br></div><div>【Dragalia Fes的出现概率】</div><div>★5 合计：6.00%</div><div>★5特选 合计：0.50%（角色：0.50%）</div><div>★5通常 合计：5.50%（角色：2.50%　龙：3.00%）</div><div>★4通常 合计：16.00%（角色：8.55%　龙：7.45%）</div><div>★3通常 合计：78.00%（角色：47.00%　龙：31.00%）</div><div><br></div><div>【Dragalia Fes活动期间】</div><div><span class="local_date" data-local_date="1579759200"></span> ～ <span class="local_date" data-local_date="1580277540"></span></div><div><br></div><div>特选对象&ldquo;Fes限定Ver.&rdquo;角色如下：</div><div><br></div><div>【Fes限定Ver.角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6b56faf9763502a18edfbb89d96dab4a.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>517</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,502</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>决意创造一个没有任何争端的<br>容身之处的卢卡。为跨越种族间的隔阂，<br>在各个种族的帮助下换上了全新的装备。<br>为了不忘那无比重要的约定<br>而手持友人之刀，誓要斩断纷争之源。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cbd8f43df3f5398db1f1d365ac553ca22.png"></span>
+				<span>光耀爆裂斩击</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成光属性伤害。<br>自身每持有1种不同图标的增益，<br>此技能暴击率提升10%。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>闪电超频</span>
+			</dt>
+			<dd>
+				<div>
+					10秒内自身暴击伤害倍率提升80%。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻击力＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队攻击力提升10%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/daec86e89dfb95ad45d6f68c08c841752.png"></span><span>纽带之力Ⅱ</span></dt><dd><div>自身每持有1种不同图标的增益，<br>暴击率提升4%（最多提升28%）。<br>自身每次暴击可在20秒内随机获得<br>【森隐族秘技】、【人族睿智】、<br>【罗卡族技艺】其中1种增益。<br>各增益均可使自身暴击率提升3%，<br>但无法与自身叠加。<br>此效果发动后3秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/2752d5bf66ac339cb32a3adf1a41e1702.png"></span><span>不屈誓约Ⅱ</span></dt><dd><div>进入“诅咒”状态的概率下降100%。<br>受到可能造成诅咒的攻击时，<br>自身获得【10秒内暴击率提升15%的增益】。<br>此效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>疾风怒涛·会心＋13%</span></dt><dd><div>连击达到15次以上时暴击率提升13%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1579759200; update_time1579163061

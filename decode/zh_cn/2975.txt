@@ -1,0 +1,8 @@
+article_id:2975
+category_name:活动
+title_name:团队活动【复刻】“克洛诺斯之怒”终章追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/0798f9df9fae5f9ee6ef6605da4dacc7.png
+
+message:<div><span class="local_date" data-local_date="1669701599"></span>结束的团队活动【复刻】&ldquo;克洛诺斯之怒&rdquo;已追加终章！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/0798f9df9fae5f9ee6ef6605da4dacc7.png"></div><div>玩家可在游戏内下方菜单的&ldquo;任务&rdquo;中点击&ldquo;活动浮窗&rdquo;进入&ldquo;团队活动&rdquo;的&ldquo;限定任务&rdquo;阅读。<br><br>■终章解锁期间<br><span class="local_date" data-local_date="1669701600"></span> ～ <span class="local_date" data-local_date="1669787999"></span><br>&nbsp;<br>■注意事项<br>终章仅限活动结束时已完成活动剧情第6话的玩家阅读。<br><br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1669701600; update_time1664761580

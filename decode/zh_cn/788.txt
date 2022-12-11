@@ -1,0 +1,8 @@
+article_id:788
+category_name:活动
+title_name:“真龙之试炼 高级”中即将开放新活动“竞速赛排行榜” ！
+image_path:https://dragalialost.akamaized.net/attached/information/images/b4b8474e244998c5ba9d7bde4eb41168.png
+
+message:<div><span class="local_date" data-local_date="1570773600"></span>起，所有&ldquo;真龙之试炼&rdquo;的&ldquo;高级&rdquo;难度中将开放&ldquo;竞速赛排行榜活动&rdquo;！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/b4b8474e244998c5ba9d7bde4eb41168.png"></div><div>■什么是竞速赛排行榜</div><div>排行榜统计期间在指定任务中比拼过关时间的活动。</div><div>根据排行榜中个人最佳纪录的排名区间可获得各种各样的报酬。</div><div><br></div><div>■参加条件</div><div>排行榜统计期间在多人模式下以4名玩家组成的队伍完成指定任务即可参加。</div><div>※如以不足4名玩家组成的队伍开始任务，或以4名玩家组成的队伍开始任务但因网络等问题导致完成任务时房间内不足4名玩家，均不计入排行榜。</div><div><br></div><div>【注意事项】</div><div>1. 挑战各属性&ldquo;真龙之试炼 高级&rdquo;需队伍战力在20000以上且通关相应&ldquo;真龙之试炼&rdquo;的&ldquo;中级&rdquo;难度。</div><div>2. 挑战各属性&ldquo;真龙之试炼 中级&rdquo;需通关同属性的&ldquo;龙之试炼&rdquo;的&ldquo;高级&rdquo;难度。解锁&ldquo;龙之试炼&rdquo;需通关主线剧情第3章4-4(Normal)。</div><div><br></div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。<br><br></div>
+
+start_time:1570428000; update_time1570160177

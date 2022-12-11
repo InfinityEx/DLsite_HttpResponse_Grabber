@@ -1,0 +1,196 @@
+article_id:238
+category_name:公告
+title_name:传说召唤“娇艳玫瑰绽放情人节”即将开放！
+image_path:
+
+message:<div>传说召唤&ldquo;娇艳玫瑰绽放情人节&rdquo;预计将于<span class="local_date" data-local_date="1550124000"></span>开放。</div><div><br></div><div>期间限定的角色&middot;龙辉护符和非期间限定的龙&middot;龙辉护符将在传说召唤中登场。<br>另外，特选对象的角色&middot;龙&middot;龙辉护符的出现概率将提升。</div><div>※本次新追加的★5龙&ldquo;普罗米修斯(火)&rdquo;和★4龙辉护符&ldquo;炎之盛宴&rdquo;在今后的传说召唤中也将登场。</div><div><br></div><div><strong>【期间限定的角色&middot;龙辉护符】</strong></div><div>■角色</div><div>★5　希尔德加德(情人节Ver.)：火/法杖</div><div>★4　艾赛莉特(情人节Ver.)：火/弓</div><div>★3　俄里翁(情人节Ver.)：火/剑</div><div>■龙辉护符</div><div>★5　手工巧克力&middot;教学</div><div>★5　玫瑰贵公子</div><div>★3　献给最爱的人</div><div><br></div><div><strong>【新追加的龙&middot;龙辉护符】</strong></div><div>■龙</div><div>★5　普罗米修斯(火)</div><div>■龙辉护符</div><div>★4　炎之盛宴</div><div><br></div><div><strong>【传说召唤 特选期间】</strong></div><div><span class="local_date" data-local_date="1550124000"></span> ～ <span class="local_date" data-local_date="1550815140"></span></div><div><br></div><div>部分特选对象的角色&middot;龙&middot;龙辉护符详情如下：</div><div><br></div><div><strong>【特选角色介绍】</strong></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ab813497578fbe5256924389f0d72b35.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>80</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/a6bf6cc478bdfec859a5780e4a4ddade2.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>805</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>469</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>2514</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">角色详情</div>
+			<div class="param">
+				<ul>
+					<li>身着优雅礼服的希尔德加德，<br>浑身上下散发着无穷的魅力。<br>其实这是她生平第一次穿上礼服。<br>据说有人曾目睹她穿着礼服<br>站在镜子前独自害羞的样子。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/60f1b523939d4da53f69acafbd855d5a2.png"></span>
+				<span>慈爱玫瑰</span>
+			</dt>
+			<dd>
+				<div>
+					回复所有同伴的HP，<br>并提升全队1阶段【斗志】，<br>15秒内持续回复HP。<br>【斗志】提升5阶段可转化为【超强斗志】，<br>强化攻击·回复技能。<br>【超强斗志】将在使用对象技能后解除。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5122c3eb2fa36c98b13558ca12499f5d2.png"></span>
+				<span>圣洁守护</span>
+			</dt>
+			<dd>
+				<div>
+					使全队获得<br>【使HP最大值30%以下的伤害无效的护盾】，<br>并提升2阶段【斗志】。<br>护盾仅生效1次，且无法与同种护盾叠加。<br>【斗志】提升5阶段可转化为【超强斗志】，<br>强化攻击·回复技能。<br>【超强斗志】将在使用对象技能后解除。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回复技能效果＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队回复技能效果提升20%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9db1d5ba1c3810cd513929574db547b92.png"></span><span>强击衰弱·攻Ⅱ</span></dt><dd><div>爆发攻击时有70%的概率触发<br>【10秒内攻击力下降3%的减益效果】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏迷抗性＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>开场技能槽＋100%</span></dt><dd><div>任务开始时技能槽提升100%。</div></dd></dl></div></div></div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div><br></div><div><strong>【特选龙介绍】</strong></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2e5c900615adc4ed73480f831df7796b.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>374</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>121</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>995</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">龙详情</div>
+			<div class="param">
+				<ul>
+					<li>继承了原初之火的强大火龙。<br>其信条是“保护弱者是强者的义务”，<br>但那份过于强大的力量<br>曾伤害了本应保护的人们，<br>那之后便与人类保持距离。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/361d064af9b1da9ccddaf474e3da73842.png"></span>
+				<span>普罗米修斯之火</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成火属性伤害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/916d0547dd866ff9333344c772c14d732.png"></span><span>【火】攻击&风抗性提升Ⅱ</span></dt><dd><div>装备角色属性为火时，<br>角色的攻击力提升50%，风属性抗性提升15%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div><strong>【特选龙辉护符介绍】</strong></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c090f217998e12b9573fcadd559203c8.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>178</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>62</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>340</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>开场技能槽＋100%</span></dt><dd><div>任务开始时技能槽提升100%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁时的数值，并非获得时的数值。</div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/0eeaadaa5e311f74c01b7f283618529a.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>195</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>46</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>381</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3d57efbfc9ee679b982b0fd3ed6495302.png"></span><span>【火】异常状态无效Ⅱ</span></dt><dd><div>装备角色属性为火时，<br>任务中最多3次免于进入异常状态。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>开场伤害护盾Ⅱ</span></dt><dd><div>任务开始时获得<br>【使HP最大值20%以下的伤害无效的护盾】。<br>护盾仅生效1次，且不可与同种护盾叠加。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁时的数值，并非获得时的数值。</div><div><br></div><div><strong>【注意事项】</strong></div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;或&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;查看。</div><div>3. 活动期间及内容可能会在无预先通知的情况下变更。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1550037600; update_time1550109348

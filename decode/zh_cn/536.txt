@@ -1,0 +1,8 @@
+article_id:536
+category_name:维护
+title_name:关于6/28的游戏维护
+image_path:
+
+message:<div>为准备今后更新的内容，我们预计将于以下时间段对游戏进行维护。</div><div>※如在本次维护前开始任务并在维护途中完成任务，将无法获得相应报酬。</div><div>※&ldquo;每日回复礼包&rdquo;请在本次维护前领取。</div><div><br></div><div>■维护时间</div><div><span class="local_date" data-local_date="1561699800"></span>左右 ～ <span class="local_date" data-local_date="1561701600"></span>左右</div><div><br></div><div>■注意事项</div><div>1.维护中无法进行游戏。</div><div>2.维护开始与结束时间可能提前或延后。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1561096800; update_time1561085954

@@ -1,0 +1,8 @@
+article_id:1621
+category_name:活动
+title_name:回忆活动中追加设施活动“糖果的万圣节派对之夜”！
+image_path:https://dragalialost.akamaized.net/attached/information/images/556633bb03e124f6e02415e3f929f690.png
+
+message:<div><span class="local_date" data-local_date="1601013600"></span>起，回忆活动中追加可参加的设施活动&ldquo;糖果的万圣节派对之夜&rdquo;。</div><div><br></div><div>另外，回忆活动部分目标和交换所内容已随龙辉护符系统调整进行变更。</div><div>详情请查看以下公告。</div><div><br></div><div><a href="https://dragalialost.com/chs/news/detail/1605">龙辉护符系统调整公告</a></div><div><a href="https://dragalialost.com/chs/news/detail/1622">龙辉护符系统调整补偿公告</a></div><div><br></div><div><a href="https://dragalialost.com/chs/news/detail/1176">请点击这里查看回忆活动详情。</a></div><div><br></div><div>※本次追加的任务均为单人任务，无法挑战多人模式。</div><div>※今后的更新中预计将追加可参加的活动种类。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div>
+
+start_time:1601013600; update_time1600944207

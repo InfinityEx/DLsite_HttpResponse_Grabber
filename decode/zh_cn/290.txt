@@ -1,0 +1,243 @@
+article_id:290
+category_name:公告
+title_name:传说召唤“禁忌召唤·封印图书馆 特选”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1552370400"></span>起，传说召唤&ldquo;禁忌召唤&middot;封印图书馆 特选&rdquo;开放！</div><div><br></div><div>当前特选对象的角色&middot;龙&middot;龙辉护符的出现概率提升。</div><div><br></div><div>【特选对象的角色&middot;龙&middot;龙辉护符】</div><div>■角色</div><div>★5 海因瓦尔德：暗/法杖</div><div>★5 库格尔：暗/斧</div><div><br></div><div>■龙</div><div>★5 奈亚拉托提普：暗</div><div><br></div><div>■龙辉护符</div><div>★5 缥缈的少女</div><div>★4 顶级服务</div><div>★3 异端研究室</div><div><br></div><div>※其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;查看。</div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1552370400"></span> ～ <span class="local_date" data-local_date="1553061540"></span></div><div><br></div><div>部分特选对象的角色&middot;龙&middot;龙辉护符详情如下：</div><div><br></div><div>【特选角色介绍】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/95e92fc03d38d57502354ca82a297a8c.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/a6bf6cc478bdfec859a5780e4a4ddade2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>804</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>470</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2514</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>盗窃、杀人、超自然现象……<br>对各种谜团都兴趣浓厚并探求真相的<br>真理探究者。拥有敏锐的洞察能力<br>和缜密的逻辑思维。沉迷自身的兴趣，<br>凡事都要插一手，因此不时会引起麻烦。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>混沌召唤</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成暗属性伤害并回复所有同伴的HP。<br>追加回复造成伤害3%的HP。<br>追加回复效果不超过各角色HP最大值的8%。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>触碰深渊</span>
+			</dt>
+			<dd>
+				<div>
+					10秒内发动【触碰深渊】。<br>此效果期间自身攻击力提升10%，<br>强化技能“混沌召唤”。<br>自身与周围同伴攻击力提升10%。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回复技能效果＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队回复技能效果提升20%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>HP70% 技能＋35%</span></dt><dd><div>HP在70%以上时技能伤害提升35%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痹抗性＋100%</span></dt><dd><div>进入“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>开场技能槽＋100%</span></dt><dd><div>任务开始时技能槽提升100%。</div></dd></dl></div></div></div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/4c787065ff3716aa3c45a77daef205d9.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>741</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>519</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>伊莉雅教会的异端审问官。<br>看似冷酷无情，其实很有人情味且泪点很低。<br>某个事件之后认识到光靠惩罚那些<br>被认定为异端的人物不能解决任何问题，<br>反而四处奔走，为嫌犯收集其不是异端的证据。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>制裁回旋</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成暗属性伤害，<br>使其防御力下降5%。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>无情打击</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成暗属性伤害。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防御力＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队防御力提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/561f0cc02896bcc3c7580180041730282.png"></span><span>OVERDRIVE特效＋13%</span></dt><dd><div>对OVERDRIVE的敌人造成的伤害提升13%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痹抗性＋100%</span></dt><dd><div>进入“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>背水一战·攻＋50%</span></dt><dd><div>HP在30%以下时，<br>发动【15秒内攻击力提升50%的增益】。<br>此效果每回任务最多发动1次。</div></dd></dl></div></div></div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div><br></div><div>【特选龙介绍】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6ac329f269181beeb987857f7114d55d.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>栖息在禁书图书馆的神秘之龙。<br>其话语晦涩难懂，行动令人难以捉摸，<br>自称是侍奉“遥远之主”的使者。<br>奈亚拉托提普——<br>相传此名并非指一头龙，其真相究竟……</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>黑暗笼罩</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成暗属性伤害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【暗】HP30% 攻＋50%</span></dt><dd><div>装备角色属性为暗，且HP在30%以上时，<br>攻击力提升50%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>【暗】背水一战·盾Ⅱ</span></dt><dd><div>装备角色属性为暗，且HP在30%以下时，<br>获得【使HP最大值60%以下的伤害无效的护盾】。<br>护盾仅生效1次，且不可与同种护盾叠加。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【特选龙辉护符介绍】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f508901fe31e358d360ea51fa97b296b.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>187</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>53</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>380</span>
+			</div>
+		</div></div></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>背水一战·治愈Ⅲ</span></dt><dd><div>HP在30%以下时，<br>发动【在20秒内持续回复HP的增益】。<br>此效果每回任务最多发动1次。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>开场伤害护盾Ⅱ</span></dt><dd><div>任务开始时<br>获得【使HP最大值%以下的伤害无效的护盾】。<br>护盾仅生效1次，且不可与同种护盾叠加。</div></dd><dt class="event 20806"><span><img src="https://dragalialost.akamaized.net/attached/information/images/d8500412f4bc9a9a1010af4d70c139fe2.png"></span><span>调查度＋150%</span></dt><dd class="event 20806"><div>完成任务时获得的【调查度】提升150%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;或&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1552370400; update_time1557306889

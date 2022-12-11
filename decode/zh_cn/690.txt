@@ -1,0 +1,8 @@
+article_id:690
+category_name:公告
+title_name:追加“新手限定 建造时间加速”！
+image_path:
+
+message:<div>版本1.12.0起，追加&ldquo;新手限定 建造时间加速&rdquo;！&ldquo;圣城&rdquo;解锁后的30天内，建造和升级设施所需时间减半！</div><div><span style="color: rgb(226, 80, 65);"><strong>※仅限<span class="local_date" data-local_date="1569564000"></span>实施的版本1.12.0强制更新后完成&ldquo;圣城&rdquo;新手教程并解锁&ldquo;圣城&rdquo;的玩家。</strong></span></div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/fcfa74c8165c21c0c8bbe1f681f0595f.png"></div><div><br></div><div>■注意事项</div><div>解锁&ldquo;圣城&rdquo;需通关主线剧情第1章4-6(Normal)并完成&ldquo;圣城&middot;龙之庭院新手教程&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1569564000; update_time1568947135

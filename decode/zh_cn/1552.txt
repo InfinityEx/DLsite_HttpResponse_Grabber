@@ -1,0 +1,8 @@
+article_id:1552
+category_name:公告
+title_name:因“塔耳塔洛斯叛乱战”中出现异常现象而暂时关闭该任务【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1598620500"></span>追记】</strong></span><br>本异常现象已于<span class="local_date" data-local_date="1598620500"></span>左右得到修正。&ldquo;塔耳塔洛斯叛乱战 中级&rdquo;和&ldquo;塔耳塔洛斯叛乱战 高级&rdquo;现已重新开放。<br><br>另外，我们在修正异常现象的同时对任务进行了部分调整。<br>详情如下：<br><br>■调整内容<br>&middot;打倒塔耳塔洛斯的分身后，角色将获得一定时间内降低所受伤害的增益。<br>&middot;下调塔耳塔洛斯获得&ldquo;复仇者之怒&rdquo;状态时使用&ldquo;制裁之箭&rdquo;和&ldquo;制裁暗流&rdquo;造成的伤害。<br><br>对于本次异常现象及暂时关闭&ldquo;塔耳塔洛斯叛乱战 中级&rdquo;和&ldquo;塔耳塔洛斯叛乱战 高级&rdquo;，我们深表歉意。<br>我们将依次向<span class="local_date" data-local_date="1598620500"></span>前开始游戏的玩家发放以下道具作为补偿。<br><br>龙辉晶 400个<br><br>※玩家可在&ldquo;礼物箱&rdquo;领取补偿。<br>※补偿的领取期限为发送至礼物箱后7天内。<br>对于给各位玩家造成的困扰和不便，我们再次深表歉意。</div><hr><div>目前已确认&ldquo;塔耳塔洛斯叛乱战 中级&rdquo;和&ldquo;塔耳塔洛斯叛乱战 高级&rdquo;中出现了特定条件下角色一直无敌的异常现象。</div><div>我们正在调查本异常现象的原因，为此将暂时关闭&ldquo;塔耳塔洛斯叛乱战 中级&rdquo;和&ldquo;塔耳塔洛斯叛乱战 高级&rdquo;直至异常现象得到修正。</div><div>任务暂时关闭期间单人模式和多人模式中点击&ldquo;开始任务&rdquo;后将显示&ldquo;任务正在维护。&rdquo;并移动至主页。</div><div><br></div><div>■暂时关闭期间</div><div><span class="local_date" data-local_date="1598604600"></span> ～ 结束时间未定</div><div><br></div><div>恢复时间和其它最新进展将第一时间更新在本公告中。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1598604600; update_time1598620562

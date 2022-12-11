@@ -1,0 +1,8 @@
+article_id:663
+category_name:公告
+title_name:值此活动开放之际，向各位玩家发放“龙辉晶”！
+image_path:
+
+message:<div>为让各位玩家在8月也能尽情享受游戏带来的乐趣，我们已向各位玩家发放&ldquo;龙辉晶&rdquo;！</div><div>希望能为各位玩家在当前活动中大显身手提供帮助！</div><div><br></div><div>■礼物内容</div><div>龙辉晶 1200个</div><div><br></div><div>■发放对象</div><div><span class="local_date" data-local_date="1565330400"></span>前开始游戏的玩家</div><div><br></div><div>领取期限为发送至礼物箱后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1565330400; update_time1569483874

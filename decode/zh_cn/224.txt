@@ -1,0 +1,8 @@
+article_id:224
+category_name:公告
+title_name:关于真布伦希尔德不发动抓击的异常现象
+image_path:
+
+message:<div>目前已确认&quot;真布伦希尔德的试炼&quot;中真布伦希尔德出现了不发动抓击并在一定时间内不会行动的异常现象。</div><div><br></div><div>本异常现象已于<span class="local_date" data-local_date="1548727200"></span>后进行的维护中得到解决。</div><div><br></div><div>我们将依次向<span class="local_date" data-local_date="1548727200"></span>前开始游戏的玩家发放以下道具作为补偿。</div><div><br></div><div>&middot;龙辉晶 300个</div><div><br></div><div>玩家可在&quot;礼物箱&quot;领取。</div><div><br></div><div>本次补偿可在<span class="local_date" data-local_date="1549346340"></span>前登录游戏领取。</div><div>领取期限为发送至礼物箱后7天内。</div><div><br></div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1548746100; update_time1549535650

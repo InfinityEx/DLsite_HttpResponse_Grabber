@@ -1,0 +1,8 @@
+article_id:1970
+category_name:活动
+title_name:活动“迎击战～情人节☆★爱之骚动～”预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/4d26301f86e639f458d9521f2899272b.png
+
+message:<div>活动&ldquo;迎击战～情人节☆★爱之骚动～&rdquo;预计将于<span class="local_date" data-local_date="1613109600"></span>开始。</div><div>&ldquo;迎击战～情人节☆★爱之骚动～&rdquo;是在据点抵御众多敌人来袭的活动。</div><div>本活动中可获得用于解锁共享技能的道具和体力回复道具等报酬，敬请参与！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/4d26301f86e639f458d9521f2899272b.png"></div><div><br></div><div>情人节&hellip;&hellip;对于女孩子来说</div><div>这是一个非常重要的节日☆</div><div>而我当然要和卢卡亲约会去啦☆☆☆☆</div><div>可是本该甜甜蜜蜜心跳不已的约会</div><div>却被一头缠上来的怪龙给搅了☆</div><div>对不起啊☆人家早就已经和卢卡亲</div><div>约定终生了呢&hellip;&hellip;诶？要告诉我</div><div>什么是真正的爱？你到底是谁&hellip;&hellip;</div><div><br></div><div>■注意事项</div><div>参加活动需通关主线剧情第2章 2-1(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div>
+
+start_time:1612936800; update_time1612228114

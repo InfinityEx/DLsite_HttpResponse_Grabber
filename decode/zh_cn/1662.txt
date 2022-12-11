@@ -1,0 +1,8 @@
+article_id:1662
+category_name:活动
+title_name:团队活动“失落历史～尘封的真相～”剧情第9话和ULTIMATE解锁！
+image_path:https://dragalialost.akamaized.net/attached/information/images/448ac6ac44781a3e5d3f0b5951e4d787.png
+
+message:<div><span class="local_date" data-local_date="1601877600"></span>起，团队活动&ldquo;失落历史～尘封的真相～&rdquo;剧情第9话和团队战&ldquo;ULTIMATE&rdquo;解锁。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/448ac6ac44781a3e5d3f0b5951e4d787.png"></div><div>■关于ULTIMATE<br><br>挑战&ldquo;ULTIMATE&rdquo;需通关团队战&ldquo;HELL&rdquo;难度<br>并通关阅读剧情第9话后解锁的任务&ldquo;封魔战争 决战&rdquo;。<br><br>另外，解锁&ldquo;ULTIMATE&rdquo;需获得3个活动道具&ldquo;异界之匙&rdquo;。<br>&ldquo;异界之匙&rdquo;可作为&ldquo;勇者的铜奖章&rdquo;、&ldquo;战士的银奖章&rdquo;、&ldquo;王者的金奖章&rdquo;的奖章报酬各获得1个。<br><br>&middot;&ldquo;ULTIMATE 单人 Lv1&rdquo;<br>单人模式专用任务。<br>通关团队战&ldquo;HELL&rdquo;难度和任务&ldquo;封魔战争 决战&rdquo;后可解锁。<br><br>&middot;&ldquo;ULTIMATE 多人 Lv1&rdquo;<br>多人模式专用任务。<br>通关&ldquo;ULTIMATE 单人 Lv1&rdquo;后可解锁。<br><br>&middot;&ldquo;ULTIMATE 单人 Lv2&rdquo;<br>单人模式专用任务。<br>通关&ldquo;ULTIMATE 多人 Lv1&rdquo;后可解锁。<br><br>&middot;&ldquo;ULTIMATE 多人 Lv2&rdquo;<br>多人模式专用任务。<br>通关&ldquo;ULTIMATE 单人 Lv2&rdquo;后可解锁。<br><br>&middot;&ldquo;ULTIMATE 单人 Lv3&rdquo;<br>单人模式专用任务。<br>通关&ldquo;ULTIMATE 多人 Lv2&rdquo;后可解锁。<br><br>&middot;&ldquo;ULTIMATE 多人 Lv3&rdquo;<br>多人模式专用任务。<br>通关&ldquo;ULTIMATE 单人 Lv3&rdquo;后可解锁。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/697c4dda98155f754ec5d3f7453deb94.png"></div><div>阅读剧情第9话后解锁的任务&ldquo;封魔战争 决战&rdquo;和各ULTIMATE任务中追加&ldquo;瘴气槽&rdquo;系统。<br>&ldquo;瘴气槽&rdquo;达到MAX后莫尔托梅塞亚将变得更凶恶，使用任务技能&ldquo;圣闪&rdquo;降低瘴气槽吧！<br><br>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1601877600; update_time1601621967

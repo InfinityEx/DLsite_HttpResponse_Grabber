@@ -1,0 +1,198 @@
+article_id:3082
+category_name:公告
+title_name:火属性★5角色确定！“白金传说召唤”即将开放！
+image_path:
+
+message:<div>&ldquo;白金传说召唤&rdquo;预计将于<span class="local_date" data-local_date="1651471200"></span>开放。</div><div><br></div><div>白金传说召唤是&ldquo;10连召唤&rdquo;的第10位确定为火属性★5角色的召唤。</div><div><span style="color: rgb(226, 80, 65);">※火属性以外的角色&middot;龙不会出现在本召唤中。</span></div><div>活动期间最多可进行2次&ldquo;10连召唤&rdquo;。</div><div>本召唤仅限使用龙钻。</div><div><br></div><div>【白金传说召唤期间】</div><div><span class="local_date" data-local_date="1651471200"></span> ～ <span class="local_date" data-local_date="1652421599"></span></div><div><br></div><div>&ldquo;白金传说召唤&rdquo;第10位确定出现的部分对象火属性★5角色详情如下：</div><div><br></div><div>【第10位确定对象火属性★5角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1e7bc1b2e91c5615f4673ac1e32031ab.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>789</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>486</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>身着东方日出之国<br>新年盛装的埃尔菲莉丝。<br>本想安稳地迎接新年，结果又是战斗<br>又是被卷入突发状况，忙得不可开交。<br>看来今年也会是热闹的一年。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9403d500fcac4e5fa713f9f22e2acb6d2.png"></span>
+				<span>大和抚子</span>
+			</dt>
+			<dd><div>队伍内所有火属性角色获得【宏图祈愿】。<br>此技能蓄力时根据点击屏幕的次数<br>追加相应层数（最多2层）的【宏图祈愿】。<br>【宏图祈愿】效果期间再次获得【宏图祈愿】<br>可提升效果等级强化效果。<br>【宏图祈愿】等级会在效果时间结束后降低，<br>Lv1时降级则会解除效果。<br>Lv1：15秒内攻击力提升15%。<br>Lv2：30秒内攻击力提升25%。<br>Lv3：60秒内攻击力提升40%，风属性伤害降低15%。</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ddbfc893d24491b774462a7d936dab522.png"></span>
+				<span>新春吉日</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>对目标和目标周围的敌人造成火属性伤害，<br>使其进入“劫火”状态。<br>30秒内使其劫火抗性下降20%。<br>此效果不可叠加。</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3c77eb4ce89d7a87424b9733969ae7282.png"></span>
+				<span>重生时HP＋30%</span>
+			</dt>
+			<dd>
+				<div>
+					全队重生时的HP提升30%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>【火】连击：连击时会心Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为火时，<br>每10次连击，暴击率提升1%。<br>此效果最多叠加至20层。<br>连击数重置时解除此能力提供的所有增益。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>新春万福Ⅱ</span></dt><dd><div>根据自身获得的【宏图祈愿】等级发动以下效果。<br>Lv1：技能槽上升率提升7%。<br>Lv2：技能槽上升率提升8%。<br>Lv3：技能槽上升率提升10%，<br>技能“新春吉日”随时间自动充能，<br>此充能不受“技能槽上升率提升效果”影响。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠抗性＋100%</span></dt><dd><div>进入“睡眠”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>开场技能槽＋100%</span></dt><dd><div>任务开始时技能槽提升100%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ab4a5eea7755da4d7bea802add8396cf.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>742</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>本领了得的佣兵兰扎卜因时空物理<br>魔法实验变成了孩子的身体。<br>虽然身体变小了，但其身经百战<br>积累的经验和有情有义的男子气概……<br>以及令人震惊的大食量依旧不变。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c2db8e594e072513922d2af7ebfa68c62.png"></span>
+				<span>强力挥击</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>对前方的敌人造成伤害，<br>使其进入“劫火”状态。</div><div class="skill-detail">威力：1,015 × 1 Hit<br>所需SP：3,230<br>所需共享SP：8,559<br>特殊效果<br>·劫火<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41.6</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20f15e05dab3cf33c2c02e36b5f9d8722.png"></span>
+				<span>活力本垒打</span>
+			</dt>
+			<dd><div>自身获得攻击力提升的战意。<br>使技能“强力挥击”准备就绪，<br>且下次使用“强力挥击”时必定暴击。<br>同时拥有此效果和超强灵感的状态下<br>使用技能将同时消耗此效果和超强灵感并暴击。</div><div class="skill-detail">所需SP：7,583<br>获得战意<br>·攻击力提升（士气上限Lv 2）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防御力＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队防御力提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【火】士气：攻势士气·攻＋8%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为火<br>且获得攻击力提升的士气时，<br>攻击力提升8%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>强力击球手Ⅱ</span></dt><dd><div>可提升的暴击率上限变为10%，<br>暴击伤害倍率提升40%。<br>超强灵感可正常生效。<br>技能“强力挥击”暴击时，<br>自身获得攻击力提升的战意（士气上限Lv2）。<br>此效果发动后1秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏迷抗性＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cc3f28b7bfce6dfc1ea65f36822cae7f2.png"></span><span>战意（攻） 攻击速度＋8%</span></dt><dd><div>获得攻击力提升的战意时，攻击速度提升8%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>【注意事项】</div><div>1. &ldquo;白金传说召唤&rdquo;详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;白金传说召唤&rdquo;，查看&ldquo;出现概率&rdquo;或&ldquo;召唤信息&rdquo;中的&ldquo;详情&rdquo;。</div><div>2. &ldquo;白金传说召唤&rdquo;中无法获得&ldquo;龙辉之印&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1651384800; update_time1647658060

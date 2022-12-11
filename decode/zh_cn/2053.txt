@@ -1,0 +1,8 @@
+article_id:2053
+category_name:公告
+title_name:YouTube Live“纳姆Channel”播放公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/f147484c78d83d1a4bd8dbdec5e66549.png
+
+message:<div>&ldquo;纳姆Channel&rdquo;预计将于<span class="local_date" data-local_date="1616641200"></span>左右在YouTube Live开始直播。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/f147484c78d83d1a4bd8dbdec5e66549.png"></div><div><br></div><div>&ldquo;纳姆Channel&rdquo;将为各位玩家带来2.5Year Anniversary相关消息、新功能及版本更新内容等各种各样的情报，敬请关注！</div><div>YouTube Live直播结束后可通过归档播放观看。</div><div><br></div><div>▼播放页面</div><div><a href="https://youtu.be/6l6Q9XGBBuw">https://youtu.be/6l6Q9XGBBuw</a></div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1616392800; update_time1616384265

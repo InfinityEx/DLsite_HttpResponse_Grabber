@@ -1,0 +1,8 @@
+article_id:69
+category_name:维护
+title_name:“商店”维护公告【追记】
+image_path:
+
+message:<div>我们预计将于以下时间段对游戏中的&ldquo;商店&rdquo;进行维护。</div><div>※仅对&ldquo;商店&rdquo;进行维护，不影响其它功能。</div><div><br></div><div>■维护时间</div><div><span class="local_date" data-local_date="1540878600"></span> ～ <span class="local_date" data-local_date="1540879200"></span></div><div><br></div><div>■维护内容</div><div>关于共斗之翼的调整。</div><div><br></div><div>■注意事项</div><div>维护开始与结束时间可能会在无预先通知的情况下变更。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1540879200"></span>追记</strong></span><br>对&ldquo;商店&rdquo;的维护已于<span class="local_date" data-local_date="1540879200"></span>结束。<br>感谢各位玩家对本次维护的支持和理解。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1540811700; update_time1542363817

@@ -1,0 +1,32 @@
+article_id:1113
+category_name:公告
+title_name:“龙辉护符交换所”追加新的龙辉护符！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1582869600"></span>起，&ldquo;龙辉护符交换所&rdquo;的列表中已追加新的龙辉护符。</div><div><br></div><div>可点击&ldquo;龙辉护符交换所&rdquo;中的&ldquo;特选&rdquo;及各稀有度标签页面交换追加的新龙辉护符。</div><div><br></div><div><strong>【新龙辉护符介绍】</strong></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/18a5735cb6bf9cfaa9ee2daeb6ad909e2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">与主厨共进早餐</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾风怒涛·攻＋20%&nbsp;(Max20%)</span></dt><dd><div>连击达到15次以上时攻击力提升20%。&nbsp;(Max20%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>HP70% 会心＋8%&nbsp;(Max15%)</span></dt><dd><div>HP在70%以上时，暴击率提升8%。&nbsp;(Max15%)</div></dd><dt class="event 20815"><span><img src="https://dragalialost.akamaized.net/attached/information/images/e5753ff6a41eb2cb0f940d7eb4841f372.png"></span><span>美味度＋150%&nbsp;(Max150%)</span></dt><dd class="event 20815"><div>完成任务时获得的【美味度】提升150%。&nbsp;(Max150%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/54f0dcf6b7ada009165af79406fb90512.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">三叶的启蒙教程</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>疾风怒涛·会心＋10%&nbsp;(Max15%)</span></dt><dd><div>连击达到15次以上时暴击率提升10%。&nbsp;(Max15%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>暴击伤害＋13%&nbsp;(Max25%)</span></dt><dd><div>暴击伤害倍率提升13%。&nbsp;(Max25%)</div></dd><dt class="event 20815"><span><img src="https://dragalialost.akamaized.net/attached/information/images/e5753ff6a41eb2cb0f940d7eb4841f372.png"></span><span>美味度＋100%&nbsp;(Max150%)</span></dt><dd class="event 20815"><div>完成任务时获得的【美味度】提升100%。&nbsp;(Max150%)</div></dd></dl></div></div></div><div><br></div><div>※最大上限解锁时的数值，并非获得时的数值。</div><div><br></div><div>【特选期间】</div><div><span class="local_date" data-local_date="1582869600"></span> ～ <span class="local_date" data-local_date="1583992799"></span></div><div><br></div><div><span style="color: rgb(184, 49, 47);">※特选期间结束后，仍可在各稀有度标签页面交换本次追加的龙辉护符。</span></div><div><br></div><div>【注意事项】</div><div>本公告以外的信息可进入商店中的&ldquo;龙辉护符交换所&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1582869600; update_time1582708723

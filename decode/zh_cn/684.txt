@@ -1,0 +1,167 @@
+article_id:684
+category_name:公告
+title_name:“龙传说召唤”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1566885600"></span>起，&ldquo;龙传说召唤&rdquo;开放！</div><div><br></div><div>特选对象的★5和★4龙的出现概率提升。</div><div><br></div><div><span style="color: rgb(0, 0, 0);">【关于龙传说召唤出现概率的调整】</span></div><div>自本召唤起，将对&ldquo;★5龙 特选&rdquo;、&ldquo;★5角色 特选&rdquo;、&ldquo;★5龙&rdquo;、&ldquo;★4龙 特选&rdquo;、&ldquo;★4角色 特选&rdquo;的出现概率进行以下调整：</div><div>※出现概率调整后，角色不再是特选对象。</div><div><br></div><div>&middot;★5龙 特选</div><div>调整前：1.50%</div><div>调整后：2.40%</div><div><br></div><div>&middot;★5角色 特选</div><div>调整前：0.50%</div><div>调整后：0%</div><div><br></div><div>&middot;★5龙</div><div>调整前：1.25%</div><div>调整后：0.85%</div><div><br></div><div>&middot;★4龙 特选</div><div>调整前：5.25%</div><div>调整后：7.00%</div><div><br></div><div>&middot;★4角色 特选</div><div>调整前：1.75%</div><div>调整后：0%</div><div><br></div><div>【龙传说召唤的出现概率】</div><div>★5特选 合计：2.40%（角色：0% 龙：2.40%）</div><div>★5通常 合计：1.60%（角色：0.75% 龙：0.85%）</div><div>★4特选 合计：7.00%（角色：0% 龙：7.00%）</div><div>★4通常 合计：9.00%（角色：5.05% 龙：3.95%）</div><div>★3通常 合计：80.00%（角色：48.00% 龙：32.00%）</div><div><br></div><div>【龙传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1566885600"></span> ～ <span class="local_date" data-local_date="1567231140"></span></div><div><br></div><div>部分特选对象龙详情如下：</div><div><br></div><div>【特选龙介绍】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c472f318672686da1d5a1ddad786aabd.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1006</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>遁于黑暗、活在暗影中的龙。<br>身上坚硬的鳞如甲胄一般，<br>使用独特的招式打倒敌人。<br>相传人们曾向他请教并学到战术，<br>那便是日出之国忍者的起源。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5347ab03287b73332172842f38879f5a2.png"></span>
+				<span>忍术·影身手里剑</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人造成暗属性伤害，<br>使全队进入【超强斗志】状态。<br>【超强斗志】将在使用对象技能后解除。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【暗】攻击力＋20%</span></dt><dd><div>装备角色属性为暗时，<br>角色的攻击力提升20%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【暗】技能伤害＋90%</span></dt><dd><div>装备角色属性为暗时，<br>攻击技能造成的伤害提升90%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1cb95dc5a5061d224b64ca7d2665ff34.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1005</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>来自日出之国、绯樱环绕的龙。<br>会为其看好之人带来花开般的荣华。<br>但其力量过于强大，受其恩惠者<br>皆如昙花一现般迅速凋零。因此相传<br>只有能承受那股力量的强者才可得其相助。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>少女神乐·花衣之舞</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成火属性伤害，使自身获得<br>【下一次技能伤害提升40%的增益】。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻击力＋20%</span></dt><dd><div>装备角色属性为火时，<br>角色的攻击力提升20%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【火】技能伤害＋90%</span></dt><dd><div>装备角色属性为火时，<br>攻击技能造成的伤害提升90%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/038de544837228c36ac7284a3ae443a7.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>980</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>在东方的日出之国被崇拜供奉的雷龙。<br>周身迸发出的雷电被视为力量的象征，<br>并受到尚武的武士们的广泛信仰。<br>传说雷龙擅长以扭打退敌，<br>因此被称作日出之国的相扑始祖。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>雷技·紫电进击</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成光属性伤害，<br>使其进入“昏迷”状态。攻击时可控制方向。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻击力＋40%</span></dt><dd><div>装备角色属性为光时，<br>角色的攻击力提升40%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/561f0cc02896bcc3c7580180041730282.png"></span><span>【光】OVERDRIVE特效＋25%</span></dt><dd><div>装备角色属性为光时，<br>对OVERDRIVE状态的敌人造成的伤害提升25%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>其他特选对象龙如下：</div><div>★4龙：伊夫利特、沃加诺伊、林德巴鲁姆</div><div><br></div><div>【注意事项】</div><div>召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1566885600; update_time1566783513

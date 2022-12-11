@@ -1,0 +1,8 @@
+article_id:822
+category_name:公告
+title_name:发放1200个龙辉晶！
+image_path:
+
+message:<div>为迎接即将于<span class="local_date" data-local_date="1571378400"></span>开放的传说召唤&ldquo;奇幻&middot;万圣节2&rdquo;，我们将依次向各位玩家发放礼物！</div><div><br></div><div>■礼物内容</div><div>龙辉晶 1200个</div><div><br></div><div>■发放对象</div><div><span class="local_date" data-local_date="1571292000"></span>前开始游戏的玩家。</div><div><br></div><div>领取期限为发送至礼物箱后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1571292000; update_time1571292551

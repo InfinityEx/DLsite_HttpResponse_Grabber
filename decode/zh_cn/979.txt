@@ -1,0 +1,68 @@
+article_id:979
+category_name:公告
+title_name:“龙辉护符交换所”追加期间限定龙辉护符！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1577772000"></span>起，&ldquo;龙辉护符交换所&rdquo;的列表中已追加期间限定龙辉护符。</div><div><br></div><div>可点击&ldquo;龙辉护符交换所&rdquo;中的&ldquo;特选&rdquo;及各稀有度标签页面交换追加的期间限定龙辉护符。</div><div><br></div><div>【新龙辉护符介绍】</div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/ade71d1210811d6635492225cd5d37492.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">两位十二龙氏，前来！</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能伤害＋30%&nbsp;(Max40%)</span></dt><dd><div>攻击技能造成的伤害提升30%。&nbsp;(Max40%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>HP70% 会心威力＋17%&nbsp;(Max25%)</span></dt><dd><div>HP在70%以上时暴击伤害倍率提升17%。&nbsp;(Max25%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/468604fd7a4c92bc6bf938f62fb785952.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">恭贺新年</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span><span>光属性抗性＋13%&nbsp;(Max15%)</span></dt><dd><div>光属性伤害减少13%。&nbsp;(Max15%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>【暗】麻痹抗性＋65%&nbsp;(Max100%)</span></dt><dd><div>装备角色属性为暗时，<br>进入“麻痹”状态的概率下降65%。&nbsp;(Max100%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/9d98349f3e50d04d4f6249b9b50e54502.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">日出之国的使者</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能伤害＋30%&nbsp;(Max40%)</span></dt><dd><div>攻击技能造成的伤害提升30%。&nbsp;(Max40%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>技能增强＋6%&nbsp;(Max15%)</span></dt><dd><div>技能槽上升率提升6%。&nbsp;(Max15%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/ae0e8f89ef1df2033c246207b325164c2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">新年伊始</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>疾风怒涛·会心＋10%&nbsp;(Max15%)</span></dt><dd><div>连击达到15次以上时暴击率提升10%。&nbsp;(Max15%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP70% 攻＋8%&nbsp;(Max20%)</span></dt><dd><div>HP在70%以上时攻击力提升8%。&nbsp;(Max20%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/fcf2c5b7e85b1c9837871ba48d9a31982.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">板羽球对决！</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>背水一战·攻＋40%&nbsp;(Max60%)</span></dt><dd><div>HP在30%以下时，<br>发动【15秒内攻击力提升40%的增益】。<br>此效果每回任务最多发动1次。&nbsp;(Max60%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>暴击率＋5%&nbsp;(Max15%)</span></dt><dd><div>暴击率提升5%。&nbsp;(Max15%)</div></dd></dl></div></div></div><div><br></div><div>※最大上限解锁时的数值，并非获得时的数值。</div><div><br></div><div>【特选期间】</div><div><span class="local_date" data-local_date="1577772000"></span> ～ <span class="local_date" data-local_date="1578981599"></span></div><div><br></div><div><span style="color: rgb(226, 80, 65);"><strong>※特选期间结束后，将无法交换本次追加的期间限定龙辉护符。</strong></span></div><div><br></div><div>【注意事项】</div><div>1. 本次特选的龙辉护符今后可能再次登场。</div><div>2. 本公告以外的信息可进入商店中的&ldquo;龙辉护符交换所&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1577772000; update_time1577177704

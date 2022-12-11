@@ -1,0 +1,19 @@
+article_id:2524
+category_name:公告
+title_name:“龙辉护符交换所”追加新的龙辉护符！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1632981600"></span>起，&ldquo;龙辉护符交换所&rdquo;的列表中已追加新的龙辉护符。</div><div><br></div><div>可点击&ldquo;龙辉护符交换所&rdquo;中的&ldquo;特选&rdquo;及各稀有度标签页面交换追加的新龙辉护符。</div><div><br></div><div><strong>【新龙辉护符介绍】</strong></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/b3935c715350e34e90e1efdd13679cb92.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/46e32a95b191ace87b5481feb93726652.png"></div>
+	<div class="discription">
+		<div class="charaName">天之使者</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾风怒涛·攻＋20%&nbsp;(Max20%)</span></dt><dd><div>连击达到15次以上时攻击力提升20%。&nbsp;(Max20%)</div></dd></dl></div></div></div><div><br></div><div>※最大上限解锁时的数值，并非获得时的数值。</div><div><br></div><div>【特选期间】</div><div><span class="local_date" data-local_date="1632981600"></span> ～ <span class="local_date" data-local_date="1635487199"></span></div><div><br></div><div><span style="color: rgb(184, 49, 47);">※特选期间结束后，仍可在各稀有度标签页面交换本次追加的龙辉护符。</span></div><div><br></div><div>【注意事项】</div><div>本公告以外的信息可进入商店中的&ldquo;龙辉护符交换所&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1632981600; update_time1632794007

@@ -1,0 +1,8 @@
+article_id:2082
+category_name:公告
+title_name:任务体力消耗调整公告
+image_path:
+
+message:<div>我们预计将于4月下旬的版本更新中调整并降低部分任务的体力消耗。</div><div><br></div><div>※以下内容不会因本次调整而发生变化。</div><div>&middot;&ldquo;每日回复礼包&rdquo;的回复量</div><div>&middot;使用龙辉晶或蜂蜜等道具回复的体力</div><div>&middot;任务掉落报酬的种类、数量和概率</div><div><br></div><div>详情日后将另行公告。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1616824800; update_time1616747738

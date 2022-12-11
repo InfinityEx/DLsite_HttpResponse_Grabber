@@ -1,0 +1,250 @@
+article_id:1292
+category_name:公告
+title_name:传说召唤即将开放！
+image_path:
+
+message:<div>传说召唤预计将于<span class="local_date" data-local_date="1589263200"></span>开放。</div><div><br></div><div>特选对象角色&middot;龙的出现概率将提升。</div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1589263200"></span> ～ <span class="local_date" data-local_date="1590731940"></span></div><div><br></div><div>新登场的特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/d8dff7f4ba63268a3e07b3f985cbe34b.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>750</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>511</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,501</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>来自雷维昂王国的神秘研究者。<br>博学多才且性格沉稳，<br>但有时会露出阴沉的表情。<br>探究心异常旺盛，<br>每当遇到未知的力量都会热血沸腾。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>未知召唤</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人造成水属性伤害，<br>提升自身1阶段【灵感】，<br>并为自身强袭槽充能。<br>强袭模式时，此技能变为<br>“亡灵触手”，效果如下：<br>对目标和目标周围的敌人造成水属性伤害，<br>对进入“冻伤”状态的敌人造成的伤害提升。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/eedeb82f382c79ce1e8e580efaa403f92.png"></span>
+				<span>真相探究</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成水属性伤害，<br>使其进入“冻伤”状态。<br>提升自身2阶段【灵感】，<br>并为自身强袭槽充能。<br>强袭模式时，此技能变为<br>“幻影触手”，效果如下：<br>对直线上的敌人造成水属性伤害，<br>对进入“冻伤”状态的敌人造成的伤害提升。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能伤害＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能伤害提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>【水】龙化：龙化增强＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为水时，<br>龙化槽上升率提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/139659795ceea8d4879c22830bcc6a132.png"></span><span>深渊之龙Ⅱ</span></dt><dd><div>龙化按钮变为强袭按钮并追加强袭槽。<br>此模式中技能伤害提升35%，<br>技能槽上升率提升30%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>烧伤抗性＋100%</span></dt><dd><div>进入“烧伤”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>开场技能槽＋100%</span></dt><dd><div>任务开始时技能槽提升100%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/94331af51aacbe719f22472d3ccd190d.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>748</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>511</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>被称为“天空的霸主”的魔龙骑士。<br>将堂堂正正地战胜强者<br>视为最高的荣誉。<br>为寻找尚未相遇的强者<br>而乘着她的搭档魔龙在世界各地旅行。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ad526cb3d72bf15cd5f77f8982e2e9682.png"></span>
+				<span>天霸魔龙枪</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成暗属性伤害。<br>对进入“中毒”状态的敌人造成的伤害提升。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/69bfe8900eba5eeb07af5f04dee800502.png"></span>
+				<span>天霸无双阵</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成暗属性伤害。<br>攻击时可控制方向。<br>15秒内自身攻击力提升20%。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队HP提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【暗】龙化：龙之恩赐·攻Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗时，<br>每次龙化提升攻击力。<br>此效果每回任务最多发动3次。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span><span>龙化充能·技能Ⅱ</span></dt><dd><div>使用技能时提升自身龙化槽，<br>但武器技能和龙的技能无法提升龙化槽。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痹抗性＋100%</span></dt><dd><div>进入“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>中毒特效＋30%</span></dt><dd><div>对进入“中毒”状态的敌人造成的伤害提升30%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>【特选龙介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c28dd6b359796f5828b21768c043907b.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>1,026</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>被伊莉雅教抹去存在的龙。<br>曾担任向巫女传达伊莉雅话语的职责，<br>但因违反了秩序而遭到封印。<br>封印解除后为了让世人了解<br>“教会的真相”而一直在暗地里活动。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>无情厄运</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成暗属性伤害，<br>使其进入“中毒”状态。<br>40秒内使全队获得对“中毒”状态的敌人<br>造成的伤害提升15%的效果。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【暗】HP＋30%</span></dt><dd><div>装备角色属性为暗时<br>HP提升30%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【暗】技能增强＋35%</span></dt><dd><div>装备角色属性为暗时，<br>技能槽上升率提升35%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1589176800; update_time1588903238

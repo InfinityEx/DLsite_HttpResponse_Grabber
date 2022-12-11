@@ -1,0 +1,249 @@
+article_id:2967
+category_name:公告
+title_name:“Dragalia Fes Extra”即将开放！
+image_path:
+
+message:<div>&ldquo;Dragalia Fes Extra&rdquo;预计将于<span class="local_date" data-local_date="1647237600"></span>开放。</div><div><br></div><div>【关于Dragalia Fes】※含&ldquo;Dragalia Fes Extra&rdquo;</div><div>★5角色、龙的初始出现概率将从4%提升至6%！</div><div>※召唤出★5或★5特选后，出现概率将变回初始概率6%。</div><div><span style="color: rgb(226, 80, 65);">※本次新追加的★5角色&ldquo;席菈&rdquo;(火)在今后的传说召唤中也将登场。</span></div><div><span style="color: rgb(226, 80, 65);">※以往&ldquo;Dragalia Fes&rdquo;中追加的角色&middot;龙也可能在本召唤中登场。登场角色&middot;龙的详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</span></div><div><br></div><div>【新追加的特选对象角色】</div><div>■角色</div><div>★5 席菈：火/短剑</div><div><br></div><div>【以往Dragalia Fes中登场过的特选对象角色&middot;龙】</div><div>■角色</div><div>★5 穆穆（Fes限定Ver.）：火/枪</div><div><br></div><div>■龙</div><div>★5 玛斯（Fes限定Ver.）：火</div><div><br></div><div>【Dragalia Fes Extra活动期间】</div><div><span class="local_date" data-local_date="1647237600"></span> ～ <span class="local_date" data-local_date="1647496799"></span></div><div><br></div><div>特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2ed2911365759ea3d4f7c98ed40cf972.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>500</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>重获心灵并觉醒巫女之力的席菈。<br>与父亲迦道夫之间的父女深情<br>终于唤回了那被黑暗魔力禁锢已久的魂魄。<br>重获心灵的她披上了巫女的服装，<br>以全新的心态走上自己坚信的道路。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/617c65154a9d4f27f02e0be8cb970a2c2.png"></span>
+				<span>焰红突袭</span>
+			</dt>
+			<dd><div>■通常状态时<br>·对直线上的敌人造成伤害，<br>使其获得【破邪巫咒】和【火属性抗性下降】。<br><br>■强化状态时<br>使用技能2后立刻使用此技能时，<br>技能变为“闪耀焰红突袭”，效果如下：<br>·对直线上的敌人造成伤害，<br>使其获得【破邪巫咒】和【火属性抗性下降】。<br>·自身拥有【巫女气焰】时，<br>解除【巫女气焰】并使技能2准备就绪。</div><div class="skill-detail">威力：190 × 2 Hit<br>威力：380 × 3 Hit<br>所需SP：4,480<br>特殊效果<br>·火属性抗性下降15%<br>　效果时间：30 秒<br>　不可叠加<br>·破邪巫咒<br>　效果时间：15 秒<br>　不可叠加<br><br>（变化后）<br>威力：190 × 4 Hit<br>威力：380 × 6 Hit<br>所需SP：4,480<br>特殊效果<br>·火属性抗性下降15%<br>　效果时间：30 秒<br>　不可叠加<br>·破邪巫咒<br>　效果时间：30 秒<br>　不可叠加</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/214b245198821e4cba0f9684c85604352.png"></span>
+				<span>红焰强袭</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>■通常状态时<br>·对周围的敌人造成伤害，<br>使其进入“烧伤”状态并解除其1个增益效果。<br><br>■强化状态时<br>使用技能1后立刻使用此技能时，<br>技能变为“炽烈红焰强袭”，效果如下：<br>·对周围的敌人造成伤害，<br>使其进入“劫火”状态并解除其1个增益效果。<br>·自身拥有【巫女气焰】时，<br>解除【巫女气焰】并使技能1准备就绪。</div><div class="skill-detail">威力：200 × 7 Hit<br>所需SP：4,480<br>特殊效果<br>·增益解除<br>·烧伤<br>　效果时间：12 秒<br>　效果间隔：3.9 秒<br>　威力：72.7<br><br>（变化后）<br>威力：250 × 7 Hit<br>所需SP：4,480<br>所需共享SP：10,528<br>特殊效果<br>·增益解除<br>·劫火<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：31.1</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>暴击率＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队暴击率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span>
+				<span>【火】士气：龙化充能Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为火时，<br>每次获得战意或士气时龙化槽提升3%。<br>此效果发动后10秒内不会再次发动。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/594de4fde56822ee8624ebff22a1dafd2.png"></span><span>闪狼战技Ⅱ</span></dt><dd><div>①对拥有【破邪巫咒】的敌人<br>造成的暴击伤害倍率提升20%，<br>对其使用的技能2必定暴击。<br>拥有超强灵感效果时使用技能<br>将消耗超强灵感。<br>②普通攻击时滑动屏幕的回避性能发生变化，<br>回避过程中可对周围的敌人造成伤害，<br>且再次发动普通攻击时<br>可保持原本的普通攻击阶段。<br>回避过程中再次进行回避将变为普通回避。<br>③技能1或技能2发动过程中<br>自身获得【受到伤害降低50%的增益】<br>且受到攻击不会被击退。<br>④滑动屏幕时的移动速度提升35%。<br>此效果无法在冲刺和龙化中发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea4c47784ca6465117276eb2a3d9a0d92.png"></span><span>不挠意志Ⅱ</span></dt><dd><div>进入“昏迷”、“睡眠”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d805814858ba5df827dbca1af8119dfc2.png"></span><span>王族决心Ⅱ</span></dt><dd><div>①发动第4段普通攻击时，<br>自身获得暴击伤害倍率提升的战意（士气上限Lv1）。<br>②每次使用技能1时，<br>自身获得防御力提升的战意（士气上限Lv1）。<br>③发动第7段普通攻击时，<br>自身获得【巫女气焰】（不可叠加）。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/82bfc3e062d7395e35b3d7eb5cc72a2b.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>749</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>510</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>“想陪在心上人身边！”——这样的少女心<br>令绯龙布伦希尔德摇身一变成为人类。<br>爱慕着曾救下自己的王子，<br>并称其为“亲爱的”，常向其送去火热的视线。<br>尽管种族有别，但这对她来说不成问题。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>龙扫千军</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>对前方的敌人造成伤害，<br>自身攻击力提升。<br>此技能命中时，自身龙化槽上升。</div><div class="skill-detail">威力：767.5 × 3 Hit<br>所需SP：2,914<br>所需共享SP：12,821<br>特殊效果<br>·攻击力提升20%<br>　效果时间：10 秒<br>龙化槽回复量：50<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>绯红烈焰</span>
+			</dt>
+			<dd><div>对直线上的敌人造成伤害。</div><div class="skill-detail">威力：517.5 × 4 Hit<br>所需SP：5,736<br><br>（能力效果发动时）<br>威力：622 × 4 Hit<br>所需SP：5,736<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队HP提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【火】龙化：龙之恩赐·攻Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为火时，<br>每次龙化提升攻击力。<br>此效果每回任务最多发动3次。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b5b8a0971c2940faccafb60e2bb060ab2.png"></span><span>绯龙现身Ⅱ</span></dt><dd><div>进入“烧伤”状态的概率下降100%。<br>龙化形态一律变为布伦希尔德。<br>龙化时自身获得【任务中攻击力提升15%<br>并强化技能“绯红烈焰”的增益】。<br>此效果每回任务最多发动1次。<br>1次任务中龙化2次或以上将变为真布伦希尔德，<br>龙化中的攻击速度提升15%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ed2537bb247dfd2ad93353a86c3d8c12.png"></span><span>怒火集蓄Ⅱ</span></dt><dd><div>进入“昏迷”状态的概率下降100%。<br>受到可能造成昏迷的攻击时，<br>技能“龙扫千军”充能50%。<br>技能充能效果发动后15秒内不会再次发动。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>龙化时间＋20%</span></dt><dd><div>龙化时间延长20%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2231de46c8d801b451caed9a17aef385.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>号称有史以来最强的龙。<br>相传他曾用火焰将百国焚为焦土，<br>人们称其为“焰龙”并畏惧着他。<br>为成为世上最强的火龙而与莱昂尼多<br>缔结契约，接受了炼金术的改造。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>炼金狱火</span>
+			</dt>
+			<dd><div>对前方的敌人造成伤害，<br>自身攻击力提升。<br>攻击时吸引敌人。<br>此技能可通过龙化时进行的攻击再次充能，<br>1次龙化最多可使用2次。</div><div class="skill-detail">威力：500 × 3 Hit<br>特殊效果<br>·攻击力提升20%<br>　效果时间：20 秒<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻击力提升&HP50% 攻＋20%Ⅴ</span></dt><dd><div>装备角色属性为火时，<br>角色的攻击力提升70%。<br>HP在50%以上时攻击力追加提升20%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>【火】龙化解除时·技能槽＋100%</span></dt><dd><div>装备角色属性为火时，<br>龙化解除时自身技能槽提升100%。</div></dd></dl></div></div></div><div>※Lv100、上限解锁第4阶段、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 特选对象角色在&ldquo;阿尔贝里亚大逃杀&rdquo;中解锁可变更外观的&ldquo;角色皮肤&rdquo;所需道具数量将有所减少。</div><div>※部分角色无法解锁角色皮肤。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1647151200; update_time1646725816

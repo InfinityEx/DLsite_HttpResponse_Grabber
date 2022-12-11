@@ -1,0 +1,148 @@
+article_id:2084
+category_name:公告
+title_name:“附奖传说召唤”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1617343200"></span>起，&ldquo;附奖传说召唤&rdquo;开放！</div><div>&ldquo;附奖传说召唤&rdquo;中，特选对象角色&middot;龙的出现概率提升。</div><div><br></div><div>进行&ldquo;附奖传说召唤&rdquo;可在获得角色&middot;龙的同时获得&ldquo;附奖&rdquo;。</div><div>附奖有白金奖、金奖、银奖、铜奖、5等、6等共计6种。</div><div>&ldquo;10连召唤&rdquo;第10次的附奖必为白金奖、金奖、银奖、铜奖其中之一。</div><div><span style="color: rgb(226, 80, 65);">获得的附奖可在礼物箱的&ldquo;无期限&rdquo;中领取。</span></div><div><br></div><div>※同时使用10张召唤券不等同于进行&ldquo;10连召唤&rdquo;，不确保第10次附奖必为白金奖、金奖、银奖、铜奖其中之一。</div><div>※附奖一览和出现概率可在&ldquo;附奖传说召唤&rdquo;开放期间点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;并在&ldquo;出现概率&rdquo;的&ldquo;附奖&rdquo;中查看。</div><div><br></div><div>【新登场的特选对象角色&middot;龙】</div><div>■角色</div><div>★5 阿尔贝琉斯：暗/剑</div><div><br></div><div>■龙</div><div>★5 真普鲁托：暗</div><div><br></div><div>【附奖传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1617343200"></span> ～ <span class="local_date" data-local_date="1617947999"></span></div><div><br></div><div>新追加的特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/4294d52f854d6fd82fbd9c62e9494cf1.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>300年前封印了狄涅尔帝国<br>复活的魔神莫尔托梅塞亚的英雄，<br>也是建立阿尔贝里亚王国的建国之王。<br>据传其身为多龙契约者与传说中的<br>六龙缔结契约，本领了得。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f027b7d150713815ba70175982c142822.png"></span>
+				<span>破晓王冠</span>
+			</dt>
+			<dd><div>通过真普鲁托<br>对目标和目标周围的敌人造成伤害，<br>使其进入“暗殇”状态。<br>此攻击受部分龙化中发动的能力效果影响。<br>此后阿尔贝琉斯将进一步<br>对目标和目标周围的敌人造成伤害。</div><div class="skill-detail">威力：327 × 3 Hit<br>威力：200 × 1 Hit<br>威力：1,100 × 1 Hit<br>所需SP：3,360<br>特殊效果<br>·暗殇<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3252f46b4caf10a0c15847a5d89335072.png"></span>
+				<span>破晓荣光</span>
+			</dt>
+			<dd><div>通过真耶梦加得<br>对周围的敌人造成伤害，<br>使其进入“昏迷”状态。<br>此技能命中时，自身龙化槽上升。<br>此攻击受部分龙化中发动的能力效果影响。</div><div class="skill-detail">威力：271 × 8 Hit<br>所需SP：5,045<br>特殊效果<br>·昏迷<br>　效果时间：6 秒<br>　效果间隔：0 秒<br>　威力：0<br>龙化槽回复量：50<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龙化增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化槽上升率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【暗】龙化：龙化中伤害提升＋12%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗时，<br>龙化中的伤害倍率提升12%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/34b4dd55399920298262636d1267db0f2.png"></span><span>开场龙化槽&龙化·防</span></dt><dd><div>任务开始时龙化槽提升25%。<br>龙化中的防御力提升25%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>黑暗抗性＋100%</span></dt><dd><div>进入“黑暗”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/874ebb8540cc62459ecedc47628161162.png"></span><span>龙之狂势Ⅱ</span></dt><dd><div>龙化中，赋予攻击【解除敌人1个增益的效果】。<br>龙化瞬间的攻击无此效果。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>■关于阿尔贝琉斯的技能&ldquo;破晓王冠&rdquo;和&ldquo;破晓荣光&rdquo;</div><div>阿尔贝琉斯的技能&ldquo;破晓王冠&rdquo;中真普鲁托的攻击和技能&ldquo;破晓荣光&rdquo;受以下能力效果影响。</div><div>&middot;&ldquo;开场龙化槽&amp;龙化&middot;防&rdquo;</div><div>&middot;&ldquo;龙化中伤害提升＋〇%&rdquo;等可提升龙化中可造成伤害的能力</div><div>&middot;&ldquo;龙之狂势&rdquo;等可赋予龙化中的攻击效果的能力</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3c0a261f4fcd87c6d348d07ef3946190.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>冥龙普鲁托释放隐藏之力后的形态。<br>曾徘徊于死亡的深渊，最终成功复活。<br>对曾经缔结契约的主人——<br>建国之王阿尔贝琉斯的忠心不减，<br>为完成王的遗愿而再次振翅高飞。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>毁灭法则</span>
+			</dt>
+			<dd><div>对目标和目标周围的敌人造成伤害，<br>使其进入“暗殇”状态。<br>攻击时吸引敌人。</div><div class="skill-detail">威力：397 × 5 Hit<br>威力：477 × 1 Hit<br>特殊效果<br>·暗殇<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【暗】攻击&真·龙之恩赐Ⅴ</span></dt><dd><div>装备角色属性为暗时，<br>角色的攻击力提升65%。<br>每次龙化可使自身攻击力提升20%。<br>此效果每回任务最多发动2次。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【暗】龙之恩赐（贰）·体力Ⅱ</span></dt><dd><div>装备角色属性为暗<br>且任务中龙化次数不低于2时，<br>自身HP最大值提升30%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 附奖一览和出现概率可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;出现概率&rdquo;，查看&ldquo;附奖&rdquo;。</div><div>3. 进行&ldquo;10连召唤&rdquo;或同时使用10张召唤券获得的道具重复时，同种道具将统一发送至礼物箱的&ldquo;无期限&rdquo;中。</div><div>4. 特选对象角色在&ldquo;阿尔贝里亚大逃杀&rdquo;中解锁可变更外观的&ldquo;角色皮肤&rdquo;所需道具数量将有所减少。</div><div>※部分角色无法解锁角色皮肤。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1617343200; update_time1617249711

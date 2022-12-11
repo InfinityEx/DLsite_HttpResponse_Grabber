@@ -1,0 +1,8 @@
+article_id:772
+category_name:公告
+title_name:关于部分角色"1st Anniversary限定语音"播放异常的现象【更新】
+image_path:
+
+message:<div>目前已确认<span class="local_date" data-local_date="1569564000"></span>起期间限定追加的&quot;1st Anniversary限定语音&quot;中部分角色出现了播放异常的现象。<br><br>■对象角色<br>&middot;爱德华<br>&middot;爱德华(万圣节Ver.)<br><br>我们正在修正本异常现象。<br>修正完毕后将第一时间更新在本公告中。<br><br>对于给各位玩家造成的困扰和不便，我们深表歉意。<br>&nbsp;<br>今后也请继续支持《Dragalia Lost ～失落的龙约》。</div><div><br></div><div><span style="color: rgb(44, 130, 201);"><strong><span class="local_date" data-local_date="1569585300"></span>追记<br></strong></span>仅&quot;日语语音&quot;播放异常。</div>
+
+start_time:1569583200; update_time1569585436

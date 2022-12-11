@@ -1,0 +1,8 @@
+article_id:171
+category_name:公告
+title_name:关于商店交换所的更新
+image_path:
+
+message:<div><span class="local_date" data-local_date="1545888600"></span>左右，我们将对商店的交换所进行更新。</div><div><br></div><div>在更新期间使用交换所可能导致出错并返回主界面。</div><div>如发生上述情况则交换无效，敬请谅解。</div><div><br></div><div>交换所更新的详情将于公告中另行告知。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1545886800; update_time1545887917

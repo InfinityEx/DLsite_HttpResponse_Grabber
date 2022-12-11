@@ -1,0 +1,8 @@
+article_id:2871
+category_name:活动
+title_name:【复刻】“防卫战～矛盾之心·人偶之战～”活动预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/686f5bc6ed5375a29dd5046a2e8b268a.png
+
+message:<div>活动【复刻】&ldquo;防卫战～矛盾之心&middot;人偶之战～&rdquo;预计将于<span class="local_date" data-local_date="1654840800"></span>开始。</div><div>【复刻】&ldquo;防卫战～矛盾之心&middot;人偶之战～&rdquo;是抵御袭来的众多敌人守卫据点的期间限定活动。</div><div>本活动中可获得用于解锁共享技能的道具，敬请参与！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/686f5bc6ed5375a29dd5046a2e8b268a.png"></div><div><br></div><div>■注意事项</div><div>1. 参加活动任务需通关主线剧情第2章2-1(Normal)。</div><div>2. 参加多人模式需通关主线剧情第2章2-1(Normal)。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1654581600; update_time1645076476

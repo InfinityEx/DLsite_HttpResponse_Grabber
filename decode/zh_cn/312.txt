@@ -1,0 +1,82 @@
+article_id:312
+category_name:公告
+title_name:“Dragalia Fes”即将开放！
+image_path:
+
+message:<div>&ldquo;Dragalia Fes&rdquo;预计将于<span class="local_date" data-local_date="1553666400"></span>开放。</div><div><br></div><div>【关于Dragalia Fes】</div><div>&middot;★5角色、龙、龙辉护符的初始出现概率将从4%提升至6%！</div><div>※召唤出★5或★5特选后，出现概率将变回初始概率6%。</div><div>&middot;追加仅在Dragalia Fes活动期间出现的期间限定角色&ldquo;Fes限定Ver.&rdquo;！</div><div><br></div><div>【Dragalia Fes活动期间】</div><div><span class="local_date" data-local_date="1553666400"></span> ～ <span class="local_date" data-local_date="1554011940"></span></div><div><br></div><div>特选对象的&ldquo;Fes限定Ver.&rdquo;角色如下：</div><div><br></div><div>【Fes限定Ver.角色介绍】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/58ce0d396b817863dd9d392b71e2e95a.png"></div>
+<div class="status">
+	<div class="title">数值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>80</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>755</span>
+				</li>
+				<li class="atk">
+					<span>攻击力</span>
+					<span>504</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+			<span>2499</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">角色详情</div>
+			<div class="param">
+				<ul>
+					<li>兰扎卜成为了新阿尔贝里亚王国的战斗队长。<br>身穿伙伴们准备的新盔甲，<br>放下佣兵时代的战斧转而拿起了剑。<br>虽然性格依旧莽撞，<br>但多少有了一些作为统帅的威严和气场。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>飓风之剑</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成风属性伤害。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/862d02981336441f770826c64d15b0162.png"></span>
+				<span>旋风谋略</span>
+			</dt>
+			<dd>
+				<div>
+					发动【风缠剑】。<br>强化自身爆发攻击3次，<br>10秒内提升全队防御力10%。<br>爆发攻击强化后将变为【三连飞剑】，<br>可进行远程攻击。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龙化增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化槽提升率提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>百战功成Ⅱ</span></dt><dd><div>追加攻击槽和爆发槽。<br>根据满槽数量提升防御力，<br>并在使用技能“飓风之剑”时<br>消耗已满的攻击槽和爆发槽提升威力。<br>攻击槽：普通攻击命中敌人时充能。<br>爆发槽：爆发攻击命中敌人时充能。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/857a2a2fdbc31b188c91fbd6f6eca6b32.png"></span><span>铁壁豪气Ⅱ</span></dt><dd><div>进入“冰冻”或“湿身”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能伤害＋30%</span></dt><dd><div>攻击技能造成的伤害提升30%。</div></dd></dl></div></div></div><div>■角色详情</div><div>※最大Lv、魔法圆环全解锁时的数值，并非获得时的数值。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;或&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1553580000; update_time1553251444

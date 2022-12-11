@@ -1,0 +1,8 @@
+article_id:589
+category_name:公告
+title_name:关于通常目标的追加
+image_path:
+
+message:<div><span class="local_date" data-local_date="1563602400"></span>起，将追加以下通常目标。</div><div><br></div><div>&middot;追加对象为战力14100以上的&ldquo;全队战力达到○&rdquo;。</div><div>达成目标可获得&ldquo;龙辉晶&rdquo;。</div><div>※对象为目标追加后达到的战力。</div><div><br></div><div>&middot;追加对象为完成任务次数的&ldquo;完成○次任务吧&rdquo;。</div><div>达成目标可获得&ldquo;最高级蜂蜜&rdquo;。</div><div>※对象为目标追加后完成的任务。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1563170400; update_time1562906656

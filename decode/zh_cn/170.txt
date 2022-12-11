@@ -1,0 +1,8 @@
+article_id:170
+category_name:活动
+title_name:“新春初曦招福开运”活动预告
+image_path:
+
+message:<div>团队活动&ldquo;新春初曦招福开运&rdquo;预计将于<span class="local_date" data-local_date="1546236000"></span>开始。</div><div>本活动可在多人模式下挑战光属性的团队战BOSS。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/71860b4295140d9f26bbcf39ed94f175.png"></div><div>临近新年的圣城迎来了东方客人&mdash;&mdash;</div><div>前来&ldquo;新年送福&rdquo;的日出之国武士一行。</div><div>更有一路追来的薙刀女孩处处阻挠，令圣城陷入骚乱！？</div><div>王子等人能否平安迎来新年？</div><div><br></div><div>【活动内容】</div><div>团队活动&ldquo;新春初曦招福开运&rdquo;中主要的新内容及调整如下：</div><div>■新内容</div><div>&middot;团队战BOSS掉落红包、地图上出现年糕等仅在新年活动中出现的要素。</div><div>■内容调整</div><div>&middot;相较上次团队活动&ldquo;划破黑暗的光之歌声&rdquo;，本次活动的剧情量增多。</div><div>&middot;相较上次团队活动&ldquo;划破黑暗的光之歌声&rdquo;，EX团队战BOSS的出现概率提升。</div><div><br></div><div>■注意事项</div><div>1. 参加活动任务需通关主线剧情第2章2-1(Normal)。</div><div>2. 参加多人模式需通关主线剧情第2章2-1(Normal)。</div><div>3. 活动期间及内容可能会在无预先通知的情况下变更。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1545890400; update_time1547104575

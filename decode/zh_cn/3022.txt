@@ -1,0 +1,251 @@
+article_id:3022
+category_name:公告
+title_name:“Dragalia Fes”即将开放！
+image_path:
+
+message:<div>&ldquo;Dragalia Fes&rdquo;预计将于<span class="local_date" data-local_date="1653890400"></span>开放。</div><div><br></div><div>【关于Dragalia Fes】※含&ldquo;Dragalia Fes Extra&rdquo;</div><div>★5角色、龙的初始出现概率将从4%提升至6%！</div><div>※召唤出★5或★5特选后，出现概率将变回初始概率6%。</div><div><span style="color: rgb(226, 80, 65);">※同时开放的&ldquo;传说甄选召唤&rdquo;中不含&ldquo;Fes限定Ver.&rdquo;的角色。</span></div><div><br></div><div>【特选对象角色&middot;龙】</div><div>■角色</div><div>★5 奈迪犹（Fes限定Ver.）：暗/剑</div><div>★5 谢斯（Fes限定Ver.）：暗/铳（机关铳模式）</div><div><br></div><div>■龙</div><div>★5 无畏尼德霍格（Fes限定Ver.）：暗</div><div><br></div><div>【Dragalia Fes活动期间】</div><div><span class="local_date" data-local_date="1653890400"></span> ～ <span class="local_date" data-local_date="1654235999"></span></div><div><br></div><div>特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/d83586c60d50fe4d31da2b8c69f0ecfc.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>真正的第七王子。诞生后不久便患上<br>龙鳞病，由精灵国收养。本应因病而亡<br>的他，却因巴哈姆特而得以存活。<br>身为理性主义者的他讨厌抱团聚群，<br>只为自己的理想而行动。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aa47d998f104e87644a91a65819869de2.png"></span>
+				<span>抗争伊始</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>■通常状态时<br>对周围的敌人造成伤害，<br>使其进入“暗殇”状态。<br>此技能命中时，自身龙化槽上升。<br><br>■灵魂倒计时状态时<br>对周围的敌人造成伤害，<br>使其进入“暗殇”状态并解除其1个增益效果。</div><div class="skill-detail">威力：800 × 4 Hit<br>所需SP：2,376<br>所需共享SP：9,005<br>特殊效果<br>·暗殇<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41<br>龙化槽回复量：10<br><br>（灵魂倒计时状态时）<br>威力：800 × 5 Hit<br>所需SP：3,360<br>特殊效果<br>·暗殇<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41<br>·增益解除</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f75280a5a69d4666aab1410dba2c15d92.png"></span>
+				<span>灵魂献祭</span>
+			</dt>
+			<dd><div>■通常状态时<br>首次龙化前此技能无法充能。<br>自身获得【灵魂倒计时Lv3】<br><br>■灵魂倒计时状态时<br>对前方的敌人和其周围的敌人造成伤害，<br>全队获得暴击伤害倍率提升的士气。</div><div class="skill-detail">所需SP：1<br>特殊效果<br>·灵魂倒计时Lv3<br><br>（灵魂倒计时状态时）<br>威力：700 × 6 Hit<br>所需SP：12,000<br>获得士气<br>·暴击伤害倍率提升（士气上限Lv 3）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龙化增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队龙化槽上升率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【暗】龙化：龙化中伤害提升＋12%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗时，<br>龙化中的伤害倍率提升12%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/808223f7e4cd602dd87951cc09df34592.png"></span><span>创世龙的降临Ⅱ</span></dt><dd><div>①龙化形态一律变为巴哈姆特。<br>②自身龙化时间延长100%。<br>③龙化所需龙化槽翻倍（龙化槽上限不变）。<br>④任务开始时自身龙化槽提升50%。<br>⑤全队的“任务开始时龙化槽提升效果”上限变为50%。<br>⑥龙化期间可使用以下效果的龙之爆发：<br>对多个攻击对象和对象周围的敌人造成伤害。<br>⑦任务中首次解除龙化时，<br>自身获得【力量过载Lv1】。<br>【力量过载】的等级随时间经过而提升。<br>Lv1：持续受到伤害，攻击力提升10%。<br>Lv2：持续受到伤害，攻击力提升15%，暴击率提升15%。<br>Lv3：持续受到伤害，攻击力提升20%，暴击率提升20%，<br>攻击技能造成的伤害提升20%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bd7de81c28d0b9c93b0edbfc86b0cb6a2.png"></span><span>创世庇佑Ⅱ</span></dt><dd><div>进入“黑暗”、“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a5422b118c71a0a475d5e5cd611188862.png"></span><span>理想的余晖Ⅱ</span></dt><dd><div>拥有【力量过载】的状态下自身HP变为0时，<br>全队除自身外获得【力量过载Lv1】。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/805fbad7b2c0154d3c9158d2de52981e.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,498</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>可使用模式</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/4805e47916f093eb2b9049cff29e9eb72.png"><img src="https://dragalialost.akamaized.net/attached/information/images/d45c68ecb3b1d88cba2136c949f214772.png"><img src="https://dragalialost.akamaized.net/attached/information/images/1f0f10277cfc223cafe9e19e2d15434d2.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>将自己起舞的舞台向世界拓展的<br>阿尔贝里亚王国第三王女。<br>以巧妙的谈判之术作武器肩负起<br>与别国的外交。自主研发的铳<br>是她外交牌中一张重要的王牌。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/775392a8a09a554df496b2a54960c3e62.png"></span>
+				<span>华丽统治</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>对前方的敌人造成伤害，<br>使其进入“暗殇”状态。<br>根据重复增益数量造成最多15次追加伤害。</div><div class="skill-detail">威力：80 × 11 Hit<br>威力：25 × 15 Hit（最大时）<br>威力：1,175 × 1 Hit<br>所需SP：5,670<br>所需共享SP：9,072<br>特殊效果<br>·暗殇<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：41<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/fd28e574510045f9eec04437865b59262.png"></span>
+				<span>幻猫戏术</span>
+			</dt>
+			<dd><div>使目标和目标周围的敌人攻击力下降。<br>使增益区域中敌人的攻击力下降。</div><div class="skill-detail">所需SP：15,120<br>特殊效果<br>·攻击力下降30%<br>　效果时间：5 秒<br>·攻击力下降5%<br>　效果时间：5 秒<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>怒气槽减少量＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队怒气槽减少量提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ec72ef8cd42c62205b75088898a601112.png"></span>
+				<span>【暗】领域：一帆风顺·暗殇特效＋8%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗且位于增益区域中时，<br>对进入“暗殇”状态的敌人造成的伤害提升8%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ec6eab0a620c3865e404323b319f0abe2.png"></span><span>绚烂龙之血Ⅱ</span></dt><dd><div>龙化形态一律变为凯特西。<br>使用技能“幻猫戏术”时，<br>任务中自身获得【王族尊严】增益。<br>【王族尊严】增益最多可叠加至10层，<br>每层可使自身受到伤害降低1%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bd7de81c28d0b9c93b0edbfc86b0cb6a2.png"></span><span>女帝气质Ⅱ</span></dt><dd><div>进入“黑暗”、“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/fd589517c61c65312e1509e13a36cd412.png"></span><span>瞩目女主角Ⅱ</span></dt><dd><div>爆发攻击造成的伤害提升45%。<br>根据重复增益数量额外提升<br>爆发攻击造成的伤害，最多可额外提升30%。<br>重复的【王族尊严】不低于5层时，<br>在自身周围展开【受到伤害降低10%的增益区域】。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/d616b614e6208b619d55710fd395795a.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>传说中掌管死亡的邪龙·尼德霍格<br>重获新生的形态。受到决心不再迷茫的<br>少女的影响而从侵蚀身体的瘴气中<br>解脱出来。为了深入品味濒死之人的感情，<br>他开始对生也产生了兴趣。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1dc2f6f0f6e043a02de111856f4d5c092.png"></span>
+				<span>末世之门</span>
+			</dt>
+			<dd><div>对目标和目标周围的敌人造成伤害，<br>对被破防的敌人造成的伤害下降。<br>如以敌人为目标且非技能使用中时<br>龙化时间变为0则自动发动。<br>此效果即使技能槽未满也可发动。</div><div class="skill-detail">威力：300 × 8 Hit<br>对特定状态敌人造成的伤害倍率<br>·破防：75%<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【暗】攻击力＋70%</span></dt><dd><div>装备角色属性为暗时，<br>角色的攻击力提升70%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cc742aec48d0c0c0acbec0b24732a2662.png"></span><span>【暗】冥途呼唤Ⅱ</span></dt><dd><div>装备角色属性为暗时，<br>龙化槽每上升10%自身发动<br>【45秒内对光属性和无属性敌人<br>造成的伤害倍率提升30%的增益】<br>此效果不可叠加，发动后5秒内不会再次发动。</div></dd></dl></div></div></div><div>※Lv100、上限解锁第4阶段、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 特选对象角色在&ldquo;阿尔贝里亚大逃杀&rdquo;中解锁可变更外观的&ldquo;角色皮肤&rdquo;所需道具数量将有所减少。</div><div>※部分角色无法解锁角色皮肤。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1653804000; update_time1648553801

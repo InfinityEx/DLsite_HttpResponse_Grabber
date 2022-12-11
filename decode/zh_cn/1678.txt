@@ -1,0 +1,176 @@
+article_id:1678
+category_name:公告
+title_name:★5龙确定！“白金传说召唤”开放！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1602482400"></span>起，&ldquo;白金传说召唤&rdquo;开放！</div><div><br></div><div>白金传说召唤是&ldquo;10连召唤&rdquo;的第10位确定为★5龙的召唤。</div><div>活动期间最多可进行2次&ldquo;10连召唤&rdquo;。</div><div>本召唤仅限使用&ldquo;龙钻&rdquo;。</div><div><br></div><div>【白金传说召唤期间】</div><div><span class="local_date" data-local_date="1602482400"></span> ～ <span class="local_date" data-local_date="1602827999"></span></div><div><br></div><div>&ldquo;白金传说召唤&rdquo;第10位确定出现的部分对象★5龙详情如下：</div><div><br></div><div>【第10位确定对象★5龙介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/bf2b4bf0c4eaa34aebbe3d77f7eb2015.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>身着泳装的木花开耶。<br>她所带来的花香伴着海风，<br>为众人带来温暖与惬意。<br>也许正因如此，只身一人来到海边的她<br>周围仍洋溢着新朋友们的笑容。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>少女神乐·海滨嬉戏</span>
+			</dt>
+			<dd>
+				<div>
+					回复自身HP并获得【笑容之花】。<br>【笑容之花】可根据能力“夏日回忆”发挥各种效果。<br>【笑容之花】最多可叠加至6层。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>【风】夏日回忆Ⅴ</span></dt><dd><div>装备角色属性为风时，<br>任务开始时自身获得【笑容之花】。<br>每过60秒自身获得1层【笑容之花】，<br>最多可叠加至6层。<br>自身根据【笑容之花】层数获得以下增益。<br>1层【笑容之花】：攻击力＋40%<br>2层【笑容之花】：防御力＋20%<br>3层【笑容之花】：技能伤害＋50%<br>4层【笑容之花】：水属性抗性＋5%<br>6层【笑容之花】：持续回复自身HP</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/55b6044f296f2653f59e151bd80b3975.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>喜欢可爱而梦幻之物的龙。<br>擅长修理武器，<br>与妹妹克雷纽形影不离。<br>交给她的武器<br>都会变得可爱又梦幻！</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>跳跳跳舞！</span>
+			</dt>
+			<dd>
+				<div>
+					10秒内在地面设置【技能槽持续上升增益区域】。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【水】攻击力＋45%</span></dt><dd><div>装备角色属性为水时，<br>角色的攻击力提升45%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【水】技能回流Ⅱ</span></dt><dd><div>装备角色属性为水时，<br>使用技能时回复该技能35%的技能槽。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/00fbdac27092d3c10d96be1370c9fe03.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>以伊莉雅之名讨伐一切<br>加害于人类之龙的龙。<br>为了向人们传达伊莉雅的教诲<br>并维持龙与人共同生活的世界<br>而奔走于世界各地。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>极飓冲击</span>
+			</dt>
+			<dd>
+				<div>
+					对目标和目标周围的敌人<br>造成风属性伤害，使其进入“昏迷”状态。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【风】攻击力＋50%</span></dt><dd><div>装备角色属性为风时，<br>角色的攻击力提升50%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【风】技能增强＋30%</span></dt><dd><div>装备角色属性为风时，<br>技能槽上升率提升30%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. &ldquo;白金传说召唤&rdquo;详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;白金传说召唤&rdquo;，查看&ldquo;出现概率&rdquo;或&ldquo;召唤信息&rdquo;中的&ldquo;详情&rdquo;。</div><div>2. &ldquo;白金传说召唤&rdquo;和&ldquo;龙传说召唤&rdquo;同时开放。可点击召唤页面上的&ldquo;&lt;&rdquo;和&ldquo;&gt;&rdquo;图标进行切换。</div><div>3. &ldquo;龙传说召唤&rdquo;中提升的★5出现概率不会因&ldquo;白金传说召唤&rdquo;而重置。</div><div>4. 其它注意事项可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，进入&ldquo;召唤信息&rdquo;&rarr;&ldquo;详情&rdquo;&rarr; &ldquo;注意事项&rdquo;查看。</div><div>5. 白金传说召唤中无法获得&ldquo;龙辉之印&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1602482400; update_time1602120529

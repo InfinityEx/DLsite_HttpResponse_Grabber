@@ -1,0 +1,8 @@
+article_id:592
+category_name:公告
+title_name:值此设施活动开放之际，向各位玩家发放“祝福之圣水”！
+image_path:
+
+message:<div>值此设施活动开放之际，我们已向各位玩家发放以下礼物！</div><div>希望能借此助玩家强化新的龙辉护符、更高效地攻略活动！</div><div><br></div><div>■礼物内容</div><div>祝福之圣水 100个</div><div><br></div><div>■发放对象</div><div><span class="local_date" data-local_date="1563429600"></span>前开始游戏的玩家</div><div><br></div><div>领取期限为发送至礼物箱后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1563429600; update_time1569487261

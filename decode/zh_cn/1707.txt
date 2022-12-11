@@ -1,0 +1,8 @@
+article_id:1707
+category_name:公告
+title_name:来自运营方的礼物
+image_path:
+
+message:<div>为感谢各位玩家一直以来对《Dragalia Lost ～失落的龙约～》的大力支持，我们已发放以下道具！</div><div>希望能为各位玩家的冒险之旅提供帮助！</div><div><br></div><div>■礼物内容</div><div>最高级蜂蜜&times;30</div><div>跳过券&times;100（10张&times;10）</div><div>灵鸟之圣灰&times;10</div><div><br></div><div>领取期限为发送至礼物箱后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1602914400; update_time1602818650

@@ -1,0 +1,8 @@
+article_id:723
+category_name:活动
+title_name:“软绵绵表情”追加！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1568872800"></span>起，&ldquo;虚空之影讨伐战&rdquo;交换所中追加&ldquo;软绵绵表情&rdquo;！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/8c8dac708e921363551eb8f51c8fc486.png"><br></div><div>■交换所</div><div>&ldquo;软绵绵表情&rdquo;可用完成<span class="local_date" data-local_date="1568872800"></span>起追加的通常目标所获得的交换专用素材道具&ldquo;山寨软绵绵&rdquo;交换。</div><div>※&ldquo;软绵绵表情&rdquo;的交换数量上限不会重置。</div><div><br></div><div>■目标</div><div><span class="local_date" data-local_date="1568872800"></span>起，追加以下通常目标。</div><div>完成目标即可获得交换专用素材道具&ldquo;山寨软绵绵&rdquo;。</div><div>&middot;打倒3头瓦基扬&middot;虚空之影吧</div><div>&middot;打倒3头波塞冬&middot;虚空之影吧</div><div>&middot;打倒3头贞德&middot;虚空之影吧</div><div>&middot;打倒3头尼德霍格&middot;虚空之影吧</div><div>&middot;打倒3头阿格尼&middot;虚空之影吧</div><div><br></div><div><br></div><div>【注意事项】</div><div>1. 追加的目标可点击主页&ldquo;目标&rdquo;中的&ldquo;通常&rdquo;查看。</div><div>2. 参加虚空之影讨伐战需通关主线剧情第7章 5-6(Normal)。</div><div>3. 获得的表情可点击游戏内主界面下方&ldquo;菜单&rdquo;中的&ldquo;玩家信息&rdquo;，并于&ldquo;表情&rdquo;中编辑后在多人模式或同盟聊天时使用。</div><div>4. &ldquo;虚空之影讨伐战&rdquo;全时段开放。一周中每天登场的虚空之影将有所不同。虚空之影的登场日程请查看公告《虚空之影讨伐战活动日程》。</div><div>5. &ldquo;山寨软绵绵&rdquo;与&ldquo;软绵绵&rdquo;非同一道具。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1568872800; update_time1569555456

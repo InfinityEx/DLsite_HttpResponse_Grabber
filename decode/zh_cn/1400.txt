@@ -1,0 +1,8 @@
+article_id:1400
+category_name:公告
+title_name:“欢乐♪万圣节 登录奖励”活动开始！
+image_path:https://dragalialost.akamaized.net/attached/information/images/4aec501790026390e347ffa03ef105e8.png
+
+message:<div><span class="local_date" data-local_date="1592546400"></span>起，&ldquo;欢乐♪万圣节 登录奖励&rdquo;活动开始！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/4aec501790026390e347ffa03ef105e8.png"></div><div>活动期间登录游戏即可获得龙辉晶和10连召唤券等奖励！</div><div><br></div><div>■登录奖励内容</div><div>第1天：最高级蜂蜜 20个</div><div>第2天：龙辉晶 400个</div><div>第3天：龙辉晶 400个</div><div>第4天：英雄之证 2个</div><div>第5天：龙辉晶 400个</div><div>第6天：龙辉晶 400个</div><div>第7天：10连召唤券 1张</div><div><br></div><div>■活动期间</div><div><span class="local_date" data-local_date="1592546400"></span> ～ <span class="local_date" data-local_date="1593410399"></span></div><div><br></div><div>■注意事项</div><div>1. 登录奖励将在每天14:00后登录游戏时发放至礼物箱。</div><div>2. 发放至礼物箱的登录奖励有领取期限。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1592546400; update_time1592359825

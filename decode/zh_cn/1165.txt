@@ -1,0 +1,8 @@
+article_id:1165
+category_name:公告
+title_name:关于部分武器的技能效果调整
+image_path:
+
+message:<div>我们将于<span class="local_date" data-local_date="1585103400"></span>左右进行的数据更新中对部分武器的技能效果进行调整。</div><div>调整内容如下：</div><div><br></div><div>■武器</div><div>&middot;狂野之剑（★3/剑/无）的技能&ldquo;狂野斩击&rdquo;追加&ldquo;造成烧伤&rdquo;效果。</div><div>&middot;灼热之剑（★3/剑/火）的技能&ldquo;爆炎喷射&rdquo;追加&ldquo;造成烧伤&rdquo;效果。</div><div>&middot;轻羽剑（★3/剑/光）的技能&ldquo;轻羽爆破&rdquo;追加&ldquo;造成烧伤&rdquo;效果。</div><div>&middot;鲜血决斗（★3/剑/暗）的技能&ldquo;鲜血爆破&rdquo;追加&ldquo;造成烧伤&rdquo;效果。</div><div>&middot;破坏之枪（★3/枪/无）的技能&ldquo;破坏舞步&rdquo;追加&ldquo;造成冻伤&rdquo;效果。</div><div>&middot;蓝宝石钢枪（★3/枪/水）的技能&ldquo;苍蓝舞步&rdquo;追加&ldquo;造成冻伤&rdquo;效果。</div><div>&middot;月之枪（★3/枪/光）的技能&ldquo;月之舞步&rdquo;追加&ldquo;造成冻伤&rdquo;效果。</div><div>&middot;暗之枪（★3/枪/暗）的技能&ldquo;黑暗舞步&rdquo;追加&ldquo;造成冻伤&rdquo;效果。</div><div>&middot;机械弓（★3/弓/无）的技能&ldquo;机械连矢&rdquo;追加&ldquo;造成麻痹&rdquo;效果。</div><div>&middot;飞火弓（★3/弓/火）的技能&ldquo;飞火连矢&rdquo;追加&ldquo;造成麻痹&rdquo;效果。</div><div>&middot;狂风试炼（★3/弓/风）的技能&ldquo;狂风连矢&rdquo;追加&ldquo;造成麻痹&rdquo;效果。</div><div>&middot;雷电战弓（★3/弓/光）的技能&ldquo;雷电连矢&rdquo;追加&ldquo;造成麻痹&rdquo;效果。</div><div><br></div><div>※通关主线剧情第2章6-2后在&ldquo;圣城&rdquo;建造&ldquo;铁匠铺&rdquo;即可使用&ldquo;强化&rdquo;中的&ldquo;制作&rdquo;功能。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1584943200; update_time1584600452

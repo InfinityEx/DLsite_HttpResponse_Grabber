@@ -1,0 +1,8 @@
+article_id:2393
+category_name:公告
+title_name:关于iOS版游戏中无法购买龙钻的异常现象
+image_path:
+
+message:<div>iOS版游戏中曾短暂出现了无法购买龙钻的异常现象。</div><div>目前本异常现象已得到解决。</div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div>
+
+start_time:1627609200; update_time1627621991

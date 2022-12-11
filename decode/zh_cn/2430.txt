@@ -1,0 +1,8 @@
+article_id:2430
+category_name:维护
+title_name:关于8/26的游戏维护【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1629963000"></span>追记】</strong></span><br>我们将依次向<span class="local_date" data-local_date="1629945000"></span>前开始游戏的玩家发放以下道具作为本次维护延长的补偿。<br>&middot;最高级蜂蜜&times;1<br>&middot;灵鸟之圣灰&times;1<br><br>领取期限为发送至礼物箱后7天内。</div><div><br></div><hr><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1629950400"></span>追记】</strong></span><br>维护已于<span class="local_date" data-local_date="1629950400"></span>结束。<br>感谢各位玩家对本次维护的理解和配合。<br><br>如出错并显示&ldquo;连接已结束。将返回主界面。&rdquo;，请重启游戏。<br><br>为感谢各位玩家对本次维护的理解和配合，我们将依次向<span class="local_date" data-local_date="1629945000"></span>前开始游戏的玩家发放以下道具：<br>&middot;最高级蜂蜜&times;1<br>&middot;灵鸟之圣灰&times;1<br><br>领取期限为发送至礼物箱后7天内。</div><div><br></div><hr><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1629946800"></span>追记】</strong></span><br>关于本次维护延长<br><br>本次维护预计将于2021年08月26日 12:00(UTC+8)左右结束。<br>对于维护延长给各位玩家造成的困扰和不便，我们深表歉意。<br><br>维护结束前请耐心等待。</div><div><br></div><hr><div>为更新服务器，我们预计将于以下时间段对游戏进行维护。</div><div>※如在本次维护前开始任务并在维护途中完成任务，将无法获得相应报酬。</div><div><br></div><div>■维护时间</div><div><span class="local_date" data-local_date="1629945000"></span>左右 ～ <span class="local_date" data-local_date="1629946800"></span>左右</div><div><br></div><div>■注意事项</div><div>1.维护中无法进行游戏。</div><div>2.维护开始与结束时间可能提前或延后。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1629784800; update_time1630548901

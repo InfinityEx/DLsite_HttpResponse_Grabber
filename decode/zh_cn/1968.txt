@@ -1,0 +1,8 @@
+article_id:1968
+category_name:公告
+title_name:赠送1,200个龙辉晶！
+image_path:
+
+message:<div>为感谢各位玩家对活动&ldquo;PERSONA5 SCRAMBLE 失心之乱&rdquo;的支持和参与，我们将依次发放以下礼物！</div><div><br></div><div>■礼物内容</div><div>龙辉晶 1,200个</div><div>最高级蜂蜜 50个</div><div><br></div><div>■发放对象</div><div><span class="local_date" data-local_date="1612159200"></span>前开始游戏的玩家。</div><div><br></div><div>领取期限为发送至礼物箱后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1612159200; update_time1612148652

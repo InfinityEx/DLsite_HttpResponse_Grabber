@@ -1,0 +1,156 @@
+article_id:2874
+category_name:公告
+title_name:“Dragalia Fes”即将开放！
+image_path:
+
+message:<div>&ldquo;Dragalia Fes&rdquo;预计将于<span class="local_date" data-local_date="1646028000"></span>开放。</div><div><br></div><div>【关于Dragalia Fes】※含&ldquo;Dragalia Fes Extra&rdquo;</div><div>★5角色、龙的初始出现概率将从4%提升至6%！</div><div>※召唤出★5或★5特选后，出现概率将变回初始概率6%。</div><div><span style="color: rgb(226, 80, 65);">※本次新追加的★5角色&ldquo;幻身佐迪亚克&rdquo;(暗)在今后的传说召唤中也将登场。</span></div><div><br></div><div>【新登场的特选对象角色&middot;龙】</div><div>■角色</div><div>★5 幻身佐迪亚克：暗/铳（霰弹铳模式）</div><div><br></div><div>■龙</div><div>★5 圣域龙（Fes限定Ver.）：光</div><div><br></div><div>【Dragalia Fes活动期间】</div><div><span class="local_date" data-local_date="1646028000"></span> ～ <span class="local_date" data-local_date="1646373599"></span></div><div><br></div><div>特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/68551747cfe6b3c5b43393996ca0bd07.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>千年前的第一次封魔战争中<br>与伊莉雅缔结契约并封印魔神的龙。<br>受万民敬仰的圣域龙<br>以世界管理者的身份<br>见证并守护着人类的未来。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7f3c6f3a42d6a89a489bebec12a42d422.png"></span>
+				<span>至高天之守护</span>
+			</dt>
+			<dd><div>全队获得以下效果：<br>·伤害减免<br>·特殊护盾<br>·防御力提升的士气<br>·暴击伤害倍率提升的士气</div><div class="skill-detail">特殊效果<br>·伤害减少50%<br>　效果时间：30 秒<br>　不可叠加<br>·特殊护盾<br>　效果次数：1<br>　效果量：HP最大值的50%<br>获得士气<br>·防御力提升（士气上限Lv 3）<br>·暴击伤害倍率提升（士气上限Lv 3）<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>【光】圣心调和Ⅴ</span></dt><dd><div>装备角色属性为光时获得以下效果：<br>①装备角色的攻击力提升60%，<br>防御力提升30%，HP提升30%。<br>②任务中根据装备角色类型发动以下效果。<br>·攻击型：攻击力提升30%。<br>·防御型：攻击力、防御力、HP各提升15%。<br>·辅助型：技能槽上升率提升30%。<br>·回复型：HP提升30%，技能槽上升率提升15%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/10f062c122cbbdae4e1e1e2ff084d14a2.png"></span><span>圣判咆哮Ⅱ</span></dt><dd><div>①自身龙化时间延长100%。<br>②龙化所需龙化槽翻倍（龙化槽上限不变）。<br>③任务开始时自身龙化槽提升50%。<br>④全队的“任务开始时龙化槽提升效果”上限变为50%。<br>⑤龙化为“圣域龙（Fes限定Ver.）”期间，<br>可使用以下效果的龙之爆发：<br>对前方的敌人造成伤害。</div></dd></dl></div></div></div><div>※Lv100、上限解锁第4阶段、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/d4a70d365d569fd635e826cfd4c54036.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,498</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>可使用模式</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/4805e47916f093eb2b9049cff29e9eb72.png"><img src="https://dragalialost.akamaized.net/attached/information/images/0ea47b25dd52e83055f02a3ca4d545522.png"><img src="https://dragalialost.akamaized.net/attached/information/images/c10d099648b4bc58a4f2bde4fe0dfd752.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>变身为人类形态的暗龙佐迪亚克。<br>为了重新审视什么是爱<br>而决定近距离观察人类的生活。<br>即使外貌改变，他依然怀着无私的爱<br>包容并接纳人类的一切。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/463fc5ea424ca929ee125304b38e1bd72.png"></span>
+				<span>怨念聚集</span>
+			</dt>
+			<dd><div>自身获得3层【怨念之海】。<br>效果期间普通攻击可追加至3段。<br>该攻击命中敌人后可解除其1个增益效果，<br>紧贴敌人命中时追加使其获得【怨念】。<br>【怨念】最多可叠加并升级至Lv5。<br>每次发动第3段普通攻击时消耗1层【怨念之海】。</div><div class="skill-detail">所需SP：4,329<br>特殊效果<br>·怨念之海<br>　叠加上限：3<br>·怨念Lv1<br>　效果时间：10 秒<br>·怨念Lv2<br>　效果时间：10 秒<br>·怨念Lv3<br>　效果时间：10 秒<br>·怨念Lv4<br>　效果时间：15 秒<br>·怨念Lv5<br>　效果时间：20 秒</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a3661c9bf88bcc1418c169b6451357fb2.png"></span>
+				<span>死亡奔流</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>对周围的敌人造成伤害，<br>使其进入“暗殇”状态。<br>当敌人拥有【怨念】时，<br>可根据【怨念】等级追加造成无视防御力的伤害。</div><div class="skill-detail">威力：1,500 × 1 Hit<br>（怨念Lv1）<br>威力：300 × 1 Hit<br>（怨念Lv2）<br>威力：600 × 1 Hit<br>（怨念Lv3）<br>威力：900 × 1 Hit<br>（怨念Lv4）<br>威力：1,200 × 1 Hit<br>（怨念Lv5）<br>威力：1,500 × 1 Hit<br>所需SP：9,072<br>所需共享SP：7,348<br>特殊效果<br>·暗殇<br>　效果时间：21 秒<br>　效果间隔：2.9 秒<br>　威力：31</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>怒气槽减少量＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队怒气槽减少量提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span>
+				<span>【暗】士气：攻势士气·黑暗抗性＋100%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为暗<br>且获得攻击力提升的士气时，<br>进入“黑暗”状态的概率下降100%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/2556d0d8a3f335b515df8014f55973332.png"></span><span>暗龙现身Ⅱ</span></dt><dd><div>·进入“诅咒”状态的概率下降100%。<br>·龙化形态一律变为佐迪亚克。<br>1次任务中龙化2次或以上将变为真佐迪亚克。<br>·对拥有【怨念】的敌人造成的伤害提升15%。<br>·使用技能1、技能2时，<br>自身获得攻击力提升的战意（士气上限Lv1）。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痹抗性＋100%</span></dt><dd><div>进入“麻痹”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3c1105a9ca11c4e91051d5218bc3f2802.png"></span><span>怨魂反噬Ⅱ</span></dt><dd><div>受到伤害时自身龙化槽提升10%。<br>1次任务中龙化1次或以上的情况下<br>还将在受到伤害时在原地设置黑暗怨魂。<br>黑暗怨魂会在3秒后爆炸，<br>对周围的敌人造成伤害并使其获得【怨念】。<br>上述各效果发动后15秒内不会再次发动。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 特选对象角色在&ldquo;阿尔贝里亚大逃杀&rdquo;中解锁可变更外观的&ldquo;角色皮肤&rdquo;所需道具数量将有所减少。</div><div>※部分角色无法解锁角色皮肤。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1645941600; update_time1645756039

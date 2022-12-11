@@ -1,0 +1,205 @@
+article_id:3026
+category_name:公告
+title_name:“Dragalia Fes”即将开放！
+image_path:
+
+message:<div>&ldquo;Dragalia Fes&rdquo;预计将于<span class="local_date" data-local_date="1656482400"></span>开放。</div><div><br></div><div>【关于Dragalia Fes】※含&ldquo;Dragalia Fes Extra&rdquo;</div><div>★5角色、龙的初始出现概率将从4%提升至6%！</div><div>※召唤出★5或★5特选后，出现概率将变回初始概率6%。</div><div><br></div><div>【特选对象角色&middot;龙】</div><div>■角色</div><div>★5 泽娜（Fes限定Ver.）：光/法杖</div><div><br></div><div>■龙</div><div>★5 无畏贞德（Fes限定Ver.）：光</div><div>★5 托尔（Fes限定Ver.）：光</div><div><br></div><div>【Dragalia Fes活动期间】</div><div><span class="local_date" data-local_date="1656482400"></span> ～ <span class="local_date" data-local_date="1656914399"></span></div><div><br></div><div>特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/45b7d48284e508e26b039b467f90a01b.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/280601c003d7f8c9d46799f91d4b7af72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>770</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>489</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>来自异界的另一个塞西娅。<br>她为了拯救自己所在的世界，与王子等人<br>共同行动。虽然她对于在这个世界<br>与伙伴们的关系及自己的定位尚存困惑，<br>却也不忘思考自己力所能及的事。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/89ff2ae17052136be491702e97c672842.png"></span>
+				<span>荣耀圣域</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>回复全队HP并提升全队攻击力。<br>设置【回复区域】。</div><div class="skill-detail">回复量：108<br>回复区域：54<br>所需SP：5,850<br>所需共享SP：17,550<br>特殊效果<br>·攻击力提升15%<br>　效果时间：60 秒<br>　不可叠加<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/73b4f043d682574987f05766f345a8962.png"></span>
+				<span>神圣之冠</span>
+			</dt>
+			<dd><div>对多个攻击对象和对象周围的敌人造成伤害，<br>自身爆发攻击蓄力速度提升。</div><div class="skill-detail">威力：50 × 5 Hit<br>威力：350 × 5 Hit<br>所需SP：8,775<br>特殊效果<br>·BA蓄力速度提升30%<br>　效果时间：15 秒<br>　不可叠加<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回复技能效果＋20%</span>
+			</dt>
+			<dd>
+				<div>
+					全队回复技能效果提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>【光】连击：10连击以上 会心＋13%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为光<br>且连击达到10次以上时获得<br>【暴击率提升13%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/59b79e43c808695a2c55911edd3331bb2.png"></span><span>圣魔巫女Ⅱ</span></dt><dd><div>追加巫女槽。<br>使用技能1和技能2可为巫女槽充能。<br>槽满时自身发动【暮光之月】增益。<br>使下次爆发攻击可蓄力至5阶段<br>并根据阶段提升威力。<br>【暮光之月】增益不会重复，<br>并在使用爆发攻击后解除。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>圣片加护Ⅱ</span></dt><dd><div>进入“中毒”、“诅咒”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>巫女之祈愿Ⅱ</span></dt><dd><div>通过能力效果提升HP时<br>根据效果量提升相应的攻击力。<br>自身剩余HP越多，提升的攻击力越高。<br>此效果对象不含因EX能力和联效EX能力提升的HP。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div>※共享技能与原技能部分效果有所不同。</div><div>※同一人物无法编入同一队伍。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/85f13c2786ddd44c70363f036e72ce41.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>指引众生的动人少女龙·贞德重获新生后的形态。<br>被渴望未来的青年的热情所打动，<br>进而从侵蚀身体的瘴气中解脱出来。<br>展望胜利之后那光明未来的贞德<br>挥舞战旗鼓舞着战士们。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>光辉圣女</span>
+			</dt>
+			<dd><div>对前方的敌人造成伤害，<br>自身HP最大值提升。<br>如以敌人为目标且非技能使用中时<br>龙化时间变为0则自动发动。<br>此效果即使技能槽未满也会发动。</div><div class="skill-detail">威力：330 × 5 Hit<br>特殊效果<br>·HP提升10%<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻击力＋70%</span></dt><dd><div>装备角色属性为光时，<br>角色的攻击力提升70%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1143744471e52c225083bf356743039b2.png"></span><span>【光】圣战誓约Ⅱ</span></dt><dd><div>装备角色属性为光时，<br>龙化槽每上升10%自身发动<br>【45秒内对暗属性和无属性敌人<br>造成的伤害倍率提升30%的增益】<br>此效果不可叠加，发动后5秒内不会再次发动。</div></dd></dl></div></div></div><div>※Lv100、上限解锁第4阶段、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7be9448214ab47b76a5fc8f074461691.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>巴尔库斯的契约龙，掌管雷霆之力<br>并自称雷神。拥有电光一闪便能<br>将战场上的一切化为灰烬的强大力量，<br>在世界各地广为流传。<br>其作为武者的思想也影响着巴尔库斯。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>雷神之锤</span>
+			</dt>
+			<dd><div>对目标和目标周围的敌人造成伤害，<br>使其进入“麻痹”状态。<br>此技能蓄力时可根据点击屏幕次数最多强化至3阶段。<br>一定时间后或强化至最高阶段可发动攻击。</div><div class="skill-detail">威力：1,780 × 1 Hit（最大时）<br>特殊效果<br>·麻痹<br>　效果时间：26 秒<br>　效果间隔：3.9 秒<br>　威力：44.2<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/212bea9478466c5e63454315256b6a5f2.png"></span><span>【光】战车驱动者Ⅴ</span></dt><dd><div>装备角色属性为光时发动以下效果。<br>效果1：攻击力提升50%。<br>效果2：每5秒提升1阶段【斗志】。<br>效果3：根据自身【斗志】阶段提升相应攻击力。<br>【超强斗志】时效果达到最大，可使攻击力提升45%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>【光】轰鸣者Ⅱ</span></dt><dd><div>装备角色属性为光时，<br>龙化解除时获得【超强斗志】<br>并使全队获得【超强斗志】。</div></dd></dl></div></div></div><div>※Lv100、上限解锁第4阶段、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 特选对象角色在&ldquo;阿尔贝里亚大逃杀&rdquo;中解锁可变更外观的&ldquo;角色皮肤&rdquo;所需道具数量将有所减少。</div><div>※部分角色无法解锁角色皮肤。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1656396000; update_time1648556165

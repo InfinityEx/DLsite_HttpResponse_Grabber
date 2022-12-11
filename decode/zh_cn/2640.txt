@@ -1,0 +1,52 @@
+article_id:2640
+category_name:公告
+title_name:“龙辉护符交换所”追加新的龙辉护符！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1638165600"></span>起，&ldquo;龙辉护符交换所&rdquo;的列表中已追加新的龙辉护符。</div><div><br></div><div>本次恒常化并追加至交换所的龙辉护符含新追加的龙辉护符和过去开放的活动中可获得的部分龙辉护符。</div><div>可点击&ldquo;龙辉护符交换所&rdquo;中的&ldquo;特选&rdquo;及各稀有度标签页面交换追加的新龙辉护符。</div><div>可点击&ldquo;龙辉护符交换所&rdquo;中各稀有度标签页面交换恒常化的龙辉护符。</div><div><br></div><div>【新追加的特选对象龙辉护符介绍】</div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/8ce1682dc21ebec2bd75f12555de80722.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/2439af36bc03adcbbc19665e4dcc50802.png"></div>
+	<div class="discription">
+		<div class="charaName">使徒密探</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/50e8f27a8ccb8795c0a52d0417e9e2862.png"></span><span>裂风特效＋25%&nbsp;(Max25%)</span></dt><dd><div>对进入“裂风”状态的敌人造成的伤害提升25%。&nbsp;(Max25%)</div></dd></dl></div></div></div><div><br></div><div>【恒常化的龙辉护符介绍】</div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/ee8900cdc2f65d5adbe4a12649be0d452.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">单翼的旅程</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【刀】技能伤害＋40%&nbsp;(Max40%)</span></dt><dd><div>装备角色的武器种类为刀时，<br>攻击技能造成的伤害提升40%。&nbsp;(Max40%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/7f2b5d5cb14d38623b515ea0e4db0dc82.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/a4b7efe11cdf140f0bf5f353c33738df2.png"></div>
+	<div class="discription">
+		<div class="charaName">战场之花</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>【风】暴击率＋8%&nbsp;(Max15%)</span></dt><dd><div>装备角色属性为风时，<br>暴击率提升8%。&nbsp;(Max15%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/1a186a0044b5b5d9e315aeee562fc0a52.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/5686b974264a7cd2cec543b235471c832.png"></div>
+	<div class="discription">
+		<div class="charaName">天音的育婴奋斗记</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【光】技能增强＋7%&nbsp;(Max15%)</span></dt><dd><div>装备角色属性为光时，<br>技能槽上升率提升7%。&nbsp;(Max15%)</div></dd></dl></div></div></div><div><br></div><div>※最大上限解锁时的数值，并非获得时的数值。</div><div><br></div><div>【特选期间】</div><div><span class="local_date" data-local_date="1638165600"></span> ～ <span class="local_date" data-local_date="1640930399"></span></div><div><br></div><div>※特选期间结束后，仍可在各稀有度标签页面交换本次追加的龙辉护符。</div><div><br></div><div>【注意事项】</div><div>本公告以外的信息可进入商店中的&ldquo;龙辉护符交换所&rdquo;查看。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1638165600; update_time1637722638

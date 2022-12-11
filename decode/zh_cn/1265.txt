@@ -1,0 +1,8 @@
+article_id:1265
+category_name:公告
+title_name:关于角色“赛丽艾拉”的异常现象【追记】
+image_path:
+
+message:<div>更新至版本1.19.0后使用角色&ldquo;赛丽艾拉&rdquo;的技能&ldquo;冰结剑&rdquo;时出现了无法继续游戏的异常现象。</div><div>目前我们正在调查上述异常现象发生的原因。</div><div>最新进展将第一时间更新在本公告中。</div><div>对于给各位玩家造成的困扰和不便，我们深表歉意。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1588311000"></span>追记】</strong></span></div><div>本异常现象已于<span class="local_date" data-local_date="1588224600"></span>左右进行的数据更新中得到了修正。</div><div>对于给各位玩家造成的困扰和不便，我们再次深表歉意。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1587984300; update_time1588311646

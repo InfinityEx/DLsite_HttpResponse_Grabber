@@ -1,0 +1,8 @@
+article_id:1100
+category_name:公告
+title_name:“圣城多彩一日！”终章追加&新功能追加预告
+image_path:https://dragalialost.akamaized.net/attached/information/images/7bb96470f449b5a358bf8ff9f4190569.png
+
+message:<div><span class="local_date" data-local_date="1585807199"></span>结束的&ldquo;圣城多彩一日！&rdquo;已追加终章！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/7bb96470f449b5a358bf8ff9f4190569.png"></div><div><br></div><div>玩家可点击游戏内主界面下方菜单的&ldquo;任务&rdquo;中的&ldquo;圣城多彩一日！&rdquo;，查看活动页面中的&ldquo;今后再会&rdquo;。</div><div><br></div><div>■与&ldquo;小狗&rdquo;的冒险还将&hellip;&hellip;继续？</div><div>&ldquo;小狗&rdquo;预计将于今后追加的新功能中再次登场。</div><div>敬请期待！</div><div><br></div><div>为感谢各位玩家对&ldquo;圣城多彩一日！&rdquo;的支持与关注，我们将依次发放以下礼物。</div><div>希望能为各位玩家的冒险提供帮助！</div><div><br></div><div>■礼物内容</div><div>&middot;幸运四叶草 10个</div><div>&middot;力量宝石 100个</div><div><br></div><div>■终章解锁期间</div><div><span class="local_date" data-local_date="1585807200"></span> ～ <span class="local_date" data-local_date="1585893599"></span></div><div><br></div><div>【注意事项】</div><div>1. 终章仅限已阅读&ldquo;圣城多彩一日！&rdquo;序章的玩家阅读。</div><div>2. 领取期限为发送至礼物箱后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div><div><br></div>
+
+start_time:1585807200; update_time1585285939

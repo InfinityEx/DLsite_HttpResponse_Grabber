@@ -1,0 +1,156 @@
+article_id:1228
+category_name:公告
+title_name:传说召唤“希望与友情的寻蛋之旅 特选”即将再次开放！
+image_path:
+
+message:<div>传说召唤&ldquo;希望与友情的寻蛋之旅 特选&rdquo;预计将于<span class="local_date" data-local_date="1586757600"></span>再次开放。</div><div><br></div><div>特选对象角色&middot;龙的出现概率将提升。</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※本召唤不包含同时开放的&ldquo;传说召唤&rdquo;中新登场的角色和龙。</span></div><div><br></div><div>【传说召唤 特选期间】</div><div><span class="local_date" data-local_date="1586757600"></span> ～ <span class="local_date" data-local_date="1587362340"></span></div><div><br></div><div>部分特选对象角色&middot;龙详情如下：</div><div><br></div><div>【特选角色介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/af4dde57f9e066a766db2d7c1e064c2d.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/87df64b48aa4a9cb03339c12138cc5e52.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>806</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>469</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>2,515</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色详情</div>
+				<div class="param">
+					<ul>
+						<li>居住在西部森林某村落的森隐族，<br>从小便与卢卡和加斯特相识。<br>拥有出色的身体素质与狩猎才能，<br>并众望所归地被任命为下任族长。<br>好搭档猎犬洛夫自小就与其如影随形。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/bed50bf6f65f5dd9e3905c40d2e039bf2.png"></span>
+				<span>绚丽箭雨</span>
+			</dt>
+			<dd>
+				<div>
+					对直线上的敌人造成水属性伤害。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>狩猎直觉</span>
+			</dt>
+			<dd>
+				<div>
+					10秒内自身与周围同伴的攻击力提升10%，<br>技能槽上升率提升20%。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能增强＋15%</span>
+			</dt>
+			<dd>
+				<div>
+					全队技能槽上升率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">联效EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>【水】连击：10连击以上 火抗＋10%</span>
+			</dt>
+			<dd>
+				<div>
+					全队获得以下能力：<br>角色属性为水<br>且连击达到10次以上时获得<br>【火属性抗性提升10%的增益】。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>20连击会心威力＋10%</span></dt><dd><div>每20次连击<br>即发动【20秒内暴击伤害倍率提升10%的增益】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏迷抗性＋100%</span></dt><dd><div>进入“昏迷”状态的概率下降100%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能伤害＋30%</span></dt><dd><div>攻击技能造成的伤害提升30%。</div></dd></dl></div></div></div><div>※Lv80、魔法圆环解锁至50时的数值，并非获得时的数值。</div><div>※数值不含因能力而变动的部分。</div><div><br></div><div>【特选龙介绍】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2ca91eb677f22db4fe5996df9dc5a6f7.png"></div>
+	<div class="status">
+		<div class="title">数值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>383</span>
+					</li>
+					<li class="atk">
+						<span>攻击力</span>
+						<span>113</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aed78e94b328c6f40dde74faeb3c22342.png" alt=""></span>
+				<span>981</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龙详情</div>
+				<div class="param">
+					<ul>
+						<li>对孩子满怀爱意的龙，栖息于某森林中。<br>数百年来一直在孵化自己的蛋，<br>等待着孩子出生。平日性格稳重，<br>但因对孩子深深的爱，<br>在龙蛋遭遇危机时会陷入慌乱。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/71ec1ea232ae067c124323752959fb9f2.png"></span>
+				<span>彩虹泡</span>
+			</dt>
+			<dd>
+				<div>
+					对前方的敌人造成水属性伤害，<br>回复所有同伴的HP。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【水】HP＋40%</span></dt><dd><div>装备角色属性为水时<br>HP提升40%。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/561f0cc02896bcc3c7580180041730282.png"></span><span>【水】OVERDRIVE特效＋60%</span></dt><dd><div>装备角色属性为水时，<br>对OVERDRIVE状态的敌人造成的伤害提升60%。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解锁、最大信赖度时的数值，并非获得时的数值。</div><div><br></div><div>【注意事项】</div><div>1. 召唤详情可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;中的&ldquo;召唤信息&rdquo;，查看&ldquo;详情&rdquo;。</div><div>2. 其它特选信息可点击游戏内主界面下方菜单的&ldquo;召唤&rdquo;，查看&ldquo;出现概率&rdquo;中的&ldquo;出现概率一览&rdquo;。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1586671200; update_time1586501446

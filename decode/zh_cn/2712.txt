@@ -1,0 +1,8 @@
+article_id:2712
+category_name:公告
+title_name:来自运营方的星龙祭礼物
+image_path:
+
+message:<div>为感谢各位玩家一直以来对《Dragalia Lost ～失落的龙约～》的大力支持，我们已发放以下道具！</div><div>星龙祭快乐！</div><div><br></div><div>■礼物内容</div><div>精金&times;1</div><div><br></div><div>领取期限为发送至礼物箱后7天内。</div><div><br></div><div>今后也请继续支持《Dragalia Lost ～失落的龙约～》。</div>
+
+start_time:1640412000; update_time1640223549
