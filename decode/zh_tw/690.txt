@@ -1,0 +1,8 @@
+article_id:690
+category_name:公告
+title_name:「新手限定 建設時間加速」追加公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>遊戲將從版本1.12.0起追加「新手限定 建設時間加速」！</div><div>在「聖城」解鎖後30天內，建設和升級設施所需的時間將會減半。</div><div><br></div><div><span style="color: rgb(226, 80, 65);"><strong>※僅限於<span class="local_date" data-local_date="1569564000"></span>實施的版本1.12.0強制更新後完成「聖城」的新手教學，並解鎖「聖城」的玩家。</strong></span></div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/9babf8f4d8909c100ce95b800b8ba043.png"></div><div><br></div><div>■注意事項</div><div><br></div><div>如要解鎖「聖城」，需完成主線劇情第1章 4-6（Normal），以及「聖城‧育龍庭園新手教學」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1569564000; update_time1568947135

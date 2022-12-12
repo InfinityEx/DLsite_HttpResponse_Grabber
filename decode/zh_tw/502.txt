@@ -1,0 +1,8 @@
+article_id:502
+category_name:公告
+title_name:遊戲內使用條款、召喚情報和公告等內容無法正常顯示之異常現象公告【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，於<span class="local_date" data-local_date="1559527200"></span>左右起，</div><div>發生了遊戲內使用條款、召喚情報和公告等內容無法正常顯示之異常現象。</div><div><br></div><div>關於本異常現象營運團隊正在調查中。</div><div>最新進度將於本公告更新。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1559533200"></span> 更新】</strong></span></div><div>本異常現象已於<span class="local_date" data-local_date="1559531760"></span>左右修正完畢。</div><div><br></div><div>造成全體玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1559531400; update_time1559533655

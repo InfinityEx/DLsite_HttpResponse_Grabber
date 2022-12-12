@@ -1,0 +1,8 @@
+article_id:990
+category_name:活動
+title_name:團體活動【復刻】「新春日下招福來運」終章追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/b7aa8df0f8d143d908180581ed708497.png
+
+message:<div>各位玩家您好<br><br>團體活動【復刻】「新春日下招福來運」已於<span class="local_date" data-local_date="1577771999"></span>結束，並追加終章內容！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/b7aa8df0f8d143d908180581ed708497.png"></div><div>終章可從下方選單列的「主頁面」，點選左下角「圖示」，從「團體活動」的「限定任務」進行閱覽。<br><br>■終章解放期間<br>&nbsp;<span class="local_date" data-local_date="1577772000"></span> ～ <span class="local_date" data-local_date="1578376799"></span><br><br>■注意事項<br>只有在活動期間結束時已完成活動劇情第8話的玩家可以閱覽終章的內容。<br>&nbsp;<br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1577772000; update_time1577265650

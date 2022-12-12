@@ -1,0 +1,8 @@
+article_id:235
+category_name:公告
+title_name:「新手育成支援活動」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「新手育成支援活動」已於<span class="local_date" data-local_date="1549519200"></span>開始舉辦。</div><div><br></div><div>完成期間限定追加的「新手育成支援活動」每日Mission，強化隊伍吧！</div><div><br></div><div>只要完成所有「新手育成支援活動」的每日Mission，每天可獲得龍輝晶石100個，活動期間內共可獲得1500個！</div><div>此外，活動期間內一般每日Mission可獲得的獎勵也會增加！</div><div><br></div><div>■活動期間</div><div><span class="local_date" data-local_date="1549519200"></span> ～ <span class="local_date" data-local_date="1550815199"></span></div><div><br></div><div>■新手育成支援活動詳細</div><div>1. 完成「龍族的試煉」吧</div><div>獎勵：熟透的龍果 3個</div><div><br></div><div>2. 完成遺跡的試煉2次吧</div><div>獎勵：每日更新的火/水/風/光/闇之寶珠1種 70個</div><div><br></div><div>3. 完成任務10次吧</div><div>獎勵：頂級蜂蜜 2個</div><div><br></div><div>4. 以團隊遊戲模式完成任務3次吧</div><div>獎勵：靈鳥之聖灰 1個</div><div><br></div><div>5. 完成所有的新手育成支援Mission吧</div><div>獎勵：龍輝晶石 100個</div><div><br></div><div>■注意事項</div><div>1. 期間限定追加的每日Mission，請點選主頁面的「Mission」，從「每日」項目進行確認。</div><div>2. 一般的每日Mission「完成所有常置每日Mission吧」的達成條件，並不包含期間限定追加的每日Mission。</div><div>3. 活動舉行期間和內容，可能會在無預先告知下進行變更。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1549519200; update_time1549517803

@@ -1,0 +1,8 @@
+article_id:638
+category_name:公告
+title_name:與同盟成員一起挑戰任務，獲得「龍輝晶石」吧！【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>配合「同盟」功能追加，將舉辦下列活動。</div><div>營運團隊預計贈送「龍輝晶石」給在活動舉辦期間內進行團體遊戲時，</div><div>參加條件設定為「同盟成員」的房間並挑戰任務的所有玩家。</div><div><br></div><div>把握機會，和同盟成員一起挑戰團體遊戲吧！</div><div>活動詳細內容如下：</div><div><br></div><div>■活動期間</div><div><span class="local_date" data-local_date="1564380000"></span> ～ <span class="local_date" data-local_date="1565589599"></span></div><div><br></div><div>■禮物內容</div><div>龍輝晶石300個</div><div><br></div><div>■發送日期</div><div><span class="local_date" data-local_date="1565676000"></span>之後依序發送</div><div><br></div><div>■贈送對象</div><div>在活動舉辦期間內進行團體遊戲時，</div><div>參加條件設定為「同盟成員」的房間並挑戰任務的所有玩家。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/95dddc4ad9f599efec71f6c93d002330.png"></div><div><br></div><div>■注意事項</div><div>1. 本活動對象不包含將房間條件從「同盟成員」變更成「隨機組隊」之後挑戰任務的玩家。</div><div>2. 即使活動在戰鬥途中結束，無論是否成功完成任務，參與的玩家都可獲得禮物。</div><div>3. 只要參加的房間設定條件為「同盟成員」，就算之後不再屬於該同盟，也視為禮物發送對象。</div><div>4. 若要參加團隊遊戲，需完成主線劇情第2章 2-1(Normal)。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1565676900"></span>更新】</strong></span><br>營運團隊已將以下道具發送給對象玩家。<br><br>‧龍輝晶石 300個<br><br>道具領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1564380000; update_time1565677025

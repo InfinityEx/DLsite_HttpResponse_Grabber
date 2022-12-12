@@ -1,0 +1,8 @@
+article_id:2251
+category_name:公告
+title_name:「彩羽＆乙羽叛逆戰 絕級」異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「彩羽＆乙羽叛逆戰 絕級」中發生的以下異常現象已於<span class="local_date" data-local_date="1622462400"></span>左右進行的資料更新中修正完畢。</div><div><br></div><div>‧當「彩羽＆乙羽（人型）」發動「小皮球香蕉油」進行攻擊而導致「彩羽＆乙羽（人型）」陷入「火燒」時，因「火燒」造成的傷害可能會與預想的傷害有所差異。</div><div><br></div><div>作為本異常現象之補償，營運團隊將依序發送以下素材給於<span class="local_date" data-local_date="1622462400"></span>前開始遊戲的玩家。</div><div><br></div><div>‧龍輝晶石　300個</div><div><br></div><div>造成玩家們的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1622462400; update_time1622596458

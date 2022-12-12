@@ -1,0 +1,136 @@
+article_id:674
+category_name:公告
+title_name:赫德嘉（情人節Ver.）再度登場！傳說召喚「薔薇盛綻之緋紅情人節」即將舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>傳說召喚「薔薇盛綻之緋紅情人節」預計將於<span class="local_date" data-local_date="1566453600"></span>開始舉辦！</div><div><br></div><div>期間限定的角色將於傳說召喚中再度登場。</div><div>此外，精選對象之角色‧龍族的出現機率將會上升。</div><div><br></div><div>【傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1566453600"></span> ～ <span class="local_date" data-local_date="1567231140"></span></div><div><br></div><div>部分精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選角色介紹】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/abc77360dbef541d8130064c0ae5543e.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/b447b332ae5b8139a67d676456ac9aac2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>805</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>469</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2514</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>身著優雅禮服的赫德嘉，<br>那姿態充滿了成熟的魅力，<br>但這其實是她人生中首次穿上禮服。<br>穿著禮服站在鏡子前，獨自一人<br>傻笑的樣子已經被多位夥伴目擊到。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/11abb0801c7c50c1525746a356ebbb5d2.png"></span>
+				<span>慈愛薔薇</span>
+			</dt>
+			<dd>
+				<div>
+					回復我方全員HP，<br>並使隊伍全員的【活力】提升1階段，<br>給予於15秒之間HP持續回復效果。<br>【活力】達到第5階段即轉換成【超活力】，<br>強化攻擊‧回復技能。<br>【超活力】狀態中使用特定技能時就會解除。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/238e26f1fb8055213f344b979afe79322.png"></span>
+				<span>神聖守護</span>
+			</dt>
+			<dd>
+				<div>
+					給予隊伍全員<br>【使最大HP 30％以下的傷害無效化之盾】，<br>並使【活力】提升2階段。<br>盾的效果只限1次，和同種類的盾無法重複。<br>【活力】達到第5階段即轉換成【超活力】，<br>強化攻擊‧回復技能。<br>【超活力】狀態中使用特定技能時就會解除。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回復技能效果＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的回復技能效果提升20%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9db1d5ba1c3810cd513929574db547b92.png"></span><span>強擊弱化‧攻Ⅱ</span></dt><dd><div>爆發攻擊時以70％機率發動<br>【攻擊力於10秒之間下降3％】效果。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>開場技能量條＋100％</span></dt><dd><div>任務開始時技能量條提升100％。</div></dd></dl></div></div></div><div>※以上為最高Lv、瑪納之環全數解放時的能力值，並非獲得時的能力值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>【精選龍族介紹】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/669389715b0f2e7f889887f8af23bc1e.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>繼承原初之炎的強大火龍。<br>有著「保護弱小是強者使命」的信念，<br>但過去卻因為強大的力量<br>而傷害了應該保護之人。<br>自此，便與人類保持著距離。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>普羅米修斯之火</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人火屬性傷害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/916d0547dd866ff9333344c772c14d732.png"></span><span>【火】攻擊＆風屬性抗性提升Ⅱ</span></dt><dd><div>裝備角色如果為火屬性，<br>則裝備角色的攻擊力提升50％，<br>風屬性抗性提升15％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1566367200; update_time1565940497

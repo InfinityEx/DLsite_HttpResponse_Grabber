@@ -1,0 +1,170 @@
+article_id:1587
+category_name:公告
+title_name:「龍族傳說召喚」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「龍族傳說召喚」已從<span class="local_date" data-local_date="1600668000"></span>起舉辦中！</div><div>&nbsp;</div><div>精選對象之★5和★4龍族的出現機率上升中。</div><div><br></div><div>【龍族傳說召喚出現機率】</div><div>★5精選 合計：2.40％（角色：0％ 龍族：2.40％）</div><div>★5一般 合計：1.60％（角色：0.75％ 龍族：0.85％）</div><div>★4精選 合計：7.00％（角色：0％ 龍族：7.00％）</div><div>★4一般 合計：9.00％（角色：5.05％ 龍族：3.95％）</div><div>★3一般 合計：80.00％（角色：48.00％ 龍族：32.00％）</div><div><br></div><div>【龍族傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1600668000"></span> ～ <span class="local_date" data-local_date="1601186399"></span></div><div><br></div><div>精選對象之龍族介紹如下。</div><div><br></div><div>【精選龍族介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/208674b06cee90dd8cbc716d8bcf69fc.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,096</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>追隨建國君王阿爾博流斯到最後的<br>傳說六龍之一。擁有冥龍的稱號。<br>雖曾敗過一次而徘徊於死亡深淵，<br>最終為了阻止成功復活的魔神野心，<br>並實現其王的願望而展開復甦的雙翼。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>恆誠傷痛</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人闇屬性傷害，<br>使其陷入「毒」狀態。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】攻擊＆龍族恩寵Ⅴ</span></dt><dd><div>裝備角色如果為闇屬性，<br>則裝備角色的攻擊力提升55％。<br>龍化時，給予自身【任務中攻擊力提升10%】增益效果。<br>此效果每場任務最多可發動2次。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/68ca93c3241dc9326d4dfc5ab11c8391.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,095</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>以北格拉斯迪亞大陸為主要活動區域的<br>龍族武裝集團「普拉烏達」中，他隸屬於<br>空中鎮壓部隊。講究禮儀，清廉高潔。<br>厭惡人與龍族間互相疏遠的陳舊觀念，<br>並立志要透過共同作戰來開創嶄新的道路。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>破滅裂風斬</span>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人風屬性傷害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【風】攻擊力＋50％</span></dt><dd><div>裝備角色如果為風屬性，<br>則裝備角色的攻擊力提升50％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>【風】勇猛果敢‧攻盾Ⅱ</span></dt><dd><div>裝備角色如果為風屬性，<br>每15秒未被攻擊而行動中斷時，給予自身<br>【使最大HP 40％以下的傷害無效化之特殊盾】。<br>盾的效果只限1次，與一般的盾可以重複。<br>此外，盾的效果存在時，攻擊力提升30％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/d81d463110a36d8dfabefb0f03de3674.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,095</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>守護南大陸川流的龍族。<br>幼龍與成體的姿態大相逕庭。<br>雖然平時的態度友善，<br>但人類若是在幼龍面前觸犯禁忌，<br>便會創造出懷有惡意的分身而招致災難。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>淨化浪潮</span>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人水屬性傷害。<br>此技能將依斯堤克斯一般攻擊賦予的【川流精神】數量強化。<br>【川流精神】最大可疊加3次，龍化解除或使用技能時將解除所有的【川流精神】。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【水】歷時技能傷害Ⅴ</span></dt><dd><div>裝備角色如果為水屬性，<br>則每經過15秒，給予自身【下次技能傷害提升50％】增益效果。<br>此效果最大可疊加4次，使用攻擊技能時則解除所有效果。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>其他精選對象龍族如下：</div><div>★4龍族：沃加諾伊、沃格爾、迦喀諾特</div><div><br></div><div>【注意事項】</div><div>詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1600668000; update_time1600239903

@@ -1,0 +1,74 @@
+article_id:921
+category_name:公告
+title_name:「龍輝護符交換所」追加期間限定龍輝護符公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div><span class="local_date" data-local_date="1576130400"></span>開始，「龍輝護符交換所」中已追加期間限定的龍輝護符。</div><div><br></div><div>追加的龍輝護符，可於「龍輝護符交換所」中的「精選」項目或各「稀有度」項目中交換。</div><div><br></div><div>【新追加龍輝護符介紹】</div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/dbbf65263ab738134f0e9fff2a03897b2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">專屬於你的禮物</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP全滿‧攻＋15％&nbsp;（Max20％）</span></dt><dd><div>HP全滿時攻擊力提升15％。&nbsp;（Max20％）</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28cbbe44c3b9fd009706ad48a7e4e0f52.png"></span><span>麻痺特攻＋20％&nbsp;（Max25％）</span></dt><dd><div>給予「麻痺」狀態中的敵方傷害提升20％。&nbsp;（Max25％）</div></dd><dt class="event 20813"><span><img src="https://dragalialost.akamaized.net/attached/information/images/8039b5cf8a9bb7837a3a4ed563da0d4c2.png"></span><span>星龍祭P＋150％&nbsp;（Max150％）</span></dt><dd class="event 20813"><div>任務過關後所獲得的【星龍祭P】增加150％。&nbsp;（Max150％）</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/fa4774747b8fa5ee2e8ccc38d935e8262.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">向星龍樹祈願</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span><span>HP70％‧防＋13％&nbsp;（Max20％）</span></dt><dd><div>HP在70％以上時防禦力提升13％。&nbsp;（Max20％）</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>守護之鏈‧治癒Ⅲ&nbsp;（MaxⅢ）</span></dt><dd><div>獲得防禦力提升增益效果時，<br>發動【20秒間，HP持續回復】增益效果。&nbsp;（MaxⅢ）</div></dd><dt class="event 20813"><span><img src="https://dragalialost.akamaized.net/attached/information/images/8039b5cf8a9bb7837a3a4ed563da0d4c2.png"></span><span>星龍祭P＋150％&nbsp;（Max150％）</span></dt><dd class="event 20813"><div>任務過關後所獲得的【星龍祭P】增加150％。&nbsp;（Max150％）</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/283c538657e46268bf9e7873b89ddf4b2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">星龍祭的王子殿下</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>爆擊傷害＋20％&nbsp;（Max25％）</span></dt><dd><div>爆擊時的傷害倍率提升20％。&nbsp;（Max25％）</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>【水】疾風怒濤‧爆擊＋12％&nbsp;（Max15％）</span></dt><dd><div>裝備角色如果為水屬性，<br>則連擊數為15次以上時，<br>攻擊時發生爆擊的機率提升12％。&nbsp;（Max15％）</div></dd><dt class="event 20813"><span><img src="https://dragalialost.akamaized.net/attached/information/images/8039b5cf8a9bb7837a3a4ed563da0d4c2.png"></span><span>星龍祭P＋150％&nbsp;（Max150％）</span></dt><dd class="event 20813"><div>任務過關後所獲得的【星龍祭P】增加150％。&nbsp;（Max150％）</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/7768ea742b1918cb584adfd4cbabb4422.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">閃閃亮亮☆璀璨聖夜</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span><span>火屬性抗性＋10％&nbsp;（Max15％）</span></dt><dd><div>火屬性傷害減少10％。&nbsp;（Max15％）</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>爆擊傷害＋13％&nbsp;（Max25％）</span></dt><dd><div>爆擊時的傷害倍率提升13％。&nbsp;（Max25％）</div></dd><dt class="event 20813"><span><img src="https://dragalialost.akamaized.net/attached/information/images/71ca6f198687c952036797855e36daa92.png"></span><span>閃亮墜飾＋75％&nbsp;（Max75％）</span></dt><dd class="event 20813"><div>任務過關後所獲得的【閃亮墜飾】增加75％。&nbsp;（Max75％）</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/b3fde8cbfc2be75addf35eb60ad117262.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">孩子們的星龍祭</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋50％&nbsp;（Max100％）</span></dt><dd><div>陷入「昏厥」狀態機率下降50％。&nbsp;（Max100％）</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能傷害＋20％&nbsp;（Max40％）</span></dt><dd><div>攻擊技能傷害提升20％。&nbsp;（Max40％）</div></dd><dt class="event 20813"><span><img src="https://dragalialost.akamaized.net/attached/information/images/71ca6f198687c952036797855e36daa92.png"></span><span>閃亮墜飾＋75％&nbsp;（Max75％）</span></dt><dd class="event 20813"><div>任務過關後所獲得的【閃亮墜飾】增加75％。&nbsp;（Max75％）</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/b658654c62c46f22897152c204bb6c772.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/8882a1e2cd557667e16b4245e73d8a6f2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">星落之夜的晚餐</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span><span>回復技能效果＋8％&nbsp;（Max20％）</span></dt><dd><div>回復技能的效果提升8％。&nbsp;（Max20％）</div></dd><dt class="event 20813"><span><img src="https://dragalialost.akamaized.net/attached/information/images/71ca6f198687c952036797855e36daa92.png"></span><span>閃亮墜飾＋75％&nbsp;（Max75％）</span></dt><dd class="event 20813"><div>任務過關後所獲得的【閃亮墜飾】增加75％。&nbsp;（Max75％）</div></dd></dl></div></div></div><div><br></div><div>※以上為上限全數解放的能力值，並非獲得時的能力值。</div><div><br></div><div>【精選期間】</div><div><span class="local_date" data-local_date="1576130400"></span> ～ <span class="local_date" data-local_date="1577339999"></span></div><div><br></div><div><span style="color: rgb(226, 80, 65);"><strong>※本次追加的期間限定龍輝護符，無法於精選期間結束後進行交換。</strong></span></div><div><br></div><div>【注意事項】</div><div>1. 本次的精選龍輝護符，今後有可能再度登場。</div><div>2. 本公告中未記載的其他資訊，請於「主頁面」＞「商店」＞「龍輝護符交換所」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1576130400; update_time1575881017

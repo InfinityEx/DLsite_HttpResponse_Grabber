@@ -1,0 +1,8 @@
+article_id:177
+category_name:公告
+title_name:主線劇情第7章「遠征！前往水上都市」登場！ 
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>於<span class="local_date" data-local_date="1545890400"></span>起，已追加主線劇情第7章「遠征！前往水上都市」！</div><div>&nbsp;<img src="https://dragalialost.akamaized.net/attached/information/images/8b6fca52bc1c714c72d08e17ba93c399.png"></div><div>王子等人，為了尋求盟友，前往水上都市聖魯塔斯。</div><div>而該都市的領主──竟是出乎意料的人物！</div><div>錯綜複雜的家族情感，</div><div>還有暗中行動的王子其華麗身影！</div><div><br></div><div>最新劇情，敬請期待！</div><div><br></div><div>■注意事項</div><div>1. 如要進行主線劇情第7章「遠征！前往水上都市」，需完成主線劇情第6章4-4「光之王冠」。</div><div>2. 內容將可能在無預先告知下進行變更。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1545890400; update_time1545905213

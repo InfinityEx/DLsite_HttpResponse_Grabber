@@ -1,0 +1,8 @@
+article_id:2482
+category_name:活動
+title_name:「舊趣活動」追加設施活動「來自北方的女神使徒」公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/d8459b9513039957cba26b223289d8b7.png
+
+message:<div>各位玩家您好</div><div><br></div><div>「舊趣活動」已於<span class="local_date" data-local_date="1632722400"></span>起追加設施活動「來自北方的女神使徒」。</div><div><br></div><div><a href="https://dragalialost.com/cht/news/detail/1176">舊趣活動詳情請由此進行確認。</a></div><div><br></div><div>※本次追加的任務皆為單人模式專用。無法以團隊遊戲挑戰。</div><div>※可參加的活動種類，預計於今後的版本更新進行追加。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1632722400; update_time1631258402

@@ -1,0 +1,8 @@
+article_id:1755
+category_name:公告
+title_name:「阿爾貝利亞競技大亂鬥」龍族變更與平衡調整公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「阿爾貝利亞競技大亂鬥」將於<span class="local_date" data-local_date="1604469600"></span>起變更可龍化的龍族，並進行平衡調整。</div><div><br></div><div>■變更可龍化的龍族</div><div>將無視武器種類，一律龍化為「邱比特」。</div><div>※今後可龍化的龍族可能會有所變更。</div><div><br></div><div>變更前：耶夢加得</div><div>變更後：邱比特</div><div><br></div><div>■平衡調整</div><div>分析目前統計的對戰資料後，確認到武器種類「斧」的性能勝率明顯高於其他武器。</div><div>為避免勝率差異過大，營運團隊已進行平衡調整。</div><div><br></div><div>【武器種類：斧】</div><div>‧下調HP初始值，以及升級時的HP提升量。</div><div>‧下調升級時的攻擊力提升量。</div><div>‧下調武器種類專用技能威力。</div><div><br></div><div>■注意事項</div><div>1. 「阿爾貝利亞競技大亂鬥」之詳細，請參考活動任務頁面的「遊戲方式」內說明。</div><div>2. 如活動於戰鬥中結束，該戰鬥將繼續進行直到分出勝負。依據戰鬥的勝敗結果可獲得相對應的報酬。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1604469600; update_time1604041996

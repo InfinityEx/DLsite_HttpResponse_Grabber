@@ -1,0 +1,8 @@
+article_id:1463
+category_name:活動
+title_name:活動預告【復刻】「夢幻秘寶‧冒險島嶼！」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/a8184b97c17b7d2a95abdf7e21276d1e.png
+
+message:<div>團體活動【復刻】「夢幻秘寶‧冒險島嶼！」預計將於<span class="local_date" data-local_date="1595224800"></span>起開始舉辦。</div><div>本活動可在團隊遊戲模式下挑戰火屬性的團體戰BOSS。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a8184b97c17b7d2a95abdf7e21276d1e.png"></div><div>潔白沙灘、蔚藍大海、耀眼陽光──！<br>戰士也是需要休息的。<br>王子一行人來到了風光明媚的島嶼，盡情享受著假期。<br>但是，這座島中卻有著驚人的秘密！<br>似乎在島上的某處，沉睡著夢幻寶藏。<br>受到藏寶圖指引，王子等人遭遇了蒼炎的龍族，<br>以及古怪的海洋巨大魔獸&hellip;&hellip;！<br><br>■注意事項<br>1. 若要參加活動任務，需完成主線劇情第2章 2-1（Normal）。<br>2. 若要參加團隊遊戲，需完成主線劇情第2章 2-1（Normal）。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1594965600; update_time1594965816

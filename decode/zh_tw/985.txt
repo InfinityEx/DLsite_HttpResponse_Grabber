@@ -1,0 +1,8 @@
+article_id:985
+category_name:公告
+title_name:新春運勢「七福的信帖」活動舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/d77f09892c560650d9ae0df265a02eb7.png
+
+message:<div>新春運勢「七福的信帖」活動預計將於<span class="local_date" data-local_date="1577340000"></span>起開始舉辦。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/d77f09892c560650d9ae0df265a02eb7.png"></div><div><br></div><div>某一天，日初之國的家康等人寄來了一封信，裡面除了信紙之外還有封好的「信帖」。<br>信中提到日初之國有個習俗，人們會在年末之時寄贈「七福的信帖」給想要感謝的對象，藉以表示感謝之意並祝賀新年。<br>據說人們會將寫著「七福」之一的信帖放入信封中，贈送該「福」所對應之物給對方。<br>不過，若在新年到來前打開收到的「七福的信帖」，信帖上的「福」就會消失，可在新年時得到的各種「福」也會隨之而去。<br>收到的「七福的信帖」內究竟寫著什麼呢&hellip;&hellip;？<br>大家按捺住想要立刻開封的心情，期待新年驚喜之時的到來。</div><div><br></div><div>敬請期待日後公開的詳細內容。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1577253600; update_time1577241552

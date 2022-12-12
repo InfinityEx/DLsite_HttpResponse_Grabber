@@ -1,0 +1,8 @@
+article_id:2914
+category_name:版本更新
+title_name:「萬花筒迷宮」平衡調整公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>為提升「萬花筒迷宮」的遊戲體驗，已在<span class="local_date" data-local_date="1646373600"></span>的更新中進行以下平衡調整。</div><div><br></div><div>■角色調整</div><div>‧調高略過樓層至30F時的角色等級。</div><div>※略過樓層至30F以外時則不在此調整對象內。</div><div><br></div><div>■法夫納能力調整</div><div>變更Lv.11後進行強化時的效果提升值。</div><div>變更後的提升值如下：</div><div><br></div><div>【提升值由0.5％變更為1.5％】</div><div>‧HP提升</div><div>‧攻擊力提升</div><div>‧技能傷害提升</div><div>‧各種族抗性</div><div>‧記憶的朝露獲得量提升</div><div>‧經驗值獲得量提升</div><div><br></div><div>【提升值由0.5％變更為1.0％】</div><div>‧爆擊率提升</div><div>‧爆擊傷害提升</div><div>‧爆發攻擊傷害提升</div><div>‧回復力提升</div><div>‧追憶的夜露獲得量提升</div><div><br></div><div>■一般敵人調整</div><div>‧調降部分敵人的等級</div><div>‧調降部分敵人的HP</div><div>‧調降多數敵人的攻擊力</div><div>‧延長敵人進行回復的時間間隔</div><div><br></div><div>■BOSS調整</div><div>‧調降所有BOSS的HP</div><div>‧調降所有BOSS的攻擊力</div><div>‧延長哈魯進行攻擊的時間間隔</div><div>‧延長哈魯發動「飛鴉疾風」的時間</div><div>‧縮短鉸蟹類敵人「冰凍圓球」的追蹤時間</div><div><br></div><div>※若於「萬花筒迷宮」遊玩期間反映此調整時，將在中斷遊戲並繼續關卡時反映調整內容。</div><div>※關於敵人的等級調整，則會在移動至下一樓層時反映於遊戲內。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1646373600; update_time1646374302

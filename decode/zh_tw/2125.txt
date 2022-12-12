@@ -1,0 +1,8 @@
+article_id:2125
+category_name:活動
+title_name:「強者的試煉」追加任務「波塞頓的試煉」！
+image_path:https://dragalialost.akamaized.net/attached/information/images/b1f1e489bbecb260509e1bfc013a11db.png
+
+message:<div>各位玩家您好</div><div><br></div><div>「強者的試煉」已於<span class="local_date" data-local_date="1618380000"></span>起追加新任務！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/f2e39c74edf05dc1236321f62524aa50.png"></div><div>波塞頓的試煉 中級（水）推薦戰力：15,000</div><div>波塞頓的試煉 高級（水）推薦戰力：20,000</div><div>波塞頓的試煉 超級（水）推薦戰力：38,000</div><div><br></div><div>■舉辦期間</div><div><span class="local_date" data-local_date="1618380000"></span> ～ <span class="local_date" data-local_date="1618984799"></span></div><div><br></div><div>■指定屬性／武器種類</div><div>風／短劍‧魔杖‧法杖</div><div><br></div><div>■可獲得信念／誓魂的對象角色</div><div>耶魯菲莉絲（龍絆日Ver.）</div><div><br></div><hr><div>■每日獎勵</div><div>「強者的試煉」的每日獎勵可獲得能夠解鎖特定角色瑪納之環第6層的「信念」或「誓魂」等道具。</div><div>「強者的試煉」的每日獎勵與過往的每日獎勵不同，未獲得「強者的試煉」的每日獎勵時，隔天以後的每日獎勵獲得次數將會增加。</div><div><br></div><div>※每日獎勵的獲得次數最多可累積至3次。</div><div>※每日獎勵的獲得次數將於每日14:00增加。</div><div>※不可選擇是否領取每日獎勵。</div><div><br></div><div>各難易度可獲得的每日獎勵如下：</div><div>‧難易度「中級」：對象角色的信念&times;1、大地恩惠&times;1、生命龍鱗&times;2、鬥氣龍鱗&times;2</div><div>‧難易度「高級」：對象角色的信念&times;2、對象角色的誓魂&times;1、大地恩惠&times;1、生命龍鱗&times;2、鬥氣龍鱗&times;2</div><div>‧難易度「超級」：對象角色的信念&times;2、對象角色的誓魂&times;1、大地恩惠&times;2、生命龍鱗&times;3、鬥氣龍鱗&times;3</div><div><br></div><div>※獲得的每日獎勵為打倒的BOSS之對應獎勵。</div><div>例：在「索爾的試煉」舉辦期間未獲得每日獎勵，日後於「波塞頓的試煉」中獲得累積的每日獎勵時，將獲得「波塞頓的試煉」的獎勵。</div><div><br></div><div>【注意事項】</div><div>如要參加「強者的試煉」，須完成主線劇情第10章 6-3（Normal）。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1618380000; update_time1618368589

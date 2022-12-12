@@ -1,0 +1,8 @@
+article_id:516
+category_name:公告
+title_name:「真‧墨丘利的試煉」追加難易度「入門」公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>真‧龍族的試煉「真‧墨丘利的試煉」已於<span class="local_date" data-local_date="1561010400"></span>起追加新難易度「入門」！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/4d700f6dddb904c51ce152783b106715.png"></div><div>在挑戰溫柔與嚴厲兼具的巨大水龍「真‧墨丘利」之前，先來測試看看自身的實力吧！</div><div>※即使完成「入門」也無法獲得稱號。</div><div><br></div><div>「真‧龍族的試煉」的每週獎勵也包含「真‧墨丘利的試煉 入門」。</div><div>獎勵與「真‧墨丘利的試煉」不同。</div><div><br></div><div>■注意事項</div><div>1. 挑戰真‧龍族的試煉「真‧墨丘利的試煉 入門」，戰力須為11000以上。</div><div>2. 挑戰真‧龍族的試煉「真‧墨丘利的試煉 入門」，須先完成「墨丘利的試煉 超級」。</div><div>3. 參加團隊遊戲，須先完成主線劇情第2章 2-1(Normal)。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1561010400; update_time1560161379

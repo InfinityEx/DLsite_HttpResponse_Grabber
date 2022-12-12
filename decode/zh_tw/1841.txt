@@ -1,0 +1,169 @@
+article_id:1841
+category_name:公告
+title_name:瑪洛菈（星龍祭Ver.）再度登場！傳說召喚「天落愛雪星龍祭」再度舉辦中！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>傳說召喚「天落愛雪星龍祭」已於<span class="local_date" data-local_date="1608271200"></span>起再度舉辦中！</div><div><br></div><div>期間限定角色‧龍族將於傳說召喚中再度登場。</div><div>另外，精選對象之角色‧龍族的出現機率將會上升。</div><div><br></div><div>【再度登場的期間限定精選角色】</div><div>★5 瑪洛菈（星龍祭Ver.）：光／斧</div><div>★5 克菈兒（星龍祭Ver.）：水／短劍</div><div>★4 塞因福蘭德（星龍祭Ver.）：風／魔杖</div><div>★4 涅法莉耶（星龍祭Ver.）：水／弓</div><div>★4 亞雷克西斯（星龍祭Ver.）：水／魔杖</div><div><br></div><div>【再度登場的期間限定精選龍族】</div><div>★5 貞德（星龍祭Ver.）：水</div><div><br></div><div>【精選對象龍族】</div><div>★5 聖潔不死鳥：光</div><div>★4 林德沃姆：光</div><div><br></div><div>【傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1608271200"></span> ～ <span class="local_date" data-local_date="1609135199"></span></div><div><br></div><div>再度登場的部分期間限定精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/638914cc5cf26c446b9da779741b7fee.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>747</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>515</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,502</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>魅惑狙擊手華麗變身！<br>化身為星龍祭聖人，在星落之夜颯爽登場。<br>以甜美嗓音與誘惑技巧來懲罰渣男，<br>取回被奪走的純愛。不知是誰如此稱呼，<br>其名為──聖愛使者‧瑪洛菈！</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/eedeb82f382c79ce1e8e580efaa403f92.png"></span>
+				<span>聖愛使者的贈禮♪</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人光屬性傷害，<br>使闇屬性敵人於15秒之間防禦力下降15％。<br>此防禦力下降效果無法重複。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>驚險的冬季火辣戀章！</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人光屬性傷害。<br>對陷入「防禦力下降」狀態的敵人傷害上升。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防禦力＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的防禦力提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【光】麻痺：麻痺觸發‧攻＋13％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，<br>則自身使敵方陷入麻痺狀態時，<br>發動【15秒間，攻擊力提升13％】增益效果。<br>此效果發動後，10秒間不會再次發動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/561f0cc02896bcc3c7580180041730282.png"></span><span>Overdrive特攻＋13％</span></dt><dd><div>給予OVERDRIVE狀態中的敵方傷害提升13％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>詛咒抗性＋100％</span></dt><dd><div>陷入「詛咒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>防禦力下降觸發‧盾Ⅱ</span></dt><dd><div>自身使敵方陷入「防禦力下降」狀態時，給予自身<br>【使最大HP 20％以下的傷害無效化之盾】。<br>盾的效果只限1次，和同種類的盾無法重複。<br>此效果發動後，5秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6c5fce505299685c31a73da3ca65fcce.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>為不死鳥種的一種，掌管「再生」。<br>雖然平時總是精力充沛且開朗可靠，<br>但只要一放鬆，就會變得有些迷糊並愛撒嬌。<br>有些人以其外貌判斷她就是<br>伊利亞教「聖鳥」象徵的原型，但真偽不明。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>再生之火</span>
+			</dt>
+			<dd>
+				<div>
+					給予周圍敵人光屬性傷害，<br>使其陷入「麻痺」狀態。<br>並解除我方「詛咒」與「毒」狀態。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻擊力＋50％</span></dt><dd><div>裝備角色如果為光屬性，<br>則裝備角色的攻擊力提升50％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28cbbe44c3b9fd009706ad48a7e4e0f52.png"></span><span>【光】麻痺特攻＋20％</span></dt><dd><div>裝備角色如果為光屬性，<br>則給予「麻痺」狀態中的敵方傷害提升20％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1608271200; update_time1608186857

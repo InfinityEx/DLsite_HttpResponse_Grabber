@@ -1,0 +1,8 @@
+article_id:1775
+category_name:公告
+title_name:武器種類「銃」的風屬性武器登場！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>武器種類「銃」即將於<span class="local_date" data-local_date="1605247200"></span>起追加新的風屬性武器。</div><div>追加武器如下：</div><div>&nbsp;</div><div>‧初始系列：★5風屬性武器</div><div>‧奇美拉系列：★5風屬性武器</div><div>‧真‧龍族系列：★5風屬性武器</div><div>‧咢牙系列：★6風屬性武器</div><div><br></div><div>※初始系列並無「銃」種類的★3無屬性武器。鍛冶屋Lv.4以上可生產★4無屬性武器。</div><div>※由於目前尚無可生產的「銃」種類虛空之影武器，因此「銃」種類武器與其他武器種類不同，解鎖「銃」種類的真‧龍族系列時不需要生產虛空之影系列武器。初始系列★5無屬性武器在Complete狀態且鍛冶屋Lv.7以上即可生產。</div><div><br></div><div>■注意事項</div><div>各武器詳情請點選遊戲內下方選單列的「強化」後，從「武器生產＆強化」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1605247200; update_time1605086460

@@ -1,0 +1,8 @@
+article_id:2827
+category_name:活動
+title_name:舊趣活動的設施活動中道具交換數量更新公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/d8459b9513039957cba26b223289d8b7.png
+
+message:<div>各位玩家您好</div><div><br></div><div>舊趣活動的設施活動中，道具交換數量已於<span class="local_date" data-local_date="1643954400"></span>更新！</div><div>交換數量已達上限的玩家可重新交換。</div><div><br></div><div>■已更新交換數量的設施活動</div><div>‧「響徹工房！三姊妹的羈絆」</div><div>‧「夜雪紛飛時的星龍樹下」</div><div>‧「將心願寄於天風」</div><div>‧「與馬戲團共度夢幻時光」</div><div>‧「希望與友情的彩蛋狩獵」</div><div>‧「充滿糖果的萬聖節派對之夜」</div><div>‧「Melodious Summer♪」</div><div>‧「秘儀呼喚‧封印圖書館」</div><div>‧「來自北方的女神使徒」</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1644300000; update_time1644284125

@@ -1,0 +1,154 @@
+article_id:2829
+category_name:公告
+title_name:「失落龍絆日　非凡佳選」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「失落龍絆日　非凡佳選」已於<span class="local_date" data-local_date="1644818400"></span>起舉辦中！</div><div><br></div><div>【關於失落龍絆日】 ※包含「失落龍絆日　非凡佳選」</div><div>★5角色、龍族的初始「出現機率」，將由平時的4％上升至6％！</div><div>※如召喚出★5或★5精選，出現機率將會變回初始設定值6％。</div><div><span style="color: rgb(226, 80, 65);">※本次新追加的★5角色「妮娜（風）」，在今後的傳說召喚中也會出現。</span></div><div><span style="color: rgb(226, 80, 65);">※過去於「失落龍絆日」中登場的龍族也可能於本召喚中登場。登場龍族詳細資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</span></div><div><br></div><div>【新追加的精選對象之角色】</div><div>■角色</div><div>★5 妮娜：風／法杖</div><div><br></div><div>【曾於過去的失落龍絆日中登場的精選對象之龍族】</div><div>■龍族</div><div>★5 雷鷹‧勇（龍絆日Ver.）：風</div><div><br></div><div>此外，以下期間限定的角色將於本次「失落龍絆日」中再度登場。</div><div><span style="color: rgb(226, 80, 65);">※以下角色並非精選對象。</span></div><div><br></div><div>【再度登場的期間限定對象之角色】</div><div>■角色</div><div>★5 雀兒喜（情人節Ver.）：風／弓</div><div>★5 美樂蒂（情人節Ver.）：風／斧</div><div>★5 阿迪斯（情人節Ver.）：闇／弓</div><div><br></div><div>【失落龍絆日　非凡佳選出現機率】</div><div>★5合計：6.00％</div><div>★5精選 合計：1.30％（角色：0.50％ 龍族：0.80％）</div><div>★5一般 合計：4.70％（角色：2.50％ 龍族：2.20％）</div><div>★4一般 合計：16.00％（角色：8.55％ 龍族：7.45％）</div><div>★3一般 合計：78.00％（角色：47.00％ 龍族：31.00％）</div><div><br></div><div>【失落龍絆日　非凡佳選舉辦期間】</div><div><span class="local_date" data-local_date="1644818400"></span> ～ <span class="local_date" data-local_date="1645077599"></span></div><div><br></div><div>精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6ade03723b0bc004bd4a993126922e55.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/b447b332ae5b8139a67d676456ac9aac2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>807</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>468</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>於南格拉斯迪亞大陸某座城鎮經營商店，<br>性格開朗活潑的少女。每當有客人造訪她的店，<br>她都會以最真摯的態度平等對待每位客人。<br>但唯有對不由分說就來找碴、<br>偷東西等行為的客人時會毫不留情。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/febed52c0bbb22852312ef8a69f450cb2.png"></span>
+				<span>移動販賣！妮娜商店！</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>持續回復隊伍全員HP。<br>此外，回復隊伍全員HP。<br>此回復效果若對象HP減少至30％以下時，<br>則回復量上升10倍。<br>待客量條蓄滿1條以上時，依數量追加以下效果：<br>‧待客量條1條以上：回復量上升。<br>‧待客量條2條以上：解除隊伍全員的異常狀態。<br>‧待客量條3條：給予隊伍全員<br>攻擊力提升之爆發氣場。</div><div class="skill-detail">（待客量條0條時）<br>回復力：10<br>所需技能點數：5,916<br>所需共享技能點數：9,169<br>特殊效果<br>‧HP持續回復<br>　效果時間：40 秒<br>　效果間隔：2.9 秒<br>　效果量：25<br><br>（待客量條1條時）<br>回復力：21<br>特殊效果<br>‧HP持續回復<br>　效果時間：40 秒<br>　效果間隔：2.9 秒<br>　效果量：25<br><br>（待客量條2條時）<br>回復力：21<br>特殊效果<br>‧HP持續回復<br>　效果時間：40 秒<br>　效果間隔：2.9 秒<br>　效果量：25<br>‧全異常狀態回復<br><br>（待客量條3條時）<br>回復力：21<br>特殊效果<br>‧HP持續回復<br>　效果時間：40 秒<br>　效果間隔：2.9 秒<br>　效果量：25<br>‧全異常狀態回復<br>獲得爆發氣場<br>‧攻擊力提升（爆發氣場上限Lv. 1）</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/275a89229a56fc552cb6eaa8508951262.png"></span>
+				<span>血本無歸大出清！</span>
+			</dt>
+			<dd><div>使隊伍內HP歸零的角色以HP全滿的狀態復活，<br>並回復隊伍全員HP，解除異常狀態。<br>此外，蓄集隊伍全員（自身與龍族除外）的技能量條。<br>技能發動中不會因為被攻擊而行動中斷。<br>此技能僅限待客量條蓄集至上限時使用，<br>使用技能時將消費所有待客量條。</div><div class="skill-detail">回復力：300<br>所需技能點數：8,352<br>特殊效果<br>‧復活<br>‧全異常狀態回復<br>‧技能蓄集<br>　效果量：100％</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回復技能效果＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的回復技能效果提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span>
+				<span>【風】士氣：攻勢士氣‧治癒Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為風屬性，<br>則在攻擊力提升之爆發氣場狀態時，<br>發動【HP持續回復】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cabfd8229c6af11c5b1f4e6ea9115ed42.png"></span><span>誠心待客Ⅱ</span></dt><dd><div>‧追加待客量條。<br>爆發攻擊轉換成給予目標和其周圍敵人傷害。<br>‧任務開始時，待客量條蓄集至上限。<br>‧使用技能「移動販賣！妮娜商店！」時<br>蓄集待客量條。<br>待客量條最大可蓄集3條，當蓄滿1條以上時，<br>使爆發攻擊追加「解除增益效果」。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>凍結抗性＋100％</span></dt><dd><div>陷入「凍結」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/77e6a5d022e8d9cc368641382287ea682.png"></span><span>感恩大拍賣Ⅱ</span></dt><dd><div>‧於技能「移動販賣！妮娜商店！」的圖示<br>追加技能量條。<br>‧待客量條蓄滿1條以上時，即使未蓄滿技能量條<br>也可發動技能「移動販賣！妮娜商店！」。<br>以此方法發動技能時，消費1條待客量條。<br>‧消費1條以上待客量條時，<br>給予隊伍全員攻擊力提升之爆發氣場<br>（爆發氣場上限Lv.1）。<br>此效果發動後，45秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※原有技能與共享技能的部分效果可能有差異。</div><div>※以技能使角色復活之詳情，請參考遊戲說明。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/38805e42c16889edb531e2a2fd99985f.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>受平原民族信仰的龍族‧雷鷹重獲新生之姿。<br>因堅毅且不屈的壯士意志而得以<br>從瘴氣中解放，免受其侵蝕。<br>個性依舊小心仔細且處事謹慎，<br>但胸中懷抱著不懼變化的強大意志。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>平原猛威</span>
+			</dt>
+			<dd><div>給予目標和其周圍敵人傷害。<br>若將敵方設為目標，<br>並於非技能使用途中的情況下龍化時間歸零，<br>則此技能將會自動發動。<br>此效果即使技能量條尚未蓄滿仍會發動。</div><div class="skill-detail">威力：1,923 × 1 Hit<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【風】攻擊力＋70％</span></dt><dd><div>裝備角色如果為風屬性，<br>則裝備角色的攻擊力提升70％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/65863989132db80658f5d919573c14e92.png"></span><span>【風】悠原之猛Ⅱ</span></dt><dd><div>裝備角色如果為風屬性，<br>則龍化量條每提升10％時，給予自身<br>【45秒間，攻擊水屬性與無屬性敵人時<br>傷害倍率提升30％】增益效果。<br>此效果無法重複，發動後5秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為Lv.100、上限解放4階段、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 精選對象角色在「阿爾貝利亞競技大亂鬥」中可改變角色外觀的「角色造型」將轉為SALE中，並減少解鎖時所需的道具。</div><div>※有部分角色無法解鎖角色造型。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1644818400; update_time1644457118

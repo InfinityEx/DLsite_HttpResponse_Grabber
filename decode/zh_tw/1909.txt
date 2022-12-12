@@ -1,0 +1,8 @@
+article_id:1909
+category_name:公告
+title_name:高難易度任務追加「失落的歷史～摩特米塞亞大討滅戰～」！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div><span class="local_date" data-local_date="1610604000"></span>起已追加高難易度任務「失落的歷史～摩特米塞亞大討滅戰～」。</div><div>在「失落的歷史～摩特米塞亞大討滅戰～」中可挑戰強大的無屬性團體戰BOSS「摩特米塞亞」。</div><div>完成任務後，將可獲得能夠賦予龍族＋值的「生命龍鱗」和「鬥氣龍鱗」，以及強化設施時所需的素材道具「大地恩惠」。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/03d43cdbfadb80db889a8737c8fbc45f.png"></div><div><br></div><div>「失落的歷史～摩特米塞亞大討滅戰～」將持續開放，可隨時進行挑戰。</div><div>本任務可以單人模式和團隊模式進行挑戰，挑戰時會消耗「能量」和「共鬥之翼」。</div><div><br></div><div>■任務技能</div><div>當「摩特米塞亞」的「瘴氣量條」達MAX時，「摩特米塞亞」將變得更加強大。</div><div>使用任務技能「聖閃」降低瘴氣量條吧。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/cdca546569d927a7c85e436f2b626dee.png"></div><div><br></div><div>■每週獎勵</div><div>可透過「失落的歷史～摩特米塞亞大討滅戰～」的每週獎勵獲得「生命龍鱗」和「鬥氣龍鱗」。</div><div><br></div><div>■設施</div><div>設施等級上限將於<span class="local_date" data-local_date="1610604000"></span>起解鎖。</div><div>以下設施的等級上限將解鎖至Lv.45。</div><div>‧火之祭壇</div><div>‧水之祭壇</div><div>‧風之祭壇</div><div>‧光之祭壇</div><div>‧闇之祭壇</div><div>以下設施的等級上限將解鎖至Lv.40。</div><div>‧劍之訓練場</div><div>‧刀之訓練場</div><div>‧短劍訓練場</div><div>‧斧之訓練場</div><div>‧槍之訓練場</div><div>‧弓之訓練場</div><div>‧魔杖訓練場</div><div>‧法杖訓練場</div><div>‧銃之訓練場</div><div><br></div><div>■其他</div><div>交換所的「龍輝之證交換」中追加素材道具「大地恩惠」。</div><div><br></div><div>【注意事項】</div><div>1. 如要參加「失落的歷史～摩特米塞亞大討滅戰～」，須先閱讀舊趣活動「失落的歷史～被遺落的真相～」終章。</div><div>2.「失落的歷史～摩特米塞亞大討滅戰～」的團體戰中並無團體戰增幅和活動特殊能力。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1610604000; update_time1610587627

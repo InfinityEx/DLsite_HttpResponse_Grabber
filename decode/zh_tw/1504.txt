@@ -1,0 +1,170 @@
+article_id:1504
+category_name:公告
+title_name:「龍族傳說召喚」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「龍族傳說召喚」預計將於<span class="local_date" data-local_date="1597644000"></span>起開始舉辦。</div><div><br></div><div>精選對象之★5和★4龍族的出現機率將會上升。</div><div><br></div><div>【龍族傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1597644000"></span> ～ <span class="local_date" data-local_date="1598680799"></span></div><div><br></div><div>部分精選對象之龍族介紹如下。</div><div><br></div><div>【精選龍族介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/54f29ee5ba3240770ed3f01d16b7d771.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,095</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>因絕世美貌而享譽盛名的龍族。<br>但卻由於一發怒便會展現羅剎般<br>震懾他人的猛烈氣勢而有著「羅剎女」別名。<br>雖為牛魔王的賢妻，<br>但牛魔王被她騎在頭上的傳聞絡繹不絕。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/57f18d2e432da8a397d116511dfca4132.png"></span>
+				<span>芭蕉扇舞</span>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人光屬性傷害，<br>使隊伍全員進入【超活力】狀態。<br>【超活力】狀態中使用特定技能時就會解除。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【光】HP＋30％</span></dt><dd><div>裝備角色如果為光屬性，<br>則裝備角色的HP提升30％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【光】技能累積＋35％</span></dt><dd><div>裝備角色如果為光屬性，<br>則技能量條的增加率提升35％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3776b4fd34af39db3c38019d60c762b0.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,095</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>貪吃的龍族。要注意在他肚子餓時，<br>會變得非常偏執且可能會大肆作亂。<br>喜歡的東西會留到最後才吃，<br>最近特別鍾愛的食物是新鮮水果<br>以及軟綿綿鬆餅。真是太好吃啦！</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>軟綿綿好好吃</span>
+			</dt>
+			<dd>
+				<div>
+					回復自身HP，並使龍化量條提升20％，<br>龍化時間延長5秒。<br>龍化時間的延長不超過最大值。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【水】攻擊力＆爆擊威力提升Ⅴ</span></dt><dd><div>裝備角色如果為水屬性，<br>則裝備角色的攻擊力提升45％，<br>爆擊時的傷害倍率提升55％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7ff2a8610ac519cabd53496f447e25fc.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,096</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>潛於闇而生於影的龍族。<br>堅硬的龍鱗宛如鎧甲般覆蓋全身，<br>使用獨創的招式擊敗敵人。<br>據說人們向他請教，並習得戰術，<br>是日初之國中忍者的起源。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5347ab03287b73332172842f38879f5a2.png"></span>
+				<span>忍術‧影身手裏劍</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人闇屬性傷害，<br>使隊伍全員進入【超活力】狀態。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】攻擊力＋20％</span></dt><dd><div>裝備角色如果為闇屬性，<br>則裝備角色的攻擊力提升20％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【闇】技能傷害＋90％</span></dt><dd><div>裝備角色如果為闇屬性，<br>則裝備角色的攻擊技能傷害提升90％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1597557600; update_time1597223769

@@ -1,0 +1,8 @@
+article_id:3237
+category_name:公告
+title_name:主線劇情第25章「人與龍族的契約之證」前半即將公開！
+image_path:https://dragalialost.akamaized.net/attached/information/images/f2c5ac25f22ed41949ec3e5e4d4fd16b.png
+
+message:<div>各位玩家您好</div><div><br></div><div>主線劇情第25章「人與龍族的契約之證」前半決定將於<span class="local_date" data-local_date="1650866400"></span>公開！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/f2c5ac25f22ed41949ec3e5e4d4fd16b.png"></div><div>此外，主線劇情第25章「人與龍族的契約之證」的預告影片已公開。</div><div>請從下列連結進入確認。</div><div><br></div><div>▼「Dragalia Lost ～失落的龍絆～」繁體中文版官方YouTube頻道 主線劇情第25章「人與龍族的契約之證」預告影片</div><div><a href="https://youtu.be/boqcMW9PJ30">https://youtu.be/boqcMW9PJ30</a></div><div><br></div><div>敬請期待最新劇情！</div><div><br></div><div>■注意事項</div><div>若要進行主線劇情第25章「人與龍族的契約之證」前半，須完成主線劇情第24章5-6「女神的最後絕招」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1650607200; update_time1650941334

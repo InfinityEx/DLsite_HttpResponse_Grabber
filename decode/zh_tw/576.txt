@@ -1,0 +1,167 @@
+article_id:576
+category_name:公告
+title_name:「龍族傳說召喚」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「龍族傳說召喚」即將於<span class="local_date" data-local_date="1563602400"></span>起開始舉辦。</div><div><br></div><div>龍族傳說召喚舉行期間，精選對象★5和★4龍族的出現機率將上升。</div><div>※精選對象也包含部分★5和★4角色。</div><div><br></div><div>【龍族傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1563602400"></span> ～ <span class="local_date" data-local_date="1564120740"></span></div><div><br></div><div>部份精選對象龍族如下：</div><div><br></div><div>【精選龍族介紹】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ec44fde7041d2f909f5e70cff028be58.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>棲息在禁書圖書館裡的神祕龍族。<br>所說的話語難以明瞭，其行動亦無法理解。<br>自稱是侍奉著「悠久之主」的使者。<br>表明奈亞拉托提普並非是單一個體的名稱，<br>其真相究竟為何……</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>無盡之闇</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人闇屬性傷害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】HP30％‧攻＋50％</span></dt><dd><div>裝備角色如果為闇屬性，且HP在30％以上時，<br>則裝備角色的攻擊力提升50％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>【闇】背水之陣‧盾Ⅱ</span></dt><dd><div>裝備角色如果為闇屬性，且HP減少至30％以下時，<br>獲得【使最大HP 60％以下的傷害無效化之盾】。<br>盾的效果只限1次，和同種類的盾無法重複。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/edfb3f2fdfc3ff5c68b480a36da8650d.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>司掌暴風與災厄的龍族。<br>據說振翼能刮起狂嵐，散發毒氣令疾病橫行。<br>雖然與人類可說是毫無瓜葛，<br>但對人們不逃避災厄，反而勇於面對、<br>克服的模樣，表示敬佩。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>災厄之風</span>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人風屬性傷害，<br>使其陷入「毒」狀態。<br>此外，使防禦力下降5％。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【風】攻擊力＋50％</span></dt><dd><div>裝備角色如果為風屬性，<br>則裝備角色的攻擊力提升50％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>【風】毒特攻＋20％</span></dt><dd><div>裝備角色如果為風屬性，<br>則給予「毒」狀態中的敵方傷害提升20％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/89fc4c58570d94d700ea9dcca17bef31.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>掌管死亡的龍族。並非單純喜好殺戮，<br>品嚐瀕死之人的強烈情感是他的畢生宗旨。<br>為此經常現身於天災、瘟疫及戰爭的受災地，<br>成為受人們所畏懼的不吉象徵。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1dc2f6f0f6e043a02de111856f4d5c092.png"></span>
+				<span>月蝕之門</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人闇屬性傷害，<br>使其陷入「黑暗」狀態。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>【闇】HP＆攻擊＋30％</span></dt><dd><div>裝備角色如果為闇屬性，<br>則裝備角色的HP及攻擊力提升30％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1563429600; update_time1563359186

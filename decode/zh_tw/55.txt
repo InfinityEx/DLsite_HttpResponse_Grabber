@@ -1,0 +1,8 @@
+article_id:55
+category_name:公告
+title_name:「火屬性」強化活動舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>於<span class="local_date" data-local_date="1540533600"></span>起，「火屬性」強化活動已開始舉辦！</div><div><br></div><div>本活動可提升能夠在次回活動「心善的少女與受囚禁的守護龍」內活躍的火屬性角色之能力。</div><div>活動期間內，將持續開放可獲得用來強化火屬性角色的道具之任務「炎吼的遺跡 (初級/中級/高級)」。</div><div>此外，活動期間內「炎吼的遺跡」的每日獎勵報酬將提升成2倍！</div><div>若是在「2倍獎勵組合包」效果期間內，「炎吼的遺跡」的每日獎勵將變成4倍！</div><div><br></div><div>■活動期間</div><div><span class="local_date" data-local_date="1540533600"></span> ～ <span class="local_date" data-local_date="1540965599"></span></div><div><br></div><div>■注意事項</div><div>「火屬性」強化活動舉辦期間和內容，將可能在無預先告知下進行變更。敬請見諒。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1540533600; update_time1542363623

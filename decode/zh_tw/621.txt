@@ -1,0 +1,8 @@
+article_id:621
+category_name:公告
+title_name:星宿解放團體戰無法獲得獎勵之異常公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，「星宿解放團體戰」中發生在特定時間完成任務後，</div><div>會於結算畫面顯示錯誤訊息，導致無法獲得掉落獎勵的異常現象。</div><div>本異常現象預計於下一次「星宿解放團體戰」舉辦前修正完畢。</div><div><br></div><div>營運團隊已向發生本異常現象的玩家發送以下道具做為補償。</div><div><br></div><div>■補償對象</div><div>於<span class="local_date" data-local_date="1563775199"></span>前開始「星宿解放團體戰」之任務，</div><div>並於<span class="local_date" data-local_date="1563775200"></span>後完成任務的各位玩家。</div><div><br></div><div>■補償內容</div><div>‧未能正常獲得的掉落獎勵</div><div><br></div><div>造成各位玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1563790860; update_time1563790426

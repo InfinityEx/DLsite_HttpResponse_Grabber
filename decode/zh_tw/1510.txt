@@ -1,0 +1,8 @@
+article_id:1510
+category_name:公告
+title_name:主線劇情第15章「覆光之影」即將公開！
+image_path:https://dragalialost.akamaized.net/attached/information/images/d164fc2dfd1e319eee666c022d20397a.png
+
+message:<div>各位玩家您好</div><div><br></div><div>主線劇情第15章「覆光之影」決定將於<span class="local_date" data-local_date="1597730400"></span>公開！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/d164fc2dfd1e319eee666c022d20397a.png"></div><div><br></div><div>此外，主線劇情第15章「覆光之影」的預告影片已公開。</div><div>請從下列連結進入確認。</div><div><br></div><div>▼「Dragalia Lost ～失落的龍絆～」繁體中文版官方YouTube頻道 主線劇情第15章「覆光之影」預告影片</div><div><a href="https://youtu.be/F-ue8B4oRQA">https://youtu.be/F-ue8B4oRQA</a></div><div><br></div><div>敬請期待最新劇情！</div><div><br></div><div>■注意事項</div><div>如要進行主線劇情第15章「覆光之影」，需完成主線劇情第14章4-9「浮月之夜」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1597384800; update_time1597303975

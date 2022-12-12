@@ -1,0 +1,8 @@
+article_id:1183
+category_name:活動
+title_name:團體活動「罪人巡旅‧龍瞳之軌跡」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/568ac2bd9f4d4f3dfbfdbea28f7bc984.png
+
+message:<div>各位玩家您好</div><div><br></div><div>團體活動「罪人巡旅‧龍瞳之軌跡」預計將於<span class="local_date" data-local_date="1585634400"></span>起開始舉辦。</div><div>本活動可在團隊遊戲模式下挑戰光屬性的團體戰BOSS。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/568ac2bd9f4d4f3dfbfdbea28f7bc984.png"></div><div>名為阿戴爾潘因的男人阻擋著王子前方的去路。<br>發誓復仇的他寄宿著驚人之力量。<br>活躍於世界裏層的神秘組織──「結社」。<br>當各種錯綜複雜的企圖蠢蠢欲動之時，<br>來自異界的災禍之獸現身──！</div><div><br></div><div>活動主題曲：「Get up」/MADKID</div><div><br></div><div>■注意事項<br>1. 如要參加活動任務，需完成主線劇情第2章2-1（Normal）。<br>2. 如要參加團隊遊戲，需完成主線劇情第2章2-1（Normal）。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1585548000; update_time1585210275

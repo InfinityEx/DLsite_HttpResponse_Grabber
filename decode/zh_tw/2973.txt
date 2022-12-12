@@ -1,0 +1,8 @@
+article_id:2973
+category_name:活動
+title_name:活動【復刻】「克羅諾斯之怒」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/a9ea63f360fa6e46255551cdc4aff2b1.png
+
+message:<div>各位玩家您好<br><br>團體活動【復刻】「克羅諾斯之怒」預計將於<span class="local_date" data-local_date="1669010400"></span>起開始舉辦。<br>本活動可在團隊遊戲模式下挑戰無屬性的團體戰BOSS。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a9ea63f360fa6e46255551cdc4aff2b1.png"></div><div>活動主題曲：「Sample Answer」／緒方惠美<br><br>■活動期間<br><span class="local_date" data-local_date="1669010400"></span> ～ <span class="local_date" data-local_date="1669701599"></span><br><br>■注意事項<br>1. 若要參加活動任務，須完成主線劇情第2章 2-1（Normal）。<br>2. 若要參加團隊遊戲，須完成主線劇情第2章 2-1（Normal）。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1668664800; update_time1664520435

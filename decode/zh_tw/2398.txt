@@ -1,0 +1,8 @@
+article_id:2398
+category_name:活動
+title_name:活動【復刻】「Dead End死亡孤島」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/2eb3a6dcf08ba3bcdd50c302405b868b.png
+
+message:<div>各位玩家您好<br><br>團體活動【復刻】「Dead End死亡孤島」預計將於<span class="local_date" data-local_date="1629093600"></span>起開始舉辦。<br>本活動可在團隊遊戲模式下挑戰水屬性的團體戰BOSS。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/2eb3a6dcf08ba3bcdd50c302405b868b.png"></div><div>活動主題曲：「Stealth Dance」／青木志貴<br><br>■活動期間<br><span class="local_date" data-local_date="1629093600"></span> ～ <span class="local_date" data-local_date="1630043999"></span><br><br>■注意事項<br>1. 若要參加活動任務，須完成主線劇情第2章 2-1（Normal）。<br>2. 若要參加團隊遊戲，須完成主線劇情第2章 2-1（Normal）。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1628834400; update_time1628064480

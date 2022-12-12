@@ -1,0 +1,344 @@
+article_id:153
+category_name:公告
+title_name:傳說召喚「天導祈願星龍祭」開始舉辦！【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>傳說召喚「天導祈願星龍祭」已於<span class="local_date" data-local_date="1545026400"></span>開始舉辦！</div><div><br></div><div>期間限定的角色‧龍族‧龍輝護符將於傳說召喚中登場。</div><div>此外，精選對象之角色‧龍族‧龍輝護的出現機率將會上升。</div><div><br></div><div>【期間限定的角色‧龍族‧龍輝護符】</div><div>■角色</div><div>「克菈兒（星龍祭Ver.）」、「涅法莉耶（星龍祭Ver.）」、「亞雷克西斯（星龍祭Ver.）」</div><div>■龍族</div><div>「貞德（星龍祭Ver.）」</div><div>■龍輝護符</div><div>「向星龍樹祈願」、「星龍祭的王子殿下」、「孩子們的星龍祭」、「星落之夜的晚餐」</div><div><br></div><div>【傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1545026400"></span> ～ <span class="local_date" data-local_date="1546235999"></span></div><div><br></div><div>部分精選對象之角色‧龍族‧龍輝護符介紹如下。</div><div><br></div><div>【精選角色介紹】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/bb5cae16db0b634de77985821a275477.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>80</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>801</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>474</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>2515</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">角色詳細</div>
+			<div class="param">
+				<ul>
+					<li>為了將禮物送達給歡慶星龍祭的人們，<br>而變裝成聖夜使者的克菈兒。<br>她正率先進行料理製作與裝飾擺設，<br>為炒熱星龍祭的氣氛而奮鬥著。<br>夥伴們享受宴會的笑容，就是她的喜悅。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ca058650bcc4ff61cb80d7b2f64906fa2.png"></span>
+				<span>閃耀贈禮</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人水屬性傷害，使其陷入「凍結」狀態。<br>此外，使自身及周圍我方的【活力】提升1階段。<br>此技能命中敵人即發動【技能輪轉】，<br>階段1能使攻擊力上升，<br>階段2能追加使爆擊率上升。<br>【技能輪轉】至階段2後，命中敵人就會解除。<br>【活力】達到第5階段即轉換成【超活力】，<br>強化攻擊‧回復技能。<br>【超活力】狀態中使用特定技能時就會解除。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/280872d7979e0e0ee0479187b94e8e2d2.png"></span>
+				<span>星夜恩典</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人水屬性傷害。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>爆擊率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的爆擊率提升10%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP70％‧攻＋13％</span></dt><dd><div>HP在70％以上時攻擊力提升13％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>30連擊活力提升</span></dt><dd><div>每連擊30次時，使【活力】提升1階段。</div></dd></dl></div></div></div><div>※以上為最高Lv、瑪納之環全數解放時的能力值，並非獲得時的能力值。</div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f6f55b49349a8137c24dfb7d769aecb8.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>70</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>736</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>428</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>2234</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">角色詳細</div>
+			<div class="param">
+				<ul>
+					<li>變裝成在星龍祭分送禮物的聖人<br>──聖夜使者的前異國女王。<br>性格溫柔、為民著想的她非常適合這項使命。<br>為了大家的笑容而真誠地分送禮物，<br>其姿態對任何人而言都是理想的聖夜使者。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/561a0539d1bd151beb360108290db24e2.png"></span>
+				<span>星雪狂擊</span>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人水屬性傷害。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0f9d9359a14bae165ffa90dd928147752.png"></span>
+				<span>禮物爆發</span>
+			</dt>
+			<dd>
+				<div>
+					發動【準備禮物】，準備2個【禮物】。<br>此效果中，可於爆發攻擊時發送【禮物】。<br>【禮物】將給予其周圍我方<br>【使最大HP15％以下的傷害無效化之盾】、<br>【使「活力」提升1階段】。<br>【活力】達到第5階段即轉換成【超活力】，<br>強化攻擊‧回復技能。<br>【超活力】狀態中使用特定技能時就會解除。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能累積＋11％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能量條增加率提升11%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能傷害＋25％</span></dt><dd><div>攻擊技能傷害提升25％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>火燒抗性＋100％</span></dt><dd><div>陷入「火燒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾風怒濤‧凍結Ⅰ</span></dt><dd><div>連擊數為15次以上時，<br>於一般攻擊時獲得「6秒間，以10％機率<br>使敵人陷入凍結狀態」效果。</div></dd></dl></div></div></div><div>※以上為★5覺醒時，瑪納之環全數解放時的能力值。並非獲得時的能力值。</div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8c27492583ae13bc3c9e44500dd1c27b.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>70</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>685</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>465</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>2260</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">角色詳細</div>
+			<div class="param">
+				<ul>
+					<li>變裝成在星龍祭分送禮物的聖人<br>──聖夜使者的前異國國王。<br>雖然擁有為家臣或子民著想的心思，<br>但態度高傲無禮。即使變裝成了聖夜使者，<br>滑稽失控卻依然如故，造成周遭的困擾。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1f6d0bbf9a2503a371995eae39d200e32.png"></span>
+				<span>星冰穹頂</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人水屬性傷害，<br>使其陷入「凍結」狀態。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66d36f720c8a46a8288996f833a36202.png"></span>
+				<span>國王贈禮</span>
+			</dt>
+			<dd>
+				<div>
+					給予自身及周圍我方的攻擊力於10秒之間上升15%，<br>並使【活力】提升1階段。<br>【活力】達到第5階段即轉換成【超活力】，<br>強化攻擊‧回復技能。<br>【超活力】狀態中使用特定技能時就會解除。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能傷害＋11％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能傷害提升11%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>爆發擊破‧活力Ⅱ</span></dt><dd><div>每次以爆發攻擊擊退3個敵人時<br>使【活力】提升2階段。<br></div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>技能累積＋5％</span></dt><dd><div>技能量條的增加率提升5％。</div></dd></dl></div></div></div><div>※以上為★5覺醒時，瑪納之環全數解放時的能力值。並非獲得時的能力值。</div><div><br></div><div>※名字相同的角色，無法重覆編制到同一隊伍內。</div><div><br></div><div>【精選龍族介紹】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3ac19dd9d22fe4dc12e9348700c1cc92.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>370</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>125</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>995</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">龍族詳細</div>
+			<div class="param">
+				<ul>
+					<li>為慶祝星龍祭而身著華麗禮服的貞德。<br>因為與平時不同，所以顯得有些羞怯，<br>但她其實非常中意這套服裝。<br>儘管衣著變得華美，但她依舊秉持高潔信念，<br>靜靜在旁守護著歡度星龍祭的人們。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/54e02ddb18bf8eda23bb838e53029bfd2.png"></span>
+				<span>晶鑽風暴</span>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人水屬性傷害，<br>使其陷入「凍結」狀態。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>星龍祭加護Ⅱ</span></dt><dd><div>裝備角色如果為水屬性，<br>則裝備角色的攻擊力提升45％，爆擊率提升20％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【精選龍輝護符介紹】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8041e093e2033ced5c747f3020cf1b80.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>189</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>51</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>380</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span><span>HP70％‧防＋10％</span></dt><dd><div>HP在70％以上時防禦力提升10％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>守護之鏈‧治癒Ⅱ</span></dt><dd><div>獲得防禦力提升增益效果時，<br>發動「20秒間，HP持續回復」增益效果。</div></dd><dt class="event 20803"><span><img src="https://dragalialost.akamaized.net/attached/information/images/8039b5cf8a9bb7837a3a4ed563da0d4c2.png"></span><span>星龍祭P＋150％</span></dt><dd class="event 20803"><div>任務過關後所獲得的【星龍祭P】增加150％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放的能力值，並非獲得時的能力值。</div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/645f3192ec273f7764a9a3e985aa21ba.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>177</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>63</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>380</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>爆擊傷害＋15％</span></dt><dd><div>爆擊時的傷害倍率提升15％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>【水】疾風怒濤‧爆擊＋10％</span></dt><dd><div>裝備角色如果為水屬性，<br>則連擊數為15次以上時，<br>攻擊時發生爆擊的機率提升10％。</div></dd><dt class="event 20803"><span><img src="https://dragalialost.akamaized.net/attached/information/images/8039b5cf8a9bb7837a3a4ed563da0d4c2.png"></span><span>星龍祭P＋150％</span></dt><dd class="event 20803"><div>任務過關後所獲得的【星龍祭P】增加150％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 本召喚活動中登場的精選角色、龍族、龍輝護符，有可能會在之後舉行的召喚活動中再度登場（★的數量和出現機率有可能會有所變更）。</div><div>2. 傳說召喚的出現機率，請點選遊戲內下方選單列的「召喚」後，從「出現機率」進行確認。</div><div>3. 其他精選詳細內容，請點選遊戲內下方選單列的「召喚」後，從「召喚資訊」進行確認。</div><div>4. 召喚結果如出現已經成為夥伴的角色時，將改為獲得「覺醒之露」。可獲得的「覺醒之露」數量，將依角色★的數量不同而有所差異。</div><div>5. 「每日1次限定召喚」僅可使用「龍光鑽石」召喚。「每日1次限定召喚」將於每日14:00進行重置。</div><div>6. 連續10次後，若沒有出現★5的角色、龍族、龍輝護符之情況，於下次進行召喚時，★5角色、龍族、龍輝護符出現機率會上升。出現機率上升的詳細，請點選遊戲內下方選單列的「召喚」後，從「召喚資訊」&rarr;「詳細」&rarr;「關於傳說召喚」進行確認。</div><div>7. 其他注意事項，請點選遊戲內下方選單列的「召喚」後，從「召喚情報」&rarr;「詳細」&rarr;「注意事項」進行確認。</div><div>8. 傳說召喚的舉行期間和內容，可能會在無預先告知下進行變更。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1545297600"></span>更新】</strong></span><br>配合於12/20（木）公開的【「涅法莉耶（星龍祭Ver.）」、「亞雷克西斯（星龍祭Ver.）」能力值錯誤公告】，本公告的刊載內容已做出以下修正。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div><br></div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1545026400; update_time1547531264

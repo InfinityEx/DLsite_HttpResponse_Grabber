@@ -1,0 +1,243 @@
+article_id:2899
+category_name:公告
+title_name:部分龍族追加第5階段上限解放！
+image_path:
+
+message:<div>遊戲中部分龍族將於<span class="local_date" data-local_date="1646028000"></span>起追加「第5階段」上限解放。</div><div><br></div><div>本次追加的對象龍族和其能力值詳細如下：</div><div><br></div><div>■對象龍族</div><div>★5 阿波羅：火</div><div>★5 斯堤克斯：水</div><div>★5 帕祖祖：風</div><div>★5 聖潔不死鳥：光</div><div>★5 艾比米修斯：闇</div><div><br></div><div>■能力值介紹</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/d84cae895107153e129dd8fe5ce091662.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">阿波羅</div><div class="cv">CV:小野大輔</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>389</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>147</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,146</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/46abce3ca5f53484635af11860f0d2c02.png"></span>
+				<span>榮耀聖光</span>
+			</dt>
+			<dd><div>給予目標和其周圍敵人傷害，<br>並使其陷入「火燒」狀態。<br>此外，使其防禦力下降。</div><div class="skill-detail">威力：360 × 1 Hit<br>威力：840 × 1 Hit<br>特殊效果<br>‧防禦力下降5％<br>　效果時間：10 秒<br>‧火燒<br>　效果時間：30 秒<br>　效果間隔：3.9 秒<br>　威力：41.5<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>【火】攻擊力＋55％＆力量激發Ⅰ</span></dt><dd><div>裝備角色如果為火屬性，<br>則裝備角色的攻擊力提升55％，<br>任務開始時給予自身180秒【力量激發】增益效果。<br>此效果期間中攻擊力提升30％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/332b0b04ccb12c122bbc2ba7b27bff5b2.png"></span><span>【火】火燒特攻＋20％</span></dt><dd><div>裝備角色如果為火屬性，<br>則給予「火燒」狀態中的敵方傷害提升20％。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/1beb6d346f94fd079dd48bde89f452022.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">斯堤克斯</div><div class="cv">CV:嶋村侑</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>390</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>145</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,145</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>淨化浪潮</span>
+			</dt>
+			<dd><div>給予直線上敵人傷害。此技能將依<br>斯堤克斯一般攻擊賦予的【川流精神】數量強化。<br>使用技能時將解除所有的【川流精神】。</div><div class="skill-detail">威力：180 × 7 Hit<br>（川流精神消費1個）<br>威力：180 × 10 Hit<br>（川流精神消費2個）<br>威力：180 × 13 Hit<br>（川流精神消費3個）<br>威力：180 × 16 Hit<br>特殊效果<br>‧川流精神<br>　疊加上限：3<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>急流狂襲</span></dt><dd><div>裝備角色如果為水屬性，<br>則每經過10秒，給予自身【力量奔流】效果。<br>此效果期間中使下次使用的技能傷害提升50％。<br>此效果最大可疊加4次，<br>使用攻擊技能時則解除所有效果。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>【水】力量激發Ⅰ</span></dt><dd><div>裝備角色如果為水屬性，<br>任務開始時給予自身180秒【力量激發】增益效果。<br>此效果期間中攻擊力提升30％。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/e74bf73714fa67a0958f4a1a6e2790762.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">帕祖祖</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>389</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>146</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,145</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>災厄之風</span>
+			</dt>
+			<dd><div>給予直線上敵人傷害，<br>使其陷入「毒」狀態。<br>此外，使其防禦力下降。</div><div class="skill-detail">威力：182 × 5 Hit<br>特殊效果<br>‧防禦力下降5％<br>　效果時間：10 秒<br>‧毒<br>　效果時間：30 秒<br>　效果間隔：2.9 秒<br>　威力：29.1<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>【風】攻擊力＋55％＆力量激發Ⅰ</span></dt><dd><div>裝備角色如果為風屬性，<br>則裝備角色的攻擊力提升55％，<br>任務開始時給予自身180秒【力量激發】增益效果。<br>此效果期間中攻擊力提升30％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>【風】毒特攻＋20％</span></dt><dd><div>裝備角色如果為風屬性，<br>則給予「毒」狀態中的敵方傷害提升20％。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/69720a76e7e8a80e5fdebd8f1f74989a2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">聖潔不死鳥</div><div class="cv">CV:市ノ瀨加那</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>391</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>144</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,145</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>再生之火</span>
+			</dt>
+			<dd><div>給予周圍敵人傷害，<br>使其陷入「麻痺」狀態。<br>並解除我方全員「詛咒」與「毒」狀態。</div><div class="skill-detail">威力：260 × 7 Hit<br>特殊效果<br>‧毒狀態回復<br>‧詛咒狀態回復<br>‧麻痺<br>　效果時間：13 秒<br>　效果間隔：3.9 秒<br>　威力：88.3<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>【光】攻擊力＋55％＆力量激發Ⅰ</span></dt><dd><div>裝備角色如果為光屬性，<br>則裝備角色的攻擊力提升55％，<br>任務開始時給予自身180秒【力量激發】增益效果。<br>此效果期間中攻擊力提升30％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28cbbe44c3b9fd009706ad48a7e4e0f52.png"></span><span>【光】麻痺特攻＋20％</span></dt><dd><div>裝備角色如果為光屬性，<br>則給予「麻痺」狀態中的敵方傷害提升20％。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/f959f6c14bdd6e6366bd435ba0b187342.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">艾比米修斯</div><div class="cv">CV:白井悠介</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>388</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>148</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,146</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>艾比米修斯之孤毒</span>
+			</dt>
+			<dd><div>給予周圍敵人傷害，<br>使其陷入「毒」狀態。</div><div class="skill-detail">威力：1,260 × 1 Hit<br>特殊效果<br>‧毒<br>　效果時間：30 秒<br>　效果間隔：2.9 秒<br>　威力：29.1<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>【闇】攻擊力＋55％＆力量激發Ⅰ</span></dt><dd><div>裝備角色如果為闇屬性，<br>則裝備角色的攻擊力提升55％，<br>任務開始時給予自身180秒【力量激發】增益效果。<br>此效果期間中攻擊力提升30％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>【闇】毒特攻＋20％</span></dt><dd><div>裝備角色如果為闇屬性，<br>則給予「毒」狀態中的敵方傷害提升20％。</div></dd></dl></div></div></div><div><br></div><div>■注意事項</div><div>1. 本公告內記載的龍族能力值為Lv.120、上限解放5階段、信賴度最高時的能力值。</div><div>2. 能力值不包含因能力而變動的數值。</div><div>3. 本公告公開前的公告或介紹影片中所記載的上述龍族能力值均為Lv.100、信賴度最高時的能力值。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1646028000; update_time1646014770

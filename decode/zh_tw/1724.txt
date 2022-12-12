@@ -1,0 +1,8 @@
+article_id:1724
+category_name:公告
+title_name:部分任務的每週獎勵變更公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div><span class="local_date" data-local_date="1604296800"></span>起部分任務的每週獎勵將追加「星空光沙」。</div><div>詳情如下：</div><div><br></div><div>■追加道具</div><div>‧星空光沙 1個</div><div>※「2倍獎勵組合包」效果期間內，獲得量將變成2倍。</div><div><br></div><div>■對象任務</div><div>「真‧龍族的試煉」</div><div>真‧耶夢加得的試煉 中級、高級、超級</div><div>真‧墨丘利的試煉 中級、高級、超級</div><div>真‧布倫希爾德的試煉 中級、高級、超級</div><div>真‧朱庇特的試煉 中級、高級、超級</div><div>真‧索狄亞克的試煉 中級、高級、超級</div><div><br></div><div>「咢牙叛逆戰」</div><div>路弗‧特修加德魯叛逆戰 中級、高級、超級</div><div>雪爾希爾叛逆戰 中級、高級、超級</div><div>彩羽＆乙羽叛逆戰 中級、高級、超級</div><div>凱嚴叛逆戰 中級、高級、超級</div><div>塔爾塔羅斯叛逆戰 中級、高級</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1603681200; update_time1603681258

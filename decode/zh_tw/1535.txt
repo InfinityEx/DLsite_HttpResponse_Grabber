@@ -1,0 +1,322 @@
+article_id:1535
+category_name:公告
+title_name:「失落龍絆日」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「失落龍絆日」已於<span class="local_date" data-local_date="1598680800"></span>起舉辦中！</div><div><br></div><div>【關於失落龍絆日】※包含「失落龍絆日　非凡佳選」</div><div>‧★5角色、龍族的初始「出現機率」，將由平時的4％上升至6％！</div><div>※如召喚出★5或★5精選，出現機率將會變回初始設定值6％。</div><div><span style="color: rgb(226, 80, 65);">※本次新追加的★5角色「涅因（闇）」、「琵儂（水）」和★5龍族「雷米爾（闇）」，在今後的傳說召喚中也會出現。</span></div><div><br></div><div>【新追加的精選對象角色】</div><div>★5 涅因：闇／短劍</div><div>★5 琵儂：水／弓</div><div><br></div><div>【新追加的精選對象龍族】</div><div>★5 索爾（龍絆日Ver.）：光</div><div>★5 雷米爾：闇</div><div><br></div><div>【失落龍絆日出現機率】</div><div>★5 合計：6.00％</div><div>★5精選 合計：2.60％（角色：1.00％ 龍族：1.60％）</div><div>★5一般 合計：3.40％（角色：2.00％ 龍族：1.40％）</div><div>★4一般 合計：16.00％（角色：8.55％ 龍族：7.45％）</div><div>★3一般 合計：78.00％（角色：47.00％ 龍族：31.00％）</div><div><br></div><div>【失落龍絆日舉辦期間】</div><div><span class="local_date" data-local_date="1598680800"></span> ～ <span class="local_date" data-local_date="1599112799"></span></div><div><br></div><div>新追加的精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選龍族介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/eae3c45acfd55bbdbbe34bd72add1672.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,295</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>范爾克斯的契約龍。<br>司掌雷電，並自稱為雷帝。<br>憑藉一擊閃電，便可令戰場淪為火海，<br>其強大威力在世界上不斷被流傳著。<br>索爾的武者思想，也影響著他的契約者。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>雷錘</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人光屬性傷害，<br>使其陷入「麻痺」狀態。<br>此技能將依蓄集時點擊畫面的次數強化至最大3階段，<br>將隨時間經過或強化至最大時發動攻擊。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>【光】戰車驅馳者Ⅴ</span></dt><dd><div>裝備角色如果為光屬性，發動以下效果。<br>效果1：攻擊力提升50％。<br>效果2：每經過5秒【活力】提升1階段。<br>效果3：依【活力】的階段提升攻擊力。【超活力】時可獲得最大效果，攻擊力提升45％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>【光】轟鳴者Ⅱ</span></dt><dd><div>裝備角色如果為光屬性，<br>則解除龍化時轉換成【超活力】。<br>此外，隊伍全員轉換成【超活力】。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>■關於索爾（龍絆日Ver.）的攻擊</div><div>一般攻擊的第3段連擊時可透過連續點擊畫面持續擊出一定次數。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/795f5722d00ad65961f98f1a0cbd46c0.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,096</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>被稱為「五大天使」的龍族之一。<br>性格沉穩並擁有冷靜分析事物的能力，<br>但有時說話頗為辛辣。原先對人類並無<br>任何想法，卻對現在以聖痕連結的使徒<br>抱有類似於父親般的情感。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cec8794d33276918ce38bfaa577312842.png"></span>
+				<span>天使之聲</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人闇屬性傷害，使其陷入「毒」狀態，<br>並於15秒之間使敵人防禦力下降20％。<br>此防禦力下降效果無法重複。<br>裝備角色可即時發動技能2，<br>此外，裝備角色的技能1、技能2於90秒之間自動蓄集。<br>此蓄集不受到「技能量條的增加率提升效果」影響。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c793d967ec5a1e469bd1b8ed200f254d2.png"></span><span>【闇】攻擊力＆開場龍化量條Ⅴ</span></dt><dd><div>裝備角色如果為闇屬性，<br>則裝備角色的攻擊力提升60％，<br>任務開始時自身的龍化量條提升50％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【精選角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/275f493e14f42c73d88ad943c6dc1b24.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>797</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>477</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,504</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>北方伊利亞教會所屬的「使徒」之一。<br>雖然平時態度散漫，但擁有傑出洞察力，<br>十分擅長擬定戰略。<br>與「天使」雷米爾連結著聖痕，<br>將其視作父親般仰慕。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>得勝戰略</span>
+			</dt>
+			<dd>
+				<div>
+					於地面設置10秒【攻擊增益效果領域】。<br>在此領域中的我方闇屬性角色，攻擊力上升25％。<br>【聖痕之枷解放】時，此技能效果轉換如下：<br>於地面設置10秒【攻擊增益效果領域】，<br>隊伍全員的光屬性抗性於10秒之間上升20％。<br>在此領域中的我方闇屬性角色，攻擊力上升25％。<br>此光屬性抗性上升效果無法重複。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/48ad4816ddb1b05918d1b08ce53e562f2.png"></span>
+				<span>偉大啟示錄</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人闇屬性傷害。<br>只要此技能命中目標，<br>賦予自身的【聖痕之枷】剩餘時間減少60秒。<br>【聖痕之枷解放】時，此技能效果轉換如下：<br>給予目標和其周圍敵人闇屬性傷害，<br>給予在自身與其他角色設置的所有增益效果領域中的敵方追加傷害。<br>若敵方所處的增益效果領域並非自身設置之領域，則減少給予的追加傷害。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>爆擊率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的爆擊率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span>
+				<span>【闇】連擊：10連擊以上‧抗光＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為闇屬性，<br>則連擊數為10次以上時，<br>發動【光屬性抗性提升10％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>雷米爾的聖約Ⅱ</span></dt><dd><div>任務開始時，爆發攻擊發生變化，給予自身【300秒間，聖痕之枷】減益效果。<br>此爆發攻擊無法給予敵方傷害，<br>於爆發攻擊蓄集中緩慢回復自身HP。<br>【聖痕之枷】無法以龍化或死亡解除。<br>龍化時，賦予自身的【聖痕之枷】剩餘時間減少240秒。<br>【聖痕之枷】解除後轉換成【聖痕之枷解放】狀態，<br>強化技能「得勝戰略」、「偉大啟示錄」，<br>於一般攻擊連擊的最後追加點擊畫面，將消費自身HP的10％召喚12秒【告翼之劍】。<br>【告翼之劍】召喚中將會自動進行攻擊。<br>【告翼之劍】的攻擊不算在一般攻擊之內。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>黑暗抗性＋100％</span></dt><dd><div>陷入「黑暗」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>爆擊傷害＋20％</span></dt><dd><div>爆擊時的傷害倍率提升20％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/199a59f80ce771451d771f22a985b2c1.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>766</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>493</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>北方伊利亞教會所屬的少女「使徒」。<br>在使徒當中最為年少，<br>對自身實力不及其他使徒感到著急。<br>是名認真、有潔癖且對自己很嚴格的優等生，<br>但在戰鬥中卻意外地有喜好豪爽戰法的一面。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0f88cd83ff9aad3d5d35b4aae84420932.png"></span>
+				<span>聖讚飛箭</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人水屬性傷害，<br>使其陷入「凍傷」狀態。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>靈魂祈福</span>
+			</dt>
+			<dd>
+				<div>
+					於20秒之間給予自身【加百列的祝福】。<br>【加百列的祝福】不會重複，受到攻擊後將會解除。<br>【加百列的祝福】期間中發動【攻擊力上升20%】、【防禦力上升20%】、【使最大HP 15％以下的傷害無效化之特殊盾】效果。<br>此盾的效果只限1次，與一般的盾可以重複。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能量條增加率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>【水】堅守：HP80％‧抗火＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，且HP在80％以上時，<br>則火屬性抗性提升6％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>加百列的聖約Ⅱ</span></dt><dd><div>任務開始時，爆發攻擊發生變化，給予自身【300秒間，聖痕之枷】減益效果。<br>此爆發攻擊可蓄集2階段，於蓄集中移動速度下降，蓄集至上限時給予陷入「凍傷」狀態的敵方傷害提升。<br>此外，若以蓄集至上限的爆發攻擊命中敵人，則【聖痕之枷】剩餘時間減少13秒。<br>【聖痕之枷】無法以龍化或死亡解除。<br>【聖痕之枷】解除後轉換成【聖痕之枷解放】狀態，<br>於一般攻擊連擊的最後追加點擊畫面，可使用特殊攻擊。<br>此特殊攻擊將回復所給予的傷害5％份量的自身HP，<br>並有40％機率使自身【活力】提升1階段。<br>此回復效果的最大值為自身最大HP的7％。<br>攻擊中透過再次點擊畫面可連續進行此攻擊。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>火燒抗性＋100％</span></dt><dd><div>陷入「火燒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cc3f28b7bfce6dfc1ea65f36822cae7f2.png"></span><span>HP70％以上‧攻擊速度提升Ⅱ</span></dt><dd><div>HP在70％以上時，<br>發動【攻擊速度提升20％】增益效果。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>【注意事項】</div><div>詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1598680800; update_time1598507676

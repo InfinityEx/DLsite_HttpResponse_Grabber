@@ -1,0 +1,8 @@
+article_id:2086
+category_name:公告
+title_name:贈送各位玩家好禮！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>感謝玩家們熱情參加「失落的龍絆官方推特帳號」於<span class="local_date" data-local_date="1617256799"></span>左右為止舉辦的問答好禮送活動。</div><div><br></div><div>營運團隊將根據問答活動的正確解答數，依序發送以下好禮給各位玩家！</div><div><br></div><div>■禮物內容</div><div>‧召喚券&times;15</div><div>‧熟透的龍果&times;50</div><div>‧英雄之證&times;3</div><div>‧大馬士革鋼&times;1</div><div>‧覺醒之露&times;5,000</div><div>‧金剛晶&times;1</div><div>‧10連召喚券&times;1</div><div>‧盧比&times;7,000,000</div><div><br></div><div>■贈送對象</div><div>於<span class="local_date" data-local_date="1617343200"></span>前開始遊戲的玩家。</div><div><br></div><div>領取期限為發送至「獎勵箱」後7天以內。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1617343200; update_time1617255899

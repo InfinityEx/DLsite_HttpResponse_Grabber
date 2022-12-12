@@ -1,0 +1,8 @@
+article_id:2693
+category_name:公告
+title_name:無法正常連線至遊戲之異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，自<span class="local_date" data-local_date="1639581600"></span>左右開始，發生暫時性無法正常連線至遊戲之異常現象。</div><div><br></div><div>本現象目前已排除。</div><div>造成玩家們的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1639586100; update_time1639651394

@@ -1,0 +1,8 @@
+article_id:1625
+category_name:公告
+title_name:角色「惟思」調整公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>在版本2.0.0更新對角色、龍族進行平衡調整後，由於瑪納之環第6層解鎖後的角色「惟思」之性能對整體平衡和遊戲進行仍有影響，</div><div>已對進行角色「惟思」瑪納之環第6層解鎖後的技能威力進行下調。</div><div><br></div><div>調整內容如下：</div><div><br></div><div>■調整內容</div><div>‧技能「致命尖峰Lv.4」的闇屬性威力下降，追加使敵人陷入「毒」狀態效果。</div><div>‧技能「臨終之刃Lv.3」的闇屬性威力下降。</div><div><br></div><div>營運團隊將會發送｢英雄之證&times;2｣給對象玩家，發送「龍輝晶石&times;600」給所有玩家作為本次調整的補償。</div><div><br></div><div>■對象玩家</div><div>在版本2.0.0之前解鎖角色「惟思」瑪納之環第6層的玩家。</div><div><br></div><div>■對象玩家補償</div><div>英雄之證&times;2</div><div><br></div><div>■所有玩家補償</div><div>龍輝晶石&times;600</div><div><br></div><div>造成各位玩家的不便與困擾，在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1601002800; update_time1600933513

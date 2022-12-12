@@ -1,0 +1,8 @@
+article_id:3308
+category_name:重要
+title_name:結束營運日期公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>感謝玩家們一直以來對「Dragalia Lost ～失落的龍絆～」的支持與鼓勵。</div><div>在此向各位告知於3月公告中提及的「Dragalia Lost ～失落的龍絆～」正式結束營運日期。</div><div><br></div><div>‧「Dragalia Lost ～失落的龍絆～」結束營運日期</div><div><span class="local_date" data-local_date="1669788000"></span></div><div><br></div><div>自遊戲正式營運以來，便一直受到許多玩家的喜愛，營運團隊在此誠摯地感謝大家。</div><div><br></div><div>配合結束營運，龍光鑽石已於本日<span class="local_date" data-local_date="1661839200"></span>結束販售。</div><div>此外，於「商店」中可消費龍光鑽石獲得的育成道具與各式組合包，也將於<span class="local_date" data-local_date="1667196000"></span>結束販售。</div><div>而消費龍光鑽石進行召喚以及建設聖城、回復能量、回復共鬥之翼、繼續挑戰任務之功能，可使用至營運結束為止。</div><div><br></div><div>■關於營運結束後之本應用程式</div><div>若您於營運結束後啟動「Dragalia Lost ～失落的龍絆～」，將顯示已結束營運的通知畫面，並且無法進行遊戲。</div><div><br></div><div>■關於退款</div><div>我們將根據您所在國家／地區之法規，於營運結束後對您所購入但未使用之付費龍光鑽石進行退款事宜。</div><div>關於退款諮詢、手續等相關資訊，營運結束後將於「Dragalia Lost ～失落的龍絆～」官方網站公告。</div><div><br></div><div>退款流程中為進行身分驗證，須請用戶至遊戲應用程式中的指定平台申請退款。若您持有未使用之付費龍光鑽石，至退款完成前請務必保留本應用程式。</div><div><br></div><div>■未使用之付費龍光鑽石的確認方法</div><div>可至主頁面「選單」＞「其他」＞「購買資訊」中的「持有付費龍光鑽石」進行確認。</div><div>※購買龍光鑽石時所獲得的額外贈禮為「免費龍光鑽石」，並非退款對象。</div><div>※龍光鑽石會依照獲得順序進行消費。故即使持有免費龍光鑽石，也可能先消費付費龍光鑽石。</div>
+
+start_time:1661839200; update_time1661752415

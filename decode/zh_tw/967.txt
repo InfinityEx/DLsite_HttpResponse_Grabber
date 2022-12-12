@@ -1,0 +1,8 @@
+article_id:967
+category_name:公告
+title_name:與新勢力強敵對戰的高難度任務「咢牙叛逆戰」即將登場！
+image_path:https://dragalialost.akamaized.net/attached/information/images/1e24f8295ca28eae3fc0f731e209fb0a.png
+
+message:<div>各位玩家您好</div><div><br></div><div>與新勢力強敵對戰的高難度任務「咢牙叛逆戰」將於<span class="local_date" data-local_date="1577340000"></span>起登場！</div><div>完成任務即可獲得製作稀有度「★6」武器時所需的素材道具！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/9a8f79104995acf15175e7b4b69d6299.png"></div><div><br></div><div>咢牙──乃為利牙。</div><div>咢牙──乃為覺醒。</div><div>咢牙──亦為叛逆。</div><div>藏於面具之下，自稱咢牙之人現身時，</div><div>散播病源的叛逆之風呼嘯而過，餓狼將露出利牙。</div><div>這病名正是──路弗‧特修加德魯。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/1e24f8295ca28eae3fc0f731e209fb0a.png"></div><div>路弗‧特修加德魯（風） 必須戰力：22,000</div><div><br></div><div>■「咢牙系列」武器追加</div><div>「鍛造」將於<span class="local_date" data-local_date="1577340000"></span>起追加「咢牙系列」的強力★6武器。</div><div>打倒「路弗‧特修加德魯」時所獲得的素材道具，可用來生產每次使用時都會切換技能效果的火屬性武器。</div><div><br></div><div>獲得特定武器，即可解鎖使用討伐「路弗‧特修加德魯」所獲得的素材道具來生產武器。</div><div>解鎖所需的武器為使用虛空之影討伐戰「火山奇美拉」中，獲得的素材道具所鍛造的階級Ⅱ之火屬性★5武器。</div><div><br></div><div>解鎖所需的武器會根據欲生產的武器種類有所不同，請從「鍛造」＞「生產」＞「路弗‧特修加德魯」各武器的「素材確認」進行確認。</div><div><br></div><div>※「咢牙系列」武器無法分解。</div><div>※「路弗‧特修加德魯叛逆戰」的難易度和「咢牙系列」階級Ⅱ以後的武器預定將於今後追加。</div><div><br></div><div>【注意事項】</div><div>如要參加「咢牙叛逆戰」，須先完成主線劇情第10章6-3(Normal)，並完成任一項「真‧龍族的試煉 中級」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1577253600; update_time1577082475

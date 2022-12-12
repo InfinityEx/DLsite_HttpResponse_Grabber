@@ -1,0 +1,198 @@
+article_id:3104
+category_name:公告
+title_name:必中火屬性★5角色！「白金傳說召喚」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「白金傳說召喚」已於<span class="local_date" data-local_date="1662098400"></span>起舉辦中！</div><div><br></div><div>「白金傳說召喚」為「10連召喚」的第10發將必中「火屬性★5角色」。</div><div><span style="color: rgb(226, 80, 65);">※火屬性以外的角色‧龍族不會出現於本召喚中。</span></div><div>召喚期間內可進行2次白金傳說召喚的「10連召喚」。</div><div>此外，本召喚僅限使用「龍光鑽石」。</div><div><br></div><div>【白金傳說召喚舉辦期間】</div><div><span class="local_date" data-local_date="1662098400"></span> ～ <span class="local_date" data-local_date="1663307999"></span></div><div><br></div><div>「白金傳說召喚」第10發必中的部分對象火屬性★5角色介紹如下：</div><div><br></div><div>【第10發必中對象火屬性★5角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/62c0e3bc605f6ba3a5762687bd6a5afa.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>789</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>486</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>換上來自東方日初之國的傳統新年服裝，<br>盛裝打扮的耶魯菲莉絲。<br>原以為能平穩地迎接新年，卻因一下要作戰、<br>一下被捲入意外事故而忙得頭昏眼花。<br>看來今年也會是很熱鬧的一年呢。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9403d500fcac4e5fa713f9f22e2acb6d2.png"></span>
+				<span>大和撫子</span>
+			</dt>
+			<dd><div>給予隊伍內所有火屬性角色【活躍祈願】。<br>此技能將依蓄集時點擊畫面的次數追加最大2次【活躍祈願】。<br>【活躍祈願】效果期間中若再次獲得【活躍祈願】，<br>則效果等級上升並強化效果。<br>【活躍祈願】期間結束後則效果等級下降，<br>若於Lv.1時等級下降則解除效果。<br>Lv.1：於15秒之間，攻擊力上升15％。<br>Lv.2：於30秒之間，攻擊力上升25％。<br>Lv.3：於60秒之間，攻擊力上升40％、風屬性傷害減少15％。</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ddbfc893d24491b774462a7d936dab522.png"></span>
+				<span>新春吉日</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予目標和其周圍敵人火屬性傷害，<br>使其陷入「劫火」狀態。<br>此外，使劫火抗性於30秒之間下降20％。<br>此效果無法重複。</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3c77eb4ce89d7a87424b9733969ae7282.png"></span>
+				<span>復活時HP＋30％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員復活時的HP提升30％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>【火】連擊：連擊‧爆擊Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為火屬性，<br>則每連擊10次時，使爆擊率提升1％。<br>此效果最大可疊加20次。<br>連擊數重置時，解除此能力賦予的所有效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>新春萬福Ⅱ</span></dt><dd><div>依賦予自身的【活躍祈願】等級發動以下效果。<br>Lv.1：技能量條的增加率提升7％。<br>Lv.2：技能量條的增加率提升8％。<br>Lv.3：技能量條的增加率提升10％。<br>此外，技能「新春吉日」將隨時間經過而自動蓄集。<br>此蓄集不受到「技能量條的增加率提升效果」影響。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠抗性＋100％</span></dt><dd><div>陷入「睡眠」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>開場技能量條＋100％</span></dt><dd><div>任務開始時技能量條提升100％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※原有技能與共享技能的部分效果可能有差異。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e6cd8e06daadde191ecef222d553289a.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>742</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>身手矯健的傭兵蘭薩弗，<br>因時空物理魔法實驗而變成了孩童的模樣。<br>雖然身軀變得嬌小，但身經百戰獲得的經驗、<br>重視仁義的男子氣概……以及令旁人<br>目瞪口呆的龐大食量，卻絲毫沒有改變。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c2db8e594e072513922d2af7ebfa68c62.png"></span>
+				<span>奮力揮擊</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予前方敵人傷害，使其陷入「劫火」狀態。</div><div class="skill-detail">威力：1,015 × 1 Hit<br>所需技能點數：3,230<br>所需共享技能點數：8,559<br>特殊效果<br>‧劫火<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41.6</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20f15e05dab3cf33c2c02e36b5f9d8722.png"></span>
+				<span>全壘打宣言</span>
+			</dt>
+			<dd><div>給予自身攻擊力提升氣場。<br>此外，使技能「奮力揮擊」可即時發動，<br>並於下次使用時必定發生爆擊。<br>（同時在此效果與超靈感的狀態下使用技能時，<br>則消費雙方效果使攻擊發生爆擊。）</div><div class="skill-detail">所需技能點數：7,583<br>獲得氣場<br>‧攻擊力提升（爆發氣場上限Lv. 2）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防禦力＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的防禦力提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【火】士氣：攻勢士氣‧攻＋8％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為火屬性，<br>則在攻擊力提升之爆發氣場狀態時，<br>攻擊力提升8％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>強力打者Ⅱ</span></dt><dd><div>爆擊率提升的上限變為10％，<br>但爆擊時的傷害倍率提升40％。<br>（超靈感效果仍可正常發動。）<br>此外，技能「奮力揮擊」發生爆擊時，<br>給予自身攻擊力提升氣場（爆發氣場上限Lv.2）。<br>此效果發動後，1秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cc3f28b7bfce6dfc1ea65f36822cae7f2.png"></span><span>氣場（攻）‧攻擊速度＋8％</span></dt><dd><div>在攻擊力提升氣場狀態時，<br>則攻擊速度提升8％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※原有技能與共享技能的部分效果可能有差異。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>【注意事項】</div><div>1. 「白金傳說召喚」詳細召喚資訊，請點擊遊戲內下方選單列的「召喚」後，從「白金傳說召喚」的「出現機率」，或於「召喚資訊」中的「詳細」進行確認。</div><div>2. 「白金傳說召喚」和「傳說召喚」同時舉辦。請透過召喚頁面上方「&lt;」「&gt;」標示進行切換。</div><div>3. 「傳說召喚」連續10次未出現★5時的出現機率上升機制，不會因為進行「白金傳說召喚」而重置。</div><div>4. 其他注意事項，請點擊遊戲內下方選單列的「召喚」後，從「召喚資訊」＞「詳細」＞「注意事項」進行確認。</div><div>5. 「白金傳說召喚」中無法獲得「龍輝之印」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1662098400; update_time1647662406

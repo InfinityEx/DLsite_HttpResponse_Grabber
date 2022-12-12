@@ -1,0 +1,8 @@
+article_id:3039
+category_name:活動
+title_name:活動「神龍降臨」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/cb549b725a4163c1d95e0c7d8f589c2f.png
+
+message:<div>各位玩家您好<br><br>團體活動「神龍降臨」預計將於<span class="local_date" data-local_date="1648620000"></span>起開始舉辦。<br>本活動可在團隊遊戲模式下挑戰無屬性的團體戰BOSS。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/cb549b725a4163c1d95e0c7d8f589c2f.png"></div><div>活動主題曲：「Destiny」/宮原ひとみ&times;渡辺ほのか<br><br>■活動期間<br><span class="local_date" data-local_date="1648620000"></span> ～ <span class="local_date" data-local_date="1650002399"></span><br><br>■注意事項<br>1. 若要參加活動任務，須完成主線劇情第2章 2-1（Normal）。<br>2. 若要參加團隊遊戲，須完成主線劇情第2章 2-1（Normal）。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1648360800; update_time1647418779

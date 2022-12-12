@@ -1,0 +1,8 @@
+article_id:3036
+category_name:公告
+title_name:「3.5週年紀念倒數登入獎勵」開始舉辦！
+image_path:https://dragalialost.akamaized.net/attached/information/images/6be1ffabc10c597c6367f256cf90622e.png
+
+message:<div>各位玩家您好</div><div><br></div><div>「3.5週年紀念倒數登入獎勵」活動已於<span class="local_date" data-local_date="1647583200"></span>起舉辦中！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/6be1ffabc10c597c6367f256cf90622e.png"></div><div><br></div><div>在活動期間內登入遊戲，就能獲得召喚券！</div><div>9天內最多共可獲得22張召喚券。</div><div><br></div><div>■登入獎勵內容</div><div>第1天 召喚券&times;2</div><div>第2天 召喚券&times;2</div><div>第3天 召喚券&times;2</div><div>第4天 召喚券&times;2</div><div>第5天 召喚券&times;2</div><div>第6天 召喚券&times;3</div><div>第7天 召喚券&times;3</div><div>第8天 召喚券&times;3</div><div>第9天 召喚券&times;3</div><div><br></div><div>■活動期間</div><div><span class="local_date" data-local_date="1647583200"></span> ～ <span class="local_date" data-local_date="1648360799"></span></div><div><br></div><div>■注意事項</div><div>1. 登入獎勵會於每日14:00以後登入遊戲時，發送至獎勵箱。</div><div>2. 登入獎勵所贈送的禮物有領取期限，敬請留意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1647583200; update_time1647243653

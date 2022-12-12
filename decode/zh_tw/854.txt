@@ -1,0 +1,8 @@
+article_id:854
+category_name:活動
+title_name:劇情活動「闇影疑雲‧消失的少女」追加新劇情！
+image_path:https://dragalialost.akamaized.net/attached/information/images/e5619ced5d8d3abfae7f9113c9344f72.png
+
+message:<div>各位玩家您好</div><div><br></div><div>劇情活動「闇影疑雲‧消失的少女」已於<span class="local_date" data-local_date="1572847200"></span>追加限定劇情第3話與第4話！</div><div>只要解放劇情，可交換的道具也會增加。</div><div><br></div><div>※本劇情涉及設施活動劇情「秘儀呼喚‧封印圖書館」的核心內容。</div><div><span style="color: rgb(226, 80, 65);">營運團隊強烈建議玩家們在遊玩「闇影疑雲‧消失的少女」前，先進行同時舉辦的設施活動「秘儀呼喚‧封印圖書館」。</span></div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/e5619ced5d8d3abfae7f9113c9344f72.png"></div><div>■活動概要</div><div>劇情活動「闇影疑雲‧消失的少女」為透過完成主線任務和各個活動任務收集的道具，來解放特別劇情的活動。</div><div><br></div><div>■活動道具獲得方式</div><div>於活動期間完成主線任務與各個活動任務後即可獲得活動道具「無名黃衣」。</div><div><br></div><div>■注意事項</div><div>1. 活動「闇影疑雲‧消失的少女」之詳細內容，請參考活動主頁面的「遊戲方式」內說明。</div><div>2. 若要參加活動任務，需完成主線劇情第2章 2-1（Normal）。</div><div>3. 若要參加團隊遊戲，需完成主線劇情第2章 2-1（Normal）。</div><div>4. 期間限定追加每日Mission，請從主頁面「Mission」的「期間限定」進行確認。</div><div>5. 本活動中獲得的活動道具「無名黃衣」，無法於今後舉辦的活動中使用。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1572847200; update_time1572256677

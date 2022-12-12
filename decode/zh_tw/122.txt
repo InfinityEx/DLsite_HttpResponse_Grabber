@@ -1,0 +1,8 @@
+article_id:122
+category_name:版本更新
+title_name:版本更新公告
+image_path:
+
+message:<div><span class="local_date" data-local_date="1543460400"></span>版本1.2.1已公開。</div><div>※預計將於<span class="local_date" data-local_date="1543546800"></span>實施強制更新。</div><div>&nbsp;</div><div>版本1.2.1中，已修正以下遊戲內的異常現象。</div><div><br></div><div>■已修正的異常現象</div><div>‧版本1.2.0內，「真‧耶夢加得的試煉」中真‧耶夢加得的「暴風追擊」攻擊未能正常進行之異常現象。</div><div>‧強化角色、龍族、武器和龍輝護符時，第2次以後的強化演出無法略過的異常現象。</div><div><br></div><div>■注意事項</div><div>版本更新訊息實際反映於商店將可能花費一段時間。</div><div>此外，裝置內的暫存檔可能會導致版本無法順利更新。</div><div>如無法更新，請關閉裝置電源，放置1～2分鐘後再啟動重試。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1543460400; update_time1543465118

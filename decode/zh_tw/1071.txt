@@ -1,0 +1,8 @@
+article_id:1071
+category_name:公告
+title_name:主線劇情第12章「戰火之霸道」公開！
+image_path:https://dragalialost.akamaized.net/attached/information/images/3a3ef4b84abbc16e37166d35019022fa.png
+
+message:<div>各位玩家您好</div><div><br></div><div>主線劇情第12章「戰火之霸道」已於<span class="local_date" data-local_date="1582178400"></span>公開！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/3a3ef4b84abbc16e37166d35019022fa.png"></div><div>一行人為奪回王都奮勇進軍，卻遭到雷歐尼特與謝斯的聯盟軍阻擋。</div><div>在謀略與暴虐的漩渦之中，呈現於一行人面前的，是兄姊們的覺悟與驕傲。</div><div>業火飛舞的戰場上，雙方的信念即將衝擊彼此──！</div><div><br></div><div>敬請期待最新劇情！</div><div><br></div><div>■注意事項</div><div>如要進行主線劇情第12章「戰火之霸道」，需完成主線劇情第11章6-3【兩人的「心」】。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1582178400; update_time1581067128

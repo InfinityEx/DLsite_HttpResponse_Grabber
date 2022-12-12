@@ -1,0 +1,8 @@
+article_id:875
+category_name:活動
+title_name:團體活動【復刻】「心善的少女與受囚禁的守護龍」舉辦公告【更新】
+image_path:https://dragalialost.akamaized.net/attached/information/images/ea73d49d7ad01db11d9e891d98c19c80.png
+
+message:<div><span style="color: rgb(44, 130, 201);"><strong>【<span class="local_date" data-local_date="1573545000"></span>更新】</strong></span><br>公告圖示的部分內容顯示日文之異常現象已修正完畢。<br>造成各位玩家的不便和困擾，在此致上最深的歉意。</div><div><br></div><hr><div>各位玩家您好</div><div><br></div><div>追加新難易度的團體活動【復刻】「心善的少女與受囚禁的守護龍」，預計將從<span class="local_date" data-local_date="1573624800"></span>起開始舉辦。</div><div>本活動可在團隊遊戲模式下挑戰風屬性的團體戰BOSS。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/ea73d49d7ad01db11d9e891d98c19c80.png"></div><div>「王子大人！請你無論如何，都要幫幫我們的聚落！」</div><div>名為梅兒莎的佛萊斯提亞少女來到聖城請求援助。</div><div>據說她的聚落被帝國襲擊，</div><div>守護龍也遭到了囚禁。</div><div>王子一行人在梅兒莎的帶領下前往位在森林深處的聚落&hellip;&hellip;</div><div>而在那等著他們的，卻是帝國殘酷的陷阱！</div><div><br></div><div>■注意事項</div><div>1. 如要參加活動任務，需完成主線劇情第2章2-1（Normal）。</div><div>2. 如要參加團隊遊戲，需完成主線劇情第2章2-1（Normal）。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1573538400; update_time1573544954

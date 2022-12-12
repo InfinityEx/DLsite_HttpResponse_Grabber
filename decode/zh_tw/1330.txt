@@ -1,0 +1,170 @@
+article_id:1330
+category_name:公告
+title_name:必中★5龍族！「白金傳說召喚」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「白金傳說召喚」預計將於<span class="local_date" data-local_date="1590127200"></span>起開始舉辦！</div><div><br></div><div>「白金傳說召喚」為「10連召喚」的第10發將必中「★5龍族」。</div><div>召喚期間內可進行2次白金傳說召喚的「10連召喚」。</div><div>本召喚僅限使用「龍光鑽石」。</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※本召喚內容不包含同時開放的「傳說召喚」中新追加的角色和龍族。</span></div><div><br></div><div>【白金傳說召喚舉辦期間】</div><div><span class="local_date" data-local_date="1590127200"></span> ～ <span class="local_date" data-local_date="1590731999"></span></div><div><br></div><div>「白金傳說召喚」第10發必中的部分對象★5龍族介紹如下：</div><div><br></div><div>【第10發必中對象★5龍族介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/47cd654e302d91eb7e3e5b44ac378217.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>以伊利亞教之名，<br>對危害人類的龍族處以懲戒的存在。<br>她為了向人們傳遞女神伊利亞的話語，<br>並同時維持能讓龍族與人類<br>共同生活的世界，飛翔於世界各地。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>極颶衝擊</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人風屬性傷害，<br>使其陷入「昏厥」狀態。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【風】攻擊力＋50％</span></dt><dd><div>裝備角色如果為風屬性，<br>則裝備角色的攻擊力提升50％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【風】技能累積＋30％</span></dt><dd><div>裝備角色如果為風屬性，<br>則技能量條的增加率提升30％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3776b4fd34af39db3c38019d60c762b0.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>貪吃的龍族。要注意在他肚子餓時，<br>會變得非常偏執且可能會大肆作亂。<br>喜歡的東西會留到最後才吃，<br>最近特別鍾愛的食物是新鮮水果<br>以及軟綿綿鬆餅。真是太好吃啦！</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>軟綿綿好好吃</span>
+			</dt>
+			<dd>
+				<div>
+					回復自身HP，並使龍化量條提升20％，<br>龍化時間延長5秒。<br>龍化時間的延長不超過最大值。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【水】攻擊力＆爆擊威力提升Ⅱ</span></dt><dd><div>裝備角色如果為水屬性，<br>則裝備角色的攻擊力提升45％、爆擊時的傷害倍率提升55％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c3723452cd7ea50467740abd64dd1e94.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>對黑暗力量覺醒的孤獨龍族。<br>雖有三位兄長，卻未從中獲得過愛。<br>因此十分渴求被愛。他的渴望變得扭曲，<br>孤獨的最終導致心靈崩毀，<br>並化為兄長們所忌諱的災厄。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>艾比米修斯之孤毒</span>
+			</dt>
+			<dd>
+				<div>
+					給予周圍敵人闇屬性傷害，<br>使其陷入「毒」狀態。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】攻擊力＋50％</span></dt><dd><div>裝備角色如果為闇屬性，<br>則裝備角色的攻擊力提升50％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>【闇】毒特攻＋20％</span></dt><dd><div>裝備角色如果為闇屬性，<br>則給予「毒」狀態中的敵方傷害提升20％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>「白金傳說召喚」詳細召喚資訊，請點擊遊戲內下方選單列的「召喚」後，從「白金傳說召喚」的「出現機率」，或於「召喚資訊」中的「詳細」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1590040800; update_time1589543817

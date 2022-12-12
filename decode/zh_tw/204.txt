@@ -1,0 +1,196 @@
+article_id:204
+category_name:公告
+title_name:傳說召喚「光輝燦爛的夢想天幕」開始舉辦！
+image_path:
+
+message:<div>傳說召喚「光輝燦爛的夢想天幕」已於<span class="local_date" data-local_date="1547532000"></span>開始舉辦！</div><div><br></div><div>精選對象之角色‧龍族‧龍輝護符出現機率上升中。</div><div><br></div><div>【精選角色‧龍族‧龍輝護符】</div><div><br></div><div>■角色</div><div>「安妮李耶（光／槍）」、「菲力茲（光／短劍）」、「馬汀（火／劍）」</div><div>■龍族</div><div>「萊格（光）」</div><div>■龍輝護符</div><div>「龍族馬戲團」、「最佳表現」、「腳踏實地的宣傳活動」、「閃亮的場所」</div><div><br></div><div>※其他精選詳細內容，請點選遊戲內下方選單列的「召喚」後，從「召喚資訊」進行確認。</div><div><br></div><div>【傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1547532000"></span> ～ <span class="local_date" data-local_date="1548914340"></span></div><div><br></div><div>部分精選對象之角色‧龍族‧龍輝護符介紹如下。</div><div><br></div><div>【精選角色介紹】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f46093f22172427efffea1b8ddc1ddca.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>80</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>793</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>483</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>2516</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">角色詳細</div>
+			<div class="param">
+				<ul>
+					<li>於格拉斯迪亞大陸四處巡演的馬戲團團長。<br>操縱龍族的馴龍師。<br>外貌甜美卻能讓凶猛龍族服從指令的演出，<br>常使觀眾看得深深著迷。<br>向他人致謝時有親吻對方臉頰的習慣。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7823c5dc5d663b88dd98604b790690602.png"></span>
+				<span>閃亮馬戲團</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人光屬性傷害，<br>使其陷入「昏厥」狀態。<br>攻擊時吸引敵人靠近。<br>命中敵人即發動【技能輪轉】，<br>技能效果將隨階段變化。<br>初期狀態：使自身的【活力】提升1階段。<br>階段1：使自身的【活力】提升2階段。<br>階段2：使攻擊力上升。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f7c0f3ed34a67d5c1036624a3c9cf8bd2.png"></span>
+				<span>Smile For You</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人光屬性傷害，<br>使隊伍全員的【活力】提升2階段。<br>【活力】達到第5階段即轉換成【超活力】，<br>強化攻擊‧回復技能。<br>【超活力】狀態中使用特定技能時就會解除。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的HP提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>HP70％‧技能＋35％</span></dt><dd><div>HP在70％以上時，技能傷害提升35％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>毒抗性＋100％</span></dt><dd><div>陷入「毒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>超活力之鏈‧攻＋20％</span></dt><dd><div>發動「超活力」時，<br>發動【攻擊力於15秒之間上升20%】效果。</div></dd></dl></div></div></div><div>※以上為最高Lv、瑪納之環全數解放時的能力值，並非獲得時的能力值。</div><div><br></div><div>【精選龍族介紹】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e1d7935501eacf5720631da04ce3bbf5.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>377</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>119</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>996</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">龍族詳細</div>
+			<div class="param">
+				<ul>
+					<li>擁有宛如野獸一般英勇外貌的龍族。<br>雖然外表看起來十分猙獰，<br>本性卻是喜好快樂事物的少年。<br>在馬戲團展示著可愛的技藝，<br>然而戰鬥時卻以銳利爪牙將敵人肅清。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5ffe297c2dacc6d6f3791df2a3c0ca062.png"></span>
+				<span>電迅破擊</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人光屬性傷害，<br>使其陷入「麻痺」狀態。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>【光】HP＆攻擊＋30％</span></dt><dd><div>裝備角色如果為光屬性，<br>則裝備角色的HP及攻擊力提升30％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【精選龍輝護符介紹】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/12766c7e1e18bac93f9a5e02a2030117.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>183</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>57</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>380</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【槍】技能傷害＋35％</span></dt><dd><div>裝備角色的武器種類如果為槍，<br>則裝備角色的攻擊技能傷害提升35％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span><span>闇屬性抗性＋8％</span></dt><dd><div>闇屬性傷害減少8％。</div></dd><dt class="event 20804"><span><img src="https://dragalialost.akamaized.net/attached/information/images/f42d666d8879553aa28a6205927b09f52.png"></span><span>知名度＋150％</span></dt><dd class="event 20804"><div>任務過關後所獲得的【知名度】增加150％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放的能力值，並非獲得時的能力值。</div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2b07c0daf0a3443b2a73802b32b95be2.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>176</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>65</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>381</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/fd589517c61c65312e1509e13a36cd412.png"></span><span>爆發傷害＋40％</span></dt><dd><div>爆發攻擊傷害提升40％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>爆擊傷害＋13％</span></dt><dd><div>爆擊時的傷害倍率提升13％。</div></dd><dt class="event 20804"><span><img src="https://dragalialost.akamaized.net/attached/information/images/f42d666d8879553aa28a6205927b09f52.png"></span><span>知名度＋150％</span></dt><dd class="event 20804"><div>任務過關後所獲得的【知名度】增加150％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請點擊遊戲內下方選單列的「召喚」後，從「召喚資訊」中的「詳細」進行確認。</div><div>2. 其他精選對象資訊，請點擊遊戲內下方選單列的「召喚」後，從「召喚資訊」中的「召喚資訊」進行確認，或於「出現機率」中的「出現機率一覽」進行確認。</div><div>3. 舉行期間以及內容，將可能未經預告即進行變更，敬請見諒。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div><br></div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1547532000; update_time1549012361

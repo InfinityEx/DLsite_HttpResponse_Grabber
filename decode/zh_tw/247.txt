@@ -1,0 +1,8 @@
+article_id:247
+category_name:公告
+title_name:關於歐里昂（情人節Ver. ）技能傷害值公告【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，歐里昂（情人節Ver. ）技能「旋轉布蕾」給予的火燒傷害值與所預期之數值有所不同。</div><div><br></div><div>本現象目前正進行修正中，待修正完畢前請您耐心等候。</div><div>若有最新資訊，將於本公告進行通知。</div><div><br></div><div>造成各位玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1550157000"></span> 更新</strong></span><br>本現象已在<span class="local_date" data-local_date="1550156100"></span> 實施的資料更新修正完畢。<br><br>此外，作為本現象的補償，營運團隊將對在<span class="local_date" data-local_date="1550156100"></span> 前開始遊戲的玩家們依序發送下列道具。<br><br>‧龍輝晶石 300個<br><br>補償道具請至「獎勵箱」領取。<br>請於<span class="local_date" data-local_date="1550760900"></span>前登入遊戲領取補償道具。<br>領取期限為發送至獎勵箱後7天以內。<br><br>造成各位玩家的不便，營運團隊再次致上最深的歉意。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1550144400; update_time1550199976

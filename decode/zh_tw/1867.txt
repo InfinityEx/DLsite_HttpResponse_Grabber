@@ -1,0 +1,8 @@
+article_id:1867
+category_name:活動
+title_name:團體活動「新春陰陽之役」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/2f99f14b1ec0be556c2b107f15369f14.png
+
+message:<div>各位玩家您好</div><div><br></div><div>團體活動「新春陰陽之役」預計將於<span class="local_date" data-local_date="1609394400"></span>起開始舉辦。</div><div>本活動可在團隊遊戲模式下挑戰風屬性的團體戰BOSS。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/2f99f14b1ec0be556c2b107f15369f14.png"></div><div>照往年以日初之國風慶祝新年的王子一行人。<br>然而，聖城卻被突然出現的神秘男子道滿給奪走了。<br>王子一行人為了奪回聖城而與丑之十二龍氏晴明攜手共鬥，<br>但晴明和道滿之間似乎有著不尋常的恩怨――<br>為了奪回平穩的新年，與倒幕組織「骸眾」的戰爭就此展開！<br><br>活動主題曲：「Terrestrial paradise」／ BlooDye　　<br><br>■注意事項<br>1. 如要參加活動任務，須完成主線劇情第2章2-1（Normal）。<br>2. 如要參加團隊遊戲，須完成主線劇情第2章2-1（Normal）。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1609135200; update_time1609384589

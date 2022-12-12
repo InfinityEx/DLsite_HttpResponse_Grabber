@@ -1,0 +1,243 @@
+article_id:3059
+category_name:公告
+title_name:「傳說召喚」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「傳說召喚」預計將於<span class="local_date" data-local_date="1662098400"></span>起開始舉辦。</div><div><span style="color: rgb(226, 80, 65);">※本召喚中登場的所有★5角色‧★5龍族皆為「龍輝之印交換」對象。詳細資訊請於「傳說召喚」舉辦期間點擊遊戲內下方選單列的「召喚」，並於召喚頁面的「龍輝之印」進行確認。</span></div><div><br></div><div>【傳說召喚 舉辦期間】</div><div><span class="local_date" data-local_date="1662098400"></span> ～ <span class="local_date" data-local_date="1663307999"></span></div><div><br></div><div>於「傳說召喚」中出現的部分★5角色‧★5龍族介紹如下。</div><div><br></div><div>【★5角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b8cb345d7d789b6797ee4ed1ccab11b1.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>761</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>498</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>化身人類姿態的青龍墨丘利。<br>為了與本性善良的人們攜手共生，<br>決定理解人類，並因此對其文化感到興趣。<br>即使外貌改變，身為守護龍的使命仍不變，<br>對威脅和平者絕不姑息。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/80922336d78c6a339d07de68c524e4242.png"></span>
+				<span>怒濤汪洋</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予前方敵人傷害，使其陷入「凍傷」狀態。<br>只要此技能命中，自身的龍化量條就會上升。<br>在攻擊力提升之爆發氣場狀態時，<br>使性能產生變化。</div><div class="skill-detail">威力：540 × 3 Hit<br>所需技能點數：2,800<br>特殊效果<br>‧凍傷<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41<br>龍化量條回復量：40<br><br>（變化後）<br>威力：600 × 4 Hit<br>所需技能點數：2,800<br>所需共享技能點數：9,940<br>特殊效果<br>‧凍傷<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41<br>龍化量條回復量：50</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/965d37e14de2ff3025ebd071ceb568dd2.png"></span>
+				<span>高壓毀滅</span>
+			</dt>
+			<dd><div>給予前方敵人傷害，給予自身攻擊力提升氣場。<br>龍化時使性能產生變化。</div><div class="skill-detail">威力：322 × 6 Hit<br>所需技能點數：8,000<br>獲得氣場<br>‧攻擊力提升（爆發氣場上限Lv. 2）<br><br>（變化後）<br>威力：322 × 9 Hit<br>所需技能點數：8,000<br>獲得氣場<br>‧攻擊力提升（爆發氣場上限Lv. 2）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>爆擊率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的爆擊率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span>
+				<span>【水】士氣：攻勢士氣‧火燒抗性＋100％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，<br>則在攻擊力提升之爆發氣場狀態時，<br>陷入「火燒」狀態機率下降100％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/67e1d7b7a658af6624ecd3c0af03e0d52.png"></span><span>青龍現身Ⅱ</span></dt><dd><div>陷入「濕身」狀態機率下降100％。<br>不論裝備任何龍族，龍化時皆變身為墨丘利。<br>龍化中的傷害倍率提升14％。<br>每場任務的龍化，<br>從第2次起將化身為真‧墨丘利。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>水泡之盾Ⅱ</span></dt><dd><div>在攻擊力提升之爆發氣場狀態時，<br>給予自身【守護之沫】。<br>此效果於【守護之沫】解除後，<br>10秒間不會再次發動。<br>【守護之沫】不會重複，帶有以下效果。<br>‧使最大HP 30％以下的傷害無效化之特殊盾。<br>此盾的效果只限1次，與一般的盾可以重複。<br>‧HP持續回復。<br>‧受到攻擊後將會解除。<br>‧未獲得攻擊力提升之爆發氣場時將會解除。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※原有技能與共享技能的部分效果可能有差異。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6bacdca6be07b42cf03e2fba727a5107.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>517</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,502</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>化身人類姿態的輝龍朱庇特。<br>為了在百無聊賴的日常中尋求刺激，<br>於是他決定更靠近一點觀察人類的生活。<br>即使外貌改變，愛好享樂的性格仍不變，<br>看著人們因自己的發言驚慌失措令他愉悅。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>雷霆降擊</span>
+			</dt>
+			<dd><div>給予前方敵人傷害，使其陷入「閃熱」狀態，<br>並給予自身攻擊力提升氣場。<br>陷入【雷氣】狀態的敵方若被此攻擊命中，<br>將依【雷氣】等級給予其追加傷害。<br>等級達到最大時則解除【雷氣】。</div><div class="skill-detail">威力：1,200 × 1 Hit<br>（雷氣Lv.1）<br>威力：300 × 1 Hit<br>（雷氣Lv.2）<br>威力：300 × 2 Hit<br>（雷氣Lv.3）<br>威力：300 × 3 Hit<br>（雷氣Lv.4）<br>威力：300 × 4 Hit<br>所需技能點數：2,640<br>特殊效果<br>‧閃熱<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41.6<br>獲得氣場<br>‧攻擊力提升（爆發氣場上限Lv. 1）<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0b6e96a9297308fa346ed1059be779062.png"></span>
+				<span>電光引燃</span>
+			</dt>
+			<dd><div>擺出架式至一定時間後，給予目標【雷氣】。<br>若於擺出架式時受到使用技能可迴避的攻擊，<br>則給予目標和其周圍敵人【雷氣Lv.4】。</div><div class="skill-detail">所需技能點數：10,560<br>特殊效果<br>‧雷氣Lv.1<br>　效果時間：60 秒<br>‧雷氣Lv.4<br>　效果時間：15 秒</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻擊力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的攻擊力提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span>
+				<span>【光】士氣：攻勢士氣‧詛咒抗性＋100％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，<br>則在攻擊力提升之爆發氣場狀態時，<br>陷入「詛咒」狀態機率下降100％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a59180d889cf164d6560fdcbdc5d43a52.png"></span><span>輝龍現身Ⅱ</span></dt><dd><div>‧陷入「麻痺」狀態機率下降100％。<br>‧不論裝備任何龍族，龍化時皆變身為朱庇特。<br>每場任務的龍化，從第2次起將化身為真‧朱庇特。<br>‧迴避敵方攻擊時，<br>給予發動該攻擊的敵方【雷氣】效果，<br>並給予自身攻擊力提升氣場（爆發氣場上限Lv.1）。<br>此效果發動後，10秒間不會再次發動。<br>【雷氣】最高可提升至Lv.4，解除時<br>給予【雷氣】狀態中的目標和其周圍敵人傷害。<br>等級越高所給予的傷害範圍與威力越大，<br>若於等級最高時解除，<br>則額外賦予其「麻痺」、「昏厥」狀態。<br>Lv.1：效果持續時間60秒。<br>Lv.2：效果持續時間45秒。<br>Lv.3：效果持續時間30秒。<br>Lv.4：效果持續時間15秒。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>毒抗性＋100％</span></dt><dd><div>陷入「毒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cb9a79af6cfdc75b0e5d4d610cfbe8c32.png"></span><span>激亢之雷Ⅱ</span></dt><dd><div>【雷氣】解除時若自身處於【雷氣】攻擊範圍內，<br>則回復自身HP，並使自身的龍化量條提升20％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>【★5龍族介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6a19e45035f1f1035494a840fbce0934.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>活在千年前的碧龍。在第一次封魔戰爭時<br>處於中立，摸索著能永續維持的<br>人龍相處之道。其靈魂在轉生後<br>便結束了一生。繼承其高潔靈魂的龍族<br>如今正存在於這世界的一角。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>終末暴風雨</span>
+			</dt>
+			<dd><div>給予周圍敵人風屬性傷害，<br>使其於任務中風屬性抗性下降10％。<br>此效果無法重複。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>【風】HP＆攻擊力＋35％</span></dt><dd><div>裝備角色如果為風屬性，<br>則裝備角色的HP及攻擊力提升35％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【風】疾風怒濤‧技能＋70％</span></dt><dd><div>裝備角色如果為風屬性，<br>則連擊數為15次以上時，<br>攻擊技能傷害提升70％。</div></dd></dl></div></div></div><div>※以上為Lv.100、上限解放4階段、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 詳細出現機率，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1662012000; update_time1647564718

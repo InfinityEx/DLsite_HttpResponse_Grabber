@@ -1,0 +1,8 @@
+article_id:707
+category_name:公告
+title_name:主線劇情第10章「魔神再臨」登場！
+image_path:https://dragalialost.akamaized.net/attached/information/images/44f59da5be72cf5e995c0ae259e19b75.png
+
+message:<div>各位玩家您好</div><div><br></div><div>主線劇情第10章「魔神再臨」已決定將於<span class="local_date" data-local_date="1568268000"></span>追加！</div><div><br></div><div>&nbsp;<img src="https://dragalialost.akamaized.net/attached/information/images/44f59da5be72cf5e995c0ae259e19b75.png"></div><div>敬請期待最新劇情！<br><br></div><div>■注意事項</div><div>如要進行主線劇情第10章「魔神再臨」，需完成主線劇情第9章 5-5「&hellip;&hellip;Shall We Dance？」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1568181600; update_time1569476737

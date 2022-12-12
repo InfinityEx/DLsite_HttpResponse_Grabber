@@ -1,0 +1,8 @@
+article_id:1754
+category_name:公告
+title_name:角色「拉碧絲」異常現象公告【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1604469600"></span>更新】</strong></span><br>本異常現象已於<span class="local_date" data-local_date="1604296800"></span>實施的資料更新中進行修正。</div><div><br>造成各位玩家的不便和困擾，營運團隊再度致上最深的歉意。</div><hr><div>各位玩家您好</div><div><br></div><div>經營運團隊確認，<span class="local_date" data-local_date="1604037600"></span>起於召喚中新追加的角色「拉碧絲」出現以下異常現象。</div><div><br></div><div>‧對陷入麻痺狀態的敵人使用技能「精彩盜竊」時傷害會提升。</div><div><br></div><div>本異常現象預計將於今後的更新中修正。</div><div>最新進度將於本公告進行更新。</div><div><br></div><div>造成全體玩家的困擾與不便，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1604040600; update_time1604469722

@@ -1,0 +1,8 @@
+article_id:2214
+category_name:活動
+title_name:「彩羽＆乙羽叛逆戰」即將追加新難易度「絕級」！
+image_path:https://dragalialost.akamaized.net/attached/information/images/e91651eeb6c513b2381c52cc309a15ab.png
+
+message:<div>各位玩家您好<br><br>與新勢力強敵對戰的高難度任務「咢牙叛逆戰」的「彩羽＆乙羽叛逆戰」將於<span class="local_date" data-local_date="1622181600"></span>起追加新難易度「絕級」。<br><br>「彩羽＆乙羽叛逆戰 絕級」為水屬性角色‧龍族限定任務。<br>完成任務即可獲得更進一步精煉稀有度「★6」水屬性武器時所需的素材道具！<br>「咢牙系列」武器的精煉達到第2階段時，武器外觀將產生變化！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/e91651eeb6c513b2381c52cc309a15ab.png"></div><div>咢牙的雙子鬼──面露純真無邪笑顏。<br>咢牙的黑髮鬼──對不像樣肆意訕笑。<br>咢牙的白髮鬼──對沒意思極其蔑視。<br>兩具身體擁有一顆心&hellip;&hellip;兩人同等無慚無愧。<br>二位咢牙主張自由，貪圖享樂。<br>自由飛舞的雙羽之名正是──彩羽與乙羽。<br><br>■復活次數與復活加成調整<br>復活次數與復活加成將於<span class="local_date" data-local_date="1622181600"></span>起進行調整。<br>「彩羽＆乙羽叛逆戰 超級」的復活次數調整為1次，追加復活加成。<br>「彩羽＆乙羽叛逆戰 高級」的復活次數調整為2次，變更復活加成。<br>「彩羽＆乙羽叛逆戰 中級」的復活次數調整為3次，變更復活加成。<br><br>【注意事項】<br>1. 如要參加「咢牙叛逆戰」，須先完成主線劇情第10章6-3(Normal)，並完成任一項「真‧龍族的試煉 中級【單人】」或「真‧龍族的試煉 中級【團隊】」。<br>2. 如要參加「彩羽＆乙羽叛逆戰 絕級【單人】」，須先完成「咢牙叛逆戰 超級【單人】」或「咢牙叛逆戰 超級【團隊】」。<br>3. 如要參加「彩羽＆乙羽叛逆戰 絕級【團隊】」，須先完成「咢牙叛逆戰 超級【單人】」或「咢牙叛逆戰 超級【團隊】」。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1621836000; update_time1621318092

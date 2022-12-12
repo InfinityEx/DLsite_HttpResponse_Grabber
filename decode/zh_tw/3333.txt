@@ -1,0 +1,8 @@
+article_id:3333
+category_name:重要
+title_name:未使用之付費龍光鑽石退款相關公告
+image_path:
+
+message:<div>各位玩家您好</div><div>感謝玩家們一直以來對「Dragalia Lost ～失落的龍絆～」的支持與鼓勵。</div><div>「Dragalia Lost ～失落的龍絆～」已於2022年11月30日（三）正式結束營運。</div><div><br></div><div>後續退款相關作業，將根據用戶所在國家／地區之法規，對已購入但未使用之付費龍光鑽石進行退款事宜。</div><div>※「付費龍光鑽石」為購買龍光鑽石時，除去額外贈禮後的龍光鑽石。</div><div><br></div><div>■退款申請期間</div><div><span class="local_date" data-local_date="1669788000"></span> 〜 <span class="local_date" data-local_date="1677650400"></span>※若未於上述期間內進行申請，則不視為本次退款對象。</div><div><br></div><div>■退款流程</div><div>1. 啟動「Dragalia Lost ～失落的龍絆～」，選擇「退款」。</div><div>2. 確認畫面上顯示的未使用龍光鑽石餘額。</div><div>3. 若尚有餘額，請希望退款的用戶於應用程式中的「聯絡客服」進行諮詢。營運團隊在取得用戶身分驗證後，將針對退款手續進行說明。</div><div><br></div><div>若有任何疑問，請至遊戲應用程式中的聯絡客服平台進行諮詢。</div><div><br></div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1669788000; update_time1669956640

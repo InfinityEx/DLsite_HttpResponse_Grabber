@@ -1,0 +1,99 @@
+article_id:2796
+category_name:公告
+title_name:瑪納之環「第6層」解鎖角色追加！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>遊戲中部分角色的瑪納之環，將於<span class="local_date" data-local_date="1643608800"></span>追加「第6層」。</div><div><br></div><div>本次追加的對象角色和其能力值詳細如下：</div><div>※解鎖本次對象角色瑪納之環第6層須要使用透過「強者的試煉」每日獎勵獲得的各角色專用道具。</div><div><br></div><div>■對象角色</div><div>★5 西莉絲（龍絆日Ver.）：火／弓</div><div><br></div><div>■能力值介紹</div><div><br></div><div>&middot;★5角色</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/d940a908133bfb6c8a5d5eed155b454e2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">西莉絲（龍絆日Ver.）</div><div class="cv">CV:朝井彩加</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>1,011</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>582</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>3,293</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cec8794d33276918ce38bfaa577312842.png"></span>
+				<span>光明獵人</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予前方敵人傷害，使其陷入「火燒」狀態，<br>並解除其1個增益效果。攻擊時，追加發射<br>與自身增益效果同數量的【追蹤彈】。</div><div class="skill-detail">威力：1,800 × 1 Hit<br>威力：105 × 7 Hit（最大時）<br>所需技能點數：2,803<br>所需共享技能點數：8,969<br>特殊效果<br>‧增益效果解除<br>‧火燒<br>　效果時間：12 秒<br>　效果間隔：3.9 秒<br>　威力：97<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>喜樂救援</span>
+			</dt>
+			<dd><div>隊伍全員的攻擊力上升，持續回復HP，<br>並使技能「光明獵人」蓄集100％。<br>技能發動後將轉換技能效果。<br>發動已轉換的技能後，將復原技能效果。<br>使用此技能不會解除【超活力】。</div><div class="skill-detail">所需技能點數：5,610<br>特殊效果<br>‧攻擊力提升20％<br>　效果時間：15 秒<br>‧HP持續回復<br>　效果時間：15 秒<br>　效果間隔：2.9 秒<br>　效果量：10<br><br>（變化後）<br>所需技能點數：5,610<br>特殊效果<br>‧攻擊力提升20％<br>　效果時間：15 秒<br>‧防禦力提升20％<br>　效果時間：15 秒<br>‧HP持續回復<br>　效果時間：15 秒<br>　效果間隔：2.9 秒<br>　效果量：10<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能量條增加率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span>
+				<span>【火】連擊：連擊‧活力提升Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為火屬性，<br>則每連擊20次時，使【活力】提升1階段。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>耀眼激昂Ⅲ</span></dt><dd><div>每連擊20次時，<br>發動【攻擊力於15秒之間上升2％】<br>與【爆擊率於15秒之間上升1％】增益效果。<br>此外，使用技能「喜樂救援」時，<br>給予自身攻擊力提升氣場（爆發氣場上限Lv.3）<br>與防禦力提升氣場（爆發氣場上限Lv.3）。<br>獲得的氣場效果發動後，20秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8c5aab1cf5fe41020ad4d994b735ba012.png"></span><span>森陽祝福Ⅲ</span></dt><dd><div>陷入「昏厥」、「睡眠」狀態機率下降100％。<br>當受到帶有「昏厥」、「睡眠」的攻擊時，<br>給予自身【10秒間，攻擊力提升15％】增益效果。<br>此效果無法疊加。<br>獲得的增益效果發動後，15秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/58d61047bf07e78f3cf5edd26b2402392.png"></span><span>紅炎射手</span></dt><dd><div>使用的技能增益效果持續時間提升30％。<br>此外，在攻擊力提升之爆發氣場狀態時，<br>則攻擊速度提升10％。此效果無法重複。<br>並且，在防禦力提升之爆發氣場狀態時，<br>則攻擊技能傷害提升20％。此效果無法重複。</div></dd></dl></div></div></div><div><br></div><div>■注意事項</div><div>1. 本公告內記載的角色能力值為「Lv.100、瑪納之環解放數70」時的能力值。</div><div>2. 能力值不包含因能力而變動的數值。</div><div>3. 本公告公開前的公告或介紹影片中所記載的上述角色能力值均為「Lv.80、瑪納之環解放數50」時的能力值。</div><div>4. 角色的技能等級提升後，設定成共享技能時技能量條的蓄集更為困難。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1643522400; update_time1643186145

@@ -1,0 +1,8 @@
+article_id:437
+category_name:公告
+title_name:部分裝置在「防衛戰」中會強制結束遊戲的異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，於4/26起舉行中的活動「FIRE EMBLEM 彼此相連的世界」的「防衛戰」中，發生了在iOS 12以上版本的iPhone 5s、iPhone 6、iPhone 6 Plus等裝置上可能會強制結束遊戲的異常現象。</div><div><br></div><div>使用上述裝置進行遊戲時，請將畫質內的演出效果設定成「簡易」，並將畫質設定成「普通」，就有可能減輕此狀況。</div><div>設定變更方法如下：</div><div><br></div><div>1. 點擊遊戲頁面下方的「選單」。</div><div>2. 點擊「選項」。</div><div>3. 點擊「遊戲」圖示。</div><div>4. 將畫質內的演出效果設定成「簡易」。並將畫質內的畫質設定成「普通」。</div><div><br></div><div>造成各位玩家的不便，營運團隊再次致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1556258400; update_time1556257326

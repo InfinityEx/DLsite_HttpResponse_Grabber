@@ -1,0 +1,8 @@
+article_id:1265
+category_name:公告
+title_name:角色「榭葉拉」異常現象公告【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，在更新至版本1.19.0後使用角色「榭葉拉」的技能「冰結大刀」時，會發生無法繼續進行遊戲的異常現象。</div><div><br></div><div>關於本異常現象，營運團隊正在進行調查。</div><div>最新進度將於本公告進行更新。</div><div>造成全體玩家的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1588311000"></span>更新】</strong></span></div><div>本異常現象已於<span class="local_date" data-local_date="1588224600"></span>左右實施的資料更新中修正完畢。</div><div>造成全體玩家的不便與困擾，營運團隊再度致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1587984300; update_time1588311646

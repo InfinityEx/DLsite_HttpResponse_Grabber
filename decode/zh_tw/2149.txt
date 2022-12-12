@@ -1,0 +1,200 @@
+article_id:2149
+category_name:公告
+title_name:必中火屬性★5角色！「白金傳說召喚」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「白金傳說召喚」預計將於<span class="local_date" data-local_date="1619762400"></span>起開始舉辦。</div><div>&nbsp;</div><div>「白金傳說召喚」為「10連召喚」的第10發將必中「火屬性★5角色」。</div><div><span style="color: rgb(226, 80, 65);">※火屬性以外的角色‧龍族不會出現於本召喚中。</span></div><div>召喚期間內可進行2次白金傳說召喚的「10連召喚」。</div><div>本召喚僅限使用「龍光鑽石」。</div><div><br></div><div>【白金傳說召喚舉辦期間】</div><div><span class="local_date" data-local_date="1619762400"></span> ～ <span class="local_date" data-local_date="1620885599"></span></div><div><br></div><div>「白金傳說召喚」第10發必中的部分對象火屬性★5角色介紹如下：</div><div><br></div><div>【第10發必中對象火屬性★5角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e6cd8e06daadde191ecef222d553289a.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>742</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>身手矯健的傭兵蘭薩弗，<br>因時空物理魔法實驗而變成了孩童的模樣。<br>雖然身軀變得嬌小，但身經百戰獲得的經驗、<br>重視仁義的男子氣概……以及令旁人<br>目瞪口呆的龐大食量，卻絲毫沒有改變。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c2db8e594e072513922d2af7ebfa68c62.png"></span>
+				<span>奮力揮擊</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予前方敵人傷害，使其陷入「劫火」狀態。</div><div class="skill-detail">威力：1,015 × 1 Hit<br>所需技能點數：3,230<br>所需共享技能點數：8,559<br>特殊效果<br>‧劫火<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41.6</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20f15e05dab3cf33c2c02e36b5f9d8722.png"></span>
+				<span>全壘打宣言</span>
+			</dt>
+			<dd><div>給予自身攻擊力提升氣場。<br>此外，使技能「奮力揮擊」可即時發動，<br>並於下次使用時必定發生爆擊。<br>（同時在此效果與超靈感的狀態下使用技能時，<br>則消費雙方效果使攻擊發生爆擊。）</div><div class="skill-detail">所需技能點數：7,583<br>獲得氣場<br>‧攻擊力提升（爆發氣場上限Lv. 2）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防禦力＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的防禦力提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【火】士氣：攻勢士氣‧攻＋8％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為火屬性，<br>則在攻擊力提升之爆發氣場狀態時，<br>攻擊力提升8％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>強力打者Ⅱ</span></dt><dd><div>爆擊率提升的上限變為10％，<br>但爆擊時的傷害倍率提升40％。<br>（超靈感效果仍可正常發動。）<br>此外，技能「奮力揮擊」發生爆擊時，<br>給予自身攻擊力提升氣場（爆發氣場上限Lv.2）。<br>此效果發動後，1秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cc3f28b7bfce6dfc1ea65f36822cae7f2.png"></span><span>氣場（攻）‧攻擊速度＋8％</span></dt><dd><div>在攻擊力提升氣場狀態時，<br>則攻擊速度提升8％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1e9483eaa06e52ed34baba2d2e8ae9e3.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,499</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>可使用的模式</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/48f0cf6b6186ad0c7fa467c24cc47eea2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/b8a3b3884cac48715702c5bf401cd8b22.png"><img src="https://dragalialost.akamaized.net/attached/information/images/26f43aab3c39a2bcdadd1b40dd88e7402.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>北方伊利亞教會所屬的「使徒」之一。<br>性格嚴謹，總想將任何事都打上分數。<br>與「天使」烏列爾連結著聖痕，<br>為了回應對方的期待<br>而日日努力讓自己變得完美。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/45933deb0335e561b2a5a7d32d03583d2.png"></span>
+				<span>赤焰之彈</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>一般型態<br>給予直線上敵人傷害，使其陷入「劫火」狀態。<br>【聖痕之枷解放】狀態<br>給予直線上敵人傷害，使其陷入「劫火」狀態，<br>並給予其【烏列爾的神罰】效果。<br>【烏列爾的神罰】效果期間中<br>若敵人再次獲得【烏列爾的神罰】，<br>則效果等級上升並強化效果。<br>【烏列爾的神罰】期間結束後則效果等級下降，<br>若於Lv.1時等級下降則解除效果。<br>Lv.1：於15秒之間，攻擊力下降15％。<br>Lv.2：於15秒之間，攻擊力下降20％。<br>Lv.3：於10秒之間，攻擊力下降30％、劫火抗性下降25％。</div><div class="skill-detail">威力：2,709 × 1 Hit<br>所需技能點數：3,810<br>特殊效果<br>‧劫火<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41.6<br><br>（能力效果發動時）<br>威力：1,507 × 2 Hit<br>所需技能點數：3,810<br>所需共享技能點數：13,144<br>特殊效果<br>‧烏列爾的神罰<br>　效果時間：15 秒<br>‧劫火<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41.6</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>賢者學識</span>
+			</dt>
+			<dd><div>給予自身【烏列爾的祝福】。</div><div class="skill-detail">所需技能點數：7,560<br>特殊效果<br>‧烏列爾的祝福<br>　特殊迴避<br>　效果次數：3<br>　不可重複<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>OVERDRIVE削減＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員狀態量條的減少量提升20％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/03585ae11a2b0de283c914026533b3fe2.png"></span>
+				<span>【火】堅守：HP80％‧抗風＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為火屬性，且HP在80％以上時，<br>則風屬性抗性提升6％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>烏列爾的聖約Ⅱ</span></dt><dd><div>一般型態<br>‧任務開始時，給予自身【300秒間，聖痕之枷】減益效果。<br>‧迴避敵方攻擊時，則【聖痕之枷】剩餘時間減少36秒。此效果發動後，10秒間不會再次發動。<br>‧爆發攻擊發生變化，若於長按畫面時受到使用技能可迴避的攻擊，則自動迴避攻擊並給予直線上敵人火屬性傷害，給予其【烏列爾的神罰】效果。<br>【聖痕之枷解放】狀態<br>‧一般型態的效果之外，強化一般攻擊及爆發攻擊，提升威力與技能量條的增加率，此外給予「劫火」狀態中的敵方傷害提升35％。<br>‧在【烏列爾的祝福】狀態時，技能量條的增加率提升12％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠抗性＋100％</span></dt><dd><div>陷入「睡眠」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4fcd5ec5d6fb145301b13016087b14a92.png"></span><span>烏列爾的制裁Ⅱ</span></dt><dd><div>迴避敵方攻擊時，<br>給予發動該攻擊的敵方【烏列爾的神罰】效果。<br>此效果發動後，15秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>【注意事項】</div><div>1.「白金傳說召喚」詳細召喚資訊，請點擊遊戲內下方選單列的「召喚」後，從「白金傳說召喚」的「出現機率」，或於「召喚資訊」中的「詳細」進行確認。</div><div>2. 白金傳說召喚中無法獲得「龍輝之印」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1619589600; update_time1619168328

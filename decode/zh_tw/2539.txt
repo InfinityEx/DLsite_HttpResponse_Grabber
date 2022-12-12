@@ -1,0 +1,293 @@
+article_id:2539
+category_name:公告
+title_name:「失落龍絆日　非凡佳選」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「失落龍絆日　非凡佳選」已於<span class="local_date" data-local_date="1634277600"></span>舉辦中！</div><div><br></div><div>【關於失落龍絆日】 ※包含「失落龍絆日　非凡佳選」</div><div>★5角色、龍族的初始「出現機率」，將由平時的4％上升至6％！</div><div>※如召喚出★5或★5精選，出現機率將會變回初始設定值6％。</div><div><span style="color: rgb(226, 80, 65);">※本次新追加的★5角色「梵斯（風）」和「聖德芬（水）」，在今後的傳說召喚中也會出現。</span></div><div><span style="color: rgb(226, 80, 65);">※過去於「失落龍絆日」中登場的角色也可能於本召喚中登場。登場角色詳細資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</span></div><div><span style="color: rgb(226, 80, 65);">※同時舉辦的「★5必中嗨森☆有獎刮刮樂」及「白金傳說召喚」不包含本召喚中新追加的角色。</span></div><div><br></div><div>【新追加的精選對象之角色】</div><div>■角色</div><div>★5 梵斯：風／魔杖</div><div>★5 聖德芬：水／法杖</div><div><br></div><div>【曾於過去的失落龍絆日中登場的精選對象之角色】</div><div>■角色</div><div>★5 耶魯菲莉絲（龍絆日Ver.）：水／斧</div><div><br></div><div>【失落龍絆日　非凡佳選出現機率】</div><div>★5合計：6.00％</div><div>★5精選 合計：1.50％（角色：1.50％）</div><div>★5一般 合計：4.50％（角色：1.50％ 龍族：3.00％）</div><div>★4一般 合計：16.00％（角色：8.55％ 龍族：7.45％）</div><div>★3一般 合計：78.00％（角色：47.00％ 龍族：31.00％）</div><div><br></div><div>【失落龍絆日　非凡佳選舉辦期間】</div><div><span class="local_date" data-local_date="1634277600"></span> ～ <span class="local_date" data-local_date="1634536799"></span></div><div><br></div><div>精選對象之角色介紹如下。</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/019bc17a1377b764b12c1a8091e508e2.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>748</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>512</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>北方伊利亞教會所屬的「使徒」之一，<br>卻背叛夥伴，企圖讓撒旦復活。<br>冷靜而優秀的工作表現使其受到眾人尊敬。<br>與「天使」米迦勒連結著聖痕，<br>共同步上復仇的道路。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>颶風刺刑</span>
+			</dt>
+			<dd><div>一般型態<br>‧近距模式：給予周圍敵人傷害，<br>並給予敵人【攻擊力下降】效果。<br>此外，給予自身防禦力提升氣場。<br>‧遠距模式：給予目標和其周圍敵人傷害，<br>使其陷入「裂風」狀態。<br><br>【聖痕之枷解放】狀態<br>給予周圍敵人傷害，使其陷入「裂風」狀態，<br>並給予敵人【攻擊力下降】效果。<br>此外，給予自身防禦力提升氣場。</div><div class="skill-detail">（近距模式）<br>威力：1,734 × 1 Hit<br>所需技能點數：3,148<br>特殊效果<br>‧攻擊力下降20％<br>　效果時間：15 秒<br>　不可重複<br>獲得氣場<br>‧防禦力提升（爆發氣場上限Lv. 2）<br><br>（遠距模式）<br>威力：280 × 4 Hit<br>所需技能點數：3,148<br>特殊效果<br>‧裂風<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41<br><br>（【聖痕之枷解放】狀態時）<br>威力：313 × 7 Hit<br>所需技能點數：3,148<br>特殊效果<br>‧攻擊力下降20％<br>　效果時間：15 秒<br>　不可重複<br>‧裂風<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41<br>獲得氣場<br>‧防禦力提升（爆發氣場上限Lv. 2）<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>聖息制裁</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>一般型態<br>‧近距模式：給予前方敵人傷害，<br>並解除其1個增益效果。此外，<br>於自身周圍展開【防禦減益效果領域】。<br>‧遠距模式：給予直線上敵人傷害，<br>使其陷入「裂風」狀態。<br><br>【聖痕之枷解放】狀態<br>給予前方敵人傷害，解除其1個增益效果，<br>並使其陷入「裂風」狀態，<br>再給予敵人【防禦力下降】效果。</div><div class="skill-detail">（近距模式）<br>威力：1,903 × 1 Hit<br>所需技能點數：5,520<br>特殊效果<br>‧防禦力下降5％<br>　效果時間：10 秒<br>‧增益效果解除<br><br>（遠距模式）<br>威力：307 × 5 Hit<br>所需技能點數：5,520<br>特殊效果<br>‧裂風<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：31<br><br>（【聖痕之枷解放】狀態時）<br>威力：453 × 5 Hit<br>所需技能點數：5,520<br>所需共享技能點數：13,413<br>特殊效果<br>‧增益效果解除<br>‧防禦力下降10％<br>　效果時間：10 秒<br>　不可重複<br>‧裂風<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：31</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能傷害＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能傷害提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>【風】連擊：10連擊以上‧抗水＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為風屬性，<br>則連擊數為10次以上時，<br>發動【水屬性抗性提升10％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>米迦勒的聖約Ⅱ</span></dt><dd><div>一般型態<br>‧任務開始時，給予自身<br>【300秒間，聖痕之枷】減益效果。<br>‧每連擊25次時，則【聖痕之枷】剩餘時間<br>減少15秒。此效果發動後，8秒間不會再次發動。<br>‧於自身周圍展開【米迦勒的結界】。<br>當【米迦勒的結界】範圍內有敵人時<br>發動近距模式，沒有敵人時則發動遠距模式。<br>一般攻擊與技能1、技能2將依模式發生變化。<br>‧爆發攻擊發生變化，<br>轉換成給予複數攻擊對象和其周圍敵人傷害。<br>此外，可蓄集3階段，並依階段增加攻擊對象。<br><br>【聖痕之枷解放】狀態<br>‧爆發攻擊再次發生變化，轉換成可蓄集1階段，<br>並可發動與一般型態下蓄集至第3階段時相同效果。<br>‧解除【米迦勒的結界】與近距模式、遠距模式，<br>並使一般攻擊與技能1、技能2發生變化。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span><span>濕身抗性＋100％</span></dt><dd><div>陷入「濕身」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a46ca506488cb69b9c2501d8e22b5a722.png"></span><span>15連擊追擊傷害</span></dt><dd><div>每連擊15次時，給予自身<br>任務中攻擊力30％的【追擊傷害】效果。<br>此效果無法重複。<br>連擊數重置時，解除此增益效果。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/9db4d38d1ef3bcb6e986ab12c0f1cd26.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/b447b332ae5b8139a67d676456ac9aac2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>809</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>467</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,516</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>統率人稱「五大天使」之五位龍族的管理者。<br>性格重視效率，擅長情報處理，<br>擁有與五大天使通信的能力。<br>身為使徒們的上司──柯恩的搭檔，<br>擔負著輔佐指揮系統的責任。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a71db1032873375d560b5ff8f8b83b682.png"></span>
+				<span>天使之讚</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>一般型態<br>回復隊伍全員HP，並持續回復，<br>消費自身1條「SP量條」。<br>此外，依賦予自身的增益效果發動追加效果。<br>‧助攻模式：給予隊伍全員【追擊傷害】效果。<br>‧增強模式：給予自身【高速情報處理】效果。<br><br>天翼解放狀態<br>技能轉換成「天使串擊」，效果如下：<br>給予周圍敵人傷害。<br>此外，自身在【高速情報處理】狀態時，<br>解除1個【高速情報處理】並發動以下效果。<br>可再次發動此技能，回復隊伍全員HP。</div><div class="skill-detail">回復力：80<br>所需技能點數：3,450<br>所需共享技能點數：15,352<br>特殊效果<br>‧HP持續回復<br>　效果時間：15 秒<br>　效果間隔：2.9 秒<br>　效果量：20<br>‧追擊傷害<br>　效果時間：30 秒<br>　效果量：40％<br>　不可重複<br>・高速情報處理<br>　疊加上限：3<br><br>（特殊龍化時）<br>威力：1,329 × 2 Hit<br>回復力：60</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1d28a4afc36416204e64baab4e2e86d52.png"></span>
+				<span>天使之翼</span>
+			</dt>
+			<dd><div>一般型態<br>回復隊伍全員HP，消費自身1條「SP量條」。<br>此外，依賦予自身的增益效果發動追加效果。<br>‧助攻模式：解除隊伍全員的異常狀態，<br>並給予解除狀態之角色【最大HP上升】增益效果。<br>‧增強模式：蓄集自身的天翼解放量條。<br><br>天翼解放狀態<br>技能轉換成「天使入堡」，效果如下：<br>給予周圍敵人傷害，使其陷入「凍傷」狀態。<br>再給予敵人「毒」、「火燒」、「麻痺」、<br>「裂風」、「閃熱」、「暗黑」、「劫火」之中，<br>隨機1種異常狀態。<br>此外，自身在【高速情報處理】狀態時，<br>解除1個【高速情報處理】並發動以下效果。<br>可再次發動此技能，回復隊伍全員HP。</div><div class="skill-detail">回復力：135<br>所需技能點數：3,450<br>特殊效果<br>‧全異常狀態回復<br>‧HP提升30％<br>特殊龍化量條回復量：600<br><br>（特殊龍化時）<br>威力：313 × 7 Hit<br>回復力：50<br>特殊效果<br>‧凍傷<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：31<br>・毒<br>　效果時間：15 秒<br>　效果間隔：2.9 秒<br>　威力：43<br>・火燒<br>　效果時間：12 秒<br>　效果間隔：3.9 秒<br>　威力：72<br>・麻痺<br>　效果時間：13 秒<br>　效果間隔：3.9 秒<br>　威力：72<br>・裂風<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：31<br>・閃熱<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：31<br>・暗黑<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：31<br>・劫火<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：31</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回復技能效果＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的回復技能效果提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span>
+				<span>【水】背水：發狂‧盾Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，<br>則當受到帶有異常狀態的攻擊時，<br>獲得【使最大HP 25％以下的傷害無效化之盾】。<br>此效果發動後，20秒間不會再次發動。<br>盾的效果只限1次，和同種類的盾無法重複。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c30c52a11ae52d13521f26afd498251d2.png"></span><span>繫天聖翼Ⅱ</span></dt><dd><div>①以特殊龍化「天翼解放」取代一般龍化。<br>天翼解放帶有以下效果：<br>‧龍化量條轉換成天翼解放量條。<br>‧量條蓄集至一定程度以上時點擊按鈕，<br>不論裝備任何龍族皆變身為天翼解放型態。<br>‧天翼解放中以一般攻擊命中敵人時，蓄集天翼解放量條。<br>‧天翼解放中再次點擊按鈕或待天翼解放量條耗盡<br>則解除天翼解放。<br>②追加「SP量條」。<br>以一般攻擊或爆發攻擊命中敵人時<br>可累積「SP量條」至最大3階段。<br>③任務開始時，給予自身【助攻模式】增益效果。<br>④爆發攻擊每持續蓄集1.5秒，<br>則自身的增益效果將依<br>【助攻模式】、【增強模式】的順序切換。<br>⑤每次使用技能1、技能2或天翼解放後的<br>技能1、技能2時，給予自身防禦力提升氣場<br>（爆發氣場上限Lv.3）。<br>此效果發動後，20秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span><span>戰況管理者Ⅱ</span></dt><dd><div>回復自身HP時，蓄集自身的天翼解放量條。<br>此效果發動後，10秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>■關於AI角色「聖德芬」的行動</div><div>AI角色「聖德芬」不會進行特殊龍化，但預計將在今後的版本更新中變更為可進行特殊龍化。</div><div>變更後的AI角色「聖德芬」預計會於隊伍全員不需要回復的情況下進行特殊龍化，並在需要回復時解除特殊龍化進行回復。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2f949c780d21ab774fe65bf95bf86a5e.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>516</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>當上首席聖騎士「聖天騎士」的耶魯菲莉絲。<br>其為聖騎職的典範，而她同時也是<br>伊利亞教有史以來最年少登上此座者。<br>換上由聖職者們花費數月傾注祝福的純白鎧甲，<br>耶魯菲莉絲毅然地挺身面對神之敵。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>神聖決策</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>隊伍內所有水屬性角色的攻擊力上升。</div><div class="skill-detail">所需技能點數：4,377<br>所需共享技能點數：15,360<br>特殊效果<br>‧攻擊力提升30％<br>　效果時間：15 秒</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>聖天高揚</span>
+			</dt>
+			<dd><div>給予前方敵人傷害，使自身的【活力】提升。<br>此外，隊伍全員的火屬性抗性上升，<br>並獲得【盾】效果。<br>如果自身為【聖天啟示】狀態時，<br>則此技能將隨時間經過而蓄集。<br>一般型態時，<br>若此技能量條並非100％，<br>則此技能將隨時間經過而技能量條減少。</div><div class="skill-detail">威力：1,343.1 × 3 Hit<br>所需技能點數：隨時間經過而蓄集<br>特殊效果<br>‧盾<br>　效果次數：1<br>　效果量：最大HP的20％<br>‧火屬性抗性提升25％<br>　效果時間：30 秒<br>　不可重複<br>‧活力提升×3<br>　效果次數：1</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防禦力＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的防禦力提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span>
+				<span>【水】連擊：連擊數持續時間延長Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，<br>則最後命中的攻擊至連擊數重置為止的時間延長2.5秒。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/702f9bc9a4f10a2b2e299d654b50ed7d2.png"></span><span>聖天誓言Ⅱ</span></dt><dd><div>使用技能時，<br>或是每連擊10次時，<br>又或是爆發攻擊命中時，<br>給予自身【13秒間，聖天啟示】增益效果。<br>【聖天啟示】不會重複，<br>效果期間不會因為被攻擊而行動中斷。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f3503b7c11dab7e6111611cb63f010c32.png"></span><span>神意加護Ⅱ</span></dt><dd><div>陷入「火燒」、「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>技能連結‧攻＋10％</span></dt><dd><div>玩家操作的角色於技能1可使用時，<br>給予該角色【10秒間，攻擊力提升10％】增益效果。<br>此效果發動後，15秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 精選對象角色在「阿爾貝利亞競技大亂鬥」中可改變角色外觀的「角色造型」將轉為SALE中，並減少解鎖時所需的道具。</div><div>※有部分角色無法解鎖角色造型。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1634277600; update_time1634178003

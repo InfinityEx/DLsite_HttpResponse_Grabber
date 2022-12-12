@@ -1,0 +1,8 @@
+article_id:2889
+category_name:公告
+title_name:「萬花筒迷宮」移動樓層時會發生錯誤並返回標題畫面之異常現象公告【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1645686000"></span>更新】</strong></span><br>於<span class="local_date" data-local_date="1645668000"></span>左右發生的本異常現象已修正完畢。<br><br>造成各位玩家的不便與困擾，營運團隊再次致上最深的歉意。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div><div>各位玩家您好</div><div><br></div><hr><div>經營運團隊確認，自<span class="local_date" data-local_date="1645668000"></span>左右開始，於「萬花筒迷宮」移動樓層時，有可能會顯示「支援代碼：99999」並返回標題畫面。</div><div>※本現象發生後繼續挑戰關卡時，將從最近完成樓層的起點重新開始遊戲。</div><div><br></div><div>如有最新進度，將於本公告更新。</div><div><br></div><div>造成各位玩家的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1645674000; update_time1645687346

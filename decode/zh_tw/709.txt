@@ -1,0 +1,136 @@
+article_id:709
+category_name:公告
+title_name:傳說召喚「飄揚之軍旗‧戰場之風」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>傳說召喚「飄揚之軍旗‧戰場之風」預計將於<span class="local_date" data-local_date="1567231200"></span>起開始舉辦。</div><div><br></div><div>精選對象之角色‧龍族的出現機率將會上升。</div><div><br></div><div>【傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1567231200"></span> ～ <span class="local_date" data-local_date="1568267940"></span></div><div><br></div><div>新追加的部分精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選角色介紹】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1362f53e0e9b49cc4f600b1f98276282.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>781</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>494</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2515</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>聲名遠播的傭兵集團「幻狼傭兵團」團長。<br>因帝國的背叛導致了團隊全滅，<br>使他捨棄一切只為復仇，<br>決心戰鬥到底的孤高男子。<br>傳聞他所經之處，留下的僅有鮮血與火焰。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/53f379e3fec06ed59b0dde4735cb72ce2.png"></span>
+				<span>鋼韌之陣</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人風屬性傷害，<br>使其陷入「刀傷」狀態。<br>命中敵人即發動【技能輪轉】，<br>技能效果將隨階段變化。<br>階段1：追加「於20秒之間<br>隊伍全員的水屬性抗性上升3％」效果。<br>階段2：額外給予隊伍全員<br>【使最大HP 20％以下的傷害無效化之盾】。<br>盾的效果只限1次，和同種類的盾無法重複。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/606183b621fc27f440645ce7a917f7fc2.png"></span>
+				<span>致命計畫</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人風屬性傷害，<br>並給予隊伍全員於15秒之間，<br>「不會因為被攻擊而行動中斷」效果。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻擊力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的攻擊力提升10%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP70％‧攻＋13％</span></dt><dd><div>HP在70％以上時攻擊力提升13％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span><span>濕身抗性＋100％</span></dt><dd><div>陷入「濕身」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span><span>增益效果時間＋30％</span></dt><dd><div>增益效果持續時間提升30％。</div></dd></dl></div></div></div><div>※以上為最高Lv、瑪納之環全數解放時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力而上升的數值。</div><div><br></div><div>【精選龍族介紹】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e20b49c0b42d1a8c0290188e6e8dde4d.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1005</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>周遭纏繞疾風的敏速龍族。<br>以眾多龍族之中名列前茅的速度為傲，<br>所釋放的疾風會化作撕裂空氣的利刃。<br>其粗暴且奔放的性格雖看似蠻橫，<br>但絕不會對弱者出手。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/02e0e90cb54331571331affbe607d6362.png"></span>
+				<span>神我吐息</span>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人風屬性傷害，<br>給予自身【下次使用的技能傷害提升40％】效果。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【風】攻擊力＋20％</span></dt><dd><div>裝備角色如果為風屬性，<br>則裝備角色的攻擊力提升20％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【風】技能傷害＋90％</span></dt><dd><div>裝備角色如果為風屬性，<br>則裝備角色的攻擊技能傷害提升90％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1567144800; update_time1567056776

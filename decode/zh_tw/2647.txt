@@ -1,0 +1,8 @@
+article_id:2647
+category_name:公告
+title_name:無法進行團隊遊戲之異常現象公告【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1638180900"></span>更新】</strong></span></div><div>於<span class="local_date" data-local_date="1637967900"></span>左右發生的本異常現象現已排除。</div><div><br></div><div>造成各位玩家的不便與困擾，營運團隊再次致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div><hr><div>各位玩家您好</div><div><br></div><div>經營運團隊確認，自<span class="local_date" data-local_date="1637967900"></span>左右開始，發生團隊遊戲中會顯示「支援代碼：12」而無法進行遊戲之異常現象。</div><div><br></div><div>本異常現象目前正在進行調查。</div><div>如有最新進度，將於本公告更新。</div><div><br></div><div>造成玩家們的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1637981700; update_time1638239969

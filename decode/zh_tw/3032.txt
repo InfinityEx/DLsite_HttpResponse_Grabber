@@ -1,0 +1,249 @@
+article_id:3032
+category_name:公告
+title_name:「失落龍絆日」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「失落龍絆日」預計將於<span class="local_date" data-local_date="1664431200"></span>起開始舉辦。</div><div><br></div><div>【關於失落龍絆日】※包含「失落龍絆日　非凡佳選」</div><div>★5角色、龍族的初始「出現機率」，將由平時的4％上升至6％！</div><div>※如召喚出★5或★5精選，出現機率將會變回初始設定值6％。</div><div><br></div><div>【精選對象之角色‧龍族】</div><div>■角色</div><div>★5 那姆（龍絆日Ver.）：風／短劍</div><div>★5 蘭薩弗（龍絆日Ver.）：風／劍</div><div><br></div><div>■龍族</div><div>★5 雷鷹‧勇（龍絆日Ver.）：風</div><div><br></div><div>【失落龍絆日舉辦期間】</div><div><span class="local_date" data-local_date="1664431200"></span> ～ <span class="local_date" data-local_date="1664863199"></span></div><div><br></div><div>精選對象之角色‧龍族介紹如下：</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/91b5127967fef4886217cca1423e3d86.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>760</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>499</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>覺醒了妖精真實力量的那姆。<br>由於解放了自身蘊藏的力量，<br>變得能夠隨意改變身體的大小。<br>從此她不再只是受人保護的妖精，<br>而要為了守護重要的友人踏上戰場。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e85e2d5f87af2b9a484d50eb16f8480c2.png"></span>
+				<span>妖精的懲罰</span>
+			</dt>
+			<dd><div>一般型態<br>給予目標和其周圍敵人傷害，<br>並解除其1個增益效果。<br>此外，使用技能時若連擊數為20次以上，<br>則自身的羽化量條就會上升。<br>羽化型態<br>給予周圍敵人傷害，使其陷入「裂風」狀態。</div><div class="skill-detail">威力：107 × 16 Hit<br>所需技能點數：2,620<br>特殊效果<br>‧增益效果解除<br>特殊龍化量條回復量：80<br><br>（特殊龍化時）<br>威力：532 × 5 Hit<br>特殊效果<br>‧裂風<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f966791f17e374d3ea12252d10ee6c462.png"></span>
+				<span>妖精的戲法</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>一般型態<br>給予周圍敵人傷害，並解除其1個增益效果。<br>此攻擊將於一定時間內追蹤目標。<br>此外，使用技能時若連擊數為20次以上，<br>則自身的羽化量條就會上升。<br>羽化型態<br>給予周圍敵人傷害，並額外給予直線上敵人傷害。</div><div class="skill-detail">威力：82 × 30 Hit<br>所需技能點數：5,240<br>所需共享技能點數：8,279<br>特殊效果<br>‧增益效果解除<br>特殊龍化量條回復量：150<br><br>（特殊龍化時）<br>威力：700 × 2 Hit<br>威力：1,092 × 1 Hit<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>爆擊率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的爆擊率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span>
+				<span>【風】連擊：連擊‧龍化蓄集Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為風屬性，<br>則每連擊50次時，龍化量條提升3％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6520d144b623d2b7b6131329914ae1a62.png"></span><span>「羽化」秘術Ⅱ</span></dt><dd><div>以特殊龍化「羽化」取代一般龍化。<br>羽化帶有以下效果：<br>‧龍化量條轉換成羽化量條。<br>‧量條蓄集至一定程度以上時點擊按鈕，<br>不論裝備任何龍族皆變身為羽化型態。<br>‧羽化中再次點擊按鈕或待羽化量條耗盡則解除羽化。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/857a2a2fdbc31b188c91fbd6f6eca6b32.png"></span><span>妖精加護Ⅱ</span></dt><dd><div>陷入「凍結」、「濕身」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾風怒濤‧攻＋20％</span></dt><dd><div>連擊數為15次以上時攻擊力提升20％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※原有技能與共享技能的部分效果可能有差異。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/874e38c9c7ea2c479a99afdc8f3230b4.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>755</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>504</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>成為新阿爾貝利亞王國戰鬥隊長的蘭薩弗。<br>換上夥伴為自己新製的鎧甲，武器也從<br>傭兵時代的斧換成了劍。雖然粗野性格依舊，<br>但卻多了身為統領者的威嚴與風度。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>颶風斬擊</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予目標和其周圍敵人傷害。</div><div class="skill-detail">威力：303.6 × 6 Hit<br>所需技能點數：2,661<br>所需共享技能點數：9,579<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/862d02981336441f770826c64d15b0162.png"></span>
+				<span>旋風戰術</span>
+			</dt>
+			<dd><div>發動【風纏劍】。<br>強化自身的爆發攻擊，隊伍全員的防禦力上升。<br>受到強化的爆發攻擊將轉換成【三連飛劍】，<br>可進行遠程攻擊。</div><div class="skill-detail">所需技能點數：5,800<br>特殊效果<br>‧防禦力提升10％<br>　效果時間：10 秒<br>‧風纏劍<br>　效果次數：3<br>　不可重複<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龍化累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的龍化量條增加率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>【風】守勢：守護之鏈‧爆擊＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為風屬性，<br>則獲得防禦力提升增益效果時，<br>發動【15秒間，爆擊率提升10％】增益效果。<br>此效果發動後，15秒間不會再次發動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>百戰功績Ⅱ</span></dt><dd><div>追加攻擊量條與爆發量條。<br>當量條蓄滿時，依蓄滿的量條數提升防禦力，<br>使用技能「颶風斬擊」時將消費全滿的量條以提升威力。<br>攻擊量條：於一般攻擊命中敵方時蓄集。<br>爆發量條：於爆發攻擊命中敵方時蓄集。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/857a2a2fdbc31b188c91fbd6f6eca6b32.png"></span><span>鐵壁霸氣Ⅱ</span></dt><dd><div>陷入「凍結」、「濕身」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能傷害＋30％</span></dt><dd><div>攻擊技能傷害提升30％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※原有技能與共享技能的部分效果可能有差異。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/38805e42c16889edb531e2a2fd99985f.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>受平原民族信仰的龍族‧雷鷹重獲新生之姿。<br>因堅毅且不屈的壯士意志而得以<br>從瘴氣中解放，免受其侵蝕。<br>個性依舊小心仔細且處事謹慎，<br>但胸中懷抱著不懼變化的強大意志。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>平原猛威</span>
+			</dt>
+			<dd><div>給予目標和其周圍敵人傷害。<br>若將敵方設為目標，<br>並於非技能使用途中的情況下龍化時間歸零，<br>則此技能將會自動發動。<br>此效果即使技能量條尚未蓄滿仍會發動。</div><div class="skill-detail">威力：1,923 × 1 Hit<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【風】攻擊力＋70％</span></dt><dd><div>裝備角色如果為風屬性，<br>則裝備角色的攻擊力提升70％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/65863989132db80658f5d919573c14e92.png"></span><span>【風】悠原之猛Ⅱ</span></dt><dd><div>裝備角色如果為風屬性，<br>則龍化量條每提升10％時，給予自身<br>【45秒間，攻擊水屬性與無屬性敵人時<br>傷害倍率提升30％】增益效果。<br>此效果無法重複，發動後5秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為Lv.100、上限解放4階段、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 精選對象角色在「阿爾貝利亞競技大亂鬥」中可改變角色外觀的「角色造型」將轉為SALE中，並減少解鎖時所需的道具。</div><div>※有部分角色無法解鎖角色造型。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1664344800; update_time1648636074

@@ -1,0 +1,8 @@
+article_id:107
+category_name:公告
+title_name:角色「路恩」技能說明錯誤公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，角色「路恩」的技能「風啊，加護於吾等！」之說明有誤。</div><div>技能說明已於<span class="local_date" data-local_date="1542865200"></span>的資料更新中進行下列修正。</div><div><br></div><div>修正後：</div><div>‧Lv1：最大HP於任務期間上升5％。</div><div>‧Lv2：最大HP於任務期間上升10％。</div><div><br></div><div>修正前：</div><div>‧Lv1：「自身的」最大HP於任務期間上升5％。</div><div>‧Lv2：「自身的」最大HP於任務期間上升10％。</div><div><br></div><div>造成各位玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1542865200; update_time1542865851

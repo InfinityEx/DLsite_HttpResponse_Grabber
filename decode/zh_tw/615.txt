@@ -1,0 +1,8 @@
+article_id:615
+category_name:公告
+title_name:真‧龍族的試煉即將追加「真‧朱庇特的試煉」！
+image_path:https://dragalialost.akamaized.net/attached/information/images/20ffecb96096bc833948db84ab17455a.png
+
+message:<div>各位玩家您好</div><div><br></div><div>最高難度的活動任務「真‧龍族的試煉」即將於<span class="local_date" data-local_date="1564120800"></span>追加新內容「真‧朱庇特的試煉」！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/20ffecb96096bc833948db84ab17455a.png"></div><div>輝龍朱庇特解放隱藏力量後的姿態。</div><div>滿溢自全身的莫大瑪納在大氣之中相互碰撞，故常有閃光掠過其身。</div><div>他放出的雷擊轟聲震天，並具絕大的破壞力，因此被人們畏為「天降怒鎚」。</div><div><br></div><div>【注意事項】</div><div>1. 挑戰「真‧朱庇特的試煉」，隊伍戰力須為13000以上。</div><div>2. 挑戰「真‧朱庇特的試煉」，須先完成「朱庇特的試煉 超級」。</div><div>3. 參加團隊遊戲，須先完成主線劇情第2章 2-1(Normal)。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1563861600; update_time1569486373

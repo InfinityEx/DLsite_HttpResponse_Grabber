@@ -1,0 +1,8 @@
+article_id:2830
+category_name:活動
+title_name:活動【復刻】「迎擊戰～「我」與「我」的共同戰線～」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/0246c936c76cf376babac29041c60ae6.png
+
+message:<div>各位玩家您好</div><div><br></div><div>活動【復刻】「迎擊戰～「我」與「我」的共同戰線～」預計將於<span class="local_date" data-local_date="1646892000"></span>起開始舉辦。</div><div>【復刻】「迎擊戰～「我」與「我」的共同戰線～」為在據點迎擊眾多敵人的迎擊戰活動！</div><div>本活動中將可獲得用來解鎖共享技能和回復能量的道具，敬請踴躍參加！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/0246c936c76cf376babac29041c60ae6.png"></div><div><br></div><div>■注意事項</div><div>若要參加活動任務，須完成主線劇情第2章2-1（Normal）。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1646373600; update_time1644305742

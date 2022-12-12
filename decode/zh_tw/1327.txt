@@ -1,0 +1,8 @@
+article_id:1327
+category_name:公告
+title_name:主線劇情第13章「闇黑歸來之人」追加新劇情！
+image_path:https://dragalialost.akamaized.net/attached/information/images/f9648f05b229c5376e25b049d135ea4a.png
+
+message:<div>各位玩家您好</div><div><br></div><div>主線劇情第13章「闇黑歸來之人」已於<span class="local_date" data-local_date="1590127200"></span>追加新劇情！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/f9648f05b229c5376e25b049d135ea4a.png"></div><div>趁路弗‧特修加德魯擄走伊利亞教的主教之際，雪爾希爾成功潛入某座教堂。</div><div>然而出現在翻找著王家歷史古書及書信的雪爾希爾面前的，卻是名意外人物――</div><div><br></div><div>敬請期待最新劇情！</div><div><br></div><div>■注意事項</div><div>‧如要進行主線劇情第13章「闇黑歸來之人」追加的新劇情，需完成主線劇情第13章5-6「決斷」。</div><div>‧追加的新劇情並非全語音。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆</div>
+
+start_time:1590127200; update_time1589539116

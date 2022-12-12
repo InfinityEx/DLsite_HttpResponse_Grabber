@@ -1,0 +1,8 @@
+article_id:2230
+category_name:活動
+title_name:活動「迎擊戰～神佑之翼～」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/9d902e70a8321efa17df53f3f033e706.png
+
+message:<div>各位玩家您好</div><div><br></div><div>活動「迎擊戰～神佑之翼～」預計將於<span class="local_date" data-local_date="1623391200"></span>起開始舉辦。</div><div>「迎擊戰～神佑之翼～」為在據點迎擊眾多敵人的迎擊戰活動！</div><div>本活動中將可獲得用來解鎖共享技能和回復能量的道具，敬請踴躍參加！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/9d902e70a8321efa17df53f3f033e706.png"></div><div><br></div><div>■注意事項</div><div>如要參加活動任務，須完成主線劇情第2章 2-1（Normal）。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1623218400; update_time1622086936

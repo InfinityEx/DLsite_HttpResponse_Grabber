@@ -1,0 +1,8 @@
+article_id:74
+category_name:公告
+title_name:與活動BOSS「暴風之石」戰鬥途中無法進行遊戲的異常現象公告【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，在「暴風之石討伐戦」中出現了活動BOSS「暴風之石」使用「軌道感應炮」後有可能出現無法繼續進行遊戲的異常現象。</div><div>※已確認所有的難易度都會出現本異常現象。</div><div><br></div><div>關於本異常現象，營運團隊正在進行調査。</div><div>最新進度將於本公告進行更新。</div><div>造成全體玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1540989600"></span>更新</strong></span><br>經營運團隊調查，只要重新啟動遊戲就有可能排解本現象。<br>關於本異常現象的發生原因目前仍持續調査中。<br>最新進度將於本公告進行更新。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1540979100; update_time1542364217

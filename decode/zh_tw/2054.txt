@@ -1,0 +1,8 @@
+article_id:2054
+category_name:活動
+title_name:「雪爾希爾叛逆戰」即將追加新難易度「絕級」！
+image_path:https://dragalialost.akamaized.net/attached/information/images/d080cd8b0ff13cb17407f4d4f1942986.png
+
+message:<div>各位玩家您好</div><div><br></div><div>與新勢力強敵對戰的高難度任務「咢牙叛逆戰」的「雪爾希爾叛逆戰」將於<span class="local_date" data-local_date="1616738400"></span>起追加新難易度「絕級」。</div><div><br></div><div>「雪爾希爾叛逆戰 絕級」為風屬性角色‧龍族限定任務。</div><div>完成任務即可獲得更進一步精煉稀有度「★6」風屬性武器時所需的素材道具！</div><div>「咢牙系列」武器的精煉達到第2階段時，武器外觀將產生變化！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/d080cd8b0ff13cb17407f4d4f1942986.png"></div><div>咢牙──對荒謬的現實感到絕望。</div><div>咢牙──對陳腐的欺瞞感到絕望。</div><div>咢牙──對虛偽的救贖感到絕望。</div><div>咢牙──露出了充滿憐憫和蔑視的嘲笑，</div><div>將宣揚虛偽正義的愚者推入絕望的深淵。</div><div>絕望冷笑的雙翼之名正是──雪爾希爾。</div><div><br></div><div>■復活次數與復活加成調整</div><div>復活次數與復活加成將於<span class="local_date" data-local_date="1616738400"></span>起進行調整。</div><div>「雪爾希爾叛逆戰 超級」的復活次數調整為1次，追加復活加成。</div><div>「雪爾希爾叛逆戰 高級」的復活次數調整為2次，變更復活加成。</div><div>「雪爾希爾叛逆戰 中級」的復活次數調整為3次，變更復活加成。</div><div><br></div><div>【注意事項】</div><div>1. 如要參加「咢牙叛逆戰」，須先完成主線劇情第10章6-3(Normal)，並完成任一項「真‧龍族的試煉 中級【單人】」或「真‧龍族的試煉 中級【團隊】」。</div><div>2. 如要參加「雪爾希爾叛逆戰 絕級【單人】」，須先完成「咢牙叛逆戰 超級【單人】」或「咢牙叛逆戰 超級【團隊】」。</div><div>3. 如要參加「雪爾希爾叛逆戰 絕級【團隊】」，須先完成「咢牙叛逆戰 超級【單人】」或「咢牙叛逆戰 超級【團隊】」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1616133600; update_time1616116879

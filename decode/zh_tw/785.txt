@@ -1,0 +1,8 @@
+article_id:785
+category_name:公告
+title_name:於聖城建設「訓練場」提升戰力吧！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>配合遊戲一週年，營運團隊將會依序贈送有助於建設和升級「訓練場」的道具給各位玩家。</div><div><br></div><div>在聖城建設各武器的「訓練場」，可提升對應武器種類角色的「HP」和「攻擊力」。</div><div><br></div><div>各武器的｢訓練場｣可於主頁面的「商店」＞「交換所」＞「狄亞內魯帝國迎擊戰」中交換。</div><div>※需完成主線劇情第6章。</div><div>※可交換的數量有上限。</div><div><br></div><div>建設並升級「訓練場」來強化隊伍吧！</div><div><br></div><div>■禮物內容</div><div>狄亞內魯金幣&times;100</div><div>狄亞內魯銀幣&times;200</div><div>狄亞內魯銅幣&times;300</div><div>盧比&times;1000000</div><div><br></div><div>■贈送對象</div><div>於<span class="local_date" data-local_date="1569996000"></span>前開始遊戲的玩家</div><div><br></div><div>道具領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1569996000; update_time1570010939

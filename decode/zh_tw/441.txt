@@ -1,0 +1,8 @@
+article_id:441
+category_name:公告
+title_name:戰力顯示與實際數值不符的異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，遊戲中發生了隊伍編制畫面中所顯示的實際戰力值，與遊戲伺服器上所保存的戰力值不同的異常現象。</div><div><br></div><div>若發生以下情況，請嘗試在編制隊伍時替換武器、龍輝護符和龍族。</div><div><br></div><div>■現象</div><div>‧隊伍戰力比必須戰力還要高，卻無法開始任務</div><div>‧在與戰力有關的Mission中，隊伍戰力比所記載的戰力要高卻無法達成Mission</div><div><br></div><div>關於本異常現象之最新進度，將於本公告進行更新。</div><div><br></div><div>造成全體玩家的不便，營運團隊在此致上最深的歉意。</div><div>&nbsp;</div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1556290500; update_time1556296522

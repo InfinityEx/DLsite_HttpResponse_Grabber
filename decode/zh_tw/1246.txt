@@ -1,0 +1,8 @@
+article_id:1246
+category_name:活動
+title_name:活動【復刻】「FIRE EMBLEM 彼此相連的世界」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/f7e5b0f6b358d6f48d2d12cb4776a8bf.png
+
+message:<div>各位玩家您好</div><div><br></div><div>活動【復刻】「FIRE EMBLEM 彼此相連的世界」預計將於<span class="local_date" data-local_date="1587362400"></span>起開始舉辦。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/e125c03e084bb2276cbb0255ee07df3d.png"></div><div><br></div><div>異世界的英雄們降臨失落龍絆的世界！</div><div>陷入激戰的兩位王子。</div><div>針鋒相對的【啟門之力】與【龍之血】。</div><div>另外，妖豔使者也引領大軍直逼而來。</div><div>交錯的意志，究竟會引領世界走向何方──</div><div><br></div><div>■活動期間</div><div><span class="local_date" data-local_date="1587362400"></span> ～ <span class="local_date" data-local_date="1589263199"></span></div><div><br></div><div>■注意事項</div><div>1. 如要參加活動任務，需完成主線劇情第2章 2-1（Normal）。</div><div>2. 如要參加團隊遊戲，需完成主線劇情第2章 2-1（Normal）。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1587103200; update_time1587031473

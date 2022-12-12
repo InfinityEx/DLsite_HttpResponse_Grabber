@@ -1,0 +1,8 @@
+article_id:1367
+category_name:活動
+title_name:活動【迎擊戰～「我」與「我」的共同戰線～】舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/0246c936c76cf376babac29041c60ae6.png
+
+message:<div>各位玩家您好</div><div><br></div><div>活動【迎擊戰～「我」與「我」的共同戰線～】預計將於<span class="local_date" data-local_date="1591941600"></span>起開始舉辦。</div><div><br></div><div>【迎擊戰～「我」與「我」的共同戰線～】為在據點迎擊來襲眾多敵人的單人模式專用活動。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/0246c936c76cf376babac29041c60ae6.png"></div><div><br></div><div>新阿爾貝利亞王國的某個邊境，</div><div>遭到了狄亞內魯帝國的進攻！</div><div>集結的戰士，以各自的理由</div><div>祈願守護那片土地的兩位少女──</div><div>娜汀與里娜尋。</div><div>而在戰況持續激烈的阿爾貝利亞，</div><div>現在，能守護那片土地的僅有你們&hellip;&hellip;！</div><div><br></div><div>■注意事項</div><div>如要參加活動任務，需完成主線劇情第2章 2-1（Normal）。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1591768800; update_time1591084103

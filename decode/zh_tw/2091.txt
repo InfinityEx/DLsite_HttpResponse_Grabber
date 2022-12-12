@@ -1,0 +1,8 @@
+article_id:2091
+category_name:公告
+title_name:減益效果「虛無咒縛」名稱變更公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>部分BOSS使用的「虛無咒縛」名稱已在<span class="local_date" data-local_date="1617775200"></span>左右實施的資料更新中進行變更。</div><div>※效果不變。</div><div><br></div><div>變更前：虛無咒縛</div><div>變更後：虛無</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1617775200; update_time1617787958

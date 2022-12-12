@@ -1,0 +1,8 @@
+article_id:2153
+category_name:公告
+title_name:角色「梅兒莎（萬聖節Ver.）」的能力「復活HP提升Ⅰ／Ⅱ」相關公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>角色「梅兒莎（萬聖節Ver.）」的能力「復活HP提升Ⅰ」和「復活HP提升Ⅱ」預計將於<span class="local_date" data-local_date="1619762400"></span>左右實施的資料更新中進行以下修正。</div><div>※「復活HP提升Ⅰ」和「復活HP提升Ⅱ」的實際效果不變。</div><div><br></div><div>■變更前</div><div>復活HP提升Ⅰ：復活時，以HP60％的狀態復活。此效果每場任務最多可發動1次。</div><div>復活HP提升Ⅱ：復活時，以HP80％的狀態復活。此效果每場任務最多可發動1次。</div><div><br></div><div>■變更後</div><div>復活HP提升Ⅰ：復活時，以剩餘HP＋30％的狀態復活。此效果每場任務最多可發動1次。</div><div>復活HP提升Ⅱ：復活時，以剩餘HP＋50％的狀態復活。此效果每場任務最多可發動1次。</div><div><br></div><div>配合上述變更，遊戲說明中「任務」項目的「復活」部分說明將修正如下。</div><div>※復活時的HP不變。</div><div><br></div><div>■變更前</div><div>復活時，將會在HP非全滿的狀態下復活。</div><div><br></div><div>■變更後</div><div>復活時，將會在剩餘HP為30％的狀態下復活。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1619589600; update_time1619418428

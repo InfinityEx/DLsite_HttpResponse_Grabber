@@ -1,0 +1,8 @@
+article_id:682
+category_name:公告
+title_name:配合召喚舉辦‧贈送「10連召喚券」好禮！【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1566370800"></span>更新</strong></span></div><div>由於原公告內文有誤，因此暫時撤除並修正後，再次刊載如下。</div><div><br></div><div>■修正內容</div><div>錯誤：已贈送</div><div>正確：依序贈送</div><div><br></div><div>造成全體玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><hr><div>配合傳說召喚舉辦，營運團隊將依序贈送「10連召喚券」給各位玩家！</div><div>希望可以於現正舉辦中的「Melodious Summer♪　精選」，以及即將舉辦的「薔薇盛綻之緋紅情人節」中助您一臂之力 ！</div><div><br></div><div>■禮物內容</div><div>10連召喚券 1張</div><div><br></div><div>■贈送對象</div><div>於<span class="local_date" data-local_date="1566367200"></span>前開始遊戲的玩家。</div><div><br></div><div>贈送的「10連召喚券」請至獎勵箱領取。</div><div>領取期限為<span class="local_date" data-local_date="1566971999"></span>為止。</div><div><br></div><div>※本次贈送的10連召喚券之使用期限為領取後30天以內。</div><div>※進行召喚時，會優先消費設有使用期限的10連召喚券。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1566367200; update_time1569481054

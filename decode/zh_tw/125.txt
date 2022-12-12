@@ -1,0 +1,8 @@
+article_id:125
+category_name:公告
+title_name:進行帳號連動時顯示「內容有誤」的異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，使用未與遊戲【Dragalia Lost ～失落的龍絆～】帳號連動的Nintendo Account進行帳號連動時，</div><div>有可能會顯示「內容有誤」，導致無法順利完成帳號連動的異常現象。</div><div><br></div><div>若發生本異常現象，請將遊戲的顯示語言變更成「繁體字以外」的語言，</div><div>然後再次變更回「繁體字」，即可正常進行帳號連動。</div><div><br></div><div>下列為「繁體字」&rarr;「英文」和「英文」&rarr;「繁體字」的變更步驟範例。</div><div><br></div><div>■「繁體字」&rarr;「英文」的變更方法</div><div>1. 點擊遊戲標題畫面右下方的「選單」。</div><div>2. 點擊「言語設定」。</div><div>3. 點擊「變更」。</div><div>4. 選擇「English」。</div><div>5. 點擊「Confirm」。</div><div>6. 再次點擊「Confirm」。即可將語言變更成「英文」。</div><div><br></div><div>■「英文」&rarr;「繁體字」的變更方法</div><div>1. 點擊遊戲標題畫面右下方的「Help」。</div><div>2. 點擊「Set Language」。</div><div>3. 點擊「Change」。</div><div>4. 選擇「繁體字」。</div><div>5. 點擊「OK」。</div><div>6. 再次點擊「OK」，即可將語言變更成「繁體字」。</div><div><br></div><div>關於本異常現象，營運團隊正在進行調査。</div><div>最新進度將於本公告進行更新。</div><div><br></div><div>造成全體玩家的不便，營運團隊在此致上最深的歉意。</div><div>&nbsp;</div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1543491000; update_time1543491402

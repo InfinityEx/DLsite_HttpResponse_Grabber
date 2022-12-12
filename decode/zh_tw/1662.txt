@@ -1,0 +1,8 @@
+article_id:1662
+category_name:活動
+title_name:團體活動「失落的歷史～被遺落的真相～」解鎖劇情第9話和ULTIMATE！
+image_path:https://dragalialost.akamaized.net/attached/information/images/4e93cff52f6cf920999831ae380efecc.png
+
+message:<div>各位玩家您好</div><div><br></div><div>團體活動「失落的歷史～被遺落的真相～」將於<span class="local_date" data-local_date="1601877600"></span>解鎖劇情第9話和團體戰的「ULTIMATE」。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/4e93cff52f6cf920999831ae380efecc.png"></div><div>■關於ULTIMATE<br><br>如要挑戰難易度「ULTIMATE」，需完成團體戰難易度「HELL」，<br>以及閱讀劇情第9話後解鎖的任務「封魔戰爭　─決戰─」。<br><br>此外，解鎖「ULTIMATE」需要獲得活動道具「異界之鑰」3個。<br>「異界之鑰」則可於「敢銅勳章」、「鉑銀勳章」、「王金勳章」的勳章獎勵中，分別獲得一個。<br><br>‧「ULTIMATE &nbsp;單人 Lv.1 」<br>單人模式專用任務。<br>完成團體戰難易度「HELL」和任務「封魔戰爭　─決戰─」即可解鎖。<br><br>‧「ULTIMATE &nbsp;團隊 Lv.1」<br>團隊模式專用任務。<br>完成「ULTIMATE &nbsp;單人 Lv.1」即可解鎖。<br><br>‧「ULTIMATE &nbsp;單人 Lv.2」<br>單人模式專用任務。<br>完成「ULTIMATE &nbsp;團隊 Lv.1」即可解鎖。<br><br>‧「ULTIMATE &nbsp;團隊 Lv.2」<br>團隊模式專用任務。<br>完成「ULTIMATE &nbsp;單人 Lv.2」即可解鎖。<br><br>‧「ULTIMATE &nbsp;單人 Lv.3」<br>單人模式專用任務。<br>完成「ULTIMATE &nbsp;團隊 Lv.2」即可解鎖。<br><br>‧「ULTIMATE &nbsp;團隊 Lv.3」<br>團隊模式專用任務。<br>完成「ULTIMATE &nbsp;單人 Lv.3」即可解鎖。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/eb2884fce87bd51b46ecbec1c60150dd.png"></div><div>閱讀劇情第9話後解鎖的任務「封魔戰爭　─決戰─」和各ULTIMATE任務中會追加「瘴氣量條」系統。<br>「瘴氣量條」達MAX後，摩特米塞亞將變得更加暴虐。使用任務技能「聖閃」，削減瘴氣量條吧！<br><br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1601877600; update_time1601621967

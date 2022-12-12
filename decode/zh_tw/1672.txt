@@ -1,0 +1,8 @@
+article_id:1672
+category_name:公告
+title_name:主線劇情相關Mission無法達成之異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認在更新至版本2.0.0後，可能會發生主線劇情相關特定Misson無法達成的異常現象。</div><div>本異常現象已修正完畢，Mission已可正常達成。</div><div><br></div><div>■異常現象發生期間無法達成的Misson</div><div>‧第12章 1-2　</div><div>獲得無屬性★5初始系列武器吧</div><div><br></div><div>‧第12章 4-3</div><div>獲得水屬性★5初始系列武器吧</div><div><br></div><div>‧第14章 4-6</div><div>獲得★5火屬性的火山奇美拉武器吧</div><div><br></div><div>‧第14章 4-8</div><div>將★5火屬性的火山奇美拉武器進行武器精煉吧</div><div><br></div><div>造成各位玩家的不便與困擾，在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1601964000; update_time1601964257

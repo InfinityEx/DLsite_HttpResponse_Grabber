@@ -1,0 +1,8 @@
+article_id:64
+category_name:公告
+title_name:「共鬥之翼」最大値和持有上限數變更之補償公告【更新】
+image_path:
+
+message:<div>於<span class="local_date" data-local_date="1540879200"></span>左右進行調整的「共鬥之翼」回復量，已修正成以下內容。</div><div><br></div><div>・Lv提升時回復的共鬥之翼從6調整至12。</div><div>・使用龍光鑽石或龍輝晶石進行回復的共鬥之翼從6調整至12。</div><div>・每日充值組合包回復的共鬥之翼從6調整至12。</div><div><br></div><div>營運團隊將會根據本次變更對受到影響的玩家發送對應的「靈鳥的聖灰」做為補償。</div><div><br></div><div>‧本次變更前，Lv提升時回復之數量</div><div>‧本次變更前，使用龍光鑽石或龍輝晶石進行回復之數量</div><div>‧本次變更前，每日充值組合包所回復的數量</div><div><br></div><div>補償道具預計於2018/10/31（三）之後進行發送。</div><div>發送完畢後，將於本公告內另行更新。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1540956600"></span>更新</strong></span><br>本次補償已於<span class="local_date" data-local_date="1540953000"></span>完成發送<br><br>補償道具請至「獎勵箱」領取。<br>本次贈送的獎勵領取期限為<span class="local_date" data-local_date="1541656799"></span></div>
+
+start_time:1540879200; update_time1542363904

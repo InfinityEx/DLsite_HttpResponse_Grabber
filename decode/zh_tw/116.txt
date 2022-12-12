@@ -1,0 +1,8 @@
+article_id:116
+category_name:版本更新
+title_name:強制更新日期變更公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>於11/26所公開的「版本更新公告（版本1.2.0）」一文中所提及，</div><div>原定於<span class="local_date" data-local_date="1543374000"></span>進行的版本1.2.0強制更新已取消，</div><div>預計將會延期至下一次版本更新時進行。</div><div>詳細內容請參考以下說明。</div><div><br></div><div>■強制更新預計實施日期</div><div><span class="local_date" data-local_date="1543546800"></span>左右</div><div><br></div><div>■延期理由</div><div>真‧耶夢加得「暴風追擊」攻擊之異常現象</div><div><br></div><div><br></div><div>造成全體玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1543303800; update_time1543909991

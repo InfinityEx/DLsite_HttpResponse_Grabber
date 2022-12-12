@@ -1,0 +1,8 @@
+article_id:223
+category_name:公告
+title_name:感謝玩家支持的特別贈禮！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>非常感謝許多玩家親自蒞臨於上週末舉辦的</div><div>「鬪會議2019（日本地區活動）」與「2019台北國際電玩展」失落龍絆攤位給予支持與鼓勵。</div><div><br></div><div>為了感謝玩家們平日對「Dragalia Lost ～失落的龍絆～」的熱情支持，</div><div>營運團隊已贈送禮物如下。</div><div>希望能為您的冒險之路提供協助！</div><div><br></div><div>■禮物內容</div><div>龍輝晶石1500個</div><div><br></div><div>■贈送對象</div><div>於<span class="local_date" data-local_date="1548658800"></span>前進行遊戲的玩家。</div><div><br></div><div>至<span class="local_date" data-local_date="1549263599"></span>前登入遊戲即可領取道具。</div><div>領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div><br></div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1548658800; update_time1548667254

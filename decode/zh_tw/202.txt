@@ -1,0 +1,8 @@
+article_id:202
+category_name:公告
+title_name:資料更新未正常反映之異常現象公告【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，因為資料更新時出現異常，</div><div>導致預計於<span class="local_date" data-local_date="1547100000"></span>開始的召喚「失落龍絆日」、「狄亞內魯帝國迎擊戰能量消費減半活動」、「光屬性角色強化活動」未能正常開始舉行。</div><div><br></div><div>本異常現象已於<span class="local_date" data-local_date="1547100600"></span>進行的資料更新中排解。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1547107200"></span> 更新</strong></span><br>本異常現象發生期間，狄亞內魯帝國迎擊戰火、風、闇並未正常顯示「能量消費1/2」。<br>在此向各位玩家報告調查結果。<br><br>經營運團隊確認，「狄亞內魯帝國迎擊戰能量消費減半活動」雖未顯示「能量消費1/2」，<br>但從<span class="local_date" data-local_date="1547100000"></span>起，所消費的體力已正常減半。<br><br>造成各位玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1547101680; update_time1549535503

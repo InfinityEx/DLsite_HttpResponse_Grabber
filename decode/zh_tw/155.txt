@@ -1,0 +1,8 @@
+article_id:155
+category_name:公告
+title_name:年末感謝登入獎勵舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>於<span class="local_date" data-local_date="1545026400"></span>起，開始舉辦「年末感謝登入獎勵」活動。</div><div>&nbsp;<img src="https://dragalialost.akamaized.net/attached/information/images/b2a0e8778969b7b06e2e7961ecd1103d.png"></div><div>至<span class="local_date" data-local_date="1546322399"></span>期間中，每天登入遊戲皆可獲得龍輝晶石100個！</div><div>最高共可獲得龍輝晶石1500個。</div><div><br></div><div>■舉辦期間</div><div>・前半</div><div><span class="local_date" data-local_date="1545026400"></span> ～ <span class="local_date" data-local_date="1545631199"></span></div><div>・後半</div><div><span class="local_date" data-local_date="1545631200"></span> ～ <span class="local_date" data-local_date="1546322399"></span></div><div><br></div><div>■注意事項</div><div>1. 登入獎勵於每日14:00以後登入遊戲時，將發送至獎勵箱。</div><div>2. 登入獎勵贈送的得龍輝晶石有領取期限，敬請留意。</div><div>3. 「年末感謝登入獎勵」的活動內容與舉辦期間，可能會在無預先告知下進行變更，敬請見諒。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>&nbsp;</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1545026400; update_time1547531410

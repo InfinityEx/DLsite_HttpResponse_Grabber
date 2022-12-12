@@ -1,0 +1,8 @@
+article_id:267
+category_name:公告
+title_name:新增營運國家／地區慶祝活動舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>為慶祝「Dragalia Lost ～失落的龍絆～」新增營運國家／地區，</div><div>已於<span class="local_date" data-local_date="1551160800"></span>開始舉行慶祝活動！</div><div><br></div><div>同時，從<span class="local_date" data-local_date="1551160800"></span>開始，「通往成長之道」的每日獎勵將會加入「瑪納」！</div><div>※本活動結束後，「通往成長之道」的每日獎勵中仍可獲得「瑪納」。</div><div><br></div><div>無論是一直以來支持著失落龍絆的玩家，還是新加入遊戲的玩家，</div><div>把握本次活動的機會來強化隊伍吧！</div><div><br></div><div>新增營運國家／地區慶祝活動詳細內容如下。</div><div><br></div><div>■詳細</div><div>活動期間內，「通往成長之道」的每日獎勵將變成2倍！</div><div>若是在「2倍獎勵組合包」效果期間內，「通往成長之道」的每日獎勵將會變成4倍！</div><div><br></div><div>■活動期間</div><div><span class="local_date" data-local_date="1551160800"></span> ～ <span class="local_date" data-local_date="1552024799"></span></div><div>&nbsp;</div><div>&nbsp;</div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1551160800; update_time1551160882

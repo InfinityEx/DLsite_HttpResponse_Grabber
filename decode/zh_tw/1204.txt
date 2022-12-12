@@ -1,0 +1,8 @@
+article_id:1204
+category_name:版本更新
+title_name:版本更新公告【更新】
+image_path:
+
+message:<div>為修正部分異常現象，版本1.18.2已於<span class="local_date" data-local_date="1585623600"></span>左右公開。</div><div>此外，強制更新預計將於<span class="local_date" data-local_date="1585710000"></span>左右實施。</div><div>造成各位玩家的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>■注意事項</div><div>版本更新訊息實際反映於商店將可能花費一段時間。</div><div>此外，裝置內的暫存檔可能會導致版本無法順利更新。</div><div>如無法更新，請關閉裝置電源，放置1～2分鐘後再啟動重試。</div><div><br><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1585710000"></span>更新】</strong></span></div><div>已發送下列道具給於<span class="local_date" data-local_date="1585710000"></span>之前開始遊戲的玩家。</div><div><br>‧10連召喚券 1張</div><div><br>贈送道具的領取期限為發送至獎勵箱後7天以內。</div><div><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1585623600; update_time1585710079

@@ -1,0 +1,8 @@
+article_id:533
+category_name:公告
+title_name:部分龍族的平衡調整公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>營運團隊已於<span class="local_date" data-local_date="1561010400"></span>左右所實施的資料更新中，進行部分龍族的平衡調整。</div><div>詳細內容如下：</div><div><br></div><div>■龍族</div><div>‧★4「布倫希爾德」</div><div>‧★5「真‧布倫希爾德」</div><div><br></div><div>■調整內容</div><div>對象龍族的連續攻擊之第3階段，根據命中敵人的時機不同，會出現命中1次和命中2次的狀況。已調整成攻擊時會命中2次。</div><div>※連續攻擊的威力並未改變。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1561010400; update_time1560995002

@@ -1,0 +1,8 @@
+article_id:162
+category_name:公告
+title_name:團隊遊戲模式的能量和共鬥之翼消費變更公告
+image_path:
+
+message:<div>團隊遊戲模式的能量和共鬥之翼消費變更公告</div><div><br></div><div>各位玩家您好</div><div><br></div><div>為了團隊遊戲更容易進行，遊戲團隊預計在2019年1月下旬進行的版本更新中，</div><div>將團隊遊戲模式進行遊戲時房主所需要消費的「能量」變更成消費「共鬥之翼」。</div><div><br></div><div>上述變更準備就緒後，將另行向各位玩家通知。</div><div><br></div><div>■注意事項</div><div>1. 購買30日間每日可充值能量與共鬥之翼的「每日充值組合包」時，請先事前確認本調整公告內容。</div><div>2. 單人模式和使用Skip券時，仍會消費能量。</div><div>3. 調整內容將可能在未預先通知的情況下進行變更。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1545302700; update_time1545302302

@@ -1,0 +1,8 @@
+article_id:156
+category_name:公告
+title_name:真‧龍族的試煉之「真‧布倫希爾德的試煉」追加公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div><span class="local_date" data-local_date="1545026400"></span>起，最高難度的活動任務「真‧龍族的試煉」中，將追加「真‧布倫希爾德的試煉」。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/d1110ed5836d7708d73662d697a686f8.png"></div><div>整備好自身戰力，挑戰身纏烈焰的紅蓮霸主之真正姿態吧！</div><div><br></div><div>【配合「真‧布倫希爾德的試煉」追加之變更點】</div><div><br></div><div><strong>1. 交換所中的「真‧龍族的試煉」新增龍族「真‧布倫希爾德」。</strong></div><div><br></div><div>■能力值</div><div>‧Lv 100/100</div><div>‧HP 350</div><div>‧攻擊力 120</div><div>‧戰力 1070</div><div><br></div><div>■龍族詳細</div><div>緋龍布倫希爾德解放隱藏力量後的姿態。</div><div>身纏紅蓮之炎，將靠近萬物盡化灰燼。</div><div>唯一的例外就是其深愛的王子，</div><div>他在身邊時，只見戀愛之火燃燒得更加旺盛！</div><div><br></div><div>■技能</div><div>‧緋紅地獄</div><div>給予前方敵人火屬性傷害，使其陷入「火燒」狀態。</div><div><br></div><div>■能力</div><div>‧【火】HP＆攻擊＋30％</div><div>裝備角色如果為火屬性，則裝備角色的HP及攻擊力提升30％。</div><div>‧龍化時間＋20％</div><div>龍化時間延長20％。</div><div><br></div><div>※以上龍族能力為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div><strong>2. 交換所中的「狄亞內魯帝國迎擊戰」新增龍輝護符「火山女王」。</strong></div><div><br></div><div>■能力</div><div>‧真‧緋龍抗性＋25％、緋龍抗性＋20％、火屬性抗性＋5％</div><div>※以上龍輝護符能力為最高Lv、上限全數解放時的能力值，並非獲得時的能力。</div><div><br></div><div><strong>3. 挑戰活動的介面（UI）變更。</strong></div><div><br></div><div>‧活動任務頁面中的挑戰活動新增「真‧龍族的試煉」圖示，點擊「真‧龍族的試煉」後可選擇挑戰「真‧耶夢加得的試煉」或「真‧布倫希爾德的試煉」。</div><div><br></div><div>【注意事項】</div><div>1. 挑戰「真‧布倫希爾德的試煉」的戰力，須為13000以上。</div><div>2. 挑戰「真‧布倫希爾德的試煉」，須先完成「布倫希爾德的試煉 超級」。</div><div>3. 參加團隊遊戲，須先完成主線劇情第2章 2-1(Normal)。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>&nbsp;</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1545026400; update_time1545026566

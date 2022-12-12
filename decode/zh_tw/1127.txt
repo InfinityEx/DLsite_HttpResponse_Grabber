@@ -1,0 +1,8 @@
+article_id:1127
+category_name:公告
+title_name:團隊遊戲連線異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，團隊遊戲在以下期間內出現連線異常的現象。</div><div><br></div><div>■異常現象發生期間</div><div><span class="local_date" data-local_date="1583231400"></span>左右 ～<span class="local_date" data-local_date="1583244000"></span>左右</div><div><br></div><div>目前已可正常進行遊戲。</div><div>&nbsp;</div><div>造成各位玩家的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1583314200; update_time1583459770

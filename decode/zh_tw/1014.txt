@@ -1,0 +1,138 @@
+article_id:1014
+category_name:公告
+title_name:傳說召喚「奔馳於戰場‧北之疾風」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>傳說召喚「奔馳於戰場‧北之疾風」已從<span class="local_date" data-local_date="1578981600"></span>開始舉辦！</div><div><br></div><div>精選對象之角色‧龍族的出現機率上升中。</div><div><br></div><div>【新追加的精選角色】</div><div>★5 基魯斯緹：風／槍</div><div>★4 約爾希姆：風／弓</div><div><br></div><div>【新追加的精選龍族】</div><div>★5 AC-011 嘉蘭德：風</div><div><br></div><div>※其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>【傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1578981600"></span> ～ <span class="local_date" data-local_date="1579759140"></span></div><div><br></div><div>新追加的部分精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ff1f391f01058b90c85a9c2b19fa3815.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>751</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>509</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>隸屬北大陸某軍政府的女將軍。<br>指揮時的態度嚴厲，但因為責任感強烈，<br>並擁有對他人的關懷，所以很受部下愛戴。<br>身為軍人十分忠於命令，但內心對<br>強押草率的作戰給軍隊的母國感到憤怒。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/273e629ce26f9da1d603ff297c2b2bf92.png"></span>
+				<span>志士突擊</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人風屬性傷害。<br>
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>致命作戰</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的攻擊力於15秒之間上升20％。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的HP提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>勇猛果敢‧攻＋20％</span></dt><dd><div>每15秒未被攻擊而行動中斷時，<br>給予自身【任務中攻擊力提升20%】增益效果。<br>此效果最大可重複3次，<br>若因被攻擊而行動中斷時則解除所有效果。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span><span>濕身抗性＋100％</span></dt><dd><div>陷入「濕身」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>毒特攻＋30％</span></dt><dd><div>給予「毒」狀態中的敵方傷害提升30％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力而上升的數值。</div><div><br></div><div>【精選龍族介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/68ca93c3241dc9326d4dfc5ab11c8391.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>以北格拉斯迪亞大陸為主要活動區域的<br>龍族武裝集團「普拉烏達」中，他隸屬於<br>空中鎮壓部隊。講究禮儀，清廉高潔。<br>厭惡人與龍族間互相疏遠的陳舊觀念，<br>並立志要透過共同作戰來開創嶄新的道路。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>破滅裂風斬</span>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人風屬性傷害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【風】攻擊力＋50％</span></dt><dd><div>裝備角色如果為風屬性，<br>則裝備角色的攻擊力提升50％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>【風】勇猛果敢‧攻盾Ⅱ</span></dt><dd><div>裝備角色如果為風屬性，<br>每15秒未被攻擊而行動中斷時，給予自身<br>【使最大HP 40％以下的傷害無效化之特殊盾】。<br>盾的效果只限1次，與一般的盾可以重複。<br>此外，盾的效果存在時，攻擊力提升30％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1578981600; update_time1578634120

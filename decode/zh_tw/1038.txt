@@ -1,0 +1,8 @@
+article_id:1038
+category_name:公告
+title_name:第2彈！「期間限定組合包」販售中！
+image_path:https://dragalialost.akamaized.net/attached/information/images/cf8cc64d80930ece90590f14a1fa40fe.png
+
+message:<div>各位玩家您好</div><div><br></div><div>「期間限定　水屬性角色育成組合包」、「期間限定　龍族強化組合包」已從<span class="local_date" data-local_date="1580796000"></span>起於商店販售中！</div><div><br></div><div>■販售期間</div><div><span class="local_date" data-local_date="1580796000"></span> ～ <span class="local_date" data-local_date="1581919199"></span></div><div><br></div><div>■各組合包詳細內容</div><div>1. 期間限定　水屬性角色育成組合包</div><div>購買龍光鑽石，即可獲得額外贈禮</div><div>用於強化水屬性角色或水屬性設施的育成道具。</div><div><br></div><div>＜商品包含道具＞</div><div>・龍光鑽石2,400個（龍光鑽石1,920個＋480個額外贈禮）</div><div><br></div><div>＜贈禮道具＞</div><div>・瑪納&times;200,000</div><div>・騎士之證&times;6</div><div>・英雄之證&times;3</div><div>・水之寶珠&times;210</div><div>・水流寶珠&times;70</div><div>・蒼海寶珠&times;30</div><div>・青龍之鱗&times;150</div><div>・青龍流鱗&times;50</div><div><br></div><div>2. 期間限定　龍族強化組合包</div><div>購買龍光鑽石，即可獲得額外贈禮</div><div>用於強化龍族的實用道具。</div><div><br></div><div>＜商品包含道具＞</div><div>・龍光鑽石1,230個（龍光鑽石1,200個＋30個額外贈禮）</div><div><br></div><div>＜贈禮道具＞</div><div>・金剛晶&times;1</div><div>・熟透的龍果&times;350</div><div><br></div><div>■注意事項</div><div>1. 各組合包在販售期間內分別僅限購買1次。</div><div>2. 各道具的價格和詳細，請從主頁面進入「商店」，點選「期間限定組合包」頁面進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1580796000; update_time1579761201

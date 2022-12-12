@@ -1,0 +1,8 @@
+article_id:325
+category_name:公告
+title_name:真‧布倫希爾德的技能「天降灼炎」異常現象公告【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認在「真‧布倫希爾德的試煉」中，真‧布倫希爾德的技能「天降灼炎」出現了攻擊命中比正常情況還要多的異常現象。</div><div>※本異常現象僅會於版本1.6.0中發生</div><div><br></div><div>關於本異常現象，營運團隊正在進行調査。</div><div>最新進度將於本公告進行更新。</div><div><br></div><div>造成各位玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div>【<span class="local_date" data-local_date="1553668800"></span>更新】</div><div>本異常現象已於<span class="local_date" data-local_date="1553664600"></span>進行的資料更新中修正完畢。</div><div>做為本次異常現象之補償，營運團隊將會發送以下道具給於<span class="local_date" data-local_date="1553664600"></span>之前開始遊戲的玩家。</div><div><br></div><div>&middot;龍輝晶石 300個</div><div><br></div><div>補償道具請於<span class="local_date" data-local_date="1554271199"></span>前登入遊戲即可領取。</div><div>領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1553595000; update_time1553669011

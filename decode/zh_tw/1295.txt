@@ -1,0 +1,8 @@
+article_id:1295
+category_name:版本更新
+title_name:版本更新公告【更新】
+image_path:
+
+message:<div>各位玩家您好<br><br>為修正以下異常現象，版本1.19.1已於<span class="local_date" data-local_date="1589166000"></span>左右公開。<br>此外，強制更新預計將於<span class="local_date" data-local_date="1589252400"></span>左右實施。<br>造成各位玩家的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>更新至版本1.19.1後，將無法與使用舊版本遊戲的玩家進行配對。</div><div>※使用舊版本遊戲的玩家所製作的房間將不會顯示在房間一覽中，並且無法透過「隨機組隊」、「參加附近的房間」參加。</div><div>此外，使用「輸入ID參加」時，雖然會顯示房間，但將會無法參加。</div><div>※使用舊版本遊戲的同盟成員所製作的房間，雖然可於同盟聊天頻道確認房間，但無法參加。屆時將會顯示「募集已結束」。</div><div><br></div><div>■已修正的異常現象<br>‧活動「FIRE EMBLEM 全新的【門】」的「防衛戰」團隊遊戲中，移動至BOSS出現的區域時，訪客的裝置上可能無法顯示BOSS的3D模型。</div><div>‧角色「琪姬」的技能「神龍之翼」命中時，能力「龍化累積」效果無法正常反映。<br>‧角色「琪姬」神龍化時裝備的武器HP無法正常反映。<br>‧角色「琪姬」裝備著發動條件為HP量的武器､龍輝護符、龍族時，即使神龍化時HP量已符合發動條件仍無法發動能力。<br>‧角色「琪姬」神龍化中，即使獲得HP持續回復的增益效果､進入HP持續回復增益效果領域或獲得提升最大HP的增益效果，HP也無法回復。<br>‧角色「琪姬」神龍化中受到來自敵人以現有HP造成的傷害時，傷害會以神龍化前的最大HP為準。</div><div><br></div><div>■注意事項</div><div>版本更新訊息實際反映於商店將可能花費一段時間。</div><div>此外，裝置內的暫存檔可能會導致版本無法順利更新。</div><div>如無法更新，請關閉裝置電源，放置1～2分鐘後再啟動重試。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1589252400"></span>更新】</strong></span></div><div>已發送下列道具給於<span class="local_date" data-local_date="1589252400"></span>之前開始遊戲的玩家。</div><div><br>‧10連召喚券 1張</div><div><br>贈送道具的領取期限為發送至獎勵箱後7天以內。</div><div><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1589166000; update_time1589252474

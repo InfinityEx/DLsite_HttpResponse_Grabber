@@ -1,0 +1,8 @@
+article_id:1114
+category_name:公告
+title_name:版本1.17.0相關異常現象以及強制更新公告【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1582714800"></span>更新】</strong></span><br>營運團隊已發送以下道具給於<span class="local_date" data-local_date="1582714800"></span>前開始遊戲的玩家。<br><br>‧10連召喚券　1張<br><br>領取期限為發送至獎勵箱後7天以內。<br><br>對於本次發生複數異常現象，以及因此提前實施強制更新之事，<br>造成各位玩家的不便與困擾，再次致上最深的歉意。<br><br>※關於10連召喚券，雖原訂<span class="local_date" data-local_date="1582869600"></span>實施強制更新後發送，但因強制更新已提前至<span class="local_date" data-local_date="1582714800"></span>實施，故10連召喚券也一併提早發送給各位玩家。因此原訂的<span class="local_date" data-local_date="1582869600"></span>將不會再次發送10連召喚券，敬請見諒。<br><br></div><hr><div>各位玩家您好</div><div><br></div><div>經營運團隊確認，更新至版本1.17.0後，在團隊遊戲中可能發生複數異常現象。</div><div><br></div><div>■已確認的異常現象</div><div>‧以團隊遊戲進行「路弗‧特修加德魯叛逆戰　高級」時，龍化量條不會正常增加或減少。</div><div>‧於團隊遊戲中，BOSS的HP無法正常顯示。</div><div>‧於團隊遊戲中，隊伍角色的HP無法正常顯示。</div><div>‧「刀傷」狀態、「持續回復」狀態、「技能量條持續提升」狀態之效果無法正常發動。</div><div><br></div><div>上述異常現象，有可能在已更新至版本1.17.0的玩家與使用舊版本的玩家一同進行團隊遊戲時發生。</div><div><br></div><div>為解決上述異常現象，版本1.17.0的版本更新原訂<span class="local_date" data-local_date="1582869600"></span>實施，改為提早至<span class="local_date" data-local_date="1582714800"></span>實施。</div><div><br></div><div>造成各位玩家的不便與困擾，在此致上最深的歉意。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1582712700; update_time1582714792

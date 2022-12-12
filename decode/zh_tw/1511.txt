@@ -1,0 +1,8 @@
+article_id:1511
+category_name:公告
+title_name:主線劇情第15章「覆光之影」登場＆追加可使用「龍玉」進行上限解放的龍族！
+image_path:https://dragalialost.akamaized.net/attached/information/images/d164fc2dfd1e319eee666c022d20397a.png
+
+message:<div>各位玩家您好</div><div><br></div><div>主線劇情第15章「覆光之影」已於<span class="local_date" data-local_date="1597730400"></span>追加！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/d164fc2dfd1e319eee666c022d20397a.png"></div><div><br></div><div>為了追尋帶走潔西雅的神秘男子，一行人趕往與北格拉斯迪亞交界的國境。</div><div>此時阻擋在前的，正是深知武道精髓的那名將官。</div><div>而當第七王子抵達峽谷的關口時，面前的神秘男子平靜地娓娓道來。</div><div>潔西雅則在他身旁──</div><div><br></div><div>敬請期待最新劇情！</div><div><br></div><div>此外，可使用「龍玉」進行上限解放的龍族已於<span class="local_date" data-local_date="1597730400"></span>追加。</div><div>本次追加可使用「龍玉」的龍族如下：</div><div>‧凱爾貝洛斯</div><div>‧賽蓮</div><div>‧龍龍</div><div>‧基加美修</div><div>‧奈亞拉托提普</div><div><br></div><div>■注意事項</div><div>1. 如要進行主線劇情第15章「覆光之影」，需完成主線劇情第14章4-9「浮月之夜」。</div><div>2. 點擊主線劇情各章地圖內所顯示的「龍玉」圖示，即可確認能夠獲得的龍族「龍玉」、所持數量、可獲得的剩餘次數，以及能夠獲得「龍玉」的任務。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1597730400; update_time1597304117

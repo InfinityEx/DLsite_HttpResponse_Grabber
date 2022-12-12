@@ -1,0 +1,8 @@
+article_id:2133
+category_name:公告
+title_name:主線劇情第19章「被隱藏的真相」前半即將公開！
+image_path:https://dragalialost.akamaized.net/attached/information/images/af2dffcce5641ac8fdce706010a2d059.png
+
+message:<div>各位玩家您好</div><div><br></div><div>主線劇情第19章「被隱藏的真相」前半決定將於<span class="local_date" data-local_date="1619071200"></span>公開！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/af2dffcce5641ac8fdce706010a2d059.png"></div><div><br></div><div>此外，主線劇情第19章「被隱藏的真相」的預告影片已公開。</div><div>請從下列連結進入確認。</div><div><br></div><div>▼「Dragalia Lost ～失落的龍絆～」繁體中文版官方YouTube頻道 主線劇情第19章「被隱藏的真相」預告影片</div><div><a href="https://youtu.be/YcJ-KqLqvcU">https://youtu.be/YcJ-KqLqvcU</a></div><div><br></div><div>敬請期待最新劇情！</div><div><br></div><div>■注意事項</div><div>如要進行主線劇情第19章「被隱藏的真相」前半，須完成主線劇情第18章5-3「懷抱未來的力量」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1618898400; update_time1618552526

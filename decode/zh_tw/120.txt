@@ -1,0 +1,196 @@
+article_id:120
+category_name:公告
+title_name:傳說召喚「傳渡世間的愛之旋律」舉辦公告
+image_path:
+
+message:<div>傳說召喚「傳渡世間的愛之旋律」預計將於<span class="local_date" data-local_date="1543557600"></span>開始舉辦！</div><div><br></div><div>精選對象之角色‧龍族‧龍輝護符出現機率將會上升。</div><div><br></div><div>【傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1543557600"></span> ～ <span class="local_date" data-local_date="1544594340"></span></div><div><br></div><div>部分精選對象之角色‧龍族‧龍輝護符介紹如下。</div><div><br></div><div>【精選角色介紹】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/046e58d4b4d1a1afe03e2d4f733901f6.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>80</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>751</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>510</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>2501</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">角色詳細</div>
+			<div class="param">
+				<ul>
+					<li>她是絕代歌姬，亦是著名歌手。<br>那如鈴輕響般的歌聲擄獲了眾多的聽眾，<br>其名聲響徹整片大陸。<br>與華麗且優雅的外觀相反，<br>據說她擊退魔獸的技術也是超級一流。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/54b173fe63fa4e5fe9c4ff73a5ce7bbc2.png"></span>
+				<span>三連音詠嘆調</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人光屬性傷害，<br>並使隊伍全員的【活力】提升1階段。<br>【活力】達到第5階段即轉換成【超活力】，<br>強化攻擊‧回復技能。<br>【超活力】狀態中使用特定技能時就會解除。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66d36f720c8a46a8288996f833a36202.png"></span>
+				<span>漸強‧合聲</span>
+			</dt>
+			<dd>
+				<div>
+					自身的攻擊力於10秒之間上升10%，<br>並使【活力】提升2階段。<br>【活力】達到第5階段即轉換成【超活力】，<br>強化攻擊‧回復技能。<br>【超活力】狀態中使用特定技能時就會解除。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能傷害＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能傷害提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>超活力之鏈‧攻＋20％</span></dt><dd><div>發動「超活力」時，<br>發動【攻擊力於15秒之間上升20%】效果。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>詛咒抗性＋100％</span></dt><dd><div>陷入「詛咒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a92e675fd730e94b01a7ce6f30bea04b2.png"></span><span>BREAK特攻＋30％</span></dt><dd><div>給予BREAK狀態中的敵方傷害提升30％。</div></dd></dl></div></div></div><div>※以上為最高Lv、瑪納之環全數解放時的能力值，並非獲得時的能力值。</div><div><br></div><div>【精選龍族介紹】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/bfb166c3acef44ee05a9ccaf06e865f2.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>377</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>119</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>996</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">龍族詳細</div>
+			<div class="param">
+				<ul>
+					<li>為愛所困之人的好夥伴。<br>他對愛情與快樂有著無可比擬的喜愛，<br>並會將之分享給人們。<br>年幼且純真無邪的他，<br>會友善地親近所有心中有愛的人。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/03c66916e73cd981af03b4a90d1a53032.png"></span>
+				<span>愛的招牌動作</span>
+			</dt>
+			<dd>
+				<div>
+					回復我方全員HP。<br>此外，使隊伍全員的爆擊率於15秒之間上升25％。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻擊力＋60％</span></dt><dd><div>裝備角色如果為光屬性，<br>則裝備角色的攻擊力提升60％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【精選龍輝護符介紹】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c23f17c6a4228ac57674b88263a6a679.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>177</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>64</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>381</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能傷害＋25％</span></dt><dd><div>攻擊技能傷害提升25％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>HP70％‧爆擊＋6％</span></dt><dd><div>HP在70％以上時，<br>攻擊時發生爆擊的機率提升6％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放的能力值，並非獲得時的能力值。</div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f86bb3aa67310be0658f7dd192a7b086.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>195</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>46</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>361</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>詛咒抗性＋60％</span></dt><dd><div>陷入「詛咒」狀態機率下降60％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>【光】詛咒抗性＋40％</span></dt><dd><div>裝備角色如果為光屬性，<br>則陷入「詛咒」狀態機率下降40％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 本公告以外的精選對象之詳細資訊及出現機率，請在召喚舉辦期間中點選遊戲內下方選單列的「召喚」後，從「召喚資訊」和「出現機率」進行確認。</div><div>2. 「若連續10次召喚未出現★5時，則★5出現機率會提升」的機制僅適用於同一召喚主題，因此現正舉辦中的傳說召喚內容變更時，將不繼承原已上升的出現機率，敬請留意。有關傳說召喚的詳細說明，請至以下進行確認：[1] 點擊遊戲畫面下方選單中的「召喚」[2] 點擊畫面中間右方的「召喚資訊」[3] 點擊「召喚資訊」頁面上方中的「詳細」<br>3.傳說召喚的舉行期間和內容，可能會在無預先告知下進行變更。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1543471200; update_time1543558335

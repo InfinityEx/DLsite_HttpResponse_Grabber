@@ -1,0 +1,8 @@
+article_id:3261
+category_name:公告
+title_name:「夢幻特選組合包」販售公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/531da3179067f2c315a88205dd3570c0.png
+
+message:<div><img src="https://dragalialost.akamaized.net/attached/information/images/531da3179067f2c315a88205dd3570c0.png"></div><div>各位玩家您好</div><div><br></div><div>「夢幻特選組合包」已從<span class="local_date" data-local_date="1664431200"></span>起於商店內販售中！</div><div><br></div><div>「夢幻特選組合包」是可以使用1,200個龍光鑽石購買10連召喚券1張，並可任選1位角色或1隻龍族的特別組合包。</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※本次「夢幻特選組合包」的購買列表中不包含期間限定角色和龍族。</span></div><div><br></div><div>■販售期間</div><div><span class="local_date" data-local_date="1664431200"></span> ～ <span class="local_date" data-local_date="1664863199"></span></div><div><br></div><div>■注意事項</div><div>1. 「夢幻特選組合包」在販售期間內僅限購買1次。</div><div>2. 無法購買已獲得的角色。</div><div>3. 可購買的角色和龍族，請點擊主頁面「夢幻特選組合包」的圖示，從「特別超值包」內的｢夢幻特選組合包｣點擊「購買」後所顯示的「前往購買列表」確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1664431200; update_time1648434063

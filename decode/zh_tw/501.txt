@@ -1,0 +1,167 @@
+article_id:501
+category_name:公告
+title_name:「龍族傳說召喚」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「龍族傳說召喚」已從<span class="local_date" data-local_date="1559973600"></span>開始舉辦！</div><div><br></div><div>精選對象之★5和★4龍族的出現機率上升中。</div><div>※精選對象也包含部分★5和★4角色。</div><div><br></div><div>【龍族傳說召喚出現機率】</div><div>★5精選 合計：2.00%（角色：0.50% 龍族：1.50%）</div><div>★5一般 合計：2.00%（角色：0.75% 龍族：1.25%）</div><div>★4精選 合計：7.00%（角色：1.75% 龍族：5.25%）</div><div>★4一般 合計：9.00%（角色：5.05% 龍族：3.95%）</div><div>★3一般 合計：80.00%（角色：48.00% 龍族：32.00%）</div><div><br></div><div>【龍族傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1559973600"></span> ～ <span class="local_date" data-local_date="1561010340"></span></div><div><br></div><div>部分精選對象之龍族介紹如下。</div><div><br></div><div>【精選龍族介紹】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/429ae1698548f9601e7abe6c668d5023.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>雖然外表看似可愛的熊貓，<br>但其實是隻貨真價實的龍族。<br>拜麒麟族的武術家為師，是修練武術的<br>神速熊……啊不，是神速龍族。有一個名為<br>毛毛的兒子，也是一位愛操心的爸爸。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>仙氣咆哮波</span>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人風屬性傷害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【風】攻擊力＆爆擊威力提升Ⅱ</span></dt><dd><div>裝備角色如果為風屬性，<br>則裝備角色的攻擊力提升45％，<br>爆擊時的傷害倍率提升55％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/669389715b0f2e7f889887f8af23bc1e.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>繼承原初之炎的強大火龍。<br>有著「保護弱小是強者使命」的信念，<br>但過去卻因為強大的力量<br>而傷害了應該保護之人。<br>自此，便與人類保持著距離。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>普羅米修斯之火</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人火屬性傷害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/916d0547dd866ff9333344c772c14d732.png"></span><span>【火】攻擊＆風屬性抗性提升Ⅱ</span></dt><dd><div>裝備角色如果為火屬性，<br>則裝備角色的攻擊力提升50％，<br>風屬性抗性提升15％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/659471a2e50c90f0acb12992ce8dd12f.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>被譽為王中之王的龍族。<br>據說他隨心所欲地掌控世間一切事物，<br>其豐功偉業，<br>至今仍化作傳說流傳於大陸各地。<br>而其威光之前不允許任何闇影存在。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>霸王劍</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人光屬性傷害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/916d0547dd866ff9333344c772c14d732.png"></span><span>【光】攻擊＆闇屬性抗性提升Ⅱ</span></dt><dd><div>裝備角色如果為光屬性，<br>則裝備角色的攻擊力提升50％，<br>闇屬性抗性提升15％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>其他精選角色‧龍族如下：</div><div>角色：★5路易潔、★4久垓</div><div>龍族：★4沃格爾、★4沃加諾伊、★4林德沃姆</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「召喚資訊」，或是由「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1559973600; update_time1560224909

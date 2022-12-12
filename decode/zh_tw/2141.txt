@@ -1,0 +1,154 @@
+article_id:2141
+category_name:公告
+title_name:「失落龍絆日」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「失落龍絆日」預計將於<span class="local_date" data-local_date="1619589600"></span>起開始舉辦。</div><div>&nbsp;</div><div>【關於失落龍絆日】※包含「失落龍絆日　非凡佳選」</div><div>‧★5角色、龍族的初始「出現機率」，將由平時的4％上升至6％！</div><div>※如召喚出★5或★5精選，出現機率將會變回初始設定值6％。</div><div><span style="color: rgb(226, 80, 65);">※本次新追加的★5 角色「班比（闇）」，在今後的傳說召喚中也會出現。</span></div><div><br></div><div>【新追加的精選對象角色】</div><div>★5 班比：闇／魔杖</div><div><br></div><div>【新追加的精選對象龍族】</div><div>★5 阿耆尼‧勇（龍絆日Ver.）：火</div><div><br></div><div>【失落龍絆日舉辦期間】</div><div><span class="local_date" data-local_date="1619589600"></span> ～ <span class="local_date" data-local_date="1620021599"></span></div><div><br></div><div>新追加精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7f6f62e044b67df43faa5ea39bb472d2.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>人稱炎帝的貪慾龍族‧阿耆尼重獲新生之姿。<br>因與盼望和平世界者之心共鳴，<br>而得以從瘴氣中解放，免受其侵蝕。<br>其欲將世間一切盡收腹內之貪慾，<br>燃燒得更甚從前，使萬物化為灰燼。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>灼熱侵略</span>
+			</dt>
+			<dd><div>給予前方敵人傷害，使其陷入「劫火」狀態。<br>給予BREAK狀態中的敵方傷害下降。<br>若將敵方設為目標，<br>並於非技能使用途中的情況下龍化時間歸零，<br>則此技能將會自動發動。<br>此效果即使技能量條尚未蓄滿仍會發動。</div><div class="skill-detail">威力：1,078 × 1 Hit<br>威力：1,470 × 1 Hit<br>特殊效果<br>‧劫火<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41.6<br>針對特定狀態的傷害倍率<br>‧BREAK：75％<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻擊力＋70％</span></dt><dd><div>裝備角色如果為火屬性，<br>則裝備角色的攻擊力提升70％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ba1d939f31aa624b013b900d03a48812.png"></span><span>【火】灼熱沸騰Ⅱ</span></dt><dd><div>裝備角色如果為火屬性，<br>則龍化量條每提升10％時，給予自身<br>【45秒間，攻擊風屬性與無屬性敵人時<br>傷害倍率提升30％】增益效果。<br>此效果無法重複，發動後5秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/792aa464caa0c02ed9247e18bb121994.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>514</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>曾經沉睡於森林深處的吸血鬼少女。<br>為了喚醒仍然在沉睡中的吸血鬼夥伴們，<br>於是奔向外面的世界。<br>年幼天真且性格奔放，雖然有時稍嫌任性，<br>卻也成為了她獨有的魅力。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6b043ec067a71ca2d0082913434a94962.png"></span>
+				<span>血色之令</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予目標和其周圍敵人傷害，回復自身HP。<br>自身在持有5個【血色誓約】狀態時，<br>強化並將此技能轉換成「血液吸收」，<br>追加【解除敵方1個增益效果】。</div><div class="skill-detail">威力：523 × 3 Hit<br>威力：644 × 1 Hit<br>回復力：15<br>所需技能點數：3,525<br><br>（變化後）<br>威力：550 × 3 Hit<br>威力：1,040 × 1 Hit<br>回復力：28<br>所需技能點數：3,525<br>所需共享技能點數：12,690<br>特殊效果<br>‧增益效果解除<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20f15e05dab3cf33c2c02e36b5f9d8722.png"></span>
+				<span>血紅之禮</span>
+			</dt>
+			<dd><div>給予自身攻擊力提升氣場，<br>並給予隊伍全員【最大HP上升】增益效果。</div><div class="skill-detail">所需技能點數：7,100<br>特殊效果<br>‧HP提升3％<br>獲得氣場<br>‧攻擊力提升（爆發氣場上限Lv. 2）<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能傷害＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能傷害提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>【闇】無傷：HP60％‧爆擊＋8％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為闇屬性，且HP在60％以上時，<br>則發動【爆擊率提升8％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d2316a05dc0f67caae211684559e0b182.png"></span><span>血色蓄集Ⅱ</span></dt><dd><div>①每次使用「血色之令」時，給予自身<br>【血色誓約】。【血色誓約】最大可疊加5次。<br>②自身在持有5個【血色誓約】狀態時，<br>技能「血紅之禮」將隨時間經過而自動蓄集。<br>此蓄集不受到「技能量條的增加率提升效果」影響。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>黑暗抗性＋100％</span></dt><dd><div>陷入「黑暗」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>HP70％‧技能累積＋8％</span></dt><dd><div>HP在70％以上時，技能量條的增加率提升8％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>【注意事項】</div><div>1.詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2.精選對象角色在「阿爾貝利亞競技大亂鬥」中可改變角色外觀的「角色造型」將轉為SALE中，並減少解鎖時所需的道具。</div><div>※有部分角色無法解鎖角色造型。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1619503200; update_time1619058520

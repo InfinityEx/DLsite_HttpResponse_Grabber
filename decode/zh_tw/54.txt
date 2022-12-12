@@ -1,0 +1,8 @@
+article_id:54
+category_name:活動
+title_name:「心善的少女與受囚禁的守護龍」活動預告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>從<span class="local_date" data-local_date="1540965600"></span>起，將舉辦團體活動「心善的少女與受囚禁的守護龍」。</div><div>本活動可在團隊遊戲模式下挑戰風屬性的團體戰BOSS。</div><div><br></div><div>■注意事項</div><div>1. 如要參加活動任務，需完成主線劇情第2章 2-1（Normal）。</div><div>2. 若要參加團隊遊戲，需完成主線劇情第2章 2-1（Normal）。</div><div>3. 舉辦期間和內容，將可能在無預先告知下進行變更。敬請見諒。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1540533600; update_time1542363650

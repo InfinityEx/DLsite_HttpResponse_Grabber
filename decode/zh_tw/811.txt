@@ -1,0 +1,8 @@
+article_id:811
+category_name:公告
+title_name:「競速賽排行榜」的「排行榜」頁面顯示資料取得失敗之異常現象
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，在下列期間「真‧龍族的試煉 高級」中舉辦的活動「競速賽排行榜」的「排行榜」頁面，</div><div>出現可能會顯示資料取得失敗之異常現象。</div><div><br></div><div>本異常現象已排解。</div><div>※若仍會出現本現象，請重新啟動遊戲即有可能改善。</div><div><br></div><div>■異常現象發生期間</div><div><span class="local_date" data-local_date="1570773600"></span> ～ <span class="local_date" data-local_date="1570779000"></span>左右</div><div><br></div><div>此外，「競速賽排行榜」預計將於<span class="local_date" data-local_date="1571032800"></span>進行首次更新。</div><div>營運團隊將會嚴正確認並進行排行榜的更新。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1570784400; update_time1570784874

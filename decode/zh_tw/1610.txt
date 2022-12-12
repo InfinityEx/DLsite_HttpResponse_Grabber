@@ -1,0 +1,311 @@
+article_id:1610
+category_name:公告
+title_name:「失落龍絆日」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「失落龍絆日」已於<span class="local_date" data-local_date="1601186400"></span>起舉辦中！</div><div><br></div><div>【關於失落龍絆日】※包含「失落龍絆日　非凡佳選」</div><div>‧★5角色、龍族的初始「出現機率」，將由平時的4％上升至6％！</div><div>※如召喚出★5，出現機率將會變回初始設定值6％。</div><div><span style="color: rgb(226, 80, 65);">※過去於「失落龍絆日」中登場的所有「龍絆日Ver.」角色‧龍族將於本召喚中登場。登場角色‧龍族詳細資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</span></div><div>&nbsp;</div><div>【失落龍絆日出現機率】</div><div>★5 合計：6.00％</div><div>★5一般 合計：6.00％（角色：3.00％ 龍族：3.00％）</div><div>★4一般 合計：16.00％（角色：8.55％ 龍族：7.45％）</div><div>★3一般 合計：78.00％（角色：47.00％ 龍族：31.00％）</div><div><br></div><div>【失落龍絆日舉辦期間】</div><div><span class="local_date" data-local_date="1601186400"></span> ～ <span class="local_date" data-local_date="1601445599"></span></div><div><br></div><div>本次「失落龍絆日」中登場的部分★5角色介紹如下：</div><div><br></div><div>【★5角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/65e5bd68728e17ccf910d3d857779088.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>749</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>510</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>「想待在所愛之人身邊！」因為這份少女心，<br>緋龍布倫希爾德化身成人類的姿態。<br>將救了自己的王子喚作「達令」，<br>時刻傳送滿溢傾慕的火熱視線。<br>種族隔閡對她而言根本不成問題。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>龍族熱潮</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人火屬性傷害，<br>自身的攻擊力於10秒之間上升20％。<br>只要此技能命中，自身的龍化量條就會上升。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>緋紅烈燃</span>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人火屬性傷害。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的HP提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【火】龍化：龍族恩寵‧攻Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為火屬性，<br>則每次龍化時攻擊力提升。<br>此效果每場任務最多可發動3次。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b5b8a0971c2940faccafb60e2bb060ab2.png"></span><span>緋龍現身Ⅱ</span></dt><dd><div>陷入「火燒」狀態機率下降100％。<br>不論裝備任何龍族，龍化時皆變身為布倫希爾德。<br>龍化時，給予自身<br>【任務中攻擊力提升15%，<br>強化技能「緋紅烈燃」】增益效果。<br>此效果每場任務最多可發動1次。<br>每場任務的龍化，<br>從第2次起將化身為真‧布倫希爾德，<br>龍化中的攻擊速度提升15％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ed2537bb247dfd2ad93353a86c3d8c12.png"></span><span>熾熱旋流Ⅱ</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。<br>當受到帶有「昏厥」的攻擊時，<br>技能「龍族熱潮」蓄集50％。<br>技能蓄集效果發動後，15秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>龍化時間＋20％</span></dt><dd><div>龍化時間延長20％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/92bd4213bc0892d9c0bbfd9bee44e61e.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,498</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>成為耶魯菲莉絲的護衛，換上新裝備的夏儂。<br>她向純白斗篷立誓要與暗殺訣別，<br>也向手中之刃立誓要貫徹守護摯友。<br>染滿鮮血的過去、以及殘酷的真相，<br>都無法使她內心受挫。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a14e3aeaf8990581545b970f18bf5f82.png"></span>
+				<span>危機闇刃</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標闇屬性傷害，使敵方防禦力於15秒之間下降5％。此防禦力下降效果無法重複。<br>此技能使用後於一定時間內發動【技能連鎖】。<br>【技能連鎖】中，「危機闇刃」將轉換為【給予前方敵人闇屬性傷害，對陷入「防禦力下降」狀態的敵人傷害上升】效果，並於給予敵方傷害後追加傷害（對陷入「防禦力下降」狀態的敵人傷害上升）。<br>此外，使用技能「闇影抹滅」時目標若在特定狀態下，則技能「危機闇刃」將可於一定時間內【技能連鎖】。<br>①目標在「獲得增益效果」狀態時，技能發生變化：<br>【給予目標闇屬性傷害，解除1個增益效果】＋追加傷害（對陷入「防禦力下降」狀態的敵人傷害上升）<br>②目標在「BREAK」狀態時，技能發生變化：<br>【給予目標闇屬性傷害，給予BREAK狀態中的敵方傷害提升】＋追加傷害（給予BREAK狀態中的敵方傷害提升）<br>並且，若目標同時符合①與②的條件時，將優先發動①。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/18bb75cee57f186afb031e6ca02c56f92.png"></span>
+				<span>闇影抹滅</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標闇屬性傷害，使其陷入「毒」狀態。<br>此技能使用後於一定時間內發動【技能連鎖】。<br>【技能連鎖】中，「闇影抹滅」將轉換為【給予目標闇屬性傷害，對陷入「毒」狀態的敵人傷害上升】效果，並於給予敵方傷害後追加傷害。（對陷入「毒」狀態的敵人傷害上升）。<br>此外，使用技能「危機闇刃」時目標若在特定狀態下，則技能「闇影抹滅」將可於一定時間內【技能連鎖】。<br>①目標在「獲得增益效果」狀態時，技能發生變化：<br>【給予目標闇屬性傷害，解除1個增益效果】＋追加傷害（對陷入「毒」狀態的敵人傷害上升）<br>②目標在「BREAK」狀態時，技能發生變化：<br>【給予目標闇屬性傷害，給予BREAK狀態中的敵方傷害提升】＋追加傷害（給予BREAK狀態中的敵方傷害提升）<br>並且，若目標同時符合①與②的條件時，將優先發動①。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龍化累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的龍化量條增加率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【闇】毒：毒觸發‧攻＋13％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為闇屬性，<br>則自身使敵方陷入毒狀態時，<br>發動【15秒間，攻擊力提升13％】增益效果。<br>此效果發動後，10秒間不會再次發動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a2241ae1de30904a24117f1388bd71782.png"></span><span>防禦力下降特攻＋30％</span></dt><dd><div>給予「防禦力下降」狀態中的敵方傷害提升30％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bd7de81c28d0b9c93b0edbfc86b0cb6a2.png"></span><span>護影覺悟Ⅱ</span></dt><dd><div>陷入「黑暗」、「麻痺」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>毒特攻＋30％</span></dt><dd><div>給予「毒」狀態中的敵方傷害提升30％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7b074e5408d6658495de356bb028fb2e.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>517</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,502</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>決心要創造任何人都不需要爭執之地的琉卡。<br>為了跨越種族隔閡，於是在各種族的協助下，<br>換上了一身新的裝備。<br>並且為了不忘記重要的約定，<br>他將手握友人的刀，擊破爭端的根源。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cbd8f43df3f5398db1f1d365ac553ca22.png"></span>
+				<span>光明破壞</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人光屬性傷害。<br>自身每持有1種不同圖示的增益效果，<br>則此技能與龍化時可給予傷害的技能爆擊率<br>上升10％。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>雷霆加速</span>
+			</dt>
+			<dd>
+				<div>
+					自身爆擊時的傷害倍率於10秒之間上升80％。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻擊力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的攻擊力提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】連擊：10連擊以上‧抗闇＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，<br>則連擊數為10次以上時，<br>發動【闇屬性抗性提升10％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/daec86e89dfb95ad45d6f68c08c841752.png"></span><span>橋梁之力Ⅱ</span></dt><dd><div>自身每持有1種不同圖示的增益效果，<br>則爆擊率提升4％（最大28％）。<br>此外，每當攻擊時發生爆擊，<br>給予自身20秒間【佛萊斯提亞的秘傳】、<br>【人類的智慧】、【羅卡的技術】之中，<br>隨機一種增益效果。<br>上述相同的增益效果不會重複，<br>並可使自身爆擊率提升3％。<br>此效果發動後，3秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/2752d5bf66ac339cb32a3adf1a41e1702.png"></span><span>不屈之約Ⅱ</span></dt><dd><div>陷入「詛咒」狀態機率下降100％。<br>當受到帶有「詛咒」的攻擊時，<br>給予自身【10秒間，爆擊率提升15％】增益效果。<br>此效果發動後，15秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>疾風怒濤‧爆擊＋13％</span></dt><dd><div>連擊數為15次以上時，<br>攻擊時發生爆擊的機率提升13％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1601186400; update_time1600868027

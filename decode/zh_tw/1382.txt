@@ -1,0 +1,8 @@
+article_id:1382
+category_name:活動
+title_name:【復刻】「充滿糖果的萬聖節派對之夜」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/25c9c41c57daaf2ec000dea6c98fd9cc.png
+
+message:<div>各位玩家您好</div><div><br></div><div>設施活動【復刻】「充滿糖果的萬聖節派對之夜」，預計將從<span class="local_date" data-local_date="1592546400"></span>起開始舉辦。</div><div>本活動可挑戰闇屬性的BOSS，並建造活動限定的獎勵設施。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/25c9c41c57daaf2ec000dea6c98fd9cc.png"></div><div>不給糖就搗蛋！</div><div>豐收之秋！食慾之秋！萬聖節之秋！</div><div>萬聖節的重頭戲正是點心之家！</div><div>受到香甜味道吸引，竟然連魔獸也來湊一腳！？</div><div>甜點！混亂！還有小小的羅曼史？</div><div>手忙腳亂的萬聖節派對即將開始囉！</div><div><br></div><div>■活動期間</div><div><span class="local_date" data-local_date="1592546400"></span> ～ <span class="local_date" data-local_date="1593410399"></span></div><div><br></div><div>■活動期間</div><div>1. 若要參加活動任務，需完成主線劇情第2章 2-1（Normal）。</div><div>2. 若要參加團隊遊戲，需完成主線劇情第2章 2-1（Normal）。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1592200800; update_time1591781276

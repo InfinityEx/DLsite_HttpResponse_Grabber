@@ -1,0 +1,8 @@
+article_id:589
+category_name:公告
+title_name:一般Mission追加公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>以下一般Mission將於<span class="local_date" data-local_date="1563602400"></span>追加。</div><div><br></div><div>‧追加以戰力14100以上為對象的「隊伍戰力達到○」。</div><div>完成Mission後可獲得「龍輝晶石」。</div><div>※對象為Mission追加後達到的戰力。</div><div><br></div><div>‧追加以任務完成次數為對象的「完成任務○次吧」。</div><div>完成Mission後可獲得「頂級蜂蜜」。</div><div>※對象為Mission追加後完成的任務。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1563170400; update_time1562906656

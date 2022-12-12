@@ -1,0 +1,8 @@
+article_id:2573
+category_name:公告
+title_name:主線劇情第22章「兩位契約者」前半登場！
+image_path:https://dragalialost.akamaized.net/attached/information/images/6dc4f7e90eedcc78a597a5c6a5e343af.png
+
+message:<div>各位玩家您好</div><div><br></div><div>主線劇情第22章「兩位契約者」前半已於<span class="local_date" data-local_date="1635746400"></span>追加！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/6dc4f7e90eedcc78a597a5c6a5e343af.png"></div><div><br></div><div>王子與涅帝爾的決戰終於展開。</div><div>然而創世與破壞之龍卻在此時覺醒。</div><div>在和欲將世間一切歸於虛無的巴哈姆特交戰之際，</div><div>王子窺見了涅帝爾的過去。王子最終將做出何種決斷，</div><div>涅帝爾隱藏的真正意圖又是──</div><div><br></div><div>敬請期待最新劇情！</div><div><br></div><div>■注意事項</div><div>1. 若要進行主線劇情第22章「兩位契約者」前半，須完成主線劇情第21章6-3「迫近的決戰」。</div><div>2. 本次主線劇情前半公開，並未同步追加可使用「龍玉」進行上限解放的龍族。點擊主線劇情各章地圖內所顯示的「龍玉」圖示，即可確認能夠獲得的龍族「龍玉」、所持數量、可獲得的剩餘次數，以及能夠獲得「龍玉」的任務。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1635746400; update_time1635305997

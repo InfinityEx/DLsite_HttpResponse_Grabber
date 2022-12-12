@@ -1,0 +1,8 @@
+article_id:825
+category_name:公告
+title_name:部分龍族能力調整公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>營運團隊預計於<span class="local_date" data-local_date="1572501600"></span>左右調整部分龍族的能力內容。</div><div>詳細如下：</div><div><br></div><div>■對象龍族與調整內容</div><div>・奈亞拉托提普</div><div>【調整前】</div><div>未解放時：【闇】HP30％‧攻+35％、【闇】背水之陣‧盾Ⅰ</div><div>最大上限解放時：【闇】HP30％‧攻+50％、【闇】背水之陣‧盾Ⅱ</div><div><br></div><div>【調整後】</div><div>未解放時：【闇】HP30％‧攻+35％、嚎月者Ⅰ</div><div>最大上限解放時：【闇】HP30％‧攻+50％、嚎月者Ⅱ</div><div><br></div><div>【能力詳細】</div><div>嚎月者Ⅰ：裝備角色如果為闇屬性，且HP減少至30％以下時，給予自身【20秒間，染血御舌】增益效果。【染血御舌】中只限1次使最大HP 50％以下的傷害無效化，攻擊力上升20％。【染血御舌】不會重複，受到攻擊後將會解除。</div><div><br></div><div>嚎月者Ⅱ：裝備角色如果為闇屬性，且HP減少至30％以下時，給予自身【20秒間，染血御舌】增益效果。【染血御舌】中只限1次使最大HP 60％以下的傷害無效化，攻擊力上升30％。【染血御舌】不會重複，受到攻擊後將會解除。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1571896800; update_time1571895736

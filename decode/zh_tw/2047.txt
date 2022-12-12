@@ -1,0 +1,8 @@
+article_id:2047
+category_name:公告
+title_name:召喚頁面和活動異常現象公告
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1615786800"></span>更新】</strong></span><br>本次補償已於<span class="local_date" data-local_date="1615786800"></span>完成發送。<br>補償道具請至「獎勵箱」領取。</div><hr><div>各位玩家您好</div><div><br></div><div>經營運團隊確認，<span class="local_date" data-local_date="1615528800"></span> ～ <span class="local_date" data-local_date="1615529400"></span>遊戲中出現以下異常現象。</div><div><br></div><div>■遊戲內的「召喚」頁面無法正常顯示。</div><div>■活動對象任務的掉落獎勵未變成2倍。</div><div>＜對象任務＞</div><div>‧「水蝕的遺跡」</div><div>‧「墨丘利的試煉」</div><div>‧「光裂的遺跡」</div><div>‧「朱庇特的試煉」</div><div>‧「狄亞內魯帝國迎擊戰（風）」</div><div>‧「狄亞內魯帝國迎擊戰（闇）」</div><div><br></div><div>上述異常現象現已排解。</div><div>營運團隊將於日後補償在上述異常現象發生期間內進行對象任務的玩家相對應的掉落獎勵差額。</div><div><br></div><div>造成各位玩家的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1615543740; update_time1615791137

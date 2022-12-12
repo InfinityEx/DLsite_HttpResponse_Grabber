@@ -1,0 +1,8 @@
+article_id:966
+category_name:公告
+title_name:「那姆頻道」公開！【更新】
+image_path:
+
+message:<div><span style="color: rgb(44, 130, 201);"><strong>【<span class="local_date" data-local_date="1577256600"></span>更新】<br></strong></span>本公告內的獎勵內容和發送對象記述有誤，已修正如下：<br><br>‧獎勵內容<br>正確：龍輝晶石&times;500<br>錯誤：龍輝晶石&times;300<br><br>‧發送對象<br>正確：於<span class="local_date" data-local_date="1581919140"></span>前開始遊戲的所有玩家。<br>錯誤：於<span class="local_date" data-local_date="1550383140"></span>前開始遊戲的所有玩家。<br><br>造成各位玩家的不便與困擾，營運團隊在此致上最深的歉意。<br><br></div><hr><div><span style="color: rgb(44, 130, 201);"><strong>【<span class="local_date" data-local_date="1577243700"></span>更新】<br></strong></span>那姆準備了星龍祭的禮物，要送給於<span class="local_date" data-local_date="1581919199"></span>前開始遊戲的所有玩家！<br><br>■禮物內容<br>・龍輝晶石&times;500<br>・覺醒之露&times;30000<br>・英雄之證&times;3<br><br>■注意事項<br>‧道具領取期限為發送至「獎勵箱」後7天以內。<br>‧道具將會依序發送至「獎勵箱」。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div><hr><div>各位玩家您好</div><div><br></div><div>「那姆頻道」已於<span class="local_date" data-local_date="1577242800"></span> 於【Dragalia Lost ～失落的龍絆～官方YouTube Channel】公開。</div><div><br></div><div>由那姆為各位玩家帶來新活動介紹､年末年初的相關活動，以及版本1.15.1的更新內容等各種最新情報！</div><div><br></div><div>詳細內容請參考下列連結。</div><div><br></div><div>▼「那姆頻道」</div><div><a href="https://youtu.be/IYNP1HtqvN8">https://youtu.be/IYNP1HtqvN8</a></div><div><br></div><div>▼Dragalia Lost ～失落的龍絆～官方YouTube Channel</div><div><a href="http://eng.mg/c54d0">http://eng.mg/c54d0<br></a></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1577242800; update_time1577256646

@@ -1,0 +1,8 @@
+article_id:435
+category_name:公告
+title_name:虛空之影討伐戰異常現象公告【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>由於虛空之影討伐戰中發生異常現象，「遊蕩毒菇討伐戰」與「黑曜巨像討伐戦」目前已暫停公開。</div><div><br></div><div>■異常現象內容</div><div>‧開始「遊蕩毒菇討伐戰」任務時，會停在讀取畫面無法繼續。</div><div>‧在「黑曜巨像討伐戰」中，不會因為黑曜巨像的攻擊而受到傷害。</div><div><br></div><div><br></div><div>關於本異常現象之最新進度，將於本公告進行更新。</div><div><br></div><div>造成各位玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1556254800"></span>更新】</strong></span><br>本異常現象已於<span class="local_date" data-local_date="1556254800"></span>修正完畢。<br>此外，虛空之影討伐戰「遊蕩毒菇討伐戰」和「黑曜巨像討伐戰」已重新開放。<br>「黑曜巨像討伐戰」將於下列期間追加舉辦。<br><br>■「黑曜巨像討伐戰」追加舉辦期間</div><div><span class="local_date" data-local_date="1556258400"></span> ～ <span class="local_date" data-local_date="1556344799"></span></div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1556258400"></span>更新】</strong></span></div><div>由於在期間限定Mission「期間限定虛空之影討伐指令」活動期間內「黑曜巨像討伐戰」暫停公開，「期間限定虛空之影討伐指令」的活動日程將會延長如下。</div><div><br></div><div>■「期間限定虛空之影討伐指令」追加活動日程</div><div><span class="local_date" data-local_date="1556258400"></span> ～ <span class="local_date" data-local_date="1556863199"></span></div><div>※「期間限定虛空之影討伐指令」的「每日Mission」舉辦期間並不會延長。</div><div><br>做為發生本次異常現象，以及暫停開放虛空之影討伐戰「遊蕩毒菇討伐戰」和「黑曜巨像討伐戰」之補償，<br>營運團隊將會依序發送以下道具給於<span class="local_date" data-local_date="1556247599"></span>前開始遊戲的所有玩家。<br><br>‧高級蜂蜜 4個<br>‧靈鳥之聖灰 4個<br><br>請登入遊戲至「獎勵箱」領取。<br>領取期限為發送至獎勵箱後7天以內。<br><br>再次對造成各位玩家的不便與困擾致上最深的歉意。<br><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1556175600; update_time1556267460

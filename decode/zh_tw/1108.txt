@@ -1,0 +1,344 @@
+article_id:1108
+category_name:公告
+title_name:「闇屬性精選召喚」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「闇屬性精選召喚」預計將於<span class="local_date" data-local_date="1582869600"></span>開始舉辦。</div><div><br></div><div>精選對象之角色‧龍族的出現機率將會上升。</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※本召喚內容不包含同時開放的傳說召喚「食宴！饗趣美味廚藝巔峰戰 精選 Part 1」中新追加的角色和龍族。</span></div><div><br></div><div>【闇屬性精選召喚　精選舉辦期間】</div><div><span class="local_date" data-local_date="1582869600"></span> ～ <span class="local_date" data-local_date="1583992740"></span></div><div><br></div><div>部分精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/758bf289b76250908960659b69f07cd5.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>748</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>511</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>臉上總帶著一絲憂鬱表情的神秘少女。<br>在奇怪的圖書館事件中失去了親屬，<br>成為了孤獨一人。有時會做可怕的夢，<br>對她體內並非她自己的存在感到害怕。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/334b74601c5335a157f2f2aa2e3b9cd32.png"></span>
+				<span>混沌贈禮</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人闇屬性傷害。<br>對陷入「毒」狀態的敵人傷害上升。<br>此技能發動時，將依照玩家點擊畫面的次數<br>追擊目標，最多可追擊4次。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/deb7134796a0b428f6b5a7a145a0d8262.png"></span>
+				<span>混沌召喚</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人闇屬性傷害。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的HP提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/18a0c508eccb37dc48c820d6ec7c0f152.png"></span><span>無貌白面Ⅱ</span></dt><dd><div>不論自身裝備任何龍族，龍化時皆變身為奈亞拉托提普。<br>龍化時，給予自身【20秒間，HP持續回復】增益效果。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痺抗性＋100％</span></dt><dd><div>陷入「麻痺」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>龍化時間＋20％</span></dt><dd><div>龍化時間延長20％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5ecfd3230a02d3daa02793b280c55612.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>797</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>477</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,514</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>侍奉阿爾貝利亞王家，<br>守護著遺蹟的「奉護者」一族末裔，<br>並繼承了操控封印之力的紋樣。<br>幼年時因意外而失去雙親，<br>相當盲目地寵愛唯一剩下的親弟弟。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ef2fadd4e5171b8628a69b7295d667602.png"></span>
+				<span>九天‧零落之檻</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人闇屬性傷害，<br>並於地面設置10秒【防禦減益效果領域】。<br>在此領域中的敵方，防禦力下降15％。<br>此技能將隨時間經過而自動蓄集。<br>此蓄集不受到「技能量條的增加率提升效果」影響。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/039cfa967e4d53892ad176be62ccec312.png"></span>
+				<span>六天‧腐食之檻</span>
+			</dt>
+			<dd>
+				<div>
+					展開【蒼煌之檻‧六天】後，<br>給予目標和其周圍敵人闇屬性傷害，<br>並使其陷入「毒」狀態。<br>此外，使光屬性敵人於15秒之間攻擊力下降15％。<br>此攻擊力下降效果無法重複。<br>【蒼煌之檻‧六天】展開期間<br>將依受到的傷害額外給予特殊傷害。<br>此技能將隨時間經過而自動蓄集。<br>此蓄集不受到「技能量條的增加率提升效果」影響。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>爆擊率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的爆擊率提升10%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/23ae18cd8060a46a0a68845975c9804b2.png"></span><span>咒毒之檻‧九天Ⅱ</span></dt><dd><div>自身的攻擊力下降60％，<br>但使用技能「九天‧零落之檻」時，<br>給予自身【咒毒之檻‧九天】增益效果。<br>下次使用的爆發攻擊，<br>將追加賦予敵人毒狀態效果。<br>【咒毒之檻‧九天】不會重複，<br>使用爆發攻擊後將會解除。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痺抗性＋100％</span></dt><dd><div>陷入「麻痺」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b1818728cd52cb7975bdbae455bd05582.png"></span><span>疾風怒濤‧賦予毒狀態機率＋60％</span></dt><dd><div>連擊數為15次以上時，<br>賦予敵人「毒」狀態機率提升60％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/38ffb0637826b91587ceba320b495a1b.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>801</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>472</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,513</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>身著異國風格禮服的絕世美女。<br>雖然年輕，說話口吻和用詞卻十分古色古香，<br>讓她的本性充滿謎團。<br>從王子的瑪納就能知道已和龍締結契約一事。<br>可以見得她非常精通瑪納的知識。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/bed50bf6f65f5dd9e3905c40d2e039bf2.png"></span>
+				<span>遠古夜幕</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人闇屬性傷害。<br>對陷入「黑暗」狀態的敵人傷害上升。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>忘卻的暮光</span>
+			</dt>
+			<dd>
+				<div>
+					發動【裝填：黃昏之矢】。<br>此效果中會透過爆發攻擊發射【黃昏之矢】。<br>【黃昏之矢】的傷害比一般高，<br>並會給予「黑暗」效果。<br>發動時會裝填3支【黃昏之矢】。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能量條增加率提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6d4a237207f10a596a20a421d2df90a32.png"></span><span>HP全滿‧黑暗＋60％</span></dt><dd><div>HP全滿時賦予敵人「黑暗」狀態機率提升60％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痺抗性＋100％</span></dt><dd><div>陷入「麻痺」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3f1950b5e492d4d804d39c83206ed14d2.png"></span><span>黑暗特攻＋30％</span></dt><dd><div>給予「黑暗」狀態中的敵方傷害提升30％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>【精選龍族介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/208674b06cee90dd8cbc716d8bcf69fc.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>追隨建國君王阿爾博流斯到最後的<br>傳說六龍之一。擁有冥龍的稱號。<br>雖曾敗過一次而徘徊於死亡深淵，<br>最終為了阻止成功復活的魔神野心，<br>並實現其王的願望而展開復甦的雙翼。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>恆誠傷痛</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人闇屬性傷害，<br>使其陷入「毒」狀態。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】攻擊＆龍族恩寵Ⅱ</span></dt><dd><div>裝備角色如果為闇屬性，<br>則裝備角色的攻擊力提升55％。<br>龍化時，給予自身【任務中攻擊力提升10%】增益效果。<br>此效果每場任務最多可發動2次。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ec44fde7041d2f909f5e70cff028be58.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>棲息在禁書圖書館裡的神祕龍族。<br>所說的話語難以明瞭，其行動亦無法理解。<br>自稱是侍奉著「悠久之主」的使者。<br>表明奈亞拉托提普並非是單一個體的名稱，<br>其真相究竟為何……</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>無盡之闇</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人闇屬性傷害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】HP30％‧攻＋50％</span></dt><dd><div>裝備角色如果為闇屬性，且HP在30％以上時，<br>則裝備角色的攻擊力提升50％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>嚎月者Ⅱ</span></dt><dd><div>裝備角色如果為闇屬性，且HP減少至30％以下時，<br>給予自身【20秒間，染血御舌】增益效果。<br>【染血御舌】中只限1次使最大HP 60％以下的<br>傷害無效化，攻擊力上升30％。<br>【染血御舌】不會重複，受到攻擊後將會解除。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1582783200; update_time1582630962

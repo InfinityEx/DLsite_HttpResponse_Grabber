@@ -1,0 +1,8 @@
+article_id:758
+category_name:公告
+title_name:活動期間內最多免費100連召喚！「每日1次免費10連召喚活動」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/2d359f0209e5fb930c42e6280500cee2.png
+
+message:<div><img src="https://dragalialost.akamaized.net/attached/information/images/2d359f0209e5fb930c42e6280500cee2.png"></div><div>各位玩家您好</div><div><br></div><div>「每日1次免費10連召喚活動」將於<span class="local_date" data-local_date="1569564000"></span>開始舉辦！</div><div>每天可在對象傳說召喚中進行1次免費「10連召喚」！</div><div><br></div><div>■活動期間</div><div><span class="local_date" data-local_date="1569564000"></span> ～ <span class="local_date" data-local_date="1570427940"></span></div><div><br></div><div>■對象傳說召喚</div><div>每天可在以下傳說召喚中分別進行1次免費「10連召喚」。</div><div><br></div><div>‧失落龍絆日</div><div>※<span class="local_date" data-local_date="1569564000"></span> ～ <span class="local_date" data-local_date="1570168740"></span>期間，7天內最多共可進行7次「10連召喚」。</div><div><br></div><div>‧克羅諾斯～輪迴命運的時針～ 精選</div><div>※<span class="local_date" data-local_date="1570168800"></span> ～ <span class="local_date" data-local_date="1570427940"></span>期間，3天內最多共可進行3次「10連召喚」。</div><div><br></div><div>■注意事項</div><div>1. 每日（14:00 ～ 隔日13:59）可在對象傳說召喚進行1次免費「10連召喚」。</div><div>2. 「每日1次免費10連召喚」將於每日14:00重置。</div><div>3. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1569477600; update_time1574300288

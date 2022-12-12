@@ -1,0 +1,8 @@
+article_id:2836
+category_name:公告
+title_name:主線劇情第24章「原初之力」前半登場！
+image_path:https://dragalialost.akamaized.net/attached/information/images/824568fe7648eee44c0a92f65fed6d1d.png
+
+message:<div>各位玩家您好</div><div><br></div><div>主線劇情第24章「原初之力」前半已於<span class="local_date" data-local_date="1645077600"></span>追加！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/824568fe7648eee44c0a92f65fed6d1d.png"></div><div>一行人抵達了化為沙漠的亡國勒夫克斯。</div><div>葛托夫眼見祖國變得面目全非，感到十分痛心。</div><div>傳說中原初之龍沉眠的「龍之墓場」</div><div>受到黑色瑪納所封閉。在這無人可踏入之地，</div><div>隱藏著勒夫克斯滅亡的真相──</div><div><br></div><div>敬請期待最新劇情！</div><div><br></div><div>■注意事項</div><div>1. 若要進行主線劇情第24章「原初之力」前半，須完成主線劇情第23章5-3「可能性」。</div><div>2. 本次主線劇情前半公開，並未同步追加可使用「龍玉」進行上限解放的龍族。點擊主線劇情各章地圖內所顯示的「龍玉」圖示，即可確認能夠獲得的龍族「龍玉」、所持數量、可獲得的剩餘次數，以及能夠獲得「龍玉」的任務。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1645077600; update_time1644386623

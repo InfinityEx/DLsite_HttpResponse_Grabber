@@ -1,0 +1,211 @@
+article_id:549
+category_name:公告
+title_name:傳說召喚「千祭一遇」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>傳說召喚「千祭一遇」已於<span class="local_date" data-local_date="1561874400"></span>起開始舉辦！</div><div><br></div><div>精選對象之角色‧龍族的出現機率將會上升。</div><div><br></div><div>【新追加的精選角色‧龍族】</div><div>■角色</div><div>★5 夜天：闇／劍</div><div>★5 夏實：闇／刀</div><div><br></div><div>■龍族</div><div>★5 忍：闇</div><div><br></div><div>※其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>【傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1561874400"></span> ～ <span class="local_date" data-local_date="1562824740"></span></div><div><br></div><div>新追加的精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選角色介紹】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/0e064914c9394f95d2d58fcf1febf7a2.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2498</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>日初之國的祭典職人。為了自身目的，<br>因而離開祖國來到阿爾貝利亞。<br>雖然平時是個喜歡午睡的懶散之人，<br>但對祭典卻懷有相當的熱情，<br>用自己企劃的祭典復興了許多城鎮。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7391c0f33efb07117ee2c7bdf7815b7c2.png"></span>
+				<span>神樂曲藝‧御祭御免</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人闇屬性傷害，<br>使自身的【活力】提升1階段。<br>【活力】達到第5階段即轉換成【超活力】，<br>強化攻擊‧回復技能。<br>【超活力】狀態中使用特定技能時就會解除。<br>此技能在【超活力】效果發動時，<br>將轉換成「神樂曲藝‧六天劍舞」，並追擊目標。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/10a00f27f7b4fb0f1e9db38ca57076272.png"></span>
+				<span>劍華上等</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的【活力】提升2階段。<br>【活力】達到第5階段即轉換成【超活力】，<br>強化攻擊‧回復技能。<br>【超活力】狀態中使用特定技能時就會解除。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龍化累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的龍化量條增加率提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/0ca003e40efaeaec644df1940674fce52.png"></span><span>活力提升‧攻＆爆擊提升Ⅲ</span></dt><dd><div>依自身的【活力】階段，提升攻擊力與爆擊率。<br>【超活力】時可獲得最大效果，<br>攻擊力提升20％、爆擊率提升8％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痺抗性＋100％</span></dt><dd><div>陷入「麻痺」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>超活力之鏈‧攻＋20％</span></dt><dd><div>發動「超活力」時，<br>發動【攻擊力於15秒之間上升20%】效果。</div></dd></dl></div></div></div><div>※以上為最高Lv、瑪納之環全數解放時的能力值，並非獲得時的能力值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1829d6dcaa240f1bcf9d9c9ffb04aa6b.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>739</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>521</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>旅行中的祭典職人。<br>日初之國的祭典職人‧夜天的弟子兼搭檔。<br>從攤販準備到抬神轎的引導，負責的工作<br>非常廣泛。雖言行舉止頗粗暴，但十分勤奮<br>且擅於照顧他人。散發著大姐姐的氣質。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3f0dec434b5784c125591b226dcf5f662.png"></span>
+				<span>神樂曲藝‧業刀亂魔</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人闇屬性傷害，<br>使自身的【活力】提升1階段。<br>自身的剩餘HP越少，則給予的傷害增加越多。<br>【活力】達到第5階段即轉換成【超活力】，<br>強化攻擊‧回復技能。<br>【超活力】狀態中使用特定技能時就會解除。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6c0d33ea3eb33415241d8f0ee34c041a2.png"></span>
+				<span>祭機一轉</span>
+			</dt>
+			<dd>
+				<div>
+					完全解除附加於自身的減益效果。<br>使用此技能時若自身HP未滿30％，<br>則自身的攻擊力於10秒之間上升15％。<br>使用此技能時若自身HP在30％以上，<br>則HP轉換成最大值的20％，並獲得<br>【使最大HP 80％以下的傷害無效化之特殊盾】。<br>此盾的效果只限1次，與一般的盾可以重複。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻擊力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的攻擊力提升10%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>活力之鏈‧活力Ⅲ</span></dt><dd><div>獲得【活力】提升增益效果時，<br>有80％機率使自身的【活力】再提升1階段。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痺抗性＋100％</span></dt><dd><div>陷入「麻痺」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8c8841b3f5aa35fb71f07f9075152dba2.png"></span><span>危機‧攻＆攻擊速度提升Ⅲ</span></dt><dd><div>HP減少至30％以下時，<br>攻擊力提升20％、攻擊速度提升10％。</div></dd></dl></div></div></div><div>※以上為最高Lv、瑪納之環全數解放時的能力值，並非獲得時的能力值。</div><div><br></div><div>【精選龍族介紹】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7ff2a8610ac519cabd53496f447e25fc.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1006</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>潛於闇而生於影的龍族。<br>堅硬的龍鱗宛如鎧甲般覆蓋全身，<br>使用獨創的招式擊敗敵人。<br>據說人們向他請教，並習得戰術，<br>是日初之國中忍者的起源。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5347ab03287b73332172842f38879f5a2.png"></span>
+				<span>忍術‧影身手裏劍</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人闇屬性傷害，<br>使隊伍全員進入【超活力】狀態。<br>【超活力】狀態中使用特定技能時就會解除。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】攻擊力＋20％</span></dt><dd><div>裝備角色如果為闇屬性，<br>則裝備角色的攻擊力提升20％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【闇】技能傷害＋70％</span></dt><dd><div>裝備角色如果為闇屬性，<br>則裝備角色的攻擊技能傷害提升70％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div><div><br></div>
+
+start_time:1561874400; update_time1561529156

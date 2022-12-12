@@ -1,0 +1,196 @@
+article_id:179
+category_name:公告
+title_name:傳說召喚「迎亥福夜之凱旋晨曦」開始舉辦！
+image_path:
+
+message:<div>傳說召喚「迎亥福夜之凱旋晨曦」已於<span class="local_date" data-local_date="1546236000"></span>開始舉辦！</div><div><br></div><div>期間限定的角色‧龍族‧龍輝護符將於傳說召喚中登場。</div><div>此外，精選對象之角色‧龍族‧龍輝護符的出現機率將會上升。</div><div><br></div><div>【期間限定的角色‧龍族‧龍輝護符】</div><div>■角色</div><div>「家康（闇／刀）」、「山茶（闇／斧）」、「阿迪斯（風／刀）」</div><div>■龍族</div><div>「摩利支天（闇）」</div><div>■龍輝護符</div><div>「謹賀新年」、「來自日初之國的使者」、「羽子板對決！」</div><div><br></div><div>此外，龍輝護符「榮耀之光‧高照‧阿爾貝利亞！」將以非期間限定全新登場！</div><div><br></div><div>※其他精選詳細內容，請點選遊戲內下方選單列的「召喚」後，從「召喚資訊」進行確認。</div><div><br></div><div>【傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1546236000"></span> ～ <span class="local_date" data-local_date="1547099940"></span></div><div><br></div><div>部分精選對象之角色‧龍族‧龍輝護符介紹如下。</div><div><br></div><div>【精選角色介紹】</div><div>&nbsp;<div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/647517a1089101d0caf7712743d1fe10.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>80</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>739</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>521</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>2500</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">角色詳細</div>
+			<div class="param">
+				<ul>
+					<li>統治東方島國日初之國，<br>「十二龍氏」之一的亥之龍氏。<br>身為劍之達人，與戰龍摩利支天締結契約。<br>雖是萬夫莫敵的猛將，但本性愛好和平，<br>是個討厭戰爭的溫柔青年。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/63ee5e3e76ff44193f35dafa603b95e42.png"></span>
+				<span>奧義‧夜櫻八連斬</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人闇屬性傷害，<br>使其陷入「刀傷」狀態。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7795adf923ad95d0a2da78ff4a1d96292.png"></span>
+				<span>秘技‧戰刃之陣</span>
+			</dt>
+			<dd>
+				<div>
+					於15秒之間發動【戰刃之陣】。<br>此效果期間中獲得自身的HP持續回復效果，<br>並使自身的攻擊對陷入「刀傷」狀態的敵方<br>爆擊率上升15％。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻擊力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的攻擊力提升10%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>HP70％‧爆擊＋10％</span></dt><dd><div>HP在70％以上時，<br>攻擊時發生爆擊的機率提升10％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痺抗性＋100％</span></dt><dd><div>陷入「麻痺」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>爆擊傷害＋20％</span></dt><dd><div>爆擊時的傷害倍率提升20％。</div></dd></dl></div></div></div><div>※以上為最高Lv、瑪納之環全數解放時的能力值，並非獲得時的能力值。</div><div><br></div><div>【精選龍族介紹】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/495e005ad8840c87bd5a4e91864e883b.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>374</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>121</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>995</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">龍族詳細</div>
+			<div class="param">
+				<ul>
+					<li>輔佐日初之國的龍族之長‧天照的<br>十二龍之一。別名「戰龍」。<br>性格好戰，其力萬夫莫敵，<br>受武士們尊崇為勝利的象徵。<br>令野豬為其僕從，聽命於己。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/63ee5e3e76ff44193f35dafa603b95e42.png"></span>
+				<span>曉刃連斬</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人闇屬性傷害，<br>使其陷入「刀傷」狀態。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】攻擊力＋60％</span></dt><dd><div>裝備角色如果為闇屬性，<br>則裝備角色的攻擊力提升60％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【精選龍輝護符介紹】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8499874a4b3b27c98e9b333a17d3e0c2.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>195</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>46</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>421</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span><span>光屬性抗性＋10％</span></dt><dd><div>光屬性傷害減少10％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>【闇】麻痺抗性＋40％</span></dt><dd><div>裝備角色如果為闇屬性，<br>則陷入「麻痺」狀態機率下降40％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放的能力值，並非獲得時的能力值。</div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/959cfcc4fedde0e9eb51eaac854bb4a9.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>177</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>64</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>381</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能傷害＋25％</span></dt><dd><div>攻擊技能傷害提升25％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>技能累積＋5％</span></dt><dd><div>技能量條的增加率提升5％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 本召喚活動中登場的精選角色、龍族、龍輝護符，有可能會在之後舉行的召喚活動中再度登場（★的數量和出現機率有可能會有所變更）。</div><div>2. 傳說召喚的出現機率，請點選遊戲內下方選單列的「召喚」後，從「出現機率」進行確認。</div><div>3. 其他精選詳細內容，請點選遊戲內下方選單列的「召喚」後，從「召喚資訊」進行確認。</div><div>4. 召喚結果如出現已經成為夥伴的角色時，將改為獲得「覺醒之露」。可獲得的「覺醒之露」數量，將依角色★的數量不同而有所差異。</div><div>5. 「每日1次限定召喚」僅可使用「龍光鑽石」召喚。「每日1次限定召喚」將於每日14:00進行重置。</div><div>6. 連續10次後，若沒有出現★5的角色、龍族、龍輝護符之情況，於下次進行召喚時，★5角色、龍族、龍輝護符出現機率會上升。出現機率上升的詳細，請點選遊戲內下方選單列的「召喚」後，從「召喚資訊」&rarr;「詳細」&rarr;「關於傳說召喚」進行確認。</div><div>7. 其他注意事項，請點選遊戲內下方選單列的「召喚」後，從「召喚情報」&rarr;「詳細」&rarr;「注意事項」進行確認。</div><div>8. 傳說召喚的舉行期間和內容，可能會在無預先告知下進行變更。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div><br></div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1546236000; update_time1547100011

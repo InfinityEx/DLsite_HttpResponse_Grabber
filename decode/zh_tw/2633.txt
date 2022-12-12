@@ -1,0 +1,243 @@
+article_id:2633
+category_name:公告
+title_name:部分龍族追加第5階段上限解放！
+image_path:
+
+message:<div>遊戲中部分龍族將於<span class="local_date" data-local_date="1637906400"></span>起追加「第5階段」上限解放。</div><div><br></div><div>本次追加的對象龍族和其能力值詳細如下：</div><div><br></div><div>■對象龍族</div><div>★5 阿魯庫托斯：火</div><div>★5 咕嚕曼：水</div><div>★5 龍龍：風</div><div>★5 萊格：光</div><div>★5 奈亞拉托提普：闇</div><div><br></div><div>■能力值介紹</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/8b987cdf7e3de1db013db004b27687af2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">阿魯庫托斯</div><div class="cv">CV:高木涉</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>394</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>141</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,145</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>螺旋式龍族墜擊</span>
+			</dt>
+			<dd><div>給予前方敵人傷害，使其陷入「昏厥」狀態。</div><div class="skill-detail">威力：600 × 1 Hit<br>威力：1,400 × 1 Hit<br>特殊效果<br>‧昏厥<br>　效果時間：7 秒<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻擊力＆爆擊威力提升Ⅵ</span></dt><dd><div>裝備角色如果為火屬性，<br>則裝備角色的攻擊力提升50％，<br>爆擊時的傷害倍率提升60％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9594eab1b34917ded6525a967e47909c2.png"></span><span>【火】心力激發Ⅰ</span></dt><dd><div>裝備角色如果為火屬性，<br>任務開始時給予自身180秒【心力激發】增益效果。<br>此效果期間中爆擊時的傷害倍率提升30％。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/69d991b14faaaf3ebcb573b66ac5c2072.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">咕嚕曼</div><div class="cv">CV:高城元氣</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>390</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>145</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,145</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>軟綿綿好好吃</span>
+			</dt>
+			<dd><div>回復自身HP，並使龍化量條提升，<br>龍化時間延長。<br>龍化時間的延長不超過最大值。</div><div class="skill-detail">回復力：45<br>龍化量條回復量：20％<br>特殊效果<br>‧龍化時間延長<br>　效果時間：5 秒<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【水】攻擊力＆爆擊威力提升Ⅵ</span></dt><dd><div>裝備角色如果為水屬性，<br>則裝備角色的攻擊力提升50％，<br>爆擊時的傷害倍率提升60％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9594eab1b34917ded6525a967e47909c2.png"></span><span>【水】心力激發Ⅰ</span></dt><dd><div>裝備角色如果為水屬性，<br>任務開始時給予自身180秒【心力激發】增益效果。<br>此效果期間中爆擊時的傷害倍率提升30％。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/15736d7df91aea2424dafdbce22f36792.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">龍龍</div><div class="cv">CV:チョー</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>389</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>146</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,145</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>仙氣咆哮波</span>
+			</dt>
+			<dd><div>給予直線上敵人傷害。</div><div class="skill-detail">威力：186 × 6 Hit<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【風】攻擊力＆爆擊威力提升Ⅵ</span></dt><dd><div>裝備角色如果為風屬性，<br>則裝備角色的攻擊力提升50％，<br>爆擊時的傷害倍率提升60％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9594eab1b34917ded6525a967e47909c2.png"></span><span>【風】心力激發Ⅰ</span></dt><dd><div>裝備角色如果為風屬性，<br>任務開始時給予自身180秒【心力激發】增益效果。<br>此效果期間中爆擊時的傷害倍率提升30％。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/5383ad7f3041fa32b7c9fc55c2e652a92.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">萊格</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>397</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>139</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,146</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>電迅破擊</span>
+			</dt>
+			<dd><div>給予前方敵人傷害，使其陷入「麻痺」狀態。</div><div class="skill-detail">威力：274 × 4 Hit<br>特殊效果<br>‧麻痺<br>　效果時間：13 秒<br>　效果間隔：3.9 秒<br>　威力：88.3<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>【光】HP＆攻擊力＋40％</span></dt><dd><div>裝備角色如果為光屬性，<br>則裝備角色的HP及攻擊力提升40％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>【光】力量激發Ⅱ</span></dt><dd><div>裝備角色如果為光屬性，<br>任務開始時給予自身180秒【力量激發】增益效果。<br>此效果期間中攻擊力提升40％。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/688db5ef39b23720ca103d17bb7d09782.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">奈亞拉托提普</div><div class="cv">CV:長繩まりあ＆速水獎</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>388</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>148</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,146</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>無盡之闇</span>
+			</dt>
+			<dd><div>給予前方敵人傷害。</div><div class="skill-detail">威力：736 × 2 Hit<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>【闇】攻擊力＋50％＆力量激發Ⅱ</span></dt><dd><div>裝備角色如果為闇屬性，<br>則裝備角色的攻擊力提升50％，<br>任務開始時給予自身180秒【力量激發】增益效果。<br>此效果期間中攻擊力提升40％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>嚎月者Ⅱ</span></dt><dd><div>裝備角色如果為闇屬性，且HP減少至30％以下時，<br>給予自身【20秒間，染血御舌】增益效果。<br>【染血御舌】中只限1次使最大HP 60％以下的<br>傷害無效化，攻擊力上升30％。<br>【染血御舌】不會重複，受到攻擊後將會解除。</div></dd></dl></div></div></div><div><br></div><div><br></div><div>■注意事項</div><div>1. 本公告內記載的龍族能力值為Lv.120、上限解放5階段、信賴度最高時的能力值。</div><div>2. 能力值不包含因能力而變動的數值。</div><div>3. 本公告公開前的公告或介紹影片中所記載的上述龍族能力值均為Lv.100、信賴度最高時的能力值。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1637820000; update_time1637550189

@@ -1,0 +1,165 @@
+article_id:1379
+category_name:公告
+title_name:慕慕（萬聖節Ver.）再度登場！傳說召喚「萬聖節‧奇想2」再度舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>傳說召喚「萬聖節‧奇想2」預計將於<span class="local_date" data-local_date="1592546400"></span>起再度舉辦。</div><div><br></div><div>期間限定角色‧龍族將於傳說召喚中再度登場。</div><div>另外，精選對象之角色‧龍族的出現機率將會上升。</div><div><span style="color: rgb(226, 80, 65);">※本召喚內容不包含同時開放的傳說召喚【迎擊戰～「我」與「我」的共同戰線～精選】</span><span style="color: rgb(226, 80, 65);">中新追加的角色。</span></div><div><br></div><div>【傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1592546400"></span> ～ <span class="local_date" data-local_date="1593410340"></span></div><div><br></div><div>部分再度登場的期間限定精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f43dbc4ab4e49ca25e8f0e1748cb013f.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>781</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>493</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,514</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>身穿萬聖節風蝙蝠禮服的緋龍。<br>戀愛的攻勢也比平時更加大膽！的預定啦，<br>但由於平時就很大膽所以沒什麼改變。<br>這身服裝似乎擁有能讓人看見<br>一晚夢境的力量，但是……</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ef2fadd4e5171b8628a69b7295d667602.png"></span>
+				<span>玩心轉盤</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人火屬性傷害，<br>並於地面設置10秒【防禦減益效果領域】。<br>在此領域中的敵方，防禦力下降15％。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9b77a1b01e96ac120e7b364eab82cff82.png"></span>
+				<span>甜美想像</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					隊伍內所有火屬性角色的攻擊力<br>於15秒之間上升20%，<br>並使自身於15秒之間發動【幻夢增幅】。<br>此效果期間中自身的爆擊率上升5％。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span>
+				<span>爆擊傷害＋30％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員爆擊時的傷害倍率提升30％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>【火】龍化：龍化累積＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為火屬性，<br>則龍化量條增加率提升20％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9c5103db90e69da8615562e3b55852922.png"></span><span>甜蜜緋龍現身Ⅱ</span></dt><dd><div>陷入「火燒」狀態機率下降100％。<br>不論裝備任何龍族，龍化時皆變身為布倫希爾德。<br>龍化中的攻擊速度提升15％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>龍形幻夢Ⅱ</span></dt><dd><div>龍化中防禦力提升100％，<br>並於【幻夢增幅】增益效果發動期間，<br>龍化中的傷害倍率提升20%</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>【精選龍族介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/bea135222c966a5dc820311cc4d8be9f.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>376</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>119</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,025</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>變裝成魔法師的瑪利提姆斯。<br>帶著許多點心在鎮上闊步。<br>就算對方沒說「不給糖就搗蛋」，<br>他也會將點心發給見到的所有人。有時不小心<br>給了乖寶寶太多點心，而被小孩的母親責罵。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>進場大魔術♪</span>
+			</dt>
+			<dd>
+				<div>
+					回復我方全員HP，<br>並於地面設置10秒【技能傷害增益效果領域】。<br>在此領域中的我方，技能傷害上升30％。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【水】HP＋30％</span></dt><dd><div>裝備角色如果為水屬性，<br>則裝備角色的HP提升30％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【水】技能累積＋35％</span></dt><dd><div>裝備角色如果為水屬性，<br>則技能量條的增加率提升35％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1592460000; update_time1591865346

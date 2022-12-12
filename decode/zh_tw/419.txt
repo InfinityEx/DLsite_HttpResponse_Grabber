@@ -1,0 +1,114 @@
+article_id:419
+category_name:公告
+title_name:★5龍族必中！「白金傳說召喚」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「白金傳說召喚」預計將於<span class="local_date" data-local_date="1556604000"></span>起開始舉行。</div><div><br></div><div>白金傳說召喚為「10連召喚」的第10發將必中★5龍族的期間限定召喚。</div><div>期間內僅可進行1次「★5龍族必中」的10連召喚。</div><div>本召喚僅限使用龍光鑽石。</div><div>※本召喚內容中，包含期間限定的★5角色「馬爾斯」「菲約爾姆」「維洛妮卡」，但並非必中對象。</div><div><br></div><div><br></div><div>【白金傳說召喚舉辦期間】</div><div><span class="local_date" data-local_date="1556604000"></span> ～ <span class="local_date" data-local_date="1557813540"></span></div><div><br></div><div>「10連召喚」第10發必中的★5龍族，其部分對象將介紹如下：</div><div><br></div><div>【第10發★5必中對象龍族介紹】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/63dbca0f0fbe1b66cee2961921578d79.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>操控火焰的冥界守門人。個性自由奔放，<br>經常扔下工作不管跑出去玩。<br>兩手鑲著像手偶一樣的狗，分別為<br>「可可」和「米米」。各自擁有意識，<br>能夠聊天，亦可浮在空中進行攻擊。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/46abce3ca5f53484635af11860f0d2c02.png"></span>
+				<span>熔岩破滅</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人火屬性傷害，<br>並使其陷入「火燒」狀態。<br>此外，使攻擊力下降5％、防禦力下降5％。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻擊力＋60％</span></dt><dd><div>裝備角色如果為火屬性，<br>則裝備角色的攻擊力提升60％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1c3b3a4a71d08ee7a2f426903b3678dd.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>383</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>113</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>981</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>住在某座森林中，滿懷慈愛的龍族。<br>期盼著愛兒的誕生，歷時數百年皆在<br>孵育著懷中的蛋。性格平和易親近，<br>但其內心懷有的深厚愛情，<br>使她在蛋面臨危險時會陷入混亂。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/71ec1ea232ae067c124323752959fb9f2.png"></span>
+				<span>虹彩爆泡</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人水屬性傷害，<br>回復我方全員HP。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【水】HP＋40％</span></dt><dd><div>裝備角色如果為水屬性，<br>則裝備角色的HP提升40％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/561f0cc02896bcc3c7580180041730282.png"></span><span>【水】Overdrive特攻＋60％</span></dt><dd><div>裝備角色如果為水屬性，<br>則給予Overdrive狀態中的敵方傷害提升60％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請點擊遊戲內下方選單列的「召喚」後，從「召喚資訊」中的「詳細」進行確認。</div><div>2. 其他精選對象資訊，請點擊遊戲內下方選單列的「召喚」後，從「召喚資訊」中的「召喚資訊」進行確認，或於「出現機率」中的「出現機率一覽」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1556244000; update_time1556241075

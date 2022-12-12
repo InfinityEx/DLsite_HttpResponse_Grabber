@@ -1,0 +1,8 @@
+article_id:93
+category_name:公告
+title_name:聖城新手教學途中無法繼續遊戲的異常現象公告【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，如玩家在盧比持有數未滿50的狀態下進行聖城的新手教學【第1章4-6「聖片與黑影」】時，</div><div>會發生因無法建造盧比礦山導致不能繼續進行遊戲的異常現象。</div><div><br></div><div>關於本異常現象，營運團隊正在進行調査。</div><div>最新進度將於本公告進行更新。</div><div>造成全體玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1542264000"></span>更新</strong></span><br>本異常現象已於<span class="local_date" data-local_date="1542164400"></span>所公開的1.1.5版本修正。<br>玩家更新上述版本後，進行聖城新手教學時將會獲得盧比&times;50。<br><br>做為本異常現象的補償，營運團隊將會發送「盧比&times;50」給於<span class="local_date" data-local_date="1542261600"></span>前開始進行遊戲的玩家。<br>※補償道具領取期限為發送至獎勵箱後7天以內。<br><br>造成全體玩家的不便，營運團隊再次致上最深的歉意。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1542196200; update_time1543910069

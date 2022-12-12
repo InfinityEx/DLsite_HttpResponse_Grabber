@@ -1,0 +1,287 @@
+article_id:2197
+category_name:公告
+title_name:必中FIRE EMBLEM★5角色！「白金傳說召喚」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「白金傳說召喚」預計將於<span class="local_date" data-local_date="1621231200"></span>起開始舉辦。</div><div>&nbsp;</div><div>本次的「白金傳說召喚」為「10連召喚」的第10發將必中★5角色「馬爾斯（火）」、「菲約爾姆（水）」、「維洛妮卡（闇）」、「庫洛武（火）」、「皮亞尼（光）」和「琪姬（水）」其中之一。</div><div>召喚期間內可進行3次白金傳說召喚的「10連召喚」。</div><div>本召喚僅限使用「龍光鑽石」。</div><div><br></div><div>【白金傳說召喚舉辦期間】</div><div><span class="local_date" data-local_date="1621231200"></span> ～ <span class="local_date" data-local_date="1622181599"></span></div><div><br></div><div>「白金傳說召喚」第10發必中的部分對象★5角色介紹如下：</div><div><br></div><div>【第10發必中對象★5角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b499774bab1596bdc99ae7743ed129c2.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>阿利提亞的王子。性格溫和，十分重視夥伴。<br>繼承了遠古英雄安利之血，同時也是<br>持有神劍法爾西昂的救國英雄。<br>但本人卻絲毫不以此為傲，性格直爽開朗。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/32ef379fe20ace4a911e2f24592125a22.png"></span>
+				<span>英雄王之劍</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予前方敵人火屬性傷害，<br>並於15秒之間持續回復自身HP。</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/fbe67bfe88b3d22754684649c11594072.png"></span>
+				<span>炎之紋章</span>
+			</dt>
+			<dd><div>給予直線上敵人火屬性傷害。<br>命中敵人即發動【技能輪轉】，<br>技能效果將隨階段變化。<br>初期狀態：自身的攻擊力於10秒之間上升10％。<br>階段1：隊伍全員的攻擊力於10秒之間上升10％。<br>階段2：於10秒之間隊伍全員的<br>攻擊力上升10％、攻擊速度上升30％。</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龍化累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的龍化量條增加率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【火】連擊：10連擊以上‧攻＋13％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為火屬性，<br>則連擊數為10次以上時，<br>發動【攻擊力提升13％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/455600c228d764a167e2f7825312a7e82.png"></span><span>背水迅速Ⅱ</span></dt><dd><div>HP減少至30％以下時，<br>隊伍全員的技能蓄集100％（龍族技能除外）。<br>此效果每場任務最多可發動1次。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>疾風怒濤‧爆擊＋13％</span></dt><dd><div>連擊數為15次以上時，<br>攻擊時發生爆擊的機率提升13％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1cdd1c5de7f269e4e52a6aaa9f9fddd4.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>791</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>485</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,516</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>夢之國亞爾芙的妖精。<br>個性堅強樂觀又溫柔。<br>擁有能讓人們看見幸福夢境的力量，<br>自己也想為大家帶來幸福。<br>最喜歡和人類的小孩玩樂。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e31c4d483b07c8455dcf2857bee9e1bd2.png"></span>
+				<span>幸福之花</span>
+			</dt>
+			<dd><div>給予目標光屬性傷害，使其陷入「麻痺」狀態。<br>命中敵人即發動【技能輪轉】，<br>技能效果將隨階段變化。<br>階段1：追加「自身的防禦力於10秒之間上升10％」效果。<br>階段2：額外追加「隊伍全員的攻擊力於10秒之間上升10％」效果。</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8c5b8cfcb58b2194599f26e0e929283b2.png"></span>
+				<span>溫柔的夢</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予直線上敵人光屬性傷害，<br>對陷入「麻痺」狀態的敵人傷害上升。<br>於10秒之間隊伍全員的攻擊力上升10％、攻擊速度上升10％。</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1143744471e52c225083bf356743039b2.png"></span>
+				<span>光屬性攻擊傷害＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的光屬性攻擊傷害提升20％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>【光】防禦力＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，<br>則防禦力提升6％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8c8793f1f7fc70ecf3892715fe7629f32.png"></span><span>妖精鼓舞Ⅱ</span></dt><dd><div>任務開始時，給予隊伍全員生命盾。<br>此外，使用技能「溫柔的夢」時，給予自身【片刻美夢】增益效果。<br>【片刻美夢】將使下次使用的爆發攻擊發生變化，<br>【角色「皮亞尼」除外，技能1的技能量條提升40％】、給予隊伍全員【10秒間，攻擊力提升10％、攻擊速度提升10％、防禦力提升20％、闇屬性抗性提升5％、移動速度提升5％（無法重複）】增益效果。<br>【片刻美夢】不會重複，使用爆發攻擊後將會解除，<br>且效果發動後，20秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>詛咒抗性＋100％</span></dt><dd><div>陷入「詛咒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28cbbe44c3b9fd009706ad48a7e4e0f52.png"></span><span>麻痺特攻＋30％</span></dt><dd><div>給予「麻痺」狀態中的敵方傷害提升30％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/709bd27600200b8d61ebc27a47fa07c4.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>761</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>498</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>神龍族的公主。與她天真爛漫的性格以及<br>年幼的外貌相反，體內蘊藏著強大的力量。<br>也因此曾陷入一段很長時間的沉睡。<br>為了守護珍視的人會解放龍石，<br>化身龍族之姿戰鬥。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a1893bcd6433f94720394c97f1e561ca2.png"></span>
+				<span>神龍之翼</span>
+			</dt>
+			<dd><div>給予周圍敵人水屬性傷害。<br>只要此技能命中，自身的神龍化量條就會上升。<br>神龍化時，此技能轉換成「霧之吐息」，效果如下：<br>給予前方敵人水屬性傷害，使其陷入「凍傷」狀態。<br>對陷入「凍傷」狀態的敵人傷害上升。</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/66a5bb3f1f3cd2eb2317ec23ff90eed92.png"></span>
+				<span>龍之技巧</span>
+			</dt>
+			<dd><div>蓄集自身的神龍化量條。<br>神龍化時，此技能轉換成「神龍一擊」，效果如下：<br>給予目標和其周圍敵人水屬性傷害。<br>對陷入「凍傷」狀態的敵人傷害上升。</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d84b02c496bd915cc9ca72d7b486190a2.png"></span>
+				<span>一般攻擊＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的一般攻擊傷害提升20％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>【水】龍化：龍化累積＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，<br>則龍化量條增加率提升20％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6163a3e2bd3e21c7e83f1397180af08e2.png"></span><span>神龍族的公主Ⅱ</span></dt><dd><div>龍化按鈕將轉換成神龍化量條。<br>量條蓄集至一定程度以上時點擊圖示，<br>不論裝備任何龍族皆變身為神龍。<br>再次點擊圖示或隨時間經過將解除神龍狀態。<br>恢復成琪姬後，再次蓄集量條至一定時間後可再變身為神龍。<br>神龍化中，受到的傷害減輕。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>火燒抗性＋100％</span></dt><dd><div>陷入「火燒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/45e56814cd3c293c83f5513d3dc5800b2.png"></span><span>凍傷特攻＋30％</span></dt><dd><div>給予「凍傷」狀態中的敵方傷害提升30％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>【注意事項】</div><div>1.「白金傳說召喚」詳細召喚資訊，請點擊遊戲內下方選單列的「召喚」後，從「白金傳說召喚」的「出現機率」，或於「召喚資訊」中的「詳細」進行確認。</div><div>2.「白金傳說召喚」中無法獲得「龍輝之印」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1621144800; update_time1620711060

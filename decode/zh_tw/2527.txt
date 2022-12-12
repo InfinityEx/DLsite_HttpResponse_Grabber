@@ -1,0 +1,103 @@
+article_id:2527
+category_name:公告
+title_name:「附獎傳說召喚」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「附獎傳說召喚」預計將於<span class="local_date" data-local_date="1633413600"></span>起開始舉辦。</div><div>精選對象之角色出現機率將會上升。</div><div><br></div><div>進行「附獎傳說召喚」可在得到角色‧龍族的同時另外獲得「附獎」。</div><div>附獎分為白金賞、金賞、銀賞、銅賞、5等賞、6等賞共6種。</div><div>進行10連召喚時第10次的附獎將必中白金賞、金賞、銀賞、銅賞其中之一。</div><div><span style="color: rgb(226, 80, 65);">獲得的附獎將發送至獎勵箱的「無期限」項目中。</span></div><div><span style="color: rgb(226, 80, 65);">※同時舉辦的「★5必中嗨森☆有獎刮刮樂」及「白金傳說召喚」不包含本召喚中新追加的角色。</span></div><div><br></div><div>※即使一次使用10張召喚券，也不等於進行「10連召喚」，不保證第10次的附獎必中白金賞、金賞、銀賞、銅賞其中之一。</div><div>※其他附獎一覽和出現機率資訊，請於「附獎傳說召喚」舉辦期間由遊戲內下方選單列的「召喚」＞「出現機率」＞「附獎」進行確認。</div><div><br></div><div>【新追加的精選對象之角色】</div><div>■角色</div><div>★5 柯恩：水／刀</div><div><br></div><div>【附獎傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1633413600"></span> ～ <span class="local_date" data-local_date="1634277599"></span></div><div><br></div><div>部分附獎內容之介紹如下：</div><div><br></div><div>【部分附獎內容一覽】</div><div>■白金賞</div><div>若出現白金賞時，將根據出現機率從下列道具中獲得其中1種。</div><div>‧金剛晶 1個</div><div>‧大馬士革鋼 1個</div><div>‧虹精金鋼 1個</div><div><br></div><div>■金賞</div><div>若出現金賞時，將根據出現機率從下列道具中獲得其中1種。</div><div>‧金剛原石 3個</div><div>‧英雄之證 2個</div><div>‧夢想聖鑰 2個</div><div>‧星空光沙 7個</div><div><br></div><div>■銀賞</div><div>若出現銀賞時，將根據出現機率從下列道具中獲得其中1種。</div><div>‧英雄之證 1個</div><div>‧金剛原石 1個</div><div>‧星空光沙 3個</div><div>‧大馬士革骸晶 2個</div><div>‧月光晶 2個</div><div>‧騎士之證 2個</div><div>‧真‧青龍之尾 3個</div><div>‧真‧闇龍之尾 3個</div><div>‧青龍勇武晶石 5個</div><div>‧闇龍勇武晶石 5個</div><div>‧彩虹寶珠 3個</div><div>‧青藍水寶珠 5個</div><div>‧幽世闇寶珠 5個</div><div><br></div><div>新追加精選對象之角色介紹如下。</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/781dca97bcc2032724a52c7f0b370f6d.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>743</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>北方伊利亞教會所屬的「使徒」之指揮官。<br>以其敏銳的觀察力與超群的領袖氣質，<br>統率著性格各具特色的眾使徒。<br>身兼教廷的研究者，十分精通煉金術。<br>與「天使」聖德芬連結著聖痕。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7d34a362ac8c0f2daffee12a2c8007272.png"></span>
+				<span>指令串擊</span>
+			</dt>
+			<dd><div>一般型態<br>給予周圍敵人傷害，<br>並依賦予自身的增益效果發動追加效果。<br>防護制度：給予自身防禦力提升氣場。<br>治癒制度：回復自身HP。<br>清除制度：解除自身異常狀態。<br><br>【聖痕之枷解放】狀態<br>給予周圍敵人傷害，<br>並發動一般型態時的所有追加效果。</div><div class="skill-detail">威力：2,400 × 1 Hit<br>回復力：50<br>所需技能點數：2,640<br>特殊效果<br>‧全異常狀態回復<br>獲得氣場<br>‧防禦力提升（爆發氣場上限Lv. 1）<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/73882cbce4ae7690b3bee19bc515ce6f2.png"></span>
+				<span>帝王入堡</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予周圍敵人傷害，使其陷入「凍傷」狀態。<br>再給予敵人「毒」、「火燒」、「麻痺」、<br>「裂風」、「閃熱」、「暗黑」、「劫火」之中，<br>隨機2種異常狀態。</div><div class="skill-detail">威力：300 × 7 Hit<br>所需技能點數：5,280<br>所需共享技能點數：11,431<br>特殊效果<br>‧凍傷<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：31<br>・毒<br>　效果時間：15 秒<br>　效果間隔：2.9 秒<br>　威力：43<br>・火燒<br>　效果時間：12 秒<br>　效果間隔：3.9 秒<br>　威力：72<br>・麻痺<br>　效果時間：13 秒<br>　效果間隔：3.9 秒<br>　威力：72<br>・裂風<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：31<br>・閃熱<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：31<br>・暗黑<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：31<br>・劫火<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：31</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻擊力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的攻擊力提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>【水】堅守：HP80％‧抗火＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，且HP在80％以上時，<br>則火屬性抗性提升6％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>聖德芬的聖約Ⅱ</span></dt><dd><div>一般型態<br>‧任務開始時，給予自身<br>【300秒間，聖痕之枷】減益效果。<br>‧任務開始時，給予自身【防護制度】增益效果。<br>‧發動技能「指令串擊」時，<br>則【聖痕之枷】剩餘時間減少9秒。<br>‧解除我方的異常狀態時，<br>則【聖痕之枷】剩餘時間減少30秒。<br>‧爆發攻擊每持續蓄集1.5秒，<br>則自身的增益效果將依【防護制度】、<br>【治癒制度】、【清除制度】的順序切換。<br><br>【聖痕之枷解放】狀態<br>一次給予自身【防護制度】、【治癒制度】、<br>【清除制度】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8831e94809b45e724e1966915c4e75b82.png"></span><span>異常狀態特攻Ⅱ</span></dt><dd><div>給予異常狀態中的敵方傷害提升25％。<br>敵方擁有2種以上異常狀態時，使傷害更加提升。<br>敵方擁有4種以上異常狀態時，使效果達到最大，<br>給予的傷害提升15％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 附獎一覽和出現機率資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「附獎」進行確認。</div><div>3. 進行「10連召喚」或一次使用10張召喚券所獲得的道具重複時，同種道具將統一發送至獎勵箱的「無期限」項目中。</div><div>4. 精選對象角色在「阿爾貝利亞競技大亂鬥」中可改變角色外觀的「角色造型」將轉為SALE中，並減少解鎖時所需的道具。</div><div>※有部分角色無法解鎖角色造型。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1633327200; update_time1633313938

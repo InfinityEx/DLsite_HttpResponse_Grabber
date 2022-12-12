@@ -1,0 +1,518 @@
+article_id:1517
+category_name:公告
+title_name:瑪納之環「第6層」解鎖角色追加！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>遊戲中部分角色的瑪納之環，將於<span class="local_date" data-local_date="1597730400"></span>追加「第6層」。</div><div><br></div><div>本次追加的對象角色和其能力值詳細如下：</div><div>※角色的技能等級提升後，設定成共享技能時技能量條的蓄集更為困難。</div><div><br></div><div>■對象角色</div><div>★5 朱莉葉塔：光／斧</div><div>★5 赫德嘉：光／法杖</div><div>★5 阿爾貝爾：光／劍</div><div>★5 克菈兒（夏日Ver.）：光／弓</div><div>★4 天音：光／魔杖</div><div><br></div><div><br></div><div>■能力值介紹</div><div>‧★5角色</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/66a16f43e2a36034209cd19fad859df82.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">朱莉葉塔</div><div class="cv">CV:茅野愛衣</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/374013321d6b145623fb1460c387fba32.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>989</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>558</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>3,217</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>空降突擊</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人光屬性傷害。<br>回復使用技能時所受到的傷害50％份量的HP。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8c34fcb89d5a300e55bf63bd264927542.png"></span>
+				<span>光榮防禦</span>
+			</dt>
+			<dd>
+				<div>
+					於20秒之間發動【堅定意志】。<br>【堅定意志】期間中自身的防禦力上升50％，<br>不會因為被攻擊而行動中斷。<br>此外，發動【神光爆發】。<br>下次使用的爆發攻擊傷害上升，並被賦予【使攻擊力於10秒之間下降10％】效果。<br>【神光爆發】不會重複，使用爆發攻擊後將會解除。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防禦力＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的防禦力提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】堅守：HP80％‧抗闇＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，且HP在80％以上時，<br>則闇屬性抗性提升6％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/97a6a9c25dfb5181cf44056f25fad1b82.png"></span><span>花樣千金騎士</span></dt><dd><div>防禦力提升20％。<br>此外，每次擊退5個敵人時發動【攻擊力提升6％】增益效果。<br>此效果每場任務最多可發動5次。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/44f0779779abb7a0e021a3d74fdafb9d2.png"></span><span>毒抗性‧改＋100％</span></dt><dd><div>陷入「毒」狀態機率下降100％。<br>當受到帶有「毒」的攻擊時，給予自身<br>【10秒間，攻擊力提升15％】增益效果。<br>增益效果發動後，15秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>背水之陣‧治癒Ⅴ</span></dt><dd><div>HP減少至30％以下時，<br>發動【20秒間，HP持續回復】增益效果。<br>此效果每場任務最多可發動3次。<br>此效果發動後，15秒間不會再次發動。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/6970894c821b5d97ddf3c53754050a7a2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">赫德嘉</div><div class="cv">CV:坂本真綾</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/b447b332ae5b8139a67d676456ac9aac2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>972</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>558</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>3,220</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>療癒吐息</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					回復我方全員HP，於15秒之間持續回復。<br>此外，解除我方的「詛咒」狀態。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e4c4b6c2cda86984ab5b0997b4b26db62.png"></span>
+				<span>神聖守護者</span>
+			</dt>
+			<dd>
+				<div>
+					給予隊伍全員<br>【使最大HP 30％以下的傷害無效化之盾】，<br>並於15秒之間持續回復。<br>盾的效果只限1次，和同種類的盾無法重複。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回復技能效果＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的回復技能效果提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【光】無傷：HP60％‧攻＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，且HP在60％以上時，<br>則發動【攻擊力提升6％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>技能蓄集＆開場技能量條＋100％</span></dt><dd><div>任務開始時技能量條提升100％。<br>使用技能時，技能量條提升5％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/154d2e637eaa966dfad5b6805cfc514f2.png"></span><span>詛咒抗性‧改＋100％</span></dt><dd><div>陷入「詛咒」狀態機率下降100％。<br>當受到帶有「詛咒」的攻擊時，<br>給予自身【10秒間，攻擊力提升15％】增益效果。<br>此效果發動後，15秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e771174f5c78b8ef7b04dafb36233df62.png"></span><span>神託的聖主教</span></dt><dd><div>HP在70％以上時，回復技能的效果提升15％。<br>此外，使用技能「療癒吐息」時，給予自身【神託的聖主教】增益效果。<br>強化2次自身的爆發攻擊。<br>受到強化的爆發攻擊將轉換成【神聖之治癒】，<br>回復隊伍內HP比例最低的角色HP。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/c6e35e1fd55a6990c14367617056c8192.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">阿爾貝爾</div><div class="cv">CV:綠川光</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>908</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>602</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>3,180</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>雷光爆裂</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人光屬性傷害。<br>對陷入「麻痺」狀態的敵人傷害上升。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>雷霆衝擊</span>
+			</dt>
+			<dd>
+				<div>
+					25秒之間，使自身進入【帶電】狀態。<br>此效果期間中將強化技能「雷光爆裂」與爆發攻擊。<br>爆發攻擊可蓄集2階段，蓄集至第2階段獲得【使敵人陷入「麻痺」狀態】效果。<br>如果自身並非【帶電】狀態時，<br>則此技能將隨時間經過而自動蓄集。<br>此蓄集不受到「技能量條的增加率提升效果」影響。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龍化累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的龍化量條增加率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>【光】麻痺：麻痺觸發‧爆擊＋13％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，<br>則自身使敵方陷入麻痺狀態時，<br>發動【15秒間，爆擊率提升13％】增益效果。<br>此效果發動後，10秒間不會再次發動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/fd589517c61c65312e1509e13a36cd412.png"></span><span>衝擊閃斬</span></dt><dd><div>爆發攻擊傷害提升50％。<br>此外，爆發攻擊獲得永久強化，使用爆發攻擊時消費技能「雷霆衝擊」最大5％的技能量條。<br>「帶電」狀態時，使用爆發攻擊不會消費技能「雷霆衝擊」的技能量條，使爆發攻擊傷害提升10％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/44f0779779abb7a0e021a3d74fdafb9d2.png"></span><span>毒抗性‧改＋100％</span></dt><dd><div>陷入「毒」狀態機率下降100％。<br>當受到帶有「毒」的攻擊時，給予自身<br>【10秒間，攻擊力提升15％】增益效果。<br>增益效果發動後，15秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cb9a79af6cfdc75b0e5d4d610cfbe8c32.png"></span><span>電光蓄集Ⅲ</span></dt><dd><div>「帶電」狀態時，攻擊力提升30％，<br>攻擊速度提升10%。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/0f5a1cc0d6b20d1d23f26b5eb889bacd2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">克菈兒（夏日Ver.）</div><div class="cv">CV:內山夕實</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>968</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>562</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>3,210</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f25f4311ce232f342e317c73757822902.png"></span>
+				<span>陽傘射擊</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人光屬性傷害，<br>使其陷入「麻痺」狀態。<br>攻擊時，追加發射<br>與自身增益效果同數量的【追蹤彈】。<br>【追蹤彈】最多可追加發射5發。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>熱帶休憩</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予自身及周圍我方於10秒之間攻擊力上升5%、<br>爆擊率上升3％、技能傷害上升10％，<br>以及技能量條增加率提升10％。<br>此外，依照此技能給予包含自身在內已獲得增益效果的我方人數，追加發動以下效果：<br>1人以上：自身的防禦力於10秒之間上升10％。<br>2人以上：自身爆擊時的傷害倍率於10秒之間上升10％。<br>3人以上：可即時發動自身的技能1。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能量條增加率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】連擊：10連擊以上‧抗闇＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，<br>則連擊數為10次以上時，<br>發動【闇屬性抗性提升10％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>麻痺觸發‧技能累積＋12％</span></dt><dd><div>自身使敵方陷入麻痺狀態時，給予自身<br>【20秒間，技能量條的增加率提升12％】增益效果。<br>此效果發動後，5秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/154d2e637eaa966dfad5b6805cfc514f2.png"></span><span>詛咒抗性‧改＋100％</span></dt><dd><div>陷入「詛咒」狀態機率下降100％。<br>當受到帶有「詛咒」的攻擊時，<br>給予自身【10秒間，攻擊力提升15％】增益效果。<br>此效果發動後，15秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28cbbe44c3b9fd009706ad48a7e4e0f52.png"></span><span>麻痺特攻＋35％</span></dt><dd><div>給予「麻痺」狀態中的敵方傷害提升35％。</div></dd></dl></div></div></div><div><br></div><div>‧★4角色</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/7117a284870af393bd1414f949b37eea2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">天音</div><div class="cv">CV:田村ゆかり</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>874</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>592</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>3,166</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>天津神的雷擊</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人光屬性傷害，使其陷入「麻痺」狀態。<br>此外，依自身增益效果數，額外給予敵人最大2次光屬性傷害。<br>對陷入「麻痺」狀態的敵人傷害上升。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>戰神的重圍</span>
+			</dt>
+			<dd>
+				<div>
+					自身的攻擊力於10秒之間上升20％。<br>此外，最大HP於任務期間上升15％。<br>若發動於自身的HP上升效果值達到上限，<br>即轉換成HP回復效果。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能傷害＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能傷害提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】堅守：HP80％‧抗闇＋5％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，且HP在80％以上時，<br>則闇屬性抗性提升5％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>技能蓄集＆開場技能量條＋100％</span></dt><dd><div>任務開始時技能量條提升100％。<br>使用技能時，技能量條提升5％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/154d2e637eaa966dfad5b6805cfc514f2.png"></span><span>詛咒抗性‧改＋100％</span></dt><dd><div>陷入「詛咒」狀態機率下降100％。<br>當受到帶有「詛咒」的攻擊時，<br>給予自身【10秒間，攻擊力提升15％】增益效果。<br>此效果發動後，15秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a92e675fd730e94b01a7ce6f30bea04b2.png"></span><span>BREAK特攻＋35％</span></dt><dd><div>給予BREAK狀態中的敵方傷害提升35％。</div></dd></dl></div></div></div><div><br></div><div>■注意事項</div><div>1. 本公告內記載的角色能力值為「Lv.100、瑪納之環解放數70」時的能力值。</div><div>2. 能力值不包含因能力而變動的數值。</div><div>3. 本公告公開前的公告或介紹影片中所記載的上述角色能力值均為「Lv.80、瑪納之環解放數50」時的能力值。</div><div>4. 角色的技能等級提升後，設定成共享技能時技能量條的蓄集更為困難。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1597644000; update_time1597636592

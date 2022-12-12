@@ -1,0 +1,8 @@
+article_id:988
+category_name:公告
+title_name:復刻「那姆的奇幻冒險」開始舉辦！
+image_path:https://dragalialost.akamaized.net/attached/information/images/e105a54470cda05ed213557bcbcc71c3.png
+
+message:<div>各位玩家您好</div><div><br></div><div>由愚人節時擔任1日執行總監的那姆所策劃，廣受玩家好評且為期只有一天的可愛萌萌射擊遊戲「那姆的奇幻冒險」 ，已於年末年初限定6天復刻舉辦中！</div><div>此外，已追加期間限定的Mission！</div><div><br></div><div>那姆將再度大鬧森林！</div><div>無論是初次遊玩還是曾經挑戰過的玩家，都歡迎前來大顯身手！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/e105a54470cda05ed213557bcbcc71c3.png"></div><div><br></div><div>■遊戲玩法</div><div>‧奇怪，那姆突然變大了！？&hellip;&hellip;算了，先把困難的事放在一邊，趕快開始緊張刺激的大冒險吧！</div><div>‧用水珠射擊把擋路的敵人全都打倒吧！只要打倒不時出現的「黃金法夫納」，就會出現「莓果」！吃下「莓果」水珠射擊就會LEVEL UP！！</div><div>‧受到敵人攻擊時「愛心」會減少，當「愛心」都用完了就會GAME OVER&hellip;&hellip;不過，遇到危機時只要撐下去「愛心」就會回復，所以要加油喔！</div><div>‧最後的挑戰是&hellip;&hellip;巨大龍族！？躲過猛烈的攻擊，只要擊敗對手就能獲得很多閃亮亮的星星！努力贏得高分吧！</div><div><br></div><div>■活動期間</div><div><span class="local_date" data-local_date="1577772000"></span> ～ <span class="local_date" data-local_date="1578290399"></span></div><div><br></div><div>■期間限定Mission</div><div>已追加以下「期間限定Mission」。</div><div>達成Mission即可獲得龍輝晶石。</div><div>‧來玩「那姆的奇幻冒險」吧</div><div>‧完成「普通」模式吧</div><div><br></div><div>■注意事項</div><div>1. 「那姆的奇幻冒險」為曾於<span class="local_date" data-local_date="1554098400"></span> ～ <span class="local_date" data-local_date="1554184799"></span> 1日限定舉辦的特別活動。</div><div>2. 如在活動期間內開始遊戲，並在活動期間結束後完成，將無法達成「期間限定Mission」的條件。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1577772000; update_time1577263343

@@ -1,0 +1,251 @@
+article_id:2566
+category_name:公告
+title_name:「失落龍絆日」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「失落龍絆日」預計將於<span class="local_date" data-local_date="1635487200"></span>起開始舉辦。</div><div><br></div><div>【關於失落龍絆日】※包含「失落龍絆日　非凡佳選」</div><div>期間限定角色將於失落龍絆日登場。</div><div>此外，★5角色、龍族的初始「出現機率」，將由平時的4％上升至6％！</div><div>※如召喚出★5或★5精選，出現機率將會變回初始設定值6％。</div><div><span style="color: rgb(226, 80, 65);">※同時舉辦的「白金傳說召喚」及「★5必中嗨森☆有獎刮刮樂」不包含本召喚中新追加的期間限定角色與新追加龍族。</span></div><div><br></div><div>【新追加的期間限定精選對象之角色‧龍族】</div><div>■角色</div><div>★5 拉契希（萬聖節Ver.）：光／銃（機關銃模式）</div><div>★5 夏思特（萬聖節Ver.）：闇／弓</div><div><br></div><div>【新追加的精選對象之龍族】</div><div>■龍族</div><div>★5 克羅諾斯‧夜（龍絆日Ver.）：光</div><div><br></div><div>【失落龍絆日舉辦期間】</div><div><span class="local_date" data-local_date="1635487200"></span> ～ <span class="local_date" data-local_date="1636005599"></span></div><div><br></div><div>精選對象之角色‧龍族介紹如下：</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/cbeece93ba62f10c654681e0ab1f5f29.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>擁有操控時間能力的龍族。<br>來自與此世界經歷不同歷史的異界。<br>表面上協助王子並稱他為「吾王」，<br>但其真正的主人似乎存在於異界之中。<br>那究竟會是……？</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>死亡終結次元</span>
+			</dt>
+			<dd><div>給予目標和其周圍敵人傷害。</div><div class="skill-detail">威力：500 × 7 Hit<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻擊力＋100％</span></dt><dd><div>裝備角色如果為光屬性，<br>則裝備角色的攻擊力提升100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/49a662fbf8459e355210632df883cb9e2.png"></span><span>時空超越Ⅱ</span></dt><dd><div>此能力僅限龍化為<br>「克羅諾斯‧夜（龍絆日Ver.）」時發動。<br>‧可使用以下效果的龍族爆發。<br>給予目標傷害。此龍族爆發可蓄集3階段，<br>並可依階段提升威力。<br>‧龍化時間不會隨時間經過而減少，<br>而是於一般攻擊、龍族爆發及技能發動時消費。<br>‧於可迴避的狀態下受到敵方攻擊時，<br>部分攻擊除外，將消費龍化時間自動迴避攻擊。</div></dd></dl></div></div></div><div>※以上為Lv.100、上限解放4階段、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8f528b247c87608542b391a8c159a6ad.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,500</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>可使用的模式</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/4805e47916f093eb2b9049cff29e9eb72.png"><img src="https://dragalialost.akamaized.net/attached/information/images/d45c68ecb3b1d88cba2136c949f214772.png"><img src="https://dragalialost.akamaized.net/attached/information/images/1f0f10277cfc223cafe9e19e2d15434d2.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>收下演出戲劇主角時的服裝，<br>並將其作為變裝參加聖城萬聖節的拉契希。<br>「惡作劇是宴會的一環，讓大家更開心。」<br>她聽王子如此解釋後，<br>便開始對惡作劇這個行為抱持興趣。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d787cf6a3aea75191d1a381a2d0c7b942.png"></span>
+				<span>trick: 00 幽靈芬科斯</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予目標和其周圍敵人傷害，<br>使其陷入「閃熱」狀態，<br>並解除其1個增益效果。</div><div class="skill-detail">威力：99 × 12 Hit<br>所需技能點數：4,480<br>所需共享技能點數：7,481<br>特殊效果<br>‧增益效果解除<br>‧閃熱<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41.6<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d746ee4dfa37344598bb40dc36dc00fb2.png"></span>
+				<span>trick: 99 發條裝置</span>
+			</dt>
+			<dd><div>給予周圍敵人傷害，<br>給予自身防禦力提升氣場，並蓄集發條量條。<br>此技能將依目前連擊數<br>提升傷害與發條量條蓄集量。</div><div class="skill-detail">威力：524 × 3 Hit<br>所需技能點數：8,450<br>獲得氣場<br>‧防禦力提升（爆發氣場上限Lv. 3）<br>依連擊數給予的傷害倍率<br>‧25連擊以上時10％<br>‧50連擊以上時20％<br>‧75連擊以上時30％<br>‧100連擊以上時40％<br>依連擊數給予的特殊量條蓄集量<br>‧0連擊以上時30％<br>‧25連擊以上時45％<br>‧50連擊以上時60％<br>‧75連擊以上時75％<br>‧100連擊以上時100％</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>OVERDRIVE削減＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員狀態量條的減少量提升20％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>【光】連擊：連擊‧爆擊Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，<br>則每連擊10次時，使爆擊率提升1％。<br>此效果最大可疊加20次。<br>連擊數重置時，解除此能力賦予的所有效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3d35acdfe7f5a710f73a893dfb248ca82.png"></span><span>發條裝置的戰鬥人偶Ⅱ</span></dt><dd><div>追加發條量條。發條量條帶有以下效果。<br>①任務開始時使發條量條蓄滿。<br>②當發條量條蓄滿時，發動旋緊模式。<br>發條量條至歸零前可獲得以下效果。<br>‧爆發攻擊傷害提升10％。<br>‧爆發攻擊中，使OVERDRIVE狀態量條的<br>減少量提升。<br>‧爆發攻擊中的攻擊速度提升12％。<br>‧爆發攻擊中的移動速度提升。<br>‧爆發攻擊中，發條量條將隨時間經過而減少。<br>‧發條量條歸零時解除旋緊模式，<br>並轉換成放鬆模式。<br>③放鬆模式時，無法使用爆發攻擊，<br>發條量條將隨時間經過而自動蓄集。<br>放鬆模式在發動旋緊模式後就會解除。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>詛咒抗性＋100％</span></dt><dd><div>陷入「詛咒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/14792abf67fb05b76ddc3021564efff22.png"></span><span>衝擊驅動Ⅱ</span></dt><dd><div>‧最後命中的攻擊至連擊數重置為止的時間<br>延長0.5秒。<br>‧每連擊15次時，給予自身【賦予閃熱狀態機率<br>提升25％】增益效果（疊加上限3次）。<br>‧每次使敵方陷入「閃熱」狀態時，<br>給予自身【快閃惡作劇】（疊加上限3次）。<br>此增益效果期間中給予「閃熱」狀態中的敵方<br>傷害提升7％（疊加上限3次）。<br>‧連擊數重置時，解除此能力賦予的所有增益效果。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6739b008cab32ceaefd42e8a868576dc.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>801</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>472</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,513</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>收下演出戲劇主角時的服裝，<br>並將其作為變裝參加聖城萬聖節的夏思特。<br>由於平日已習慣閃避兒時玩伴們的惡作劇，<br>在聖城的孩子們之間甚至出現了<br>要向他惡作劇的難度是最高的傳聞。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1cd67a30c5fe6512fc3d1639074593582.png"></span>
+				<span>外科惡作劇</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>一般型態<br>給予直線上敵人傷害，使其陷入「毒」狀態，<br>並解除其1個增益效果。<br><br>夢魘模式時<br>給予直線上敵人傷害，使其陷入「毒」狀態，<br>並解除其1個增益效果。<br>再額外給予目標傷害，使其陷入「暗黑」狀態，<br>並解除其1個增益效果。</div><div class="skill-detail">威力：1,864 × 1 Hit<br>所需技能點數：2,520<br>特殊效果<br>‧增益效果解除<br>‧毒<br>　效果時間：15 秒<br>　效果間隔：2.9 秒<br>　威力：58.2<br><br>（變化後）<br>威力：1,864 × 1 Hit<br>威力：171 × 6 Hit<br>所需技能點數：2,520<br>所需共享技能點數：13,255<br>特殊效果<br>‧增益效果解除<br>‧增益效果解除<br>‧毒<br>　效果時間：15 秒<br>　效果間隔：2.9 秒<br>　威力：58.2<br>‧暗黑<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>糖果香精</span>
+			</dt>
+			<dd><div>一般型態<br>給予隊伍全員下列隨機一種增益效果。<br>此外，有極低機率發動幸運星，<br>獲得以下所有增益效果，並解除異常狀態。<br>‧最大HP上升。<br>‧光屬性抗性上升。<br>‧傷害減少。<br><br>夢魘模式時<br>必發動幸運星效果。</div><div class="skill-detail">所需技能點數：6,000<br>特殊效果<br>‧HP提升15％<br>‧傷害減少10％<br>　效果時間：20 秒<br>　不可重複<br>‧光屬性抗性提升20％<br>　效果時間：10 秒<br>　不可重複<br>‧全異常狀態回復<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能量條增加率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span>
+				<span>【闇】無傷：HP60％以下‧治癒Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為闇屬性，且HP減少至60％以下時，<br>則發動【20秒間，HP持續回復】增益效果。<br>此效果發動後，30秒間不會再次發動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c44bc2f9004cb1fa9e940ae49b22bbff2.png"></span><span>惡夢實驗Ⅱ</span></dt><dd><div>①以下攻擊命中敵方時，給予自身相應的增益效果。<br>相同的增益效果無法重複。<br>‧一般攻擊的第5段連擊：【連擊樣本】<br>‧爆發攻擊：【爆發樣本】<br>‧衝刺攻擊：【衝刺樣本】<br>②同時獲得上述3種增益效果時，<br>轉換成夢魘模式，並強化技能1與技能2。<br>使用受到此效果強化的技能時，<br>將解除上述所有增益效果。<br>③衝刺攻擊威力提升200％，若於衝刺攻擊期間<br>進行一般攻擊時，則從第2段連擊開始攻擊。<br>此外，於迴避中點擊畫面，即可進行衝刺攻擊。<br>④HP在70％以上時，攻擊力提升30％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>黑暗抗性＋100％</span></dt><dd><div>陷入「黑暗」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>禁忌抽出術Ⅱ</span></dt><dd><div>以增益解除效果解除敵方增益效果或護盾，<br>或使用技能「糖果香精」時，發動以下效果。<br>‧給予解除增益效果或護盾的對象<br>【屬性攻擊力於10秒之間下降15％】減益效果。<br>此減益效果無法重複。<br>‧給予自身【30秒間，攻擊光屬性敵人時<br>傷害倍率提升20％】增益效果。<br>此增益效果無法重複。<br>‧給予自身防禦力提升氣場（爆發氣場上限Lv.2）。<br>此效果發動後，10秒間不會再次發動。<br>‧使自身的技能1與技能2蓄集15％。<br>此效果發動後，10秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 精選對象角色在「阿爾貝利亞競技大亂鬥」中可改變角色外觀的「角色造型」將轉為SALE中，並減少解鎖時所需的道具。</div><div>※有部分角色無法解鎖角色造型。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1635400800; update_time1635737243

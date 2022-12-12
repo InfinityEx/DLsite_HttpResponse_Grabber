@@ -1,0 +1,8 @@
+article_id:2767
+category_name:活動
+title_name:團體活動【復刻】「舞姬與魔龍的圓舞曲」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/c9edc6119238ef1451c57f92a07d1dab.png
+
+message:<div>各位玩家您好<br><br>團體活動【復刻】「舞姬與魔龍的圓舞曲」預計將於<span class="local_date" data-local_date="1647928800"></span>起開始舉辦。<br>本活動可在團隊遊戲模式下挑戰闇屬性的團體戰BOSS。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/c9edc6119238ef1451c57f92a07d1dab.png"><br><br>■活動期間<br><span class="local_date" data-local_date="1647928800"></span> ～ <span class="local_date" data-local_date="1648619999"></span><br><br>■注意事項<br>1. 如要參加活動任務，須完成主線劇情第2章2-1（Normal）。<br>2. 如要參加團隊遊戲，須完成主線劇情第2章2-1（Normal）。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1647496800; update_time1641958751

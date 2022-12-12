@@ -1,0 +1,233 @@
+article_id:417
+category_name:公告
+title_name:傳說召喚「FIRE EMBLEM 彼此相連的世界 精選」和「FIRE EMBLEM 彼此相連的世界 白金傳說召喚」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>2019/4/26(五)維護結束後，預計將舉行傳說召喚「FIRE EMBLEM 彼此相連的世界 精選」，以及「FIRE EMBLEM 彼此相連的世界 白金傳說召喚」。</div><div><br></div><div>傳說召喚「FIRE EMBLEM 彼此相連的世界 精選」中，精選對象之角色的出現機率將會上升。</div><div>期間限定的★5角色「馬爾斯」「菲約爾姆」「維洛妮卡」將於傳說召喚中登場。</div><div><br></div><div>「FIRE EMBLEM 彼此相連的世界 白金傳說召喚」為「10連召喚」的第10發將必中期間限定的★5角色「馬爾斯」「菲約爾姆」「維洛妮卡」其中之一的期間限定召喚。</div><div>本召喚期間內僅可進行1次「10連召喚」。</div><div>本召喚僅限使用龍光鑽石。</div><div><br></div><div>【傳說召喚 精選‧白金傳說召喚 舉辦日期】</div><div>2019/4/26維護結束後 ～ <span class="local_date" data-local_date="1557813540"></span></div><div><br></div><div>「FIRE EMBLEM 彼此相連的世界 精選」的精選對象角色，以及「FIRE EMBLEM 彼此相連的世界 白金傳說召喚」的第10發必中★5角色介紹如下：</div><div><br></div><div>【傳說召喚 精選‧白金傳說召喚 必中對象角色介紹】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e6ca2ab951a5004233dd32b70f21bf97.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>阿利提亞的王子。性格溫和，十分重視夥伴。<br>繼承了遠古英雄安利之血，同時也是<br>持有神劍法爾西昂的救國英雄。<br>但本人卻絲毫不以此為傲，性格直爽開朗。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/32ef379fe20ace4a911e2f24592125a22.png"></span>
+				<span>英雄王之劍</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人火屬性傷害，<br>並於15秒之間持續回復自身HP。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/fbe67bfe88b3d22754684649c11594072.png"></span>
+				<span>炎之紋章</span>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人火屬性傷害。<br>命中敵人即發動【技能輪轉】，<br>技能效果將隨階段變化。<br>初期狀態：自身的攻擊力於10秒之間上升10％。<br>階段1：隊伍全員的攻擊力於10秒之間上升10％。<br>階段2：於10秒之間隊伍全員的<br>攻擊力上升10％、攻擊速度上升30％。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龍化累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的龍化量條增加率提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/455600c228d764a167e2f7825312a7e82.png"></span><span>背水迅速Ⅱ</span></dt><dd><div>HP減少至30％以下時，<br>隊伍全員的技能蓄集100％（龍族技能除外）。<br>此效果每場任務最多可發動1次。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>疾風怒濤‧爆擊＋13％</span></dt><dd><div>連擊數為15次以上時，<br>攻擊時發生爆擊的機率提升13％。</div></dd></dl></div></div></div><div>※以上為最高Lv、瑪納之環全數解放時的能力值，並非獲得時的能力值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b6c0fd3c63a03459aa831931c08d665f.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>508</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>尼福爾王國的公主。祖國遭到攻擊而滅亡，<br>於避難處受到阿爾馮斯等人的幫助。<br>是個重視家人與恩義，心地善良的少女。<br>不過，對於毀滅祖國的「炎」，<br>時而感到近似憎恨的強烈情感。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b1e46ba780556a12143a611dadf99b7f2.png"></span>
+				<span>冰結擊破</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人水屬性傷害，<br>使其陷入「凍結」狀態。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/be635669008772605aef0c5e4bddbb442.png"></span>
+				<span>冰之聖鏡</span>
+			</dt>
+			<dd>
+				<div>
+					展開【冰之聖鏡】後，<br>給予目標和其周圍敵人水屬性傷害。<br>【冰之聖鏡】展開期間<br>將依受到的傷害額外給予特殊傷害。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的HP提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/66c3bf719834a77c1e8b5b35851ae9222.png"></span><span>背水奮戰Ⅱ</span></dt><dd><div>HP減少至30％以下時，<br>給予隊伍全員【15秒間，攻擊力提升30％】<br>與【15秒間，防禦力提升40％】增益效果。<br>此效果每場任務最多可發動1次。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>火燒抗性＋100％</span></dt><dd><div>陷入「火燒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>開場技能量條＋100％</span></dt><dd><div>任務開始時技能量條提升100％。</div></dd></dl></div></div></div><div>※以上為最高Lv、瑪納之環全數解放時的能力值，並非獲得時的能力值。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/18bba4e318f29093eaa0084d90d9719c.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>514</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>來自異世界，沉默寡言的少女。<br>身為恩布拉帝國的皇女，<br>有著對敵人冷酷無情的一面。<br>雖然有位她十分珍視的兄長，<br>但目前卻與他分隔兩地。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8d4f7674d21f3f5e46f6a08707a615862.png"></span>
+				<span>死靈</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人闇屬性傷害。<br>自身的剩餘HP越少，則給予的傷害增加越多。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/fa533935dca63d27b81eac1cd69937912.png"></span>
+				<span>吸血</span>
+			</dt>
+			<dd>
+				<div>
+					給予周圍敵人闇屬性傷害，<br>並回復所給予的傷害5％份量的自身HP。<br>此回復效果的最大值為自身最大HP的15％。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能傷害＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能傷害提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3742684a3a890ad68480f4cb0938a0ea2.png"></span><span>背水奧義Ⅱ</span></dt><dd><div>HP減少至30％以下時，給予隊伍全員<br>【下次技能傷害提升40％】增益效果。<br>此效果每場任務最多可發動1次。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痺抗性＋100％</span></dt><dd><div>陷入「麻痺」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>開場技能量條＋100％</span></dt><dd><div>任務開始時技能量條提升100％。</div></dd></dl></div></div></div><div>※以上為最高Lv、瑪納之環全數解放時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 於「FIRE EMBLEM 彼此相連的世界 白金傳說召喚」舉辦期間內另行舉辦的「白金傳說召喚」中，也包含本次召喚追加的角色「馬爾斯」「菲約爾姆」「維洛妮卡」。但並非必中對象。</div><div>2. 本公告內容以外的情報以及出現機率，請於活動期間內點擊遊戲下方選單列的「召喚」後，從「召喚資訊」或「出現機率」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1556244000; update_time1556181926

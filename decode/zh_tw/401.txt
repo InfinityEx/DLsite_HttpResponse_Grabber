@@ -1,0 +1,8 @@
+article_id:401
+category_name:公告
+title_name:真‧龍族的試煉即將追加「真‧墨丘利的試煉」！
+image_path:
+
+message:<div>各位玩家您好</div><div>&nbsp;</div><div><span class="local_date" data-local_date="1555567200"></span>起，最高難度的活動任務「真‧龍族的試煉」中，將會追加「真‧墨丘利的試煉」。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/ffa91f259cde42df4fda425dd34e29e2.png"></div><div>青龍墨丘利解放隱藏力量後的姿態。龐大的瑪納化為強烈水流，覆蓋其全身。</div><div>這巨大水龍兼具了全心守護重要事物之溫柔，以及對敵人毫不姑息之嚴厲。</div><div><br></div><div>【注意事項】</div><div>1. 挑戰「真‧墨丘利的試煉」，隊伍戰力須為13000以上。</div><div>2. 挑戰「真‧墨丘利的試煉」，須先完成「墨丘利的試煉 超級」。</div><div>3. 參加團隊遊戲，須先完成主線劇情第2章 2-1(Normal)。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1555394400; update_time1555306232

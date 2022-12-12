@@ -1,0 +1,8 @@
+article_id:2635
+category_name:活動
+title_name:「厄魔封滅戰　風之章」的「亞它伯封滅戰」追加新難易度「絕級」！
+image_path:https://dragalialost.akamaized.net/attached/information/images/88dd415f344ec67a28d2792a65b456f6.png
+
+message:<div>各位玩家您好</div><div><br></div><div>與威脅著北格拉斯迪亞大陸的惡魔們對戰的任務「厄魔封滅戰　風之章」的「亞它伯封滅戰」已於<span class="local_date" data-local_date="1638943200"></span>起追加新難易度「絕級」。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/88dd415f344ec67a28d2792a65b456f6.png"></div><div>對抗拒真理的愚者降下嚴酷的制裁──</div><div>被封印的憎惡和怨恨長年累積，</div><div>化為怒吼誓向驅逐自身的世界復仇。</div><div>違背道德的惡魔持著稱揚惡行的法典，</div><div>以甜美記憶為誘餌灌輸眾人褻瀆之理。</div><div>擾亂世界的他，正是森羅萬象的真理──亞它伯。</div><div><br></div><div>■復活次數與復活加成調整</div><div>復活次數與復活加成將於<span class="local_date" data-local_date="1638943200"></span>起進行調整。</div><div>「亞它伯封滅戰　超級」的復活次數調整為1次，追加復活加成。</div><div>「亞它伯封滅戰　高級」的復活次數調整為2次，變更復活加成。</div><div>「墮天使加百列封滅戰」的復活次數調整為3次，變更復活加成。</div><div><br></div><div>■交換所</div><div>在交換所可使用於本任務中獲得的「讚頌背德的凶風結晶」交換各式各樣的獎勵。</div><div><br></div><div>■「亞它伯封滅戰　絕級」中須要進行「隊伍切換」</div><div>「亞它伯封滅戰　絕級」任務中BOSS的屬性會產生變化，須要進行「隊伍切換」切換成事前設置的隊伍。</div><div><br></div><div>因此，在任務開始前必須依照指定屬性編制2支隊伍。</div><div>育成2支隊伍，挑戰「亞它伯封滅戰　絕級」吧。</div><div><br></div><div>※進行「隊伍切換」的任務中無法獲得角色經驗值。</div><div><br></div><div>【注意事項】</div><div>1. 若要參加「厄魔封滅戰」，須先完成主線劇情第16章4-6(Normal)。</div><div>2. 若要參加「亞它伯封滅戰　絕級【單人】」，須先完成任一項「厄魔封滅戰　超級【單人】」或「厄魔封滅戰　超級【團隊】」。</div><div>3. 若要參加「亞它伯封滅戰　絕級【團隊】」，須先完成任一項「厄魔封滅戰　超級【單人】」或「厄魔封滅戰　超級【團隊】」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1638943200; update_time1637216860

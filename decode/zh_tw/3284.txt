@@ -1,0 +1,8 @@
+article_id:3284
+category_name:公告
+title_name:團體活動「神龍降臨」部分任務調整公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>團體活動「神龍降臨」的部分任務已於<span class="local_date" data-local_date="1648792800"></span>起進行以下平衡調整。</div><div><br></div><div>■對像任務</div><div>任務1 「再臨‧惡魔王」</div><div><br></div><div>■調整内容</div><div>當撒旦於特定條件下召喚出偽‧莉莉斯、偽‧亞它伯、偽‧伊布力斯進行攻擊時，大幅調降該攻擊威力以降低我方全軍覆沒的機率。</div><div>此外也已調降登場敵人的HP、攻擊力以及攻擊的破綻之HP。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1648792800; update_time1648785722

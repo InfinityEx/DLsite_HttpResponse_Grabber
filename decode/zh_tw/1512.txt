@@ -1,0 +1,8 @@
+article_id:1512
+category_name:活動
+title_name:設施活動【復刻】「Melodious Summer♪」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/fbf937b08d8c743657e493d930054a9c.png
+
+message:<div>各位玩家您好</div><div><br></div><div>設施活動【復刻】「Melodious Summer♪」預計將於<span class="local_date" data-local_date="1597730400"></span>開始舉辦。</div><div>本活動可挑戰闇屬性的BOSS，並建造活動限定的獎勵設施。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/fbf937b08d8c743657e493d930054a9c.png"><br></div><div>夏日！大海！舞台！</div><div>海濱歌姬賽蓮的心願──</div><div>就是舉辦演唱會，並將歌聲傳遞給大家。</div><div>為了實現她的夢想，王子等人為了搭建舞台和召集觀眾四處奔走。</div><div>沒想到，這條路卻是困難重重&hellip;&hellip;</div><div>賽蓮的歌聲究竟能不能傳給眾人呢？</div><div>王子一行人的夏日尚未結束&hellip;&hellip;！</div><div><br></div><div>■活動期間</div><div><span class="local_date" data-local_date="1597730400"></span> ～ <span class="local_date" data-local_date="1598594399"></span></div><div><br></div><div>■注意事項</div><div>1. 若要參加活動任務，需完成主線劇情第2章 2-1（Normal）。</div><div>2. 若要參加團隊遊戲，需完成主線劇情第2章 2-1（Normal）。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1597644000; update_time1597308719

@@ -1,0 +1,8 @@
+article_id:1488
+category_name:公告
+title_name:龍族「木花開耶姬（夏日Ver.）」異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，於<span class="local_date" data-local_date="1596088800"></span>起追加至召喚中的龍族「木花開耶姬（夏日Ver.）」出現以下異常現象。</div><div><br></div><div>‧龍族「木花開耶姬（夏日Ver.）」上限解放第1～3階段時使用技能｢乙女神樂‧海濱遊戲｣無法正常獲得增益效果「笑顏之花」。</div><div><br></div><div>本異常現象已於<span class="local_date" data-local_date="1596105900"></span>左右實施的資料更新中修正完畢。</div><div>造成各位玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1596105900; update_time1596105928

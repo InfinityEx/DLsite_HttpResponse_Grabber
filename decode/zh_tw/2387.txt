@@ -1,0 +1,8 @@
+article_id:2387
+category_name:活動
+title_name:團體活動「野外求生‧島嶼驚魂」的「HELL」和「ULTIMATE」解鎖公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/f428ef2858444bf94ed34e47bdb2558d.png
+
+message:<div>各位玩家您好<br><br>團體活動「野外求生‧島嶼驚魂」的團體戰「HELL」和「ULTIMATE」預計將於<span class="local_date" data-local_date="1627884000"></span>解鎖。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/f428ef2858444bf94ed34e47bdb2558d.png"></div><div>■關於HELL<br>如要挑戰難易度「HELL」，須完成究極團體戰。<br>挑戰難易度「HELL」時所需要的「異界的碎片」、「共鬥之翼」以及其掉落獎勵，與難易度「高級」相同。<br>每天首次完成難易度「HELL」時，可獲得挑戰獎勵。<br>※挑戰獎勵將可隨機獲得豪華獎勵。<br><br>■關於ULTIMATE<br>如要挑戰難易度「ULTIMATE」，須完成團體戰難易度「HELL」和劇情第5話。<br><br>此外，解鎖「ULTIMATE」須獲得活動道具「異界之鑰」3個。<br>「異界之鑰」則可於「敢銅勳章」、「鉑銀勳章」、「王金勳章」的勳章獎勵中，分別獲得一個。<br><br>‧「ULTIMATE &nbsp;單人　Lv.1」<br>單人模式專用任務。<br>完成團體戰難易度「HELL」和劇情第5話即可解鎖。<br><br>‧「ULTIMATE &nbsp;團隊　Lv.1」<br>團隊模式專用任務。<br>完成「ULTIMATE &nbsp;單人　Lv.1」即可解鎖。<br><br>‧「ULTIMATE &nbsp;單人　Lv.2」<br>單人模式專用任務。<br>完成「ULTIMATE &nbsp;團隊　Lv.1」即可解鎖。<br><br>‧「ULTIMATE &nbsp;團隊　Lv.2」<br>團隊模式專用任務。<br>完成「ULTIMATE &nbsp;單人　Lv.2」即可解鎖。<br><br>‧「ULTIMATE &nbsp;單人　Lv.3」<br>單人模式專用任務。<br>完成「ULTIMATE &nbsp;團隊　Lv.2」即可解鎖。<br><br>‧「ULTIMATE &nbsp;團隊　Lv.3」<br>團隊模式專用任務。<br>完成「ULTIMATE &nbsp;單人　Lv.3」即可解鎖。<br><br>■「HELL」和「ULTIMATE」解鎖期間<br>‧<span class="local_date" data-local_date="1627884000"></span> ～ <span class="local_date" data-local_date="1628747999"></span><br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1627884000; update_time1627439959

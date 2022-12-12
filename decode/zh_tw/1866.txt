@@ -1,0 +1,8 @@
+article_id:1866
+category_name:公告
+title_name:【iOS】特定條件下無法購買道具之異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，更新至版本2.3.0後在特定條件下可能會發生無法於商店購買道具的異常現象。</div><div>詳情如下：</div><div><br></div><div>■對象</div><div>使用iOS裝置的所有玩家</div><div><br></div><div>■發生異常現象</div><div>裝置設定符合以下條件時，商店中的道具價格將會顯示「error」，導致無法正常購買。</div><div><br></div><div>■發生條件</div><div>‧裝置的「設定」＞「螢幕使用時間」＞「內容與隱私權限制」＞「iTunes與App Store 購買」＞「App內購買」設定成「不許可」時</div><div>‧裝置的「設定」＞「一般」＞「取用限制」＞「App內購買」設定為「關閉」時</div><div><br></div><div>※若發生上述異常現象，請確認裝置設定。</div><div>※設定名稱和操作步驟會因為OS版本而有所不同。</div><div><br></div><div>造成各位玩家的不便與困擾，在此致上最深的歉意。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1608609600; update_time1608600649

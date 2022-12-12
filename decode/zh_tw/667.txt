@@ -1,0 +1,8 @@
+article_id:667
+category_name:公告
+title_name:無法正常收到同盟通知現象之公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認 ，現在iOS裝置有可能未正常收到同盟的通知。</div><div>若無法收到同盟的通知，請依照以下步驟確認設定內容。</div><div><br></div><div>※若遊戲正在進行中，確認以下設定前請先結束遊戲。</div><div><br></div><div>■確認iOS裝置內設定</div><div>1. 點擊「設定」。</div><div>2. 點擊「失落的龍絆」。</div><div>3. 點擊「通知」。</div><div>4. 將「允許通知」設定成「ON」，即可開啟iOS裝置內的通知。</div><div><br></div><div>■確認遊戲內同盟的通知設定</div><div>1. 啟動遊戲。</div><div>2. 點擊主頁面內的「同盟」。</div><div>3. 點擊「同盟選單」。</div><div>4. 將「遊戲啟動時接收通知」或「遊戲未啟動時接收通知」的其中一項，或兩者都設定成「ON」。</div><div>5. 點擊「OK」，即可開啟遊戲內同盟通知。</div><div><br></div><div>如完成上述設定仍無法收到同盟的通知，請至遊戲內聯絡客服。</div><div><br></div><div>本現象預計於日後進行修正，</div><div>造成全體玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1565676000; update_time1565747569

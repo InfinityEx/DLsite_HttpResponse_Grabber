@@ -1,0 +1,8 @@
+article_id:2076
+category_name:公告
+title_name:部分角色技能能使敵人異常狀態抗性下降的效果量調整公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>在<span class="local_date" data-local_date="1616738400"></span>左右實施的資料更新中將進行平衡調整，</div><div>對部分角色技能中能夠使敵人的異常狀態抗性下降的效果量進行變更。</div><div>詳細調整對象和變更點如下：</div><div><br></div><div>■對象角色與變更內容</div><div>‧角色「梅兒莎（萬聖節Ver.）」的技能「猛毒嘶咬」</div><div>Lv.1：毒抗性下降值從5％變更為10％</div><div>Lv.2：毒抗性下降值從10％變更為20％</div><div><br></div><div>‧角色「諾艾兒（禮服Ver.）」的技能「不好的消息」</div><div>Lv.1：毒抗性下降值從5％變更為10％</div><div>Lv.2：毒抗性下降值從10％變更為20％</div><div><br></div><div>‧角色「耶魯菲莉絲（和服Ver.）」的技能「新春吉日」</div><div>Lv.1：劫火抗性下降值從5％變更為10％</div><div>Lv.2：劫火抗性下降值從10％變更為20％</div><div><br></div><div>‧角色「法朗斯」的技能「赤焰之彈」造成的【烏列爾的神罰】</div><div>【烏列爾的神罰】Lv.3：劫火抗性下降值從20％變更為25％　</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1616652000; update_time1616637712

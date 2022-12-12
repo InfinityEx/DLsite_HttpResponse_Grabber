@@ -1,0 +1,8 @@
+article_id:645
+category_name:公告
+title_name:商店道具購買次數更新公告
+image_path:
+
+message:<div>各位玩家您好</div><div>&nbsp;</div><div>商店內每月購買次數有限的貴重道具購買次數，已於<span class="local_date" data-local_date="1564639200"></span>更新！</div><div>已達購買次數上限的玩家可重新購買。</div><div>&nbsp;</div><div>已更新次數的道具詳細如下。</div><div>&nbsp;</div><div><strong>■瑪納之環解放組合包</strong></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/cb0a7f3c1328157fd52ffb03bd389095.png"></div><div><br></div><div>包含用於瑪納之環中，解鎖瑪納結晶或上限解放的育成道具以及龍光鑽石的組合包。</div><div>適合用來強化角色。</div><div>&nbsp;</div><div><br></div><div><strong>■武器上限解放組合包</strong></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/6b83fa547ae5aaf8b4be91c4c871ddfb.png"></div><div><br></div><div>包含可使★5武器進行1階段上限解放的「大馬士革鋼」以及龍光鑽石的組合包。</div><div>適合用來強化武器。</div><div>&nbsp;</div><div><br></div><div><strong>■龍輝護符上限解放組合包</strong></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/d1703979bbef846beb6fd69d942f529f.png"></div><div><br></div><div>包含可使★5龍輝護符進行1階段上限解放的「夢想聖鑰」以及龍光鑽石的組合包。</div><div>適合用來強化龍輝護符。</div><div>&nbsp;</div><div><br></div><div><strong>■龍族上限解放組合包</strong></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/9a828ff4d0b4aeaea9ee6c5d59876569.png"></div><div><br></div><div>包含可使★5龍族進行1階段上限解放的「金剛晶」以及龍光鑽石的組合包。</div><div>適合用來強化龍族。</div><div><br></div><div>&nbsp;</div><div>各道具的價格和詳細，請從主頁面進入「商店」，點選「育成道具」的「今月」頁面進行確認。</div><div>&nbsp;</div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1564639200; update_time1564480672

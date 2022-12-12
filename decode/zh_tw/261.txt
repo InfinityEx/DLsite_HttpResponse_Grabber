@@ -1,0 +1,8 @@
+article_id:261
+category_name:公告
+title_name:「虛空之影討伐戰」活動頁面圖示誤植公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，若玩家在已購買「2倍獎勵組合包」的情況下，</div><div>進入於<span class="local_date" data-local_date="1550815200"></span>開始舉辦的活動「虛空之影討伐戰」頁面，</div><div>頁面將出現顯示「每日獎勵圖示」和「獲得量2倍圖示」的異常現象。</div><div><br></div><div>即使顯示了上述圖示，於「虛空之影討伐戰」可獲得的獎勵數量也不會變成2倍。</div><div>此外，「虛空之影討伐戰」並不存在「每日獎勵」。</div><div><br></div><div>關於本異常現象，營運團隊正在進行調査。</div><div>最新進度將於本公告進行更新。</div><div><br><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1550835000"></span> 更新</strong></span><br>本現象已在<span class="local_date" data-local_date="1550835000"></span> 實施的資料更新修正完畢。<br><br></div><div>造成所有玩家的困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1550818200; update_time1550835188

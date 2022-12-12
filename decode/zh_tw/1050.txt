@@ -1,0 +1,138 @@
+article_id:1050
+category_name:公告
+title_name:傳說召喚「MONSTER HUNTER STRANGELAND　精選 Part 2」舉辦中！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>傳說召喚「MONSTER HUNTER STRANGELAND 精選 Part 2」已於<span class="local_date" data-local_date="1580796000"></span>開始舉辦！</div><div><br></div><div>期間限定的角色‧龍族將於傳說召喚中登場。</div><div>此外，精選對象之角色‧龍族的出現機率上升中。</div><div><br></div><div>【新追加的期間限定精選對象角色】</div><div>★5 西莉絲（獵人Ver.）：水／弓</div><div><br></div><div>【新追加的期間限定精選對象龍族】</div><div>★5 黑炎王火龍：火</div><div><br></div><div>※精選對象包含期間限定以外的角色‧龍族。</div><div>※其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><span style="color: rgb(226, 80, 65);">※本召喚內容不包含同時開放的傳說召喚「MONSTER HUNTER STRANGELAND 精選 Part 1」中的期間限定★5角色和期間限定★5龍族。</span></div><div><br></div><div>【傳說召喚　精選舉辦期間】</div><div><span class="local_date" data-local_date="1580796000"></span> ～ <span class="local_date" data-local_date="1581919140"></span></div><div><br></div><div>新追加期間限定精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e49679030c94d77bff9ff39e2e39fe9f.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>766</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>493</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>西莉絲換上了魔物獵人的泡狐龍裝備。<br>出於親切接下的委託成為契機，<br>使她對活用採集與調合進行戰鬥的<br>獵人之深奧開始覺醒。目標是成為G級獵人！</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/15e894f15b2af01e653f324883c234112.png"></span>
+				<span>閃身射法</span>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人水屬性傷害，<br>自身下次的爆發攻擊傷害提升100％。<br>此效果無法重複。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>增速雨露</span>
+			</dt>
+			<dd>
+				<div>
+					自身的爆發攻擊蓄集速度於30秒之間提升30％。<br>此效果無法重複。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能量條增加率提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/07d87a8e6300e0bc12288870e47a71962.png"></span><span>獵人的心得‧弓＋2</span></dt><dd><div>爆發攻擊發生變化，爆發攻擊傷害提升30％。<br>此爆發攻擊在蓄集中仍可移動，<br>可蓄集4階段，並可依階段提升威力。<br>此外，給予爆發攻擊<br>【攻擊力於10秒之間下降15％】減益效果。<br>此減益效果無法重複。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>火燒抗性＋100％</span></dt><dd><div>陷入「火燒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/fd589517c61c65312e1509e13a36cd412.png"></span><span>爆發傷害＆蓄集強化Ⅱ</span></dt><dd><div>爆發攻擊傷害提升25％，蓄集速度提升20％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>【精選龍族介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/fb5c8ddd398dbe98ef0f4036ae5ee2af.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>來自異界的飛龍王種，亦是諸王之王。<br>擁有支撐巨大身軀的漆黑雙翼，<br>燒卻一切的紅蓮吐息，王者之證的崇高傲骨。<br>雖然平時對人類不屑一顧，<br>但對闖入自己地盤者會降下猛烈的制裁。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>爆炎吐息</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人火屬性傷害，<br>並使其陷入「火燒」狀態。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻擊＆爆發傷害提升Ⅱ</span></dt><dd><div>裝備角色如果為火屬性，<br>則裝備角色的攻擊力提升55％，<br>爆發攻擊傷害提升60％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【火】技能累積‧強擊Ⅱ＆GB−30％</span></dt><dd><div>裝備角色如果為火屬性，<br>則爆發攻擊命中時，<br>技能量條的增加率提升30％，<br>狀態量條的減少量下降30％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1580796000; update_time1580435195

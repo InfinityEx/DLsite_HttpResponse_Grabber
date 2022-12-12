@@ -1,0 +1,267 @@
+article_id:1956
+category_name:公告
+title_name:傳說召喚「PERSONA5 SCRAMBLE Desire Lost 精選 Part1」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>傳說召喚「PERSONA5 SCRAMBLE Desire Lost 精選 Part1」已於<span class="local_date" data-local_date="1612072800"></span>起舉辦中！</div><div>&nbsp;</div><div>期間限定的角色‧龍族將於傳說召喚中登場。</div><div>此外，精選對象之角色‧龍族的出現機率上升中。</div><div><span style="color: rgb(226, 80, 65);">本次新追加的★5角色「JOKER」和「MONA」、★5龍族「亞森」也將在預定於<span class="local_date" data-local_date="1612591200"></span>起開始舉辦的傳說召喚「PERSONA5 SCRAMBLE Desire Lost 精選 Part2」中登場。僅有★5龍族「亞森」為傳說召喚「PERSONA5 SCRAMBLE Desire Lost 精選 Part2」的精選對象。</span></div><div><br></div><div>【新追加的期間限定精選對象角色】</div><div>★5 JOKER：闇／短劍</div><div>★5 MONA：風／劍</div><div><br></div><div>【新追加的期間限定精選對象龍族】</div><div>★5 亞森：闇</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※「龍輝之印」僅可於獲得該「龍輝之印」的召喚中消費。在傳說召喚「PERSONA5 SCRAMBLE Desire Lost精選 Part1」中獲得的「龍輝之印」無法於傳說召喚「PERSONA5 SCRAMBLE Desire Lost 精選 Part2」中消費。</span></div><div><br></div><div>【傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1612072800"></span> ～ <span class="local_date" data-local_date="1612591199"></span></div><div><br></div><div>精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/9214b708c468f1c35c87e358b8b4f1ea.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>757</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>501</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>高三生。被捲入發生在東京的精神失控事件，<br>人格面具能力因此覺醒。<br>與夥伴們組成了「心之怪盜團」，<br>矯正腐敗大人們的扭曲內心，<br>讓深陷陰謀的重大事件得以解決。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6d8d8fde4a3346581a1d93ab4d70499d2.png"></span>
+				<span>標記射擊</span>
+			</dt>
+			<dd><div>一般型態<br>給予前方敵人傷害。<br>只要此技能命中，自身的召喚量條就會上升。<br>亞森召喚型態<br>給予前方敵人傷害。</div><div class="skill-detail">
+
+威力：354 × 7 Hit<br>所需技能點數：3,120<br>召喚量條回復量：300<br><br>
+
+（亞森召喚型態）<br>威力：354 × 7 Hit<br>威力：750 × 1 Hit<br>所需技能點數：3,120<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9bf3fe22f62e503eadabcd3cbb53adcc2.png"></span>
+				<span>幻影射擊</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>一般型態<br>給予前方敵人傷害，使其攻擊力下降。<br>此效果無法重複。<br>此外，只要此技能命中，自身的召喚量條就會上升。<br>亞森召喚型態<br>給予目標和其周圍敵人傷害，使其攻擊力下降。<br>此效果無法重複。</div><div class="skill-detail">
+
+威力：448 × 4 Hit<br>威力：312 × 3 Hit<br>所需技能點數：5,450<br>所需共享技能點數：9,537<br>召喚量條回復量:300<br>特殊效果<br>‧攻擊力下降15％<br>　效果時間：20 秒<br>　不可重複<br><br>
+
+（亞森召喚型態）<br>威力：3,030 × 1 Hit<br>所需技能點數：5,450<br>特殊效果<br>‧攻擊力下降20％<br>　效果時間：20 秒<br>　不可重複<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cc3f28b7bfce6dfc1ea65f36822cae7f2.png"></span>
+				<span>速度強化＋7％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的攻擊速度提升7%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span>
+				<span>祝福耐性Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為闇屬性，<br>則連擊數為10次以上時，<br>發動【光屬性抗性提升10％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/60df48c9c73687a9a506bb178e23e1582.png"></span><span>反抗意識Ⅱ</span></dt><dd><div>‧給予部分攻擊「咒怨」屬性，<br>龍化按鈕將轉換成亞森召喚按鈕。<br>亞森召喚中將會配合角色攻擊進行追加攻擊。<br>‧爆發攻擊轉換成槍械攻擊，並可蓄集2階段。<br>以蓄集2階段的爆發攻擊命中敵方，<br>則解除敵方1個增益效果，並提升自身的召喚量條。<br>‧防禦力提升6％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>黑暗抗性＋100％</span></dt><dd><div>陷入「黑暗」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>30連擊活力提升</span></dt><dd><div>每連擊30次時，使【活力】提升1階段。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/49f466f959f7b3d61b78e75f08aaaa61.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>755</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>504</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>囚禁在異世界時被JOKER所救，<br>此後開始一起行動。<br>是隻會說人話的黑貓（？），對異世界<br>瞭若指掌，在怪盜團裡扮演前導者的角色，<br>同時也是吉祥物般的存在。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/392285144c0d61e839e121ec4c7aa99d2.png"></span>
+				<span>摩爾加納汽車</span>
+			</dt>
+			<dd><div>一般型態<br>給予前方敵人傷害。<br>只要此技能命中，自身的召喚量條就會上升。<br>攻擊時，可控制方向。<br>蘇洛召喚型態<br>給予前方敵人傷害。<br>使用此技能容易發生爆擊。<br>極低機率可發動更強力的技能。</div><div class="skill-detail">
+
+威力：225 × 10 Hit<br>所需技能點數：2,715<br>召喚量條回復量：300<br><br>
+
+（蘇洛召喚型態）<br>威力：825 × 3 Hit<br>所需技能點數：2,715<br>此技能的爆擊率＋30％<br><br>（蘇洛召喚型態有極低機率發生變化）<br>威力：500 × 5 Hit<br>所需技能點數：2,715<br>此技能的爆擊率＋50％</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>招財貓</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>一般型態<br>給予周圍敵人傷害。攻擊時吸引敵人靠近。<br>只要此技能命中，自身的召喚量條就會上升。<br>蘇洛召喚型態<br>給予目標和其周圍敵人傷害。攻擊時吸引敵人靠近。</div><div class="skill-detail">
+
+威力：600 × 4 Hit<br>所需技能點數：5,450<br>所需共享技能點數：8,447<br>召喚量條回復量：300<br><br>
+
+（蘇洛召喚型態）<br>威力：600 × 5 Hit<br>所需技能點數：5,450</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/65863989132db80658f5d919573c14e92.png"></span>
+				<span>疾風強化＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的風屬性攻擊傷害提升20％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>高傲怪傑Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為風屬性，<br>則連擊數為10次以上時，<br>發動【水屬性抗性提升10％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/de68dfd8e782062e4dfdec817bb1418e2.png"></span><span>導引的黑貓Ⅱ</span></dt><dd><div>‧給予部分攻擊「疾風」屬性，<br>龍化按鈕將轉換成蘇洛召喚按鈕。<br>蘇洛召喚中將會配合角色攻擊<br>進行追加攻擊並可能同時回復隊伍全員HP。<br>‧爆發攻擊轉換成彈弓，<br>使用爆發攻擊時，<br>於30秒之間給予自身【獸之眼】增益效果。<br>此效果期間中召喚量條增加率提升20％。<br>【獸之眼】增益效果將在召喚蘇洛時解除，<br>召喚蘇洛期間無法獲得本效果。<br>‧於一般型態下，<br>可透過一般攻擊與爆發攻擊蓄集召喚量條。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>凍結抗性＋100％</span></dt><dd><div>陷入「凍結」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>爆擊傷害＋20％</span></dt><dd><div>爆擊時的傷害倍率提升20％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1f2e373e7de6e19188e9fcbd029b559b.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>JOKER的人格面具『亞森』。<br>假面般的臉孔與巨大的黑色羽翼為其特徵。<br>究竟這個人格面具的來歷為何，<br>又隱藏著什麼樣的力量呢？</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2719fe27911749dfccf7afb09adc17d52.png"></span>
+				<span>瑪哈耶加</span>
+			</dt>
+			<dd><div>給予目標和其周圍敵人傷害。</div><div class="skill-detail">
+
+威力：2,540 × 1 Hit</div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>攻擊訣竅＋90％</span></dt><dd><div>裝備角色的攻擊技能傷害提升90％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>高級咒怨強化＋90％</span></dt><dd><div>裝備角色如果為闇屬性，<br>則裝備角色的攻擊技能傷害提升90％。<br>此外，給予裝備角色的攻擊「咒怨」屬性。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>■關於「亞森」</div><div>與龍族「亞森」締結契約時，將以最大信賴度的狀態登場。</div><div>「亞森」的龍族篇章在締結契約時即會解鎖，且可在閱讀完前篇‧後篇的內容後獲得於「育龍庭園」贈送龍族禮物時所收到的「來自龍族的回禮」之同等獎勵。</div><div>※閱讀龍族篇章前篇後，即可解鎖後篇內容。</div><div>※「聖城」的「育龍庭園」中不會顯示「亞森」，且無法選擇。</div><div>※即使與「亞森」締結契約，也無法達成「王子育成演練」的Mission「將龍族的信賴度提升至10吧」和「將龍族的信賴度提升至30吧」。</div><div><br></div><div>【注意事項】</div><div>詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1612072800; update_time1611733800

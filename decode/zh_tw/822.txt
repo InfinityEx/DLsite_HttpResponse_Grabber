@@ -1,0 +1,8 @@
+article_id:822
+category_name:公告
+title_name:贈送「龍輝晶石 1200個」好禮！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>配合將於<span class="local_date" data-local_date="1571378400"></span>開始舉辦的傳說召喚「萬聖節‧奇想2」，</div><div>營運團隊將會依序贈送以下好禮給各位玩家！</div><div><br></div><div>■禮物內容</div><div>龍輝晶石 1200個</div><div><br></div><div>■贈送對象</div><div>於<span class="local_date" data-local_date="1571292000"></span>之前開始遊戲的所有玩家。</div><div><br></div><div>贈送的道具領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1571292000; update_time1571292551

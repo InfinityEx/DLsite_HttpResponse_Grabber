@@ -1,0 +1,8 @@
+article_id:56
+category_name:公告
+title_name:活動「充滿糖果的萬聖節派對之夜」之道具持有數顯示為「0」的異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，活動期間所獲得的「傑克巧克力」和「萬聖節甜點組」之持有數出現可能錯誤顯示為「0」的異常現象。</div><div>※「南瓜餅乾」請從畫面下方選單內的「道具」中進行確認。</div><div><br></div><div>請點選「主頁面」左上方的「充滿糖果的萬聖節派對之夜」圖示，前往活動頁面後，持有數即可正常顯示。</div><div>※重新啟動遊戲，本異常現象仍然會發生。請再度前往活動頁面即可確認持有數。</div><div><br></div><div>成全體玩家的不便，營運團隊在此致上最深的歉意。</div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div><br></div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1540548000; update_time1542363677

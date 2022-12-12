@@ -1,0 +1,8 @@
+article_id:1002
+category_name:公告
+title_name:傳說召喚「新春貓鼠大作戰 精選」召喚頁面內屬性顯示錯誤公告【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1577783400"></span>更新】</strong></span><br>本異常現象已於<span class="local_date" data-local_date="1577783400"></span>左右進行的資料更新中修正完畢。<br>造成各位玩家的不便與困擾，營運團隊再度致上最深的歉意。</div><hr><div>各位玩家您好<br>經營運團隊確認，於<span class="local_date" data-local_date="1577772000"></span>起開始舉辦的傳說召喚「新春貓鼠大作戰 精選」召喚頁面中，「信長」角色介紹影片內顯示的屬性圖示有誤。&nbsp;</div><div>【錯誤】<br>&nbsp;光屬性<br>&nbsp;【正確】<br>&nbsp;火屬性<br>&nbsp;<br>&nbsp;本異常現象現正進行修正中。<br>最新進度將於本公告通知。</div><div><br></div><div>※「新春貓鼠大作戰　精選」中可獲得的「信長」之正確屬性為火屬性。<br>※本現象為「召喚」頁面中的顯示異常。此外，「出現機率」和「召喚情報」內顯示的圖示為正確的火屬性圖示。<br>&nbsp;<br>&nbsp;造成各位玩家的不便與困擾，在此致上最深的歉意。</div>
+
+start_time:1577775600; update_time1577783430

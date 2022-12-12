@@ -1,0 +1,198 @@
+article_id:3274
+category_name:公告
+title_name:必中龍絆日Ver.★5角色！「白金傳說召喚」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「白金傳說召喚」已於<span class="local_date" data-local_date="1666936800"></span>起舉辦中！</div><div><br></div><div>本次「白金傳說召喚」為「10連召喚」的第10發將必中過去所有登場過的「龍絆日Ver.★5角色」。</div><div>登場角色詳細資訊，請由遊戲內下方選單列的「召喚」＞「白金傳說召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div>召喚期間內可進行5次白金傳說召喚的「10連召喚」。</div><div>此外，本召喚僅限使用「龍光鑽石」。</div><div><br></div><div>【白金傳說召喚舉辦期間】</div><div><span class="local_date" data-local_date="1666936800"></span> ～ <span class="local_date" data-local_date="1667368799"></span></div><div><br></div><div>「白金傳說召喚」第10發必中的部分對象★5角色介紹如下：</div><div><br></div><div>【第10發必中對象★5角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/070558fb2537520fba50af6a4cbc3fdb.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>真正的第七王子。出生不久便罹患龍鱗病，<br>因此被帶往妖精國。原本應該就此死去，<br>卻由於巴哈姆特而得以續命。<br>是位理性主義者，不喜與他人群聚，<br>只為了自身理想而行動。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aa47d998f104e87644a91a65819869de2.png"></span>
+				<span>旭日叛起</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>一般型態<br>給予周圍敵人傷害，使其陷入「暗黑」狀態。<br>只要此技能命中，自身的龍化量條就會上升。<br><br>【靈魂倒數】狀態<br>給予周圍敵人傷害，使其陷入「暗黑」狀態，<br>並解除其1個增益效果。</div><div class="skill-detail">威力：800 × 4 Hit<br>所需技能點數：2,376<br>所需共享技能點數：9,005<br>特殊效果<br>‧暗黑<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41<br>龍化量條回復量：10<br><br>（靈魂倒數狀態時）<br>威力：800 × 5 Hit<br>所需技能點數：3,360<br>特殊效果<br>‧暗黑<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41<br>‧增益效果解除</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f75280a5a69d4666aab1410dba2c15d92.png"></span>
+				<span>烈焰意志</span>
+			</dt>
+			<dd><div>一般型態<br>至初次龍化前無法蓄集此技能量條。<br>給予自身【靈魂倒數Lv.3】。<br><br>【靈魂倒數】狀態<br>給予前方敵人和其周圍敵人傷害，<br>給予隊伍全員爆擊時的傷害倍率提升之爆發氣場。</div><div class="skill-detail">所需技能點數：1<br>特殊效果<br>‧靈魂倒數Lv.3<br><br>（靈魂倒數狀態時）<br>威力：700 × 6 Hit<br>所需技能點數：12,000<br>獲得爆發氣場<br>‧爆擊時的傷害倍率提升（爆發氣場上限Lv. 3）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龍化累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的龍化量條增加率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【闇】龍化：龍化中傷害提升＋12％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為闇屬性，<br>則龍化中的傷害倍率提升12％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/808223f7e4cd602dd87951cc09df34592.png"></span><span>創世龍降臨Ⅱ</span></dt><dd><div>①不論自身裝備任何龍族，龍化時皆變身為巴哈姆特。<br>②自身龍化時間延長100％。<br>③龍化時所需的龍化量條蓄集量加倍。<br>（龍化量條上限不變。）<br>④任務開始時自身的龍化量條提升50％。<br>⑤隊伍全員的「任務開始時龍化量條提升效果」<br>上限變為50％。<br>⑥龍化中，可使用以下效果的龍族爆發。<br>給予複數攻擊對象和其周圍敵人傷害。<br>⑦任務中，初次解除龍化時，<br>給予自身【超負荷Lv.1】。<br>【超負荷】每經過一定時間會提升等級。<br>Lv.1：受到持續傷害，但攻擊力提升10％。<br>Lv.2：受到持續傷害，但攻擊力提升15％、<br>爆擊率提升15％。<br>Lv.3：受到持續傷害，但攻擊力提升20％、<br>爆擊率提升20％、攻擊技能傷害提升20％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bd7de81c28d0b9c93b0edbfc86b0cb6a2.png"></span><span>創世加護Ⅱ</span></dt><dd><div>陷入「黑暗」、「麻痺」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a5422b118c71a0a475d5e5cd611188862.png"></span><span>理想餘暉Ⅱ</span></dt><dd><div>若自身於【超負荷】狀態下HP歸零時，<br>給予自身以外的隊伍全員【超負荷Lv.1】。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※原有技能與共享技能的部分效果可能有差異。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/66cc97438530e3c2b9820c960f5f2c13.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>繼承了阿爾博流斯的意志，<br>並決意戰鬥的第七王子。<br>其勇氣與溫柔吸引著許多人聚集到他身邊。<br>與夥伴們一路以來的羈絆，<br>將化作甚至能夠凌駕傳說的力量。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>旭日聖冠</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予周圍敵人傷害，<br>並設置【攻擊增益效果領域】。</div><div class="skill-detail">威力：1,652 × 1 Hit<br>所需技能點數：3,817<br>所需共享技能點數：16,794<br>特殊效果<br>‧攻擊力提升20％<br>　效果時間：10 秒</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e3c8bf74f6e5d50e339f98d82b8411472.png"></span>
+				<span>霸主榮冠</span>
+			</dt>
+			<dd><div>給予前方敵人傷害，使其陷入「麻痺」狀態。<br>此外，隊伍全員的攻擊力與防禦力上升，<br>並獲得【盾】效果。<br>此技能將隨時間經過而蓄集。</div><div class="skill-detail">威力：134 × 3 Hit<br>威力：400 × 10 Hit<br>所需技能點數：隨時間經過而蓄集<br>特殊效果<br>‧攻擊力提升15％<br>　效果時間：15 秒<br>‧防禦力提升15％<br>　效果時間：15 秒<br>‧盾<br>　效果次數：1<br>　效果量：最大HP的20％<br>‧麻痺<br>　效果時間：13 秒<br>　效果間隔：3.9 秒<br>　威力：60<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2993ccd3f5c88b4fc376f81999404f672.png"></span>
+				<span>龍化強化Ⅷ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員龍化中的傷害倍率提升10％，龍化時間延長20％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span>
+				<span>【光】龍化：龍化時治癒Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，<br>則每次龍化時發動【20秒間，HP持續回復】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/62ec54c3111dcff5d7c6fadf0c9e0ae92.png"></span><span>龍光意志Ⅱ</span></dt><dd><div>隨龍化時間經過的量條下降速度減輕30%，<br>龍化中的攻擊速度提升10％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>聖片加護Ⅱ</span></dt><dd><div>陷入「毒」、「詛咒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span><span>龍形蓄集Ⅱ</span></dt><dd><div>HP減少至30％以下時，<br>自身的龍化量條提升50％。<br>此效果每場任務最多可發動1次。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※原有技能與共享技能的部分效果可能有差異。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>【注意事項】</div><div>1. 「白金傳說召喚」詳細召喚資訊，請點擊遊戲內下方選單列的「召喚」後，從「白金傳說召喚」的「出現機率」，或於「召喚資訊」中的「詳細」進行確認。</div><div>2. 「白金傳說召喚」和「失落龍絆日」等同時舉辦。請透過召喚頁面上方「&lt;」「&gt;」標示進行切換。</div><div>3. 「失落龍絆日」等連續10次未出現★5時的出現機率上升機制，不會因為進行「白金傳說召喚」而重置。</div><div>4. 其他注意事項，請點擊遊戲內下方選單列的「召喚」後，從「召喚資訊」＞「詳細」＞「注意事項」進行確認。</div><div>5. 「白金傳說召喚」中無法獲得「龍輝之印」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1666936800; update_time1652852696

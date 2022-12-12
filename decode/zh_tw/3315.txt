@@ -1,0 +1,8 @@
+article_id:3315
+category_name:公告
+title_name:贈送「免費龍光鑽石 1,200個」好禮！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>為紀念「Dragalia Lost ～失落的龍絆～」四週年，營運團隊將於<span class="local_date" data-local_date="1664258400"></span>起發送以下道具給所有贈送對象的玩家！</div><div><br></div><div>■禮物內容</div><div>免費龍光鑽石 1,200個</div><div><br></div><div>■贈送對象</div><div>於<span class="local_date" data-local_date="1664258400"></span>之前開始遊戲的各位玩家。</div><div><br></div><div>道具將於<span class="local_date" data-local_date="1664258400"></span>後首次登入時發送至「有期限」獎勵箱。</div><div>贈送道具領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>【注意事項】</div><div>1. 本次贈送禮物為「免費龍光鑽石」。欲確認「付費龍光鑽石」與「免費龍光鑽石」之持有數，可至主頁面「選單」＞「其他」＞「購買資訊」進行確認。</div><div>2. 使用龍光鑽石時，會依照獲得順序進行消費。故即使持有「免費龍光鑽石」，也可能先消費「付費龍光鑽石」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1664258400; update_time1664175848

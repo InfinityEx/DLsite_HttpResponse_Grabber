@@ -1,0 +1,161 @@
+article_id:1996
+category_name:公告
+title_name:「龍族傳說召喚」開始舉辦！ 
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「龍族傳說召喚」已從<span class="local_date" data-local_date="1613973600"></span>起舉辦中！</div><div>&nbsp;</div><div>精選對象之★5和★4龍族的出現機率上升中。</div><div><br></div><div>【精選對象龍族】</div><div>★5 貝爾坎特：闇</div><div>★5 阿波羅：火</div><div>★5 安朵美達：闇</div><div>★4 菲尼克斯：火</div><div>★4 伊弗利特：火</div><div>★4 迦喀諾特：闇</div><div><br></div><div>【龍族傳說召喚出現機率】</div><div>★5精選 合計：2.40％（角色：0％ 龍族：2.40％）</div><div>★5一般 合計：1.60％（角色：0.75％ 龍族：0.85％）</div><div>★4精選 合計：7.00％（角色：0％ 龍族：7.00％）</div><div>★4一般 合計：9.00％（角色：5.05％ 龍族：3.95％）</div><div>★3一般 合計：80.00％（角色：48.00％ 龍族：32.00％）</div><div><br></div><div>【龍族傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1613973600"></span> ～ <span class="local_date" data-local_date="1614319199"></span></div><div><br></div><div>部分精選對象龍族介紹如下。</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/afb9b933c3379a68cf32bbbe58ea0dee.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>打從心底深愛音樂的龍族。<br>無論演奏、歌唱、指揮、作曲都是超一流。<br>外貌雖看似鯨魚，卻能自由遨遊大海與天空。<br>據說當貝爾坎特優遊於天空時，<br>下方的人們會聽見洗滌心靈的音樂。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>美妙協奏曲</span>
+			</dt>
+			<dd><div>給予前方敵人闇屬性傷害。<br>在自身與其他角色設置的任一增益效果領域中時，<br>強化此技能，使攻擊範圍擴大，<br>並追加給予自身【任務中，爆擊時的傷害倍率<br>上升15％】增益效果。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/0ca003e40efaeaec644df1940674fce52.png"></span><span>【闇】攻擊力＆爆擊率提升Ⅴ</span></dt><dd><div>裝備角色如果為闇屬性，<br>則裝備角色的攻擊力提升45％，爆擊率提升20％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/82b68f16e27fa961b3e20da292b28c8e.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>聲望極高的好戰龍族。<br>同時身兼號稱競技都市阿波羅尼亞的守護者。<br>在阿波羅尼亞，每日都會舉辦鬥技大會，<br>有眾多為求名聲的人們在此切磋琢磨。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/46abce3ca5f53484635af11860f0d2c02.png"></span>
+				<span>榮耀聖光</span>
+			</dt>
+			<dd><div>給予目標和其周圍敵人火屬性傷害，<br>並使其陷入「火燒」狀態。<br>此外，使防禦力下降5％。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻擊力＋50％</span></dt><dd><div>裝備角色如果為火屬性，<br>則裝備角色的攻擊力提升50％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/332b0b04ccb12c122bbc2ba7b27bff5b2.png"></span><span>【火】火燒特攻＋20％</span></dt><dd><div>裝備角色如果為火屬性，<br>則給予「火燒」狀態中的敵方傷害提升20％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f55edca5683930d263e69e14ae9cc757.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>曾被「結社」囚禁的龍族。<br>據說她會親自背負萬人罪孽，<br>並藉由獻上自己來淨化罪孽──<br>但卻因為「結社」的實驗而喪失記憶。<br>現在跟阿戴爾潘因一起旅行並協助著他。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>不受祝福的羈絆之鎖</span>
+			</dt>
+			<dd><div>給予目標和其周圍敵人闇屬性傷害，<br>隊伍全員的防禦力於15秒之間上升30％。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】攻擊力＋40％</span></dt><dd><div>裝備角色如果為闇屬性，<br>則裝備角色的攻擊力提升40％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/97a6a9c25dfb5181cf44056f25fad1b82.png"></span><span>【闇】危機‧攻防提升Ⅱ</span></dt><dd><div>裝備角色如果為闇屬性，且HP減少至30％以下時，<br>則攻擊力提升40％、防禦力提升100％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1613973600; update_time1613525399

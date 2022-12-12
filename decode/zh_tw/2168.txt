@@ -1,0 +1,8 @@
+article_id:2168
+category_name:公告
+title_name:任務支援好禮送活動！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>為感謝玩家們一直以來對「Dragalia Lost ～失落的龍絆～」的支持，</div><div>營運團隊將於<span class="local_date" data-local_date="1619848800"></span>起連續5天贈送各位玩家以下好禮！</div><div>希望能夠助您今後的冒險之路一臂之力！</div><div><br></div><div>■禮物內容</div><div>靈鳥之灰&times;20</div><div>頂級蜂蜜&times;5</div><div>召喚券&times;2</div><div><br></div><div>道具領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1619848800; update_time1619604571

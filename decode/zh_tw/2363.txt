@@ -1,0 +1,8 @@
+article_id:2363
+category_name:活動
+title_name:期間限定育成活動「通往榮光之道」開始舉辦！
+image_path:https://dragalialost.akamaized.net/attached/information/images/aeb93ac972f1c741fb01c0066df66514.png
+
+message:<div>各位玩家您好</div><div><br></div><div>期間限定育成活動「通往榮光之道」已於<span class="local_date" data-local_date="1626674400"></span>起舉辦中！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/aeb93ac972f1c741fb01c0066df66514.png"></div><div>■活動期間</div><div><span class="local_date" data-local_date="1626674400"></span> ～ <span class="local_date" data-local_date="1627624799"></span></div><div><br></div><div>■活動概要</div><div>在「通往榮光之道」中可挑戰活動限定任務，獲得掉落獎勵。</div><div>「通往榮光之道」有以下2種任務。</div><div><br></div><div>・「通往躍進之道」</div><div>打倒四處亂竄的法夫納，即可獲得能夠用來強化角色、武器、龍族和龍輝護符的強化材料。</div><div>適合想要強化角色或龍輝護符等的玩家。</div><div><br></div><div>・「通往珍寶之道」</div><div>打倒不斷湧現的黃金史萊姆，即可獲得「盧比」。</div><div>適合想要賺取「盧比」的玩家。</div><div><br></div><div>■注意事項</div><div>1. 若要參加活動任務，須完成主線劇情第2章 2-1（Normal）。</div><div>2. 若要參加團隊遊戲，須完成主線劇情第2章 2-1（Normal）。</div><div>3. 如活動於任務中結束，該任務將繼續進行直到分出勝負。依據任務的勝敗結果可獲得相對應的報酬。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1626674400; update_time1626249204

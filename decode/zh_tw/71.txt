@@ -1,0 +1,8 @@
+article_id:71
+category_name:公告
+title_name:部分技能之攻擊範圍調整公告【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，目前正在舉行的活動「心善的少女與受囚禁的守護龍」中，</div><div>發生部分技能無法攻擊到團體戰BOSS「許普諾斯」的異常現象。</div><div>由於本異常現象對團體戰的影響甚大，為排解本現象，營運團隊已調整部分技能的攻擊範圍。</div><div><br></div><div>調整後，使用技能即可攻擊中比自身更高的敵人。</div><div>本次調整的技能詳細如下。</div><div><br></div><div>■調整對象及技能</div><div>・角色「愛蕾諾拉」的技能1「陰蛇暗箭」</div><div>・角色「琉卡」的技能1「光明約束」</div><div>・角色「烏路嘉」的技能2「倖存電光」</div><div>・角色「威克」的技能2「浪花水箭」</div><div>・武器「天雷之弓」的技能「天雷破」</div><div>・武器「爆速機弓」的技能「爆速破發」</div><div><br></div><div><br></div><div>對於未能事前告知本次調整內容，造成各位玩家的不便，</div><div>營運團隊將會發送以下道具給於2018/10/31（三）14:00（UTC+8）前開始進行遊戲的玩家。</div><div><br></div><div>○補償內容</div><div>‧龍輝晶石300個</div><div>※補償道具請至「獎勵箱」領取。</div><div><br></div><div>後續相關進度將於本公告進行更新。</div><div>造成全體玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1540971000"></span>　更新</strong></span><br>補償道具已完成發送。<br>&nbsp;<span class="local_date" data-local_date="1541570399"></span>前登入遊戲即可領取本次的補償道具。<br>領取期限為發送至獎勵箱後7天以內。</div>
+
+start_time:1540966800; update_time1542364063

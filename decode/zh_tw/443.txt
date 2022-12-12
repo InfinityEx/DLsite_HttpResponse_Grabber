@@ -1,0 +1,8 @@
+article_id:443
+category_name:公告
+title_name:「★5角色召喚」中召喚資訊內容誤植公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經確認於「★5角色召喚」中「召喚資訊」之「詳細」內所刊登的內容有誤，</div><div>現已修正完畢。</div><div><br></div><div>■修正內容</div><div>正確：如果召喚出已經是夥伴的角色，則會改為獲得「覺醒之露&times;8500」。</div><div>錯誤：如果召喚出已經是夥伴的角色，則會改為獲得「覺醒之露&times;3000」。</div><div><br></div><div>以上僅為文字記述上的異常。</div><div>若召喚出已經是夥伴的角色時，可正常獲得「覺醒之露&times;8500」。</div><div><br></div><div>造成各位玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1557208800; update_time1557203445

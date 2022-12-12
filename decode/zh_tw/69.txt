@@ -1,0 +1,8 @@
+article_id:69
+category_name:伺服器維護
+title_name: 「商店」功能維護公告【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>營運團隊預計於下列日期進行「商店」功能維護。</div><div>※本次維護僅限「商店」功能，不影響其他遊戲功能。</div><div><br></div><div>■維護日期</div><div><span class="local_date" data-local_date="1540878600"></span> ～ <span class="local_date" data-local_date="1540879200"></span></div><div><br></div><div>■維護內容</div><div>共鬥之翼的調整</div><div><br></div><div>■注意事項</div><div>維護時間有可能延長或是提前結束。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1540879200"></span>新增</strong></span><br>「商店」功能維護作業已於<span class="local_date" data-local_date="1540879200"></span>結束。<br>感謝各位玩家的支持與配合。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>&nbsp;</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1540811700; update_time1542363817

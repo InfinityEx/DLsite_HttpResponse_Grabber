@@ -1,0 +1,8 @@
+article_id:432
+category_name:公告
+title_name:黃金周連續假期期間客服服務公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>因應日本連續假期，2019/04/27(六) ～ 2019/05/06(一)期間內的玩家諮詢內容，將會依序進行回覆。</div><div><br></div><div>此外，上述期間內的調查作業和訊息回覆，有可能會比平時花費更多時間。</div><div>敬請理解與見諒。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1556172000; update_time1556162108

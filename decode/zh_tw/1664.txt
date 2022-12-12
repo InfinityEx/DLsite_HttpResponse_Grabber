@@ -1,0 +1,8 @@
+article_id:1664
+category_name:公告
+title_name:強化咢牙系列武器所需盧比調整公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>配合版本2.0.0中對武器進行的平衡調整，已調整強化咢牙系列武器所需盧比。</div><div><br></div><div>■修正前</div><div>・生產階級Ⅰ</div><div>2,000,000盧比</div><div>・階級Ⅰ上限解放（最多4次）</div><div>2,000,000盧比</div><div>※生產階級Ⅰ武器所需的盧比。</div><div>‧升級至階級Ⅱ</div><div>3,000,000盧比</div><div>・階級Ⅱ上限解放</div><div>無</div><div>※升級必須先進行最大上限解放，階級Ⅱ無法進行上限解放。</div><div>‧製造1把階級Ⅱ武器，進行最大上限解放所需盧比</div><div>13,000,000盧比</div><div><br></div><div>■修正後</div><div>‧生產武器</div><div>2,000,000盧比</div><div>‧武器精煉前的上限解放（最多4次）</div><div>2,000,000盧比</div><div>‧武器精煉</div><div>2,500,000盧比</div><div>‧武器精煉後上限解放（最多4次）</div><div>7,500,000盧比</div><div>‧製造1把已精煉且進行最大上限解放的武器所需盧比</div><div>42,500,000盧比</div><div><br></div><div>做為未能於事前公告調整事項的補償，營運團隊將對已於<span class="local_date" data-local_date="1601636400"></span>前開始遊戲的各位玩家依序發送以下道具。</div><div><br></div><div>‧虹精金鋼&times;1</div><div>‧頂級蜂蜜&times;50</div><div>‧盧比&times;100,000,000</div><div>※道具請至「獎勵箱」領取。</div><div>※道具的領取期限為發送至「獎勵箱」後7天以內。</div><div><br></div><div>造成各位玩家的不便與困擾，在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1601636400; update_time1601636320

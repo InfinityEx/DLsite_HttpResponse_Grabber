@@ -1,0 +1,8 @@
+article_id:2070
+category_name:活動
+title_name:活動「龍絆‧破曉」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/638375625729ff5b86d48e83cd8dfe16.png
+
+message:<div>各位玩家您好</div><div><br></div><div>團體活動「龍絆‧破曉」預計將於<span class="local_date" data-local_date="1616824800"></span>起開始舉辦。</div><div>本活動可在團隊遊戲模式下挑戰無屬性的團體戰BOSS。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/638375625729ff5b86d48e83cd8dfe16.png"></div><div>這是發生在300年前的故事。</div><div>與碧龍耶夢加得結伴旅行的青年阿爾博流斯，</div><div>由於捲入了伊利亞教會和狄亞內魯帝國之間的紛爭，</div><div>而拔起只有龍之血繼承者才能拔出的聖劍「龍絆」。</div><div>為了打倒邪惡魔神，他踏上了英雄之路，</div><div>然而阻礙他的竟然是伊利亞教聖龍伊利西恩的試煉！</div><div><br></div><div>敬請期待團體活動「龍絆‧破曉」！</div><div><br></div><div>活動主題曲：「Because of You」／セツコ</div><div>作詞作曲：TAKU INOUE</div><div>編曲：棚橋&quot;EDDY&quot;テルアキ</div><div><br></div><div>■注意事項</div><div>1. 若要參加活動任務，須完成主線劇情第2章 2-1（Normal）。</div><div>2. 若要參加團隊遊戲，須完成主線劇情第2章 2-1（Normal）。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1616643000; update_time1616635936

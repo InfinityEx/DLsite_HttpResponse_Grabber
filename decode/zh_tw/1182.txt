@@ -1,0 +1,8 @@
+article_id:1182
+category_name:公告
+title_name:「特製桌布」追加公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「Dragalia Lost ～失落的龍絆～」官方網站內的「特製桌布專頁」已於<span class="local_date" data-local_date="1585288800"></span>起追加新的特製桌布！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/c5804640cf4fcc548b631efbd28edaa7.jpg"></div><div><br></div><div>▼特製桌布專頁</div><div><a href="https://dragalialost.com/cht/special/wallpaper/">https://dragalialost.com/cht/special/wallpaper/</a></div><div><br></div><div>※新追加的特製桌布僅提供1920&times;1080尺寸。</div><div>※專頁內的圖片僅限個人使用，禁止以各種形式進行轉載、二次加工及再上傳。</div><div>※根據您所使用的瀏覽器、智慧型手機、OS之版本不同，設定方式可能會有所差異。詳細的設定方式請參考所使用的電腦及智慧型手機之使用說明。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1585288800; update_time1585271418

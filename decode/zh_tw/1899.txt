@@ -1,0 +1,8 @@
+article_id:1899
+category_name:公告
+title_name:YouTube Live新活動預告影片首播公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>新活動預告影片預計將於<span class="local_date" data-local_date="1610114400"></span>左右於YouTube Live播出。</div><div>影片包含預計將於1月下旬舉辦的新活動預告等內容，影片長度約2分30秒左右。</div><div><br></div><div>▼播放頁面</div><div><a href="https://youtu.be/d0E_F30T9-0">https://youtu.be/d0E_F30T9-0</a></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1610085600; update_time1610075606

@@ -1,0 +1,8 @@
+article_id:2696
+category_name:活動
+title_name:活動【復刻】「除舊！布新！大掃除！」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/b32656dfa7cc266c0c1e34442baa2137.png
+
+message:<div>各位玩家您好</div><div><br></div><div>期間限定活動【復刻】「除舊！布新！大掃除！」預計將從<span class="local_date" data-local_date="1640325600"></span>起開始舉辦。</div><div><br></div><div>本活動中可挑戰活動限定的任務達成Mission並獲得豐富獎勵。</div><div>幫助克菈兒進行大掃除，看看聖城的夥伴是如何度過年末的時光吧。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/b32656dfa7cc266c0c1e34442baa2137.png"><br></div><div><br></div><div>時值歲末，聖城的夥伴們在克菈兒的指揮下進行大掃除。</div><div>然而城內竟然出現了成群的魔獸！？</div><div>一邊造訪在今年所遇見的夥伴們，</div><div>一邊將妨礙掃除的魔獸們給一掃而空吧！</div><div><br></div><div>■注意事項</div><div>1. 若要參加活動任務，須完成主線劇情第2章 2-1（Normal）。</div><div>2. 若要參加團隊遊戲，須完成主線劇情第2章 2-1（Normal）。</div><div>3. 「除舊！布新！大掃除！」的劇情在活動期間結束後將無法閱讀。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1640239200; update_time1640228101

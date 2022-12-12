@@ -1,0 +1,274 @@
+article_id:1651
+category_name:公告
+title_name:「失落龍絆日」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「失落龍絆日」預計將於<span class="local_date" data-local_date="1601445600"></span>起開始舉辦。</div><div>&nbsp;</div><div>【關於失落龍絆日】※包含「失落龍絆日　非凡佳選」</div><div>‧★5角色、龍族的初始「出現機率」，將由平時的4％上升至6％！</div><div>※如召喚出★5或★5精選，出現機率將會變回初始設定值6％。</div><div><span style="color: rgb(226, 80, 65);">※本次新追加的★5角色「梅涅（風）」和★5龍族「耶夢加得‧零（風）」，在今後的傳說召喚中也會出現。</span></div><div><span style="color: rgb(226, 80, 65);">※同時開放的「白金傳說召喚」不包含本召喚中新追加的角色和龍族。</span></div><div><br></div><div>【失落龍絆日舉辦期間】</div><div><span class="local_date" data-local_date="1601445600"></span> ～ <span class="local_date" data-local_date="1601877599"></span></div><div><br></div><div>新追加的精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1a00b615175dd6d0782e55221d8ab527.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>770</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>489</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>來自異界的另一位潔西雅。<br>為了拯救自己的世界，與王子等人共同行動。<br>雖然對於如何與這個世界的夥伴相處<br>以及自身存在感到困惑，<br>仍然盡力思考自己能做的事。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/89ff2ae17052136be491702e97c672842.png"></span>
+				<span>榮耀護所</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					回復隊伍全員HP，並於地面設置【回復領域】。<br>此外，於60秒之間隊伍全員的攻擊力上升15％。<br>此攻擊力上升效果無法重複。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/73b4f043d682574987f05766f345a8962.png"></span>
+				<span>純潔聖冠</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人光屬性傷害。<br>【多重目標】技能可將複數敵人設為目標。<br>自身的爆發攻擊蓄集速度於15秒之間提升30％。<br>此效果無法重複。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回復技能效果＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的回復技能效果提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>【光】連擊：10連擊以上‧爆擊＋13％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，<br>則連擊數為10次以上時，<br>發動【爆擊率提升13％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/59b79e43c808695a2c55911edd3331bb2.png"></span><span>聖魔巫女Ⅱ</span></dt><dd><div>追加聖女量條。<br>聖女量條於使用技能1、技能2時蓄集。<br>當量條蓄滿時，給予自身【暮光月華】增益效果。<br>下次使用的爆發攻擊轉換成可蓄集5階段，<br>並可依階段提升威力。<br>【暮光月華】不會重複，使用爆發攻擊後將會解除。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>聖片加護Ⅱ</span></dt><dd><div>陷入「毒」、「詛咒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>巫女祈念Ⅱ</span></dt><dd><div>因能力獲得HP提升效果時，<br>將依效果量提升攻擊力。<br>自身的剩餘HP越多，則攻擊力提升越高。<br>此效果對象不包含因EX能力、連鎖EX能力獲得的<br>HP提升效果。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a0c75742d1af619a6466a88f1f725a8d.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>805</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>470</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>妖精國王女。妖精的身體會在某段時間變大，<br>在這段期間會離開妖精國學習外面的世界。<br>她在離開祖國的當天遇見仍是嬰兒的伊利亞，<br>並就此成為伊利亞的養育者。<br>母愛改變了原先膽小的梅涅。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/57b60dca90c3dc5547b26002aeb55a522.png"></span>
+				<span>妖精魔法</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>3</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人風屬性傷害，<br>使攻擊力於15秒之間下降20％。<br>此攻擊力下降效果無法重複。<br>攻擊時，追加發射<br>與自身召喚的【蝶】同數量的【追蹤彈】。<br>若【蝶】的數量為6以上，則給予追蹤彈<br>【使防禦力於15秒之間下降10％】效果。<br>此防禦力下降效果無法重複。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a7a0c4020baa6597d703d8cf2e9cfb2c2.png"></span>
+				<span>幻蝶親吻</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人風屬性傷害。<br>攻擊時，給予在自身召喚的【蝶】附近的敵人<br>追加傷害。若【蝶】的數量為6以上，<br>則給予追加傷害【使敵人陷入「毒」狀態】效果。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能量條增加率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span>
+				<span>【風】連擊：連擊數持續時間延長Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為風屬性，<br>則最後命中的攻擊至連擊數重置為止的時間延長2.5秒。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7120dd17ed90ed030b3a31cb43ce2b332.png"></span><span>增生喚蝶Ⅱ</span></dt><dd><div>一般攻擊、爆發攻擊與衝刺攻擊轉換成<br>召喚可持續追蹤目標的【蝶】。<br>此外，任務開始時隊伍全員獲得<br>【使自身最大HP 20％份量的傷害無效化之生命盾】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span><span>濕身抗性＋100％</span></dt><dd><div>陷入「濕身」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>疾風怒濤‧爆擊＋13％</span></dt><dd><div>連擊數為15次以上時，<br>攻擊時發生爆擊的機率提升13％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※自身召喚出的【蝶】數量在今後的版本更新後將顯示得更為清楚。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6a19e45035f1f1035494a840fbce0934.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>活在千年前的碧龍。在第一次封魔戰爭時<br>處於中立，摸索著能永續維持的<br>人龍相處之道。其靈魂在轉生後<br>便結束了一生。繼承其高潔靈魂的龍族<br>如今正存在於這世界的一角。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>終末暴風雨</span>
+			</dt>
+			<dd>
+				<div>
+					給予周圍敵人風屬性傷害，<br>使其於任務中風屬性抗性下降10％。<br>此效果無法重複。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>【風】HP＆攻擊力＋35％</span></dt><dd><div>裝備角色如果為風屬性，<br>則裝備角色的HP及攻擊力提升35％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【風】疾風怒濤‧技能＋70％</span></dt><dd><div>裝備角色如果為風屬性，<br>則連擊數為15次以上時，<br>攻擊技能傷害提升70％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1601359200; update_time1601348276

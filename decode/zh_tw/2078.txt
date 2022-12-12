@@ -1,0 +1,8 @@
+article_id:2078
+category_name:活動
+title_name:「厄魔封滅戰 闇之章」的「莉莉斯封滅戰 超級」已追加團隊遊戲！
+image_path:https://dragalialost.akamaized.net/attached/information/images/fe5779157b5cc4db1741d37bdc19ba0c.png
+
+message:<div>各位玩家您好</div><div><br></div><div>「厄魔封滅戰 闇之章」的「莉莉斯封滅戰 超級」已於<span class="local_date" data-local_date="1617343200"></span>起追加團隊遊戲。</div><div><br></div><div>即使一敗塗地又如何？就這樣告終了嗎？</div><div>當永不消失的復仇之心從異界深淵滿溢而出時，</div><div>無法治癒的永劫憎惡讓潔白之翼墮入漆黑。</div><div>傳達神之旨意的天使理性受到侵蝕化為闇焰少女。</div><div>戴著純潔面具的惡虐化身――莉莉斯。</div><div>忠於本能粉碎一切的她，是真正的惡魔。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/fe5779157b5cc4db1741d37bdc19ba0c.png"></div><div>莉莉斯封滅戰 超級（闇&rarr;火）必須戰力：36,000</div><div><br></div><div>■任務解鎖條件</div><div>完成主線劇情第16章 4-6（Normal）</div><div><br></div><div>■「莉莉斯封滅戰 超級」中須要進行「隊伍切換」</div><div>「莉莉斯封滅戰 超級」任務中BOSS的屬性會產生變化，須要進行「隊伍切換」切換成事前設置的隊伍。</div><div><br></div><div>因此，在任務開始前必須依照指定屬性編制2支隊伍。</div><div>育成2支隊伍，挑戰「莉莉斯封滅戰 超級」吧。</div><div><br></div><div>※進行「隊伍切換」的任務中無法獲得角色經驗值。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1617343200; update_time1616657228

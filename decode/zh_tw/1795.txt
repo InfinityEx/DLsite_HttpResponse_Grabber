@@ -1,0 +1,274 @@
+article_id:1795
+category_name:公告
+title_name:傳說召喚「超異域公主連結！Re:Dive新的友情與異世界料理　精選」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>傳說召喚「超異域公主連結！Re:Dive新的友情與異世界料理　精選」預計將於<span class="local_date" data-local_date="1606716000"></span>起開始舉辦。</div><div>精選對象之角色‧龍族的出現機率將會上升。</div><div><br></div><div>進行傳說召喚「超異域公主連結！Re:Dive新的友情與異世界料理　精選」可在得到角色、龍族的同時另外獲得「附獎」。</div><div>附獎分為白金賞、金賞、銀賞、銅賞、5等賞、6等賞共6種。</div><div>進行「10連召喚」時第10次的附獎將必中白金賞、金賞、銀賞、銅賞其中之一。</div><div><span style="color: rgb(226, 80, 65);">獲得的附獎將發送至獎勵箱的「無期限」項目中。</span></div><div><br></div><div>※即使一次使用10張召喚券，也不等於進行「10連召喚」，第10次的附獎不保證出現白金賞、金賞、銀賞、銅賞其中之一。</div><div>※其他附獎一覽和出現機率資訊，請於傳說召喚「超異域公主連結！Re:Dive新的友情與異世界料理　精選」舉辦期間由遊戲內下方選單列的「召喚」＞「出現機率」＞「附獎」進行確認。</div><div><br></div><div>【新追加精選對象之角色】</div><div>★5 貪吃佩可：光／劍</div><div>★5 三葉（野食殿堂Ver.）：風／刀</div><div><br></div><div>【新追加精選對象之龍族】</div><div>★5 聖光潘朵拉：光</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※本次新追加的角色和龍族，在今後的傳說召喚中也會出現。</span></div><div><br></div><div>【傳說召喚 舉辦期間】</div><div><span class="local_date" data-local_date="1606716000"></span> ～ <span class="local_date" data-local_date="1607320799"></span></div><div><br></div><div>部分附獎內容之介紹如下：</div><div><br></div><div>【部分附獎內容一覽】</div><div>■白金賞</div><div>若出現白金賞時，將根據出現機率從下列道具中獲得其中1種。</div><div>‧金剛晶 1個</div><div>‧大馬士革鋼 1個</div><div>‧虹精金鋼1個</div><div><br></div><div>■金賞</div><div>若出現金賞時，將根據出現機率從下列道具中獲得其中1種。</div><div>‧金剛原石 3個</div><div>‧英雄之證 2個</div><div>‧夢想聖鑰 2個</div><div>‧星空光沙 7個</div><div><br></div><div>■銀賞</div><div>若出現銀賞時，將根據出現機率從下列道具中獲得其中1種。</div><div>‧英雄之證 1個</div><div>‧金剛原石 1個</div><div>‧星空光沙 3個</div><div>‧大馬士革骸晶 2個</div><div>‧月光晶 2個</div><div>‧騎士之證 2個</div><div>‧真‧輝龍之尾 3個</div><div>‧輝龍勇武晶石 5個</div><div>‧彩虹寶珠 3個</div><div>‧金燐光寶珠 5個</div><div><br></div><div>新追加精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6303353d9f10e6c66d673f492b399a6d.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>來自「阿斯特賴亞」，<br>是公會【美食殿堂】的會長，<br>同時也是個隨時在肚子餓的劍士。<br>即使來到了異世界，也從未見過<br>她旺盛的食慾有任何減退。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8bc784d76a34568599242e4d6e41ef7b2.png"></span>
+				<span>公主突襲</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予自身【闇屬性抗性於10秒之間上升10％】效果，<br>給予前方敵人光屬性傷害。<br>此闇屬性抗性上升效果無法重複。<br>米飯之力量條蓄滿時，<br>此技能轉換成「英勇公主突襲」，效果如下：<br>自身的攻擊力於5秒之間上升40%，<br>並給予前方敵人光屬性傷害。<br>技能的變化將於米飯之力量條歸零後復原。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9e1898818f4652069e70f1ad504ad68d2.png"></span>
+				<span>午餐時光</span>
+			</dt>
+			<dd>
+				<div>
+					回復自身HP，蓄集米飯之力量條。<br>此外，於15秒之間自身的防禦力上升15％。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龍化累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的龍化量條增加率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【光】無傷：HP60％‧攻＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，且HP在60％以上時，<br>則發動【攻擊力提升6％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b0f9893a86ba76b0f104d8e5df90cc332.png"></span><span>肚子餓得咕嚕咕嚕叫的貪吃佩可Ⅱ</span></dt><dd><div>追加米飯之力量條。<br>米飯之力量條於使用技能2時蓄集。<br>當量條蓄滿時，爆發攻擊發生變化，<br>將隨時間經過而米飯之力量條減少。<br>爆發攻擊的變化將於米飯之力量條歸零後復原。<br>米飯之力量條減少期間，<br>不受到「技能2的米飯之力量條蓄集效果」影響。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>詛咒抗性＋100％</span></dt><dd><div>陷入「詛咒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ffb9968d43f8fb3edf69d3eddffc0bbd2.png"></span><span>米飯就是生命的能量☆Ⅱ</span></dt><dd><div>回復HP時，給予自身<br>【10秒間，攻擊力提升20％】增益效果。<br>此效果發動後，20秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/4825f4756f7e4ac92e1f02c7a06394ca.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>781</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>494</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>來自日初之國的料亭少女，目前正於<br>阿爾貝利亞進行料理修行。與夥伴在挑戰了<br>野炊料理後，就對在山裡用餐開始感興趣。<br>為了振興老家的料亭，割烹少女四處找尋著<br>「新風味」，並在荒山野嶺間奔走。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/659df034cb15d577d4c1578fba2f0c382.png"></span>
+				<span>生鮮魔獸冷盤</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人風屬性傷害，<br>使其陷入「刀傷」狀態。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>大展身手之魔獸全餐</span>
+			</dt>
+			<dd>
+				<div>
+					每連擊15次時，<br>給予自身【追加菜單】。<br>【追加菜單】最大可疊加3次。<br>於自身周圍展開15秒【增益效果領域】。<br>此技能的增益效果領域效果<br>將隨技能發動時的【追加菜單】數變化。<br>1個：技能傷害上升10％。<br>2個：技能傷害上升10％、爆擊率上升10％。<br>3個：技能傷害上升10％、爆擊率上升10％、攻擊力上升5%。<br>此技能僅可於【追加菜單】狀態時使用，<br>使用技能時，解除所有的【追加菜單】。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻擊力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的攻擊力提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>【風】堅守：HP80％‧抗水＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為風屬性，且HP在80％以上時，<br>則水屬性抗性提升6％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>刀傷觸發‧攻＋10％</span></dt><dd><div>自身使敵方陷入「刀傷」狀態時，給予自身<br>【10秒間，攻擊力提升10％】增益效果。<br>此效果發動後，5秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>凍結抗性＋100％</span></dt><dd><div>陷入「凍結」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/727e4e8f12face22a6f4d46574b0b3fe2.png"></span><span>板前師傅的眼光Ⅱ</span></dt><dd><div>使用技能「大展身手之魔獸全餐」時，<br>給予自身【曼德拉蘿蔔的收成】增益效果。<br>【曼德拉蘿蔔的收成】發動時<br>技能量條增加率提升15％，<br>下次使用的爆發攻擊將轉換成【珍饈曼德拉蘿蔔】，<br>使命中的敵人陷入「毒」狀態。<br>【曼德拉蘿蔔的收成】不會重複，<br>使用爆發攻擊後將會解除。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8afc6ae21c4cef1c9f3de31c63f97ce6.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>雙胞胎龍族的妹妹，擁有的神奇盒子<br>裝著使世界變得更加美好的力量。<br>會使用與姊姊的「災厄魔盒」成對的<br>「希望聖盒」為世界散播希望與幸福。<br>最喜歡姊姊，其實是個愛撒嬌的孩子。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>希望射擊☆</span>
+			</dt>
+			<dd>
+				<div>
+					於15秒之間，自身的攻擊力上升25%、<br>爆擊率上升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】希望聖盒的使者Ⅴ</span></dt><dd><div>裝備角色如果為光屬性，<br>則自身每持有1個【幸福的閃光】增益效果，<br>攻擊力提升20％。<br>於任務開始時給予自身4個【幸福的閃光】，<br>此外因自身技能使自身攻擊力提升、防禦力提升、<br>屬性抗性提升、爆擊率提升、爆擊傷害提升、<br>活力提升、靈感提升時，<br>給予自身1個【幸福的閃光】。<br>【幸福的閃光】最大可疊加4次，<br>獲得第一個效果後，每經過20秒解除1個效果。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 附獎一覽和出現機率資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「附獎」進行確認。</div><div>3. 進行「10連召喚」或一次使用10張召喚券所獲得的道具重複時，同種道具將統一發送至獎勵箱的「無期限」項目中。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1606629600; update_time1606786534

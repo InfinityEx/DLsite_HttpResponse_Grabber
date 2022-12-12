@@ -1,0 +1,8 @@
+article_id:808
+category_name:公告
+title_name:公告顯示出現異常通知
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>遊戲內以及官方網站中的公告，於<span class="local_date" data-local_date="1570600800"></span> ～ <span class="local_date" data-local_date="1570601700"></span>左右發生未正常顯示之異常，</div><div>現在已可正常顯示。</div><div><br></div><div>造成所有玩家的困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1570604100; update_time1570603774

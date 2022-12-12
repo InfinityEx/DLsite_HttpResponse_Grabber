@@ -1,0 +1,105 @@
+article_id:2643
+category_name:公告
+title_name:「附獎傳說召喚」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「附獎傳說召喚」預計將於<span class="local_date" data-local_date="1638511200"></span>起開始舉辦。</div><div>「附獎傳說召喚」中將有期間限定角色登場。</div><div>此外，精選對象之角色出現機率將會上升。</div><div><br></div><div>進行「附獎傳說召喚」可在得到角色‧龍族的同時另外獲得「附獎」。</div><div>附獎分為白金賞、金賞、銀賞、銅賞、5等賞、6等賞共6種。</div><div>進行10連召喚時第10次的附獎將必中白金賞、金賞、銀賞、銅賞其中之一。</div><div><span style="color: rgb(226, 80, 65);">獲得的附獎將發送至獎勵箱的「無期限」項目中。</span></div><div><br></div><div>※即使一次使用10張召喚券，也不等於進行「10連召喚」，不保證第10次的附獎必中白金賞、金賞、銀賞、銅賞其中之一。</div><div>※其他附獎一覽和出現機率資訊，請於「附獎傳說召喚」舉辦期間由遊戲內下方選單列的「召喚」＞「出現機率」＞「附獎」進行確認。</div><div><br></div><div>【新追加的期間限定精選對象之角色】</div><div>■角色</div><div>★5 伊利亞（星龍祭Ver.）：火／銃（散彈銃模式）</div><div><br></div><div>此外，以下期間限定的角色將於本次「附獎傳說召喚」中再度登場。</div><div><span style="color: rgb(226, 80, 65);">※以下角色並非精選對象。</span></div><div><br></div><div>【期間限定再度登場的角色】</div><div>■角色</div><div>★5 涅因（星龍祭Ver.）：風／短劍</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※「龍輝之印」僅可於獲得該「龍輝之印」的召喚中消費。在<span class="local_date" data-local_date="1638165600"></span>～<span class="local_date" data-local_date="1638511199"></span>舉辦的「失落龍絆日」中所獲得的「龍輝之印」，無法在本次「附獎傳說召喚」中消費。</span></div><div><br></div><div>【附獎傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1638511200"></span> ～ <span class="local_date" data-local_date="1639547999"></span></div><div><br></div><div>部分附獎內容之介紹如下：</div><div><br></div><div>【部分附獎內容一覽】</div><div>■白金賞</div><div>若出現白金賞時，將根據出現機率從下列道具中獲得其中1種。</div><div>‧金剛晶 1個</div><div>‧大馬士革鋼 1個</div><div>‧虹精金鋼 1個</div><div><br></div><div>■金賞</div><div>若出現金賞時，將根據出現機率從下列道具中獲得其中1種。</div><div>‧金剛原石 3個</div><div>‧英雄之證 2個</div><div>‧夢想聖鑰 2個</div><div>‧星空光沙 7個</div><div><br></div><div>■銀賞</div><div>若出現銀賞時，將根據出現機率從下列道具中獲得其中1種。</div><div>‧英雄之證 1個</div><div>‧金剛原石 1個</div><div>‧星空光沙 3個</div><div>‧大馬士革骸晶 2個</div><div>‧月光晶 2個</div><div>‧騎士之證 2個</div><div>‧真‧緋龍之尾 3個</div><div>‧真‧碧龍之尾 3個</div><div>‧緋龍勇武晶石 5個</div><div>‧碧龍勇武晶石 5個</div><div>‧彩虹寶珠 3個</div><div>‧深紅炎寶珠 5個</div><div>‧翡翠嵐寶珠 5個</div><div><br></div><div>新追加的期間限定精選對象之角色介紹如下。</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6cad89202d2e5d601ff297fe4836075b.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,499</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>可使用的模式</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/4805e47916f093eb2b9049cff29e9eb72.png"><img src="https://dragalialost.akamaized.net/attached/information/images/0ea47b25dd52e83055f02a3ca4d545522.png"><img src="https://dragalialost.akamaized.net/attached/information/images/c10d099648b4bc58a4f2bde4fe0dfd752.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>來到1000年後未來的煉金術師。<br>得知自己的生日成為了重要節日，<br>於是前去造訪星龍祭發祥之地。<br>雖然對星龍祭逸聞感到困惑，但她仍為了<br>守護孩子的夢想而決定證明聖夜使者的存在。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9a749d17a445cd8c903fb2a904229a672.png"></span>
+				<span>全速滑行</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予前方敵人傷害。攻擊時，可控制方向。<br>使用技能時將消費所有的【煉金填充匣】，<br>當消費2個以上時，<br>依【煉金填充匣】數量增加威力與攻擊範圍。</div><div class="skill-detail">威力：180 × 1 Hit<br>威力：90 × 9 Hit<br>（煉金填充匣消費0～1個時）<br>威力：700 × 1 Hit<br>（煉金填充匣消費2個時）<br>威力：1,200 × 1 Hit<br>（煉金填充匣消費3個時）<br>威力：1,900 × 1 Hit<br>所需技能點數：3,810<br>所需共享技能點數：8,115</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>星夜激化</span>
+			</dt>
+			<dd><div>繁星量條蓄集至上限，<br>給予隊伍全員防禦力提升之爆發氣場。</div><div class="skill-detail">所需技能點數：18,000<br>獲得爆發氣場<br>‧防禦力提升（爆發氣場上限Lv. 3）<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>OVERDRIVE削減＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員狀態量條的減少量提升20％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/03585ae11a2b0de283c914026533b3fe2.png"></span>
+				<span>【火】連擊：10連擊以上‧抗風＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為火屬性，<br>則連擊數為10次以上時，<br>發動【風屬性抗性提升10％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19228ed09f3ecb2edfd8369ed392d0b02.png"></span><span>星光計謀Ⅱ</span></dt><dd><div>滑動畫面進行迴避時，給予目標追加攻擊。<br>此外，追加繁星量條。<br>一般攻擊或迴避時的追加攻擊命中敵人時，<br>蓄集繁星量條。<br>每蓄滿1條繁星量條，給予自身【煉金填充匣】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/0ca003e40efaeaec644df1940674fce52.png"></span><span>爆擊之禮Ⅱ</span></dt><dd><div>消費【煉金填充匣】增益效果時，<br>給予自身15秒間【星夜光輝】效果（疊加上限3次）。<br>每持有1個【星夜光輝】增益效果，<br>攻擊力提升15％、爆擊率提升15％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※原有技能與共享技能的部分效果可能有差異。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 附獎一覽和出現機率資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「附獎」進行確認。</div><div>3. 進行「10連召喚」或一次使用10張召喚券所獲得的道具重複時，同種道具將統一發送至獎勵箱的「無期限」項目中。</div><div>4. 精選對象角色在「阿爾貝利亞競技大亂鬥」中可改變角色外觀的「角色造型」將轉為SALE中，並減少解鎖時所需的道具。</div><div>※有部分角色無法解鎖角色造型。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1638424800; update_time1638325610

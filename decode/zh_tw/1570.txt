@@ -1,0 +1,268 @@
+article_id:1570
+category_name:公告
+title_name:「失落龍絆日　非凡佳選」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「失落龍絆日　非凡佳選」已於<span class="local_date" data-local_date="1599890400"></span>起舉辦中！</div><div><br></div><div>【關於失落龍絆日】 ※包含「失落龍絆日　非凡佳選」</div><div>‧★5角色、龍族的初始「出現機率」，將由平時的4％上升至6％！</div><div>※如召喚出★5或★5精選，出現機率將會變回初始設定值6％。</div><div><span style="color: rgb(226, 80, 65);">※本次新追加的★5角色「涅法莉耶（私訪Ver.）（火）」和★5龍族「荷魯斯（火）」，在今後的傳說召喚中也會出現。</span></div><div><span style="color: rgb(226, 80, 65);">※過去於「失落龍絆日」中登場的角色也可能於本召喚中登場。登場角色詳細資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</span></div><div>&nbsp;</div><div>【精選對象角色】</div><div>★5 涅法莉耶（私訪Ver.）：火／魔杖</div><div>★5 耶魯菲莉絲（龍絆日Ver.）：水／斧</div><div><br></div><div>【精選對象龍族】</div><div>★5 荷魯斯：火</div><div><br></div><div>【失落龍絆日　非凡佳選出現機率】</div><div>★5合計：6.00％</div><div>★5精選 合計：1.80％（角色：1.00％ 龍族：0.80％）</div><div>★5一般 合計：4.20％（角色：2.00％ 龍族：2.20％）</div><div>★4一般 合計：16.00％（角色：8.55％ 龍族：7.45％）</div><div>★3一般 合計：78.00％（角色：47.00％ 龍族：31.00％）</div><div><br></div><div>【失落龍絆日　非凡佳選舉辦期間】</div><div><span class="local_date" data-local_date="1599890400"></span> ～ <span class="local_date" data-local_date="1600149599"></span></div><div><br></div><div>精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/695619cc90fa8199ec7cfdadd65f744e.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>747</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>513</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>涅法莉耶為了去見「沙之國」的後裔，<br>因此變裝以求不洩露女王身分。<br>雖然一如其真摯的性格，<br>她努力模仿娜汀的遣詞用字，<br>卻因不習慣導致說話有些不流暢。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cadf41dcf9f43df87058edb9a8b100f72.png"></span>
+				<span>超嗨派對夜！</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					於5秒之間給予前方敵人火屬性傷害，<br>自身的【活力】提升3階段。<br>攻擊時吸引敵人靠近。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/06499dd1bcb0b7a89f51a1074231ed122.png"></span>
+				<span>幻砂天炎</span>
+			</dt>
+			<dd>
+				<div>
+					技能發動將進行一定時間的詠唱。<br>完成詠唱後，給予目標和其周圍敵人火屬性傷害。<br>此技能於詠唱中可進行移動。<br>詠唱中將無法以無敵時間迴避敵人攻擊。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能傷害＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能傷害提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/03585ae11a2b0de283c914026533b3fe2.png"></span>
+				<span>【火】堅守：HP80％‧抗風＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為火屬性，且HP在80％以上時，<br>則風屬性抗性提升6％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>爆擊‧爆擊威力提升Ⅱ</span></dt><dd><div>每當攻擊時發生爆擊，自身發動<br>【爆擊時的傷害倍率於20秒之間提升25％】<br>增益效果。此效果發動後，7秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠抗性＋100％</span></dt><dd><div>陷入「睡眠」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能傷害＋30％</span></dt><dd><div>攻擊技能傷害提升30％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2f949c780d21ab774fe65bf95bf86a5e.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>516</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,501</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>當上首席聖騎士「聖天騎士」的耶魯菲莉絲。<br>其為聖騎職的典範，而她同時也是<br>伊利亞教有史以來最年少登上此座者。<br>換上由聖職者們花費數月傾注祝福的純白鎧甲，<br>耶魯菲莉絲毅然地挺身面對神之敵。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>神聖決策</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					隊伍內所有水屬性角色的攻擊力<br>於15秒之間上升30％。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>聖天高揚</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人水屬性傷害。<br>使自身的【活力】提升3階段。<br>此外，給予隊伍全員以下增益效果：<br>【火屬性抗性於30秒之間上升25％（不可重複）】、<br>【使最大HP20％以下的傷害無效化之盾】。<br>如果自身為【聖天啟示】狀態時，<br>則此技能將隨時間經過而自動蓄集。<br>此蓄集不受到「技能量條的增加率提升效果」影響。<br>如果自身並非【聖天啟示】狀態，<br>且此技能量條並非100％時，<br>則此技能將隨時間經過而技能量條減少。<br>盾的效果只限1次，和同種類的盾無法重複。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防禦力＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的防禦力提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span>
+				<span>【水】連擊：連擊數持續時間延長Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，<br>則最後命中的攻擊至連擊數重置為止的時間延長2.5秒。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/702f9bc9a4f10a2b2e299d654b50ed7d2.png"></span><span>聖天誓言Ⅱ</span></dt><dd><div>使用技能時，<br>或是每連擊10次時，<br>又或是爆發攻擊命中時，<br>給予自身【13秒間，聖天啟示】增益效果。<br>【聖天啟示】不會重複，<br>效果期間不會因為被攻擊而行動中斷。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f3503b7c11dab7e6111611cb63f010c32.png"></span><span>神意加護Ⅱ</span></dt><dd><div>陷入「火燒」、「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>技能連結‧攻＋10％</span></dt><dd><div>玩家操作的角色於技能1可使用時，<br>給予該角色【10秒間，攻擊力提升10％】增益效果。<br>此效果發動後，15秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>【精選龍族介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6bcee2852179ddc9b73106cf30dfdfbe.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,096</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>在遙遠的過去曾掌管<br>南方「沙之國」王室的龍族。<br>好奇獲得力量之人會有何作為，<br>而將高超的魔法賦予人類。<br>之後便漠然地觀察，直到沙之國滅亡。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b578da17fca8b309bc38a693b65c07072.png"></span>
+				<span>瓦吉特之眼</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標火屬性傷害。<br>【多重目標】技能可將複數敵人設為目標。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/364d1dcba21eaea0124f0cfc193f96142.png"></span><span>【火】攻擊速度＆爆擊率提升Ⅴ</span></dt><dd><div>裝備角色如果為火屬性，<br>則攻擊速度提升20％、爆擊率提升50％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1599890400; update_time1599560905

@@ -1,0 +1,8 @@
+article_id:1900
+category_name:公告
+title_name:「女神異聞錄５ 亂戰：魅影攻手」活動即將舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>如同<span class="local_date" data-local_date="1610114400"></span>左右播出的YouTube Live中所告知，活動「女神異聞錄５ 亂戰：魅影攻手」預計將於1月下旬舉辦！</div><div><br></div><div>在本活動中，來自「女神異聞錄５ 亂戰：魅影攻手」的「JOKER」將以角色於活動和召喚等登場。</div><div>角色「JOKER」在戰鬥中蓄集龍化量條，就能呼喚「亞森」一起戰鬥。</div><div>「JOKER」的奔跑方式、持刀動作和使用銃的攻擊都將還原原作。</div><div>除此之外，也可透過進行活動任務和召喚讓「心之怪盜團」的角色成為夥伴。</div><div><br></div><div>本活動為團體活動，將會有「JOKER」一行人與聖城的成員同心協力解決於「Dragalia Lost ～失落的龍絆～」世界中所發生的異狀之原創劇情。</div><div>在活動中玩家將能體驗具有「女神異聞錄５ 亂戰：魅影攻手」風格的相關演出。</div><div><br></div><div>活動「女神異聞錄５ 亂戰：魅影攻手」詳情，預計將在日後於遊戲內和官網公告中告知。</div><div><br></div><div>YouTube Live影片請從以下連結進入觀看。</div><div><br></div><div>▼播放頁面</div><div><a href="https://youtu.be/_JQiPjFkoyk">https://youtu.be/_JQiPjFkoyk</a></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1610115300; update_time1610087152

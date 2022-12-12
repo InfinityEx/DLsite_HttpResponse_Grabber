@@ -1,0 +1,322 @@
+article_id:1414
+category_name:公告
+title_name:「失落龍絆日」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「失落龍絆日」預計將於<span class="local_date" data-local_date="1593410400"></span>起開始舉辦。</div><div><br></div><div>【關於失落龍絆日】</div><div>‧★5角色、龍族的初始「出現機率」，將由平時的4％上升至6％！</div><div>※如召喚出★5或★5精選，出現機率將會變回初始設定值6％。</div><div><span style="color: rgb(226, 80, 65);">※本次新追加的★5角色「幽吉（水）」、「凱瑟琳（水）」和★5龍族「斯堤克斯（水）」，在今後的傳說召喚中也會出現。</span></div><div><br></div><div>【失落龍絆日舉辦期間】</div><div><span class="local_date" data-local_date="1593410400"></span> ～ <span class="local_date" data-local_date="1593755940"></span></div><div><br></div><div>新追加的精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選龍族介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ba637bc38cca2534bf3ba4cb6df05145.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>1,006</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>謝斯的契約龍。與可愛的外表相反，<br>性格我行我素又愛惡作劇，興趣是觀察人類和<br>在夜晚散步。將自己信任以外的人<br>都視為玩物。兼具冷酷和熱情的性格，<br>據說和契約主非常相似。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>優雅謀略</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人10秒闇屬性傷害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【闇】聰明把戲Ⅱ</span></dt><dd><div>裝備角色如果為闇屬性，<br>則任務開始時，給予自身15次【下次技能傷害提升180％】增益效果。<br>此外，每連擊25次時，給予自身【下次技能傷害提升180％】增益效果。【下次技能傷害提升180％】增益效果最大可累積15次，超過上限的份量則會消滅。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【闇】龍化解除時賦予‧聰明把戲Ⅱ</span></dt><dd><div>裝備角色如果為闇屬性，<br>則龍化解除時，給予自身8次【下次技能傷害提升180％】增益效果。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>■關於凱特西（龍絆日Ver.）的攻擊<br>龍化成凱特西（龍絆日Ver.）時的一般攻擊，可給予周圍敵人傷害，使其陷入「睡眠」狀態。</div><div><br>■增益效果的計算<br>即使因凱特西（龍絆日Ver.）的能力「【闇】聰明把戲Ⅰ/Ⅱ」而獲得了累積的增益效果，但在「性能根據自身增益效果數產生變化的技能」中，增益效果數仍計算為1。&nbsp;</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/d81d463110a36d8dfabefb0f03de3674.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>守護南大陸川流的龍族。<br>幼龍與成體的姿態大相逕庭。<br>雖然平時的態度友善，<br>但人類若是在幼龍面前觸犯禁忌，<br>便會創造出懷有惡意的分身而招致災難。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>淨化浪潮</span>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人水屬性傷害。<br>此技能將依斯堤克斯一般攻擊賦予的【川流精神】數量強化。<br>【川流精神】最大可疊加3次，龍化解除或使用技能時將解除所有的【川流精神】。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【水】歷時技能傷害Ⅱ</span></dt><dd><div>裝備角色如果為水屬性，<br>則每經過15秒，給予自身【下次技能傷害提升50％】增益效果。<br>此效果最大可疊加4次，使用攻擊技能時則解除所有效果。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【精選角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/44bd831c3d5f21b99a28a7c11f3b3054.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>797</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>479</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,516</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>性格陰沉且乖僻的少年。<br>雖然誇口說不需要什麼朋友，<br>其實都是源自於內心的寂寞。<br>容易緊張，不擅長與他人交談。<br>內心深處很想改變這樣的自己。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>幽吉‧定式</span>
+			</dt>
+			<dd>
+				<div>
+					於地面設置10秒【增益效果領域】。<br>使用技能時發動【技能輪轉】，<br>技能效果將隨階段變化。<br>初期狀態【荒草步兵的進擊】：攻擊力上升20％。<br>階段1【聖劍騎士的急襲】：攻擊力上升20％，火屬性抗性上升8％。<br>階段2【聖龍王者的鼓舞】：攻擊力上升20％，火屬性抗性上升8％，爆擊時的傷害倍率上升20％。使用技能時，給予自身【勝利的一步】，可即時發動技能「將死」。<br>技能「將死」僅可於【勝利的一步】狀態時使用，【勝利的一步】最大可疊加2次。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/afc20a16a5386d949ce9cd874cf2f6012.png"></span>
+				<span>將死</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人水屬性傷害。<br>此技能僅可於【勝利的一步】狀態時使用，使用技能時就會解除1個【勝利的一步】。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龍化累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的龍化量條增加率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【水】龍化：龍族恩寵‧攻Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，<br>則每次龍化時攻擊力提升。<br>此效果每場任務最多可發動3次。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6c8630603e25801ad9b184d92642fad02.png"></span><span>爆擊‧靈感提升Ⅱ</span></dt><dd><div>每當攻擊時發生爆擊，<br>自身的【靈感】提升1階段。<br>此效果發動後，10秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span><span>HP70％‧防＋13％</span></dt><dd><div>HP在70％以上時防禦力提升13％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/db9c8d85834ed923030b6a4c88849a4f.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>508</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>南格拉斯迪亞大陸的鄉下城鎮‧昆恩貝爾鎮<br>鎮長的女兒。雖然會強硬將周遭人們捲入的<br>舉止很引人注目，其實性格相當嚴謹自律。<br>從不依賴身為大小姐的出身，<br>為了保持完美的自己而每天努力不懈。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1afb4a1e63b9349ff028357edec9da6a2.png"></span>
+				<span>凱瑟琳‧召喚</span>
+			</dt>
+			<dd>
+				<div>
+					給予自身【完美防禦】。<br>【完美防禦】將依能力「頂級完美」發揮各種效果。<br>【完美防禦】可疊加3次。<br>自身的攻擊力於10秒之間上升20％。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5df6e7b975d220221d524e55556940f92.png"></span>
+				<span>凱瑟琳‧完美命令</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人水屬性傷害。<br>此技能將依賦予自身的【完美防禦】數量強化。<br>使用技能時，解除所有的【完美防禦】。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的HP提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【水】連擊：10連擊以上‧攻＋13％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，<br>則連擊數為10次以上時，<br>發動【攻擊力提升13％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6ddcc8f713334a535e381df622386dc92.png"></span><span>頂級完美Ⅱ</span></dt><dd><div>依賦予自身的【完美防禦】數量強化自身的一般攻擊、爆發攻擊、技能「凱瑟琳‧完美命令」。<br>此外，【完美防禦】狀態時不會因為被攻擊而行動中斷，且全屬性傷害減輕10％，但自身受到攻擊時解除一個【完美防禦】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能傷害＋30％</span></dt><dd><div>攻擊技能傷害提升30％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>【注意事項】</div><div>詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1593324000; update_time1593137778

@@ -1,0 +1,8 @@
+article_id:722
+category_name:活動
+title_name:「尼德霍格‧虛空之影」和「卡托布萊帕斯‧風」將於「虛空之影討伐戰」中登場！
+image_path:https://dragalialost.akamaized.net/attached/information/images/376642c6b23d040e435ebbd877d49434.png
+
+message:<div>各位玩家您好</div><div><br></div><div>「尼德霍格‧虛空之影」和「卡托布萊帕斯‧風」即將從<span class="local_date" data-local_date="1568268000"></span>起於「虛空之影討伐戰」中登場！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/376642c6b23d040e435ebbd877d49434.png"></div><div>邪龍尼德霍格。執著生命，見證死亡的存在。</div><div>其高傲心靈被「黑色瑪納」所侵蝕。</div><div>只為尋求眾多終末和絕望，展開他佈滿瘴氣的雙翼。</div><div>此刻──見證死亡的存在，即將化身帶來死亡者。</div><div>&nbsp;</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/cee7688fca6c21baa8a0d0e4ced1e11d.png"></div><div>尼德霍格‧虛空之影（闇）必須戰力：12000</div><div>&nbsp;</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/032edc38ee3688efb2b9a3bf869ee9d5.png"></div><div>卡托布萊帕斯‧風（風）必須戰力：11000</div><div><br></div><div>【注意事項】</div><div>如要參加「虛空之影討伐戰」，須先完成主線劇情第7章5-6(Normal)。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1568097300; update_time1569476882

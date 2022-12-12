@@ -1,0 +1,8 @@
+article_id:1777
+category_name:活動
+title_name:「路弗‧特修加德魯叛逆戰」即將追加新難易度「絕級」！
+image_path:https://dragalialost.akamaized.net/attached/information/images/b3606b3b001b22ec2a933a1072694e1a.png
+
+message:<div>各位玩家您好</div><div><br></div><div>與新勢力強敵對戰的高難度任務「咢牙叛逆戰」的「路弗‧特修加德魯叛逆戰」將於<span class="local_date" data-local_date="1606456800"></span>起追加新難易度「絕級」。</div><div><br></div><div>「路弗‧特修加德魯叛逆戰 絕級」為火屬性角色限定任務。</div><div>完成任務即可獲得更進一步精煉稀有度「★6」火屬性武器時所需的素材道具！</div><div>「咢牙系列」武器的精煉達到第2階段時，武器外觀將產生變化！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/b3606b3b001b22ec2a933a1072694e1a.png"></div><div>咢牙──乃為利牙。</div><div>咢牙──乃為覺醒。</div><div>咢牙──亦為叛逆。</div><div>藏於面具之下，自稱咢牙之人現身時，</div><div>散播病源的叛逆之風呼嘯而過，餓狼將露出利牙。</div><div>這病名正是──路弗‧特修加德魯。</div><div><br></div><div>■復活次數與復活加成調整</div><div>復活次數與復活加成將於<span class="local_date" data-local_date="1606456800"></span>起進行調整。</div><div>「路弗‧特修加德魯叛逆戰 超級」的復活次數調整為1次，追加復活加成。</div><div>「路弗‧特修加德魯叛逆戰 高級」的復活次數調整為2次，變更復活加成。</div><div>「路弗‧特修加德魯叛逆戰 中級」的復活次數調整為3次，變更復活加成。</div><div><br></div><div>【注意事項】</div><div>1. 如要參加「咢牙叛逆戰」，須先完成主線劇情第10章6-3(Normal)，並完成任一項「真‧龍族的試煉 中級【單人】」或「真‧龍族的試煉 中級【團隊】」。</div><div>2. 如要參加「路弗‧特修加德魯叛逆戰 絕級【單人】」，須先完成「咢牙叛逆戰 超級【單人】」或「咢牙叛逆戰 超級【團隊】」。</div><div>3. 如要參加「路弗‧特修加德魯叛逆戰 絕級【團隊】」，須先完成「咢牙叛逆戰 超級【單人】」或「咢牙叛逆戰 超級【團隊】」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1605765600; update_time1605678013

@@ -1,0 +1,8 @@
+article_id:778
+category_name:公告
+title_name:配合「星宿解放團體戰」舉辦‧贈送「星宿結晶」好禮！【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>配合「星宿解放團體戰」舉辦，營運團隊將會依序發送「星宿結晶」給各位玩家。</div><div>本次將會分成2次，每次發送「星宿結晶」150個。</div><div>使用「星宿結晶」盡情挑戰「星宿解放團體戰」吧！</div><div><br></div><div>■禮物內容</div><div>星宿結晶150個 X 2次（最多300個）</div><div><br></div><div>■發送期間</div><div>第1次 <span class="local_date" data-local_date="1569650400"></span> ～ <span class="local_date" data-local_date="1572847199"></span></div><div>第2次 <span class="local_date" data-local_date="1569736800"></span> ～ <span class="local_date" data-local_date="1572847199"></span></div><div><br></div><div>■贈送對象</div><div>於<span class="local_date" data-local_date="1570773600"></span>之前開始遊戲的所有玩家。</div><div><br></div><div>■注意事項</div><div>1. 贈送的道具領取期限為發送至獎勵箱後7天以內。</div><div>2. 「星宿結晶」若超過持有上限（300個）將無法領取，會留在獎勵箱內。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div><div><span style="color: rgb(44, 130, 201);"><strong><span class="local_date" data-local_date="1569654900"></span>更新<br></strong></span>「星宿結晶」150個已於<span class="local_date" data-local_date="1569652200"></span>發送完畢。<br>未能如時完成發送造成玩家們的不便與困擾，營運團隊在此致上最深的歉意。</div>
+
+start_time:1569650400; update_time1569654884

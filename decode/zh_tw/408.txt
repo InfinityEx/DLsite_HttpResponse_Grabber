@@ -1,0 +1,8 @@
+article_id:408
+category_name:公告
+title_name:「龍輝護符交換所」相關公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>感謝玩家們一直以來對「Dragalia Lost ～失落的龍絆～」的熱情支持。</div><div><br></div><div>以下為關於日前公開的公告「召喚相關內容變更公告」中所提及，將於2019/04/26(五)起實裝的「龍輝護符交換所」之相關告知。</div><div><br></div><div>在4/26召喚相關變更實裝後的交換所內容中，不包含至今為止在召喚和活動中可獲得的期間限定龍輝護符。</div><div>日後將有可能開放交換，屆時將會另行公告通知。</div><div><br></div><div>此外，關於「龍輝護符交換所」的版本更新內容預計也將會以公告方式通知。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1555480800; update_time1555471986

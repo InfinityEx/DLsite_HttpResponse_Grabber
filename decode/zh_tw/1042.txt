@@ -1,0 +1,214 @@
+article_id:1042
+category_name:公告
+title_name:傳說召喚「MONSTER HUNTER STRANGELAND　精選 Part 1」舉辦中！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>傳說召喚「MONSTER HUNTER STRANGELAND 精選 Part 1」已於<span class="local_date" data-local_date="1580277600"></span>開始舉辦！</div><div><br></div><div>期間限定的角色‧龍族將於傳說召喚中登場。</div><div>此外，精選對象之角色‧龍族的出現機率上升中。</div><div><br></div><div>【新追加的期間限定精選對象角色】</div><div>★5　貝爾薩克（獵人Ver.）：火／劍</div><div>★5　凡妮莎（獵人Ver.）：光／槍</div><div><br></div><div>【新追加的期間限定精選對象龍族】</div><div>★5　黑龍：闇</div><div><br></div><div>※精選對象包含期間限定以外的角色‧龍族。</div><div>※其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>【傳說召喚　精選舉辦期間】</div><div><span class="local_date" data-local_date="1580277600"></span> ～ <span class="local_date" data-local_date="1581919140"></span></div><div><br></div><div>新追加的期間限定精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/37151cd5330b7d04c020e01c87a9d673.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>貝爾薩克換上了魔物獵人的火龍裝備。<br>將火龍視為勁敵，並為了品嘗活著的感覺，<br>而出發前往討伐。透過這場狩獵，<br>他將獲得不同以往的全新滿足感。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/baadbc57d3e99e79445a18ad93db579c2.png"></span>
+				<span>碎月</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人火屬性傷害，<br>使防禦力下降5%。<br>此防禦力下降效果無法重複。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>獸宿【獅子】</span>
+			</dt>
+			<dd>
+				<div>
+					自身下次的爆發攻擊傷害提升80％。<br>此效果無法重複。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龍化累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的龍化量條增加率提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/310e78a1d61748e4afe12adb82569b732.png"></span><span>獵人的心得‧大劍＋2</span></dt><dd><div>爆發攻擊發生變化，爆發攻擊傷害提升30％。<br>此爆發攻擊在蓄集中不會因為被攻擊而行動中斷，<br>可蓄集3階段，並可依階段提升威力。<br>此外，以爆發攻擊給予BREAK狀態中的敵方傷害提升20％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠抗性＋100％</span></dt><dd><div>陷入「睡眠」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>防禦力下降特攻‧爆擊＋20％</span></dt><dd><div>攻擊因減益效果而陷入防禦力下降的敵人時，<br>攻擊時發生爆擊的機率提升20％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力而上升的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3becf0b20241ca1d4cc08e7c31f6fa84.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>507</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,501</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>凡妮莎換上魔物獵人的麒麟裝備，<br>化身獵人奮勇作戰。<br>與可愛的艾路組成搭檔，<br>輕巧地奔馳於溪流、森丘以及火山之間。<br>另外她的槍法聽說是耶魯菲莉絲親自傳授的。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3a645de5cd1f0efbde6bb61eaadfb8a62.png"></span>
+				<span>螺旋突刺</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人光屬性傷害，<br>使其陷入「麻痺」狀態。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>狂怒防禦</span>
+			</dt>
+			<dd>
+				<div>
+					於3秒之間發動【狂怒防禦】。<br>此效果期間中受到傷害時，給予自身<br>【攻擊力於90秒之間上升30%】增益效果。<br>因【狂怒防禦】而獲得增益效果時，<br>將解除【狂怒防禦】。<br>因【狂怒防禦】而獲得的增益效果無法重複。<br>此外，技能發動時給予自身<br>【於3秒之間，減少1次傷害的70％】、<br>【於3秒之間，不會因為被攻擊而行動中斷】效果。<br>此技能發動中將無法迴避敵人攻擊。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的HP提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/149db315227d1c055dbcb9ce698e09512.png"></span><span>獵人的心得‧長槍＋2</span></dt><dd><div>爆發攻擊發生變化，爆發攻擊傷害提升30％。<br>此爆發攻擊可蓄集2階段，蓄集即使僅完成1階段，<br>受到來自敵方的傷害減輕，視情況將會反擊。<br>此外，蓄集至上限時給予爆發攻擊<br>【防禦力於15秒之間下降5％】減益效果。<br>此減益效果無法重複。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>詛咒抗性＋100％</span></dt><dd><div>陷入「詛咒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>防禦力下降特攻‧爆擊＋20％</span></dt><dd><div>攻擊因減益效果而陷入防禦力下降的敵人時，<br>攻擊時發生爆擊的機率提升20％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力而上升的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>【精選龍族介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ce40680670447d647a99c0c17fc0bf3c.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>來自異界的「傳說的黑龍」。<br>在異界，其名從遙遠往昔便流傳至今，<br>據說曾在一夜之間使王國滅亡。<br>然而，其存在卻未得到證實，<br>過去被認為是故事與童謠中的幻想生物。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>粉塵爆炸</span>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人闇屬性傷害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>攻擊力提升＆龍化解除時賦予‧詛咒Ⅱ</span></dt><dd><div>裝備角色的攻擊力提升50％。<br>不論裝備角色屬性，在解除龍化時<br>給予自身【任務中，詛咒狀態】效果。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】攻擊力＋30％</span></dt><dd><div>裝備角色如果為闇屬性，<br>則裝備角色的攻擊力提升30％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1580277600; update_time1580090486

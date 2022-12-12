@@ -1,0 +1,8 @@
+article_id:96
+category_name:公告
+title_name:遊戲登入獎勵內容變更公告
+image_path:
+
+message:<div>遊戲登入獎勵的內容，已於<span class="local_date" data-local_date="1542261600"></span>進行變更。</div><div><br></div><div>登入獎勵變更內容詳細如下。</div><div>第1天：從「高級蜂蜜x1」調整為「瑪納x5000」。</div><div>第2天：從「瑪納x3000」調整為「瑪納x5000」。</div><div>第4天：從「盧比x10000」調整為「盧比x20000」。</div><div>第8天：從「頂級蜂蜜x1」調整為「頂級蜂蜜x2」。</div><div><br></div><div>■登入獎勵調整補償</div><div>如日前「11/15 遊戲維護公告」公告內所述，配合本次登入獎勵調整，</div><div>營運團隊已發送道具「高級蜂蜜x3」給於<span class="local_date" data-local_date="1542261600"></span> 前開始進行遊戲的所有玩家。</div><div><br></div><div>※請於「<span class="local_date" data-local_date="1542866399"></span>」前登入遊戲領取。</div><div><br></div><div>造成全體玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1542265800; update_time1545359824

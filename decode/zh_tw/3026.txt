@@ -1,0 +1,205 @@
+article_id:3026
+category_name:公告
+title_name:「失落龍絆日」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「失落龍絆日」預計將於<span class="local_date" data-local_date="1656482400"></span>起開始舉辦。</div><div><br></div><div>【關於失落龍絆日】※包含「失落龍絆日　非凡佳選」</div><div>★5角色、龍族的初始「出現機率」，將由平時的4％上升至6％！</div><div>※如召喚出★5或★5精選，出現機率將會變回初始設定值6％。</div><div><br></div><div>【精選對象之角色‧龍族】</div><div>■角色</div><div>★5 潔那（龍絆日Ver.）：光／法杖</div><div><br></div><div>■龍族</div><div>★5 貞德‧勇（龍絆日Ver.）：光</div><div>★5 索爾（龍絆日Ver.）：光</div><div><br></div><div>【失落龍絆日舉辦期間】</div><div><span class="local_date" data-local_date="1656482400"></span> ～ <span class="local_date" data-local_date="1656914399"></span></div><div><br></div><div>精選對象之角色‧龍族介紹如下：</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1a00b615175dd6d0782e55221d8ab527.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>770</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>489</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>來自異界的另一位潔西雅。<br>為了拯救自己的世界，與王子等人共同行動。<br>雖然對於如何與這個世界的夥伴相處<br>以及自身存在感到困惑，<br>仍然盡力思考自己能做的事。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/89ff2ae17052136be491702e97c672842.png"></span>
+				<span>榮耀護所</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>回復隊伍全員HP，並使其攻擊力上升。<br>此外，設置【回復領域】。</div><div class="skill-detail">回復力：108<br>回復領域：54<br>所需技能點數：5,850<br>所需共享技能點數：17,550<br>特殊效果<br>‧攻擊力提升15％<br>　效果時間：60 秒<br>　不可重複<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/73b4f043d682574987f05766f345a8962.png"></span>
+				<span>純潔聖冠</span>
+			</dt>
+			<dd><div>給予複數攻擊對象和其周圍敵人傷害。<br>自身的爆發攻擊蓄集速度上升。</div><div class="skill-detail">威力：50 × 5 Hit<br>威力：350 × 5 Hit<br>所需技能點數：8,775<br>特殊效果<br>‧BA蓄集速度提升30％<br>　效果時間：15 秒<br>　不可重複<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回復技能效果＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的回復技能效果提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>【光】連擊：10連擊以上‧爆擊＋13％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，<br>則連擊數為10次以上時，<br>發動【爆擊率提升13％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/59b79e43c808695a2c55911edd3331bb2.png"></span><span>聖魔巫女Ⅱ</span></dt><dd><div>追加聖女量條。<br>聖女量條於使用技能1、技能2時蓄集。<br>當量條蓄滿時，給予自身【暮光月華】增益效果。<br>下次使用的爆發攻擊轉換成可蓄集5階段，<br>並可依階段提升威力。<br>【暮光月華】不會重複，使用爆發攻擊後將會解除。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>聖片加護Ⅱ</span></dt><dd><div>陷入「毒」、「詛咒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>巫女祈念Ⅱ</span></dt><dd><div>因能力獲得HP提升效果時，<br>將依效果量提升攻擊力。<br>自身的剩餘HP越多，則攻擊力提升越高。<br>此效果對象不包含因EX能力、連鎖EX能力獲得的<br>HP提升效果。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※原有技能與共享技能的部分效果可能有差異。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/04b1f196b64e75b9a842de893b478c90.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>指引人們的美麗少女龍‧貞德重獲新生之姿。<br>因期盼著未來的青年熱情而得以<br>從瘴氣中解放，免受其侵蝕。<br>凝視著閃耀於勝利前方的光輝未來，<br>貞德揮舞手中戰旗，鼓舞激勵著每位戰士。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>光耀聖女</span>
+			</dt>
+			<dd><div>給予前方敵人傷害，使自身最大HP上升。<br>若將敵方設為目標，<br>並於非技能使用途中的情況下龍化時間歸零，<br>則此技能將會自動發動。<br>此效果即使技能量條尚未蓄滿仍會發動。</div><div class="skill-detail">威力：330 × 5 Hit<br>特殊效果<br>‧HP提升10％<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻擊力＋70％</span></dt><dd><div>裝備角色如果為光屬性，<br>則裝備角色的攻擊力提升70％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1143744471e52c225083bf356743039b2.png"></span><span>【光】聖戰之誓Ⅱ</span></dt><dd><div>裝備角色如果為光屬性，<br>則龍化量條每提升10％時，給予自身<br>【45秒間，攻擊闇屬性與無屬性敵人時<br>傷害倍率提升30％】增益效果。<br>此效果無法重複，發動後5秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為Lv.100、上限解放4階段、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/eae3c45acfd55bbdbbe34bd72add1672.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>范爾克斯的契約龍。<br>司掌雷電，並自稱為雷帝。<br>憑藉一擊閃電，便可令戰場淪為火海，<br>其強大威力在世界上不斷被流傳著。<br>索爾的武者思想，也影響著他的契約者。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>雷錘</span>
+			</dt>
+			<dd><div>給予目標和其周圍敵人傷害，<br>使其陷入「麻痺」狀態。<br>此技能將依蓄集時點擊畫面的次數<br>強化至最大3階段，<br>隨時間經過或強化至最大時發動攻擊。</div><div class="skill-detail">威力：1,780 × 1 Hit（最大時）<br>特殊效果<br>‧麻痺<br>　效果時間：26 秒<br>　效果間隔：3.9 秒<br>　威力：44.2</div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/212bea9478466c5e63454315256b6a5f2.png"></span><span>【光】戰車驅馳者Ⅴ</span></dt><dd><div>裝備角色如果為光屬性，發動以下效果。<br>效果1：攻擊力提升50％。<br>效果2：每經過5秒【活力】提升1階段。<br>效果3：依【活力】的階段提升攻擊力。【超活力】時可獲得最大效果，攻擊力提升45％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>【光】轟鳴者Ⅱ</span></dt><dd><div>裝備角色如果為光屬性，<br>則解除龍化時轉換成【超活力】。<br>此外，隊伍全員轉換成【超活力】。</div></dd></dl></div></div></div><div>※以上為Lv.100、上限解放4階段、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 精選對象角色在「阿爾貝利亞競技大亂鬥」中可改變角色外觀的「角色造型」將轉為SALE中，並減少解鎖時所需的道具。</div><div>※有部分角色無法解鎖角色造型。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1656396000; update_time1648556165

@@ -1,0 +1,8 @@
+article_id:166
+category_name:公告
+title_name:來自聖夜使者的禮物！
+image_path:
+
+message:<div><img src="https://dragalialost.akamaized.net/attached/information/images/c21ebf8c756c8d811cb074044d81525f.png"></div><div>星龍祭快樂！</div><div><br></div><div>各位玩家對正在舉行中的季節活動「夜雪紛飛時的星龍樹下」是否滿意呢？</div><div><br></div><div>星落的龍之夜，在星龍樹下互相交換禮物的星龍祭之宴正在聖城盛大舉辦中。</div><div>化身聖夜使者的聖城夥伴們，要贈送禮物給各位玩家！！</div><div><br></div><div>■禮物內容</div><div>‧龍輝晶石1000個</div><div><br></div><div>■贈送對象</div><div>於<span class="local_date" data-local_date="1545721200"></span>前開始遊戲的玩家。</div><div><br></div><div><span class="local_date" data-local_date="1546325999"></span>前登入遊戲即可領取龍輝晶石。</div><div>領取期限為龍輝晶石發送至獎勵箱後7天以內。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1545721200; update_time1545721287

@@ -1,0 +1,8 @@
+article_id:449
+category_name:活動
+title_name:【復刻】「破闇聖光之歌聲」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>從<span class="local_date" data-local_date="1557813600"></span>起，預計將舉行追加新難易度的團體活動【復刻】「破闇聖光之歌聲」。</div><div>本活動可在團隊遊戲模式下挑戰闇屬性的團體戰BOSS。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/19951fd46662c5d295b9243f155d1646.png"></div><div>──某個降雪的城鎮。</div><div>那裡因為有著歷史悠久的少年少女合唱團而廣為人知，</div><div>今日也依舊迴蕩著清亮歌聲。</div><div>而於深處潛藏且搖擺不定的是，思春期少年少女的思緒&hellip;&hellip;</div><div>吸取內心黑暗而壯大的巨大魔獸「斯伯奈克」，王子等人是否能打倒牠呢！？</div><div><br></div><div>■注意事項</div><div>1. 如要參加活動任務，需完成主線劇情第2章 2-1（Normal）。</div><div>2. 如要參加團隊遊戲，需完成主線劇情第2章 2-1（Normal）。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1557468000; update_time1557370968

@@ -1,0 +1,186 @@
+article_id:2765
+category_name:公告
+title_name:必中光屬性★5角色！「白金傳說召喚」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「白金傳說召喚」已於<span class="local_date" data-local_date="1642485600"></span>起舉辦中！</div><div><br></div><div>「白金傳說召喚」為「10連召喚」的第10發將必中「光屬性★5角色」。</div><div><span style="color: rgb(226, 80, 65);">※光屬性以外的角色‧龍族不會出現於本召喚中。</span></div><div>召喚期間內可進行2次白金傳說召喚的「10連召喚」。</div><div>此外，本召喚僅限使用「龍光鑽石」。</div><div><br></div><div>【白金傳說召喚舉辦期間】</div><div><span class="local_date" data-local_date="1642485600"></span> ～ <span class="local_date" data-local_date="1643608799"></span></div><div><br></div><div>「白金傳說召喚」第10發必中的部分對象光屬性★5角色介紹如下：</div><div><br></div><div>【第10發必中對象光屬性★5角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7f88ed09b606b8477f8032322c10a821.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>763</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>497</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>遭到活躍於世界裏層的神秘組織<br>「結社」之迫害，變得能與龍族合體的少年。<br>性格開朗樂觀，是個極度的爛好人。<br>為了不讓其他人遭遇跟自己相同的境地，<br>於是挺身與「結社」戰鬥。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>守護生命的剛臂</span>
+			</dt>
+			<dd><div>一般型態<br>給予前方敵人傷害，<br>並給予自身防禦力提升氣場。<br>此外，蓄集爆能強化量條。<br><br>爆能強化模式時<br>給予前方敵人傷害，<br>並給予自身防禦力提升氣場。<br>此外，蓄集爆能強化量條。<br>自身的剩餘HP越多，則給予的傷害增加越多。</div><div class="skill-detail">威力：400 × 5 Hit<br>所需技能點數：2,860<br>獲得氣場<br>‧防禦力提升（爆發氣場上限Lv. 2）<br>爆能強化量條回復量：300<br><br>（爆能強化模式時）<br>威力：520 × 5 Hit<br>所需技能點數：2,860<br>獲得氣場<br>‧防禦力提升（爆發氣場上限Lv. 2）<br>爆能強化量條回復量：300<br>依剩餘HP可給予的傷害變化<br>‧最大－90％</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>賭上此命的奮戰</span>
+			</dt>
+			<dd><div>一般型態<br>消費所有爆能強化量條，回復自身HP。<br>依消費量增加HP回復量。<br><br>爆能強化模式時<br>給予前方敵人傷害，<br>消費爆能強化量條，蓄集此技能。<br>自身的剩餘HP越多，則給予的傷害增加越多。</div><div class="skill-detail">回復力：30<br>依爆能強化量條消費量而獲得的回復量：最大HP的140％<br>所需技能點數：10,725<br><br>（爆能強化模式時）<br>威力：3,250 × 1 Hit<br>所需技能點數：10,725<br>爆能強化量條消費量：1,500<br>特殊效果<br>‧技能蓄集<br>　效果量：50％<br>依剩餘HP可給予的傷害變化<br>‧最大－90％</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>爆擊率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的爆擊率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】堅守：HP80％‧抗闇＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，且HP在80％以上時，<br>則闇屬性抗性提升6％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/15ca5a03b679a12193daa8e1b0247ee32.png"></span><span>龍鎖裝填Ⅱ</span></dt><dd><div>追加爆能強化量條，<br>龍化按鈕將轉換成爆能強化按鈕。<br>爆能強化模式中一般攻擊、爆發攻擊發生變化，<br>自身的剩餘HP越多，則給予的傷害增加越多，<br>並且攻擊值將蓄集至爆能強化量條。<br>此外，此模式中防禦力提升20％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>詛咒抗性＋100％</span></dt><dd><div>陷入「詛咒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/11dcde67080976ea6dd376437cf405042.png"></span><span>寄宿此臂的希望之龍Ⅱ</span></dt><dd><div>在防禦力提升之爆發氣場狀態時，<br>爆能強化量條將隨時間經過自動蓄集。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6bacdca6be07b42cf03e2fba727a5107.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>517</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,502</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>化身人類姿態的輝龍朱庇特。<br>為了在百無聊賴的日常中尋求刺激，<br>於是他決定更靠近一點觀察人類的生活。<br>即使外貌改變，愛好享樂的性格仍不變，<br>看著人們因自己的發言驚慌失措令他愉悅。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>雷霆降擊</span>
+			</dt>
+			<dd><div>給予前方敵人傷害，使其陷入「閃熱」狀態，<br>並給予自身攻擊力提升氣場。<br>陷入【雷氣】狀態的敵方若被此攻擊命中，<br>將依【雷氣】等級給予其追加傷害。<br>等級達到最大時則解除【雷氣】。</div><div class="skill-detail">威力：1,200 × 1 Hit<br>（雷氣Lv.1）<br>威力：300 × 1 Hit<br>（雷氣Lv.2）<br>威力：300 × 2 Hit<br>（雷氣Lv.3）<br>威力：300 × 3 Hit<br>（雷氣Lv.4）<br>威力：300 × 4 Hit<br>所需技能點數：2,640<br>特殊效果<br>‧閃熱<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41.6<br>獲得氣場<br>‧攻擊力提升（爆發氣場上限Lv. 1）<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0b6e96a9297308fa346ed1059be779062.png"></span>
+				<span>電光引燃</span>
+			</dt>
+			<dd><div>擺出架式至一定時間後，給予目標【雷氣】。<br>若於擺出架式時受到使用技能可迴避的攻擊，<br>則給予目標和其周圍敵人【雷氣Lv.4】。</div><div class="skill-detail">所需技能點數：10,560<br>特殊效果<br>‧雷氣Lv.1<br>　效果時間：60 秒<br>‧雷氣Lv.4<br>　效果時間：15 秒</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻擊力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的攻擊力提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span>
+				<span>【光】士氣：攻勢士氣‧詛咒抗性＋100％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，<br>則在攻擊力提升之爆發氣場狀態時，<br>陷入「詛咒」狀態機率下降100％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a59180d889cf164d6560fdcbdc5d43a52.png"></span><span>輝龍現身Ⅱ</span></dt><dd><div>‧陷入「麻痺」狀態機率下降100％。<br>‧不論裝備任何龍族，龍化時皆變身為朱庇特。<br>每場任務的龍化，從第2次起將化身為真‧朱庇特。<br>‧迴避敵方攻擊時，<br>給予發動該攻擊的敵方【雷氣】效果，<br>並給予自身攻擊力提升氣場（爆發氣場上限Lv.1）。<br>此效果發動後，10秒間不會再次發動。<br>【雷氣】最高可提升至Lv.4，解除時<br>給予【雷氣】狀態中的目標和其周圍敵人傷害。<br>等級越高所給予的傷害範圍與威力越大，<br>若於等級最高時解除，<br>則額外賦予其「麻痺」、「昏厥」狀態。<br>Lv.1：效果持續時間60秒。<br>Lv.2：效果持續時間45秒。<br>Lv.3：效果持續時間30秒。<br>Lv.4：效果持續時間15秒。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>毒抗性＋100％</span></dt><dd><div>陷入「毒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cb9a79af6cfdc75b0e5d4d610cfbe8c32.png"></span><span>激亢之雷Ⅱ</span></dt><dd><div>【雷氣】解除時若自身處於【雷氣】攻擊範圍內，<br>則回復自身HP，並使自身的龍化量條提升20％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>【注意事項】</div><div>1. 「白金傳說召喚」詳細召喚資訊，請點擊遊戲內下方選單列的「召喚」後，從「白金傳說召喚」的「出現機率」，或於「召喚資訊」中的「詳細」進行確認。</div><div>2. 「白金傳說召喚」和「光屬性傳說召喚」同時舉辦。請透過召喚頁面上方「&lt;」「&gt;」標示進行切換。</div><div>3. 「光屬性傳說召喚」連續10次未出現★5時的出現機率上升機制，不會因為進行「白金傳說召喚」而重置。</div><div>4. 其他注意事項，請點擊遊戲內下方選單列的「召喚」後，從「召喚資訊」＞「詳細」＞「注意事項」進行確認。</div><div>5.「白金傳說召喚」中無法獲得「龍輝之印」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1642485600; update_time1641985057

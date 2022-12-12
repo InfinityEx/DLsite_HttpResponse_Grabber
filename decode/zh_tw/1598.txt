@@ -1,0 +1,8 @@
+article_id:1598
+category_name:公告
+title_name:2週年紀念「那姆頻道」預告
+image_path:https://dragalialost.akamaized.net/attached/information/images/ecae86c568d7fc4e39527595f28616a8.png
+
+message:<div>各位玩家您好</div><div><br></div><div>「那姆頻道」預計將在<span class="local_date" data-local_date="1601002800"></span>左右於【Dragalia Lost ～失落的龍絆～官方YouTube Channel】公開。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/ecae86c568d7fc4e39527595f28616a8.png"></div><div><br></div><div>本次的「那姆頻道」中，將為各位玩家帶來2週年情報、新功能介紹，以及的更新內容等各種最新資訊！敬請期待！</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1600668000; update_time1600495838

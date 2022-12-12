@@ -1,0 +1,8 @@
+article_id:1965
+category_name:公告
+title_name:盧比礦山等級上限解鎖公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>盧比礦山的等級上限已於<span class="local_date" data-local_date="1611727200"></span>起解鎖至Lv.45。</div><div><br></div><div>未能提前告知各位玩家，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1611892800; update_time1612235682

@@ -1,0 +1,8 @@
+article_id:1958
+category_name:公告
+title_name:「阿爾貝利亞競技大亂鬥」龍族變更！月間獎勵和每月更新的交換所內容更新！【更新】
+image_path:
+
+message:<div>【<span class="local_date" data-local_date="1612332000"></span>更新】<br>■舉辦日程變更<br>「阿爾貝利亞競技大亂鬥」將於以下期間隨時開放。<br><span class="local_date" data-local_date="1612332000"></span> ～ <span class="local_date" data-local_date="1612677599"></span><br>※<span class="local_date" data-local_date="1612677600"></span>起，將於<span class="local_weekly_time" data-local_date="1670997600"></span> ～ <span class="local_weekly_time" data-local_date="1671170340"></span>、<span class="local_weekly_time" data-local_date="1670738400"></span> ～ <span class="local_weekly_time" data-local_date="1670824740"></span>舉辦。</div><hr><div>各位玩家您好</div><div><br></div><div>「阿爾貝利亞競技大亂鬥」將於<span class="local_date" data-local_date="1612072800"></span>起進行以下變更和更新。</div><div><br></div><div>■變更可龍化的龍族</div><div>將無視武器種類，一律龍化為「亞森」。</div><div>※今後可龍化的龍族可能會有所變更。</div><div><br></div><div>變更前：牛頭天王</div><div>變更後：亞森</div><div><br></div><div>■更新月間競技點數獎勵</div><div>月間競技點數獎勵已更新。</div><div>根據每月獲得的競技點數領取相對應的獎勵 。</div><div>※<span class="local_date" data-local_date="1612072800"></span>更新的月間競技點數獎勵，可於<span class="local_date" data-local_date="1614491999"></span>前領取。</div><div><br></div><div>■更新交換所內容</div><div>「阿爾貝利亞競技大亂鬥」交換所中每月更新的內容已更新。</div><div>※<span class="local_date" data-local_date="1612072800"></span>更新的每月更新內容，可於<span class="local_date" data-local_date="1614491999"></span>前交換。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1612072800; update_time1612332033

@@ -1,0 +1,8 @@
+article_id:2082
+category_name:公告
+title_name:任務能量消費調整公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>部分任務的能量消費預計將於4月下旬的版本更新中進行下調。</div><div><br></div><div>※以下內容不會因為本次調整而變更。</div><div>‧「每日充值組合包」的充值量</div><div>‧使用龍輝晶石或蜂蜜等道具回復的能量</div><div>‧任務掉落獎勵的種類、獲得數量、掉落機率</div><div><br></div><div>詳情將於日後另行公告。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1616824800; update_time1616747738

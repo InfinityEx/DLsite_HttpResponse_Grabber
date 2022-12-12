@@ -1,0 +1,8 @@
+article_id:1970
+category_name:活動
+title_name:活動「迎擊戰～情人節☆★上天國～」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/52a5b10bc821f4dca105d0e2f9a4e5ec.png
+
+message:<div>各位玩家您好</div><div><br></div><div>活動「迎擊戰～情人節☆★上天國～」預計將於<span class="local_date" data-local_date="1613109600"></span>起開始舉辦。</div><div>「迎擊戰～情人節☆★上天國～」為在據點迎擊來襲眾多敵人的迎擊戰活動！</div><div>本活動中將可獲得用來解鎖共享技能和回復能量的道具，敬請踴躍參加！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/52a5b10bc821f4dca105d0e2f9a4e5ec.png"></div><div><br></div><div>情人節&hellip;&hellip;屬於女孩子的重要節日☆</div><div>人家當然是和琉卡卡約會囉☆☆☆☆</div><div>但原本應該甜甜蜜蜜小鹿亂撞的約會，</div><div>卻出現一隻奇怪的龍族來攪局☆</div><div>對不起喔☆人家已經有琉卡卡這位</div><div>未來的老公了&hellip;&hellip;呃、咦？</div><div>你要教我真正的愛？你、到底是誰&hellip;&hellip;？</div><div><br></div><div>■注意事項</div><div>如要參加活動任務，須完成主線劇情第2章 2-1（Normal）。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1612936800; update_time1612228114

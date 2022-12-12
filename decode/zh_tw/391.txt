@@ -1,0 +1,167 @@
+article_id:391
+category_name:公告
+title_name:「龍族傳說召喚」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「龍族傳說召喚」即將於<span class="local_date" data-local_date="1555048800"></span>起開始舉辦。</div><div><br></div><div>龍族傳說召喚舉行期間，精選對象★5和★4龍族的出現機率將上升。<br>※除了龍族以外，部分★5和★4角色也是精選對象。</div><div><br></div><div>公告「召喚相關內容變更公告」中所告知的召喚內容變更，預計將於2019/04/26維護結束後開始舉行的召喚中實施。<br><span style="color: rgb(184, 49, 47);"><strong>雖然本召喚的精選對象並不包含龍輝護符，但龍輝護符仍會出現在召喚內容之中。</strong></span></div><div><br></div><div>【龍族傳說召喚 精選舉辦期間】<br><span class="local_date" data-local_date="1555048800"></span> ～ <span class="local_date" data-local_date="1555567140"></span></div><div><br></div><div>部份精選對象龍族如下：</div><div><br></div><div>【精選龍族介紹】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e3418b8d1de309d07548312bea67e39d.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>自遠古以來一直沉睡在海底，<br>被視為招致災厄之龍，被人們流傳至今。<br>但實際上是與傳說相反，性格非常紳士，<br>並且顧忌著自己過於強大的力量。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0d671ee9f1118cae073adf924e4165c92.png"></span>
+				<span>渦暴激流</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人水屬性傷害，<br>使其陷入「濕身」狀態。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【水】攻擊力＋60％</span></dt><dd><div>裝備角色如果為水屬性，<br>則裝備角色的攻擊力提升60％。</div></dd></dl></div></div><br>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。<br><br><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/bfb166c3acef44ee05a9ccaf06e865f2.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>377</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>119</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>為愛所困之人的好夥伴。<br>他對愛情與快樂有著無可比擬的喜愛，<br>並會將之分享給人們。<br>年幼且純真無邪的他，<br>會友善地親近所有心中有愛的人。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>愛的招牌動作</span>
+			</dt>
+			<dd>
+				<div>
+					回復我方全員HP。<br>此外，使隊伍全員的爆擊率於15秒之間上升25％。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻擊力＋60％</span></dt><dd><div>裝備角色如果為光屬性，<br>則裝備角色的攻擊力提升60％。</div></dd></dl></div></div><br>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。<br><br>&nbsp;<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c1ee702d87548b8db90fd7689c6db586.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>383</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>114</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>997</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>在某個村落之中，以守護神之姿<br>受人崇敬的龍族。其性傲慢無法坦率對人，<br>但內心深處希望有朝一日能與人們<br>坦誠相對。時不時會變得情緒化，<br>但本質溫柔，責任感極強。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>吹彈之吻</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人風屬性傷害，<br>回復自身HP。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【風】HP＋60％</span></dt><dd><div>裝備角色如果為風屬性，<br>則裝備角色的HP提升60％。</div></dd></dl></div></div><br>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】<br>1. 詳細召喚資訊，請點擊遊戲內下方選單列的「召喚」後，從「召喚資訊」中的「詳細」進行確認。<br>2. 其他精選對象資訊，請點擊遊戲內下方選單列的「召喚」後，從「召喚資訊」中的「召喚資訊」進行確認，或於「出現機率」中的「出現機率一覽」進行確認。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1555038000; update_time1555032658

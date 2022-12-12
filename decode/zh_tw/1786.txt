@@ -1,0 +1,176 @@
+article_id:1786
+category_name:公告
+title_name:必中★5龍族！「白金傳說召喚」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「白金傳說召喚」已於<span class="local_date" data-local_date="1606111200"></span>起舉辦中！</div><div><br></div><div>「白金傳說召喚」為「10連召喚」的第10發將必中「★5龍族」。</div><div>召喚期間內可進行2次白金傳說召喚的「10連召喚」。</div><div>本召喚僅限使用「龍光鑽石」。</div><div><span style="color: rgb(226, 80, 65);">※本召喚內容不包含同時開放的傳說召喚「新春貓鼠大作戰　精選」中期間限定再度登場的角色和龍族。</span></div><div><br></div><div>【白金傳說召喚舉辦期間】</div><div><span class="local_date" data-local_date="1606111200"></span> ～ <span class="local_date" data-local_date="1606456799"></span></div><div><br></div><div>「白金傳說召喚」第10發必中的部分對象★5龍族介紹如下：</div><div><br></div><div>【第10發必中對象★5龍族介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6bcee2852179ddc9b73106cf30dfdfbe.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>在遙遠的過去曾掌管<br>南方「沙之國」王室的龍族。<br>好奇獲得力量之人會有何作為，<br>而將高超的魔法賦予人類。<br>之後便漠然地觀察，直到沙之國滅亡。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b578da17fca8b309bc38a693b65c07072.png"></span>
+				<span>瓦吉特之眼</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標火屬性傷害。<br>【多重目標】技能可將複數敵人設為目標。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/364d1dcba21eaea0124f0cfc193f96142.png"></span><span>【火】攻擊速度＆爆擊率提升Ⅴ</span></dt><dd><div>裝備角色如果為火屬性，<br>則攻擊速度提升20％、爆擊率提升50％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6c5fce505299685c31a73da3ca65fcce.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>為不死鳥種的一種，掌管「再生」。<br>雖然平時總是精力充沛且開朗可靠，<br>但只要一放鬆，就會變得有些迷糊並愛撒嬌。<br>有些人以其外貌判斷她就是<br>伊利亞教「聖鳥」象徵的原型，但真偽不明。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>再生之火</span>
+			</dt>
+			<dd>
+				<div>
+					給予周圍敵人光屬性傷害，<br>使其陷入「麻痺」狀態。<br>並解除我方「詛咒」與「毒」狀態。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻擊力＋50％</span></dt><dd><div>裝備角色如果為光屬性，<br>則裝備角色的攻擊力提升50％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28cbbe44c3b9fd009706ad48a7e4e0f52.png"></span><span>【光】麻痺特攻＋20％</span></dt><dd><div>裝備角色如果為光屬性，<br>則給予「麻痺」狀態中的敵方傷害提升20％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/82b68f16e27fa961b3e20da292b28c8e.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>聲望極高的好戰龍族。<br>同時身兼號稱競技都市阿波羅尼亞的守護者。<br>在阿波羅尼亞，每日都會舉辦鬥技大會，<br>有眾多為求名聲的人們在此切磋琢磨。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/46abce3ca5f53484635af11860f0d2c02.png"></span>
+				<span>榮耀聖光</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人火屬性傷害，<br>並使其陷入「火燒」狀態。<br>此外，使防禦力下降5％。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻擊力＋50％</span></dt><dd><div>裝備角色如果為火屬性，<br>則裝備角色的攻擊力提升50％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/332b0b04ccb12c122bbc2ba7b27bff5b2.png"></span><span>【火】火燒特攻＋20％</span></dt><dd><div>裝備角色如果為火屬性，<br>則給予「火燒」狀態中的敵方傷害提升20％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 「白金傳說召喚」詳細召喚資訊，請點擊遊戲內下方選單列的「召喚」後，從「白金傳說召喚」的「出現機率」，或於「召喚資訊」中的「詳細」進行確認。</div><div>2. 「白金傳說召喚」和傳說召喚「新春貓鼠大作戰　精選」同時舉辦。請透過召喚頁面上方「&lt;」「&gt;」標示進行切換。</div><div>3. 傳說召喚「新春貓鼠大作戰　精選」連續10次未出現★5時的出現機率上升機制，不會因為進行「白金傳說召喚」而重置。</div><div>4. 其他注意事項，請點擊遊戲內下方選單列的「召喚」後，從「召喚資訊」＞「詳細」＞「注意事項」進行確認。</div><div>5. 白金傳說召喚中無法獲得「龍輝之印」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1606111200; update_time1605582280

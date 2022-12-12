@@ -1,0 +1,8 @@
+article_id:1240
+category_name:公告
+title_name:主線劇情第13章「闇黑歸來之人」即將公開！
+image_path:https://dragalialost.akamaized.net/attached/information/images/7d817fc5f58540114c23aed82f491b41.png
+
+message:<div>各位玩家您好</div><div><br></div><div>主線劇情第13章「闇黑歸來之人」決定將於<span class="local_date" data-local_date="1587362400"></span>公開！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/7d817fc5f58540114c23aed82f491b41.png"></div><div>此外，主線劇情第13章「闇黑歸來之人」的預告影片已公開。</div><div>請從下列連結進入確認。</div><div><br></div><div>▼「Dragalia Lost ～失落的龍絆～」繁體中文版官方YouTube頻道 主線劇情第13章「闇黑歸來之人」預告影片</div><div><a href="https://youtu.be/9dzccmnIg2Q">https://youtu.be/9dzccmnIg2Q</a></div><div><br></div><div>敬請期待最新劇情！</div><div><br></div><div>■注意事項</div><div>如要進行主線劇情第13章「闇黑歸來之人」，需完成主線劇情第12章4-4「霸道」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1587276000; update_time1586931334

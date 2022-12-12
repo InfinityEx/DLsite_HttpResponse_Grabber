@@ -1,0 +1,8 @@
+article_id:84
+category_name:伺服器維護
+title_name:「商店」功能維護公告【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「商店」功能將於以下期間進行維護，詳細說明如下。</div><div>※本維護僅對「商店」功能進行實施，「商店」以外的遊戲功能仍正常運行。</div><div>※「每日獎勵組合包」、「每日充值組合包」之獎勵，請於維護前進行領取。</div><div><br></div><div>■維護期間</div><div><span class="local_date" data-local_date="1542000600"></span> ～ <span class="local_date" data-local_date="1542003000"></span></div><div>&nbsp;</div><div>■維護內容</div><div>‧各屬性的「屬性強化組合包」之販賣次數，將從「1次／週」變更為「2次／週」。</div><div>‧「角色育成組合包」之販賣次數，將從「2次／週」變更為「3次／週」。</div><div>‧「裝備強化組合包」之販賣次數，將從「2次／週」變更為「3次／週」。</div><div>‧「瑪納之環解放組合包」之販賣次數，將從「1次／月」變更為「2次／月」。</div><div><br></div><div>■注意事項</div><div>維護開始以及結束時間，視維護情形將有提前或延後的可能性。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1542002700"></span> &nbsp;更新</strong></span><br><br>「商店」功能已於<span class="local_date" data-local_date="1542002700"></span>結束維護。<br>感謝各位玩家的協助與諒解。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1541734200; update_time1542364360

@@ -1,0 +1,8 @@
+article_id:2797
+category_name:活動
+title_name:活動【復刻】「前往仙境之空」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/a401b4774e8dc708679ce3cb2e32f2d9.png
+
+message:<div>各位玩家您好</div><div><br></div><div>團體活動【復刻】「前往仙境之空」預計將於<span class="local_date" data-local_date="1651212000"></span>起開始舉辦。</div><div>本活動可在團隊遊戲模式下挑戰風屬性的團體戰BOSS。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a401b4774e8dc708679ce3cb2e32f2d9.png"></div><div><br></div><div>■活動期間</div><div><span class="local_date" data-local_date="1651212000"></span> ～ <span class="local_date" data-local_date="1652162399"></span></div><div><br></div><div>■注意事項</div><div>1. 若要參加活動任務，須完成主線劇情第2章 2-1（Normal）。</div><div>2. 若要參加團隊遊戲，須完成主線劇情第2章 2-1（Normal）。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1650952800; update_time1643180160

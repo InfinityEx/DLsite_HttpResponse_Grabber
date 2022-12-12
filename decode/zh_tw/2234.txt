@@ -1,0 +1,8 @@
+article_id:2234
+category_name:公告
+title_name:角色「琉卡（龍絆日Ver.）」共享技能「光明破壞」異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>以下異常現象已於<span class="local_date" data-local_date="1622084400"></span>左右公開的版本2.8.0中修正。</div><div><br></div><div>■異常現象內容</div><div>‧角色「琉卡（龍絆日Ver.）」的技能「光明破壞」設定成角色「那姆（龍絆日Ver.）」的共享技能時，「那姆（龍絆日Ver.）」羽化時的技能「妖精聖冠」效果會反映技能「光明破壞」的效果。</div><div><br></div><div>配合異常現象修正，營運團隊將依序發送解鎖共享技能「光明破壞」所需的「輝之書」給以下對象玩家。</div><div><br></div><div>■補償對象</div><div>獲得那姆（龍絆日Ver.）時起至版本2.7.0前解鎖共享技能「光明破壞」的玩家。</div><div><br></div><div>■補償預定日</div><div><span class="local_date" data-local_date="1622178000"></span>以後依序發送。</div><div><br></div><div>■補償內容</div><div>輝之書&times;6</div><div><br></div><div>造成各位玩家的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1622170800; update_time1622165710

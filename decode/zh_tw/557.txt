@@ -1,0 +1,8 @@
+article_id:557
+category_name:公告
+title_name:特定任務中龍輝護符未掉落之異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認 ，在下述期間內進行主線劇情第3章3-5「緋龍防衛戰」（Normal、Hard）時，</div><div>發生了不會掉落★3以上的龍輝護符之異常現象。</div><div><br></div><div>■異常現象發生期間</div><div><span class="local_date" data-local_date="1561701600"></span> ～ <span class="local_date" data-local_date="1561707000"></span></div><div><br></div><div>本異常現象已排解。</div><div>作為本次異常現象之補償，營運團隊將會依序發送以下道具給曾經進行過該任務的玩家。</div><div><br></div><div>‧頂級蜂蜜 1個</div><div><br></div><div>道具的領取期限為發送至「獎勵箱」後7天以內。</div><div><br></div><div><br></div><div>造成各位玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1561714200; update_time1561713507

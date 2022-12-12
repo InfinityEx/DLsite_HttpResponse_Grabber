@@ -1,0 +1,8 @@
+article_id:29
+category_name:公告
+title_name:遊戲資料更新
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>遊戲將於<span class="local_date" data-local_date="1539322200"></span>進行資料更新。</div><div>本次更新內容詳細如下：</div><div><br></div><div>■資料更新內容</div><div>・部分輕微異常修正。</div><div><br></div><div>■注意事項</div><div>資料更新時，有可能會顯示「有新版本」的提示。</div><div>上述意指遊戲內的資料更新，並非遊戲版本更新。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div><br></div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1539318600; update_time1539930251

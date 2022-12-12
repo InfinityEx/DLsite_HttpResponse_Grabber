@@ -1,0 +1,41 @@
+article_id:656
+category_name:公告
+title_name:「龍輝護符交換所」追加期間限定龍輝護符公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div><span class="local_date" data-local_date="1566453600"></span>開始，「龍輝護符交換所」中已追加期間限定的龍輝護符。</div><div><br></div><div>追加的龍輝護符，可於「龍輝護符交換所」中的「精選」項目或各「稀有度」項目中交換。</div><div><br></div><div>【新追加龍輝護符介紹】</div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/046a2f4dc6206cfcd819142fa235725f2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">手工巧克力‧教學</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>開場技能量條＋100％&nbsp;（Max100％）</span></dt><dd><div>任務開始時技能量條提升100％。&nbsp;（Max100％）</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/1e39861b96cb5fc27bbec8bd2d3bfa752.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">薔薇貴公子</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3d57efbfc9ee679b982b0fd3ed6495302.png"></span><span>【火】異常狀態無效Ⅲ&nbsp;（Max3次）</span></dt><dd><div>裝備角色如果為火屬性，<br>則不會陷入異常狀態。<br>此效果每場任務最多可發動3次。&nbsp;（Max3次）</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>開場傷害‧盾Ⅲ&nbsp;（MaxⅢ）</span></dt><dd><div>任務開始時獲得<br>【使最大HP 30％以下的傷害無效化之盾】。<br>盾的效果只限1次，和同種類的盾無法重複。&nbsp;（MaxⅢ）</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/d6bc13368807bf13a0b2c660c3cbf1932.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/8882a1e2cd557667e16b4245e73d8a6f2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">致最愛之人</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>開場技能量條＋20％&nbsp;（Max100％）</span></dt><dd><div>任務開始時技能量條提升20％。&nbsp;（Max100％）</div></dd></dl></div></div></div><div><br></div><div>※以上為上限全數解放的能力值，並非獲得時的能力值。</div><div><br></div><div>【精選期間】</div><div><span class="local_date" data-local_date="1566453600"></span> ～ <span class="local_date" data-local_date="1567231199"></span></div><div><br></div><div><span style="color: rgb(226, 80, 65);"><strong>※本次追加的期間限定龍輝護符，無法於精選期間結束後進行交換。</strong></span></div><div><br></div><div>【注意事項】</div><div>1. 本次的精選龍輝護符，今後有可能再度登場。</div><div>2. 本公告中未記載的其他資訊，請於「主頁面」＞「商店」＞「龍輝護符交換所」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1566453600; update_time1565170187

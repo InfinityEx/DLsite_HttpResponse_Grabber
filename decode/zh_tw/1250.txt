@@ -1,0 +1,8 @@
+article_id:1250
+category_name:公告
+title_name:慶祝活動【復刻】「FIRE EMBLEM 彼此相連的世界」舉辦＆迎接活動第2彈好禮送！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>活動【復刻】「FIRE EMBLEM 彼此相連的世界」已於本日<span class="local_date" data-local_date="1587362400"></span>起熱烈舉辦中！</div><div><br></div><div>此外，活動第2彈決定將於<span class="local_date" data-local_date="1588226400"></span>舉辦！</div><div>配合活動第2彈即將開跑，營運團隊將依序贈送以下好禮給各位玩家！</div><div><br></div><div>■禮物內容</div><div>高級蜂蜜 30個</div><div><br></div><div>道具領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1587362400; update_time1587346251

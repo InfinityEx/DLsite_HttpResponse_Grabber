@@ -1,0 +1,290 @@
+article_id:1171
+category_name:公告
+title_name:必中精選★5角色！「白金傳說召喚(2)」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「白金傳說召喚(2)」預計將於<span class="local_date" data-local_date="1585288800"></span>起開始舉辦。</div><div><br></div><div>「白金傳說召喚(2)」為「10連召喚」的第10發將必中精選的★5角色「耶魯菲莉絲（龍絆日Ver.）」、「主角（龍絆日Ver.）」、「慕慕（龍絆日Ver.）」其中之一的傳說召喚。</div><div>本召喚期間內僅可進行1次「10連召喚」。</div><div>本召喚僅限使用龍光鑽石。</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※本召喚內容不包含同時開放的「失落龍絆日」中新追加的角色「夏儂（龍絆日Ver.）」。</span></div><div><span style="color: rgb(226, 80, 65);">※本召喚內容也包含同時開放的「白金傳說召喚(1)」第10發必中精選對象★5角色，但並非本召喚的第10發必中精選對象。</span></div><div><br></div><div>【白金傳說召喚(2) 舉辦期間】</div><div><span class="local_date" data-local_date="1585288800"></span> ～ <span class="local_date" data-local_date="1586757540"></span></div><div><br></div><div>「白金傳說召喚(2)」第10發必中的精選對象★5角色介紹如下：</div><div><br></div><div>【第10發必中精選對象★5角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2f949c780d21ab774fe65bf95bf86a5e.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>516</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,501</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>當上首席聖騎士「聖天騎士」的耶魯菲莉絲。<br>其為聖騎職的典範，而她同時也是<br>伊利亞教有史以來最年少登上此座者。<br>換上由聖職者們花費數月傾注祝福的純白鎧甲，<br>耶魯菲莉絲毅然地挺身面對神之敵。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>神聖決策</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍內所有水屬性角色的攻擊力<br>於15秒之間上升30％。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>聖天高揚</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人水屬性傷害。<br>使自身的【活力】提升3階段。<br>此外，給予隊伍全員以下增益效果：<br>【火屬性抗性於30秒之間上升25％（不可重複）】、<br>【使最大HP20％以下的傷害無效化之盾】。<br>如果自身為【聖天啟示】狀態時，<br>則此技能將隨時間經過而自動蓄集。<br>此蓄集不受到「技能量條的增加率提升效果」影響。<br>如果自身並非【聖天啟示】狀態，<br>且此技能量條並非100％時，<br>則此技能將隨時間經過而技能量條減少。<br>盾的效果只限1次，和同種類的盾無法重複。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防禦力＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的防禦力提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span>
+				<span>【水】連擊：連擊數持續時間延長Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，<br>則最後命中的攻擊至連擊數重置為止的時間延長2.5秒。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/702f9bc9a4f10a2b2e299d654b50ed7d2.png"></span><span>聖天誓言Ⅱ</span></dt><dd><div>使用技能時，<br>或是每連擊10次時，<br>又或是爆發攻擊命中時，<br>給予自身【13秒間，聖天啟示】增益效果。<br>效果期間不會因為被攻擊而行動中斷。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f3503b7c11dab7e6111611cb63f010c32.png"></span><span>神意加護Ⅱ</span></dt><dd><div>陷入「火燒」、「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>技能連結‧攻＋10％</span></dt><dd><div>玩家操作的角色於技能1可使用時，<br>給予該角色【10秒間，攻擊力提升10％】增益效果。<br>此效果發動後，15秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div>※連鎖EX能力為版本1.18.0起追加的EX能力，無法於版本1.18.0之前的版本中生效。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/66cc97438530e3c2b9820c960f5f2c13.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>繼承了阿爾博流斯的意志，<br>並決意戰鬥的第七王子。<br>其勇氣與溫柔吸引著許多人聚集到他身邊。<br>與夥伴們一路以來的羈絆，<br>將化作甚至能夠凌駕傳說的力量。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>旭日聖冠</span>
+			</dt>
+			<dd>
+				<div>
+					給予周圍敵人光屬性傷害，<br>並於地面設置10秒【攻擊增益效果領域】。<br>在此領域中的我方，攻擊力上升20％。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e3c8bf74f6e5d50e339f98d82b8411472.png"></span>
+				<span>霸主榮冠</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人光屬性傷害，<br>使其陷入「麻痺」狀態。<br>此外，給予隊伍全員以下增益效果：<br>【攻擊力於15秒之間上升15％】、<br>【防禦力於15秒之間上升15％】、<br>【使最大HP 20％以下的傷害無效化之盾】。<br>盾的效果只限1次，和同種類的盾無法重複。<br>此技能將隨時間經過而自動蓄集。<br>此蓄集不受到「技能量條的增加率提升效果」影響。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2993ccd3f5c88b4fc376f81999404f672.png"></span>
+				<span>龍化強化Ⅷ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員龍化中的傷害倍率提升10％，龍化時間延長20％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span>
+				<span>【光】龍化：龍化時治癒Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，<br>則每次龍化時發動【20秒間，HP持續回復】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/62ec54c3111dcff5d7c6fadf0c9e0ae92.png"></span><span>龍光意志Ⅱ</span></dt><dd><div>隨龍化時間經過的量條下降速度減輕30%，<br>龍化中的攻擊速度提升10％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>聖片加護Ⅱ</span></dt><dd><div>陷入「毒」、「詛咒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span><span>龍形蓄集Ⅱ</span></dt><dd><div>HP減少至30％以下時，<br>自身的龍化量條提升50％。<br>此效果每場任務最多可發動1次。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div>※連鎖EX能力為版本1.18.0起追加的EX能力，無法於版本1.18.0之前的版本中生效。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/65e5bd68728e17ccf910d3d857779088.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>749</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>510</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>「想待在所愛之人身邊！」因為這份少女心，<br>緋龍布倫希爾德化身成人類的姿態。<br>將救了自己的王子喚作「達令」，<br>時刻傳送滿溢傾慕的火熱視線。<br>種族隔閡對她而言根本不成問題。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>龍族熱潮</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人火屬性傷害，<br>只要此技能命中，自身的龍化量條就會上升。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>緋紅烈燃</span>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人火屬性傷害。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的HP提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【火】龍化：龍族恩寵‧攻Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為火屬性，<br>則每次龍化時攻擊力提升。<br>此效果每場任務最多可發動3次。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b5b8a0971c2940faccafb60e2bb060ab2.png"></span><span>緋龍現身Ⅱ</span></dt><dd><div>陷入「火燒」狀態機率下降100％。<br>不論裝備任何龍族，龍化時皆變身為布倫希爾德。<br>龍化時，給予自身<br>【任務中攻擊力提升15%，<br>強化技能「緋紅烈燃」】增益效果。<br>此效果每場任務最多可發動1次。<br>每場任務的龍化，<br>從第2次起將化身為真‧布倫希爾德，<br>龍化中的攻擊速度提升15％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ed2537bb247dfd2ad93353a86c3d8c12.png"></span><span>熾熱旋流Ⅱ</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。<br>當受到帶有「昏厥」的攻擊時，<br>技能「龍族熱潮」蓄集50％。<br>技能蓄集效果發動後，15秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>龍化時間＋20％</span></dt><dd><div>龍化時間延長20％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div>※連鎖EX能力為版本1.18.0起追加的EX能力，無法於版本1.18.0之前的版本中生效。</div><div><br></div><div>【注意事項】</div><div>&nbsp;「白金傳說召喚(2)」詳細召喚資訊，請點擊遊戲內下方選單列的「召喚」後，從「白金傳說召喚」的「出現機率」或「召喚資訊」內的「詳細」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1585202400; update_time1585130378

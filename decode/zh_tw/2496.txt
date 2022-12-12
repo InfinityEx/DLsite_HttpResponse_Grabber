@@ -1,0 +1,198 @@
+article_id:2496
+category_name:公告
+title_name:必中龍絆日Ver.★5角色！「白金傳說召喚」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「白金傳說召喚」已於<span class="local_date" data-local_date="1632722400"></span>起舉辦中！</div><div><br></div><div>本次「白金傳說召喚」為「10連召喚」的第10發將必中本次召喚舉辦前已登場過的「龍絆日Ver.★5角色」。</div><div>召喚期間內可進行5次白金傳說召喚的「10連召喚」。</div><div>此外，本召喚僅限使用「龍光鑽石」。</div><div><br></div><div>【白金傳說召喚舉辦期間】</div><div><span class="local_date" data-local_date="1632722400"></span> ～ <span class="local_date" data-local_date="1634536799"></span></div><div><br></div><div>「白金傳說召喚」第10發必中的部分對象★5角色介紹如下：</div><div><br></div><div>【第10發必中對象★5角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/91b5127967fef4886217cca1423e3d86.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>760</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>499</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>覺醒了妖精真實力量的那姆。<br>由於解放了自身蘊藏的力量，<br>變得能夠隨意改變身體的大小。<br>從此她不再只是受人保護的妖精，<br>而要為了守護重要的友人踏上戰場。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e85e2d5f87af2b9a484d50eb16f8480c2.png"></span>
+				<span>妖精的懲罰</span>
+			</dt>
+			<dd><div>一般型態<br>給予目標和其周圍敵人傷害，<br>並解除其1個增益效果。<br>此外，使用技能時若連擊數為20次以上，<br>則自身的羽化量條就會上升。<br>羽化型態<br>給予周圍敵人傷害，使其陷入「裂風」狀態。</div><div class="skill-detail">威力：107 × 16 Hit<br>所需技能點數：2,620<br>特殊效果<br>‧增益效果解除<br>特殊龍化量條回復量：80<br><br>（特殊龍化時）<br>威力：532 × 5 Hit<br>特殊效果<br>‧裂風<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f966791f17e374d3ea12252d10ee6c462.png"></span>
+				<span>妖精的戲法</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>一般型態<br>給予周圍敵人傷害，並解除其1個增益效果。<br>此攻擊將於一定時間內追蹤目標。<br>此外，使用技能時若連擊數為20次以上，<br>則自身的羽化量條就會上升。<br>羽化型態<br>給予周圍敵人傷害，並額外給予直線上敵人傷害。</div><div class="skill-detail">威力：82 × 30 Hit<br>所需技能點數：5,240<br>所需共享技能點數：8,279<br>特殊效果<br>‧增益效果解除<br>特殊龍化量條回復量：150<br><br>（特殊龍化時）<br>威力：700 × 2 Hit<br>威力：1,092 × 1 Hit<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>爆擊率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的爆擊率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span>
+				<span>【風】連擊：連擊‧龍化蓄集Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為風屬性，<br>則每連擊50次時，龍化量條提升3％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6520d144b623d2b7b6131329914ae1a62.png"></span><span>「羽化」秘術Ⅱ</span></dt><dd><div>以特殊龍化「羽化」取代一般龍化。<br>羽化帶有以下效果：<br>‧龍化量條轉換成羽化量條。<br>‧量條蓄集至一定程度以上時點擊按鈕，<br>不論裝備任何龍族皆變身為羽化型態。<br>‧羽化中再次點擊按鈕或待羽化量條耗盡則解除羽化。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/857a2a2fdbc31b188c91fbd6f6eca6b32.png"></span><span>妖精加護Ⅱ</span></dt><dd><div>陷入「凍結」、「濕身」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾風怒濤‧攻＋20％</span></dt><dd><div>連擊數為15次以上時攻擊力提升20％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/acf5cb7bf112670cedadef84c6daf50b.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>743</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>重新取回了失去軀體的馬斯科拉。<br>他以存在拉契希內部的思考回路「心」<br>對修復後的軀體進行遠距操控。<br>雖然他決心要盡自己所能戰鬥，<br>卻經常會在戰鬥後露出宛如流淚般的神情。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e4c4b6c2cda86984ab5b0997b4b26db62.png"></span>
+				<span>code: 03 增強發電</span>
+			</dt>
+			<dd><div>給予自身【反應動作無效】與【盾】。<br>自身在【全域存取】狀態時，<br>此技能轉換成「code: 08 執行」，效果如下：<br>給予自身【反應動作無效】、【盾】、<br>以及【反位效應】。<br>【反位效應】效果期間中可強化一般攻擊，<br>並增加攻擊命中次數。</div><div class="skill-detail">所需技能點數：3,840<br>特殊效果<br>‧反應動作無效<br>　效果時間：15 秒<br>‧盾<br>　效果次數：1<br>　效果量：最大HP的30％<br><br>（變化後）<br>所需技能點數：3,840<br>特殊效果<br>‧反應動作無效<br>　效果時間：15 秒<br>‧盾<br>　效果次數：1<br>　效果量：最大HP的30％<br>‧反位效應<br>　效果時間：11 秒<br>　不可重複<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e6227bb278c077fe5ca2ed4db4bd6ce42.png"></span>
+				<span>code: 36 冷卻循環</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予自身【全域存取】。<br>自身在【全域存取】狀態時，<br>此技能轉換成「code: 06 終結」，效果如下：<br>解除周圍敵人1個增益效果，並給予其傷害。</div><div class="skill-detail">所需技能點數：5,570<br>特殊效果<br>‧全域存取<br>　效果時間：26 秒<br><br>（變化後）<br>威力：489 × 6 Hit<br>所需技能點數：2,830<br>所需共享技能點數：16,668<br>特殊效果<br>‧增益效果解除<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻擊力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的攻擊力提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span>
+				<span>【水】連擊：連擊‧技能增益效果時間＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，<br>則連擊數為10次以上時，<br>使用的技能增益效果持續時間提升15％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>加速器Ⅱ</span></dt><dd><div>①每次使用技能1時，<br>給予自身攻擊力提升氣場（爆發氣場上限Lv.3）。<br>此效果發動後，20秒間不會再次發動。<br>②自身在【全域存取】狀態時，獲得以下效果。<br>‧強化一般攻擊。攻擊時對複數敵人進行追擊。<br>‧給予第4段一般攻擊【解除敵方1個增益效果】。<br>‧攻擊速度提升6％。<br>‧若連擊數為30次以上時，<br>攻擊力提升10％、爆擊率提升8％、<br>爆擊時的傷害倍率提升8％。<br>‧龍化時，解除【全域存取】。<br>③【全域存取】解除時，技能2蓄集50％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f3503b7c11dab7e6111611cb63f010c32.png"></span><span>魔動機構Ⅱ</span></dt><dd><div>陷入「火燒」、「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5928d08635cbad73278c1391505a73392.png"></span><span>臨界驅動Ⅱ</span></dt><dd><div>每連擊15次時，發動【爆擊率提升4％】增益效果，最大可疊加3次。<br>此外，每當攻擊時發生爆擊，獲得【爆擊時的傷害倍率提升4％】增益效果，最大可疊加10次，但此效果發動後，1秒間不會再次發動。<br>連擊數重置時，解除此能力賦予的所有增益效果。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>【注意事項】</div><div>1. 「白金傳說召喚」詳細召喚資訊，請點擊遊戲內下方選單列的「召喚」後，從「白金傳說召喚」的「出現機率」，或於「召喚資訊」中的「詳細」進行確認。</div><div>2. 「白金傳說召喚」和「失落龍絆日」等同時舉辦。請透過召喚頁面上方「&lt;」「&gt;」標示進行切換。</div><div>3. 「失落龍絆日」等連續10次未出現★5時的出現機率上升機制，不會因為進行「白金傳說召喚」而重置。</div><div>4. 其他注意事項，請點擊遊戲內下方選單列的「召喚」後，從「召喚資訊」＞「詳細」＞「注意事項」進行確認。</div><div>5. 「白金傳說召喚」中無法獲得「龍輝之印」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1632722400; update_time1631850706

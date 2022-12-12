@@ -1,0 +1,8 @@
+article_id:201
+category_name:活動
+title_name:設施活動「與馬戲團共度夢幻時光」即將舉辦
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>從<span class="local_date" data-local_date="1547532000"></span>起，將舉辦設施活動「與馬戲團共度夢幻時光」。</div><div>本活動可挑戰闇屬性的BOSS，以建造活動限定的獎勵設施。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/84ea7ea239bb413ba44fa8ed46a11109.png"></div><div>Ladies and gentlemen！歡迎來到充滿魅力與幻想的馬戲團世界！</div><div>由擅長驚險刺激技藝的短劍高手，以及連兇猛龍族都能馴服的可愛馴龍師，為您獻上夢境般的美好時光──！</div><div>王國上下沉醉於其中，究竟是怎樣的表演在等著各位呢&hellip;&hellip;敬請期待！</div><div>設施活動「與馬戲團共度夢幻時光」，請不要錯過開幕時間囉♪</div><div><br></div><div>■注意事項</div><div>1. 如要參加活動任務，需完成主線劇情 第2章 2 - 1（Normal）。</div><div>2. 若要參加團隊遊戲，需完成主線劇情 第2章 2 - 1（Normal）。</div><div>3. 舉辦期間和內容，將可能在無預先告知下進行變更。</div><div>&nbsp;</div><div>&nbsp;</div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div><br></div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1547100000; update_time1547532343

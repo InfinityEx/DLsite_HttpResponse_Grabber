@@ -1,0 +1,8 @@
+article_id:649
+category_name:版本更新
+title_name:版本更新公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>版本1.10.1已於<span class="local_date" data-local_date="1564718400"></span>公開，並同時實施強制更新。</div><div><br></div><div>本次版本更新詳細內容如下：</div><div><br></div><div>■更新內容</div><div>修正以特定操作交換龍輝護符時，覺醒之露的所需數量無法正常顯示之異常現象。</div><div><br></div><div>作為本異常現象之補償，營運團隊將會依序發送以下道具給於<span class="local_date" data-local_date="1564718400"></span>前開始遊戲的玩家。</div><div><br></div><div>‧10連召喚券 1枚</div><div><br></div><div>10連召喚券請至「獎勵箱」領取。</div><div>領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>■注意事項</div><div>版本更新訊息實際反映於商店將可能花費一段時間。</div><div>此外，裝置內的暫存檔可能會導致版本無法順利更新。</div><div>如無法更新，請關閉裝置電源，放置1～2分鐘後再啟動重試。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1564718400; update_time1564718207

@@ -1,0 +1,8 @@
+article_id:318
+category_name:公告
+title_name:「那姆頻道」公開！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「那姆頻道」已於2019/3/26 11:00 (UTC+8) 於【Dragalia Lost ～失落的龍絆～官方YouTube Channel】公開。</div><div><br></div><div>影片中將會為各位玩家帶來將於2019/3/27 14:00 (UTC+8) 開始舉行的半週年紀念活動，以及推特關注＆轉發活動等各式各樣的最新情報！</div><div><br></div><div>詳細內容請參考下列連結。</div><div><br></div><div>▼「那姆頻道」</div><div><a href="https://youtu.be/LOf4FgcHaUY" target="_blank">https://youtu.be/LOf4FgcHaUY</a></div><div><br></div><div>▼Dragalia Lost ～失落的龍絆～官方YouTube Channel</div><div><a href="https://www.youtube.com/channel/UCzWuS-ycCrYVXDuDH9UWnpA" target="_blank">http://eng.mg/c54d0</a></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1553569200; update_time1553593303

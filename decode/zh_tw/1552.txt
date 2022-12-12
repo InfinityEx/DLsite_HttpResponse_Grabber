@@ -1,0 +1,8 @@
+article_id:1552
+category_name:公告
+title_name:「塔爾塔羅斯叛逆戰」暫時關閉公告【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1598620500"></span>更新】</strong></span><br>本異常現象已於<span class="local_date" data-local_date="1598620500"></span>左右修正完畢，「塔爾塔羅斯叛逆戰 中級」和「塔爾塔羅斯叛逆戰 高級」已再度開放。<br><br>配合本異常現象修正，部分設定產生變更。<br>詳情如下：<br><br>■變更內容<br>‧打倒塔爾塔羅斯的分身後，角色可獲得一定時間內受到傷害減輕的增益效果。<br>‧減少塔爾塔羅斯於「復仇者之怒」狀態時使用「罪罰箭彈」和「罪罰浪潮」的傷害量。<br><br>作為本次異常現象以及暫停開放「塔爾塔羅斯叛逆戰 中級」和「塔爾塔羅斯叛逆戰 高級」之補償，<br>營運團隊將會依序發送以下道具給於<span class="local_date" data-local_date="1598620500"></span>前開始遊戲的所有玩家。<br><br>‧龍輝晶石 400個<br><br>※補償道具請至「獎勵箱」領取。<br>※領取期限為發送至「獎勵箱」後7天以內。<br><br>造成各位玩家的不便與困擾，營運團隊再度致上最深的歉意。</div><hr><div>各位玩家您好</div><div><br></div><div>經營運團隊確認，「塔爾塔羅斯叛逆戰 中級」和「塔爾塔羅斯叛逆戰 高級」中，出現在特定條件下操作角色會保持無敵狀態直到戰鬥結束的異常現象。</div><div>為確認本異常現象的發生原因及進行修正，將暫時關閉「塔爾塔羅斯叛逆戰 中級」和「塔爾塔羅斯叛逆戰 高級」。</div><div>任務關閉期間，在單人模式或團隊遊戲中點擊「任務開始」後，將會顯示「目前任務系統維護中。」並返回主頁面。</div><div><br></div><div>■任務關閉期間</div><div><span class="local_date" data-local_date="1598604600"></span> ～ 結束日程未定</div><div><br></div><div>重新開放日程和本異常現象詳情將另行於本公告通知。</div><div>造成各位玩家的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1598604600; update_time1598620562

@@ -1,0 +1,8 @@
+article_id:717
+category_name:公告
+title_name:迎接一週年‧贈送道具好禮！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>為了迎接「Dragalia Lost ～失落的龍絆～」即將於 <span class="local_date" data-local_date="1569564000"></span>上線滿一週年，營運團隊將依序發送以下道具給各位玩家。</div><div>希望能讓玩家們更加盡情享受遊戲內容。</div><div><br></div><div><strong>■禮物內容</strong></div><div>‧四葉幸運草 30個</div><div>於「育龍庭園」中贈送給龍族，便會提升信賴度，並可延長龍化時間與提升戰力。</div><div>也有機會獲得來自龍族的回禮。</div><div><br></div><div>‧盧比&times;1000000</div><div>可用來鍛造武器和提升設施Lv。</div><div>裝備鍛造的武器，挑戰真‧龍族的試煉、虛空之影討伐戰和團體活動的BOSS戰吧。</div><div><br></div><div>‧Skip券 10張&times;2</div><div>可於進行主線劇情和團體活動的BOSS戰時使用。</div><div>一次使用複數張Skip券，在任務過關時可獲得相對應數量的獎勵。</div><div>※部分任務無法使用Skip券。</div><div><br></div><div>‧頂級蜂蜜 10個</div><div>使用1個可回復30能量。</div><div>積極挑戰主線劇情和現正舉辦中的活動任務吧。</div><div><br></div><div><strong>■贈送對象</strong></div><div>於<span class="local_date" data-local_date="1567317600"></span>之前開始遊戲的所有玩家。</div><div><br></div><div>道具領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1567317600; update_time1569478051

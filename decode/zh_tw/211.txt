@@ -1,0 +1,8 @@
+article_id:211
+category_name:公告
+title_name:「與馬戲團共度夢幻時光」究極BOSS戰中「共鬥之翼」消費異常公告【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，在活動「與馬戲團共度夢幻時光」中，</div><div>出現了以訪客身份參加究極BOSS戰任務時，會消費1「共鬥之翼」的異常現象。</div><div><br></div><div>本異常現象目前正在進行修正。</div><div>修正完畢後，營運團隊將對在異常現象發生期間內挑戰對象任務的玩家發送道具，補償所消費的「共鬥之翼」。</div><div><br></div><div>最新進度將於本公告進行更新。</div><div><br></div><div>造成各位玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1547550600"></span>更新</strong></span></div><div>本異常現象已於<span class="local_date" data-local_date="1547548800"></span>進行的資料更新中修正完畢。</div><div><br></div><div>營運團隊將根據任務參加次數，</div><div>對在<span class="local_date" data-local_date="1547548800"></span>為止以訪客身份參加了究極BOSS戰的玩家依次補償對應的「靈鳥之灰」。</div><div><br></div><div>補償道具請至「獎勵箱」領取。</div><div>請於<span class="local_date" data-local_date="1548153599"></span>前登入遊戲領取補償道具。</div><div>領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>造成各位玩家的不便，營運團隊再次致上最深的歉意。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1547539200; update_time1548396445

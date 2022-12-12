@@ -1,0 +1,8 @@
+article_id:1973
+category_name:公告
+title_name:「內山夕實‧朝井彩加的Dragalia Lost 廣播庭園 出差版」線上直播獎勵發送公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>感謝玩家們收看於<span class="local_date" data-local_date="1612519200"></span>左右播出的「內山夕實‧朝井彩加的Dragalia Lost 廣播庭園 出差版」線上直播。</div><div><br></div><div>在本次線上直播中有舉辦只要達成節目中的Mission就會贈送玩家們好禮的特別企劃。</div><div><br></div><div>由於已順利達成節目中的Mission，營運團隊將依序贈送於<span class="local_date" data-local_date="1612524600"></span>前開始遊戲的各位玩家以下好禮！</div><div><br></div><div>■禮物內容</div><div>‧龍輝晶石 1,200個</div><div><br></div><div>領取期限為發送至「獎勵箱」後7天以內。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1612524600; update_time1612523570

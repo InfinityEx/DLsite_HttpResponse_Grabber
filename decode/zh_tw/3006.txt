@@ -1,0 +1,251 @@
+article_id:3006
+category_name:公告
+title_name:「失落龍絆日　非凡佳選」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「失落龍絆日　非凡佳選」預計將於<span class="local_date" data-local_date="1655186400"></span>起開始舉辦。</div><div><br></div><div>【關於失落龍絆日】 ※包含「失落龍絆日　非凡佳選」</div><div>期間限定角色‧龍族將於失落龍絆日登場。</div><div>此外，★5角色‧龍族的初始「出現機率」，將由平時的4％上升至6％！</div><div>※如召喚出★5或★5精選，出現機率將會變回初始設定值6％。</div><div><span style="color: rgb(226, 80, 65);">※過去於「失落龍絆日」中登場的角色‧龍族也可能於本召喚中登場。登場角色‧龍族詳細資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</span></div><div><br></div><div>【再度登場的期間限定精選對象之角色‧龍族】</div><div>■角色</div><div>★5 伊利亞（星龍祭Ver.）：火／銃（散彈銃模式）</div><div>★5 莉莉（星龍祭Ver.）：水／法杖</div><div><br></div><div>■龍族</div><div>★5 貞德（星龍祭Ver.）：水</div><div><br></div><div>此外，曾於過去召喚登場的部分期間限定角色將會再度登場。</div><div><span style="color: rgb(226, 80, 65);">※上述角色‧龍族以外並非精選對象。</span></div><div><br></div><div>【失落龍絆日　非凡佳選舉辦期間】</div><div><span class="local_date" data-local_date="1655186400"></span> ～ <span class="local_date" data-local_date="1655445599"></span></div><div><br></div><div>再度登場的期間限定精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6cad89202d2e5d601ff297fe4836075b.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,499</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>可使用的模式</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/4805e47916f093eb2b9049cff29e9eb72.png"><img src="https://dragalialost.akamaized.net/attached/information/images/0ea47b25dd52e83055f02a3ca4d545522.png"><img src="https://dragalialost.akamaized.net/attached/information/images/c10d099648b4bc58a4f2bde4fe0dfd752.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>來到1000年後未來的煉金術師。<br>得知自己的生日成為了重要節日，<br>於是前去造訪星龍祭發祥之地。<br>雖然對星龍祭逸聞感到困惑，但她仍為了<br>守護孩子的夢想而決定證明聖夜使者的存在。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9a749d17a445cd8c903fb2a904229a672.png"></span>
+				<span>全速滑行</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予前方敵人傷害。攻擊時，可控制方向。<br>使用技能時將消費所有的【煉金填充匣】，<br>當消費2個以上時，<br>依【煉金填充匣】數量增加威力與攻擊範圍。</div><div class="skill-detail">威力：180 × 1 Hit<br>威力：90 × 9 Hit<br>（煉金填充匣消費0～1個時）<br>威力：700 × 1 Hit<br>（煉金填充匣消費2個時）<br>威力：1,200 × 1 Hit<br>（煉金填充匣消費3個時）<br>威力：1,900 × 1 Hit<br>所需技能點數：3,810<br>所需共享技能點數：8,115</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>星夜激化</span>
+			</dt>
+			<dd><div>繁星量條蓄集至上限，<br>給予隊伍全員防禦力提升之爆發氣場。</div><div class="skill-detail">所需技能點數：18,000<br>獲得爆發氣場<br>‧防禦力提升（爆發氣場上限Lv. 3）<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>OVERDRIVE削減＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員狀態量條的減少量提升20％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/03585ae11a2b0de283c914026533b3fe2.png"></span>
+				<span>【火】連擊：10連擊以上‧抗風＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為火屬性，<br>則連擊數為10次以上時，<br>發動【風屬性抗性提升10％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19228ed09f3ecb2edfd8369ed392d0b02.png"></span><span>星光計謀Ⅱ</span></dt><dd><div>滑動畫面進行迴避時，給予目標追加攻擊。<br>此外，追加繁星量條。<br>一般攻擊或迴避時的追加攻擊命中敵人時，<br>蓄集繁星量條。<br>每蓄滿1條繁星量條，給予自身【煉金填充匣】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/0ca003e40efaeaec644df1940674fce52.png"></span><span>爆擊之禮Ⅱ</span></dt><dd><div>消費【煉金填充匣】增益效果時，<br>給予自身15秒間【星夜光輝】效果（疊加上限3次）。<br>每持有1個【星夜光輝】增益效果，<br>攻擊力提升15％、爆擊率提升15％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※原有技能與共享技能的部分效果可能有差異。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8bc7ecdeb21aefd8af4454eb3d25a6ae.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/b447b332ae5b8139a67d676456ac9aac2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>809</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>467</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,526</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>換上聖夜使者裝扮的冰晶族少女。<br>胸懷冰晶族的驕傲，為了在星龍祭傳遞幸福<br>給大家而奮鬥。雖然她總是使一切結凍，<br>內心卻十分溫暖。看著她勇敢而努力的模樣，<br>眾人也逐漸敞開心胸。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b505d80a6d01ec97e7ffff44998260562.png"></span>
+				<span>冰晶魔法</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>回復隊伍全員HP，<br>於30秒之間給予隊伍全員【冰晶之力】。<br>【冰晶之力】將給予攻擊力40％的【追擊傷害】。<br>此外，於60秒之間隊伍全員的攻擊力上升15％。<br>此攻擊力上升效果無法重複。</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/221089680fc05db454b41e396a6b3d442.png"></span>
+				<span>驚喜贈禮</span>
+			</dt>
+			<dd><div>消費自身所有的【聖夜使者之力】增益效果，<br>於10秒之間給予自身【特別之力】增益效果。<br>此效果無法重複。【特別之力】將依<br>【聖夜使者之力】的消費數提升效果。<br>無：攻擊力上升20％。<br>1個：攻擊力上升40％。<br>2個：攻擊力上升60％。<br>3個：攻擊力上升100％。</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回復技能效果＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的回復技能效果提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【水】治癒：HP回復‧攻＋8％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，<br>則回復自身HP時，<br>發動【15秒間，攻擊力提升8％】增益效果。<br>此效果發動後，10秒間不會再次發動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5122215b634609527398e561ecdd33872.png"></span><span>聖夜使者的工作Ⅱ</span></dt><dd><div>使用技能「冰晶魔法」時，給予自身<br>【聖夜使者‧莉莉（不可重複）】增益效果。<br>自身的3次爆發攻擊，將轉換成【特別贈禮】。<br>【特別贈禮】將回復隊伍內HP比例最低的角色HP，<br>並給予其【最大HP於任務期間上升15％】增益效果。<br>此外，給予自身【聖夜使者之力（最大可疊加3次）】增益效果。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f3503b7c11dab7e6111611cb63f010c32.png"></span><span>冰晶加護Ⅱ</span></dt><dd><div>陷入「火燒」、「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP全滿‧攻＋20％</span></dt><dd><div>HP全滿時攻擊力提升20％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※原有技能與共享技能的部分效果可能有差異。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6a3b1351260b7835dbdb26c12f0e7f48.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>為慶祝星龍祭而身著華麗禮服的貞德。<br>因為與平時不同，所以顯得有些羞怯，<br>但她其實非常中意這套服裝。<br>儘管衣著變得華美，但她依舊秉持高潔信念，<br>靜靜在旁守護著歡度星龍祭的人們。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b578da17fca8b309bc38a693b65c07072.png"></span>
+				<span>晶鑽風暴</span>
+			</dt>
+			<dd><div>給予直線上敵人水屬性傷害，<br>使其陷入「凍結」狀態。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/0ca003e40efaeaec644df1940674fce52.png"></span><span>星龍祭加護Ⅴ</span></dt><dd><div>裝備角色如果為水屬性，<br>則裝備角色的攻擊力提升45％，爆擊率提升20％。</div></dd></dl></div></div></div><div>※以上為Lv.100、上限解放4階段、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 精選對象角色在「阿爾貝利亞競技大亂鬥」中可改變角色外觀的「角色造型」將轉為SALE中，並減少解鎖時所需的道具。</div><div>※有部分角色無法解鎖角色造型。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1655100000; update_time1648554658

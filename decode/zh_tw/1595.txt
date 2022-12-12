@@ -1,0 +1,8 @@
+article_id:1595
+category_name:活動
+title_name:團體活動【復刻】「克羅諾斯～輪迴命運的時針～」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/958eaad870bdf1a79ea7b074a8dc3065.png
+
+message:<div>各位玩家您好</div><div><br></div><div>團體活動【復刻】「克羅諾斯～輪迴命運的時針～」預計將於<span class="local_date" data-local_date="1600668000"></span>起開始舉辦。</div><div>本活動可在團隊遊戲模式下挑戰光屬性的團體戰BOSS。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/958eaad870bdf1a79ea7b074a8dc3065.png"></div><div>「潔西雅───────！」<br>那天，沒能握住的手。<br>那天，所失去的未來。<br>因無法挽回的過去而懊悔不已的王子面前，<br>出現了一隻龍族──克羅諾斯。<br>擁有跨越時空之力的龍族與王子相遇之時，<br>超越因果的命運就此揭幕──<br><br><br>■注意事項<br>1. 若要參加活動任務，需完成主線劇情第2章 2-1（Normal）。<br>2. 若要參加團隊遊戲，需完成主線劇情第2章 2-1（Normal）。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1600408800; update_time1600394935

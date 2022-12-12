@@ -1,0 +1,8 @@
+article_id:2740
+category_name:公告
+title_name:Android裝置發生進行任務途中畫面靜止不動之異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，使用Android裝置進行任務途中會發生畫面靜止不動之異常現象。</div><div><br></div><div>若發生本現象，請嘗試以下方式，將可能獲得排解。</div><div>‧至遊戲內「選單」＞「選項」＞「系統」內選擇「極簡易設定為ON」。</div><div>‧至標題畫面「選單」選擇「清除快取」。</div><div><br></div><div>如果最新進度，將於本公告更新。</div><div>造成各位玩家的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1640683800; update_time1640682955

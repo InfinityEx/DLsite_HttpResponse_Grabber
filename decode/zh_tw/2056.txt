@@ -1,0 +1,8 @@
+article_id:2056
+category_name:公告
+title_name:主線劇情第18章「妖精們的森林」後半即將公開！
+image_path:https://dragalialost.akamaized.net/attached/information/images/560a61f42f33346a94c442caebc67f9c.png
+
+message:<div>各位玩家您好</div><div><br></div><div>主線劇情第18章「妖精們的森林」後半決定將於<span class="local_date" data-local_date="1616392800"></span>公開！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/560a61f42f33346a94c442caebc67f9c.png"></div><div><br></div><div>敬請期待最新劇情！</div><div><br></div><div>■注意事項</div><div>如要進行主線劇情第18章「妖精們的森林」前半，須完成主線劇情第18章 3-5「祝福之光」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1616133600; update_time1616052705

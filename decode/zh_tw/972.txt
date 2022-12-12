@@ -1,0 +1,236 @@
+article_id:972
+category_name:公告
+title_name:「附獎傳說召喚」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「附獎傳說召喚」已於<span class="local_date" data-local_date="1577340000"></span>起開始舉辦！</div><div>&nbsp;</div><div>精選對象之角色出現機率上升中。</div><div>進行「附獎傳說召喚」可在得到角色‧龍族的同時另外獲得「附獎」！</div><div>附獎分為白金賞、金賞、銀賞、銅賞、5等賞、6等賞共6種，白金賞可獲得金剛晶或大馬士革鋼。</div><div>進行10連召喚時第10次的附獎將必中白金賞、金賞、銀賞、銅賞其中之一。</div><div><span style="color: rgb(226, 80, 65);">獲得的附獎將發送至獎勵箱的「無期限」項目中。</span></div><div><br></div><div>※其他附獎一覽和出現機率資訊，請於「附獎傳說召喚」舉辦期間由遊戲內下方選單列的「召喚」＞「出現機率」＞「附獎」進行確認。</div><div><br></div><div>【附獎傳說召喚 精選舉辦期間】</div><div>&nbsp;<span class="local_date" data-local_date="1577340000"></span> ～ <span class="local_date" data-local_date="1577771999"></span></div><div><br></div><div>精選對象之角色介紹如下 ：</div><div><br></div><div>【精選角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/fb9137bfbda3fc6ba9b5dcd6b9dc844a.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>從異國前來旅行的青年。<br>「寶石魔法」的操縱者，擅於駕馭<br>封印於寶石中的瑪納。雖然是位劍術高強、<br>個性沉穩且心胸寬大的大人物，<br>但不知為何不擅長與女性相處。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>爆能流轉</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人火屬性傷害。<br>攻擊時，依技能「氣念結晶」的<br>強化階段數發射【炎刃】。<br>「氣念結晶」的強化階段數上限為5階段。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/61659e0574213d0f815d202bee44a6312.png"></span>
+				<span>氣念結晶</span>
+			</dt>
+			<dd>
+				<div>
+					發動【寶石魔法‧炎刃強化】。<br>自身的防禦力於10秒之間上升15％，<br>並強化技能「爆能流轉」。<br>「爆能流轉」的強化上限為5階段，<br>此效果於任務期間持續生效。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龍化累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的龍化量條增加率提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>獅子奮迅‧攻＋6％</span></dt><dd><div>每次擊退5個敵人時，<br>發動【攻擊力提升6％】增益效果。<br>此效果每場任務最多可發動5次。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠抗性＋100％</span></dt><dd><div>陷入「睡眠」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>開場技能量條＋100％</span></dt><dd><div>任務開始時技能量條提升100％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力而上升的數值。</div><div><br></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b6523d8f0c85b1aba67ed533d77dbeaa.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>798</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>476</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,514</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>深信自身才能的天才少女。<br>使用武器的技術一流，也非常擅長操縱瑪納。<br>唯我獨尊的個性，使周圍總是因她一陣忙亂，<br>但也擁有與其豪語相符的實力。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>流星瞬步</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人火屬性傷害。<br>攻擊時，可進行移動。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>熾烈獄火</span>
+			</dt>
+			<dd>
+				<div>
+					於15秒之間發動【獄火形態】。<br>【獄火形態】期間中自身的攻擊力上升15％，<br>並使一般攻擊附加「防禦力下降」效果。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>爆擊率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的爆擊率提升10%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾風怒濤‧弱化＋20％</span></dt><dd><div>連擊數為15次以上時，<br>賦予敵人異常狀態機率提升20％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠抗性＋100％</span></dt><dd><div>陷入「睡眠」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a92e675fd730e94b01a7ce6f30bea04b2.png"></span><span>BREAK特攻＋30％</span></dt><dd><div>給予BREAK狀態中的敵方傷害提升30％。</div></dd></dl></div></div></div><div><span style="text-align: initial; font-size: 12px;">※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</span></div><div>※能力值不包含因能力而上升的數值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8980d24e5aed42261a975d309d765be7.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>514</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>性格難以捉摸的前宮廷魔法師。<br>從安羅拉斯王年幼時便任職於王城，<br>於公於私都在旁支持著他。<br>似乎相當在意身為安羅拉斯王兒子的王子。<br>外貌雖年輕，實際年齡卻在60歲以上。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/664ab15021624233c6463200327f209d2.png"></span>
+				<span>暗黑鬱爪</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人闇屬性傷害。<br>此外，自身的最大HP於任務期間上升5％。<br>若發動於自身的HP上升效果值達到上限，<br>即轉換成HP回復效果。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9ea8a32b7cfc8137849e156a527c44202.png"></span>
+				<span>紫堇泣喚</span>
+			</dt>
+			<dd>
+				<div>
+					展開【宵闇術式】後，<br>給予目標和其周圍敵人闇屬性傷害。<br>【宵闇術式】展開期間<br>將依受到的傷害額外給予特殊傷害。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能傷害＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能傷害提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>開場技能量條＋100％</span></dt><dd><div>任務開始時技能量條提升100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痺抗性＋100％</span></dt><dd><div>陷入「麻痺」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>起死回生‧攻＋10％</span></dt><dd><div>HP減少至30％以下時，<br>發動【任務中攻擊力提升10%】增益效果。<br>此效果每場任務最多可發動3次。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力而上升的數值。</div><div><br></div><div>其他精選對象角色如下：</div><div>★4角色：卡爾</div><div>★3角色：葵、拉辛、亞倫、喬、莎尼亞、歐連恩</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 附獎一覽和出現機率資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「附獎」進行確認。</div><div>3. 進行「10連召喚」所獲得的道具重複時，同種道具將統一發送至獎勵箱的「無期限」項目中。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1577340000; update_time1577155314

@@ -1,0 +1,8 @@
+article_id:878
+category_name:公告
+title_name:「真‧索狄亞克的試煉　超級」暫停開放公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，「真‧索狄亞克的試煉　超級」中出現真‧索狄亞克在特定條件下會停止發動攻擊的異常現象。</div><div>為調查本異常現象之發生原因並進行修正，「真‧索狄亞克的試煉　超級」將暫停開放。</div><div><br></div><div>■暫停開放期間</div><div><span class="local_date" data-local_date="1573470000"></span> ～ 未定</div><div><br></div><div>關於再度開放日期和本異常現象相關最新進度，將於本公告進行更新。</div><div><br></div><div>造成各位玩家的不便與困擾致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1573470000; update_time1573470110

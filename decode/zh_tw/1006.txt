@@ -1,0 +1,8 @@
+article_id:1006
+category_name:活動
+title_name:設施活動【復刻】「響徹工房！三姊妹的羈絆」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/ce992d2e18ee874b60f9b5bbb81e6608.png
+
+message:<div>各位玩家您好</div><div><br></div><div>設施活動【復刻】「響徹工房！三姊妹的羈絆」預計將從<span class="local_date" data-local_date="1578981600"></span>起開始舉辦。</div><div>本活動可挑戰風屬性的BOSS，並建造活動限定的獎勵設施。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/ce992d2e18ee874b60f9b5bbb81e6608.png"></div><div>合力進行鍛冶的聖城鍛冶屋三姊妹。</div><div>個性嚴謹的次女・羅吉娜。</div><div>溫柔大方的長女・雷吉娜。</div><div>活潑愛做夢的三女・露吉娜。</div><div>鍛冶師是支援戰鬥的幕後工作者&hellip;&hellip;不過，那樣的她們也有一番故事！</div><div>這是少女們以鍛冶師的更高境地為目標，互相切磋琢磨的熾烈熱血物語──！</div><div><br></div><div>■活動期間</div><div><span class="local_date" data-local_date="1578981600"></span> ～ <span class="local_date" data-local_date="1579759199"></span></div><div><br></div><div>■注意事項</div><div>1. 若要參加活動任務，需完成主線劇情第2章 2-1（Normal）。</div><div>2. 若要參加團隊遊戲，需完成主線劇情第2章 2-1（Normal）。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1578895200; update_time1578622500

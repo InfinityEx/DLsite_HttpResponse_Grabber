@@ -1,0 +1,164 @@
+article_id:140
+category_name:公告
+title_name:｢龍族傳說召喚｣開始舉辦
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「龍族傳說召喚」已於<span class="local_date" data-local_date="1544594400"></span>開始舉辦！</div><div><br></div><div>龍族傳說召喚、精選對象★5和★4龍族的出現機率上升中。</div><div>※部分★5和★4角色及龍輝護符也是精選對象。</div><div><br></div><div>【龍族傳說召喚出現機率】</div><div>★5精選　合計：2%（角色：0.40%　龍族：1.20%　龍輝護符：0.40%）</div><div>★5一般　合計：2%（角色：0.40%　龍族：1.20%　龍輝護符：0.40%）</div><div>★4精選　合計：7%（角色：1.25%　龍族：4.50%　龍輝護符：1.25%）</div><div>★4一般　合計：9%（角色：3.07%　龍族：3.95%　龍輝護符：1.97%）</div><div>★3一般　合計：80%（角色：33.75%　龍族：28. 50%　龍輝護符：17.75%）</div><div><br></div><div>【龍族傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1544594400"></span> ～ <span class="local_date" data-local_date="1545026340"></span></div><div><br></div><div>部分精選對象之角色‧龍族‧龍輝護符介紹如下。</div><div><br></div><div>【精選龍族介紹】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/63dbca0f0fbe1b66cee2961921578d79.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>369</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>127</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>996</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">龍族詳細</div>
+			<div class="param">
+				<ul>
+					<li>操控火焰的冥界守門人。個性自由奔放，<br>經常扔下工作不管跑出去玩。<br>兩手鑲著像手偶一樣的狗，分別為<br>「可可」和「米米」。各自擁有意識，<br>能夠聊天，亦可浮在空中進行攻擊。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ce3ba29aa211f645ec6c9c701e0d510f2.png"></span>
+				<span>熔岩破滅</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人火屬性傷害，<br>並使其陷入「火燒」狀態。<br>此外，使攻擊力下降5％、防禦力下降5％。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻擊力＋60％</span></dt><dd><div>裝備角色如果為火屬性，<br>則裝備角色的攻擊力提升60％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【精選龍族介紹】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e3418b8d1de309d07548312bea67e39d.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>370</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>125</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>995</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">龍族詳細</div>
+			<div class="param">
+				<ul>
+					<li>自遠古以來一直沉睡在海底，<br>被視為招致災厄之龍，被人們流傳至今。<br>但實際上是與傳說相反，性格非常紳士，<br>並且顧忌著自己過於強大的力量。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5288dad4390ed2a836a17ea91d5358d22.png"></span>
+				<span>渦暴激流</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人水屬性傷害，<br>使其陷入「濕身」狀態。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【水】攻擊力＋60％</span></dt><dd><div>裝備角色如果為水屬性，<br>則裝備角色的攻擊力提升60％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【精選龍族介紹】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3b1bd04842cc3cf11f4e3472e9de8960.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>384</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>113</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>997</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">龍族詳細</div>
+			<div class="param">
+				<ul>
+					<li>只在傳說中留名，胸懷慈悲之心的聖騎士。<br>正以年輕少女的姿態，度過永恆的時光。<br>人們相信當世間因魔獸的侵略，<br>或殘酷的惡政而民不聊生時，<br>她就會從某處現身給予人們指引。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3b8c6f3c96c407cfbd6115f294a01def2.png"></span>
+				<span>神聖戰旗</span>
+			</dt>
+			<dd>
+				<div>
+					給予周圍敵人光屬性傷害，<br>隊伍全員的防禦力於15秒之間上升30％。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【光】HP＋60％</span></dt><dd><div>裝備角色如果為光屬性，<br>則裝備角色的HP提升60％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>其他精選角色‧龍族‧龍輝護符如下：</div><div>角色：★5塞因福蘭德、★4武藏</div><div>龍族：★4伊弗利特、★4林德沃姆、★4波莉亞芙</div><div>龍輝護符：★5龍之血族、★4天空的霸主</div><div><br></div><div>【注意事項】</div><div>1. 舉辦期間結束後，本召喚活動中登場的精選角色、龍族、龍輝護符，仍會於今後的召喚活動中登場（★的數量和出現機率有可能會有所變更）。</div><div>2. 龍族傳說召喚的出現機率，請點選遊戲內下方選單列的「召喚」後，從「出現機率」進行確認。</div><div>3. 其他精選詳細內容，請點選遊戲內下方選單列的「召喚」後，從「召喚資訊」進行確認。</div><div>4. 召喚結果如出現已經成為夥伴的角色時，將改為獲得「覺醒之露」。可獲得的「覺醒之露」數量，將依角色★的數量不同而有所差異。</div><div>5. 「每日1次限定召喚」僅可使用「龍光鑽石」召喚。「每日1次限定召喚」將於每日14:00進行重置。</div><div>6. 連續10次後，若沒有出現★5的角色、龍族、龍輝護符之情況，於下次進行召喚時，★5角色、龍族、龍輝護符出現機率會上升。出現機率上升的詳細，請參考「召喚資訊」&rarr;「詳細」&rarr;「關於傳說召喚」。</div><div>7. 其他注意事項，請點選遊戲內下方選單列的「召喚」後，從「召喚情報」&rarr;「詳細」&rarr;「注意事項」進行確認。</div><div>8. 龍族傳說召喚的舉行期間和內容，可能會在無預先告知下進行變更。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div><br></div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1544594400; update_time1545359081

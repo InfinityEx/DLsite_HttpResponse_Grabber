@@ -1,0 +1,8 @@
+article_id:766
+category_name:公告
+title_name:「那姆頻道」節目播放公告
+image_path:
+
+message:<div>原定於YouTube Live直播的節目「那姆頻道」，因播放發生異常狀況而導致節目無法播出，影片已另行於YouTube官方頻道公開。<br>造成期待直播的各位玩家困擾與不便，營運團隊在此致上最深的歉意。</div><div><br></div><div>請從以下連結進入觀賞影片。</div><div><br></div><div>▼一週年紀念「那姆頻道」</div><div><a href="https://youtu.be/NLQg0ul4Qno">https://youtu.be/NLQg0ul4Qno</a></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1569468600; update_time1569468928

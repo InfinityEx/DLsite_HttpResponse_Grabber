@@ -1,0 +1,8 @@
+article_id:1486
+category_name:活動
+title_name:活動「迎擊戰～夜幕低垂時的夏夜水燈～」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/296ac6fedb161c8940b5a99c52576b57.png
+
+message:<div>各位玩家您好</div><div><br></div><div>「迎擊戰～夜幕低垂時的夏夜水燈～」預計將於<span class="local_date" data-local_date="1597125600"></span>起開始舉辦。</div><div><br></div><div>「迎擊戰～夜幕低垂時的夏夜水燈～」為在據點迎擊來襲眾多敵人的迎擊戰活動！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/296ac6fedb161c8940b5a99c52576b57.png"></div><div><br></div><div>造訪夏日祭典的庫豹，</div><div>被卡珊德拉強迫一起參觀祭典。</div><div>夏空中迴響著悠揚的祭典樂曲，</div><div>而此時遮蓋樂音的，是帝國兵軍靴的踏步聲。</div><div>這樣下去，祭典會遭到大肆破壞的&hellip;&hellip;</div><div>當庫豹得知卡珊德拉隱藏於祭典背後的心願時，</div><div>兩人決心共同應戰！</div><div><br></div><div>■注意事項</div><div>如要參加活動任務，需完成主線劇情第2章 2-1（Normal）。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1596780000; update_time1596018052

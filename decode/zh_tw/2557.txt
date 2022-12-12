@@ -1,0 +1,8 @@
+article_id:2557
+category_name:公告
+title_name:Android裝置發生無法由標題畫面進入遊戲之異常現象公告【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1634522400"></span>更新】</strong></span><br>於<span class="local_date" data-local_date="1634476500"></span> ～ <span class="local_date" data-local_date="1634513220"></span>左右發生的本異常現象已排除。<br><br>作為本異常現象之補償，營運團隊將會依序發送以下道具給於<span class="local_date" data-local_date="1634513220"></span>前開始遊戲的各位玩家。<br><br>‧龍輝晶石&times;300<br>‧頂級蜂蜜&times;10<br>‧靈鳥之聖灰&times;10<br><br>※補償道具請至「獎勵箱」領取。<br>※領取期限為發送至獎勵箱後7天以內。<br><br>造成各位玩家的不便與困擾，營運團隊再次致上最深的歉意。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div><hr><div>各位玩家您好</div><div><br></div><div>經營運團隊確認，自<span class="local_date" data-local_date="1634476500"></span>起，使用Android裝置啟動遊戲應用程式後，標題畫面會顯示「支援代碼：160」，而無法由標題畫面進入遊戲之異常現象。</div><div><br></div><div>本現象目前正在進行調查。</div><div>如有最新進度，將於本公告更新。</div><div><br></div><div>造成各位玩家的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1634480400; update_time1634536359

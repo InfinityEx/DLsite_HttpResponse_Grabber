@@ -1,0 +1,8 @@
+article_id:1210
+category_name:公告
+title_name:贈送「召喚券」好禮！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>為感謝各位玩家熱情參與團體活動「罪人巡旅‧龍瞳之軌跡」，營運團隊將依序發送以下好禮給所有玩家！</div><div><br></div><div>■禮物內容</div><div>召喚券&times;3</div><div><br></div><div>道具領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1585980000; update_time1585905747

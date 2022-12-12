@@ -1,0 +1,8 @@
+article_id:678
+category_name:公告
+title_name:「真‧朱庇特的試煉」追加難易度「入門」公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/c640fbe8dcfa8c64ae074f4da027db28.png
+
+message:<div>各位玩家您好</div><div><br></div><div>真‧龍族的試煉「真‧朱庇特的試煉」已於<span class="local_date" data-local_date="1566453600"></span>起追加新難易度「入門」！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/c640fbe8dcfa8c64ae074f4da027db28.png"></div><div>在挑戰全身滿溢瑪納，閃光纏繞其身的「真‧朱庇特」之前，先來測試看看自身的實力吧！</div><div>※即使完成「入門」也無法獲得別稱 。</div><div><br></div><div>「真‧龍族的試煉」的每週獎勵也包含「真‧朱庇特的試煉 入門」。</div><div>獎勵與「真‧朱庇特的試煉」不同。</div><div><br></div><div>■注意事項</div><div>1. 挑戰真‧龍族的試煉「真‧朱庇特的試煉 入門」，戰力須為11000以上。</div><div>2. 挑戰真‧龍族的試煉「真‧朱庇特的試煉 入門」，須先完成「朱庇特的試煉 超級」。</div><div>3. 參加團隊遊戲，須先完成主線劇情第2章 2-1(Normal)。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　</div>
+
+start_time:1566453600; update_time1569480969

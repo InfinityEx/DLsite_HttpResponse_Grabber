@@ -1,0 +1,8 @@
+article_id:331
+category_name:公告
+title_name:部分Android裝置可能無法登入遊戲的異常現象公告【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，在進行版本1.6.0更新後，部分Android裝置出現了可能無法登入遊戲的異常現象。</div><div><br></div><div>關於本異常現象，營運團隊正在進行調查。</div><div>最新進度將於本公告進行更新。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1553777400"></span>更新】</strong></span></div><div>本異常現在已於 <span class="local_date" data-local_date="1553777100"></span>公開的版本.1.6.1中修正完畢。</div><div><br></div><div>部分Android裝置可能無法登入遊戲的異常現象，請前往應用程式商店將遊戲版本升級至版本1.6.1後，嘗試重新登入遊戲。</div><div><br></div><div>做為本次異常現象之補償，營運團隊將會發送以下道具給於<span class="local_date" data-local_date="1553777100"></span>前開始遊戲的玩家。</div><div><br></div><div>‧龍輝晶石 300個</div><div><br></div><div>補償道具請於<span class="local_date" data-local_date="1554357599"></span>前登入遊戲即可領取。</div><div>領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>在此再次對造成各位玩家的不便致上最深的歉意。</div>
+
+start_time:1553691000; update_time1553777498

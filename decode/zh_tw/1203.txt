@@ -1,0 +1,8 @@
+article_id:1203
+category_name:公告
+title_name:一般Mission「與Nintendo Account進行連動吧」獎勵變更公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>完成一般Mission「與Nintendo Account進行連動吧」的達成獎勵，將於<span class="local_date" data-local_date="1588053600"></span>調整為龍輝晶石1,200個。</div><div><br></div><div>配合上述變更，現有的一般Mission「與Nintendo Account進行連動吧」（達成獎勵：龍輝晶石 100個）將於<span class="local_date" data-local_date="1588053599"></span>結束。</div><div><br></div><div>尚未完成Nintendo Account連動的玩家，只要在<span class="local_date" data-local_date="1588053599"></span>前完成連動，即可獲得獎勵龍輝晶石100個！</div><div><br></div><div>※已完成Nintendo Account連動的玩家在<span class="local_date" data-local_date="1588053600"></span>以後登入遊戲，即可獲得龍輝晶石1,200個作為Mission達成獎勵。</div><div><br></div><div>Nintendo Account連動方法請參考以下公告內容。</div><div><a href="https://dragalialost.com/cht/news/detail/526">【重要】遊戲資料備份相關公告</a></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1587448800; update_time1585620207

@@ -1,0 +1,8 @@
+article_id:1138
+category_name:活動
+title_name:團體活動【復刻】「鄉愁夜空盛綻之一輪煙花」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/512f285f609af994de0af29a91d75efe.png
+
+message:<div>各位玩家您好</div><div><br></div><div>團體活動【復刻】「鄉愁夜空盛綻之一輪煙花」預計將於<span class="local_date" data-local_date="1583992800"></span>起開始舉辦。</div><div>本活動可在團隊遊戲模式下挑戰水屬性的團體戰BOSS。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/512f285f609af994de0af29a91d75efe.png"></div><div>──春節，<br>這個源自東方的新年祭典，即將在王子一行人造訪的城鎮中盛大展開。<br>點心、龍之舞、以及綻放於夜空的仙花焰。<br>當人們在準備各種愉快的佳節活動時，危機突然發生！<br>功夫少女、武俠、還有熊貓龍族將挺身對抗使瑪納枯竭的強大敵人！<br><br><br><br>■注意事項<br>1. 如要參加活動任務，需完成主線劇情第2章 2-1（Normal）。<br>2. 如要參加團隊遊戲，需完成主線劇情第2章 2-1（Normal）。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1583906400; update_time1583465012

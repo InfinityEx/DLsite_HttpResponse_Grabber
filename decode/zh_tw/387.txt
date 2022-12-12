@@ -1,0 +1,8 @@
+article_id:387
+category_name:公告
+title_name:「失落的龍絆官方推特帳號 關注＆轉發活動」參加獎勵
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>感謝各位玩家踴躍參與「失落的龍絆官方推特帳號 關注＆轉發活動」！</div><div>截至目前為止，官方推特帳號的合計總轉發數已超過了60000次！</div><div><br></div><div>為了感謝玩家們的熱情支持，營運團隊將會依次贈送以下道具給於<span class="local_date" data-local_date="1554789600"></span>之前開始遊戲的所有玩家。</div><div><br></div><div>‧10連召喚券 1張</div><div>‧覺醒之露 35000個</div><div>‧龍輝晶石 1000個</div><div>‧四葉幸運草 10個</div><div>‧Skip券 10張</div><div><br></div><div>道具請於<span class="local_date" data-local_date="1555394399"></span>前登入遊戲即可領取。</div><div>領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1554789600; update_time1554708104

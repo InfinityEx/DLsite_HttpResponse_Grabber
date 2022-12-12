@@ -1,0 +1,8 @@
+article_id:630
+category_name:公告
+title_name:失落龍絆日舉辦‧贈送「召喚券」好禮！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>配合「失落龍絆日」舉辦，營運團隊已贈送「召喚券」給各位玩家！</div><div>使用「召喚券」，盡情享受失落龍絆日吧！</div><div><br></div><div>■禮物內容</div><div>召喚券 3張</div><div><br></div><div>■贈送對象</div><div>於<span class="local_date" data-local_date="1564120800"></span>前開始遊戲的玩家。</div><div><br></div><div>道具領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1564120800; update_time1569485997

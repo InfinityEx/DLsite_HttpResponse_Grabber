@@ -1,0 +1,8 @@
+article_id:1733
+category_name:公告
+title_name:商店「武器上限解放組合包」中已追加「星空光沙」公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>於商店「育成道具 育成組合包」的「本月」項目內販售中的「武器上限解放組合包」已於<span class="local_date" data-local_date="1604210400"></span>起追加「星空光沙&times;10」！</div><div><br></div><div>「武器上限解放組合包」變更後詳情如下：</div><div><br></div><div>■武器上限解放組合包</div><div>購買龍光鑽石，即可獲得額外贈禮★5武器的上限解放道具。</div><div><br></div><div>＜商品包含道具＞</div><div>‧龍光鑽石2,000個（龍光鑽石1,920個＋80個額外贈禮）</div><div><br></div><div>＜贈禮道具＞</div><div>‧大馬士革鋼&times;1</div><div>‧星空光沙&times;10</div><div><br></div><div>■注意事項</div><div>道具價格和其他詳細內容，請參考主頁面「商店」＞「育成道具 育成組合包」＞「本月」內說明。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1604210400; update_time1603869766

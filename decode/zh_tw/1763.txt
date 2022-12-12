@@ -1,0 +1,8 @@
+article_id:1763
+category_name:公告
+title_name:龍族「波塞頓‧勇（龍絆日Ver.）」異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，<span class="local_date" data-local_date="1604037600"></span>起於召喚中追加的龍族「波塞頓‧勇（龍絆日Ver.）」出現以下異常現象。</div><div><br></div><div>‧龍化中的一般攻擊威力低於預想值</div><div>‧技能「亞特蘭提斯沉沒」的威力低於預想值</div><div><br></div><div>本異常現象已於<span class="local_date" data-local_date="1604468400"></span>左右實施的資料更新中修正完畢。</div><div><br></div><div><br></div><div>造成各位玩家的困擾與不便，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1604468400; update_time1605603084

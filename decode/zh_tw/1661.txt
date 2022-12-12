@@ -1,0 +1,115 @@
+article_id:1661
+category_name:公告
+title_name:「附獎傳說召喚」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「附獎傳說召喚」已於<span class="local_date" data-local_date="1601877600"></span>起舉辦中！</div><div><br></div><div>精選對象之角色出現機率將會上升。</div><div>進行「附獎傳說召喚」可在得到角色、龍族的同時另外獲得「附獎」。</div><div><br></div><div>附獎分為白金賞、金賞、銀賞、銅賞、5等賞、6等賞共6種。</div><div>進行10連召喚時第10次的附獎將必中白金賞、金賞、銀賞、銅賞其中之一。</div><div><span style="color: rgb(226, 80, 65);">獲得的附獎將發送至獎勵箱的「無期限」項目中。</span></div><div><br></div><div>※即使一次使用10張召喚券，也不等於進行「10連召喚」，不保證第10次的附獎必中白金賞、金賞、銀賞、銅賞其中之一。</div><div>※其他附獎一覽和出現機率資訊，請於「附獎傳說召喚」舉辦期間由遊戲內下方選單列的「召喚」＞「出現機率」＞「附獎」進行確認。</div><div><br></div><div>【新追加精選對象之角色】</div><div>★5 伊利亞：光／銃（長銃模式）<br>※長銃模式為射程長，擅長遠距離攻擊的模式。</div><div><br></div><div>【附獎傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1601877600"></span> ～ <span class="local_date" data-local_date="1602482399"></span></div><div><br></div><div>精選對象之角色介紹如下：</div><div><br></div><div>【精選角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/9b6089474354df2eda136e9bb6883a9d.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,500</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>可使用的模式</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/48f0cf6b6186ad0c7fa467c24cc47eea2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/b8a3b3884cac48715702c5bf401cd8b22.png"><img src="https://dragalialost.akamaized.net/attached/information/images/26f43aab3c39a2bcdadd1b40dd88e7402.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>擁有罕見傑出才能的煉金術師，<br>甚至成功煉成了被認為不可能做出的<br>「異界之鑰」。父母遭軍方殺害而由妖精<br>撫養長大。雖然她希望能自由自在地生活，<br>世界卻不願放過那與生俱來的才能。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/775392a8a09a554df496b2a54960c3e62.png"></span>
+				<span>驅擎破發</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予目標光屬性傷害，使其陷入「閃熱」狀態。<br>【多重目標】技能可將複數敵人設為目標。<br>【煉金填充匣】的數量為1個以上時，<br>此技能效果轉換如下：<br>給予直線上敵人光屬性傷害，<br>使其陷入「閃熱」狀態。<br>消費1個【煉金填充匣】。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>煉金激化</span>
+			</dt>
+			<dd>
+				<div>
+					依蓄集的【煉金量條】數，<br>於20秒之間給予自身【煉金填充匣】。<br>此效果期間使用爆發攻擊將發射【正確之應】。<br>【正確之應】將消費所有的【煉金填充匣】，<br>依【煉金填充匣】數量增加命中次數。<br>此技能僅可於【煉金量條】蓄集1條以上時使用。<br>【煉金填充匣】的數量為1個以上時，<br>此技能效果轉換如下：<br>給予前方敵人光屬性傷害。<br>消費1個【煉金填充匣】。<br>技能習得時，追加【煉金量條】。<br>【煉金量條】在未獲得任何【煉金填充匣】時，<br>則於一般攻擊、迴避攻擊與爆發攻擊命中敵人時蓄集。<br>【煉金量條】在連擊數為30次以上時蓄集量上升。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>OVERDRIVE削減＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員狀態量條的減少量提升20。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】連擊：10連擊以上‧抗闇＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，<br>則連擊數為10次以上時，<br>發動【闇屬性抗性提升10％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3c27f8fc4d7206c65512f3f2c27c30762.png"></span><span>近似之應Ⅱ</span></dt><dd><div>滑動畫面進行迴避時，給予目標追加攻擊。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>尋答之應Ⅱ</span></dt><dd><div>陷入「毒」、「詛咒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>爆擊輸出Ⅱ</span></dt><dd><div>【煉金填充匣】增益效果若非隨時間經過而解除，<br>則給予自身【爆擊率於15秒之間上升30％】增益效果。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 附獎一覽和出現機率資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「附獎」進行確認。</div><div>3. 進行「10連召喚」或一次使用10張召喚券所獲得的道具重複時，同種道具將統一發送至獎勵箱的「無期限」項目中。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1601877600; update_time1601633176

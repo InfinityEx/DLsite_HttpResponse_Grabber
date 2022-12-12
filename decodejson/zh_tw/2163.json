@@ -1,0 +1,92 @@
+article_id:2163,category_name:公告,title_name:瑪納之環「第6層」解鎖角色追加！,image_path:,message:<div>各位玩家您好</div><div><br></div><div>遊戲中部分角色的瑪納之環，將於<span class="local_date" data-local_date="1620021600"></span>追加「第6層」。</div><div><br></div><div>本次追加的對象角色和其能力值詳細如下：</div><div>※解鎖本次對象角色瑪納之環第6層須要使用透過「強者的試煉」每日獎勵獲得的各角色專用道具。</div><div><br></div><div>■對象角色</div><div>★4 艾露（花漾笑顏Ver.）：水／法杖</div><div><br></div><div>■能力值介紹</div><div><br></div><div>&middot;★4角色</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/c68f939dbf68d2d1402404795700dfcb2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">艾露（花漾笑顏Ver.）</div><div class="cv">CV:藤村步</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/b447b332ae5b8139a67d676456ac9aac2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>940</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>542</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>3,162</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>治癒補給</span>
+			</dt>
+			<dd><div>回復我方全員HP，並持續回復。<br>此外，隊伍全員的防禦力與攻擊力上升。</div><div class="skill-detail">回復力：44<br>所需技能點數：7,888<br>特殊效果<br>‧攻擊力提升8％<br>　效果時間：60 秒<br>　不可重複<br>‧防禦力提升15％<br>　效果時間：10 秒<br>‧HP持續回復<br>　效果時間：15 秒<br>　效果間隔：2.9 秒<br>　效果量：35<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>聖潔香草</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>回復自身和周圍我方HP，並使其最大HP上升，<br>解除「昏厥」狀態。</div><div class="skill-detail">回復力：108<br>所需技能點數：11,832<br>所需共享技能點數：10,293<br>特殊效果<br>‧HP提升5％<br>‧昏厥狀態回復<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回復技能效果＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的回復技能效果提升20%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>【水】龍化：龍化累積＋18％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，<br>則龍化量條增加率提升18％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>奔馳於戰場的護理師</span></dt><dd><div>任務開始時技能量條提升100％。<br>此外，HP減少至30％以下時，<br>隊伍全員的技能蓄集25％（龍族技能除外）。<br>此效果每場任務最多可發動1次。<br>並且使用技能「治癒補給」時，<br>給予自身攻擊力提升氣場（爆發氣場上限Lv.2）。<br>此效果發動後，30秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f9540aa3b892c485f82bfd1ef78b1b72.png"></span><span>昏厥抗性‧改＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。<br>當受到帶有「昏厥」的攻擊時，<br>給予自身【10秒間，攻擊力提升15％】增益效果。<br>此效果發動後，15秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>團結一致‧技能累積Ⅱ</span></dt><dd><div>隊伍成員如果為2人以上，<br>則技能量條的增加率將依生存人數而提升。</div></dd></dl></div></div></div><div><br></div><div>■注意事項</div><div>1. 本公告內記載的角色能力值為「Lv.100、瑪納之環解放數70」時的能力值。</div><div>2. 能力值不包含因能力而變動的數值。</div><div>3. 本公告公開前的公告或介紹影片中所記載的上述角色能力值均為「Lv.80、瑪納之環解放數50」時的能力值。</div><div>4. 角色的技能等級提升後，設定成共享技能時技能量條的蓄集更為困難。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>,start_time:1619935200,update_time1619514352

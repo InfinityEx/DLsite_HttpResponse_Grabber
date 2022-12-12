@@ -1,0 +1,8 @@
+article_id:24
+category_name:活動
+title_name:「忠龍祈願故王的靈魂葬禮」平衡調整公告【10/06 19:30（UTC+8）】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>於<span class="local_date" data-local_date="1538632800"></span>舉辦的團體活動「忠龍祈願故王的靈魂葬禮」將實施部分平衡調整，詳細說明如下。</div><div><br></div><div>■實施日</div><div><span class="local_date" data-local_date="1538809200"></span></div><div><br></div><div>■調整內容</div><div>‧提升「費克洛斯大討伐戰 EX」的出現頻率。</div><div>‧增加「費克洛斯大討伐戰」 EX及高級中，可獲得的王金勳章數量。</div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div><br></div><div>【<span class="local_date" data-local_date="1538825400"></span>更新】<br>團體活動「忠龍祈願故王的靈魂葬禮」如同公告所述，已於<span class="local_date" data-local_date="1538809200"></span>實施部分平衡調整。<br><br>作為補償，將向於<span class="local_date" data-local_date="1538809200"></span>前完成「費克洛斯大討伐戰 EX」及「費克洛斯大討伐戰 高級」之玩家發送以下道具。<br>‧依照玩家完成的過關次數，發送其對應數量的王金勳章<br><br>※補償道具可透過「獎勵箱」領取。<br>※本次補償道具的領取期限至<span class="local_date" data-local_date="1540187999"></span>。<br><br>造成全體玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1538803800; update_time1540518931

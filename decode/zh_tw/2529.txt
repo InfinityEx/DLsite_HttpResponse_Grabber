@@ -1,0 +1,99 @@
+article_id:2529
+category_name:公告
+title_name:瑪納之環「第6層」解鎖角色追加！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>遊戲中部分角色的瑪納之環，將於<span class="local_date" data-local_date="1634104800"></span>追加「第6層」。</div><div><br></div><div>本次追加的對象角色和其能力值詳細如下：</div><div>※解鎖本次對象角色瑪納之環第6層須要使用透過「強者的試煉」每日獎勵獲得的各角色專用道具。</div><div><br></div><div>■對象角色</div><div>★5 葵（花嫁Ver.）：風／短劍</div><div><br></div><div>■能力值介紹</div><div><br></div><div>&middot;★5角色</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/35fd46c415bf1fa2611a4df1bee6a45b2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">葵（花嫁Ver.）</div><div class="cv">CV:上田麗奈</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>960</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>569</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>3,229</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2ef60e9ac871b2e176714b7eed8d3132.png"></span>
+				<span>花嫁忍術‧唐傘掃刃</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予前方敵人傷害，<br>使其陷入「睡眠」、「裂風」狀態。<br>攻擊時吸引敵人靠近。</div><div class="skill-detail">威力：324 × 4 Hit<br>威力：1,290 × 1 Hit<br>所需技能點數：2,401<br>所需共享技能點數：10,324<br>特殊效果<br>‧睡眠<br>　效果時間：7 秒<br>‧裂風<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd5464d0aeb6d41964c19ee25f922b922.png"></span>
+				<span>花嫁忍術‧狐傘迎親</span>
+			</dt>
+			<dd><div>給予前方敵人傷害，回復我方全員HP。<br>對陷入「睡眠」狀態的敵人傷害上升。</div><div class="skill-detail">威力：701 × 5 Hit<br>回復力：30<br>所需技能點數：4,400<br>針對特定狀態的傷害倍率<br>‧睡眠：200％<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>爆擊率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的爆擊率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>【風】連擊：10連擊以上‧抗水＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為風屬性，<br>則連擊數為10次以上時，<br>發動【水屬性抗性提升10％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c38a382f5efa7c15de586ca118ff839f2.png"></span><span>新娘忍者</span></dt><dd><div>給予「睡眠」或「裂風」<br>狀態中的敵方傷害各提升10％。此外，<br>自身使敵方陷入睡眠狀態時，給予隊伍全員<br>【10秒間，攻擊力提升15％】增益效果。<br>增益效果發動後，5秒間不會再次發動。<br>並且，使用技能「花嫁忍術‧狐傘迎親」時，<br>給予自身防禦力提升氣場（爆發氣場上限Lv.2）。<br>氣場效果發動後，30秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dfbbb18cd6a812083fd505b275d3a42a2.png"></span><span>凍結抗性‧改＋100％</span></dt><dd><div>陷入「凍結」狀態機率下降100％。<br>當受到帶有「凍結」的攻擊時，<br>給予自身【10秒間，攻擊力提升15％】增益效果。<br>增益效果發動後，15秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>技能累積‧強擊＋15％</span></dt><dd><div>爆發攻擊命中時，<br>技能量條的增加率提升15％。</div></dd></dl></div></div></div><div><br></div><div>■注意事項</div><div>1. 本公告內記載的角色能力值為「Lv.100、瑪納之環解放數70」時的能力值。</div><div>2. 能力值不包含因能力而變動的數值。</div><div>3. 本公告公開前的公告或介紹影片中所記載的上述角色能力值均為「Lv.80、瑪納之環解放數50」時的能力值。</div><div>4. 角色的技能等級提升後，設定成共享技能時技能量條的蓄集更為困難。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1634018400; update_time1633663133

@@ -1,0 +1,8 @@
+article_id:1844
+category_name:公告
+title_name:版本2.3.0更新「阿爾貝利亞競技大亂鬥」調整公告
+image_path:
+
+message:<div>■追加角色和武器的外觀變更功能</div><div>版本2.3.0更新後，將會追加能夠變更角色和武器外觀的功能。</div><div>在活動頁面的「角色設定」對已成為夥伴的角色使用「造型交換券」即可解鎖該角色造型，並可設定成出擊角色的外觀。</div><div>※「造型交換券」可透過2021年1月月間競技點數獎勵獲得。</div><div>※版本2.2.0時交換所中的角色造型，今後也只能透過交換所獲得。</div><div>※部分角色無法解鎖角色造型。</div><div><br></div><div>另外，在活動頁面的「角色設定」中，將可把持有的武器造型設定為武器外觀。</div><div>※未解鎖武器造型的武器則無法進行設定。</div><div><br></div><div>■追加能力道具</div><div>追加可於地圖中獲得的道具「能力道具」，角色獲得「能力道具」後將可發動該能力效果。</div><div>能力道具並無持有上限，雖然可獲得複數能力，但相同的能力效果無法疊加。</div><div>※各能力詳情請參考活動內「遊戲方式」內容。</div><div><br></div><div>■追加火山地圖</div><div>版本2.3.0更新後，部分地圖將變更為火山區域，隨著時間經過整張地圖將會降下火球。</div><div>可從落下的火球中獲得新技能道具和能力道具。</div><div>※各技能和機關詳情請參考活動內「遊戲方式」內容。</div><div><br></div><div>■年末年初舉辦日程變更</div><div>「阿爾貝利亞競技大亂鬥」將於以下期間隨時開放。</div><div><span class="local_date" data-local_date="1608703200"></span> ～ <span class="local_date" data-local_date="1609912799"></span></div><div>※<span class="local_date" data-local_date="1609912800"></span>起，將於<span class="local_weekly_time" data-local_date="1670997600"></span> ～ <span class="local_weekly_time" data-local_date="1671170340"></span>舉辦。</div><div><br></div><div>■異常現象修正</div><div>交換所中的「［造型］慕慕」名稱將於<span class="local_date" data-local_date="1608530400"></span>左右實施的資料更新中修正為「［造型］慕慕（龍絆日Ver.）」。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1608012000; update_time1607931712

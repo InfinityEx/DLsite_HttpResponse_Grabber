@@ -1,0 +1,8 @@
+article_id:2759
+category_name:公告
+title_name:道具召喚發生錯誤時，選擇「重試」後會再次進行道具召喚之異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，<span class="local_date" data-local_date="1640930820"></span> ～ <span class="local_date" data-local_date="1640932320"></span>左右期間，以及<span class="local_date" data-local_date="1641017100"></span> ～ <span class="local_date" data-local_date="1641017940"></span>左右期間，於「商店」的「育成道具‧組合包」進行道具召喚時會出現「與伺服器連線失敗。」訊息，此時選擇「重試」後會異常再次進行道具召喚。</div><div><br></div><div>異常再次進行的道具召喚，可能不會正常顯示道具召喚演出，但會正常獲得該次召喚所得到的道具。</div><div><br></div><div>本現象目前已排除。</div><div><br></div><div>作為本異常現象之補償，營運團隊將會依序發送異常再次進行道具召喚中所消費的龍輝晶石，給在本現象發生期間曾異常再次進行道具召喚的各位玩家。</div><div><br></div><div>補償道具請至「獎勵箱」領取。</div><div><br></div><div>■補償對象</div><div><span class="local_date" data-local_date="1640930820"></span> ～ <span class="local_date" data-local_date="1640932320"></span>左右期間，以及<span class="local_date" data-local_date="1641017100"></span> ～ <span class="local_date" data-local_date="1641017940"></span>左右期間選擇「重試」後異常再次進行道具召喚的玩家。</div><div><br></div><div>造成各位玩家的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1641880800; update_time1641865789

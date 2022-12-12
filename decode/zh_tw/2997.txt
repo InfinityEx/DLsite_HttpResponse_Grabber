@@ -1,0 +1,8 @@
+article_id:2997
+category_name:公告
+title_name:商店內的道具交換數量更新公告
+image_path:
+
+message:<div><span style="color: rgb(44, 130, 201);"><strong>【<span class="local_date" data-local_date="1662105600"></span>更新】</strong></span></div><div>本公告中因刊載了部分無法購入之道具，故已刪除相關內容。</div><div><br></div><div>造成各位玩家的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div><hr><div>各位玩家您好<br><br>商店內道具的交換數量已於<span class="local_date" data-local_date="1662012000"></span>更新！<br>交換數量已達上限的玩家可重新交換。<br><br><strong>■星宿解放團體戰交換所</strong><br>完成「星宿解放團體戰」後所獲得的「星宿之石」，可在交換所交換各式各樣的獎勵。<br>星宿解放團體戰交換所請從主頁面的「商店」＞「交換所」＞「星宿解放團體戰」進行確認。<br>※關於可獲得「星宿之石」的任務詳細，請至「星宿解放團體戰」點擊放大鏡圖示，並由任務詳細頁面內顯示的掉落獎勵一覽進行確認。<br><br><strong>■虛空之影討伐戰交換所</strong><br>討伐虛空之影後獲得的素材道具，可以在交換所交換各式各樣的獎勵。<br>虛空之影討伐戰交換所請從主頁面的「商店」＞「交換所」＞「虛空之影討伐戰」進行確認。<br>※部分獎勵的交換數量限制不會重置。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1662012000; update_time1662108301

@@ -1,0 +1,8 @@
+article_id:237
+category_name:活動
+title_name:劇情活動「情人節‧精巧甜品」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>劇情活動「情人節‧精巧甜品」即將於<span class="local_date" data-local_date="1550124000"></span>開始舉辦。</div><div><br></div><div>劇情活動「情人節‧精巧甜品」為全新內容的活動。</div><div>透過完成主線任務和各個活動收集的道具，可解放情人節的特別劇情。</div><div>快來體驗各角色的限定故事吧！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/2f13c3bf8eb1ac3b413c4b86ef246e3f.png"></div><div>情人節快樂！</div><div>將心意傳達給重要之人的日子終於到來。</div><div>打倒魔獸收集道具，就能與聖城的夥伴一起創造美好回憶！？</div><div>你所選擇的，是嚴格的她？還是多情的他？意料之外的對象也將登場！</div><div>要如何細細品嘗到最後都取決於你。</div><div>請盡情享受比平時更加甜蜜＆融化你心的時刻吧！</div><div><br></div><div>敬請期待劇情活動「情人節‧精巧甜品」！</div><div><br></div><div>■注意事項</div><div>1. 如要參加活動任務，需完成主線劇情第2章 2-1（Normal）。</div><div>2. 如要參加團隊遊戲，需完成主線劇情第2章 2-1（Normal）。</div><div>3. 舉辦期間和內容，可能會在無預先告知下進行變更。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1549605600; update_time1550125060

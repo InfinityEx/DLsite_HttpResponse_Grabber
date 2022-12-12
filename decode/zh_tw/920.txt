@@ -1,0 +1,8 @@
+article_id:920
+category_name:公告
+title_name:活動任務「被操縱的耶夢加得」異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，在活動「洛克人　異世界之決戰！！」任務「被操縱的耶夢加得」中，</div><div>發生在特定條件下「耶夢加得」會移動到地圖之外，導致任務無法正常繼續進行的異常現象。</div><div><br></div><div>本異常現象預計將於<span class="local_date" data-local_date="1575610200"></span>左右實施的資料更新中進行修正。</div><div>修正完畢後將於本公告通知。</div><div><br></div><div>造成各位玩家的不便與困擾，在此致上最深的歉意。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1575612900"></span>更新】</strong></span><br>本異常現象已於<span class="local_date" data-local_date="1575610200"></span>左右實施的資料更新中修正完畢。<br><br>造成各位玩家的不便與困擾，再次致上最深的歉意。</div>
+
+start_time:1575454500; update_time1575613014

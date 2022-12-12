@@ -1,0 +1,8 @@
+article_id:57
+category_name:公告
+title_name:活動任務「炎吼的遺跡」已確認異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，目前活動任務「炎吼的遺跡」中出現了以下異常現象。</div><div><br></div><div>■異常現象內容</div><div>‧完成任務中的所有Mission後，仍有可能無法使用Skip券。</div><div>‧已破關的任務仍會顯示「NEW」圖示</div><div>※請注意，即使完成因為系統異常而顯示「NEW」圖示的任務，也無法再度獲得已領取的「任務Mission獎勵」和「首次過關獎勵」。</div><div>‧已達成的任務Mission，可能未顯示成已達成。</div><div><br></div><div>此外，已領取的「任務Mission獎勵」和「首次過關獎勵」不會再次發送。</div><div><br></div><div>■解決方法</div><div>重新啟動遊戲即可恢復正常狀態。</div><div><br></div><div>成全體玩家的不便，營運團隊在此致上最深的歉意。</div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div><br></div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1540549800; update_time1542363705

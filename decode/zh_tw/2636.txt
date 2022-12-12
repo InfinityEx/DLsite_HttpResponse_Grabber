@@ -1,0 +1,198 @@
+article_id:2636
+category_name:公告
+title_name:「失落龍絆日」舉辦公告【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1638163200"></span>更新】</strong></span><br>將★5角色「涅因（星龍祭Ver.）」的技能「旋風啟示錄」設為共享技能時會出現以下效果。<br><br>所需共享技能點數：7,500<br>額度：4<br>給予目標傷害，使其陷入「裂風」狀態。<br><br>※原有技能與共享技能的部分效果可能有差異。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div><hr><div>各位玩家您好</div><div><br></div><div>「失落龍絆日」預計將於<span class="local_date" data-local_date="1638165600"></span>起開始舉辦。</div><div><br></div><div>【關於失落龍絆日】※包含「失落龍絆日　非凡佳選」</div><div>期間限定角色將於失落龍絆日登場。</div><div>此外，★5角色、龍族的初始「出現機率」，將由平時的4％上升至6％！</div><div>※如召喚出★5或★5精選，出現機率將會變回初始設定值6％。</div><div><span style="color: rgb(226, 80, 65);">※本次新追加的★5角色「涅因（星龍祭Ver.）」，在預計<span class="local_date" data-local_date="1638511200"></span>～ <span class="local_date" data-local_date="1639547999"></span>舉辦的「附獎傳說召喚」中也會登場，但並非精選對象。</span></div><div><br></div><div>【新追加的精選對象之角色】</div><div>■角色</div><div>★5 葛托夫（龍絆日Ver.）：火／斧</div><div><br></div><div>【新追加的期間限定精選對象之角色】</div><div>■角色</div><div>★5 涅因（星龍祭Ver.）：風／短劍</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※「龍輝之印」僅可於獲得該「龍輝之印」的召喚中消費。在本次「失落龍絆日」中所獲得的「龍輝之印」，無法在預計<span class="local_date" data-local_date="1638511200"></span>～<span class="local_date" data-local_date="1639547999"></span>舉辦的「附獎傳說召喚」中消費。</span></div><div><br></div><div>【失落龍絆日舉辦期間】</div><div><span class="local_date" data-local_date="1638165600"></span> ～ <span class="local_date" data-local_date="1638511199"></span></div><div><br></div><div>精選對象之角色介紹如下：</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a4de54ca57d5c0496e90a03558731d25.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>742</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>於聖都葛拉姆斯擔任自警團團長的男子。<br>以別稱「閃狼葛托夫」而受人畏懼的前傭兵，<br>同時也與安羅拉斯王是舊識。在葛拉姆斯<br>關照著生活艱難與無依無靠的人們，<br>兼具溫柔與強大。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/db70276619a06b302ebcc35f1ecf47682.png"></span>
+				<span>蓄能之刃</span>
+			</dt>
+			<dd><div>【斧牙剛進】狀態<br>自身的二刀流量條蓄集100％。<br><br>【劍爪亂舞】狀態<br>‧技能轉換成「赤紅閃擊」，效果如下：<br>給予直線上敵人傷害，使其陷入「劫火」狀態。<br>‧此技能若在技能「迅藍突襲」使用後立即發動，<br>則技能轉換成「雙重烈焰」，效果如下：<br>給予直線上敵人傷害，使其陷入「劫火」狀態，<br>並給予其【防禦力下降】效果。</div><div class="skill-detail">（斧牙剛進）<br>所需技能點數：10,450<br><br>（劍爪亂舞）<br>威力：405 × 4 Hit<br>所需技能點數：2,240<br>特殊效果<br>‧劫火<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41.6<br><br>（變化後）<br>威力：584 × 4 Hit<br>所需技能點數：2,240<br>特殊效果<br>‧防禦力下降5％<br>　效果時間：10 秒<br>　效果量：5％<br>　不可重複<br>‧劫火<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41.6</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b8bc4d0fe334e827bb7fae18c5ca21d62.png"></span>
+				<span>反擊烈牙</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>【斧牙剛進】狀態<br>‧於一定時間內擺出架式，<br>期間內給予自身【傷害減少】效果，<br>並且不會因為被攻擊而行動中斷。<br>‧若於擺出架式時受到攻擊（部分攻擊除外），<br>則給予周圍敵人傷害，解除其1個增益效果，<br>並可即時發動技能「蓄能之刃」。<br>此技能不受到【超活力】效果影響，<br>並且回復使用技能時所受到的傷害50％份量的HP。<br>‧若於擺出架式時未受到攻擊，<br>則可再次發動此技能。<br><br>【劍爪亂舞】狀態<br>‧技能轉換成「迅藍突襲」，效果如下：<br>給予周圍敵人傷害，並解除其1個增益效果。<br>‧此技能若在技能「赤紅閃擊」使用後立即發動，<br>則技能轉換成「倍力破壞」，效果如下：<br>給予周圍敵人傷害，並解除其1個增益效果。</div><div class="skill-detail">（斧牙剛進）<br>威力：418 × 6 Hit<br>所需技能點數：3,120<br>特殊效果<br>‧增益效果解除<br>‧傷害減少50％<br>　不可重複<br><br>（劍爪亂舞）<br>威力：254 × 7 Hit<br>所需技能點數：2,240<br>特殊效果<br>‧增益效果解除<br><br>（變化後）<br>威力：421 × 8 Hit<br>所需技能點數：2,240<br>所需共享技能點數：12,544<br>特殊效果<br>‧增益效果解除</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d78aff22949d45baac014f570ce39bcd2.png"></span>
+				<span>HP＋10％＆防禦力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的HP提升10％，防禦力提升10％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【火】迴避：攻擊迴避‧攻＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為火屬性，<br>則迴避攻擊時，發動【15秒間，<br>攻擊力提升10％】增益效果。<br>此效果發動後，15秒間不會再次發動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cbd90a2cfa2d4d09289458f70c6714262.png"></span><span>二刀訣竅Ⅱ</span></dt><dd><div>①任務開始時，進入【斧牙剛進】狀態，<br>可即時發動技能2。<br>②追加二刀流量條。當二刀流量條蓄滿時，<br>轉換成【劍爪亂舞】狀態。<br>二刀流量條將隨時間經過而減少，<br>至歸零前可獲得以下效果。<br>‧【劍爪亂舞】狀態時，<br>可即時發動技能1與技能2。<br>‧給予自身【反應動作無效】增益效果。<br>‧爆發攻擊發生變化，轉換成給予周圍敵人傷害。<br>‧一般攻擊與技能1、技能2發生變化。<br>‧二刀流量條歸零時解除【劍爪亂舞】狀態，<br>使技能1與技能2的量條歸零，<br>並恢復成【斧牙剛進】狀態。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea4c47784ca6465117276eb2a3d9a0d92.png"></span><span>不撓精神Ⅱ</span></dt><dd><div>陷入「昏厥」、「睡眠」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/370c33c0e68c950bdaa4ced8721cad5f2.png"></span><span>王護決心Ⅱ</span></dt><dd><div>‧每次使用技能1時，<br>給予自身防禦力提升氣場（爆發氣場上限Lv.3）。<br>此效果發動後，20秒間不會再次發動。<br>‧若於【劍爪亂舞】狀態下<br>以一般攻擊進行第7段連擊時，<br>下次使用的技能「雙重烈焰」或<br>技能「倍力破壞」威力提升15％。<br>此效果無法重複。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e6cc83cd831f6f8106469a66066f6849.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>760</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>499</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>北方伊利亞教會所屬的「使徒」之一。<br>對平時態度散漫的他而言，<br>冬季的嚴寒是盡可能想避開的大麻煩。<br>為了前往星龍祭發祥地的深雪城鎮出任務，<br>於是換上專門訂製的保暖服裝。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6d249a0d03fce6004975e0e34cfc65532.png"></span>
+				<span>流星短刀</span>
+			</dt>
+			<dd><div>一般型態<br>召喚出【銀翼之劍】。<br>【銀翼之劍】召喚中，<br>【銀翼之劍】將會自動進行攻擊。<br>【銀翼之劍】的攻擊不算在一般攻擊之內。<br><br>【聖痕之枷解放】狀態<br>所有的【銀翼之劍】返回自身周圍。<br>返回自身周圍的【銀翼之劍】將會自動進行攻擊。<br>【銀翼之劍】的攻擊不算在一般攻擊之內。</div><div class="skill-detail">所需技能點數：4,800<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9b1277f43913e98993a2da636a9775512.png"></span>
+				<span>旋風啟示錄</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>一般型態<br>給予目標傷害，使其陷入「裂風」狀態，<br>並給予自身攻擊力提升氣場。<br><br>【聖痕之枷解放】狀態<br>給予目標傷害，使其陷入「裂風」狀態，<br>並給予自身攻擊力提升氣場。<br>此外，敵人被賦予【銀翼之劍】減益效果時，<br>依【銀翼之劍】數量給予其追加傷害。<br>此外，所有的【銀翼之劍】返回自身周圍。<br>返回自身周圍的【銀翼之劍】將會自動進行攻擊。<br>【銀翼之劍】的攻擊不算在一般攻擊之內。</div><div class="skill-detail">威力：1,620 × 1 Hit<br>所需技能點數：7,500<br>所需共享技能點數：7,500<br>特殊效果<br>‧裂風<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：31<br>獲得氣場<br>‧攻擊力提升（爆發氣場上限Lv. 3）<br><br>（能力效果發動時）<br>威力：1,800 × 1 Hit<br>追加傷害<br>威力：500 × 1 Hit<br>所需技能點數：7,500<br>特殊效果<br>‧裂風<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：31<br>獲得氣場<br>‧攻擊力提升（爆發氣場上限Lv. 3）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>爆擊率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的爆擊率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>【風】裂風：裂風觸發‧抗水＋8％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為風屬性，<br>則自身使敵方陷入裂風狀態時，<br>發動【15秒間，水屬性抗性提升8％】增益效果。<br>此效果發動後，10秒間不會再次發動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7aa128324b79aa9ac1988efd5f431d8e2.png"></span><span>雷米爾的聖鐘Ⅱ</span></dt><dd><div>一般型態<br>‧任務開始時，給予自身<br>【300秒間，聖痕之枷】減益效果。<br>‧「流星短刀」技能量條獲得量及技能蓄集效果<br>減少80％。<br>‧發動技能「流星短刀」時，<br>解除【聖痕之枷】效果。<br><br>【聖痕之枷解放】狀態<br>‧召喚出【銀翼之劍】。【銀翼之劍】召喚中，<br>【銀翼之劍】將會自動進行攻擊。<br>【銀翼之劍】的攻擊不算在一般攻擊之內。<br>‧爆發攻擊時賦予敵人「裂風」狀態，<br>將周圍的【銀翼之劍】轉換成<br>依蓄集階段數朝前方投出。<br>‧以爆發攻擊投出的【銀翼之劍】命中敵方時，<br>給予該敵方【裂風抗性下降，<br>並受到持續傷害】減益效果。<br>此效果最大可疊加4次。<br>‧敵人被賦予上述減益效果期間，<br>【銀翼之劍】不會自動進行攻擊。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span><span>濕身抗性＋100％</span></dt><dd><div>陷入「濕身」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f107584de3ec90b9c32f061bdd138512.png"></span><span>賦予裂風狀態機率＋40％</span></dt><dd><div>賦予敵人「裂風」狀態機率提升40％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 精選對象角色在「阿爾貝利亞競技大亂鬥」中可改變角色外觀的「角色造型」將轉為SALE中，並減少解鎖時所需的道具。</div><div>※有部分角色無法解鎖角色造型。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1638079200; update_time1638165755

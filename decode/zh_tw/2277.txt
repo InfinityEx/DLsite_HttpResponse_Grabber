@@ -1,0 +1,8 @@
+article_id:2277
+category_name:活動
+title_name:設施活動「傳自深海的鐘聲」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/1338f76a2e3097ba1e20968ca055fb1f.png
+
+message:<div>各位玩家您好<br><br>設施活動「傳自深海的鐘聲」預計將於<span class="local_date" data-local_date="1624946400"></span>開始舉辦。<br>本活動可挑戰光屬性的BOSS，並建造活動限定的獎勵設施。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/1338f76a2e3097ba1e20968ca055fb1f.png"></div><div>■活動期間<br><span class="local_date" data-local_date="1624946400"></span> ～ <span class="local_date" data-local_date="1626069599"></span><br><br>■注意事項<br>1. 若要參加活動任務，須完成主線劇情第2章 2-1（Normal）。<br>2. 若要參加團隊遊戲，須完成主線劇情第2章 2-1（Normal）。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1624428000; update_time1624262623

@@ -1,0 +1,8 @@
+article_id:627
+category_name:公告
+title_name:夏日限定組合包第1彈！「夏日限定 龍族強化組合包」和「夏日限定 水屬性角色育成組合包」販售中！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>夏日限定組合包第一彈「夏日限定 龍族強化組合包」和「夏日限定 水屬性角色育成組合包」，</div><div>已從<span class="local_date" data-local_date="1564552800"></span>起於商店內「特別超值包」中開始販售！</div><div><br></div><div>各組合包的詳細內容如下：</div><div><br></div><div>■夏日限定 龍族強化組合包</div><div>包含可用來強化龍族的道具以及龍光鑽石的組合包。</div><div>‧龍光鑽石 1230個（龍光鑽石1200個+30個額外贈禮）<br>‧金剛晶 1個<br>‧熟透的龍果 50個</div><div><br></div><div>■夏日限定 水屬性角色育成組合包</div><div>包含可於水屬性角色的瑪納之環中解鎖瑪納結晶的育成道具，以及龍光鑽石的組合包。</div><div>‧龍光鑽石 2400個（龍光鑽石1920個+480個額外贈禮）<br>‧瑪納 200000個<br>‧英雄之證 3個<br>‧騎士之證 6個<br>‧水之寶珠 210個<br>‧水流寶珠 70個<br>‧蒼海寶珠 30個<br>‧青龍之鱗 150個<br>‧青龍流鱗 50個</div><div><br></div><div>■注意事項</div><div>各道具的價格和詳細，請從主頁面進入「商店」，點選「特別超值包」頁面進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1564552800; update_time1563878883

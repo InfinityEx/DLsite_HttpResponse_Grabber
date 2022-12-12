@@ -1,0 +1,8 @@
+article_id:578
+category_name:公告
+title_name:「夏思特」技能發動時語音變更公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>從版本1.9.0起，角色「夏思特」發動技能「冽風之槍」時的日文語音已進行變更。</div><div>※僅變更台詞，「夏思特」的聲優不變。</div><div><br></div><div>未能於變更前事先告知各位玩家，營運團隊在此致上最深的歉意。</div>
+
+start_time:1562565600; update_time1562555885

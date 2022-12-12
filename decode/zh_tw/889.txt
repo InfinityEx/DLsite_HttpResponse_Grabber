@@ -1,0 +1,30 @@
+article_id:889
+category_name:公告
+title_name:「龍輝護符交換所」追加新龍輝護符公告
+image_path:
+
+message:<div><span style="color: rgb(0, 0, 0);">各位玩家您好</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span class="local_date" data-local_date="1575266400"></span> <span style="color: rgb(0, 0, 0);">開始，「龍輝護符交換所」中已追加新的龍輝護符。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">追加的龍輝護符，可於「龍輝護符交換所」中的「精選」項目或各「稀有度」項目中交換。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);"><strong>【新追加龍輝護符介紹】</strong></span></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/5d07d23f7be709d2f11d8ca8250bb6632.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">哮天夜狼</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>爆擊傷害＋20％&nbsp;（Max25％）</span></dt><dd><div>爆擊時的傷害倍率提升20％。&nbsp;（Max25％）</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>【闇】疾風怒濤‧爆擊＋12％&nbsp;（Max15％）</span></dt><dd><div>裝備角色如果為闇屬性，<br>則連擊數為15次以上時，<br>攻擊時發生爆擊的機率提升12％。&nbsp;（Max15％）</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/9506a797529ee30c7506494b76f778bf2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">毛茸茸樂園</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>凍結抗性＋75％&nbsp;（Max100％）</span></dt><dd><div>陷入「凍結」狀態機率下降75％。&nbsp;（Max100％）</div></dd></dl></div></div></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">※以上為上限全數解放的能力值，並非獲得時的能力值。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">【精選期間】</span></div><div><span class="local_date" data-local_date="1575266400"></span> ～ <span class="local_date" data-local_date="1576130399"></span></div><div><br></div><div><span style="color: rgb(184, 49, 47);">※本次追加的龍輝護符，於精選期間結束後仍可至各「稀有度」項目中交換。</span></div><div><br></div><div><span style="color: rgb(0, 0, 0);">【注意事項】</span></div><div><span style="color: rgb(0, 0, 0);">本公告中未記載的其他資訊，請於「主頁面」＞「商店」＞「龍輝護符交換所」進行確認。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</span></div><div><span style="color: rgb(0, 0, 0);">Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</span></div>
+
+start_time:1575266400; update_time1574831880

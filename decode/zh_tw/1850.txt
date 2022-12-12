@@ -1,0 +1,8 @@
+article_id:1850
+category_name:活動
+title_name:設施活動【復刻】「食宴！饗趣美味廚藝巔峰戰」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/801c1f98bd01278c8dd01ce4398ee9e0.png
+
+message:<div>各位玩家您好</div><div><br></div><div>設施活動【復刻】「食宴！饗趣美味廚藝巔峰戰」預計將從<span class="local_date" data-local_date="1608530400"></span>起開始舉辦。</div><div>本活動可挑戰火屬性的BOSS，並建造活動限定的獎勵設施。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/801c1f98bd01278c8dd01ce4398ee9e0.png"></div><div>決定誰是世界第一廚師的大賽「饗趣美味廚藝巔峰戰」。</div><div>聚集至此的皆是頂尖廚師，以及期待至高無上料理的饕客。</div><div>還有餓肚子的龍族，以及會動的蔬菜&hellip;&hellip;!?</div><div>個性豐富的成員齊聚一堂，為美食饗宴揭開序幕！</div><div><br></div><div>■活動期間</div><div><span class="local_date" data-local_date="1608530400"></span> ～ <span class="local_date" data-local_date="1609394399"></span></div><div><br></div><div>■注意事項</div><div>1. 若要參加活動任務，需完成主線劇情第2章 2-1（Normal）。</div><div>2. 若要參加團隊遊戲，需完成主線劇情第2章 2-1（Normal）。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1608271200; update_time1608112118

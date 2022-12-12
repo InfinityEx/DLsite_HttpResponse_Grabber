@@ -1,0 +1,8 @@
+article_id:1815
+category_name:公告
+title_name:贈送「龍輝晶石1,200個」好禮！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>感謝玩家們對活動「超異域公主連結！Re:Dive新的友情與異世界料理」的熱情支持與鼓勵，營運團隊將依序發送下列好禮給各位玩家！</div><div><br></div><div>■禮物內容</div><div>龍輝晶石 1,200個</div><div><br></div><div>領取期限為發送至「獎勵箱」後7天以內。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1607148000; update_time1606891797

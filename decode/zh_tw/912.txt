@@ -1,0 +1,8 @@
+article_id:912
+category_name:公告
+title_name:顯示「用戶資訊錯誤」導致無法登入的異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>從<span class="local_date" data-local_date="1574917200"></span>開始進行的遊戲維護結束後至<span class="local_date" data-local_date="1574927760"></span>期間，</div><div>部分玩家在進入遊戲時會顯示「用戶資訊錯誤」，導致無法正常登入遊戲。</div><div><br></div><div>上述異常現象現在已經解除。</div><div>做為補償，營運團隊將會依序發送以下道具給於發生上述異常現象的對象玩家。</div><div><br></div><div>‧頂級蜂蜜&times;1<br>‧靈鳥之聖灰&times;1</div><div><br></div><div>領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>造成各位玩家的不便與困擾，在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1574996400; update_time1574996972

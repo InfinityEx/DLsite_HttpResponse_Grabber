@@ -1,0 +1,249 @@
+article_id:3031
+category_name:公告
+title_name:「失落龍絆日」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「失落龍絆日」已於<span class="local_date" data-local_date="1661752800"></span>起舉辦中！</div><div><br></div><div>【關於失落龍絆日】※包含「失落龍絆日　非凡佳選」</div><div>★5角色、龍族的初始「出現機率」，將由平時的4％上升至6％！</div><div>※如召喚出★5或★5精選，出現機率將會變回初始設定值6％。</div><div><span style="color: rgb(226, 80, 65);">※同時舉辦的「傳說萬選召喚」不包含「龍絆日Ver.」角色。</span></div><div><br></div><div>【精選對象之角色‧龍族】</div><div>■角色</div><div>★5 馬斯科拉（龍絆日Ver.）：水／刀</div><div>★5 耶魯菲莉絲（龍絆日Ver.）：水／斧</div><div><br></div><div>■龍族</div><div>★5 獸化雪爾希爾（龍絆日Ver.）：水</div><div><br></div><div>【失落龍絆日出現機率】</div><div>★5合計：6.00％</div><div>★5精選 合計：1.80％（角色：1.00％ 龍族：0.80％）</div><div>★5一般 合計：4.20％（角色：2.00％ 龍族：2.20％）</div><div>★4一般 合計：16.00％（角色：8.55％ 龍族：7.45％）</div><div>★3一般 合計：78.00％（角色：47.00％ 龍族：31.00％）</div><div><br></div><div>【失落龍絆日舉辦期間】</div><div><span class="local_date" data-local_date="1661752800"></span> ～ <span class="local_date" data-local_date="1662098399"></span></div><div><br></div><div>精選對象之角色‧龍族介紹如下：</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/acf5cb7bf112670cedadef84c6daf50b.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>743</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>重新取回了失去軀體的馬斯科拉。<br>他以存在拉契希內部的思考回路「心」<br>對修復後的軀體進行遠距操控。<br>雖然他決心要盡自己所能戰鬥，<br>卻經常會在戰鬥後露出宛如流淚般的神情。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e4c4b6c2cda86984ab5b0997b4b26db62.png"></span>
+				<span>code: 03 增強發電</span>
+			</dt>
+			<dd><div>給予自身【反應動作無效】與【盾】。<br>自身在【全域存取】狀態時，<br>此技能轉換成「code: 08 執行」，效果如下：<br>給予自身【反應動作無效】、【盾】、<br>以及【反位效應】。<br>【反位效應】效果期間中可強化一般攻擊，<br>並增加攻擊命中次數。</div><div class="skill-detail">所需技能點數：3,840<br>特殊效果<br>‧反應動作無效<br>　效果時間：15 秒<br>‧盾<br>　效果次數：1<br>　效果量：最大HP的30％<br><br>（變化後）<br>所需技能點數：3,840<br>特殊效果<br>‧反應動作無效<br>　效果時間：15 秒<br>‧盾<br>　效果次數：1<br>　效果量：最大HP的30％<br>‧反位效應<br>　效果時間：11 秒<br>　不可重複<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e6227bb278c077fe5ca2ed4db4bd6ce42.png"></span>
+				<span>code: 36 冷卻循環</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予自身【全域存取】。<br>自身在【全域存取】狀態時，<br>此技能轉換成「code: 06 終結」，效果如下：<br>解除周圍敵人1個增益效果，並給予其傷害。</div><div class="skill-detail">所需技能點數：5,570<br>特殊效果<br>‧全域存取<br>　效果時間：26 秒<br><br>（變化後）<br>威力：489 × 6 Hit<br>所需技能點數：2,830<br>所需共享技能點數：16,668<br>特殊效果<br>‧增益效果解除<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻擊力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的攻擊力提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span>
+				<span>【水】連擊：連擊‧技能增益效果時間＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，<br>則連擊數為10次以上時，<br>使用的技能增益效果持續時間提升15％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>加速器Ⅱ</span></dt><dd><div>①每次使用技能1時，<br>給予自身攻擊力提升氣場（爆發氣場上限Lv.3）。<br>此效果發動後，20秒間不會再次發動。<br>②自身在【全域存取】狀態時，獲得以下效果。<br>‧強化一般攻擊。攻擊時對複數敵人進行追擊。<br>‧給予第4段一般攻擊【解除敵方1個增益效果】。<br>‧攻擊速度提升6％。<br>‧若連擊數為30次以上時，<br>攻擊力提升10％、爆擊率提升8％、<br>爆擊時的傷害倍率提升8％。<br>‧龍化時，解除【全域存取】。<br>③【全域存取】解除時，技能2蓄集50％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f3503b7c11dab7e6111611cb63f010c32.png"></span><span>魔動機構Ⅱ</span></dt><dd><div>陷入「火燒」、「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5928d08635cbad73278c1391505a73392.png"></span><span>臨界驅動Ⅱ</span></dt><dd><div>每連擊15次時，發動【爆擊率提升4％】增益效果，最大可疊加3次。<br>此外，每當攻擊時發生爆擊，獲得【爆擊時的傷害倍率提升4％】增益效果，最大可疊加10次，但此效果發動後，1秒間不會再次發動。<br>連擊數重置時，解除此能力賦予的所有增益效果。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※原有技能與共享技能的部分效果可能有差異。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2f949c780d21ab774fe65bf95bf86a5e.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>516</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>當上首席聖騎士「聖天騎士」的耶魯菲莉絲。<br>其為聖騎職的典範，而她同時也是<br>伊利亞教有史以來最年少登上此座者。<br>換上由聖職者們花費數月傾注祝福的純白鎧甲，<br>耶魯菲莉絲毅然地挺身面對神之敵。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>神聖決策</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>隊伍內所有水屬性角色的攻擊力上升。</div><div class="skill-detail">所需技能點數：4,377<br>所需共享技能點數：15,360<br>特殊效果<br>‧攻擊力提升30％<br>　效果時間：15 秒</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>聖天高揚</span>
+			</dt>
+			<dd><div>給予前方敵人傷害，使自身的【活力】提升。<br>此外，隊伍全員的火屬性抗性上升，<br>並獲得【盾】效果。<br>如果自身為【聖天啟示】狀態時，<br>則此技能將隨時間經過而蓄集。<br>一般型態時，<br>若此技能量條並非100％，<br>則此技能將隨時間經過而技能量條減少。</div><div class="skill-detail">威力：1,343.1 × 3 Hit<br>所需技能點數：隨時間經過而蓄集<br>特殊效果<br>‧盾<br>　效果次數：1<br>　效果量：最大HP的20％<br>‧火屬性抗性提升25％<br>　效果時間：30 秒<br>　不可重複<br>‧活力提升×3<br>　效果次數：1</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防禦力＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的防禦力提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span>
+				<span>【水】連擊：連擊數持續時間延長Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，<br>則最後命中的攻擊至連擊數重置為止的時間延長2.5秒。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/702f9bc9a4f10a2b2e299d654b50ed7d2.png"></span><span>聖天誓言Ⅱ</span></dt><dd><div>使用技能時，<br>或是每連擊10次時，<br>又或是爆發攻擊命中時，<br>給予自身【13秒間，聖天啟示】增益效果。<br>【聖天啟示】不會重複，<br>效果期間不會因為被攻擊而行動中斷。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f3503b7c11dab7e6111611cb63f010c32.png"></span><span>神意加護Ⅱ</span></dt><dd><div>陷入「火燒」、「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>技能連結‧攻＋10％</span></dt><dd><div>玩家操作的角色於技能1可使用時，<br>給予該角色【10秒間，攻擊力提升10％】增益效果。<br>此效果發動後，15秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※原有技能與共享技能的部分效果可能有差異。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c1f017e2fe0f583005cc17f39a052d98.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>獸化後的雪爾希爾殘渣。<br>為主體藉由成為咢牙時獲得的面具<br>增幅力量後，從而分離誕生的存在。<br>口中喃喃自語著主體心中<br>對這世上滿是欺瞞的絕望。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>絕望冰河</span>
+			</dt>
+			<dd><div>給予周圍敵人傷害，使其陷入「凍傷」狀態。</div><div class="skill-detail">威力：2,400 × 1 Hit<br>特殊效果<br>‧凍傷<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/65d6cd12143fa0ae6dd9c9d0d7ecd0b12.png"></span><span>【水】排除欺瞞的制裁之翼Ⅴ</span></dt><dd><div>①裝備角色如果為水屬性，<br>則裝備角色的攻擊力提升100％。<br>②龍化為「獸化雪爾希爾（龍絆日Ver.）」時，<br>可使用以下效果的龍族爆發。<br>給予目標和其周圍敵人傷害，並於地面設置箭矢。<br>此箭矢可反射「獸化雪爾希爾（龍絆日Ver.）」的<br>一般攻擊，並且技能「絕望冰河」命中箭矢時，<br>給予周圍敵人傷害。<br>此箭矢最大可設置2支，於技能「絕望冰河」<br>命中箭矢時或經過特定時間後消滅。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cdd3ed074b225f69183840cb525b5da32.png"></span><span>【水】絕望的痛楚Ⅱ</span></dt><dd><div>①裝備角色如果為水屬性，<br>則給予「凍傷」狀態中的敵方傷害提升15％。<br>龍化中且連擊數為15次以上時，<br>使一般攻擊附加【折磨】減益效果。<br>此減益效果最大可疊加10次，<br>於任務中持續至敵方解除該效果。<br>敵方每持有1個【折磨】減益效果，<br>則防禦力下降1％、凍傷抗性下降2％。<br>②裝備角色的防禦力下降20％、<br>最後命中的攻擊至連擊數重置為止的時間減少1秒。</div></dd></dl></div></div></div><div>※以上為Lv.100、上限解放4階段、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 精選對象角色在「阿爾貝利亞競技大亂鬥」中可改變角色外觀的「角色造型」將轉為SALE中，並減少解鎖時所需的道具。</div><div>※有部分角色無法解鎖角色造型。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1661752800; update_time1649843683

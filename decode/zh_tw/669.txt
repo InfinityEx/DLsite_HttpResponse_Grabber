@@ -1,0 +1,8 @@
+article_id:669
+category_name:公告
+title_name:「寶龍的挑戰」累計等級獎勵可在非正常時間獲得之異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，遊戲內發生了以特定順序進行操作，</div><div>可在非正常時間下獲得「寶龍的挑戰」累計等級獎勵之異常現象。</div><div><br></div><div>上述異常現象現已修正。</div><div>※部份遊戲環境，有可能於修正後再次發生一次以上現象。</div><div><br></div><div>作為上述異常現象之補償，營運團隊將會發送以下道具給於<span class="local_date" data-local_date="1565935200"></span>前開始遊戲的所有玩家。</div><div><br></div><div>‧龍輝晶石 300個</div><div><br></div><div>道具的領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>造成各位玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1565935200; update_time1565935472

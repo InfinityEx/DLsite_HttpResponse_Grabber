@@ -1,0 +1,8 @@
+article_id:271
+category_name:公告
+title_name:「多魯裂托斯山脈之戰」中BOSS技能「幽靈突擊」的攻擊可能無法命中目標的異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，「狄亞內魯帝國迎擊戰 多魯裂托斯山脈之戰」的各任務中，</div><div>出現了BOSS技能「幽靈突擊」的攻擊可能無法命中目標的異常現象。</div><div><br></div><div>本異常現象已於<span class="local_date" data-local_date="1550815200"></span>實施的資料更新中排解。</div><div><br></div><div>關於上述內容，原本應於修正之前告知各位玩家，</div><div>但由於本次修正內容比預定計畫還要快反映在遊戲中，導致未能提前向各位玩家公告。</div><div><br></div><div>做為未能於事前公告修正事項的補償，</div><div>營運團隊將對已於<span class="local_date" data-local_date="1550815200"></span>開始遊戲的各位玩家發送以下道具。</div><div><br></div><div>‧龍輝晶石 100個</div><div><br></div><div>補償道具請至「獎勵箱」領取。</div><div>請於<span class="local_date" data-local_date="1551419940"></span>前登入遊戲領取補償道具。</div><div>領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>造成各位玩家的不便，營運團隊再次致上最深的歉意。</div><div>&nbsp;</div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1551178800; update_time1551178661

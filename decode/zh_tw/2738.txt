@@ -1,0 +1,249 @@
+article_id:2738
+category_name:公告
+title_name:期間限定角色和龍族將再度登場！「附獎傳說召喚」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「附獎傳說召喚」預計將於<span class="local_date" data-local_date="1641362400"></span>起開始舉辦。</div><div>「附獎傳說召喚」中將有期間限定角色‧龍族再度登場。</div><div>此外，精選對象之角色‧龍族出現機率將會上升。</div><div><br></div><div>進行「附獎傳說召喚」可在得到角色‧龍族的同時另外獲得「附獎」。</div><div>附獎分為白金賞、金賞、銀賞、銅賞、5等賞、6等賞共6種。</div><div>進行10連召喚時第10次的附獎將必中白金賞、金賞、銀賞、銅賞其中之一。</div><div><span style="color: rgb(226, 80, 65);">獲得的附獎將發送至獎勵箱的「無期限」項目中。</span></div><div><br></div><div>※即使一次使用10張召喚券，也不等於進行「10連召喚」，不保證第10次的附獎必中白金賞、金賞、銀賞、銅賞其中之一。</div><div>※其他附獎一覽和出現機率資訊，請於「附獎傳說召喚」舉辦期間由遊戲內下方選單列的「召喚」＞「出現機率」＞「附獎」進行確認。</div><div><br></div><div>【再度登場的期間限定精選對象之角色‧龍族】</div><div>■角色</div><div>★5 光秀：光／短劍</div><div>★5 晴明：火／魔杖</div><div><br></div><div>■龍族</div><div>★5 大黑天：光</div><div><br></div><div>此外，曾於過去召喚登場的部分期間限定角色‧龍族將會再度登場。</div><div>登場角色‧龍族詳細資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><span style="color: rgb(226, 80, 65);">※上述角色‧龍族以外並非精選對象。</span></div><div><span style="color: rgb(226, 80, 65);"><br></span></div><div><span style="color: rgb(226, 80, 65);">※「龍輝之印」僅可於獲得該「龍輝之印」的召喚中消費。在<span class="local_date" data-local_date="1640930400"></span>～<span class="local_date" data-local_date="1641362399"></span>舉辦的「失落龍絆日」中所獲得的「龍輝之印」，無法在本次「附獎傳說召喚」中消費。</span></div><div><br></div><div>【附獎傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1641362400"></span> ～ <span class="local_date" data-local_date="1642053599"></span></div><div><br></div><div>部分附獎內容之介紹如下：</div><div><br></div><div>【部分附獎內容一覽】</div><div>■白金賞</div><div>若出現白金賞時，將根據出現機率從下列道具中獲得其中1種。</div><div>‧金剛晶 1個</div><div>‧大馬士革鋼 1個</div><div>‧虹精金鋼 1個</div><div><br></div><div>■金賞</div><div>若出現金賞時，將根據出現機率從下列道具中獲得其中1種。</div><div>‧金剛原石 3個</div><div>‧英雄之證 2個</div><div>‧夢想聖鑰 2個</div><div>‧星空光沙 7個</div><div><br></div><div>■銀賞</div><div>若出現銀賞時，將根據出現機率從下列道具中獲得其中1種。</div><div>‧英雄之證 1個</div><div>‧金剛原石 1個</div><div>‧星空光沙 3個</div><div>‧大馬士革骸晶 2個</div><div>‧月光晶 2個</div><div>‧騎士之證 2個</div><div>‧真‧輝龍之尾 3個</div><div>‧真‧緋龍之尾 3個</div><div>‧輝龍勇武晶石 5個</div><div>‧緋龍勇武晶石 5個</div><div>‧彩虹寶珠 3個</div><div>‧金燐光寶珠 5個</div><div>‧深紅炎寶珠 5個</div><div><br></div><div>再度登場的期間限定精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3888e9e4df71d8f43f7e6507f36d69dc.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>763</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>497</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>統治東方島國日初之國，<br>「十二龍氏」之一的子之龍氏。<br>容易嫌麻煩的公主，與大黑天締結了魂契。<br>有機會就睡覺，沒有機會也睡覺，睡覺第一。<br>是個隨心所欲的公主。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/59379722d1069610bbd6dca3b98022c12.png"></span>
+				<span>鼠之天誅</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予目標和其周圍敵人光屬性傷害，<br>使其陷入「麻痺」狀態。</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>小事一樁</span>
+			</dt>
+			<dd><div>給予目標和其周圍敵人光屬性傷害，<br>自身的攻擊速度於10秒之間上升10％。<br>此技能將依發動時的連擊數，<br>提升最大30連擊數份量的傷害。</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>爆擊率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的爆擊率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span>
+				<span>【光】連擊：連擊數持續時間延長Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，<br>則最後命中的攻擊至連擊數重置為止的時間延長2.5秒。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾風怒濤‧攻＋20％</span></dt><dd><div>連擊數為15次以上時攻擊力提升20％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>詛咒抗性＋100％</span></dt><dd><div>陷入「詛咒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28cbbe44c3b9fd009706ad48a7e4e0f52.png"></span><span>麻痺特攻＋30％</span></dt><dd><div>給予「麻痺」狀態中的敵方傷害提升30％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※原有技能與共享技能的部分效果可能有差異。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/4c72f602593c32cdc8bb3227937e3986.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>747</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>513</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>統治東方島國日初之國，<br>「十二龍氏」之一的丑之龍氏。<br>人稱天才陰陽師，與牛頭天王締結了魂契。<br>力量強大到任何難題都能夠獨自解決。<br>偏好單獨行動。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c89df2db77c761dc648329bf7d4410322.png"></span>
+				<span>五神開衢惡鬼祓除</span>
+			</dt>
+			<dd><div>未召喚出【式鬼‧火精】時，<br>則於40秒之間召喚出【式鬼‧火精】。<br>【式鬼‧火精】將消費使役量條自動進行攻擊。<br>若【式鬼‧火精】的攻擊命中敵人15次，<br>僅限1次使【式鬼‧火精】等級上升，<br>並使召喚時間恢復至40秒，自動攻擊威力上升。<br>此外，追加給予自動攻擊<br>「使敵方防禦力於10秒之間下降10％」效果。<br>此效果無法重複。<br>【式鬼‧火精】的攻擊不算在技能傷害之內。<br>召喚出【式鬼‧火精】時，<br>給予自身【使最大HP 20％以下的傷害無效化之盾】。<br>盾的效果只限1次，和同種類的盾無法重複。</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0842a5082957e208cf98412b117988412.png"></span>
+				<span>退魔降伏‧天刑星</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予前方敵人火屬性傷害，<br>使其防禦力於20秒之間下降10％。<br>此外，使其陷入「劫火」狀態，<br>此防禦力下降效果無法重複。<br>此技能僅可於召喚出【式鬼‧火精】狀態時使用，<br>使用技能時就會解除【式鬼‧火精】。<br>若【式鬼‧火精】等級上升，<br>則使威力上升，並解除敵方1個增益效果。</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/317a0c478ead8a4a39304ffcbf29eda12.png"></span>
+				<span>Overdrive特攻&削減Ⅷ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員給予OVERDRIVE狀態中的敵方傷害提升15％，狀態量條的減少量提升10％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span>
+				<span>【火】連擊：連擊‧技能增益效果時間＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為火屬性，<br>則連擊數為10次以上時，<br>使用的技能增益效果持續時間提升15％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>式鬼使役之律令Ⅱ</span></dt><dd><div>追加使役量條。<br>此外，爆發攻擊將轉換成蓄集中給予目標傷害，<br>並緩慢回復使役量條。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>式鬼回生之驗Ⅱ</span></dt><dd><div>龍化量條每提升10％時，則回復使役量條50%。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※原有技能與共享技能的部分效果可能有差異。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/69369b073640a003d6e85b9f6573f516.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>輔佐日初之國的龍族之長‧天照，<br>十二龍之一的「子」之龍。<br>相當吉利的龍族，據傳光是被他以笑臉相迎，<br>運氣就會變好。表情祥和，性格悠閒靜雅。<br>喜歡比較軟的年糕。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>開運！小木槌敲敲</span>
+			</dt>
+			<dd><div>給予前方敵人光屬性傷害，<br>並於地面設置10秒【攻擊速度增益效果領域】。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻擊力＋55％</span></dt><dd><div>裝備角色如果為光屬性，<br>則裝備角色的攻擊力提升55％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】疾風怒濤‧攻＋25％</span></dt><dd><div>裝備角色如果為光屬性，<br>則連擊數為15次以上時攻擊力提升25％。</div></dd></dl></div></div></div><div>※以上為Lv.100、上限解放4階段、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 附獎一覽和出現機率資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「附獎」進行確認。</div><div>3. 進行「10連召喚」或一次使用10張召喚券所獲得的道具重複時，同種道具將統一發送至獎勵箱的「無期限」項目中。</div><div>4. 精選對象角色在「阿爾貝利亞競技大亂鬥」中可改變角色外觀的「角色造型」將轉為SALE中，並減少解鎖時所需的道具。</div><div>※有部分角色無法解鎖角色造型。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1641276000; update_time1640590325

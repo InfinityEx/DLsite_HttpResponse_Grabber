@@ -1,0 +1,8 @@
+article_id:764
+category_name:公告
+title_name:團體活動「克羅諾斯～輪迴命運的時針～」於部分裝置可能會出現運作緩慢的異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，從<span class="local_date" data-local_date="1569823200"></span>起舉辦中的團體活動「克羅諾斯～輪迴命運的時針～」，於部分裝置出現運作緩慢的異常現象。</div><div><br></div><div>當出現運作緩慢現象時，請將遊戲中畫質的演出效果設定成「簡易」，將畫質設定成「普通」，並將戰鬥日誌內的顯示設定為「OFF」，就有可能減輕此狀況。</div><div>設定變更方法如下：</div><div><br></div><div>1. 點擊遊戲頁面下方的「選單」。</div><div>2. 點擊「選項」。</div><div>3. 點擊「遊戲」圖示。</div><div>4. 將畫質內的演出效果設定成「簡易」。</div><div>5. 將畫質內的畫質設定成「普通」。</div><div>6. 將戰鬥日誌內的顯示設定成「OFF」。</div><div><br></div><div>造成各位玩家的不便，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1569823200; update_time1569489416

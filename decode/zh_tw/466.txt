@@ -1,0 +1,8 @@
+article_id:466
+category_name:公告
+title_name:傳說召喚「時尚美豔★量身打造」介紹動畫CV姓名誤植公告【更新】
+image_path:
+
+message:<div>經營運團隊確認，於<span class="local_date" data-local_date="1557813600"></span>起開始舉辦的傳說召喚「時尚美豔★量身打造」介紹動畫中，角色「夏迪」的CV姓名有所誤植。</div><div><br></div><div>關於本誤植目前正在進行修正。</div><div>最新進度將於本公告更新。</div><div><br></div><div>造成全體玩家的不便，營運團隊在此致上最深的歉意。</div><div>&nbsp;</div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div><div><span style="color: rgb(44, 130, 201);"><strong>【<span class="local_date" data-local_date="1557834000"></span> 更新】</strong></span></div><div>誤植內容已於<span class="local_date" data-local_date="1557834000"></span>修正完畢。</div><div><br></div><div>造成各位玩家的不便，營運團隊再度致上最深的歉意。</div>
+
+start_time:1557834000; update_time1557832730

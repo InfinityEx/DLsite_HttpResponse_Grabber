@@ -1,0 +1,200 @@
+article_id:3110
+category_name:公告
+title_name:必中水屬性★5角色！「白金傳說召喚」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「白金傳說召喚」預計將於<span class="local_date" data-local_date="1650261600"></span>起開始舉辦。</div><div><br></div><div>「白金傳說召喚」為「10連召喚」的第10發將必中「水屬性★5角色」。</div><div><span style="color: rgb(226, 80, 65);">※水屬性以外的角色‧龍族不會出現於本召喚中。</span></div><div>召喚期間內可進行2次白金傳說召喚的「10連召喚」。</div><div>此外，本召喚僅限使用「龍光鑽石」。</div><div><br></div><div>【白金傳說召喚舉辦期間】</div><div><span class="local_date" data-local_date="1650261600"></span> ～ <span class="local_date" data-local_date="1651039199"></span></div><div><br></div><div>「白金傳說召喚」第10發必中的部分對象水屬性★5角色介紹如下：</div><div><br></div><div>【第10發必中對象水屬性★5角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b8cb345d7d789b6797ee4ed1ccab11b1.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>761</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>498</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>化身人類姿態的青龍墨丘利。<br>為了與本性善良的人們攜手共生，<br>決定理解人類，並因此對其文化感到興趣。<br>即使外貌改變，身為守護龍的使命仍不變，<br>對威脅和平者絕不姑息。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/80922336d78c6a339d07de68c524e4242.png"></span>
+				<span>怒濤汪洋</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予前方敵人傷害，使其陷入「凍傷」狀態。<br>只要此技能命中，自身的龍化量條就會上升。<br>在攻擊力提升之爆發氣場狀態時，<br>使性能產生變化。</div><div class="skill-detail">威力：540 × 3 Hit<br>所需技能點數：2,800<br>特殊效果<br>‧凍傷<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41<br>龍化量條回復量：40<br><br>（變化後）<br>威力：600 × 4 Hit<br>所需技能點數：2,800<br>所需共享技能點數：9,940<br>特殊效果<br>‧凍傷<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41<br>龍化量條回復量：50</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/965d37e14de2ff3025ebd071ceb568dd2.png"></span>
+				<span>高壓毀滅</span>
+			</dt>
+			<dd><div>給予前方敵人傷害，給予自身攻擊力提升氣場。<br>龍化時使性能產生變化。</div><div class="skill-detail">威力：322 × 6 Hit<br>所需技能點數：8,000<br>獲得氣場<br>‧攻擊力提升（爆發氣場上限Lv. 2）<br><br>（變化後）<br>威力：322 × 9 Hit<br>所需技能點數：8,000<br>獲得氣場<br>‧攻擊力提升（爆發氣場上限Lv. 2）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>爆擊率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的爆擊率提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span>
+				<span>【水】士氣：攻勢士氣‧火燒抗性＋100％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，<br>則在攻擊力提升之爆發氣場狀態時，<br>陷入「火燒」狀態機率下降100％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/67e1d7b7a658af6624ecd3c0af03e0d52.png"></span><span>青龍現身Ⅱ</span></dt><dd><div>陷入「濕身」狀態機率下降100％。<br>不論裝備任何龍族，龍化時皆變身為墨丘利。<br>龍化中的傷害倍率提升14％。<br>每場任務的龍化，<br>從第2次起將化身為真‧墨丘利。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>水泡之盾Ⅱ</span></dt><dd><div>在攻擊力提升之爆發氣場狀態時，<br>給予自身【守護之沫】。<br>此效果於【守護之沫】解除後，<br>10秒間不會再次發動。<br>【守護之沫】不會重複，帶有以下效果。<br>‧使最大HP 30％以下的傷害無效化之特殊盾。<br>此盾的效果只限1次，與一般的盾可以重複。<br>‧HP持續回復。<br>‧受到攻擊後將會解除。<br>‧未獲得攻擊力提升之爆發氣場時將會解除。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※原有技能與共享技能的部分效果可能有差異。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/0914bfa73564fb50e7a83ae442bda4a9.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>757</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>503</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,500</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>可使用的模式</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/4805e47916f093eb2b9049cff29e9eb72.png"><img src="https://dragalialost.akamaized.net/attached/information/images/0ea47b25dd52e83055f02a3ca4d545522.png"><img src="https://dragalialost.akamaized.net/attached/information/images/c10d099648b4bc58a4f2bde4fe0dfd752.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>在聖城與人類交流並習得使銃技術的西莉絲。<br>透過與諸多夥伴的相遇以及彼此扶持<br>而有所成長的她，接下來將要挑戰<br>以銃為首的異文化。她那能接納一切的率性，<br>將開拓出耀眼的未來。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9bf3fe22f62e503eadabcd3cbb53adcc2.png"></span>
+				<span>進化冽擊</span>
+			</dt>
+			<dd><div>給予前方敵人傷害，使其陷入「凍傷」狀態。<br>只要此技能命中25次以上，<br>使技能「森林狙擊」蓄集25％。</div><div class="skill-detail">威力：32 × 25 Hit<br>所需技能點數：4,215<br>特殊效果<br>‧凍傷<br>　效果時間：21 秒<br>　效果間隔：2.9 秒<br>　威力：41<br>・技能蓄集<br>　效果量：25％<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d947c2b7e1c76a0a2082580e6b9b773c2.png"></span>
+				<span>森林狙擊</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予目標和其周圍敵人傷害，<br>並發動下列隨機一種效果。<br>‧使被攻擊命中的敵方攻擊力下降。<br>‧使被攻擊命中的敵方防禦力下降。<br>‧回復自身HP。</div><div class="skill-detail">威力：330 × 1 Hit<br>威力：149 × 4 Hit<br>回復力：10<br>回復力：10<br>回復力：10<br>回復力：10<br>所需技能點數：6,520<br>所需共享技能點數：8,280<br>特殊效果<br>‧攻擊力下降20％<br>　效果時間：15 秒<br>‧防禦力下降7％<br>　效果時間：12 秒<br>　不可重複<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>OVERDRIVE削減＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員狀態量條的減少量提升20％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span>
+				<span>【水】連擊：連擊‧活力提升Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，<br>則每連擊20次時，使【活力】提升1階段。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/83bd9c8302b087a508daec2a8fc9b2cf2.png"></span><span>技能減益效果時間＋20％</span></dt><dd><div>使用的技能減益效果持續時間提升20％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>背水之陣‧治癒Ⅳ</span></dt><dd><div>HP減少至30％以下時，<br>發動【20秒間，HP持續回復】增益效果。<br>此效果每場任務最多可發動1次。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※原有技能與共享技能的部分效果可能有差異。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>【注意事項】</div><div>1. 「白金傳說召喚」詳細召喚資訊，請點擊遊戲內下方選單列的「召喚」後，從「白金傳說召喚」的「出現機率」，或於「召喚資訊」中的「詳細」進行確認。</div><div>2. 白金傳說召喚中無法獲得「龍輝之印」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1650175200; update_time1647667231

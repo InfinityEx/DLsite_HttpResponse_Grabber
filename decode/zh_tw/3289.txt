@@ -1,0 +1,8 @@
+article_id:3289
+category_name:版本更新
+title_name:「萬花筒迷宮」更新公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「萬花筒迷宮」已於<span class="local_date" data-local_date="1650866400"></span>追加以下更新。</div><div><br></div><div>■追加樓層</div><div>‧追加樓層51F～60F。</div><div>並配合樓層追加，調整可獲得的部分獎勵。</div><div><br></div><div>■略過樓層追加選項</div><div>‧略過樓層追加選項「至35F」、「至40F」。</div><div>※任一角色曾過關上述樓層一次即會顯示選項。</div><div><br></div><div>■角色等級上限解放</div><div>‧角色等級上限由Lv.80變更為Lv.100。</div><div><br></div><div>■聖樹的記憶追加劇情</div><div>‧聖樹的記憶追加可解鎖的劇情。</div><div><br></div><div>■交換所追加道具</div><div>‧交換所追加可交換的道具。</div><div><br></div><div>■追加Mission與勳章</div><div>‧追加「萬花筒迷宮」相關Mission，以及那姆的筆記本的勳章。</div><div><br></div><div>■平衡調整</div><div>‧追加登場BOSS。</div><div><br></div><div>‧調升挑戰BOSS可獲得的經驗值。</div><div>此外，調升略過樓層時可獲得的經驗值。</div><div><br></div><div>‧調整50F登場BOSS的HP。</div><div>透過本次角色等級上限解放，角色抵達50F時的等級會隨之提升，因此相較本次更新前將更容易討伐BOSS，故對BOSS的HP進行上調。</div><div><br></div><div>【注意事項】</div><div>若於本更新前中斷挑戰中的樓層，並於更新後繼續關卡時，則可挑戰至50F。</div><div>欲挑戰51F以上樓層時，請由「挑戰關卡」開始重新遊戲。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1650866400; update_time1650432325

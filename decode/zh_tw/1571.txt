@@ -1,0 +1,8 @@
+article_id:1571
+category_name:版本更新
+title_name:版本更新公告【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>為修正以下異常現象，版本1.23.1預計將於<span class="local_date" data-local_date="1599706800"></span>左右公開。</div><div>※強制更新預計將於<span class="local_date" data-local_date="1599793200"></span>左右實施。</div><div><br></div><div>為了感謝各位玩家進行本次遊戲版本更新，營運團隊將於強制更新實施後贈送「10連召喚券」給各位玩家。</div><div>獎勵發送完畢後，將於本公告進行更新。</div><div>※即使在強制更新前更新至版本1.23.1，也無法立刻收到10連召喚券。</div><div><br></div><div>■修正遊戲內異常現象</div><div>‧部分角色和敵人的技能、攻擊效果音無法正常播放。</div><div>‧部分技能發動時的動作，會因為使用其他技能而無法取消。</div><div>‧「塔爾塔羅斯叛逆戰｣難易度「中級」和「高級」的單人模式中，在亞空間內使用支援技能打倒分身後，操作角色可能不會回到原本的地圖，導致無法繼續進行遊戲。</div><div><br></div><div>經營運團隊確認，公告「目前已確認的遊戲異常公告」中所刊載的以下內容實為正常現象，故已刪除相關內容。</div><div><br></div><div>‧「彩羽＆乙羽叛逆戰」的難易度「中級」和「高級」中，武器種類為「劍、短劍、刀、斧、槍」的我方AI角色會攻擊與操作角色之目標不同的敵人。</div><div><br></div><div>造成各位玩家的困擾，在此致上最深的歉意。</div><div><br></div><div>■注意事項</div><div>版本更新訊息實際反映於商店將可能花費一段時間。</div><div>此外，裝置內的暫存檔可能會導致版本無法順利更新。</div><div>如無法更新，請關閉裝置電源，放置1～2分鐘後再啟動重試。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1599793200"></span>更新】</strong></span></div><div>已發送以下道具給於<span class="local_date" data-local_date="1599793200"></span>之前開始遊戲的玩家。</div><div><br></div><div>‧10連召喚券 1張</div><div><br>贈送道具的領取期限為發送至獎勵箱後7天以內。</div><div><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1599706800; update_time1599793201

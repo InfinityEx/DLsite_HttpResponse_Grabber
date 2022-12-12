@@ -1,0 +1,8 @@
+article_id:671
+category_name:活動
+title_name:劇情活動【復刻】「情人節‧精巧甜品」追加新劇情！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>劇情活動【復刻】「情人節‧精巧甜品」已於<span class="local_date" data-local_date="1566712800"></span>追加了葉潔莉特和歐里昂的限定劇情！</div><div>只要解放劇情，可交換的道具也會增加。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/f643672ff1318d3f06173dc9374e0ddd.png"></div><div>究竟會和2人一起度過怎樣的情人節呢&hellip;？</div><div>請盡情享受比平時更加甜蜜＆融化你心的時刻吧！</div><div><br></div><div>■活動概要</div><div>劇情活動【復刻】「情人節‧精巧甜品」為透過完成主線任務和各個活動任務收集的道具，來解放情人節特別劇情的活動。</div><div><br></div><div>■活動道具獲得方式</div><div>如要在完成主線任務與各個活動任務後獲得活動道具「情人節薔薇」，必須完成主線劇情「第2章 2-1（Normal）」，並至少前往「情人節‧精巧甜品」活動主頁面確認1次。</div><div>※若未返回活動主頁面進行確認，即使完成主線任務與各個活動任務，也無法獲得「情人節薔薇」。</div><div><br></div><div>■注意事項</div><div>1. 活動【復刻】「情人節‧精巧甜品」之詳細內容，請參考活動主頁面的「遊戲方式」內說明。</div><div>2. 如要參加活動，需完成主線劇情「第2章 2-1（Normal）」。</div><div>3. 如要參加團隊遊戲，需完成主線劇情「第2章 2-1（Normal）」。</div><div>4. 期間限定追加每日Mission，請從主頁面「Mission」的「期間限定」進行確認。</div><div>5. 本活動中獲得的活動道具「情人節薔薇」，無法於今後舉辦的活動中使用。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1566712800; update_time1565860293

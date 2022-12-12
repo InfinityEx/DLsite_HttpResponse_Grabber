@@ -1,0 +1,8 @@
+article_id:2672
+category_name:公告
+title_name:主線劇情第23章「『起始之人』」前半即將公開！
+image_path:https://dragalialost.akamaized.net/attached/information/images/87e043b489236fa3bc5f1b742fbb28b4.png
+
+message:<div>各位玩家您好</div><div><br></div><div>主線劇情第23章「『起始之人』」前半決定將於<span class="local_date" data-local_date="1639980000"></span>公開！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/87e043b489236fa3bc5f1b742fbb28b4.png"></div><div><br></div><div>此外，主線劇情第23章「『起始之人』」的預告影片已公開。</div><div>請從下列連結進入確認。</div><div><br></div><div>▼「Dragalia Lost ～失落的龍絆～」繁體中文版官方YouTube頻道 主線劇情第23章「『起始之人』」預告影片</div><div><a href="https://youtu.be/laM0E1-65rw">https://youtu.be/laM0E1-65rw</a><br></div><div><br></div><div>敬請期待最新劇情！</div><div><br></div><div>■注意事項</div><div>若要進行主線劇情第23章「『起始之人』」前半，須完成主線劇情第22章5-4「遺留之物」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1639720800; update_time1639707796

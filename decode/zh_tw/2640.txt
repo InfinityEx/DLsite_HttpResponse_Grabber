@@ -1,0 +1,52 @@
+article_id:2640
+category_name:公告
+title_name:「龍輝護符交換所」新龍輝護符追加公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「龍輝護符交換所」已於<span class="local_date" data-local_date="1638165600"></span>追加龍輝護符。</div><div><br></div><div>本次追加的龍輝護符為新追加的龍輝護符，以及過去活動中可獲得的部分龍輝護符，現已將其常置化並追加至「龍輝護符交換所」中。</div><div>新追加的龍輝護符，可於「龍輝護符交換所」中的「精選」項目或各「稀有度」項目中交換。</div><div>常置化的龍輝護符，可於「龍輝護符交換所」中的各「稀有度」項目中交換。</div><div><br></div><div>【新追加的精選對象之龍輝護符介紹】</div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/8ce1682dc21ebec2bd75f12555de80722.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/2439af36bc03adcbbc19665e4dcc50802.png"></div>
+	<div class="discription">
+		<div class="charaName">機密使徒</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/50e8f27a8ccb8795c0a52d0417e9e2862.png"></span><span>裂風特攻＋25％&nbsp;（Max25％）</span></dt><dd><div>給予「裂風」狀態中的敵方傷害提升25％。&nbsp;（Max25％）</div></dd></dl></div></div></div><div><br></div><div>【常置化龍輝護符介紹】</div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/ee8900cdc2f65d5adbe4a12649be0d452.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">以片翼展開的旅程</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【刀】技能傷害＋40％&nbsp;（Max40％）</span></dt><dd><div>裝備角色的武器種類如果為刀，<br>則裝備角色的攻擊技能傷害提升40％。&nbsp;（Max40％）</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/7f2b5d5cb14d38623b515ea0e4db0dc82.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/a4b7efe11cdf140f0bf5f353c33738df2.png"></div>
+	<div class="discription">
+		<div class="charaName">戰場之花</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>【風】爆擊率＋8％&nbsp;（Max15％）</span></dt><dd><div>裝備角色如果為風屬性，<br>則裝備角色攻擊時發生爆擊的機率提升8％。&nbsp;（Max15％）</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/1a186a0044b5b5d9e315aeee562fc0a52.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/5686b974264a7cd2cec543b235471c832.png"></div>
+	<div class="discription">
+		<div class="charaName">天音的育兒奮鬥記</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【光】技能累積＋7％&nbsp;（Max15％）</span></dt><dd><div>裝備角色如果為光屬性，<br>則技能量條的增加率提升7％。&nbsp;（Max15％）</div></dd></dl></div></div></div><div><br></div><div>※以上為上限全數解放的能力值，並非獲得時的能力值。</div><div><br></div><div>【精選期間】</div><div><span class="local_date" data-local_date="1638165600"></span> ～ <span class="local_date" data-local_date="1640930399"></span></div><div><br></div><div>※本次新追加的龍輝護符，於精選期間結束後仍可至各「稀有度」項目中交換。</div><div><br></div><div>【注意事項】</div><div>本公告中未記載的其他資訊，請於「主頁面」＞「商店」＞「龍輝護符交換所」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1638165600; update_time1637722638

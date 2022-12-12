@@ -1,0 +1,8 @@
+article_id:2571
+category_name:公告
+title_name:Android 12中所發生之異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，於Android裝置中將OS升級至「Android 12」後，啟動遊戲應用程式時可能會發生畫面下方無法完整顯示的現象。</div><div><br></div><div>關於本現象，如有最新進度，將於本公告更新。</div><div><br></div><div>造成各位玩家的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1634713200; update_time1634782464

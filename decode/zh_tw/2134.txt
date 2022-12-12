@@ -1,0 +1,8 @@
+article_id:2134
+category_name:公告
+title_name:主線劇情第19章「被隱藏的真相」前半登場＆追加可使用「龍玉」進行上限解放的龍族！
+image_path:https://dragalialost.akamaized.net/attached/information/images/af2dffcce5641ac8fdce706010a2d059.png
+
+message:<div>各位玩家您好</div><div><br></div><div>主線劇情第19章「被隱藏的真相」前半已於<span class="local_date" data-local_date="1619071200"></span>追加！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/af2dffcce5641ac8fdce706010a2d059.png"></div><div><br></div><div>藉由那姆的祈禱，王子等人開啟了通往妖精國之門。</div><div>當眾人欲趕往菲恩洛達所在地時，卻遭到嘲笑不自由的刺客阻擋去路，此時胸懷火熱之心的戰鬥人偶毅然挺身應戰。</div><div>但隨著悔恨之情一同揭露的兩件真相，</div><div>卻是如此地殘酷──</div><div><br></div><div>敬請期待最新劇情！</div><div><br></div><div>此外，可使用「龍玉」進行上限解放的龍族已於<span class="local_date" data-local_date="1619071200"></span>追加。</div><div>本次追加可使用「龍玉」的龍族如下：</div><div>‧迦具土</div><div>‧哥布紐＆克雷德尼</div><div>‧哈斯塔</div><div>‧聖潔不死鳥</div><div>‧阿撒塞勒</div><div><br></div><div>■注意事項</div><div>1. 如要進行主線劇情第19章「被隱藏的真相」前半，須完成主線劇情第18章5-3「懷抱未來的力量」。</div><div>2. 點擊主線劇情各章地圖內所顯示的「龍玉」圖示，即可確認能夠獲得的龍族「龍玉」、所持數量、可獲得的剩餘次數，以及能夠獲得「龍玉」的任務。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1619071200; update_time1618557078

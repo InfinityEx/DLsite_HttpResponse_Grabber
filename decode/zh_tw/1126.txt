@@ -1,0 +1,8 @@
+article_id:1126
+category_name:公告
+title_name:贈送「高級蜂蜜」和「靈鳥之聖灰」好禮！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>為讓各位玩家能夠更加盡情體驗設施活動「食宴！饗趣美味廚藝巔峰戰」，營運團隊將依序發送以下好禮給各位玩家！</div><div><br></div><div>■禮物內容</div><div>高級蜂蜜 10個</div><div>靈鳥之聖灰 10個</div><div><br></div><div>■贈送對象</div><div>於<span class="local_date" data-local_date="1583474400"></span>之前開始遊戲的所有玩家。</div><div><br></div><div>贈送的道具領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1583474400; update_time1583223906

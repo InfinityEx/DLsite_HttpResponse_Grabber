@@ -1,0 +1,30 @@
+article_id:554
+category_name:公告
+title_name:「龍輝護符交換所」追加新龍輝護符公告
+image_path:
+
+message:<div><span style="color: rgb(0, 0, 0);">各位玩家您好</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span class="local_date" data-local_date="1561874400"></span> <span style="color: rgb(0, 0, 0);">開始，「龍輝護符交換所」中已追加新的龍輝護符。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">追加的龍輝護符，可於「龍輝護符交換所」中的「精選」項目或各「稀有度」項目中交換。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);"><strong>【新追加龍輝護符介紹】</strong></span></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/c3efdf34597f077ef68eab408fa1a3772.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">無法忘懷的夏日</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3d57efbfc9ee679b982b0fd3ed6495302.png"></span><span>【水】異常狀態無效Ⅲ&nbsp;（Max3次）</span></dt><dd><div>裝備角色如果為水屬性，<br>則不會陷入異常狀態。<br>此效果每場任務最多可發動3次。&nbsp;（Max3次）</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【水】技能累積＋9％&nbsp;（Max15％）</span></dt><dd><div>裝備角色如果為水屬性，<br>則技能量條的增加率提升9％。&nbsp;（Max15％）</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/0adbdf4bb387c4ec18000fa2cb68b2502.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">敲響太鼓吧！</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>30連擊活力提升</span></dt><dd><div>每連擊30次時，使【活力】提升1階段。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>開場技能量條＋20％&nbsp;（Max100％）</span></dt><dd><div>任務開始時技能量條提升20％。&nbsp;（Max100％）</div></dd></dl></div></div></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">※以上為上限全數解放的能力值，並非獲得時的能力值。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">【精選期間】</span></div><div><span class="local_date" data-local_date="1561874400"></span> ～ <span class="local_date" data-local_date="1562824799"></span></div><div><br></div><div><span style="color: rgb(184, 49, 47);">※本次追加的龍輝護符，於精選期間結束後仍可至各「稀有度」項目中交換。</span></div><div><br></div><div><span style="color: rgb(0, 0, 0);">【注意事項】</span></div><div><span style="color: rgb(0, 0, 0);">本公告中未記載的其他資訊，請於「主頁面」＞「商店」＞「龍輝護符交換所」進行確認。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</span></div><div><span style="color: rgb(0, 0, 0);">Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</span></div>
+
+start_time:1561874400; update_time1561441606

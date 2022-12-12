@@ -1,0 +1,8 @@
+article_id:3240
+category_name:公告
+title_name: 主線劇情第25章「人與龍族的契約之證」後半登場！
+image_path:https://dragalialost.akamaized.net/attached/information/images/52bdf89fbdfe0d4bf0f1875200e1147e.png
+
+message:<div>各位玩家您好</div><div><br></div><div>主線劇情第25章「人與龍族的契約之證」後半已於<span class="local_date" data-local_date="1653458400"></span>追加！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/52bdf89fbdfe0d4bf0f1875200e1147e.png"></div><div><br></div><div>瑟諾斯的要塞入侵使得世界面臨滅亡危機。</div><div>為了守護眾多世界，巫女們陸續使自身的創世之力覺醒，</div><div>卻唯有潔那一人遲遲無法掌控力量。</div><div>為獲得創世之力，於是她下定決心要與過去做個了斷，</div><div>並與世界訣別──</div><div><br></div><div>敬請期待最新劇情！</div><div><br></div><div>■注意事項</div><div>1. 若要進行主線劇情第25章「人與龍族的契約之證」後半，須完成主線劇情第25章 3-2「創世」。</div><div>2. 本次主線劇情後半追加時，並不會追加可使用「龍玉」進行上限解放的新龍族。點擊主線劇情各章地圖內所顯示的「龍玉」圖示，即可確認能夠獲得的龍族「龍玉」、所持數量、可獲得的剩餘次數，以及能夠獲得「龍玉」的任務。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1653458400; update_time1652696963

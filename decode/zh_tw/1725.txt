@@ -1,0 +1,171 @@
+article_id:1725
+category_name:公告
+title_name:「失落龍絆日」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「失落龍絆日」預計將於<span class="local_date" data-local_date="1604037600"></span>起開始舉辦。</div><div>&nbsp;</div><div>【關於失落龍絆日】※包含「失落龍絆日　非凡佳選」</div><div>‧★5角色、龍族的初始「出現機率」，將由平時的4％上升至6％！</div><div>※如召喚出★5或★5精選，出現機率將會變回初始設定值6％。</div><div><span style="color: rgb(226, 80, 65);">※本次新追加的★5角色「拉碧絲（水）」，在今後的傳說召喚中也會出現。</span></div><div><span style="color: rgb(226, 80, 65);">※同時開放的「白金傳說召喚」不包含本召喚中新追加的角色和龍族。</span></div><div>&nbsp;</div><div>【新追加的精選對象角色】</div><div>★5 拉碧絲：水／銃（機關銃模式）</div><div>※機關銃模式為中距離射程，可使用爆發攻擊進行強力連續射擊的模式。</div><div><br></div><div>【新追加的精選對象龍族】</div><div>★5 波塞頓‧勇（龍絆日Ver.）：水</div><div><br></div><div>【失落龍絆日舉辦期間】</div><div><span class="local_date" data-local_date="1604037600"></span> ～ <span class="local_date" data-local_date="1604469599"></span></div><div><br></div><div>新追加精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/78ceed0a5b6e2b8ceeff0f5db1b19630.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>統御大海的傳說老龍‧波塞頓重獲新生之姿。<br>因純粹且清冽的少女祈禱而得以<br>從瘴氣中解放，免受其侵蝕。<br>個性依舊豪放且光明磊落，<br>但對人類的強韌有了新的看法。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cec8794d33276918ce38bfaa577312842.png"></span>
+				<span>亞特蘭提斯沉沒</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人水屬性傷害。<br>若將敵方設為目標，<br>並於非技能使用途中的情況下龍化時間歸零，<br>則此技能將會自動發動。<br>此效果即使技能量條尚未蓄滿仍會發動。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【水】攻擊力＋70％</span></dt><dd><div>裝備角色如果為水屬性，<br>則裝備角色的攻擊力提升70％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6a11826292e883b2011a341c28b9c39d2.png"></span><span>【水】大海之怒Ⅱ</span></dt><dd><div>裝備角色如果為水屬性，<br>則龍化量條每提升10％時，給予自身<br>【45秒間，攻擊火屬性敵人時<br>傷害倍率提升30％】增益效果。<br>此效果無法重複，發動後5秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a2d7038561120b67d85bbfe9008125b0.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>757</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>503</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,500</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>可使用的模式</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/a3fd3d318f5d1ce860f6d1c41c2d49fb2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/b8a3b3884cac48715702c5bf401cd8b22.png"><img src="https://dragalialost.akamaized.net/attached/information/images/448ef7b051c6bcd89db535067691e8b22.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>以藍薔薇為獨特標記的華麗女怪盜。<br>是名變裝專家，能夠輕易穿越森嚴警備，<br>巧妙竊取獵物。由於會特地發出預告函，<br>以及將偷走的東西歸還原處，而被世間<br>認為是愉快犯，但其實……</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/fccbc96244b6f48d6e2227e0f9ac47792.png"></span>
+				<span>精彩盜竊</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人水屬性傷害，<br>並解除1個增益效果。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/fa25143c5b0f10f468895aaa4b0799412.png"></span>
+				<span>優美子彈</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人水屬性傷害。<br>獲得與自身增益效果數同等層數的【增幅】，<br>增加給予的傷害，最大可上升至80％。<br>依【強化彈丸】而獲得【增幅】時，<br>傷害的增加量較多。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>OVERDRIVE削減＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員狀態量條的減少量提升20。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>【水】連擊：10連擊以上‧抗火＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，<br>則連擊數為10次以上時，<br>發動【火屬性抗性提升10％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5cdf50cfea30e45572cc006a886b83cd2.png"></span><span>卓越盜技Ⅱ</span></dt><dd><div>以增益解除效果解除敵方增益效果或護盾時，<br>使敵人水屬性抗性於30秒之間下降5％。<br>此效果無法重複。<br>此外，同時給予自身【強化彈丸】增益效果，<br>自身的爆擊率提升4％，此效果最大可疊加3次。<br>使用技能「優美子彈」時將解除所有的【強化彈丸】。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>薔薇綻放Ⅱ</span></dt><dd><div>每連擊30次時，<br>給予自身【強化彈丸】增益效果，<br>自身的爆擊率提升4％，此效果最大可疊加3次。<br>使用技能「優美子彈」時將解除所有的【強化彈丸】。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>【注意事項】</div><div>詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1603951200; update_time1603708307

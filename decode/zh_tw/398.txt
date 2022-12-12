@@ -1,0 +1,8 @@
+article_id:398
+category_name:公告
+title_name:Mission「打倒黑曜巨像吧」無法達成的異常現象公告【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，目前遊戲中發生了即使完成了虛空之影討伐戰「黑曜巨像討伐戰」，</div><div>Mission「打倒黑曜巨像吧」仍無法達成的異常現象。</div><div><br></div><div>為了修正本異常現象，虛空之影討伐戰「黑曜巨像討伐戰」將於以下期間暫停開放。</div><div>※若於暫停開放前開始上述任務，並在暫停開放期間完成任務，將可獲得獎勵。但是並無法「再戰」。</div><div><br></div><div>■暫停開放時間</div><div><span class="local_date" data-local_date="1555072200"></span> ～ <span class="local_date" data-local_date="1555081199"></span></div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1555079400"></span> 更新】</strong></span></div><div>本次暫停開放之期間將會延長。</div><div>結束時間目前未定。</div><div>關於本異常現象之最新進度，將於本公告進行更新。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1555084800"></span> 更新】</strong></span></div><div>本異常現象已於<span class="local_date" data-local_date="1555084800"></span>修正完畢。</div><div>此外，虛空之影討伐戰「黑曜巨像討伐戰」已重新開放。</div><div>由於暫停開放的影響，營運團隊將會於以下期間追加開放「黑曜巨像討伐戰」。</div><div><br>■「黑曜巨像討伐戰」追加開放期間</div><div><span class="local_date" data-local_date="1555308000"></span> ～ <span class="local_date" data-local_date="1555394399"></span></div><div><span class="local_date" data-local_date="1555912800"></span> ～ <span class="local_date" data-local_date="1555999199"></span></div><div><br></div><div>做為發生本次異常現象，以及暫停開放虛空之影討伐戰「黑曜巨像討伐戰」之補償，</div><div>營運團隊將會依序發送以下道具給於<span class="local_date" data-local_date="1555084799"></span>前開始遊戲的所有玩家。</div><div><br></div><div>‧高級蜂蜜 2個</div><div>‧靈鳥之聖灰 2個</div><div><br></div><div>請登入遊戲至「獎勵箱」領取。</div><div>領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>造成各位玩家的不便，營運團隊在此致上最深的歉意。</div>
+
+start_time:1555084800; update_time1555084848

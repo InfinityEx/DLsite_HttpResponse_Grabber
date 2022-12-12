@@ -1,0 +1,8 @@
+article_id:1635
+category_name:公告
+title_name:迎接2週年！贈送玩家好禮！
+image_path:
+
+message:<div>各位玩家您好</div><div>&nbsp;</div><div>「Dragalia Lost ～失落的龍絆～」已於<span class="local_date" data-local_date="1601186400"></span>迎接2週年的到來！</div><div>感謝大家一直以來對本遊戲的支持與鼓勵，營運團隊將依序贈送下列禮物給各位玩家！</div><div><br></div><div>■禮物內容</div><div>靈鳥之聖灰 20個</div><div><br></div><div>領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1601265600; update_time1601026391

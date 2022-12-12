@@ -1,0 +1,8 @@
+article_id:30
+category_name:公告
+title_name:關於「團隊遊戲」公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>感謝各位玩家對「Dragalia Lost ～失落的龍絆～」的支持。</div><div>遊戲服務開始後，營運團隊收到了來自眾多玩家關於團隊遊戲的意見和建議。</div><div><br></div><div>針對大量玩家所反應的共鬥之翼消耗過快之狀況，</div><div>營運團隊將考慮對日後舉辦的團隊遊戲中共鬥之翼的機制進行調整。</div><div><br></div><div>此外，為了感謝眾多玩家積極挑戰團體活動「忠龍祈願故王的靈魂葬禮」，</div><div>營運團隊將贈送於<span class="local_date" data-local_date="1539324000"></span>前開始遊戲的玩家以下道具。</div><div><br></div><div>・靈鳥之聖灰　30個</div><div><br></div><div>道具請至請至「獎勵箱」領取。</div><div>本次贈送的獎勵領取期限為<span class="local_date" data-local_date="1539928799"></span>為止。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1539324000; update_time1539324114

@@ -1,0 +1,8 @@
+article_id:2061
+category_name:公告
+title_name:角色「琪姬」神龍化異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，角色「琪姬」出現以下異常現象：</div><div><br></div><div>‧角色「琪姬」神龍化時，會再次發動「【水】HP＋〇％」等可提升數值的連鎖EX能力，導致效果疊加。</div><div>▼對象連鎖EX能力</div><div>　‧【屬性】HP＋〇％</div><div>　‧【屬性】防禦力＋〇％</div><div>　‧防禦力＋〇％</div><div><br></div><div>本異常現象預計將於3月下旬實施的版本2.6.0更新中進行修正。</div><div><br></div><div>造成各位玩家的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1616137200; update_time1616135399

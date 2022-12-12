@@ -1,0 +1,8 @@
+article_id:2111
+category_name:公告
+title_name:團體活動「龍絆‧破曉」部分任務調整公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>團體活動「龍絆‧破曉」的部分任務已於<span class="local_date" data-local_date="1617343200"></span>起進行以下平衡調整。</div><div><br></div><div>■對像任務</div><div>任務2 伊利西恩大討伐戰</div><div><br></div><div>■調整內容</div><div>調整團體戰BOSS的「蒼魂」部位HP，使其更容易被破壞。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1617609600; update_time1617687035

@@ -1,0 +1,8 @@
+article_id:3318
+category_name:公告
+title_name:部分頁面未正常顯示之異常現象公告
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1665655200"></span>更新】</strong></span></div><div>各位玩家您好<br><br>經營運團隊確認，於<span class="local_date" data-local_date="1665639000"></span>左右，發生召喚及回復能量等部分頁面未正常顯示之異常現象。<br><br>若出現本異常現象，嘗試以下操作有可能獲得改善。<br>‧請先登出Google Play的帳號，並重新登入。<br><br>造成各位玩家的不便與困擾，營運團隊再次致上最深的歉意。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上<br><br></div><hr><div>各位玩家您好</div><div><br></div><div>經營運團隊確認，於<span class="local_date" data-local_date="1665639000"></span>左右，發生召喚及回復能量等部分頁面未正常顯示之異常現象。</div><div><br></div><div>關於本異常現象之原因，目前正在進行調查。</div><div><br></div><div>造成各位玩家的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1665643020; update_time1665655139

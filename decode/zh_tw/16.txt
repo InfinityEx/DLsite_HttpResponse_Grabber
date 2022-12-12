@@ -1,0 +1,8 @@
+article_id:16
+category_name:公告
+title_name:首次活動舉辦紀念獎勵公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>於<span class="local_date" data-local_date="1538632800"></span>起，將舉辦「Dragalia Lost ～失落的龍絆～」首次活動「忠龍祈願故王的靈魂葬禮」。</div><div>為慶祝首次活動舉行，將贈送以下道具給各位玩家。</div><div>希望能在「忠龍祈願故王的靈魂葬禮」的冒險過程中助您一臂之力！</div><div><br></div><div>■禮物內容</div><div>・10連召喚券 1張</div><div>・高級蜂蜜 3個</div><div>・靈鳥之聖灰 6個</div><div><br></div><div>■禮物贈送對象</div><div>於<span class="local_date" data-local_date="1539583199"></span>之前開始遊玩「Dragalia Lost ～失落的龍絆～」的各位玩家。</div><div><br></div><div>■禮物領取方式</div><div>請至「主頁面」的「獎勵箱」領取。</div><div>若打開「獎勵箱」時未成功領取，請返回遊戲標題畫面後，重新進入遊戲確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1538632800; update_time1540519212

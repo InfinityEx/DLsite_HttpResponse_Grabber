@@ -1,0 +1,268 @@
+article_id:1813
+category_name:公告
+title_name:「光屬性傳說召喚」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「光屬性傳說召喚」預計將於<span class="local_date" data-local_date="1607320800"></span>起開始舉辦。</div><div><br></div><div>「光屬性傳說召喚」中僅會出現光屬性角色‧龍族。</div><div><span style="color: rgb(226, 80, 65);">※光屬性以外的角色‧龍族不會出現於本召喚中。</span></div><div>&nbsp;</div><div>【光屬性傳說召喚 舉辦期間】</div><div><span class="local_date" data-local_date="1607320800"></span> ～ <span class="local_date" data-local_date="1608011999"></span></div><div><br></div><div>於「光屬性傳說召喚」中出現的部分★5角色‧★5龍族介紹如下。</div><div><br></div><div>【★5角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6303353d9f10e6c66d673f492b399a6d.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>來自「阿斯特賴亞」，<br>是公會【美食殿堂】的會長，<br>同時也是個隨時在肚子餓的劍士。<br>即使來到了異世界，也從未見過<br>她旺盛的食慾有任何減退。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8bc784d76a34568599242e4d6e41ef7b2.png"></span>
+				<span>公主突襲</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予自身【闇屬性抗性於10秒之間上升10％】效果，<br>給予前方敵人光屬性傷害。<br>此闇屬性抗性上升效果無法重複。<br>米飯之力量條蓄滿時，<br>此技能轉換成「英勇公主突襲」，效果如下：<br>自身的攻擊力於5秒之間上升40%，<br>並給予前方敵人光屬性傷害。<br>技能的變化將於米飯之力量條歸零後復原。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9e1898818f4652069e70f1ad504ad68d2.png"></span>
+				<span>午餐時光</span>
+			</dt>
+			<dd>
+				<div>
+					回復自身HP，蓄集米飯之力量條。<br>此外，於15秒之間自身的防禦力上升15％。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龍化累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的龍化量條增加率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【光】無傷：HP60％‧攻＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，且HP在60％以上時，<br>則發動【攻擊力提升6％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b0f9893a86ba76b0f104d8e5df90cc332.png"></span><span>肚子餓得咕嚕咕嚕叫的貪吃佩可Ⅱ</span></dt><dd><div>追加米飯之力量條。<br>米飯之力量條於使用技能2時蓄集。<br>當量條蓄滿時，爆發攻擊發生變化，<br>將隨時間經過而米飯之力量條減少。<br>爆發攻擊的變化將於米飯之力量條歸零後復原。<br>米飯之力量條減少期間，<br>不受到「技能2的米飯之力量條蓄集效果」影響。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>詛咒抗性＋100％</span></dt><dd><div>陷入「詛咒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ffb9968d43f8fb3edf69d3eddffc0bbd2.png"></span><span>米飯就是生命的能量☆Ⅱ</span></dt><dd><div>回復HP時，給予自身<br>【10秒間，攻擊力提升20％】增益效果。<br>此效果發動後，20秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8d1d84f9d1beddaa337ffbc44b8c064d.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>791</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>485</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,516</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>身著可操控光的傳說仙寶「璇奘」，<br>並獲得嶄新力量的麒麟族封印師。<br>因其溫柔而打破封印師規定，並踏上拯救<br>眾人之路的她，正積極地與世俗產生關連。<br>最近對自己難以決心讓弟子獨立感到煩惱。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/848606f9943ed4ee61145d0c801e22e42.png"></span>
+				<span>光芒一閃之法</span>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人光屬性傷害，使其陷入「麻痺」狀態。此外，使其攻擊力於10秒之間下降10％。<br>集氣量條蓄滿時，此技能轉換成「光芒輝閃之法」，效果如下：<br>給予直線上敵人光屬性傷害，使其攻擊力於10秒之間下降25％。<br>對陷入「麻痺」狀態的敵人傷害上升。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6ce278e472156d7d2ee36e2d68dab9bc2.png"></span>
+				<span>仙氣集成之法</span>
+			</dt>
+			<dd>
+				<div>
+					使自身集氣量條增加，給予自身和周圍的隊伍全員<br>【於10秒之間，闇屬性抗性上升20％<br>（不可重複）】。集氣量條蓄滿時，此技能轉換成<br>「仙氣奔流之法」，效果如下：<br>給予隊伍全員【於30秒之間，攻擊力上升20％】。<br>此外，使隊伍全員進入【超靈感】狀態，<br>並給予自身和周圍的隊伍全員【於15秒之間，<br>闇屬性抗性上升40％（不可重複）】。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>技能傷害＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能傷害提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】堅守：HP80％‧抗闇＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，且HP在80％以上時，<br>則闇屬性抗性提升6％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/674c37f3395413055b58428b3f1421ce2.png"></span><span>仙氣印堂Ⅱ</span></dt><dd><div>追加集氣量條。<br>當量條蓄滿時，將強化下次使用的爆發攻擊、技能「光芒一閃之法」、「仙氣集成之法」。<br>此強化效果不會重複，使用爆發攻擊、技能後將會解除。此外，任務開始時技能量條提升100％。<br>集氣量條：使用技能「仙氣集成之法」時蓄集，此外，將依範圍內的隊伍角色數追加蓄集。<br>強化爆發攻擊：追加使敵方麻痺抗性下降效果。此效果無法重複。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>毒抗性＋100％</span></dt><dd><div>陷入「毒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/83bd9c8302b087a508daec2a8fc9b2cf2.png"></span><span>技能減益效果時間＋20％</span></dt><dd><div>賦予敵人的「刀傷」、「攻擊力下降」、「防禦力下降」技能減益效果持續時間提升20％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>【★5龍族介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8afc6ae21c4cef1c9f3de31c63f97ce6.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>雙胞胎龍族的妹妹，擁有的神奇盒子<br>裝著使世界變得更加美好的力量。<br>會使用與姊姊的「災厄魔盒」成對的<br>「希望聖盒」為世界散播希望與幸福。<br>最喜歡姊姊，其實是個愛撒嬌的孩子。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>希望射擊☆</span>
+			</dt>
+			<dd>
+				<div>
+					於15秒之間，自身的攻擊力上升25%、<br>爆擊率上升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】希望聖盒的使者Ⅴ</span></dt><dd><div>裝備角色如果為光屬性，<br>則自身每持有1個【幸福的閃光】增益效果，<br>攻擊力提升20％。<br>於任務開始時給予自身4個【幸福的閃光】，<br>此外因自身技能使自身攻擊力提升、防禦力提升、<br>屬性抗性提升、爆擊率提升、爆擊傷害提升、<br>活力提升、靈感提升時，<br>給予自身1個【幸福的閃光】。<br>【幸福的閃光】最大可疊加4次，<br>獲得第一個效果後，每經過20秒解除1個效果。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1607234400; update_time1606978768

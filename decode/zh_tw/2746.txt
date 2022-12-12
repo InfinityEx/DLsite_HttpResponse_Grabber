@@ -1,0 +1,8 @@
+article_id:2746
+category_name:活動
+title_name:活動【復刻】「鬥技場～迎福賀歲！鬥技大會～」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/c2b99deaa9a3cfc992640a5e89d06876.png
+
+message:<div>各位玩家您好</div><div><br></div><div>活動【復刻】「鬥技場～迎福賀歲！鬥技大會～」預計將於<span class="local_date" data-local_date="1642053600"></span>起開始舉辦。</div><div><br></div><div>【復刻】「鬥技場～迎福賀歲！鬥技大會～」是參加鬥技大會並以取得優勝為目標的活動！</div><div>本活動中可獲得用來解鎖共享技能和回復能量的道具，敬請踴躍參加！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/c2b99deaa9a3cfc992640a5e89d06876.png"></div><div><br></div><div>■注意事項</div><div>若要參加活動任務，須完成主線劇情第2章 2-1（Normal）。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1641880800; update_time1641345545

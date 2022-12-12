@@ -1,0 +1,8 @@
+article_id:1206
+category_name:公告
+title_name:角色「阿戴爾潘因」異常現象公告【更新】
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，目前角色「阿戴爾潘因」出現下列異常現象。</div><div><br></div><div>‧於瑪納之環解鎖能力「龍鎖Ⅱ」的瑪納結晶時，所需素材未正常顯示。</div><div>※本現象僅為顯示異常，實際消費道具為正確的所需素材與數量。</div><div><br></div><div>【錯誤】</div><div>奈落寶珠&times;12</div><div>幽世闇寶珠&times;4</div><div>彩虹寶珠&times;4</div><div><br></div><div>【正確】</div><div>闇之寶珠&times;25</div><div>常闇寶珠&times;5</div><div>奈落寶珠&times;1</div><div><br></div><div>關於上述異常現象，營運團隊正在進行修正。</div><div>最新進度將於本公告進行更新。</div><div><br></div><div>造成各位玩家的不便與困擾，在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1585650600"></span>更新】</strong></span></div><div>本公告中記載的異常現象已於<span class="local_date" data-local_date="1585650600"></span>左右修正完畢。</div><div><br></div><div>造成各位玩家的不便與困擾，再次致上最深的歉意。</div>
+
+start_time:1585643400; update_time1585650880

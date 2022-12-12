@@ -1,0 +1,274 @@
+article_id:1915
+category_name:公告
+title_name:「闇屬性傳說召喚」舉辦公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「闇屬性傳說召喚」預計將於<span class="local_date" data-local_date="1610949600"></span>起開始舉辦。</div><div><br></div><div>「闇屬性傳說召喚」中僅會出現闇屬性角色‧龍族。</div><div><span style="color: rgb(226, 80, 65);">※闇屬性以外的角色‧龍族不會出現於本召喚中。</span></div><div>&nbsp;</div><div>【闇屬性傳說召喚 舉辦期間】</div><div><span class="local_date" data-local_date="1610949600"></span> ～ <span class="local_date" data-local_date="1611727199"></span></div><div><br></div><div>於「闇屬性傳說召喚」中出現的部分★5角色‧★5龍族介紹如下。</div><div><br></div><div>【★5角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8307feec29b27a772bc09be164270030.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>801</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>472</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,513</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>喜歡海洋和自由的海盜團女船長。<br>擁有不輸給任何人的膽量與勇敢。<br>為了讓無法看到歌劇的邊境居民觀賞歌劇，<br>於是將自己的海盜團鍛鍊成「海盜歌劇團」，<br>並航向無邊無際的大海。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/afc42abd520d2e6796ab1dcc81039dda2.png"></span>
+				<span>海盜詠嘆調</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予周圍敵人闇屬性傷害，<br>使其陷入「暗黑」狀態。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>海盜歌劇</span>
+			</dt>
+			<dd>
+				<div>
+					於地面設置10秒【爆擊率增益效果領域】。<br>在此領域中的我方，爆擊率上升15％。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能量條增加率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span>
+				<span>【闇】順風滿帆：抗光＋7％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為闇屬性，<br>則角色在增益效果領域上時，<br>給予自身【光屬性抗性提升7％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ec72ef8cd42c62205b75088898a601112.png"></span><span>暗黑特攻＋30％</span></dt><dd><div>給予「暗黑」狀態中的敵方傷害提升30％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痺抗性＋100％</span></dt><dd><div>陷入「麻痺」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>順風滿帆‧爆擊威力＋30％</span></dt><dd><div>角色在增益效果領域上時，<br>自身爆擊時的傷害倍率提升30％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a7e622255e349df840a097ba4c29794c.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>741</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>519</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>換上泳裝的白燕騎士團副團長。<br>對夏日假期抱有比常人更強烈的憧憬，<br>還特地買了新泳裝。以工作鍛鍊出的腳力，<br>精力充沛地四處奔馳於純白沙灘上。<br>目標是成為盛夏的俯衝隊長！</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/68526b00e65aba64b66dec84c7ab98b12.png"></span>
+				<span>疾降飛燕</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人闇屬性傷害，防禦力於10秒之間下降5％。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c0bf55adfd4edfb52b0a3cb95b293cfe2.png"></span>
+				<span>迫空飛燕</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人闇屬性傷害，<br>使其陷入「毒」狀態。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防禦力＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的防禦力提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【闇】背水：危機‧攻＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為闇屬性，且HP減少至40％以下時，<br>則發動【攻擊力提升15％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f4622a323817b8123c8cb1e40e72fbd12.png"></span><span>沙灘排球熱血風格Ⅱ</span></dt><dd><div>防禦力提升5％，爆發攻擊發生變化。<br>此爆發攻擊在蓄集中仍可移動，<br>可蓄集3階段，並可依階段提升威力。<br>此外，使用技能「疾降飛燕」時，<br>給予自身【大洋歡騰】增益效果。<br>下次使用的爆發攻擊，<br>將追加賦予敵人毒狀態效果。<br>【大洋歡騰】不會重複，<br>使用爆發攻擊後將會解除。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痺抗性＋100％</span></dt><dd><div>陷入「麻痺」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6123c64d13e3b55c96e57232c53ae0ed2.png"></span><span>賦予毒狀態機率＆抗毒強化Ⅱ</span></dt><dd><div>賦予敵人「毒」狀態時若受到抵抗，自身獲得【10秒間，攻擊力提升15％】增益效果。<br>此外，HP在50％以上時，則賦予敵人「毒」狀態機率提升60％。<br>此效果發動後，5秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>【★5龍族介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/afb9b933c3379a68cf32bbbe58ea0dee.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>打從心底深愛音樂的龍族。<br>無論演奏、歌唱、指揮、作曲都是超一流。<br>外貌雖看似鯨魚，卻能自由遨遊大海與天空。<br>據說當貝爾坎特優遊於天空時，<br>下方的人們會聽見洗滌心靈的音樂。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>美妙協奏曲</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人闇屬性傷害。<br>在自身與其他角色設置的任一增益效果領域中時，<br>強化此技能，使攻擊範圍擴大，<br>並追加給予自身【任務中，爆擊時的傷害倍率<br>上升15％】增益效果。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/0ca003e40efaeaec644df1940674fce52.png"></span><span>【闇】攻擊力＆爆擊率提升Ⅴ</span></dt><dd><div>裝備角色如果為闇屬性，<br>則裝備角色的攻擊力提升45％，爆擊率提升20％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1610863200; update_time1610601707

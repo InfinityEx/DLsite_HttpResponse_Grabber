@@ -1,0 +1,8 @@
+article_id:1717
+category_name:公告
+title_name:「阿爾貝利亞競技大亂鬥」活動期間延長與日程調整公告
+image_path:
+
+message:<div>各位玩家您好</div><div>&nbsp;</div><div>於<span class="local_date" data-local_date="1601002800"></span>起舉辦中的「阿爾貝利亞競技大亂鬥」將延長活動期間。</div><div>詳細日程如下：</div><div><br></div><div>■活動期間</div><div>變更前：<span class="local_date" data-local_date="1601002800"></span> ～ <span class="local_date" data-local_date="1604123999"></span></div><div>變更後：<span class="local_date" data-local_date="1601002800"></span> ～ <span class="local_date" data-local_date="1609394399"></span></div><div>※期間限定Mission舉辦期間將延長至<span class="local_date" data-local_date="1606456799"></span>為止。</div><div><br></div><div>■<span class="local_date" data-local_date="1604124000"></span>後的活動日程</div><div><span class="local_weekly_time" data-local_date="1670997600"></span> ～ <span class="local_weekly_time" data-local_date="1671170340"></span></div><div>舉辦</div><div><br></div><div>■注意事項</div><div>活動的舉辦期間，將可能在未預先通知的情況下進行變更。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1603346400; update_time1603347817

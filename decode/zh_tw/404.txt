@@ -1,0 +1,8 @@
+article_id:404
+category_name:公告
+title_name:★4武器「蒼海之核」能力值異常公告【更新】
+image_path:
+
+message:<div>經營運團隊確認，★4武器「蒼海之核」的能力值出現了低於預期數值之異常現象。</div><div><br></div><div>本異常現象預計於今後版本更新中進行修正。</div><div><br></div><div>造成各位玩家的不便，在此致上最深的歉意。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1556258400"></span>更新】</strong></span></div><div>本異常已於<span class="local_date" data-local_date="1556258400"></span> 的資料更新後修正完畢。</div><div><br></div><div>造成各位玩家的不便，營運團隊在此致上最深的歉意。</div><div><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1556258400; update_time1556258183

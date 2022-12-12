@@ -1,0 +1,84 @@
+article_id:1117
+category_name:公告
+title_name:傳說召喚「食宴！饗趣美味廚藝巔峰戰 精選 Part 2」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>傳說召喚「食宴！饗趣美味廚藝巔峰戰 精選 Part 2」已從<span class="local_date" data-local_date="1583215200"></span>起開始舉辦！</div><div><br></div><div>精選對象之角色的出現機率上升中。</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※本召喚內容不包含同時開放的傳說召喚「食宴！饗趣美味廚藝巔峰戰 精選 Part 1」中新追加的角色和龍族。</span></div><div><br></div><div>【新追加的精選對象角色】</div><div>★5 三葉：水／短劍</div><div><br></div><div>【傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1583215200"></span> ～ <span class="local_date" data-local_date="1583992740"></span></div><div><br></div><div>新追加精選對象之角色介紹如下。</div><div><br></div><div>【精選角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2742a62ced511dba845b7b241f3911ca.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>801</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>474</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,515</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>日初之國知名料亭「七草總本家」之女。<br>性格認真有禮，但提到料理就會變得<br>積極而好強。廚藝上相當有實力，<br>尤其對高湯特別堅持。<br>為七姊弟中的三女，聽說頗受家人溺愛。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/efd46b913dcbf7a981d5a5ac72ee59ec2.png"></span>
+				<span>烹調匠心之萬全準備</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人水屬性傷害，並給予以下效果。<br>生魚片船模式：使敵人陷入「凍傷」狀態。<br>天婦羅模式：給予「凍傷」狀態中的敵方傷害提升。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/52fb94e7033fa9c18241d4aa85a71c102.png"></span>
+				<span>暖心款待花似一品</span>
+			</dt>
+			<dd>
+				<div>
+					給予隊伍全員以下效果。<br>生魚片船模式：爆擊率於15秒之間上升10％，【靈感】提升2階段。<br>天婦羅模式：爆擊時的傷害倍率於15秒之間上升50％，【靈感】提升3階段。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>爆擊率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的爆擊率提升10%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾風怒濤‧攻＋20％</span></dt><dd><div>連擊數為15次以上時攻擊力提升20％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>火燒抗性＋100％</span></dt><dd><div>陷入「火燒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span><span>連擊數持續時間＋4秒</span></dt><dd><div>最後命中的攻擊至連擊數重置為止的時間延長4秒。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力而上升的數值。</div><div><br></div><div>【角色特徵】</div><div>三葉可藉由切換「模式」，配合狀況更改戰鬥方式。</div><div>玩家能透過點擊戰鬥中顯示的專用圖示，切換【生魚片船模式】【天婦羅模式】，攻擊和效果內容也會根據「模式」產生變化。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/56d0843aa0312efb3b3247db241cb9f9.png"><br></div><div><br></div><div>▼生魚片船模式</div><div>連擊數為20次以上時一般攻擊將產生變化，以片魚動作攻擊敵人。</div><div>技能「烹調匠心之萬全準備」可使敵人陷入「凍傷」狀態。</div><div>技能「暖心款待花似一品」可賦予隊伍全員爆擊率上升之增益效果和【靈感】。</div><div><br></div><div>▼天婦羅模式</div><div>連擊數為20次以上時一般攻擊將產生變化，以炸天婦羅動作攻擊前方。</div><div>技能「烹調匠心之萬全準備」可給予敵人傷害，對陷入「凍傷」狀態的敵人傷害增加。</div><div>技能「暖心款待花似一品」可賦予隊伍全員爆擊傷害上升之增益效果和【靈感】。</div><div><br></div><div>※連擊數達到20次以上時，接下來的一般攻擊將產生變化。</div><div><br></div><div>【注意事項】</div><div>詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1583215200; update_time1582868823

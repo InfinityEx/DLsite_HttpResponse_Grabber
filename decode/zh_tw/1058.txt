@@ -1,0 +1,8 @@
+article_id:1058
+category_name:公告
+title_name:特定能力出現的異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，目前特定能力發生了下列異常現象：</div><div><br></div><div>■對象能力</div><div>防禦力下降特攻‧爆擊＋〇〇％</div><div>&nbsp;</div><div>■異常現象</div><div>當對附加防禦力下降減益效果的敵人發動攻擊時，對象能力的效果可能會多次生效。</div><div><br></div><div>關於本異常現象，營運團隊正在進行調查。</div><div>最新進度將於本公告進行更新。</div><div><br></div><div>造成全體玩家的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1580460600; update_time1580467861

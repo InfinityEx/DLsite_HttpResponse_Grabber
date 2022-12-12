@@ -1,0 +1,8 @@
+article_id:3256
+category_name:公告
+title_name:主線劇情第26章「失落的龍絆」後半登場！
+image_path:https://dragalialost.akamaized.net/attached/information/images/5e06cf38d07c4dc82625ba1c3330f62a.png
+
+message:<div>各位玩家您好</div><div><br></div><div>主線劇情第26章「失落的龍絆」後半已於<span class="local_date" data-local_date="1658728800"></span>追加！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/5e06cf38d07c4dc82625ba1c3330f62a.png"></div><div><br></div><div>一切就此消失，然後開始──<br><br>隨著本次主線劇情後半追加，「Dragalia Lost ～失落的龍絆～」故事就此完結。<br>敬請盡情享受最終章！<br><br>■關於本章最後登場的BOSS<br>當一次給予BOSS一定以上的傷害時，BOSS將會藉由其特殊能力，使自身受到的傷害減少。<br>此外，BOSS有可能會進入「解除增益效果」也無法解除之特殊強化狀態，或使特定攻擊以外的傷害減少之狀態。<br><br>■關於任務演出<br>主線劇情第26章「完全的造物主」以及「起始之『人』」中，若選項「已讀活動自動Skip」設定為ON，則在「完全的造物主」以及「起始之『人』」過關後再次進行挑戰時，將會略過任務演出。<br>※若「已讀活動自動Skip」設定為OFF，則過關後再次進行挑戰時將會播放任務演出。<br><br>■注意事項<br>1. 若要進行主線劇情第26章「失落的龍絆」後半，須完成主線劇情第26章 3-3「被否定的存在」。<br>2. 本次主線劇情後半追加時，並不會追加可使用「龍玉」進行上限解放的新龍族。點擊主線劇情各章地圖內所顯示的「龍玉」圖示，即可確認能夠獲得的龍族「龍玉」、所持數量、可獲得的剩餘次數，以及能夠獲得「龍玉」的任務。<br>3. 主線劇情第26章 5-5「起始之『人』」僅有「Normal」難度。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1658728800; update_time1658471595

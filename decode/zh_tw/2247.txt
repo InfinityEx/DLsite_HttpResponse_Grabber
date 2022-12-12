@@ -1,0 +1,154 @@
+article_id:2247
+category_name:公告
+title_name:「附獎傳說召喚」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「附獎傳說召喚」已於<span class="local_date" data-local_date="1622700000"></span>起舉辦中！</div><div>精選對象之角色、龍族出現機率將會上升。</div><div><br></div><div>進行「附獎傳說召喚」可在得到角色、龍族的同時另外獲得「附獎」。</div><div>附獎分為白金賞、金賞、銀賞、銅賞、5等賞、6等賞共6種。</div><div>進行10連召喚時第10次的附獎將必中白金賞、金賞、銀賞、銅賞其中之一。</div><div><span style="color: rgb(226, 80, 65);">獲得的附獎將發送至獎勵箱的「無期限」項目中。</span></div><div><br></div><div>※即使一次使用10張召喚券，也不等於進行「10連召喚」，不保證第10次的附獎必中白金賞、金賞、銀賞、銅賞其中之一。</div><div>※其他附獎一覽和出現機率資訊，請於「附獎傳說召喚」舉辦期間由遊戲內下方選單列的「召喚」＞「出現機率」＞「附獎」進行確認。</div><div><br></div><div>【新追加的精選對象角色】</div><div>★5 伊斯哈克：光／弓</div><div><br></div><div>【新追加的精選對象龍族】</div><div>★5 拉斐爾：光</div><div><br></div><div>【附獎傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1622700000"></span> ～ <span class="local_date" data-local_date="1623736799"></span></div><div><br></div><div>新追加精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/dd70e686cde60b8f8a2eecec618e60eb.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>808</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>469</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,517</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>守護著位於北格拉斯迪亞大陸的<br>佛萊斯提亞聖地「伊尼希昂」以及<br>聖地守護神「世界樹」的守衛。<br>重視佛萊斯提亞的傳統與守則，<br>並以將其傳承至後世作為自身使命。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3d61034215be89a7fcc68fb9ccff4c3b2.png"></span>
+				<span>森林之怒</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>給予前方敵人傷害，<br>並給予自身下列隨機一種增益效果。<br>此外，於地面設置相同效果的增益效果領域。<br>‧攻擊力上升。<br>‧攻擊速度上升。<br>‧HP持續回復。<br>‧技能量條持續回復。</div><div class="skill-detail">威力：800 × 1 Hit<br>威力：75 × 4 Hit<br>所需技能點數：2,835<br>所需共享技能點數：13,267<br>特殊效果<br>‧神綠守護（攻擊力提升）<br>　攻擊力提升5％<br>　效果時間：10 秒<br>‧神綠守護（攻擊速度提升）<br>　攻擊速度提升5％<br>　效果時間：10 秒<br>‧神綠守護（HP持續回復）<br>　效果時間：10 秒<br>　效果間隔：2.9 秒<br>　效果量：10<br>‧神綠守護（技能量條持續提升）<br>　效果時間：10 秒<br>　效果間隔：1 秒<br>　效果量：2％<br>增益效果領域（10秒）<br>‧神綠守護（攻擊力提升）<br>　攻擊力提升10％<br>‧神綠守護（攻擊速度提升）<br>　攻擊速度提升10％<br>‧神綠守護（HP持續回復）<br>　效果間隔：2.9 秒<br>　效果量：20<br>‧神綠守護（技能量條持續提升）<br>　效果間隔：1 秒<br>　效果量：2％</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/90d8cd6109c5aa230672ce95592b1e492.png"></span>
+				<span>雷霆狩獵</span>
+			</dt>
+			<dd><div>給予前方敵人傷害。</div><div class="skill-detail">威力：1,500 × 1 Hit<br>所需技能點數：7,475<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能量條增加率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】領域：順風滿帆‧抗闇＋7％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為光屬性，<br>則角色在增益效果領域上時，<br>給予自身【闇屬性抗性提升7％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>神綠守衛Ⅱ</span></dt><dd><div>使用技能「森林之怒」時，<br>給予自身攻擊力提升氣場（爆發氣場上限Lv.2）。<br>此外，角色在增益效果領域上時，<br>給予自身【闇屬性抗性提升5％】增益效果。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>毒抗性＋100％</span></dt><dd><div>陷入「毒」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>順風滿帆‧攻＋20％</span></dt><dd><div>角色在增益效果領域上時，<br>自身的攻擊力提升20％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5887067c25764a039af58a68fd36885d.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>被稱為「五大天使」的龍族之一。<br>性格豪放且樂天。雖然腕力驚人<br>且擅長戰鬥，但其真正本領卻是治癒之力。<br>她秉持著想在能力範圍內拯救<br>所有生命的信念而浪跡天涯。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>天使之義</span>
+			</dt>
+			<dd><div>給予前方敵人傷害，<br>裝備角色可即時發動技能2。</div><div class="skill-detail">威力：650 × 1 Hit<br>威力：800 × 1 Hit<br>威力：950 × 1 Hit<br>特殊效果<br>‧技能蓄集<br>　效果量：100％</div></dd></dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻擊力＋60％</span></dt><dd><div>裝備角色如果為光屬性，<br>則裝備角色的攻擊力提升60％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>【光】拉斐爾的天佑Ⅱ</span></dt><dd><div>裝備角色如果為光屬性，<br>則受到傷害時，回復自身HP並發動<br>【30秒間，拉斐爾的天佑】增益效果。<br>此效果期間中防禦力提升50％。<br>此效果發動後，60秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 附獎一覽和出現機率資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「附獎」進行確認。</div><div>3. 進行「10連召喚」或一次使用10張召喚券所獲得的道具重複時，同種道具將統一發送至獎勵箱的「無期限」項目中。</div><div>4. 精選對象角色在「阿爾貝利亞競技大亂鬥」中可改變角色外觀的「角色造型」將轉為SALE中，並減少解鎖時所需的道具。</div><div>※有部分角色無法解鎖角色造型。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1622700000; update_time1622598850

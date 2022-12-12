@@ -1,0 +1,373 @@
+article_id:1695
+category_name:公告
+title_name:「失落龍絆日　非凡佳選」開始舉辦！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>「失落龍絆日　非凡佳選」已於<span class="local_date" data-local_date="1602828000"></span>起舉辦中！</div><div>&nbsp;</div><div>【關於失落龍絆日】 ※包含「失落龍絆日　非凡佳選」</div><div>期間限定的角色將於失落龍絆日中登場。</div><div>★5角色、龍族的初始「出現機率」，將由平時的4％上升至6％！</div><div>※如召喚出★5或★5精選，出現機率將會變回初始設定值6％。</div><div><span style="color: rgb(226, 80, 65);">※過去於「失落龍絆日」中登場的角色、龍族也可能於本召喚中登場。登場角色、龍族詳細資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</span></div><div><br></div><div>【新追加的期間限定精選對象角色】</div><div>★5 梅兒莎（萬聖節Ver.）：風／槍</div><div>★5 阿迦奢（萬聖節Ver.）：水／刀</div><div><br></div><div>【曾於過去的失落龍絆日中登場的精選對象角色】</div><div>★5 夏儂（龍絆日Ver.）：闇／劍</div><div><br></div><div>【曾於過去的失落龍絆日中登場的精選對象龍族】</div><div>★5 凱特西（龍絆日Ver.）：闇</div><div><br></div><div>此外，以下期間限定的角色和龍族將於本次失落龍絆日中再次登場。</div><div><span style="color: rgb(226, 80, 65);">※以下角色和龍族並非精選對象。</span></div><div>【期間限定再度登場的角色】</div><div>★5 慕慕（萬聖節Ver.）：火／斧</div><div>★5 耶魯菲莉絲（萬聖節Ver.）：光／槍</div><div>★4 路恩（萬聖節Ver.）：火／法杖</div><div>★4 歐蒂妲（萬聖節Ver.）：水／劍</div><div>★4 伊兒提米亞（萬聖節Ver.）：光／法杖</div><div>★3 愛德華（萬聖節Ver.）：光／刀</div><div><br></div><div>【期間限定再度登場的龍族】</div><div>★5 瑪利提姆斯（萬聖節Ver.）：水</div><div>★4 西爾琪（萬聖節Ver.）：光</div><div><br></div><div>【失落龍絆日　非凡佳選出現機率】</div><div>★5合計：6.00％</div><div>★5精選 合計：2.30％（角色：1.50％ 龍族：0.80％）</div><div>★5一般 合計：3.70％（角色：1.50％ 龍族：2.20％）</div><div>★4一般 合計：16.00％（角色：8.55％ 龍族：7.45％）</div><div>★3一般 合計：78.00％（角色：47.00％ 龍族：31.00％）</div><div><br></div><div>【失落龍絆日　非凡佳選舉辦期間】</div><div><span class="local_date" data-local_date="1602828000"></span> ～ <span class="local_date" data-local_date="1603087199"></span></div><div><br></div><div>精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選對象介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2c388d02ac575beb16c0f038c562d8fd.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>790</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>485</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>變裝成殭屍的佛萊斯提亞少女。<br>雖然平日性格溫柔和善，但到了萬聖節<br>卻徹底化身為令人毛骨悚然的可怕活屍。<br>然而她無法隱藏對宴會的興奮期待，<br>最終不小心變成活力充沛的殭屍。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/11558585106c5018e7f5f984e61288292.png"></span>
+				<span>鬼影復甦</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的攻擊力於15秒之間上升25％。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b6dadd2717890e18594f663a9069c9bf2.png"></span>
+				<span>猛毒嘶咬</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人風屬性傷害，<br>使其陷入「毒」狀態。<br>此外，於30秒之間使其毒抗性下降10％。<br>此效果無法重複。<br>攻擊時，可控制方向。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的HP提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【風】無傷：HP60％‧攻＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為風屬性，且HP在60％以上時，<br>則發動【攻擊力提升6％】增益效果。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3c77eb4ce89d7a87424b9733969ae7282.png"></span><span>復活HP提升Ⅱ</span></dt><dd><div>復活時，以HP80％的狀態復活。<br>此效果每場任務最多可發動1次。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>凍結抗性＋100％</span></dt><dd><div>陷入「凍結」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>毒觸發‧PT攻＋10％</span></dt><dd><div>自身使敵方陷入毒狀態時，給予隊伍全員<br>【10秒間，攻擊力提升10％】增益效果。<br>此效果發動後，5秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b64714e2b07d8f607ef5ab65e7458cbe.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>743</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>變裝成吸血鬼的「唯全教團」祭司。<br>於萬聖節街上遊玩的姿態宛如純真孩童，<br>但當她嘴角揚起一抹妖豔微笑時，<br>卻又彷彿闇夜明月般令人為之著迷。<br>存在她心中的是虛無？抑或是──？</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d436213ee1d25605303354b04cb18e92.png"></span>
+				<span>無名掠手</span>
+				<div class="skill-cost">
+					<span>可共享</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人水屬性傷害，<br>使敵方防禦力於10秒之間下降3％。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/10fc81680bc1c3cbf52e7271e7cfdf5f2.png"></span>
+				<span>狂氣之棺</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標和其周圍敵人水屬性傷害，<br>使其陷入「刀傷」狀態。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻擊力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的攻擊力提升10%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>【水】堅守：HP80％‧抗火＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為水屬性，且HP在80％以上時，<br>則火屬性抗性提升6％。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e915bc581ed54d29f06ebfc9f8eed8252.png"></span><span>防禦力下降觸發‧賦予減益效果機率Ⅱ</span></dt><dd><div>自身使敵方陷入「防禦力下降」狀態時，給予自身<br>【5秒間，賦予敵人「減益效果」機率提升50％】增益效果。<br>此效果發動後，5秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>刀傷觸發‧HP回復Ⅱ</span></dt><dd><div>自身使敵方陷入「刀傷」狀態時，回復自身HP。<br>此效果發動後，5秒間不會再次發動。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/92bd4213bc0892d9c0bbfd9bee44e61e.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>成為耶魯菲莉絲的護衛，換上新裝備的夏儂。<br>她向純白斗篷立誓要與暗殺訣別，<br>也向手中之刃立誓要貫徹守護摯友。<br>染滿鮮血的過去、以及殘酷的真相，<br>都無法使她內心受挫。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a14e3aeaf8990581545b970f18bf5f82.png"></span>
+				<span>危機闇刃</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標闇屬性傷害，使敵方防禦力於15秒之間下降5％。此防禦力下降效果無法重複。<br>此技能使用後於一定時間內發動【技能連鎖】。<br>【技能連鎖】中，「危機闇刃」將轉換為【給予前方敵人闇屬性傷害，對陷入「防禦力下降」狀態的敵人傷害上升】效果，並於給予敵方傷害後追加傷害（對陷入「防禦力下降」狀態的敵人傷害上升）。<br>此外，使用技能「闇影抹滅」時目標若在特定狀態下，則技能「危機闇刃」將可於一定時間內【技能連鎖】。<br>①目標在「獲得增益效果」狀態時，技能發生變化：<br>【給予目標闇屬性傷害，解除1個增益效果】＋追加傷害（對陷入「防禦力下降」狀態的敵人傷害上升）<br>②目標在「BREAK」狀態時，技能發生變化：<br>【給予目標闇屬性傷害，給予BREAK狀態中的敵方傷害提升】＋追加傷害（給予BREAK狀態中的敵方傷害提升）<br>並且，若目標同時符合①與②的條件時，將優先發動①。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/18bb75cee57f186afb031e6ca02c56f92.png"></span>
+				<span>闇影抹滅</span>
+			</dt>
+			<dd>
+				<div>
+					給予目標闇屬性傷害，使其陷入「毒」狀態。<br>此技能使用後於一定時間內發動【技能連鎖】。<br>【技能連鎖】中，「闇影抹滅」將轉換為【給予目標闇屬性傷害，對陷入「毒」狀態的敵人傷害上升】效果，並於給予敵方傷害後追加傷害。（對陷入「毒」狀態的敵人傷害上升）。<br>此外，使用技能「危機闇刃」時目標若在特定狀態下，則技能「闇影抹滅」將可於一定時間內【技能連鎖】。<br>①目標在「獲得增益效果」狀態時，技能發生變化：<br>【給予目標闇屬性傷害，解除1個增益效果】＋追加傷害（對陷入「毒」狀態的敵人傷害上升）<br>②目標在「BREAK」狀態時，技能發生變化：<br>【給予目標闇屬性傷害，給予BREAK狀態中的敵方傷害提升】＋追加傷害（給予BREAK狀態中的敵方傷害提升）<br>並且，若目標同時符合①與②的條件時，將優先發動①。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>龍化累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的龍化量條增加率提升15%。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">連鎖EX能力</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【闇】毒：毒觸發‧攻＋13％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員獲得以下能力。<br>角色如果為闇屬性，<br>則自身使敵方陷入毒狀態時，<br>發動【15秒間，攻擊力提升13％】增益效果。<br>此效果發動後，10秒間不會再次發動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a2241ae1de30904a24117f1388bd71782.png"></span><span>防禦力下降特攻＋30％</span></dt><dd><div>給予「防禦力下降」狀態中的敵方傷害提升30％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bd7de81c28d0b9c93b0edbfc86b0cb6a2.png"></span><span>護影覺悟Ⅱ</span></dt><dd><div>陷入「黑暗」、「麻痺」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>毒特攻＋30％</span></dt><dd><div>給予「毒」狀態中的敵方傷害提升30％。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力上升或下降的數值。</div><div>※請注意相同名字的角色，無法編制於同一個隊伍之中。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ba637bc38cca2534bf3ba4cb6df05145.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>謝斯的契約龍。與可愛的外表相反，<br>性格我行我素又愛惡作劇，興趣是觀察人類和<br>在夜晚散步。將自己信任以外的人<br>都視為玩物。兼具冷酷和熱情的性格，<br>據說和契約主非常相似。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>優雅謀略</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人10秒闇屬性傷害。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【闇】聰明把戲Ⅴ</span></dt><dd><div>裝備角色如果為闇屬性，<br>則任務開始時，給予自身15次【下次技能傷害提升180％】增益效果。<br>此外每連擊25次時，給予自身【下次技能傷害提升180％】增益效果。【下次技能傷害提升180％】增益效果最大可累積15次，超過上限的份量則會消滅。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【闇】龍化解除時賦予‧聰明把戲Ⅴ</span></dt><dd><div>裝備角色如果為闇屬性，<br>則龍化解除時，給予自身8次【下次技能傷害提升180％】增益效果。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1602828000; update_time1602647307

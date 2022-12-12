@@ -1,0 +1,8 @@
+article_id:309
+category_name:公告
+title_name:「輕鬆龍絆」第84話更新
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>4格漫畫「輕鬆龍絆」第84話已公開。</div><div>「輕鬆龍絆」的觀賞方式如下。</div><div><br></div><div>1. 請點選遊戲內下方選單列的「選單」。</div><div><br></div><div>2. 點選4格漫畫「輕鬆龍絆」圖示後，即可觀賞4格漫畫「輕鬆龍絆」。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div><br></div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1553666400; update_time1553226298

@@ -1,0 +1,8 @@
+article_id:1997
+category_name:活動
+title_name:設施活動「惡魔誘惑之虛偽樂園」舉辦公告
+image_path:https://dragalialost.akamaized.net/attached/information/images/2872d064dbb43291d58ea444ee0a04bc.png
+
+message:<div>各位玩家您好<br><br>設施活動「惡魔誘惑之虛偽樂園」預計將於<span class="local_date" data-local_date="1614319200"></span>開始舉辦。<br>本活動可挑戰風屬性的BOSS，並建造活動限定的獎勵設施。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/f2f4e543af74f110a09ee8175ad12eff.png"></div><div>王子等人在北大陸的旅途中，造訪了某個位於深山的小村落「天境村」。<br>當地有位被稱為貴夫人的女性，<br>會以不可思議的力量改寫人們的記憶。<br>莫非那股力量是源自於「封印石」的瘴氣？<br>王子與使徒共同前往滿是虛偽的樂園進行潛入搜查，但&hellip;&hellip;<br><br>■活動期間<br><span class="local_date" data-local_date="1614319200"></span> ～ <span class="local_date" data-local_date="1615442399"></span><br><br>■注意事項<br>1. 若要參加活動任務，須完成主線劇情第2章 2-1（Normal）。<br>2. 若要參加團隊遊戲，須完成主線劇情第2章 2-1（Normal）。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1614146400; update_time1613526184

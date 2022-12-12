@@ -1,0 +1,214 @@
+article_id:1004
+category_name:公告
+title_name:傳說召喚「響徹工房！三姊妹的羈絆 精選」再度舉辦中！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>傳說召喚「響徹工房！三姊妹的羈絆 精選」已於<span class="local_date" data-local_date="1578981600"></span>起再度舉辦中！</div><div><br></div><div>精選對象之角色‧龍族的出現機率上升中。</div><div>※於同時舉辦的傳說召喚「奔馳於戰場‧北之疾風」登場的新角色‧新龍族也會出現於本召喚中，但並非精選對象。</div><div><br></div><div>【精選對象之角色‧龍族】</div><div>■角色</div><div>★5 羅吉娜：火／斧</div><div>★5 雷吉娜：火／刀</div><div>★4 露吉娜：水／短劍</div><div><br></div><div>■龍族</div><div>★5 阿魯庫托斯：火</div><div><br></div><div>※其他精選詳細內容，請點選遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>【傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1578981600"></span> ～ <span class="local_date" data-local_date="1579759140"></span></div><div><br></div><div>部分精選對象之角色‧龍族介紹如下。</div><div><br></div><div>【精選角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/984cb43a06b09da60dd709a2ed320170.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/eef298fd3aee3225d7264356843b99e72.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>742</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>鍛冶屋三姊妹的次女。<br>負責揮舞重鎚，將武器鍛造成型。<br>擁有能自由操控火焰溫度的能力。<br>責任感很強，對武器品質絕不妥協。<br>作為偉大父親的繼承人，引領著三姊妹。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>鍛冶衝擊</span>
+			</dt>
+			<dd>
+				<div>
+					給予周圍敵人火屬性傷害。<br>此技能發動時，將依照玩家點擊畫面的次數<br>追擊目標，最多可追擊6次。<br>追擊中可控制方向。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8c34fcb89d5a300e55bf63bd264927542.png"></span>
+				<span>職匠守護</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的防禦力於15秒之間上升25％。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防禦力＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的防禦力提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>技能連結‧攻＋10％</span></dt><dd><div>玩家操作的角色於技能1可使用時，<br>給予該角色【10秒間，攻擊力提升10％】增益效果。<br>此效果發動後，15秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠抗性＋100％</span></dt><dd><div>陷入「睡眠」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>守護之鏈‧攻＋13％</span></dt><dd><div>獲得防禦力提升增益效果時，<br>發動【15秒間，攻擊力提升13％】增益效果。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力而上升的數值。</div><div><br></div><div>【精選角色介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c44cc9068bf031327573acae136c41db.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/374013321d6b145623fb1460c387fba32.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>818</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>471</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>2,529</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">角色詳細</div>
+				<div class="param">
+					<ul>
+						<li>鍛冶屋三姊妹的長女。<br>負責替鍛造完成的武器注入瑪納。<br>為實質上的店長。雖然格性悠哉，<br>卻也以她獨特的步調安排著鍛冶屋裡的事物。<br>讓人放鬆的治癒系笑容為其特色。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>增幅熔爐</span>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人火屬性傷害，<br>使其陷入「火燒」狀態。<br>命中敵人即發動【技能輪轉】，<br>技能效果將隨階段變化。<br>階段1：追加「自身的爆擊率<br>於15秒之間上升10％」效果。<br>階段2：額外對陷入「火燒」狀態的敵人傷害上升。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>擴充增壓</span>
+			</dt>
+			<dd>
+				<div>
+					可即時發動技能「增幅熔爐」，<br>自身爆擊時的傷害倍率於20秒之間上升50％。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻擊力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的攻擊力提升10%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span><span>技能連結‧防＋15％</span></dt><dd><div>玩家操作的角色於技能1可使用時，<br>給予該角色【10秒間，防禦力提升15％】增益效果。<br>此效果發動後，15秒間不會再次發動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠抗性＋100％</span></dt><dd><div>陷入「睡眠」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>守護之鏈‧治癒Ⅳ</span></dt><dd><div>獲得防禦力提升增益效果時，<br>發動【20秒間，HP持續回復】增益效果。</div></dd></dl></div></div></div><div>※以上為Lv.80、瑪納之環解放數50時的能力值，並非獲得時的能力值。</div><div>※能力值不包含因能力而上升的數值。</div><div><br></div><div>【精選龍族介紹】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2b9e8b0f4a2f8921367f4df7a5e58bae.png"></div>
+	<div class="status">
+		<div class="title">能力值</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>攻擊力</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">龍族詳細</div>
+				<div class="param">
+					<ul>
+						<li>擁有卓越鍛冶技術和知識的龍族。<br>性格熱血，喜愛教導並鍛鍊人類鍛冶技巧。<br>據說鍛冶屋三姊妹的父親也曾受他指導，<br>藉以磨練自身技術。平常似乎會<br>浸身於火山岩漿中以鍛鍊身心。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>螺旋式龍族墜擊</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人火屬性傷害，<br>使其陷入「昏厥」狀態。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻擊力＆爆擊威力提升Ⅱ</span></dt><dd><div>裝備角色如果為火屬性，<br>則裝備角色的攻擊力提升45％、爆擊時的傷害倍率提升55％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請由遊戲內下方選單列的「召喚」＞「召喚資訊」＞「詳細」進行確認。</div><div>2. 其他精選對象資訊，請由遊戲內下方選單列的「召喚」＞「出現機率」＞「出現機率一覽」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1578981600; update_time1578452082

@@ -1,0 +1,8 @@
+article_id:1091
+category_name:活動
+title_name:活動「MONSTER HUNTER STRANGELAND」終章追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/152c9fd58e48e5d3ec3250a3b5e629a4.png
+
+message:<div>各位玩家您好</div><div><br></div><div>活動「MONSTER HUNTER STRANGELAND」已於<span class="local_date" data-local_date="1581919199"></span>結束，並追加終章內容！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/152c9fd58e48e5d3ec3250a3b5e629a4.png"></div><div>終章可從下方選單列的「任務」，點選「活動圖示」後，從「活動」內的「限定任務」進行閱覽。</div><div><br></div><div>■終章解放期間</div><div><span class="local_date" data-local_date="1581919200"></span> ～ <span class="local_date" data-local_date="1582523999"></span></div><div><br></div><div>■注意事項</div><div>只有在活動期間結束時已完成活動劇情第10話的玩家可以閱覽終章的內容。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1581919200; update_time1581671648

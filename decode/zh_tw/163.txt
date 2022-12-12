@@ -1,0 +1,8 @@
+article_id:163
+category_name:公告
+title_name:「涅法莉耶（星龍祭Ver.）」、「亞雷克西斯（星龍祭Ver.）」能力值錯誤公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊發現，現正舉辦中的傳說召喚「天導祈願星龍祭」中可召喚出的角色「涅法莉耶（星龍祭Ver.）」、「亞雷克西斯（星龍祭Ver.）」之能力值有所錯誤。</div><div><br></div><div>現在已修正為正確的能力值。</div><div>有關本錯誤發生之原因與詳細說明如下。</div><div><br></div><div>■錯誤發生原因與詳細</div><div>「涅法莉耶（星龍祭Ver.）」與「亞雷克西斯（星龍祭Ver.）」之能力值輸入有誤，導致比【傳說召喚「天導祈願星龍祭」舉辦公告】中所記載的數值要低。</div><div><br></div><div>■問題發生期間</div><div><span class="local_date" data-local_date="1545026400"></span>～<span class="local_date" data-local_date="1545236700"></span></div><div><br></div><div>詳細修正內容如下。</div><div><br></div><div>■修正內容</div><div>「涅法莉耶（星龍祭Ver.）」與「亞雷克西斯（星龍祭Ver.）」覺醒至★5、Lv.70及瑪納之環全數解放時的能力值，已修正為如同公告【傳說召喚「天導祈願星龍祭」舉辦公告】中記載之正確數值。</div><div><br></div><div>※資料修正時，依對象角色的等級、瑪納之環強化情形將可能使能力值有所出入。</div><div>※修正資料反映至遊戲時，部分資料可能因此使對象角色的數值顯示發生短暫異常。如發生此異常時，請您嘗試重新啟動應用程式，可排除此問題。</div><div><br></div><div>作為本異常之補償，將依序發送以下道具於<span class="local_date" data-local_date="1545236700"></span>以前開始進行遊戲的所有玩家。</div><div><br></div><div>‧10連召喚券1張</div><div>‧龍輝晶石1500個</div><div><br></div><div>此外，若於<span class="local_date" data-local_date="1545236700"></span>以前曾於「天導祈願星龍祭」進行召喚之玩家，將依序發送以下道具。</div><div><br></div><div>‧龍輝晶石1000個</div><div><br></div><div>以上補償道具可從「獎勵箱」領取。</div><div>以上補償道具，於<span class="local_date" data-local_date="1545890399"></span>以前登入遊戲時即可領取。</div><div>以上道具的領取期限為道具發送至獎勵箱後的七日內，敬請留意。</div><div><br></div><div>造成所有玩家的困擾，營運團隊在此至上最深的歉意。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1545236700; update_time1547531446

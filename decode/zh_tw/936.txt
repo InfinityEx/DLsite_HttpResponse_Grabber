@@ -1,0 +1,8 @@
+article_id:936
+category_name:公告
+title_name:「星龍祭登入獎勵」開始舉辦！【更新】
+image_path:https://dragalialost.akamaized.net/attached/information/images/7f839ecef67d3c9f17547b96869995e6.png
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1576239000"></span>更新】</strong></span><br><span class="local_date" data-local_date="1576130400"></span> ～ <span class="local_date" data-local_date="1576219500"></span>期間部分圖示上的「活動期間」誤植成日文，現已修正完畢。</div><div><br></div><div>造成各位玩家的不便與困擾，在此致上最深的歉意。</div><hr><div>各位玩家您好</div><div><br></div><div>「星龍祭登入獎勵」活動已於<span class="local_date" data-local_date="1576130400"></span>開始舉辦！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/7f839ecef67d3c9f17547b96869995e6.png"></div><div><br></div><div>在活動期間內登入遊戲，就能獲得以下豪華獎勵！</div><div><br></div><div>■登入獎勵詳細內容</div><div>第1天 已上限解放的★4武器「聖願之刃（短劍）」 1把</div><div>第2天 星龍祭烤雞 3個</div><div>第3天 貼圖（鏘鏘♪） 1個</div><div>第4天 龍輝晶石 300個</div><div>第5天 龍輝晶石 300個</div><div>第6天 10連召喚券 1張</div><div>第7天 星龍祭烤雞 3個</div><div>第8天 龍輝晶石 300個</div><div>第9天 龍輝晶石 300個</div><div>第10天 聖夜使者的贈禮 1個</div><div><br></div><div>■活動期間</div><div><span class="local_date" data-local_date="1576130400"></span> ～ <span class="local_date" data-local_date="1577339999"></span></div><div><br></div><div>■注意事項</div><div>1. 登入獎勵會於每日14:00以後登入遊戲時，發送至獎勵箱。</div><div>2. 登入獎勵所贈送的禮物有領取期限，敬請留意。</div><div>3.獲得的貼圖將直接追加至貼圖一覽。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1576130400; update_time1576457026

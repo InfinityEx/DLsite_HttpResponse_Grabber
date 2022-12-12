@@ -1,0 +1,165 @@
+article_id:330
+category_name:公告
+title_name:傳說召喚「希望與友情的彩蛋狩獵 精選」開始舉辦！
+image_path:
+
+message:<div>傳說召喚「希望與友情的彩蛋狩獵 精選」已於<span class="local_date" data-local_date="1554012000"></span>開始舉辦！</div><div><br></div><div>精選對象之角色‧龍族‧龍輝護符的出現機率上升中。</div><div><br></div><div>【精選角色‧龍族‧龍輝護符】</div><div>■角色</div><div>★5 拉拉諾亞：水／弓</div><div>★4 芙露璐：光／短劍</div><div><br></div><div>■龍族</div><div>★5 希莫鳥：水</div><div><br></div><div>■龍輝護符</div><div>★5 森林編織之絆</div><div>★4 蛋上所繪之夢</div><div>★3 小小的紙糊龍偶</div><div><br></div><div>※其他精選詳細內容，請點選遊戲內下方選單列的「召喚」後，從「召喚資訊」進行確認。</div><div><br></div><div>【傳說召喚 精選舉辦期間】</div><div><span class="local_date" data-local_date="1554012000"></span> ～ <span class="local_date" data-local_date="1555048740"></span></div><div><br></div><div>部分精選對象之角色‧龍族‧龍輝護符介紹如下。</div><div><br></div><div>【精選角色介紹】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6228a2cd245642c97e52fe010d911db5.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>80</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5ec5a02dc82e8bb97b2ed4cdb44045452.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>806</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>469</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>2515</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">角色詳細</div>
+			<div class="param">
+				<ul>
+					<li>住在西之森林部落的佛萊斯提亞族。<br>因其狩獵的才能與優秀的身體素質，<br>以及受人愛戴這點而被任命為下任族長。<br>相伴於側的獵犬洛魯弗，則是打小在一起的<br>搭檔。跟琉卡和夏思特是兒時玩伴。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/bed50bf6f65f5dd9e3905c40d2e039bf2.png"></span>
+				<span>豔彩箭雨</span>
+			</dt>
+			<dd>
+				<div>
+					給予直線上敵人水屬性傷害。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>狩獵直覺</span>
+			</dt>
+			<dd>
+				<div>
+					給予自身及周圍我方的攻擊力於10秒之間上升10%，<br>並使技能量條增加率提升20％。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EX能力</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>技能累積＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					隊伍全員的技能量條增加率提升15%。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>20連擊爆擊威力＋10％</span></dt><dd><div>每連擊20次時，<br>發動【爆擊時的傷害倍率<br>於20秒之間提升10％】增益效果。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>昏厥抗性＋100％</span></dt><dd><div>陷入「昏厥」狀態機率下降100％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>技能傷害＋30％</span></dt><dd><div>攻擊技能傷害提升30％。</div></dd></dl></div></div></div><div>※以上為最高Lv、瑪納之環全數解放時的能力值，並非獲得時的能力值。</div><div><br></div><div>【精選龍族介紹】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1c3b3a4a71d08ee7a2f426903b3678dd.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>383</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>113</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>981</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">龍族詳細</div>
+			<div class="param">
+				<ul>
+					<li>住在某座森林中，滿懷慈愛的龍族。<br>期盼著愛兒的誕生，歷時數百年皆在<br>孵育著懷中的蛋。性格平和易親近，<br>但其內心懷有的深厚愛情，<br>使她在蛋面臨危險時會陷入混亂。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">技能</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/71ec1ea232ae067c124323752959fb9f2.png"></span>
+				<span>虹彩爆泡</span>
+			</dt>
+			<dd>
+				<div>
+					給予前方敵人水屬性傷害，<br>回復我方全員HP。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【水】HP＋40％</span></dt><dd><div>裝備角色如果為水屬性，<br>則裝備角色的HP提升40％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/561f0cc02896bcc3c7580180041730282.png"></span><span>【水】Overdrive特攻＋60％</span></dt><dd><div>裝備角色如果為水屬性，<br>則給予Overdrive狀態中的敵方傷害提升60％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放、信賴度最高時的能力值，並非獲得時的能力值。</div><div><br></div><div>【精選龍輝護符介紹】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/858cd118f63aad7fbd3a799aa716e203.png"></div>
+<div class="status">
+	<div class="title">能力值</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>177</span>
+				</li>
+				<li class="atk">
+					<span>攻擊力</span>
+					<span>64</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66fdd3be5267be47540ee79066dc8f02.png" alt=""></span>
+			<span>381</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">能力</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【弓】技能傷害＋35％</span></dt><dd><div>裝備角色的武器種類如果為弓，<br>則裝備角色的攻擊技能傷害提升35％。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>技能累積‧強擊＋10％</span></dt><dd><div>爆發攻擊命中時，<br>技能量條的增加率提升10％。</div></dd><dt class="event 20807"><span><img src="https://dragalialost.akamaized.net/attached/information/images/f016fe8170613105185e4d99701559292.png"></span><span>彩蛋P＋150％</span></dt><dd class="event 20807"><div>任務過關後所獲得的【彩蛋P】增加150％。</div></dd></dl></div></div></div><div>※以上為最高Lv、上限全數解放的能力值，並非獲得時的能力值。</div><div><br></div><div>【注意事項】</div><div>1. 詳細召喚資訊，請點擊遊戲內下方選單列的「召喚」後，從「召喚資訊」中的「詳細」進行確認。</div><div>2. 其他精選對象資訊，請點擊遊戲內下方選單列的「召喚」後，從「召喚資訊」中的「召喚資訊」進行確認，或於「出現機率」中的「出現機率一覽」進行確認。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1554012000; update_time1553933492

@@ -1,0 +1,8 @@
+article_id:1921
+category_name:公告
+title_name:主線劇情第17章「聖都葛拉姆斯」追加新劇情！
+image_path:https://dragalialost.akamaized.net/attached/information/images/f1ede46c760eb44555fb8573a24ac7b4.png
+
+message:<div>各位玩家您好</div><div><br></div><div>主線劇情第17章「聖都葛拉姆斯」已於<span class="local_date" data-local_date="1610949600"></span>追加新劇情！</div><div>&nbsp;</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/f1ede46c760eb44555fb8573a24ac7b4.png"></div><div><br></div><div>使徒涅因與天使聖德芬於某處廢棄教會交換情報。</div><div>涅因對教會內部保管的封印石消失事件，開始道出自己的推測――</div><div><br></div><div>敬請期待最新劇情！</div><div><br></div><div>■注意事項</div><div>‧如要進行主線劇情第17章「聖都葛拉姆斯」追加的新劇情，須完成主線劇情第17章5-4「妖精們的場所」。</div><div>‧追加的新劇情並非全語音。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆</div>
+
+start_time:1610949600; update_time1610589018

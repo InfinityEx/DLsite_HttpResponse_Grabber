@@ -1,0 +1,8 @@
+article_id:663
+category_name:公告
+title_name:活動舉辦‧贈送「龍輝晶石」好禮！
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>為了讓玩家們能在8月更加盡情享受「Dragalia Lost ～失落的龍絆～」遊戲內容，營運團隊已贈送「龍輝晶石」給各位玩家！</div><div>希望可以助您一臂之力，於現正舉辦中的活動裡大顯身手！</div><div><br></div><div>■禮物內容</div><div>龍輝晶石 1200個</div><div><br></div><div>■贈送對象</div><div>於<span class="local_date" data-local_date="1565330400"></span>前開始遊戲的玩家。</div><div><br></div><div>道具領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1565330400; update_time1569483874

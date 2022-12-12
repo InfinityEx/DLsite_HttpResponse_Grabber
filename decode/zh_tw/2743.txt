@@ -1,0 +1,8 @@
+article_id:2743
+category_name:公告
+title_name:召喚發生錯誤時，選擇「重試」後會再次進行召喚之異常現象公告【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1641880800"></span>更新】</strong></span><br>營運團隊將會依序發送異常再次召喚中所消費的龍輝晶石、召喚券與龍光鑽石，給在<span class="local_date" data-local_date="1640930820"></span> ～ <span class="local_date" data-local_date="1640932320"></span>左右期間曾異常再次召喚的各位玩家。<br><br>補償道具請至「獎勵箱」領取。<br><br>造成各位玩家的不便與困擾，營運團隊再次致上最深的歉意。<br><br>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】<br>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div><hr><div>各位玩家您好</div><div><br></div><div>經營運團隊確認，<span class="local_date" data-local_date="1640930820"></span>左右至<span class="local_date" data-local_date="1640932320"></span>左右期間，於召喚頁面進行召喚時可能出現「與伺服器連線失敗。」訊息，此時選擇「重試」後會異常再次進行召喚。</div><div><br></div><div>異常再次進行的召喚，可能不會正常顯示召喚演出，但會正常獲得該次召喚所得到的角色‧龍族。</div><div>※於「選單」內的「支援／遊戲說明」中可確認「召喚紀錄」。</div><div><br></div><div>本現象目前已排除。</div><div><br></div><div>作為本異常現象之補償，營運團隊將會依序發送以下道具給於<span class="local_date" data-local_date="1640930820"></span>左右至<span class="local_date" data-local_date="1640932320"></span>左右進行過召喚的各位玩家。</div><div><br></div><div>‧10連召喚券&times;1張</div><div><br></div><div>※補償道具請至「獎勵箱」領取。</div><div>※領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>造成各位玩家的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1641016800; update_time1641880784

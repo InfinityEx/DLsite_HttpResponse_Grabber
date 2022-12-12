@@ -1,0 +1,8 @@
+article_id:1024
+category_name:公告
+title_name:主線劇情第11章「悲哀的戰鬥人偶」追加新劇情！
+image_path:https://dragalialost.akamaized.net/attached/information/images/59974911aa840191d975de653512c677.png
+
+message:<div>各位玩家您好</div><div><br></div><div>主線劇情第11章「悲哀的戰鬥人偶」已於<span class="local_date" data-local_date="1579759200"></span>起追加新劇情！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/59974911aa840191d975de653512c677.png"></div><div>阿爾貝利亞王家所隱藏的真相，現在，即將曝曬於陽光下。</div><div>從哈魯口中得知真相的耶魯菲莉絲感到糾結。</div><div>被王家所隱藏，書簡和史書上所記載的真相究竟為何──</div><div><br></div><div>敬請期待最新劇情！</div><div><br></div><div>■注意事項</div><div>‧如要進行主線劇情第11章「悲哀的戰鬥人偶」追加的新劇情，需完成主線劇情第11章6-3【兩人的「心」】。</div><div>‧追加的新劇情並非全語音。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1579759200; update_time1579232180

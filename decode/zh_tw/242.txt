@@ -1,0 +1,8 @@
+article_id:242
+category_name:公告
+title_name:★5主角的能力「玩家經驗值＋15％」之異常現象公告
+image_path:
+
+message:<div>各位玩家您好</div><div><br></div><div>經營運團隊確認，★5主角的能力「玩家經驗值＋15％」，</div><div>發生了在完成部分任務時所獲得的經驗值，比正常可獲得的經驗值少「1」的異常現象。<br>※能力「玩家經驗值＋10％」的效果正常。</div><div><br></div><div>本異常現象已在<span class="local_date" data-local_date="1550120400"></span>實施的維護作業中修正完畢。</div><div><br></div><div>作為本異常現象的補償，營運團隊將對在<span class="local_date" data-local_date="1550120400"></span>前開始遊戲，並持有★5主角的玩家們依序發送下列道具。</div><div><br></div><div>‧頂級蜂蜜 20個</div><div><br></div><div>補償道具請至「獎勵箱」領取。</div><div>請於<span class="local_date" data-local_date="1550728740"></span> 前登入遊戲領取補償道具。</div><div>領取期限為發送至獎勵箱後7天以內。</div><div><br></div><div>造成各位玩家的不便，營運團隊再次致上最深的歉意。</div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div>
+
+start_time:1550128200; update_time1550128267

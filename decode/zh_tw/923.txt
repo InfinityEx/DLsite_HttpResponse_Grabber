@@ -1,0 +1,8 @@
+article_id:923
+category_name:公告
+title_name:主線劇情第11章「悲哀的戰鬥人偶」登場！【更新】
+image_path:https://dragalialost.akamaized.net/attached/information/images/73f2e8c4f9bba13cd2f1549715581377.png
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1577356800"></span>更新】</strong></span><br>經營運團隊確認，目前主線劇情第11章 6-2「模式‧肅清」和主線劇情第11章EX1-2「閉塞的道路」中，<br>出現部分裝置在開始任務時會無法繼續進行的異常現象。<br><br>本異常現象預計將於<span class="local_date" data-local_date="1577772000"></span>左右實施的資料更新中進行修正。<br>修正完畢後，將另行於本公告通知。<br><br>造成各位玩家的不便與困擾，營運團隊在此致上最深的歉意。</div><div><br></div><hr><div>各位玩家您好</div><div><br></div><div>主線劇情第11章「悲哀的戰鬥人偶」已於<span class="local_date" data-local_date="1576476000"></span>公開！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/73f2e8c4f9bba13cd2f1549715581377.png"></div><div>完全復活的魔神摩特米塞亞，使得世界慘遭蹂躪。</div><div>為了毀滅掌管天地的龍族，沉睡了300年的古代戰鬥兵器──「瑪利昂」</div><div>自長眠中甦醒。僅僅因戰鬥目的而被造出的人偶，將朝一行人襲來――</div><div><br></div><div>敬請期待最新劇情！</div><div><br></div><div>■注意事項</div><div>如要進行主線劇情第11章「悲哀的戰鬥人偶」，需完成主線劇情第10章6-3「新的誓言」。</div><div><br></div><div><br></div><div>今後也請您繼續支持【Dragalia Lost ～失落的龍絆～】</div><div>Dragalia Lost ～失落的龍絆～ 營運團隊　敬上</div><div><br></div>
+
+start_time:1576476000; update_time1577356803
