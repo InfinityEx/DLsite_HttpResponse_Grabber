@@ -1,0 +1,210 @@
+article_id:1816
+category_name:News
+title_name:Adding the Mana Spiral to More Adventurers!
+image_path:
+
+message:<div>A sixth mana circle, the mana spiral, will be added to certain adventurers starting <span class="local_date" data-local_date="1607319600"></span>.</div><div><br></div><div>The adventurers affected this time and their stats are described below.</div><div>Note: When an adventurer&#39;s skill level increases, the skill gauge will fill more slowly when set as a shared skill.</div><div><br></div><div>■Affected Adventurers</div><div>4★ Serena (flame/sword)</div><div>4★ Yuya (flame/dagger)</div><div><br></div><div>■Stats</div><div><br></div><div>・4★ adventurer</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/434b451cb3ac4cff9adb5c47bd219b952.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">Serena</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/e9dfe7dacc80f97bf9aa860adb0b78992.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>968</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>531</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,179</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/504300d592534f448407b7bb70e5ec7f2.png"></span>
+				<span>Assault Flame</span>
+			</dt>
+			<dd>
+				<div>
+					Deals flame damage to enemies in a line, and<br>increases the entire team's critical rate by 10%<br>for 10 seconds.
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>Blazing Pain</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>3</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals flame damage to enemies directly ahead.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>Dragon Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases dragon gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>(Flame) Above 10 Hits = Critical Rate +12%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Flame:<br>increases their critical rate by 12%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>Barrage Obliteration +7%</span></dt><dd><div>Adds 7% to the modifier applied to critical damage<br>for every 20-hit combo (up to three times per quest).</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f9540aa3b892c485f82bfd1ef78b1b72.png"></span><span>Potent Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.<br>When the user is hit by an attack that would have<br>stunned them, their strength is increased by 15%<br>for 10 seconds. After activating, this buff will not<br>activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>Barrage Devastation +5%</span></dt><dd><div>Increases critical rate by 5% for every 30-hit combo<br>(up to three times per quest).</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/676778d9d6017eac3257d23b79e87dfa2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">Yuya</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>928</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>553</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,171</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>Deadly Joyride</span>
+			</dt>
+			<dd>
+				<div>
+					Deals flame damage to surrounding enemies,<br>and increases the user's attack rate by 20%<br>for 10 seconds. Changing direction is possible<br>during the attack.
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8c34fcb89d5a300e55bf63bd264927542.png"></span>
+				<span>Rowdy Rumbler</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Increases the entire team's defense by 10% and<br>strength by 15% for 15 seconds, and grants all<br>teammates a one-use shield that nullifies damage<br>less than 30% of the user's maximum HP.<br>This does not stack with any other shields<br>of the same type.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>Critical Rate +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases critical rate by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>(Flame) Dragon Haste +18%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Flame: <br>increases their dragon gauge fill rate by 18%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7dbdfc8aed4cf8dba6df11212a4e78522.png"></span><span>Chicken at Heart III</span></dt><dd><div>Increases strength by 20% when HP is 60%<br>or above, but decreases strength by 20% when<br>HP is less than 60%. Also, every time the<br>Deadly Joyride skill hits enemies three times,<br>the user's defense will be reduced by 10% for<br>five seconds, but their attack skill damage will<br>be increased by 5%. This skill damage buff can<br>stack up to an increase of 100%, but all stacks<br>will be lost upon using an attack skill.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f9540aa3b892c485f82bfd1ef78b1b72.png"></span><span>Potent Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.<br>When the user is hit by an attack that would have<br>stunned them, their strength is increased by 15%<br>for 10 seconds. After activating, this buff will not<br>activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>Primed Devastation +10%</span></dt><dd><div>Increases the critical rate of the adventurer you<br>are currently controlling by 10% for 5 seconds<br>every time their initial skill, displayed at the<br>top of their skill list, becomes available for use.<br>After activating, this ability will not<br>activate again for 15 seconds.</div></dd></dl></div></div></div><div>The adventurer Yuya&#39;s Deadly Joyride Lv. 4 skill, which can be unlocked with his mana spiral, hits more often, has a wider range, and can be more easily directed than the same skill at Lv. 3 and below. The easier it is to change direction, the more hits players can reliably land on enemies.</div><div><br></div><div>Notes:</div><div>1. The stats shown here represent the adventurer at level 100 with 70 mana nodes unbound.</div><div>2. The stats shown here do not include increases or decreases due to abilities.</div><div>3. The stats for the adventurer included in this notification shown in any prior notifications or preview videos were the stats at level 80 with 50 mana nodes unbound.</div><div>4. When an adventurer&#39;s skill level increases, the skill gauge will fill more slowly when set as a shared skill.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1607234400; update_time1607066843

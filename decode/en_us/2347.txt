@@ -1,0 +1,249 @@
+article_id:2347
+category_name:News
+title_name:Limited-time Adventurers and Dragons Return in the Thousand-Day Celebration Showcase, Now Live!
+image_path:
+
+message:<div>The Thousand-Day Celebration Showcase started on <span class="local_date" data-local_date="1626674400"></span>.</div><div><br></div><div>Limited-time adventurers and dragons from past summon showcases make their return. Featured adventurers and dragons also have a boosted appearance rate!</div><div><br></div><div><span style="color: rgb(226, 80, 65);">The Scratch-A-Thon Summon that is live at the same time does not include the adventurers or dragons returning for a limited time in this showcase.</span></div><div><br></div><div>Featured adventurers and dragons returning for a limited time:</div><div>■Adventurers</div><div>5★ Dragonyule Lily (water/staff)</div><div>5★ Valentine&#39;s Chelsea (wind/bow)</div><div>5★ Halloween Mym (flame/axe)</div><div>5★ Seimei (flame/wand)</div><div><br></div><div>■Dragons</div><div>5★ Gozu Tenno (flame)</div><div>5★ Daikokuten (light)</div><div><br></div><div><span style="color: rgb(226, 80, 65);">In addition to the above, certain limited-time adventurers and dragons from past summon showcases make their return, but are not featured.</span> For information about which adventurers and dragons may appear, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Availability period for featured summons:</div><div><span class="local_date" data-local_date="1626674400"></span> to <span class="local_date" data-local_date="1627624799"></span></div><div><br></div><div>Get a closer look at some of the returning featured limited-time adventurers and dragons below.</div><div><br></div><div>Featured adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6d2cbebc3856eed18f2c0490b3338d1a.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/1fc4080420e16a67744809f28590c98b2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>809</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>467</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,526</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A crystalian girl clad in the garb of Saint Starfall.<br>Beaming with pride for her homeland, she works<br>hard to spread Dragonyule cheer far and wide.<br>Her ability to freeze anything solid stands in<br>sharp contrast to her warm heart burning within.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b505d80a6d01ec97e7ffff44998260562.png"></span>
+				<span>Crystalline Magic</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Restores HP to all teammates, grants them the<br>"Crystalline Power" effect for 30 seconds, and<br>increases their strength by 15% for 60 seconds.<br>Crystalline Power grants overdamage based<br>on 40% of the user's strength, and this skill's<br>strength increase effect will not stack.</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/221089680fc05db454b41e396a6b3d442.png"></span>
+				<span>Surprise Gift</span>
+			</dt>
+			<dd><div>Consumes all Starfall Strength stacks, and<br>grants the user the "Stupendous Strength"<br>effect for 10 seconds. Stupendous Strength<br>will not stack, and its effect is based on the<br>number of Starfall Strength stacks consumed.<br><br>None: Increases strength by 20%.<br>One: Increases strength by 40%.<br>Two: Increases strength by 60%.<br>Three: Increases strength by 100%.</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>Recovery Potency +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the potency of recovery skills by 20%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Water) HP Recovery = Strength +8%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water:<br>increases their strength by 8% for 15 seconds<br>when their HP is restored. After activating, this<br>ability will not activate again for 10 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5122215b634609527398e561ecdd33872.png"></span><span>Saint's Calling II</span></dt><dd><div>Using Crystalline Magic grants the user the<br>"Saint Starfall Lily" effect. When this effect is<br>active, the user's next three force strikes will<br>restore HP to the team member most in need,<br>increase that team member's max HP by 15%,<br>and grant the user the "Starfall Strength" effect.<br>Saint Starfall Lily will not stack, but Starfall<br>Strength can stack up to three times.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f3503b7c11dab7e6111611cb63f010c32.png"></span><span>Crystalian Shield II</span></dt><dd><div>Reduces susceptibility to burning and stun by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Full HP = Strength +20%</span></dt><dd><div>Increases strength by 20% when HP is full.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c3134fc7effeadb09034ee3f44900d93.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>764</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>494</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>All wrapped up in a sweet chocolate dress,<br>Chelsea once again treads the rocky road of love.<br>Valentine's Day is her do-or-die chance to shower<br>"Luccy" with affection. It's anyone's guess what<br>terrifying—er, touching gift she'll give him next.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a934f8bcb2c028554f97a353305475732.png"></span>
+				<span>Rampaging Passion</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>and inflicts stormlash.<br>Additionally, grants the user the "Obstruction<br>Deleter" effect, but inflicts them with burn.</div><div class="skill-detail">Damage: 906 × 2 hits<br>Damage: 1,087 × 1 hit<br>Skill Energy Required: 2,910<br>Skill Energy Required (Shared Skill): 12,658<br>Special Effects:<br>・Obstruction Deleter<br>　　Strength +10%<br>　　Lasts 15 seconds<br>　　Does not stack<br>・Burn<br>　　Lasts 15 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 5% of max HP<br>・Stormlash<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0f7c131400617dcb8578eb1114ec52d22.png"></span>
+				<span>Infinite Love</span>
+			</dt>
+			<dd><div>Grants the romance gauge one full charge,<br>and activates "Skill Shift." This Skill Shift<br>will cycle through a total of three phases.<br><br>When the romance gauge has five charges,<br>this skill will instead grant all teammates the<br>"Sweet Valentine" effect, grant the user the<br>"Bittersweet Valentine" effect, immediately<br>ready the Rampaging Passion skill for use,<br>and no longer activate Skill Shift.</div><div class="skill-detail">Skill Energy Required: 11,640<br><br><color=#00008B>Phase II:</color><br>Skill Energy Required: 11,640<br>Special Effects:<br>・Sweet Valentine<br>　　Defense +15%<br>　　Lasts 15 seconds<br>　　Target: Entire Team<br><br><color=#00008B>Phase III:</color><br>Skill Energy Required: 11,640<br>Special Effects:<br>・Sweet Valentine<br>　　Defense +15%<br>　　Lasts 15 seconds<br>　　Target: Entire Team<br>・Bittersweet Valentine<br>　　Skill Damage Up +30%<br>　　Charges: 1<br>　　Target: User<br>　　Does not stack<br><br><color=#00008B>During Ability Effect:</color><br>Skill Energy Required: 11,640<br>Special Effects:<br>・Sweet Valentine<br>　　Defense +15%<br>　　Lasts 15 seconds<br>　　Target: Entire Team<br>・Bittersweet Valentine<br>　　Skill Damage Up +30%<br>　　Charges: 1<br>　　Target: User<br>　　Does not stack<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>Skill Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases skill gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span>
+				<span>(Wind) Vengeful Shield V</span>
+			</dt>
+			<dd>
+				<div>
+					If the user is attuned to Wind:<br>grants them a one-use shield that nullifies<br>damage up to 25% of their maximum HP when<br>they are hit by an attack that inflicts an affliction.<br>After activating, this ability will not activate<br>again for 20 seconds. This shield does not stack<br>with any other shields of the same type.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28c11357a92bd55c2e5268bd733d83622.png"></span><span>Mad Romantic II</span></dt><dd><div>Grants the user a romance gauge that can hold<br>up to five charges and offers the following effects:<br><br>1. Powers up the user's standard attacks and the<br>Infinite Love skill when the romance gauge has<br>five charges.<br><br>2. Grants the romance gauge one full<br>charge when the Infinite Love skill is used.<br><br>3. Fills the romance gauge by 12.5% when the<br>user is buffed with a skill. After activating,<br>this effect will not activate again for five seconds.<br><br>4. Grants the following effects based on the<br>number of charges the romance gauge has.<br><br>None: Reduces skill damage, defense, and<br>maximum HP by 10%.<br>One: Reduces skill damage, defense, and<br>maximum HP by 5%, and reduces susceptibility<br>to afflictions by 20%.<br>Two: Reduces susceptibility to afflictions by 40%.<br>Does not affect skill damage, defense, or HP.<br>Three: Increases skill damage, defense, and<br>maximum HP by 5%, and reduces susceptibility<br>to afflictions by 60%.<br>Four: Increases skill damage, defense, and<br>maximum HP by 10%, and reduces susceptibility<br>to afflictions by 80%.<br>Five: Increases skill damage by 25%,<br>increases defense and maximum HP by 15%, and<br>reduces susceptibility to afflictions by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c4b3c1e9ed13f178980bfc77eb8713b52.png"></span><span>Blistering Affection II</span></dt><dd><div>When the user is hit by an attack that inflicts burn,<br>the skill gauge for Infinite Love is filled by 25%,<br>and the "Heart Ablaze" effect is activated for<br>eight seconds. During Heart Ablaze, the user's<br>attack rate is increased by 15%, and their<br>next three force strikes are granted the ability to<br>dispel one enemy buff. Heart Ablaze will not stack,<br>and, after activating, this ability will not activate<br>again for five seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/50e8f27a8ccb8795c0a52d0417e9e2862.png"></span><span>Stormlashed Punisher +30%</span></dt><dd><div>Increases damage to stormlashed enemies by 30%.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f4199bd8c3c4757e1e82c8c5b8995104.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>The dragon of the Ox, and one of twelve who<br>serve Amaterasu. Though he looks scary, he is<br>actually very caring—if he hears of a hungry<br>person to the east or west, he'll be off in a flash<br>to deliver candy or food to the individual in need.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>Infernal Charge</span>
+			</dt>
+			<dd><div>Deals flame damage to enemies in a line,<br>and lowers their flame resistance by 10%<br>for the remainder of the quest.<br>This resistance reduction will not stack.</div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Flame) Strength +70%</span></dt><dd><div>If the user is attuned to Flame: <br>increases strength by 70%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ba1d939f31aa624b013b900d03a48812.png"></span><span>Smoldering Spirit II</span></dt><dd><div>If the user is attuned to Flame:<br>using a force strike for three or more seconds,<br>including both charge and attack time, adds<br>30% to the modifier applied to damage against<br>wind-attuned enemies for 30 seconds.<br>This increase will not stack, and, after activating,<br>this ability will not activate again for 15 seconds.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. Alberian Battle Royale skins for adventurers featured in this summon showcase are on sale, and it costs fewer items to unlock their skins. Note that some adventurers do not have adventurer skins.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1626674400; update_time1626166322

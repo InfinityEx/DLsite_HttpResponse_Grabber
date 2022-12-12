@@ -1,0 +1,205 @@
+article_id:3035
+category_name:News
+title_name:Gala Dragalia Is Now Live!
+image_path:
+
+message:<div>Gala Dragalia started on <span class="local_date" data-local_date="1666936800"></span>!</div><div><br></div><div>■What Are Gala Dragalia and Gala Dragalia Remix?</div><div>The initial appearance rate for 5★ adventurers and dragons is boosted to 6%, which is up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div><br></div><div>▼Featured adventurer:</div><div>5★ Gala Luca (light/blade)</div><div><br></div><div>▼Featured dragons:</div><div>5★ Gala Elysium (light)</div><div>5★ Gala Chronos Nyx (light)</div><div><br></div><div>Gala Dragalia appearance rates:</div><div>5★ total: 6.00%</div><div>5★ featured total: 2.10% (Adventurers: 0.50%, Dragons: 1.60%)</div><div>5★ standard total: 3.90% (Adventurers: 2.50%, Dragons: 1.40%)</div><div>4★ standard total: 16.00% (Adventurers: 8.55%, Dragons: 7.45%)</div><div>3★ standard total: 78.00% (Adventurers: 47.00%, Dragons: 31.00%)</div><div><br></div><div>Gala Dragalia event duration:</div><div><span class="local_date" data-local_date="1666936800"></span> to <span class="local_date" data-local_date="1667368799"></span></div><div><br></div><div>Get a closer look at the featured adventurer and dragons below.</div><div><br></div><div>Featured adventurer:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/9adf584ef7894055be535a12e00733dc.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>517</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,502</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Wielding his friend's blade as a symbol of their<br>promise and clad in gear forged from the hands<br>of many races, Luca endeavors to create a world<br>where no one has to fight.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cbd8f43df3f5398db1f1d365ac553ca22.png"></span>
+				<span>Shining Slash</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to enemies in a line.<br>Both this skill's critical rate and the critical rate<br>of attack skills in dragon form will be increased<br>by 10% for each buff with a different icon applied<br>to the user.</div><div class="skill-detail">Damage: 502.4 × 4 hits<br>Skill Energy Required: 2,870<br>Skill Energy Required (Shared Skill): 11,193<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>Brilliant Booster</span>
+			</dt>
+			<dd><div>Greatly increases the modifier applied<br>to the user's critical damage.</div><div class="skill-detail">Skill Energy Required: 3,899<br>Special Effects:<br>・Critical Damage +80%<br>　Lasts 10 seconds<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Strength +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases strength by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>(Light) Above 10 Hits = Shadow Res +10%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Light: <br>reduces shadow damage taken by them by 10%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/daec86e89dfb95ad45d6f68c08c841752.png"></span><span>Connecting Call II</span></dt><dd><div>Increases Luca's critical rate by 4% for<br>every buff with a different icon applied<br>to him (up to 28%). In addition, applies<br>one of the following buffs to Luca every<br>time one of his attacks is a critical hit:<br>Sylvan Secret Arts, Human Wisdom,<br>and Rokkan Expertise. Each of these buffs<br>increase Luca's critical rate by 3% for<br>20 seconds. Only one instance of each<br>buff can be active at the same time. After<br>activating, this ability will not activate again<br>for three seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/2752d5bf66ac339cb32a3adf1a41e1702.png"></span><span>Unforgettable Promise II</span></dt><dd><div>Reduces susceptibility to curses by 100%.<br>When the user is hit by an attack that would have<br>cursed them, their critical rate is increased by 15%<br>for 10 seconds. After activating, this buff will not<br>activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>Flurry Devastation +13%</span></dt><dd><div>Increases critical rate by 13% when<br>the combo count is 15 or higher.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities and represent the adventurer at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Some skills have different effects when used as a shared skill.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Featured dragons:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a92e37f326227f9d3f21557e1048923c.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon said to have forged a pact with Ilia to<br>seal away the Other during the First War of<br>Binding. Called the Holywyrm, he is worshipped<br>by many, and serves as custodian of the world<br>so he might watch over the "children of man."</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7f3c6f3a42d6a89a489bebec12a42d422.png"></span>
+				<span>Holy Bastion</span>
+			</dt>
+			<dd><div>Reduces damage taken by the entire team and<br>grants them a divergent shield, team defense amp,<br>and team critical damage amp.</div><div class="skill-detail">Special Effects:<br>・50% Damage Reduction<br>　　Lasts 30 seconds<br>　　Does not stack<br>・Divergent Shield<br>　　Charges: 1<br>　　Potency: 50% of max HP<br>Team Amps:<br>・Team Defense Amp (MAX Lv. = 3)<br>・Team Critical Damage Amp (MAX Lv. = 3)<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>(Light) Holywyrm's Grace V</span></dt><dd><div>If the user is attuned to Light:<br>increases strength by 60%, defense by 30%,<br>and HP by 30% and grants one of the following<br>additional effects based on the user's unit type:<br><br>Attack: Increases strength by 30%.<br>Defense: Increases strength, defense,<br>and HP by 15%.<br>Support: Increases skill gauge fill rate by 30%.<br>Healing: Increases HP by 30% and skill gauge<br>fill rate by 15%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/10f062c122cbbdae4e1e1e2ff084d14a2.png"></span><span>Holywyrm's Judgment II</span></dt><dd><div>Fills 50% of the dragon gauge at the start of<br>quests and extends shapeshift time by 100%,<br>but doubles the amount of dragon energy<br>required to shapeshift. (The user's maximum<br>dragon energy will not be increased.)<br><br>Also, grants the user a dragon strike while<br>shapeshifted as Elysium. This dragon strike<br>deals damage to enemies directly ahead.<br><br>The maximum amount of the dragon gauge<br>that abilities can fill at the start of quests will<br>be limited to 50% for the entire team.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/39f35fedc09d7012e5ceafe740f1bfc4.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon who came here from another world and<br>wields the power to manipulate time. He refers to<br>the prince as "my liege," and seems cooperative,<br>but his true master is located in another world.<br>Who could that person be...?</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>Dimensional Oblivion</span>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies.</div><div class="skill-detail">Damage: 500 × 7 hits<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Light) Strength +100%</span></dt><dd><div>If the user is attuned to Light: <br>increases strength by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/49a662fbf8459e355210632df883cb9e2.png"></span><span>Time's Transcendence II</span></dt><dd><div>Grants the user a dragon strike while<br>shapeshifted as Chronos Nyx. This dragon<br>strike deals damage to the target and has<br>three increasingly powerful charge levels.<br><br>Also while shapeshifted as Chronos Nyx,<br>remaining shapeshift time will be depleted by<br>standard attacks, dragon strikes, and skills<br>instead of being depleted automatically over<br>time. In addition, if the user is able to dodge<br>when they are hit by an attack, they will<br>consume some of their remaining shapeshift<br>time and automatically dodge the attack.<br>Some attacks cannot be dodged in this way.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragons at level 100, maximum bond, and unbound to the fourth stage. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. An Alberian Battle Royale skin for the adventurer featured in this summon showcase is on sale and costs fewer items to unlock. Note that some adventurers do not have adventurer skins.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1666936800; update_time1648637222

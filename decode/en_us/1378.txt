@@ -1,0 +1,32 @@
+article_id:1378
+category_name:News
+title_name:New Wyrmprints Added to the Treasure Trade for Wyrmprints Lineup!
+image_path:
+
+message:<div><span style="color: rgb(0, 0, 0);">New wyrmprints were added to the Treasure Trade for wyrmprints lineup at <span class="local_date" data-local_date="1591941600"></span>.</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">You can trade for the newly added wyrmprints from the Featured tab or from the various rarity tabs in the Treasure Trade for wyrmprints.</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);"><strong>New wyrmprints:</strong></span></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/cb90e74be638c87bc48719e1f4b578d92.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">Me and My Bestie!</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/332b0b04ccb12c122bbc2ba7b27bff5b2.png"></span><span>Burning Punisher +30%&nbsp;(Max 30%)</span></dt><dd><div>Increases damage to burning enemies by 30%.&nbsp;(Max 30%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>Energy Doublebuff Ⅰ&nbsp;(Max I)</span></dt><dd><div>Increases energy level by one stage each<br>time a defense up buff is received.&nbsp;(Max I)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/689e7e348fdfc21976e58bb9844389e92.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">A Bouquet</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/317712b76f3ecc180ec58d9f103e43932.png"></span><span>Life Shield Prep III&nbsp;(Max III)</span></dt><dd><div>Grants the user a life shield that nullifies damage<br>equal to 15% of their maximum HP at the start<br>of quests.&nbsp;(Max III)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span><span>HP 70% = Defense +10%&nbsp;(Max 20%)</span></dt><dd><div>Increases defense by 10% when HP is 70% or above.&nbsp;(Max 20%)</div></dd></dl></div></div></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">Note: The stats shown here represent the wyrmprints when fully unbound. They do not represent the stats when first obtained.</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">Featured period:</span></div><div><span class="local_date" data-local_date="1591941600"></span> to <span class="local_date" data-local_date="1592546399"></span></div><div><br></div><div><span style="color: rgb(184, 49, 47);">Note: After the featured period is over, you will still be able to trade for the new wyrmprints from the various rarity tabs.</span></div><div><br></div><div><span style="color: rgb(0, 0, 0);">Note:</span></div><div><span style="color: rgb(0, 0, 0);">For other information aside from this notification, see the Wyrmprints section in the Shop.</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">Thank you for playing Dragalia Lost.</span></div>
+
+start_time:1591941600; update_time1591766766

@@ -1,0 +1,218 @@
+article_id:1918
+category_name:News
+title_name:A Platinum Showcase Is Now Live! Shadow-Attuned 5★ Adventurer Guaranteed!
+image_path:
+
+message:<div>A Platinum Showcase went live at <span class="local_date" data-local_date="1610949600"></span>.</div><div><br></div><div>The Platinum Showcase is a limited summon showcase that works similarly to a tenfold summon in that one summon will get you 10 results. The difference between a regular tenfold summon and this Platinum Showcase is that a shadow-attuned 5★ adventurer is guaranteed to appear.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Note: The roster for this summon showcase does not include adventurers and dragons that are attuned to elements other than shadow.</span></div><div><br></div><div>During the period, players are limited to doing the Platinum Showcase summon two times, and these summons can only be performed with diamantium (purchase required).</div><div><br></div><div>Availability period for the Platinum Showcase:</div><div><span class="local_date" data-local_date="1610949600"></span> to <span class="local_date" data-local_date="1611727199"></span></div><div><br></div><div>Get a closer look at some of the shadow-attuned 5★ adventurers eligible to appear as the guaranteed 5★ summon.</div><div><br></div><div>Shadow-attuned 5★ adventurers eligible for guaranteed appearance as the 10th summon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7a02770b52b72ac7eeab9a6686182d2a.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>801</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>472</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,513</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A pirate captain who loves freedom and the sea.<br>Her courage and boldness are second to none,<br>and in an effort to bring opera to those who have<br>never seen it, she reforms her crew into an<br>opera troupe, and sets sail for distant shores!</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/afc42abd520d2e6796ab1dcc81039dda2.png"></span>
+				<span>Aria of the Sea</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to surrounding enemies,<br>and inflicts shadowblight.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>Operatic Shanty</span>
+			</dt>
+			<dd>
+				<div>
+					Creates a buff zone that lasts for 10 seconds<br>and increases the critical rate of adventurers<br>inside it by 15%.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>Skill Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases skill gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span>
+				<span>(Shadow) Poised Light Res +7%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Shadow: <br>reduces light damage taken by them by 7%<br>when they are in a buff zone.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ec72ef8cd42c62205b75088898a601112.png"></span><span>Shadowblighted Punisher +30%</span></dt><dd><div>Increases damage to shadowblighted enemies by 30%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>Paralysis Res +100%</span></dt><dd><div>Reduces susceptibility to paralysis by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>Poised Obliteration +30%</span></dt><dd><div>Adds 30% to the modifier applied to critical<br>damage when the user is in a buff zone.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/35da54298726e6d1e11887c6398b8a7e.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>741</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>519</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The Vice Captain of the White Sparrows in new<br>beach attire! The great leg strength she cultivated<br>through her work lets her race across white sandy<br>beaches at top speed, so look out, because she's<br>charging into summer at full speed!</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/68526b00e65aba64b66dec84c7ab98b12.png"></span>
+				<span>Sparrow Splash</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to the target and<br>nearby enemies and reduces their defense<br>by 5% for 10 seconds.
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c0bf55adfd4edfb52b0a3cb95b293cfe2.png"></span>
+				<span>Surging Sparrows</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to enemies in a line,<br>and inflicts poison.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>Defense +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases defense by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Shadow) HP Below 40% = Strength +15%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Shadow: <br>increases their strength by 15% when<br>their HP is 40% or below.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f4622a323817b8123c8cb1e40e72fbd12.png"></span><span>Sparrow Spiker II</span></dt><dd><div>Increases defense by 5%, and grants the user<br>a unique force strike that has three increasingly<br>powerful charge levels. Movement is possible<br>while charging. Using Sparrow Splash grants the user<br>the "Seaside Spirit" effect. When this effect<br>is active, the user's next force strike will inflict<br>poison. This effect cannot stack, and will be<br>consumed on use.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>Paralysis Res +100%</span></dt><dd><div>Reduces susceptibility to paralysis by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6123c64d13e3b55c96e57232c53ae0ed2.png"></span><span>Poison Edge & Anti-Poison = Strength II</span></dt><dd><div>Increases the chances of inflicting poison by<br>60% when the user's HP is 50% or above,<br>and increases the user's strength by 15%<br>for 10 seconds every time the user tries to inflict<br>poison on a foe and the affliction is resisted.<br>After activating, this ability will not activate again<br>for 5 seconds.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Notes:</div><div>1. For more information about the Platinum Showcase, tap Summon on the in-game footer menu, then select the Platinum Showcase and check the Appearance Rates section and the Details tab of the Showcase Info section.</div><div>2. The Platinum Showcase will be available during other showcases, including the Shadow Focus. You can move between showcases by using the left/right icons on the Summon screen.</div><div>3. Performing a Platinum Showcase summon will not reset the appearance rate modifier increase for when a 5★ fails to appear after summoning ten times on another showcase, such as the Shadow Focus.</div><div>4. For more information, tap Summon on the in-game footer menu, then select Showcase Info, Details, and see the Notes section.</div><div>5. Wyrmsigils cannot be earned from summoning on a Platinum Showcase.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1610949600; update_time1610591922

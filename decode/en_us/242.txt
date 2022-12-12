@@ -1,0 +1,8 @@
+article_id:242
+category_name:News
+title_name:Regarding an Issue with the 5★ Main Character's Player EXP +15% Ability
+image_path:
+
+message:<div>An issue was occurring with the 5★ Main Character&#39;s Player EXP +15% ability where the amount of EXP that can be acquired upon clearing certain quests was 1 less than the normal amount of EXP.</div><div><br></div><div>The Player EXP +10% ability is working normally.</div><div><br></div><div>This issue was fixed in the maintenance performed at <span class="local_date" data-local_date="1550120400"></span>.</div><div><br></div><div>We will be sending the following items to players who started the game by <span class="local_date" data-local_date="1550120400"></span> and have a 5★ Main Character as a token of our appreciation for your patience and understanding.</div><div><br></div><div>・Exquisite Honey x20</div><div><br></div><div>Players who log in before <span class="local_date" data-local_date="1550728740"></span> can claim this gift from their goodie boxes for up to seven days after reception.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1550128200; update_time1550128267

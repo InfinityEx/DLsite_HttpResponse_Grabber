@@ -1,0 +1,8 @@
+article_id:2827
+category_name:Events
+title_name:Reward Exchange Limit for Facility Event Treasure Trades Updated!
+image_path:https://dragalialost.akamaized.net/attached/information/images/4d660958cb5bbba98b4b0971b64e5367.png
+
+message:<div>We have updated the reward exchange limit for facility event Treasure Trades in the event compendium as of <span class="local_date" data-local_date="1643954400"></span>! Players who have already reached the exchange limit may now make more exchanges.<br><br>■Facility Events with Updated Exchange Limits<br>・Flames of Reflection<br>・The Miracle of Dragonyule<br>・A Wish to the Winds<br>・Dream Big Under the Big Top<br>・The Hunt for Harmony<br>・Trick or Treasure!<br>・A Crescendo of Courage<br>・The Accursed Archives<br>・Agents of the Goddess<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1644300000; update_time1644284125

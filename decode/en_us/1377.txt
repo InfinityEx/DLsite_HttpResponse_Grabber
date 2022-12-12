@@ -1,0 +1,314 @@
+article_id:1377
+category_name:News
+title_name:Adding the Mana Spiral to More Adventurers!
+image_path:
+
+message:<div>A sixth mana circle, the mana spiral, will be added to certain adventurers starting <span class="local_date" data-local_date="1591939800"></span>.</div><div><br></div><div>The adventurers affected this time and their stats are described below.</div><div><br></div><div>■Affected Adventurers</div><div>5★ Louise (wind/bow)</div><div>4★ Lowen (wind/staff)</div><div>3★ Melody (wind/blade)</div><div><br></div><div><br></div><div>■Stats</div><div>・5★ adventurer</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/ed16af47bcc0fd2e3d55138774ec249e2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">Louise</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>965</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>563</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,218</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b578da17fca8b309bc38a693b65c07072.png"></span>
+				<span>Piercing Wind</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to enemies in a line,<br>inflicts poison, and restores 5% of the damage<br>inflicted as HP to the user. This recovery caps<br>at 5% of their maximum HP.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2c1bfc17f576d6c5f7d31dc8568743502.png"></span>
+				<span>Arrow Shower</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to enemies in a line.<br>Poisoned foes take extra damage.<br>Damage will be increased as the user's HP increases.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>Skill Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases skill gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>(Wind) Poison = User Water Res +8%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind:<br>reduces water damage taken by them by 8%<br>for 15 seconds when they successfully poison<br>an enemy. After activating, this ability will not<br>activate again for 10 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/561f0cc02896bcc3c7580180041730282.png"></span><span>Overdrive Punisher +15%</span></dt><dd><div>Increases damage to enemies in overdrive state<br>by 15%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9d77939f4269ebb33ba6b5e2044474042.png"></span><span>Potent Bog Res +100%</span></dt><dd><div>Reduces susceptibility to bog by 100%.<br>When the user is hit by an attack that would have<br>inflicted bog on them, their strength is increased<br>by 15% for 10 seconds. After activating, this buff will<br>not activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Strength Doublebuff +15%</span></dt><dd><div>Increases strength by 15% for 15 seconds each time<br>a defense up buff is received.</div></dd></dl></div></div></div><div>・4★ adventurer</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/9375b0a7b34acdee1df8c6fe9e40954a2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">Lowen</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/1fc4080420e16a67744809f28590c98b2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>938</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>543</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,181</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>Winds, Heal Us!</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Restores HP to all allies and removes bog.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8c34fcb89d5a300e55bf63bd264927542.png"></span>
+				<span>Winds, Protect Us!</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the entire team's defense by 25% for<br>15 seconds, gradually recovers their HP for<br>15 seconds, and increases each adventurer's<br>max HP by 15% for the remainder of the quest.<br>Once HP buffs reach the limit, an HP recovery<br>effect is granted instead.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>Recovery Potency +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the potency of recovery skills by 20%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>(Wind) Critical Rate Doublebuff +9%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind: <br>increases their critical rate by 9% for 15 seconds<br>each time they receive a defense up buff.<br>After activating, this ability will not<br>activate again for 15 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7b644718e2f2386da73f1a8bca57a4bd2.png"></span><span>Pure Soul</span></dt><dd><div>Fills 100% of skill gauges at the start of quests.<br>Using "Winds, Heal Us!" grants the user the<br>"Dispel Strike" effect. When this effect<br>is active, the user's next force strike<br>will dispel one enemy buff. This effect<br>cannot stack, and will be consumed on use.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9d77939f4269ebb33ba6b5e2044474042.png"></span><span>Potent Bog Res +100%</span></dt><dd><div>Reduces susceptibility to bog by 100%.<br>When the user is hit by an attack that would have<br>inflicted bog on them, their strength is increased<br>by 15% for 10 seconds. After activating, this buff will<br>not activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span><span>Recovery Potency +15%</span></dt><dd><div>Increases the potency of recovery skills by 15%.</div></dd></dl></div></div></div><div>・3★ adventurer</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/7a294499b7c859775b5d6f0556705de32.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/8882a1e2cd557667e16b4245e73d8a6f2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">Melody</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>888</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>563</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,061</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>Maid for Mayhem</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the entire team's strength by 20%<br>for 15 seconds, and activates "Maid's Soul."<br>The user's next force strike will deal extra damage.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>Tyro's Gyre</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>3</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to enemies directly ahead,<br>and inflicts poison.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Strength +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases strength by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>(Wind) Above 10 Hits = Water Res +7%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind: <br>reduces water damage taken by them by 7%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>Full HP = Critical Rate +15%</span></dt><dd><div>Increases critical rate by 15% when HP is full.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dfbbb18cd6a812083fd505b275d3a42a2.png"></span><span>Potent Freeze Res +50%</span></dt><dd><div>Reduces susceptibility to freeze by 50%.<br>When the user is hit by an attack that would have<br>inflicted freeze on them, their strength is increased<br>by 15% for 10 seconds. After activating, this buff will<br>not activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>Freeze Res +50%</span></dt><dd><div>Reduces susceptibility to freezing by 50%.</div></dd></dl></div></div></div><div><br></div><div>Notes:</div><div>1. The stats shown here represent the adventurer at level 100 with 70 mana nodes unbound.</div><div>2. The stats shown here do not include increases or decreases due to abilities.</div><div>3. The stats for the adventurer included in this notification shown in any prior notifications or preview videos were the stats at level 80 with 50 mana nodes unbound.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1591855200; update_time1591757651

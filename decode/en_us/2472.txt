@@ -1,0 +1,93 @@
+article_id:2472
+category_name:News
+title_name:Adding the Mana Spiral to More Adventurers!
+image_path:
+
+message:<div>A sixth mana circle, the mana spiral, will be added to certain adventurer starting <span class="local_date" data-local_date="1632290400"></span>.</div><div><br></div><div>The adventurer affected this time and her stats are described below.</div><div>Note: Unlocking an eligible adventurer&#39;s mana spiral requires special materials specific to that adventurer that can be earned from the daily bonus of the Trials of the Mighty quest.</div><div><br></div><div>■Affected Adventurers</div><div>5★ Lazry (water/axe)</div><div><br></div><div>■Stats</div><div><br></div><div>・5★ adventurer</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/5e332873cae5904be660be2b4ff018b52.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">Lazry</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>893</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>618</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,211</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>Smithy Spin</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead and<br>inflicts frostbite. If this skill is used when the<br>user is in high power mode, a variant called<br>Hyper Smithy Spin will be used instead.<br>Hyper Smithy Spin deals damage to the target<br>and nearby enemies and increases the damage<br>dealt by the user's next skill.</div><div class="skill-detail">Damage: 320 × 2 hits<br>Damage: 600 × 1 hit<br>Skill Energy Required: 3,194<br>Special Effects:<br>・Frostbite<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br><br><color=#00008B>High Power Mode:</color><br>Damage: 180 × 4 hits<br>Damage: 1,020 × 1 hit<br>Skill Energy Required: 3,194<br>Special Effects:<br>・Skill Damage +20%<br>　　Charges: 1<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>Smithy Arm: Forge Mode</span>
+			</dt>
+			<dd><div>Increases the user's max HP for the remainder<br>of the quest and increases the entire team's<br>strength and critical rate. If this skill is used<br>when the user is in high power mode,<br>a variant called Smithy Arm: Power Mode will<br>be used instead.<br>Smithy Arm: Power Mode Deals damage to<br>the target and nearby enemies, dispels one<br>buff from each of them, and immediately<br>readies the user's initial skill, displayed at<br>the top of their skill list, for use.</div><div class="skill-detail">Skill Energy Required: 7,475<br>Special Effects:<br>・HP +3%<br>・Strength +15%<br>　　Lasts 15 seconds<br>・Critical Rate +10%<br>　　Lasts 15 seconds<br><br><color=#00008B>High Power Mode:</color><br>Damage: 450 × 1 hit<br>Damage: 1,660 × 1 hit<br>Skill Energy Required: 7,475<br>Special Effects:<br>・Dispels Buffs<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>Defense +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases defense by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Water) Frostbite = User Strength +13%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water:<br>increases their strength by 13% for 15 seconds<br>when they successfully inflict an enemy with<br>frostbite. After activating, this ability will not<br>activate again for 10 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/45e56814cd3c293c83f5513d3dc5800b2.png"></span><span>Mechanized Blacksmith</span></dt><dd><div>Increases damage to frostbitten enemies by 30%.<br>In addition, using a skill will grant the user a<br>strength amp with a maximum team amp level<br>of two. After this amp is granted, this ability will<br>not grant it again for 30 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c0b3ec2bdf2af0f73ef2627b87da47152.png"></span><span>Potent Burn Res +100%</span></dt><dd><div>Reduces susceptibility to burning by 100%.<br>When the user is hit by an attack that would have<br>inflicted burning on them, their strength is increased<br>by 15% for 10 seconds. After activating, this buff will<br>not activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e7eed50a5972abee7f228825cdf9960e2.png"></span><span>HP 70% = Skill Damage & Flame Res I</span></dt><dd><div>When HP is 70% or above, increases attack<br>skill damage by 35% and adds 10% to flame<br>resistance.</div></dd></dl></div></div></div><div><br></div><div>Notes:</div><div>1. The stats shown here represent the adventurer at level 100 with 70 mana nodes unbound.</div><div>2. The stats shown here do not include increases or decreases due to abilities.</div><div>3. The stats for the adventurer included in this notification shown in any prior notifications or preview videos were the stats at level 80 with 50 mana nodes unbound.</div><div>4. When an adventurer&#39;s skill level increases, the skill gauge will fill more slowly when set as a shared skill.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1632204000; update_time1631687429

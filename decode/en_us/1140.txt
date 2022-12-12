@@ -1,0 +1,8 @@
+article_id:1140
+category_name:Events
+title_name:Epilogue Added to the Skyborne Spectacle Raid Event Revival!
+image_path:https://dragalialost.akamaized.net/attached/information/images/3ad4f173f770e116f48150d16e3aa279.png
+
+message:<div>An epilogue has been added to the raid event revival Skyborne Spectacle, which ended <span class="local_date" data-local_date="1584943199"></span>.</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/3ad4f173f770e116f48150d16e3aa279.png"></div><div>You can view the epilogue by tapping the banner on the lower-left corner of the Home screen, which can be accessed from the in-game footer menu, then selecting View Quests.<br><br>■Epilogue Availability<br><span class="local_date" data-local_date="1584943200"></span> to <span class="local_date" data-local_date="1585547999"></span><br><br>Note:<br>The epilogue can be viewed only by players who have completed up to chapter 6 of the event&rsquo;s story.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1584943200; update_time1583465323

@@ -1,0 +1,167 @@
+article_id:799
+category_name:News
+title_name:Summon Showcase: Dragon Special Is Now Live!
+image_path:
+
+message:<div>The Summon Showcase: Dragon Special kicked off <span class="local_date" data-local_date="1570773600"></span>!</div><div><br></div><div>The appearance rates for featured 4★ and 5★ dragons will be boosted.</div><div><br></div><div>Dragon Special Appearance Rates:</div><div>5★ featured - Total: 2.40% (Adventurers: 0%, Dragons: 2.40%)</div><div>5★ normal - Total: 1.60% (Adventurers: 0.75%, Dragons: 0.85%)</div><div>4★ featured - Total: 7.00% (Adventurers: 0%, Dragons: 7.00%)</div><div>4★ normal - Total: 9.00% (Adventurers: 5.05%, Dragons: 3.95%)</div><div>3★ normal - Total: 80.00% (Adventurers: 48.00%, Dragons: 32.00%)</div><div><br></div><div>This showcase will be available from <span class="local_date" data-local_date="1570773600"></span> to <span class="local_date" data-local_date="1571378340"></span>.</div><div><br></div><div>Get a closer look at the featured dragons below.</div><div><br></div><div>Featured Dragons:</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/db87aac30d4fa6ae320bda89aa694330.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A hot-blooded dragon whose mastery and<br>knowledge of smithing is matched only by the joy<br>he feels in sharing it with humans. The former<br>coach of the blacksmith sisters' father, he spends<br>his days honing body and mind in a volcano.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>Dragon Drop</span>
+			</dt>
+			<dd>
+				<div>
+					Deals flame damage to enemies directly ahead,<br>and inflicts stun.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Flame) Strength & Critical Damage II</span></dt><dd><div>If the user is attuned to Flame:<br>increases strength by 45% and adds 55% to the<br>modifier applied to critical damage.</div></dd></dl></div></div></div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a1d927e0ae0003a9463a8fc45ccc6100.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>375</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1025</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A beautiful dragon who watches over love and<br>harvests. Her giant staff, made from an ancient<br>tree, spreads nature's blessings far and wide.<br>She is adored by all life and loves it in return—<br>especially her two feline familiars.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>Breath of Life</span>
+			</dt>
+			<dd>
+				<div>
+					Restores HP to all allies, continues healing over<br>the next 20 seconds, and energizes the entire team.<br>Once energized, using any applicable skill resets<br>that adventurer's energy level to zero.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>(Wind) HP +30%</span></dt><dd><div>If the user is attuned to Wind: <br>increases HP by 30%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>(Wind) Skill Haste +35%</span></dt><dd><div>If the user is attuned to Wind: <br>increases skill gauge fill rate by 35%.</div></dd></dl></div></div></div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e140a6e197564b7e3a13e8d83f607776.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>The singing dragon is finally able to stand<br>on the stage of her dreams—and with an almost<br>frighteningly beautiful voice, she aims to bring<br>joy to everyone. Her outfit was made by her<br>friends, making her an icon of dragalia.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/77c2ac9b0a7142033bc6402d88c4b32d2.png"></span>
+				<span>Invigorating Harmony</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the entire team's strength and defense<br>by 20% for 20 seconds, and increases their<br>energy levels by three stages. It is possible to<br>charge this skill's gauge by attacking, and use it<br>up to twice during one shapeshift.<br>When an adventurer's energy level reaches level five,<br>they will become energized, and their next attack or<br>recovery skill will be upgraded. At this point,<br>using any applicable skill will reset that<br>adventurer's energy level to zero.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Light) Strength +40%</span></dt><dd><div>If the user is attuned to Light: <br>increases strength by 40%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>Exhilaration</span></dt><dd><div>If the user is attuned to Light: <br>increases shapeshift time for the entire team<br>by 3 seconds. The team's shapeshift time<br>can only be increased by a maximum of<br>5 seconds through this ability.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent each dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>The other featured dragons are as follows.</div><div>4★ Dragons: Phoenix, Stribog, Unicorn</div><div><br></div><div>Note:</div><div>For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1570773600; update_time1570505680

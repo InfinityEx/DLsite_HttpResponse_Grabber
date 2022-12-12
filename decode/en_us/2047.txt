@@ -1,0 +1,8 @@
+article_id:2047
+category_name:News
+title_name:Issues regarding Summon menu and double drops event
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>[Addendum <span class="local_date" data-local_date="1615786800"></span>]</strong></span><br>The items were sent out at <span class="local_date" data-local_date="1615786800"></span>.<br>&nbsp;You can claim them from your goodies box.</div><div><br>Thank you for playing Dragalia Lost.</div><hr><div>We have confirmed that the following issues were occurring between <span class="local_date" data-local_date="1615528800"></span> and <span class="local_date" data-local_date="1615529400"></span>.</div><div><br></div><div>■The in-game Summon screen was displayed incorrectly.<br><br>■Double drops did not apply to the following eligible quests:<br>・Waterscour Ruins<br>・Mercury&#39;s Trial<br>・Lightsunder Ruins<br>・Jupiter&#39;s Trial<br>・The Imperial Onslaught (Wind)<br>・The Imperial Onslaught (Shadow)<br><br>These issues have been addressed. In the near future we will send affected players (those who played these quests while this issue was occurring) the extra drops that they should have received.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1615543740; update_time1615791137

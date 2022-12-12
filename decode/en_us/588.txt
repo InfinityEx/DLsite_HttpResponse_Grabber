@@ -1,0 +1,8 @@
+article_id:588
+category_name:News
+title_name:Regarding Balance Adjustments to Certain Weapon Types
+image_path:
+
+message:<div>We will be making balance adjustments to certain weapon types in a data update to be applied around <span class="local_date" data-local_date="1564120800"></span>.</div><div>The details are as follows.</div><div><br></div><div>■Weapon Types</div><div>・Bow</div><div>・Wand</div><div>・Staff</div><div><br></div><div>■Adjustments</div><div>These weapons dealt less damage when they hit enemies close to where the attack was made (for example with dash attacks or combo attacks), but we will be removing this mechanic.</div><div>After these adjustments, there will be no differences in damage from different distances.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1562911200; update_time1562906497

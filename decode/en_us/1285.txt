@@ -1,0 +1,8 @@
+article_id:1285
+category_name:News
+title_name:A Gift from Tiki and Mym!
+image_path:
+
+message:<div>Thank you for playing the Fire Emblem: Kindred Ties event! This pair of dragons would like to send all players the following gifts to express their gratitude:</div><div><br></div><div>Summon Voucher x5</div><div>Fafnir Medal x50</div><div><br></div><div>This gift can be claimed from your goodie box for up to 7 days after reception. If the gift isn&#39;t retrieved within seven days, it will be lost.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1588831200; update_time1588246535

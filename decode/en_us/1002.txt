@@ -1,0 +1,8 @@
+article_id:1002
+category_name:News
+title_name:Issue Regarding Displayed Element in A Clawful Caper Summon Showcase Page[Update]
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>[Update <span class="local_date" data-local_date="1577783400"></span>]</strong></span><br>This issue was resolved in the data update applied at <span class="local_date" data-local_date="1577783400"></span>.<br>Thank you for playing Dragalia Lost.</div><hr><div>We have confirmed an issue with Nobunaga&#39;s presentation movie in the A Clawful Caper summon showcase live since <span class="local_date" data-local_date="1577772000"></span>, where this adventurer&#39;s element is displayed as light-attuned instead of flame-attuned.<br>We are currently fixing this issue. Any further updates will be posted to this notification.</div><div><br></div><div>Note: The correct element for the featured adventurer Nobunaga from the A Clawful Caper summon showcase is flame-attuned. The above issue was merely a display issue in the summon showcase main screen. The element displayed in the Appearance Rates and Showcase Info menus is the correct one (flame-attuned).</div><div><br></div><div>Thank you for playing Dragalia Lost.&nbsp;</div>
+
+start_time:1577775600; update_time1577783430

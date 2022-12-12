@@ -1,0 +1,249 @@
+article_id:2967
+category_name:News
+title_name:Gala Dragalia Remix Is Coming Soon!
+image_path:
+
+message:<div>Gala Dragalia Remix starts on <span class="local_date" data-local_date="1647237600"></span>!</div><div><br></div><div>■What Are Gala Dragalia and Gala Dragalia Remix?</div><div>The initial appearance rate for 5★ adventurers and dragons will be boosted to 6%, which is up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">The newly added 5★ adventurer Sheila (flame) will also appear in subsequent summon showcases.</span></div><div><span style="color: rgb(226, 80, 65);"><br></span></div><div><span style="color: rgb(226, 80, 65);">Adventurers and dragons added in past Gala Dragalia summon showcases may appear in this summon showcase as well. For information about which adventurers and dragons may appear, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</span></div><div><br></div><div>▼Newly added featured adventurer:</div><div>5★ Sheila (flame/dagger)</div><div><br></div><div>▼Featured adventurer from past Gala Dragalia summon showcases:</div><div>5★ Gala Mym (flame/lance)</div><div><br></div><div>▼Featured dragon from past Gala Dragalia summon showcases:</div><div>5★ Gala Mars (flame)</div><div><br></div><div>Gala Dragalia Remix event duration:</div><div><span class="local_date" data-local_date="1647237600"></span> to <span class="local_date" data-local_date="1647496799"></span></div><div><br></div><div>Get a closer look at the featured adventurers and dragon below.</div><div><br></div><div>Featured adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ba3637da47faf890833a6f14f7fae543.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>500</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>After regaining her heart, Sheila has awakened<br>as an Auspex. Though her soul was imprisoned<br>by black mana for an age, her bond with her<br>father brought it back. She then donned an<br>Auspex's garb and set out on a new path.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/617c65154a9d4f27f02e0be8cb970a2c2.png"></span>
+				<span>Carmine Rush</span>
+			</dt>
+			<dd><div>Deals damage to enemies in a line, lowers<br>their flame resistance, and applies "Evil's Bane"<br>to them.<br><br>If this skill is used directly after the user's second<br>skill, a variant called Bright Carmine Rush will be<br>used instead. Bright Carmine Rush deals damage<br>to enemies in a line, lowers their flame<br>resistance, and applies "Evil's Bane" to them.<br>Also, if the user has the "Blazewolf's Rush" effect,<br>Bright Carmine Rush consumes it and<br>immediately readies the user's second skill<br>for use.</div><div class="skill-detail">Damage: 190 × 2 hits<br>Damage: 380 × 3 hits<br>Skill Energy Required: 4,480<br>Special Effects:<br>・Flame Res -15%<br>　　Lasts 30 seconds<br>　　Does not stack<br>・Evil's Bane<br>　　Lasts 15 seconds<br>　　Does not stack<br><br><color=#00008B>After Skill Change:</color><br>Damage: 190 × 4 hits<br>Damage: 380 × 6 hits<br>Skill Energy Required: 4,480<br>Special Effects:<br>・Flame Res -15%<br>　　Lasts 30 seconds<br>　　Does not stack<br>・Evil's Bane<br>　　Lasts 30 seconds<br>　　Does not stack<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/214b245198821e4cba0f9684c85604352.png"></span>
+				<span>Flame Raid</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies,<br>dispels one buff from each target, and<br>inflicts burn.<br><br>If this skill is used directly after the user's initial<br>skill, displayed at the top of their skill list, a variant<br>called Savage Flame Raid will be used instead.<br>Savage Flame Raid deals damage to surrounding<br>enemies, dispels one buff from each target, and<br>inflicts scorchrend.<br>Also, if the user has the "Blazewolf's Rush" effect,<br>Savage Flame Raid consumes it and immediately<br>readies the user's initial skill for use.</div><div class="skill-detail">Damage: 200 × 7 hits<br>Skill Energy Required: 4,480<br>Special Effects:<br>・Dispels Buffs<br>・Burn<br>　　Lasts 12 seconds<br>　　Triggers every 3.9 seconds<br>　　Damage: 72.7<br><br><color=#00008B>After Skill Change:</color><br>Damage: 250 × 7 hits<br>Skill Energy Required: 4,480<br>Skill Energy Required (Shared Skill): 10,528<br>Special Effects:<br>・Dispels Buffs<br>・Scorchrend<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31.1</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>Critical Rate +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases critical rate by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span>
+				<span>(Flame) Amp = Shapeshift Prep V</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Flame:<br>fills 3% of the dragon gauge when they are<br>granted an amp or team amp. After activating,<br>this ability will not activate again for 10 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/594de4fde56822ee8624ebff22a1dafd2.png"></span><span>The Way of the Blazewolf II</span></dt><dd><div>Adds 20% to the modifier applied to critical<br>damage against enemies that have the<br>"Evil's Bane" effect. In addition, the user's<br>second skill will deal critical damage to enemies<br>with Evil's Bane. This critical hit will reset the<br>user's inspiration level if the user is inspired.<br><br>Also, swiping to dodge during a standard<br>attack will deal damage to surrounding enemies.<br>Performing a standard attack during this unique<br>dodge will then resume the user's standard attack<br>combo from their most recent attack. (Dodging<br>again immediately after the user's unique dodge<br>will instead result in a standard dodge.)<br><br>Additionally, when using the user's first or<br>second skills, for the duration of the attack,<br>the user will be immune to knockback,<br>and damage taken will be reduced by 50%.<br><br>Finally, increases standard movement speed <br>by 35%. This increase does not affect movement<br>speed while sprinting or while shapeshifted.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea4c47784ca6465117276eb2a3d9a0d92.png"></span><span>Unyielding Spirit II</span></dt><dd><div>Reduces susceptibility to stun and sleep by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d805814858ba5df827dbca1af8119dfc2.png"></span><span>Royal Steel II</span></dt><dd><div>The fourth attack in the user's standard attack<br>combo grants them a critical damage amp<br>with a maximum team amp level of one, and<br>the seventh attack in the user's standard attack<br>combo grants them the "Blazewolf's Rush" effect.<br>Blazewolf's Rush will not stack.<br><br>Also, using the user's initial skill, displayed at<br>the top of their skill list, grants them a defense<br>amp with a maximum team amp level of one.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/19a780ba5a87fc466ea87a7dc5ba57a3.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>749</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>510</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The Flamewyrm Brunhilda, who assumed<br>a human form to be closer to her darling,<br>the prince. Her love knows no bounds,<br>and burns hotter than even her own<br>fierce blazes.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>Dragon Claw</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>increases the user's strength, and raises<br>the dragon gauge if the attack connects.</div><div class="skill-detail">Damage: 767.5 × 3 hits<br>Skill Energy Required: 2,914<br>Skill Energy Required (Shared Skill): 12,821<br>Special Effects:<br>・Strength +20%<br>　Lasts 10 seconds<br>Dragon Energy Gained: 50</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>Flames of Passion</span>
+			</dt>
+			<dd><div>Deals damage to enemies in a line.</div><div class="skill-detail">Damage: 517.5 × 4 hits<br>Skill Energy Required: 5,736<br><br><color=#00008B>During Ability Effect:</color><br>Damage: 622 × 4 hits<br>Skill Energy Required: 5,736<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases HP by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Flame) Dragon's Claws VI</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Flame:<br>each shapeshift increases their strength<br>(up to three times per quest).<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b5b8a0971c2940faccafb60e2bb060ab2.png"></span><span>Flamewyrm's Nature II</span></dt><dd><div>Reduces susceptibility to burning by 100%.<br>When shapeshifting for the first time, Mym<br>will transform into Brunhilda regardless of what<br>dragon she is equipped with, her strength will<br>increase by 15% for the remainder of the quest,<br>and the skill Flames of Passion will be powered<br>up for the remainder of the quest. The second time<br>onwards, she will transform into High Brunhilda<br>instead, and her attack rate while shapeshifted<br>will increase by 15%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ed2537bb247dfd2ad93353a86c3d8c12.png"></span><span>Flamewyrm's Defiance II</span></dt><dd><div>Reduces susceptibility to stun by 100%. When Mym<br>is hit by an attack that would have stunned her,<br>the skill gauge for the Dragon Claw skill fills by<br>50%. After activating, this gauge-filling effect will<br>not activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>Dragon Time +20%</span></dt><dd><div>Extends shapeshift time by 20%.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Some skills have different effects when used as a shared skill.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8f35551d0e5834791355dbecc848f7c7.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon famed for being the strongest in history.<br>A hundred kingdoms were razed by his fires,<br>which is why humans dubbed him the Blazewyrm.<br>He later forged a pact with Leonidas and allowed<br>himself to be twisted by the power of alchemy.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>Alchemical Hellfire</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>draws them toward the user, and increases<br>the user's strength. It is possible to charge<br>this skill's gauge by attacking, and use it up<br>to twice during one shapeshift.</div><div class="skill-detail">Damage: 500 × 3 hits<br>Special Effects:<br>・Strength +20%<br>　Lasts 20 seconds<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Flame) Strength V & HP 50% = Strength +20%</span></dt><dd><div>If the user is attuned to Flame: <br>increases strength by 70%, and increases strength<br>by an additional 20% when HP is 50% or above.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>(Flame) Ending Shapeshift = Skill Gauges +100%</span></dt><dd><div>If the user is attuned to Flame:<br>fills 100% of skill gauges when<br>the user's shapeshift is undone.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at level 100, maximum bond, and unbound to the fourth stage. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. Alberian Battle Royale skins for the adventurers featured in this summon showcase will go on sale and will cost fewer items to unlock. Note that some adventurers do not have adventurer skins.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1647151200; update_time1646725816

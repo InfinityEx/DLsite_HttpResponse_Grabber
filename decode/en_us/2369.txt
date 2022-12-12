@@ -1,0 +1,8 @@
+article_id:2369
+category_name:News
+title_name:Regarding a Network Connection Issue [Update]
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>[Addendum <span class="local_date" data-local_date="1626685500"></span>]</strong></span><br>We have confirmed that some players are still unable to play the game due to this issue.<br><br>■Affected players<br>All players who first started playing and accepted the User Agreement between <span class="local_date" data-local_date="1626674700"></span> and <span class="local_date" data-local_date="1626675300"></span>.<br><br>If you are still unable to play because of this issue, please try reinstalling the app and start a new game.<br><br>Thank you for playing Dragalia Lost.</div><div><br></div><hr><div>We have confirmed that a network issue was temporarily preventing connection to the Dragalia Lost game around <span class="local_date" data-local_date="1626674400"></span>.&nbsp;</div><div>This issue has now been resolved.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1626676200; update_time1626751635

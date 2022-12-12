@@ -1,0 +1,136 @@
+article_id:710
+category_name:News
+title_name:A New Summon Showcase, Windswept Warriors, Is Now Live!
+image_path:
+
+message:<div>A new Summon Showcase, Windswept Warriors, went live <span class="local_date" data-local_date="1567231200"></span>!</div><div><br></div><div>Featured adventurers and dragons currently have boosted appearance rates.</div><div><br></div><div>Newly featured adventurers and dragons:</div><div><br></div><div>■Adventurers</div><div>5★ Victor (wind/blade)</div><div>4★ Noelle (wind/wand)</div><div><br></div><div>■Dragon</div><div>5★ Vayu (wind)</div><div><br></div><div>For information about other featured adventurers and dragons, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Availability period for featured summons:</div><div><span class="local_date" data-local_date="1567231200"></span> to <span class="local_date" data-local_date="1568267940"></span></div><div><br></div><div>Get a closer look at some of the featured adventurers and dragons below.</div><div><br></div><div>Featured adventurer:</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/11c9255811bf8cc37fa624391421957b.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>781</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>494</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2515</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The commander of a mercenary band called the<br>Shadewolves who were betrayed and annihilated<br>by the Empire. This left him a shell of a man<br>who gave up everything in the name of revenge.<br>Where he goes, dark rumors follow.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/53f379e3fec06ed59b0dde4735cb72ce2.png"></span>
+				<span>Steel Formation</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to the target and nearby enemies,<br>inflicts bleeding, and activates "Skill Shift" if the attack<br>connects. Phase II adds an additional 3% increase to<br>the entire team's water resistance for 20 seconds,<br>while Phase III also grants all teammates<br>a one-use shield that nullifies damage less<br>than 20% of the user's maximum HP.<br>This does not stack with any other shields.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/606183b621fc27f440645ce7a917f7fc2.png"></span>
+				<span>Lethal Stratagem</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to the target and nearby enemies,<br>and grants all teammates immunity to knockback<br>for 15 seconds.
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">Co-abilities</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Strength +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases strength by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP 70% = Strength +13%</span></dt><dd><div>Increases strength by 13% when HP is 70% or above.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span><span>Bog Res +100%</span></dt><dd><div>Reduces susceptibility to bog by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span><span>Buff Time +30%</span></dt><dd><div>Increases duration of buff skills by 30%.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here do not include increases due to abilities and represent the adventurer at maximum level with all mana circles unlocked, not the stats when first obtained.</div><div><br></div><div>Featured dragon:</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e56a77d04fb2123522cdec3e99cb6e64.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1005</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A swift dragon clad in gusting winds. He is<br>distinguished by his speed, as the gales he<br>unleashes become blades that cleave the very<br>air itself. Though his rough and wild personality<br>makes him seem violent, he's actually quite kind.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/02e0e90cb54331571331affbe607d6362.png"></span>
+				<span>Purusha Prana</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to enemies in a line, and increases<br>the damage dealt by the user's next skill by 40%.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Wind) Strength +20%</span></dt><dd><div>If the user is attuned to Wind: <br>increases strength by 20%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>(Wind) Skill Damage +90%</span></dt><dd><div>If the user is attuned to Wind:<br>increases attack skill damage by 90%.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For information about featured adventurers and dragons, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1567231200; update_time1567056938

@@ -1,0 +1,8 @@
+article_id:2082
+category_name:News
+title_name:The Stamina Cost of Certain Quests Will Be Adjusted
+image_path:
+
+message:<div>The stamina cost of certain quests will be reduced as part of an update in late April.</div><div><br></div><div>Please note that this change does not affect the amount of stamina recovered from the 30-Day Pack (Recovery) or from the use of wyrmite or honey, nor does it affect the type, amount, or rate of drop rewards.</div><div><br></div><div>Further details will be provided in an upcoming notification.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1616824800; update_time1616747738

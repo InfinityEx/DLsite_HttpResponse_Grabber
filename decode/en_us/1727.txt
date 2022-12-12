@@ -1,0 +1,176 @@
+article_id:1727
+category_name:News
+title_name:Announcing a Platinum Showcase! 5★ Gala Dragalia Dragon Guaranteed!
+image_path:
+
+message:<div>A Platinum Showcase will start at <span class="local_date" data-local_date="1604037600"></span>.</div><div><br></div><div>The Platinum Showcase is a limited summon showcase that works similarly to a tenfold summon in that one summon will get you 10 results. The difference between a regular tenfold summon and this Platinum Showcase is that a 5★ Gala Dragalia dragon available before the start of this summon showcase is guaranteed to appear.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Note: The roster for this summon showcase does not include the new adventurers and dragons from the Gala Dragalia showcase that will also be live at the same time.</span></div><div><br></div><div>During the period, players are limited to doing the Platinum Showcase summon three times, and these summons can only be performed with diamantium (purchase required).</div><div><br></div><div>Availability period for the Platinum Showcase:</div><div><span class="local_date" data-local_date="1604037600"></span> to <span class="local_date" data-local_date="1604469599"></span></div><div><br></div><div>Get a closer look at some of the 5★ dragons eligible to appear as the guaranteed 5★ summon.</div><div><br></div><div>5★ dragons eligible for guaranteed appearance as the 10th summon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1e3248bd65986d68b2753ba6ae93f275.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon famed for being the strongest in history.<br>A hundred kingdoms were razed by his fires,<br>which is why humans dubbed him the Blazewyrm.<br>He later forged a pact with Leonidas and allowed<br>himself to be twisted by the power of alchemy.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>Alchemical Hellfire</span>
+			</dt>
+			<dd>
+				<div>
+					Deals flame damage to enemies directly ahead,<br>draws them toward the user, and increases<br>the user's strength by 20% for 20 seconds.<br>It is possible to charge this skill's gauge by attacking,<br>and use it up to twice during one shapeshift.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Flame) Strength V & HP 50% = Strength +20%</span></dt><dd><div>If the user is attuned to Flame: <br>increases strength by 70%, and increases strength<br>by an additional 20% when HP is 50% or above.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>(Flame) Ending Shapeshift = Skill Gauges +100%</span></dt><dd><div>If the user is attuned to Flame:<br>fills 100% of skill gauges when<br>the user's shapeshift is undone.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/686c7f911e2e23a561ff6e3d136c8a7a.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon sworn to Chelle who enjoys people-<br>watching and midnight walks. Her cute exterior<br>belies a mischievous caprice, and she treats<br>untrusted people as playthings. Her callousness<br>and passion match her pactbound human.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>Elegant Artifice</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to enemies directly ahead<br>for 10 seconds.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>(Shadow) Skillful Trickery V</span></dt><dd><div>If the user is attuned to Shadow: <br>increases the damage dealt by the user's<br>next 15 skills by 180% at the start of quests.<br>Every 25-hit combo will increase the damage<br>dealt by an additional skill by 180%. A maximum<br>of 15 of this skill-damage-increasing effect can<br>be stored for use, and any excess will be discarded.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>(Shadow) Ending Shapeshift = Skillful Trickery V</span></dt><dd><div>If the user is attuned to Shadow: <br>increases the damage dealt by the user's<br>next eight skills by 180% when the user's<br>shapeshift is undone.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5c4ba571bf7b8c5d8c118e6c45c8d884.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>Valyx's pactwyrm commands lightning itself, and<br>has taken the title of Fulminator. Thor possesses<br>power great enough to reduce battlefields to ash,<br>and his beliefs as a warrior also influence the<br>man with whom he has sworn a pact.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>Thor's Hammer</span>
+			</dt>
+			<dd>
+				<div>
+					Deals light damage to the target and nearby enemies,<br>and inflicts paralysis. Continually tapping the screen<br>while charging the attack will increase damage,<br>with damage reaching its maximum potential at<br>stage three. The attack will be unleashed after a<br>set time or upon reaching stage three.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/212bea9478466c5e63454315256b6a5f2.png"></span><span>(Light) Chariot Rider V</span></dt><dd><div>If the user is attuned to Light: <br>increases strength by 50%, increases the user's<br>energy level by one stage for every 5 seconds<br>that pass, and provides a further increase to<br>the user's strength based on the user's<br>energy level, up to a maximum of 45%<br>when the user is energized.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>(Light) Thunder Bringer II</span></dt><dd><div>If the user is attuned to Light: <br>When the user's shapeshift is undone,<br>energizes the entire team.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragons at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Note:</div><div>1. For more information about the Platinum Showcase, tap Summon on the in-game footer menu, then select the Platinum Showcase and check the Appearance Rates section and the Details tab of the Showcase Info section.</div><div>2. Wyrmsigils cannot be earned from summoning on a Platinum Showcase.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1603951200; update_time1603708583

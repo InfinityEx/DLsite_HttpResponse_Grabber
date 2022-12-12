@@ -1,0 +1,8 @@
+article_id:1473
+category_name:Events
+title_name:A New Raid Event, Doomsday Getaway, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/ac9a45a7d167210c3566329226cbdf16.png
+
+message:<div>The Doomsday Getaway raid event will begin <span class="local_date" data-local_date="1595916000"></span>!</div><div><br></div><div>During this event, you can use co-op play to fight against the water-attuned raid boss.</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/ac9a45a7d167210c3566329226cbdf16.png"></div><div>Having subdued the wicked fiend Scylla, the Prince and friends disembark on calmer waters in search of some well-deserved rest and relaxation. Unfortunately for them, bloodsport wasn&#39;t quite the diversion they had in mind.<br><br>A terrified shriek announces the first death, and the remote island&#39;s twisted game is soon afoot! As the death toll rises higher and higher, and with no way to reach the outside world, our heroes must tread carefully, lest their next move be their last...<br><br>Event theme song: &quot;Stealth Dance&quot; by Shiki Aoki<br><br>■Notes<br>1. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate in event quests.<br>2. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign in order to play co-op.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1595829600; update_time1595818205

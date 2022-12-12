@@ -1,0 +1,82 @@
+article_id:312
+category_name:News
+title_name:Announcing Gala Dragalia!
+image_path:
+
+message:<div>Gala Dragalia will start <span class="local_date" data-local_date="1553666400"></span>.</div><div><br></div><div>What is Gala Dragalia?</div><div>・The initial appearance rate for 5★ adventurers, dragons, and wyrmprints will be increased to 6%, up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div>・Limited-time Gala Dragalia versions of adventurers will be added, available only while Gala Dragalia is active!</div><div><br></div><div>Gala Dragalia event duration:</div><div><span class="local_date" data-local_date="1553666400"></span> to <span class="local_date" data-local_date="1554011940"></span></div><div><br></div><div>The featured Gala Dragalia adventurer is detailed below.</div><div><br></div><div>Gala Dragalia adventurer:</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/4981b40ba8795e8b4565647e7d9297b9.png"></div>
+<div class="status">
+	<div class="title">Stats</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>80</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>755</span>
+				</li>
+				<li class="atk">
+					<span>Strength</span>
+					<span>504</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+			<span>2499</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">Adventurer details</div>
+			<div class="param">
+				<ul>
+					<li>Ranzal has been appointed a commander in the<br>New Alberian army. He wears armor made by his<br>friends, and has traded the axe of his mercenary<br>days for a sword. He's still as boisterous as ever,<br>but now has the dignity and presence of a leader.</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>Cyclone Blade</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to the target and nearby enemies.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/862d02981336441f770826c64d15b0162.png"></span>
+				<span>Wind Tactics</span>
+			</dt>
+			<dd>
+				<div>
+					Activates "Gale-Clad Sword." The user's next three<br>force strikes are powered up, and can damage<br>far-away enemies. Also increases the entire team's<br>defense by 10% for 10 seconds.
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">Co-abilities</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>Dragon Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases dragon gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>Experience's Boon II</span></dt><dd><div>Grants the user an Attack Gauge and a Burst Gauge.<br>The Attack Gauge fills when regular attacks connect<br>with enemies, while the Burst Gauge is filled when<br>force strikes successfully connect.<br>For every completely filled gauge, the user's defense<br>is increased. Any filled gauges are consumed when<br>using the Cyclone Blade skill, increasing its power.<br></div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/857a2a2fdbc31b188c91fbd6f6eca6b32.png"></span><span>Relentless Spirit II</span></dt><dd><div>Reduces susceptibility to freeze and bog by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>Skill Damage +30%</span></dt><dd><div>Increases attack skill damage by 30%.</div></dd></dl></div></div></div><div>Note: These are the stats when at maximum level with all mana circles unlocked. They do not represent the stats when first obtained. Adventurers with the same name cannot be put into the same party.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For information about featured adventurers, dragons, and wyrmprints, tap Summon on the in-game footer menu, then select Showcase Info and check the More Info tab, or select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1553580000; update_time1553251444

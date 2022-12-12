@@ -1,0 +1,8 @@
+article_id:579
+category_name:Updates
+title_name:Version Update
+image_path:
+
+message:<div>Update 1.9.1 is now available for download.</div><div>Note: There will be no automatic update for 1.9.1.</div><div><br></div><div>■Update Details</div><div>・Fixed a bug that sometimes prevented progression after completing Ch. 7 / 5-6 of the main campaign, A Bond to Unite the Land.</div><div>・Fixed a bug that sometimes prevented progression after completing quests in The Mercurial Gauntlet.</div><div>・Fixed a bug where the Home screen would darken and it would become impossible to progress.</div><div><br></div><div>To thank you for your patience, we will be giving the following gift to all players who started playing before <span class="local_date" data-local_date="1562651940"></span>.</div><div><br></div><div>・Wyrmite x300</div><div><br></div><div>This gift can be claimed from your goodie box for up to seven days after logging in. If the gift isn&rsquo;t retrieved within seven days, it will be lost.</div><div><br></div><div>Note:</div><div><br></div><div>It may take time for the store to reflect the updated information. Players may not be able to perform updates due to their device&rsquo;s data cache being full. If you are unable to perform the update, restart your device, and then try downloading it from the store.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1562652000; update_time1562652255

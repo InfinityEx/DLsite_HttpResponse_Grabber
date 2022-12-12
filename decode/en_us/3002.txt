@@ -1,0 +1,198 @@
+article_id:3002
+category_name:News
+title_name:A Platinum Showcase Is Coming Soon! Flame-Attuned 5★ Adventurer Guaranteed!
+image_path:
+
+message:<div>A Platinum Showcase starts on <span class="local_date" data-local_date="1647496800"></span>.</div><div><br></div><div>The Platinum Showcase is a limited summon showcase that works similarly to a tenfold summon in that one summon will get you 10 results. The difference between a regular tenfold summon and this Platinum Showcase is that a flame-attuned 5★ adventurer is guaranteed to appear.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Note: The roster for this summon showcase does not include adventurers and dragons that are attuned to elements other than flame.</span></div><div><br></div><div>During the period, players are limited to doing the Platinum Showcase summon two times, and these summons can only be performed with diamantium (purchase required).</div><div><br></div><div>Availability period for the Platinum Showcase:</div><div><span class="local_date" data-local_date="1647496800"></span> to <span class="local_date" data-local_date="1648360799"></span></div><div><br></div><div>Get a closer look at some of the flame-attuned 5★ adventurers eligible to appear as the guaranteed 5★ summon below.</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/bbabe4198ff0cc8846e32165538ea51e.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>765</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>492</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,497</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Twin sisters who were once part of Agito. Ayaha<br>has black hair, Otoha white—and though both are<br>innocent and cruel, they believe their brand of<br>freedom is the only correct one. They have been<br>acting of their own accord since Agito's end.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d07d9921bf8130db4dfafb43dde61cc52.png"></span>
+				<span>Nabe Nabe Sokonuke</span>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies,<br>partially fills the dragon gauge if the attack<br>connects, removes all afflictions from the entire<br>team, and swaps the user from Ayaha to Otoha<br>or vice versa. If this skill is used directly after<br>Onigokko or Kagome Kagome, it will also<br>immediately ready Onigokko and Kagome Kagome<br>for use.<br><br>If this skill is used while shapeshifted, a variant<br>called Hana Ichi Monme will be used instead.<br>Hana Ichi Monme deals damage to the target<br>and nearby enemies, draws them together,<br>inflicts stun, burn, and scorchrend, and restores<br>HP relative to the amount of damage dealt.<br>Hana Ichi Monme also grants the entire team<br>a team strength amp, the "Purple Hagoromo"<br>effect, and increases their max HP.</div><div class="skill-detail">Damage: 81 × 14 hits<br>Skill Energy Required: 8,364<br>Dragon Energy Gained: 40<br>Special Effects:<br>・Affliction Recovery (All Afflictions)<br><br><color=#00008B>When Shapeshifted:</color><br>Damage: 396 × 7 hits<br>Special Effects:<br>・HP +15%<br>・Purple Hagoromo<br>　　Does not stack<br>　　HP Regen<br>　　Triggers every 2.9 seconds<br>　　Potency: 2% of max HP<br>　　Stunned Punisher +10%<br>　　Burning Punisher +5%<br>　　Scorchrent Punisher +5%<br>・Stun<br>　　Lasts 7 seconds<br>・Burn<br>　　Lasts 12 seconds<br>　　Triggers every 3.9 seconds<br>　　Damage: 97<br>・Scorchrend<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br>Team Amps:<br>・Team Strength Amp (MAX Lv. = 1)<br>・HP Drain<br>　　Recovers 10% of damage dealt<br>　　Recovers up to 10% of targeted unit's max HP<br>　　Target: Entire Team<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3171d52c1cdee5d533d25df908ef96252.png"></span>
+				<span>Onigokko & Kagome Kagome</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>If this skill is used as Ayaha, the Onigokko<br>variant will be used. Onigokko deals damage<br>to the target and nearby enemies, inflicts stun,<br>restores HP to all teammates, and grants them<br>the "Blue Hagoromo" effect.<br><br>If this skill is used as Otoha, the Kagome Kagome<br>variant will be used. Kagome Kagome deals<br>damage to multiple targets and enemies near<br>those targets, inflicts burn and scorchrend,<br>restores HP to all teammates, and grants them<br>overdamage and the "Red Hagoromo" effect.<br>This skill's attack will only affect each target<br>once per use.</div><div class="skill-detail"><color=#00008B>As Ayaha:</color><br>Damage: 1,395 × 1 hit<br>Recovery Potency: 60<br>Skill Energy Required: 4,132<br>Skill Energy Required (Shared Skill): 16,395<br>Special Effects:<br>・Stun<br>　　Lasts 6 seconds<br>・Blue Hagoromo<br>　　Lasts 30 seconds<br>　　Stacks up to 3 times<br>　　Wind Res +4<br>　　HP Regen<br>　　Triggers every 2.9 seconds<br>　　Potency: 18<br><br><color=#00008B>As Otoha:</color><br>Damage: 1,048 × 1 hit<br>Recovery Potency: 60<br>Skill Energy Required: 4,132<br>Special Effects:<br>・Red Hagoromo<br>　　Affliction Success Rate +50%<br>　　Lasts 30 seconds<br>　　Stacks up to 3 times<br>・Overdamage<br>　　Lasts 30 seconds<br>　　Potency: 40% of strength<br>　　Does not stack<br>・Burn<br>　　Lasts 12 seconds<br>　　Triggers every 3.9 seconds<br>　　Damage: 72.7<br>・Scorchrend<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Dragon Damage +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Adds 20% to the modifier applied to damage<br>when in dragon form. Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span>
+				<span>(Flame) Combo = Buff Skill Time +15%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Flame: <br>increases duration of their buff skills by 15%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c0668faa3dc59d6a25d13c11b55642532.png"></span><span>Union II</span></dt><dd><div>The user begins quests as Ayaha but can swap<br>to Otoha and vice versa by using Nabe Nabe<br>Sokonuke. Ayaha and Otoha share all the same<br>stats, but their standard attacks, force strike,<br>dash attack, and second skill differ.<br><br>Force strike effects:<br>Ayaha: Deals damage to enemies in a line and<br>reduces their strength by 5% for 20 seconds.<br>This strength reduction will not stack.<br>Otoha: Deals damage to surrounding enemies.<br><br>When shapeshifting, the user will transform<br>into Beast Ayaha & Otoha regardless of what<br>dragon they are equipped with and activate the<br>following effects while shapeshifted:<br>・The user's shapeshift time is extended by 25%.<br>・The user's standard attacks lower enemy burn<br>or scorchrend resistance by 20% for 30 seconds.<br>Both of these resistance reduction effects can be<br>applied simultaneously, but neither of them will<br>stack.<br>・The user is granted a dragon strike that deals<br>damage to surrounding enemies and inflicts stun<br>and scorchrend.<br><br>In addition, the user's dragon skill level will<br>match the level of the adventurer's initial skill,<br>displayed at the top of their skill list.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6a94f7adaeafadf56700005abbf6d8fe2.png"></span><span>Warabe Asobi II</span></dt><dd><div>Using Nabe Nabe Sokonuke reduces<br>susceptibility to afflictions by 20% for<br>the remainder of the quest.<br>This reduction can stack up to five times.<br><br>Also, using Nabe Nabe Sokonuke, Onigokko,<br>or Kagome Kagome will grant the user a<br>strength amp with a maximum team amp level<br>of one. After this amp is granted, this ability<br>will not grant it again for eight seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cb8b9d60b801a6b11eda8d8e40214f1f2.png"></span><span>Tosenbo & Toryanse II</span></dt><dd><div>Reduces damage taken by 10% when not<br>inflicted with any afflictions.<br><br>Also, grants the user a stack of the "Playtime"<br>effect for every nine seconds that pass in which<br>the user is not inflicted with any afflictions.<br>During Playtime, the user's strength is increased<br>by 5% and the potency of recovery skills by 10%.<br>This buff can stack up to three times. All stacks<br>will be lost upon being inflicted with an affliction.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/432d8cc7dd82f6504f3678f1d485edee.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Posing as a researcher for the Syndicate she left<br>behind, Grace infiltrates their ranks with the aim<br>of atoning for the sins she and her late husband<br>committed in their employ. Wielding a sword he<br>designed, she works to stop the evil organization.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7d48df2c26370575bbc79e1466561f4c2.png"></span>
+				<span>Soul Deprivation</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies<br>and reduces their strength.</div><div class="skill-detail">Damage: 2,200 × 1 hit<br>Skill Energy Required: 3,000<br>Skill Energy Required (Shared Skill): 7,350<br>Special Effects:<br>・Strength -10%<br>　　Lasts 10 seconds<br>　　Does not stack<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/35834645c2606a850ecc19943feac5132.png"></span>
+				<span>Flametongue Unbound</span>
+			</dt>
+			<dd><div>Deals damage to multiple targets and enemies<br>near those targets and grants the user a defense<br>amp.<br><br>This skill can only be used when the user has at<br>least one "Soul Seal," and using it will consume<br>all Soul Seals, then deal hits and grant amps<br>equal to the number of Soul Seals consumed.</div><div class="skill-detail">Damage: 1,000 × 1 hit<br>Skill Energy Required: 6,000<br>Amps:<br>・Defense Amp (Team Amp MAX Lv. = 2)</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>Dragon Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases dragon gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Flame) HP Below 40% = Strength +15%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Flame: <br>increases their strength by 15% when<br>their HP is 40% or below.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8635dfbfe7f74f8f76e9d913d1d186922.png"></span><span>Double-Edged Revelation II</span></dt><dd><div>Grants the user a "Soul Seal" when<br>Soul Deprivation connects with enemies.<br>This buff's effects are based on the<br>number of Soul Seals the user has, up to<br>a maximum of four.<br><br>One: Increases the damage dealt by the user's<br>attacks by 10%.<br>Two: Increases the damage dealt by the user's<br>attacks by 15%.<br>Three: Increases the damage dealt by the user's<br>attacks by 20%.<br>Four: Increases the damage dealt by the user's<br>attacks by 80%, but the user will take damage<br>equal to 2% of their maximum HP for every attack.<br><br>All Soul Seals will be lost upon shapeshifting.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>Team Defense Amp = HP Regen II</span></dt><dd><div>Gradually recovers the user's HP<br>when they have a team defense amp.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Some skills have different effects when used as a shared skill.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Notes:</div><div>1. For more information about the Platinum Showcase, tap Summon on the in-game footer menu, then select the Platinum Showcase and check the Appearance Rates section and the Details tab of the Showcase Info section.</div><div>2. Wyrmsigils cannot be earned from summoning on a Platinum Showcase.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1647410400; update_time1647230382

@@ -1,0 +1,8 @@
+article_id:286
+category_name:Events
+title_name:A New Facility Event, The Accursed Archives, Is Coming Soon!
+image_path:
+
+message:<div>A new facility event, The Accursed Archives, will begin on <span class="local_date" data-local_date="1552370400"></span>!</div><div>This event will pit your group of adventurers against bosses of the light element. You&rsquo;ll also be able to build event-related reward facilities for your Halidom!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a6dea0db7102b4173c026e7913f443e8.png"></div><div>One fateful day, the entire population of a small village vanishes seemingly without a trace.</div><div>&nbsp;In order to figure out why, the prince and his friends break the seal on a mysterious library... But this led to greater mysteries still.&nbsp;</div><div>What awaits them is a garden of madness beyond description.&nbsp;</div><div>Absolute and nightmarish chaos. In a library enveloped by riddles and fear, can they discover the ultimate truth?</div><div><br></div><div>■Event Duration</div><div><span class="local_date" data-local_date="1552370400"></span> to <span class="local_date" data-local_date="1553061599"></span></div><div>■Notes</div><div>1. Players must have completed up to Chapter 2, 2-1 (Normal) of the main campaign to participate.</div><div>2. Players must have completed up to Chapter 2, 2-1 (Normal) of the main campaign in order to play co-op.</div><div><br></div><div>Thank you for playing Dragalia Lost!</div>
+
+start_time:1552024800; update_time1552021452

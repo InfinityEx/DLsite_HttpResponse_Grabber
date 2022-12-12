@@ -1,0 +1,8 @@
+article_id:679
+category_name:News
+title_name:Regarding a Connection Issue with the Game Server
+image_path:
+
+message:<div>We have confirmed an issue that prevented connection to the game server between <span class="local_date" data-local_date="1565943120"></span> and <span class="local_date" data-local_date="1565943420"></span>.</div><div>This issue has now been resolved.</div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1565945400; update_time1565945459

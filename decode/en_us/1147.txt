@@ -1,0 +1,8 @@
+article_id:1147
+category_name:News
+title_name:An Interlude Will Be Added to Main Campaign Chapter 12: Destruction and Domination!
+image_path:https://dragalialost.akamaized.net/attached/information/images/a98e37e5a4806929f616fc19e86df8f7.png
+
+message:<div>An interlude will be added to main campaign Chapter 12: Destruction and Domination at <span class="local_date" data-local_date="1584943200"></span>!</div><div><br></div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a98e37e5a4806929f616fc19e86df8f7.png"></div><div><br></div><div>We hope you&#39;re looking forward seeing what&#39;s in store for the prince and his friends!</div><div><br></div><div>Notes:</div><div>・The interlude being added to chapter 12 of the main campaign, Destruction and Domination, will unlock after you clear Ch. 12 / 4-4, &quot;Unyielding Ambition.&quot;</div><div>・The newly added interlude will be partially voiced instead of fully voiced in Japanese.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1584597600; update_time1583836762

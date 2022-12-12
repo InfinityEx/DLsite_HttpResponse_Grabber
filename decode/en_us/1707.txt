@@ -1,0 +1,8 @@
+article_id:1707
+category_name:News
+title_name:A Gift from the Dragalia Lost Team
+image_path:
+
+message:<div>As a token of our appreciation for your support, we will send the following gift to all players!</div><div>We hope you can put it to good use as you continue your adventures!</div><div><br></div><div>■Gift Details</div><div>Exquisite Honey x30</div><div>Skip Tickets x100 &nbsp;(10 skip tickets x10)</div><div>Blessed Ethon Ashes x10</div><div><br></div><div>Players can claim it from their goodie boxes for up to seven days after reception.</div><div><br></div><div>Thank you for playing Dragalia Lost!</div>
+
+start_time:1602914400; update_time1602818650

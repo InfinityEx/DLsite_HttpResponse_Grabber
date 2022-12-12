@@ -1,0 +1,52 @@
+article_id:2888
+category_name:News
+title_name:New Wyrmprints Added to the Treasure Trade for Wyrmprints Lineup!
+image_path:
+
+message:<div>A new wyrmprint was added and certain wyrmprints that were formerly event-limited were made non-limited in the Treasure Trade for wyrmprints lineup on <span class="local_date" data-local_date="1646028000"></span>.<br><br>You can trade for the newly added wyrmprint from the Featured tab or from the various rarity tabs in the Treasure Trade for wyrmprints.<br><br>New wyrmprint:<br>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/0e6c65ee2c78227440c6a57408f4322d2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/4935070b7217938ee929ad4013b12eb12.png"></div>
+	<div class="discription">
+		<div class="charaName">What Dreams May Come</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span><span>Combo Time +2&nbsp;(Max III)</span></dt><dd><div>Extends the window between hitting an enemy and<br>the combo counter resetting by two seconds.&nbsp;(Max III)</div></dd></dl></div></div><br><br>You can trade for the wyrmprints that are no longer limited from the various rarity tabs in the Treasure Trade for wyrmprints.<br><br>Wyrmprints that are no longer limited:</div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/a4671cfe9cdc7b85b70fb2b9a8ea5fcc2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/5686b974264a7cd2cec543b235471c832.png"></div>
+	<div class="discription">
+		<div class="charaName">A Dragonyule for Ilia</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>(Light) Skill Haste +10%&nbsp;(Max 15%)</span></dt><dd><div>If the user is attuned to Light:<br>increases skill gauge fill rate by 10%.&nbsp;(Max 15%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/c0d49508405930a0b0d9a04254cd7f412.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/85a6f012112ca0a07313209115dc0a102.png"></div>
+	<div class="discription">
+		<div class="charaName">A Gift from an Angel</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>(Shadow) Critical Rate +8%&nbsp;(Max 15%)</span></dt><dd><div>If the user is attuned to Shadow:<br>increases critical rate by 8%.&nbsp;(Max 15%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/3de890084a9ca233f124627633b1d3112.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/06daf043e7e30f0d7df7980e070719352.png"></div>
+	<div class="discription">
+		<div class="charaName">Saint Starfall's Circus</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>(Lance) Critical Rate +12%&nbsp;(Max 15%)</span></dt><dd><div>If the user wields a Lance:<br>increases critical rate by 12%.&nbsp;(Max 15%)</div></dd></dl></div></div><br><br>Featured period:<br><span class="local_date" data-local_date="1646028000"></span> to <span class="local_date" data-local_date="1648360799"></span><br><br>Notes:<br>・The stats shown here represent the wyrmprints when fully unbound. They do not represent the stats when first obtained.<br>・After the featured period is over, you will still be able to trade for the new wyrmprints from the various rarity tabs.<br>・For wyrmprint details other than those included in this notification, see the Wyrmprints section in the Shop.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1646028000; update_time1645673843

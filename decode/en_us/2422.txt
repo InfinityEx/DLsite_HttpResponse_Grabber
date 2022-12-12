@@ -1,0 +1,8 @@
+article_id:2422
+category_name:News
+title_name:Part One of Main Campaign Chapter 21: The Two Creators Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/11e3bafae99bf01ff639c4fb08ee40b6.png
+
+message:<div>Part one of Chapter 21: The Two Creators will be added to the main campaign on <span class="local_date" data-local_date="1629698400"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/11e3bafae99bf01ff639c4fb08ee40b6.png"></div><div><br></div><div>We have also released a trailer for this chapter. Check it out at the link below!</div><div><br></div><div>▼Nintendo Mobile YouTube Channel - Chapter 21: The Two Creators Trailer</div><div><a href="https://youtu.be/dWrKE6r648M">https://youtu.be/dWrKE6r648M</a><br></div><div><br></div><div>We hope you&#39;re looking forward to seeing what&#39;s in store for the prince and his friends!</div><div><br></div><div>Note: Part one of chapter 21 of the main campaign will unlock when you clear Ch. 20 / 7-5 &quot;From Father to Child.&quot;</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1629352800; update_time1629268640

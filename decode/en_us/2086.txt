@@ -1,0 +1,8 @@
+article_id:2086
+category_name:News
+title_name:Twitter Gift Quiz Rewards!
+image_path:
+
+message:<div>Thank you to everyone who participated in the gift quiz held on the official Dragalia Lost Twitter account through <span class="local_date" data-local_date="1617256799"></span>.</div><div><br></div><div>As thank-you for participating in the quiz and for answering its questions correctly, the following items will be sent to players who started playing before <span class="local_date" data-local_date="1617343200"></span>.</div><div><br></div><div>・Summon Voucher &times; 15</div><div>・Succulent Dragonfruit &times; 50</div><div>・Champion&#39;s Testament &times; 3</div><div>・Damascus Ingot &times; 1</div><div>・Eldwater &times; 5,000</div><div>・Sunlight Stone &times; 1</div><div>・Tenfold Summon Voucher &times; 1</div><div>・Rupie &times; 7,000,000</div><div><br></div><div>Gifts can be claimed from your goodie box for up to seven days after logging in.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1617343200; update_time1617255899

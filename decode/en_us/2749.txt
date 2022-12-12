@@ -1,0 +1,99 @@
+article_id:2749
+category_name:News
+title_name:Adding the Mana Spiral to More Adventurers!
+image_path:
+
+message:<div>A sixth mana circle, the mana spiral, will be added to certain adventurer starting <span class="local_date" data-local_date="1642485600"></span>.</div><div><br></div><div>The adventurer affected this time and her stats are described below.</div><div>Note: Unlocking an eligible adventurer&#39;s mana spiral requires special materials specific to that adventurer that can be earned from the daily bonus of the Trials of the Mighty quest.</div><div><br></div><div>■Affected Adventurers</div><div>4★ Sazanka (shadow/axe)</div><div><br></div><div>■Stats</div><div><br></div><div>・4★ adventurer</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/913564cdd80395dfcd538ceb414e5bca2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">Sazanka</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/e9dfe7dacc80f97bf9aa860adb0b78992.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>962</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>552</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,214</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b35491d8e340e674f633945c08ca84472.png"></span>
+				<span>Dancing Blossoms</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies,<br>draws them toward the user, and inflicts<br>bleeding and shadowblight.</div><div class="skill-detail">Damage: 400 × 4 hits<br>Skill Energy Required: 2,805<br>Skill Energy Required (Shared Skill): 8,005<br>Special Effects:<br>・Bleeding<br>　　Lasts 30 seconds<br>　　Triggers every 4.9 seconds<br>　　Damage: 146<br>・Shadowblight<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>Blooming Cradle</span>
+			</dt>
+			<dd><div>Increases the user's max HP for the remainder<br>of the quest, increases their strength, and<br>activates "Slumber Strike Stance." During<br>Slumber Strike Stance, the user's force strikes<br>will deal extra damage, inflict sleep, and dispel<br>one buff from each target.</div><div class="skill-detail">Skill Energy Required: 6,400<br>Special Effects:<br>・HP +10%<br>・Strength +30%<br>　　Lasts 15 seconds<br>・Slumber Strike Stance<br>　　Charges: 3<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>Defense +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases defense by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>(Shadow) HP +9%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Shadow: <br>increases their HP by 9%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span><span>Cultured Flower</span></dt><dd><div>Speeds the rate the mode gauge decreases<br>by 35%.<br><br>Also, using Blooming Cradle will grant the user<br>a strength amp with a maximum team amp level<br>of two. After this amp is granted, this ability<br>will not grant it again for 30 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/760d630739a2cdfb77dad15b5985557d2.png"></span><span>Potent Paralysis Res +100%</span></dt><dd><div>Reduces susceptibility to paralysis by 100%.<br>When the user is hit by an attack that would have<br>paralyzed them, their strength is increased by 15%<br>for 10 seconds. After activating, this buff will not<br>activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf78bd60922567f503f5bfbc6fa6cdba2.png"></span><span>Sleeping, Bleeding, and Shadowblighted Punisher I</span></dt><dd><div>Increases damage to sleeping enemies by 25%,<br>bleeding enemies by 15%, and shadowblighted<br>enemies by 15%.</div></dd></dl></div></div></div><div><br></div><div>Notes:</div><div>1. The stats shown here represent the adventurer at level 100 with 70 mana nodes unbound.</div><div>2. The stats shown here do not include increases or decreases due to abilities.</div><div>3. The stats for the adventurer included in this notification shown in any prior notifications or preview videos were the stats at level 80 with 50 mana nodes unbound.</div><div>4. When an adventurer&#39;s skill level increases, the skill gauge will fill more slowly when set as a shared skill.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1642399200; update_time1641979120

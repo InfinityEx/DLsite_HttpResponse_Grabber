@@ -1,0 +1,103 @@
+article_id:2528
+category_name:News
+title_name:A Prize Showcase Is Now Live!
+image_path:
+
+message:<div>A Prize Showcase started on <span class="local_date" data-local_date="1633413600"></span>. Appearance rates for featured adventurers are boosted during this showcase!</div><div><br></div><div>When you summon on the Prize Showcase, you will get a prize in addition to the adventurer or dragon who appears. <span style="color: rgb(226, 80, 65);">Prizes will be sent to the No Limit tab of your goodie box.</span></div><div><br></div><div>There are six categories of prize: platinum prize, gold prize, silver prize, bronze prize, fifth prize, and sixth prize. When you perform a tenfold summon, the tenth prize is guaranteed to be either a platinum, gold, silver, or bronze prize. Note that unlike tenfold summons, using 10 single summon vouchers at once doesn&#39;t guarantee that the tenth prize will be a platinum, gold, silver, or bronze prize.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">The Scratch-A-Thon Summon and Platinum Showcase that are live at the same time do not include the newly added adventurer appearing in this showcase.</span></div><div><br></div><div>For a full list of prizes and their appearance rates, tap Summon on the in-game footer menu when the Prize Showcase is active, then see Prizes under Appearance Rates.</div><div><br></div><div>▼Newly added featured adventurer:</div><div>5★ Regina (water/blade)</div><div><br></div><div>Availability period for the Prize Showcase:</div><div><span class="local_date" data-local_date="1633413600"></span> to <span class="local_date" data-local_date="1634277599"></span></div><div><br></div><div>Get a closer look at the newly added featured adventurer below.</div><div><br></div><div>Featured adventurer:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/12ebbf28f5be589ff8bd82be55cd37a6.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>743</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Commander of the apostles of the Ilian Church<br>of Grams. Observant and charismatic, she's the<br>perfect person for corralling the ragtag group of<br>apostles. A researcher who is gifted at alchemy,<br>she shares a Sigil with the angel Sandalphon.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7d34a362ac8c0f2daffee12a2c8007272.png"></span>
+				<span>Tactical Skewer</span>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies<br>and activates additional effects based on<br>which of the following buffs the user has:<br><br>Preservation Protocol:<br>Grants the user a defense amp.<br><br>Restoration Protocol:<br>Restores the user's HP.<br><br>Purification Protocol:<br>Removes all afflictions from the user.</div><div class="skill-detail">Damage: 2,400 × 1 hit<br>Recovery Potency: 50<br>Skill Energy Required: 2,640<br>Special Effects:<br>・Affliction Recovery (All Afflictions)<br>Amps:<br>・Defense Amp (Team Amp MAX Lv. = 1)<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/73882cbce4ae7690b3bee19bc515ce6f2.png"></span>
+				<span>Imperial Castling</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies,<br>inflicts frostbite, and inflicts two of the following:<br>poison, burn, paralysis, stormlash, flashburn,<br>shadowblight, or scorchrend.</div><div class="skill-detail">Damage: 300 × 7 hits<br>Skill Energy Required: 5,280<br>Skill Energy Required (Shared Skill): 11,431<br>Special Effects:<br>・Frostbite<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br>・Poison<br>　　Lasts 15 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 43<br>・Burn<br>　　Lasts 12 seconds<br>　　Triggers every 3.9 seconds<br>　　Damage: 72<br>・Paralysis<br>　　Lasts 13 seconds<br>　　Triggers every 3.9 seconds<br>　　Damage: 72<br>・Stormlash<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br>・Flashburn<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br>・Shadowblight<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br>・Scorchrend<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Strength +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases strength by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>(Water) HP 80% = Flame Res +6%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water: <br>reduces flame damage taken by them by 6%<br>when their HP is 80% or above.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>Sandalphon's Covenant II</span></dt><dd><div>At the start of quests, inflicts the "Locked Sigil"<br>debuff on the user for 300 seconds, but grants<br>them the "Preservation Protocol" effect. If the<br>user continues to charge their force strike, the<br>effect granted to them will change every 1.5<br>seconds. The effect will cycle through the<br>"Preservation Protocol," "Restoration Protocol,"<br>and "Purification Protocol" effects in that order.<br><br>Locked Sigil's remaining time will be reduced<br>by nine seconds each time the user uses<br>Tactical Skewer and by 30 seconds each time<br>the user removes an affliction from an ally.<br><br>When the Locked Sigil effect wears off, the user<br>will be granted the "Sigil Released" effect instead.<br>Sigil Released grants the user Preservation Protocol,<br>Restoration Protocol, and Purification Protocol.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8831e94809b45e724e1966915c4e75b82.png"></span><span>Afflicted Punisher II</span></dt><dd><div>Increases damage to enemies inflicted with<br>any affliction by 25%. Also, increases damage<br>to enemies with two or more types of afflictions<br>by up to an additional 15% based on the number<br>of different afflictions they are inflicted with,<br>up to a maximum of four.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurer at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For a list of prizes and their appearance rates, tap Summon on the in-game footer menu, and see Prizes under Appearance Rates.</div><div>3. If you obtain duplicate items from a tenfold summon or from using 10 single summon vouchers at once, the item quantities for each item will be combined when sent to the No Limit tab of your goodie box.</div><div>4. An Alberian Battle Royale skin for the adventurer featured in this summon showcase is now on sale and costs fewer items to unlock. Note that some adventurers do not have adventurer skins.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1633413600; update_time1633314151

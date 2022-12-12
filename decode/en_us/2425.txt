@@ -1,0 +1,8 @@
+article_id:2425
+category_name:News
+title_name:Issue Regarding Connection for Co-op Play
+image_path:
+
+message:<div>We have confirmed an issue that temporarily affected connection for co-op play. The issue occurred around <span class="local_date" data-local_date="1629039600"></span>.<br><br></div><div>This issue has now been resolved.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div><div><br></div>
+
+start_time:1629101700; update_time1629177320

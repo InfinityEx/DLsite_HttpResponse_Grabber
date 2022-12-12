@@ -1,0 +1,8 @@
+article_id:644
+category_name:News
+title_name:Issue Regarding the Displayed Number of Required Eldwater in the Wyrmprints Shop [Update]
+image_path:
+
+message:<div>We have confirmed that under certain circumstances, when attempting to redeem a wyrmprint that you have already redeemed before in the wyrmprint shop, the number of required eldwater isn&#39;t displayed correctly.</div><div><br></div><div>Here is what we have confirmed so far:</div><div>・When redeeming a wyrmprint, the correct number of required eldwater is consumed, taking into account the previously redeemed copies.</div><div>・Under certain circumstances, the number of required eldwater will not be correctly displayed.</div><div>・When redeeming a wyrmprint, the actual number of acquired eldwater may be below the number of required eldwater even though it isn&#39;t displayed as such. In this case, a &quot;Support Code: 60001&quot; message will be displayed and you will be unable to redeem the wyrmprint.</div><div><br></div><div>This issue occurs in version 1.10.0.</div><div><br></div><div>We are currently investigating this issue. Any further updates will be added to this notice.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div><div><br></div><div><span style="color: rgb(44, 130, 201);"><strong>[Addendum <span class="local_date" data-local_date="1564720800"></span>]</strong></span></div><div>This issue was fixed in the update to version 1.10.1, which was performed around <span class="local_date" data-local_date="1564718400"></span>.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1564465200; update_time1564721001

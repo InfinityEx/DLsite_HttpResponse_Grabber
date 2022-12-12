@@ -1,0 +1,99 @@
+article_id:2200
+category_name:News
+title_name:Adding the Mana Spiral to More Adventurers!
+image_path:
+
+message:<div>A sixth mana circle, the mana spiral, will be added to certain adventurer starting <span class="local_date" data-local_date="1621404000"></span>.</div><div><br></div><div>The adventurer affected this time and her stats are described below.</div><div>Note: Unlocking an eligible adventurer&#39;s mana spiral requires special materials specific to that adventurer that can be earned from the daily bonus of the Trials of the Mighty quest.</div><div><br></div><div>■Affected Adventurers</div><div>5★ Yukata Cassandra (flame/staff)</div><div><br></div><div>■Stats</div><div><br></div><div>・5★ adventurer</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/59a20bd8af1726b5ed1431dd3c5af1252.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">Yukata Cassandra</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/1fc4080420e16a67744809f28590c98b2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>965</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>562</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,227</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3b9d73b6d9d0f95096ff35ca8a12469d2.png"></span>
+				<span>Goldfish of the Hereafter</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Restores HP to all teammates, and grants all<br>teammates a shield and the "Fluorescent Fish" effect.</div><div class="skill-detail">Recovery Potency: 100<br>Skill Energy Required: 7,734<br>Skill Energy Required (Shared Skill): 17,014<br>Special Effects:<br>・Shield<br>　　Charges: 1<br>　　Potency: 20% of max HP<br>・Fluorescent Fish<br>　　Lasts 30 seconds<br>　　Overdamage: 50% of strength<br>　　Does not stack<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>Ritual of Soul Cleansing</span>
+			</dt>
+			<dd><div>Gradually recovers the entire team's HP,<br>and grants the user a strength amp.<br>After this amp is granted, this skill will not<br>grant it again for 30 seconds.</div><div class="skill-detail">Skill Energy Required: 13,188<br>Special Effects:<br>・HP Regen<br>　　Lasts 20 seconds<br>　　Triggers every 2.9 seconds<br>　　Potency: 35<br>Amps:<br>・Strength Amp (Team Amp MAX Lv. = 2)<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>Recovery Potency +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the potency of recovery skills by 20%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Flame) Taking Damage = Strength +13%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Flame: <br>increases their strength by 13% for 15 seconds<br>when they take damage. After activating,<br>this ability will not activate again for 5 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/41d3cb0b4347b98b28c7231c85acc8552.png"></span><span>Summer Sorceress</span></dt><dd><div>Fills 100% of skill gauges at the start of quests,<br>and increases strength by 20% when HP is full.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f9540aa3b892c485f82bfd1ef78b1b72.png"></span><span>Potent Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.<br>When the user is hit by an attack that would have<br>stunned them, their strength is increased by 15%<br>for 10 seconds. After activating, this buff will not<br>activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Skill 2 Filled = Strength +35%</span></dt><dd><div>Increases the user's strength by 35%<br>while their second skill is available for use.</div></dd></dl></div></div></div><div><br></div><div>Notes:</div><div>1. The stats shown here represent the adventurer at level 100 with 70 mana nodes unbound.</div><div>2. The stats shown here do not include increases or decreases due to abilities.</div><div>3. The stats for the adventurer included in this notification shown in any prior notifications or preview videos were the stats at level 80 with 50 mana nodes unbound.</div><div>4. When an adventurer&#39;s skill level increases, the skill gauge will fill more slowly when set as a shared skill.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1621317600; update_time1620881900

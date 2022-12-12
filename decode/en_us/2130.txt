@@ -1,0 +1,99 @@
+article_id:2130
+category_name:News
+title_name:Adding the Mana Spiral to More Adventurers!
+image_path:
+
+message:<div>A sixth mana circle, the mana spiral, will be added to certain adventurer starting <span class="local_date" data-local_date="1618812000"></span>.</div><div><br></div><div>The adventurer affected this time and his stats are described below.</div><div>Note: Unlocking an eligible adventurer&#39;s mana spiral requires special materials specific to that adventurer that can be earned from the daily bonus of the Trials of the Mighty quest.</div><div><br></div><div><br></div><div>■Affected Adventurers</div><div>5★ Gala Ranzal (wind/sword)</div><div><br></div><div>■Stats</div><div><br></div><div>・5★ adventurer</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/9d9cd98d6d4167f08199bf849b1146532.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">Gala Ranzal</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>905</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>604</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,209</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>Cyclone Blade</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies.</div><div class="skill-detail">Damage: 309 × 6 hits<br>Skill Energy Required: 2,661<br>Skill Energy Required (Shared Skill): 8,914<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/862d02981336441f770826c64d15b0162.png"></span>
+				<span>Wind Tactics</span>
+			</dt>
+			<dd><div>Activates "Gale-Clad Sword."<br>The user's force strikes are powered up,<br>and can damage faraway enemies.<br>Also increases the entire team's defense,<br>and grants the user a strength amp.<br>After this amp is granted, this skill will<br>not grant it again for 30 seconds.</div><div class="skill-detail">Skill Energy Required: 5,800<br>Special Effects:<br>・Defense +20%<br>　　Lasts 15 seconds<br>・Gale-Clad Sword<br>　　Charges: 3<br>　　Does not stack<br>Amps:<br>・Strength Amp (Team Amp MAX Lv. = 3)<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>Dragon Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases dragon gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>(Wind) Critical Rate Doublebuff +10%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind: <br>increases their critical rate by 10% for 15 seconds<br>each time they receive a defense up buff.<br>After activating, this ability will not<br>activate again for 15 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>Experience's Boon III</span></dt><dd><div>Grants Ranzal an Attack Gauge and a Burst Gauge.<br>The Attack Gauge fills when regular attacks connect<br>with enemies, while the Burst Gauge is filled when<br>force strikes successfully connect.<br>For every completely filled gauge, Ranzal's defense<br>is increased. Any filled gauges are consumed when<br>using the Cyclone Blade skill, increasing its power.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1773f9fc2cee21b3daccbd539f0569eb2.png"></span><span>Relentless Spirit III</span></dt><dd><div>Reduces susceptibility to freeze and bog<br>by 100%. When Ranzal is hit by an attack<br>that would have inflicted freeze or bog on him,<br>his strength is increased by 15% for 10 seconds.<br>This increase will not stack, and, after activating,<br>this buff cannot be activated again by the same<br>affliction for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>Skill Damage +35%</span></dt><dd><div>Increases attack skill damage by 35%.</div></dd></dl></div></div></div><div><br></div><div>Notes:</div><div>1. The stats shown here represent the adventurer at level 100 with 70 mana nodes unbound.</div><div>2. The stats shown here do not include increases or decreases due to abilities.</div><div>3. The stats for the adventurer included in this notification shown in any prior notifications or preview videos were the stats at level 80 with 50 mana nodes unbound.</div><div>4. When an adventurer&#39;s skill level increases, the skill gauge will fill more slowly when set as a shared skill.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1618725600; update_time1618801086

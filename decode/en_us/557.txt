@@ -1,0 +1,8 @@
+article_id:557
+category_name:News
+title_name:Issue Regarding Wyrmprint Drops in Certain Quests
+image_path:
+
+message:<div>We have confirmed an issue where clearing the main campaign chapter 3 / 3-5 quest (Guard the Flamewyrm) in Normal or Hard mode would not drop any wyrmprints of rarity 3★ and higher.</div><div>This issue occurred between <span class="local_date" data-local_date="1561701600"></span> and <span class="local_date" data-local_date="1561707000"></span>.</div><div><br></div><div>This issue has now been resolved.</div><div>As a token of our appreciation for your patience, we have sent 1 exquisite honey to all players who played this quest at least once during the above period.</div><div>This gift can be claimed from your goodie box for up to 7 days after reception.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1561714200; update_time1561713507

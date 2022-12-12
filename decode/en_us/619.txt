@@ -1,0 +1,8 @@
+article_id:619
+category_name:News
+title_name:Issue Regarding a Normal Endeavor [Addendum]
+image_path:
+
+message:<div>Currently, the &quot;Reach 14100 Might with a Team&quot; normal endeavor doesn&#39;t get marked as completed even when the clear conditions are met.</div><div><br></div><div>We are currently investigating this issue.</div><div>Any updates will be added to this notice.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div><div><br></div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>[Addendum <span class="local_date" data-local_date="1564453800"></span>]</strong></span></div><div><br></div><div>The above issue has been resolved after the server update which took place at <span class="local_date" data-local_date="1564453800"></span>.</div><div><br></div><div>The endeavor will be marked as completed for affected players by restarting the game.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div><div><br></div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>[Addendum <span class="local_date" data-local_date="1564638600"></span>]</strong></span></div><div><br></div><div>As the issue above had only been partially fixed, we have performed an additional correction at <span class="local_date" data-local_date="1564638300"></span>.</div><div><br></div><div>The endeavor will be marked as completed for affected players by restarting the game.</div><div><br></div><div><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1563607200; update_time1564638602

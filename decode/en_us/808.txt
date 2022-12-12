@@ -1,0 +1,8 @@
+article_id:808
+category_name:News
+title_name:Regarding Notices Not Displaying
+image_path:
+
+message:<div>We have confirmed an issue where the notices in the game and on the official website were not displaying at all between <span class="local_date" data-local_date="1570600800"></span> and <span class="local_date" data-local_date="1570601700"></span>.<br>They are now displaying correctly.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1570604100; update_time1570603774

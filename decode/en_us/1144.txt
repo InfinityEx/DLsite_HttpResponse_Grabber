@@ -1,0 +1,8 @@
+article_id:1144
+category_name:News
+title_name:1.5-Year Anniversary Countdown Bonus Is Live!
+image_path:https://dragalialost.akamaized.net/attached/information/images/4bba1405b32fc851ed900347c83b0228.png
+
+message:<div>The 1.5-year anniversary countdown bonus started <span class="local_date" data-local_date="1584511200"></span>!</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/4bba1405b32fc851ed900347c83b0228.png"></div><div><br></div><div>For the duration, you&#39;ll get one Summon Voucher each day when you log in! That&#39;s a maximum of seven days, meaning you can get up to seven Summon Vouchers.</div><div><br></div><div>■Event Duration</div><div><span class="local_date" data-local_date="1584511200"></span> to <span class="local_date" data-local_date="1585288799"></span></div><div><br></div><div>Notes:</div><div>1. The log-in bonus will be sent to you every day after 6:00 AM when you log in.</div><div>2. Gifts sent as log-in bonuses can only be accepted for a limited time.</div><div><br></div><div>Thank you for playing Dragalia Lost!</div>
+
+start_time:1584511200; update_time1583743638

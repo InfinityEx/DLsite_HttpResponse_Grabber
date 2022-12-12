@@ -1,0 +1,8 @@
+article_id:1462
+category_name:News
+title_name:An Interlude Has Been Added to Main Campaign Chapter 14: Chaos in the Capital!
+image_path:https://dragalialost.akamaized.net/attached/information/images/c3723b46ea6c296d94b716625579177d.png
+
+message:<div>An interlude was added to main campaign Chapter 14: Chaos in the Capital at <span class="local_date" data-local_date="1595224800"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/c3723b46ea6c296d94b716625579177d.png"></div><div><br></div><div>Having been entrusted with Zethia&#39;s care, Elisanne fled from the palace. However, Zethia was taken from her when a mysterious man suddenly appeared. Just what mistakes did this Paladyn make as the prince and friends&#39; battle unfolded?!</div><div><br></div><div>Please enjoy the interlude!</div><div><br></div><div>Notes:</div><div>・The interlude added to chapter 14 of the main campaign, Chaos in the Capital, will unlock after you clear Ch. 14 / 4-9, &quot;On a Moonlit Night.&quot;</div><div>・The newly added interlude is partially voiced instead of fully voiced in Japanese.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1595224800; update_time1595222083

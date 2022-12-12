@@ -1,0 +1,8 @@
+article_id:1353
+category_name:News
+title_name:Regarding a Fix to Shared Skills
+image_path:
+
+message:<div>We have confirmed an issue with Yaten&#39;s Bold Blade shared skill in version 1.20.0, where the skill gauge&#39;s fill rate was the same as the original skill&#39;s gauge fill rate.</div><div><br></div><div>This issue was fixed around <span class="local_date" data-local_date="1590579000"></span>.</div><div><br></div><div>To thank you for your patience, we plan on sending the required number of Shadow Tomes necessary to unlock Yaten&#39;s Bold Blade shared skill to all players who started playing before &nbsp;<span class="local_date" data-local_date="1590579000"></span>.</div><div><br></div><div>■Planned Date of Distribution</div><div>We will send the above gift starting on <span class="local_date" data-local_date="1590579000"></span>.</div><div><br></div><div>■Eligible Players</div><div>All players who started playing before <span class="local_date" data-local_date="1590579000"></span>.</div><div><br></div><div>■Gift Contents</div><div>Shadow Tome x6</div><div><br></div><div>This gift can be claimed from your goodie box for up to seven days after logging in. If the gift isn&#39;t retrieved within seven days, it will be lost.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1590579000; update_time1590632098

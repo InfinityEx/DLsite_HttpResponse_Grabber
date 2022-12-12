@@ -1,0 +1,83 @@
+article_id:626
+category_name:News
+title_name:Gala Dragalia Is Now Live!
+image_path:
+
+message:<div>Gala Dragalia went live <span class="local_date" data-local_date="1564120800"></span>!</div><div><br></div><div>What is Gala Dragalia?</div><div>・The initial appearance rate for 5★ adventurers and dragons will be boosted to 6% from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div>・Limited-time Gala Dragalia versions of adventurers will be added, available only while Gala Dragalia is active!</div><div><br></div><div>Note: This event will also include Gala Dragalia adventurers who are not featured.</div><div><br></div><div>Gala Dragalia appearance rates:</div><div>5★ total: 6.00%</div><div>5★ featured total: 0.50% (Adventurers: 0.50%)</div><div>5★ standard total: 5.50% (Adventurers: 2.50%, Dragons: 3.00%)</div><div>4★ standard total: 16.00% (Adventurers: 8.55%,　Dragons: 7.45%)</div><div>3★ standard total: 78.00% (Adventurers: 47.00%, Dragons: 31.00%)</div><div><br></div><div>Gala Dragalia active period:</div><div><span class="local_date" data-local_date="1564120800"></span> to <span class="local_date" data-local_date="1564552740"></span></div><div><br></div><div>The featured Gala Dragalia adventurer is detailed below.</div><div><br></div><div>Gala Dragalia adventurer:</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5e6fa46d06f925e8ed295e064fdde888.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>785</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>489</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2514</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>After discovering an ancient wand in the castle,<br>Cleo has gained new power and taken her place<br>on the front lines. Her tactical acumen more than<br>makes up for her questionable stamina, and she<br>intends to do much more than heal the wounded.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d3e8717c75363aa57b66e9021fff4d352.png"></span>
+				<span>Ancient Ray</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to multiple targets<br>and enemies near those targets, and<br>activates "Skill Shift" if the attack connects.<br>Initially, this skill will target three enemies.<br>Phase II will target four enemies, while <br>Phase III will target five enemies. Targets<br>will be chosen by their proximity to the user,<br>and if the number of enemies available to<br>target is fewer than the skill's number of hits,<br>this selection process will be repeated<br>for the remaining hits.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0b6e96a9297308fa346ed1059be779062.png"></span>
+				<span>Faith of the Elders</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to the target and<br>nearby enemies, reduces their defense<br>by 10% for 20 seconds, and activates "Skill Shift"<br>if the attack connects. Phase II adds an additional<br>5% decrease to enemies' strength, while Phase III<br>also restores HP to all allies and continues healing<br>over the next 15 seconds.
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">Co-abilities</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>Skill Damage +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases attack skill damage by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1582968ccea870712399e4e9e9e34edd2.png"></span><span>Magical Modification II</span></dt><dd><div>Using Ancient Ray grants the user the<br>"Altered Strike" effect. When this effect<br>is active, the user's next force strike<br>will create a buff zone that lasts for<br>10 seconds and increases the strength<br>of adventurers inside it by 25%.<br>This effect cannot stack, and will be<br>consumed on use.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bd7de81c28d0b9c93b0edbfc86b0cb6a2.png"></span><span>Perpetual Protection II</span></dt><dd><div>Reduces susceptibility to blindness<br>and paralysis by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>Skill Prep +100%</span></dt><dd><div>Fills 100% of skill gauges at the start of quests.</div></dd></dl></div></div></div><div><br></div><div>These are the stats when at maximum level with all mana circles unlocked. They do not represent the stats when first obtained.</div><div>Adventurers with the same name cannot be put into the same party.</div><div><br></div><div>Note:</div><div>For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1564120800; update_time1563865090

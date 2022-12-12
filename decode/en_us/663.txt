@@ -1,0 +1,8 @@
+article_id:663
+category_name:News
+title_name:A Gift of Wyrmite for the Event!
+image_path:
+
+message:<div>Hello, adventurers!</div><div><br></div><div>We have sent out a gift of 1,200 wyrmite to help you enjoy playing Dragalia Lost this August! We hope you find it useful for the current event!</div><div><br></div><div>This gift has been sent to all players who started playing before <span class="local_date" data-local_date="1565330400"></span>.</div><div><br></div><div>You can claim it from your goodie box for up to seven days after it&#39;s received. If the gift isn&rsquo;t retrieved within seven days, it will be lost.</div><div><br></div><div>Thank you for playing Dragalia Lost!</div>
+
+start_time:1565330400; update_time1569483874

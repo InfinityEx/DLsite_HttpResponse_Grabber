@@ -1,0 +1,8 @@
+article_id:771
+category_name:News
+title_name:Regarding Diamantium Price Changes Following Japanese Consumption Tax Law Amendment
+image_path:
+
+message:<div>Due to an amendment to Japan&#39;s Consumption Tax Law, the consumption tax will increase starting October 1, 2019. Consequently, the prices of diamantium sold in the Japanese stores will be adjusted.<br><br>We will notify you once more information is available regarding the price adjustment date and other details.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1569558600; update_time1569561685

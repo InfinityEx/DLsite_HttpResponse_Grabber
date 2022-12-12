@@ -1,0 +1,8 @@
+article_id:432
+category_name:News
+title_name:Responses to inquires may be delayed
+image_path:
+
+message:<div>Investigating and replying to inquiries received between 4/26/2019 and 5/5/2019 may take longer than normal. Thank you for your understanding.</div><div><br></div><div>Thanks for playing Dragalia Lost!</div>
+
+start_time:1556172000; update_time1556162108

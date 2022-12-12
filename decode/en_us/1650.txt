@@ -1,0 +1,274 @@
+article_id:1650
+category_name:News
+title_name:Gala Dragalia Is Now Live!
+image_path:
+
+message:<div>Gala Dragalia went live at <span class="local_date" data-local_date="1601445600"></span>!</div><div><br></div><div>What are Gala Dragalia and Gala Dragalia Remix?</div><div>・The initial appearance rate for 5★ adventurers and dragons will be boosted to 6%, which is up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div>Notes:</div><div><span style="color: rgb(226, 80, 65);">・The newly added 5★ adventurer Meene (wind) and 5★ dragon Midgardsormr Zero (wind) will also appear in the next summon showcase.</span></div><div><span style="color: rgb(226, 80, 65);">・The Platinum Showcase that is now live does not include the new adventurers or dragons that were added in this showcase.</span></div><div><br></div><div>Newly featured adventurers and dragon:</div><div>■Adventurers</div><div>5★ Gala Zena (light/staff)</div><div>5★ Meene (wind/bow)</div><div><br></div><div>■Dragon</div><div>5★ Midgardsormr Zero (wind)</div><div><br></div><div>Gala Dragalia appearance rates:</div><div>5★ total: 6.00%</div><div>5★ featured total: 1.80% (Adventurers: 1.00%, Dragons: 0.80%)</div><div>5★ standard total: 4.20% (Adventurers: 2.00%, Dragons: 2.20%)</div><div>4★ standard total: 16.00% (Adventurers: 8.55%,　Dragons: 7.45%)</div><div>3★ standard total: 78.00% (Adventurers: 47.00%, Dragons: 31.00%)</div><div><br></div><div>Gala Dragalia active period:</div><div><span class="local_date" data-local_date="1601445600"></span> to <span class="local_date" data-local_date="1601877599"></span></div><div><br></div><div>Get a closer look at the newly featured adventurers and dragon below.</div><div><br></div><div>Featured adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/74e9f697c91bdfe1cad992d979e2c288.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>770</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>489</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Another Zethia from another world, who is<br>working with the prince and his allies to save it.<br>She is confused as to her place in this world<br>and her relations with her new comrades,<br>and wonders what it is she can really do.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/89ff2ae17052136be491702e97c672842.png"></span>
+				<span>Glorious Sanctuary</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Restores HP to all teammates, creates a<br>healing zone, and, for 60 seconds,<br>increases the entire team's strength by 15%.<br>This strength increase will not stack.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/73b4f043d682574987f05766f345a8962.png"></span>
+				<span>Holy Crown</span>
+			</dt>
+			<dd>
+				<div>
+					Deals light damage to multiple targets and nearby<br>enemies, and increases the rate at which the user's<br>force strikes charge by 30% for 15 seconds. This<br>speed increase will not stack.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>Recovery Potency +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the potency of recovery skills by 20%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>(Light) Above 10 Hits = Critical Rate +13%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Light: <br>increases their critical rate by 13%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/59b79e43c808695a2c55911edd3331bb2.png"></span><span>Hallowed Auspex II</span></dt><dd><div>Grants the user an Auspex gauge. The Auspex gauge<br>fills when the user's first or second skills are used.<br>When the gauge is completely filled, it grants the user<br>the "Twilight Moon" effect.<br>When this effect is active, it grants the user<br>a unique force strike with five increasingly<br>powerful charge levels. This effect cannot stack,<br>and will be consumed on use.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>Sacred Shield II</span></dt><dd><div>Reduces susceptibility to poison<br>and curses by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Auspex's Prayer II</span></dt><dd><div>When an ability increases the user's HP,<br>their strength will increase based on the<br>amount of HP gained. This bonus strength<br>will be reduced if the user is below max HP,<br>relative to the amount of HP lost, and will<br>return if they are healed. This strength buff<br>is not triggered by HP increases from<br>co-abilities and chain co-abilities.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/39bf0842a1c580f86afa5661154e7cbe.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>805</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>470</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A princess of the Faerie Kingdom who left her<br>homeland for her growth period to learn of the<br>outside world, and ended up becoming a foster<br>mother to Ilia. The motherly love she felt<br>changed the once-timid Meene for good.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/57b60dca90c3dc5547b26002aeb55a522.png"></span>
+				<span>Faerie Magic</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>3</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to enemies directly ahead,<br>reduces their strength by 20% for 15 seconds,<br>and fires extra shots equal to the number of<br>butterflies the user currently has summoned.<br>This strength reduction effect will not stack.<br>When the user has six or more summoned butterflies,<br>these extra shots reduce enemy defense by 10%<br>for 15 seconds. This defense reduction effect<br>will not stack.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a7a0c4020baa6597d703d8cf2e9cfb2c2.png"></span>
+				<span>Butterfly Kiss</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to the target and nearby enemies,<br>and additional damage at the location of the user's<br>summoned butterflies. When the user has six or more<br>summoned butterflies, this additional damage may<br>inflict poison.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>Skill Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases skill gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span>
+				<span>(Wind) Combo Time VI</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind:<br>extends the window between them hitting an enemy<br>and the combo counter resetting by 2.5 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7120dd17ed90ed030b3a31cb43ce2b332.png"></span><span>Radiant Butterflies II</span></dt><dd><div>Standard attacks, force strikes, and dash attacks<br>instead summon butterflies that pursue the target.<br>Also grants all teammates a "Life Shield" equal to<br>20% of the user's maximum HP at the start of quests.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span><span>Bog Res +100%</span></dt><dd><div>Reduces susceptibility to bog by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>Flurry Devastation +13%</span></dt><dd><div>Increases critical rate by 13% when<br>the combo count is 15 or higher.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div>・The number of butterflies that Meene has summoned will be made easier to identify in a future update.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a8d052784a85ab2fcf993da0a12ddb5e.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>The Windwyrm who lived a thousand years ago. <br>In the First War of Binding, he searched for<br>harmony between people and dragon, then<br>bequeathed his spirit to the next generation<br>at the end of his life.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>Primal Tempest</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to surrounding enemies,<br>and lowers their wind resistance by 10%<br>for the remainder of the quest.<br>This resistance reduction will not stack.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>(Wind) HP & Strength +35%</span></dt><dd><div>If the user is attuned to Wind: <br>increases strength and HP by 35%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>(Wind) Flurry Skill +70%</span></dt><dd><div>If the user is attuned to Wind:<br>increases attack skill damage by 70% when<br>the combo count is 15 or higher.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Note:</div><div>For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1601445600; update_time1601348421

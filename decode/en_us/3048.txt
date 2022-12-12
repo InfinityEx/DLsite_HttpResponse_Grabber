@@ -1,0 +1,154 @@
+article_id:3048
+category_name:News
+title_name:Gala Dragalia Is Now Live!
+image_path:
+
+message:<div>Gala Dragalia started on <span class="local_date" data-local_date="1648360800"></span>!</div><div><br></div><div>■What Are Gala Dragalia and Gala Dragalia Remix?</div><div>The initial appearance rate for 5★ adventurers and dragons is boosted to 6%, which is up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">The newly added 5★ adventurer Gala Nedrick and 5★ dragon Primal Brunhilda will also appear in a Gala Dragalia available from <span class="local_date" data-local_date="1648706400"></span> to <span class="local_date" data-local_date="1649224799"></span>, but they will not be featured in that showcase. Primal Brunhilda will also appear in subsequent summon showcases.</span></div><div><span style="color: rgb(226, 80, 65);">The Scratch-A-Thon Summon that is live at the same time does not include the newly added featured adventurers or dragons appearing in this showcase.</span></div><div><br></div><div>▼Newly added featured adventurer:</div><div>5★ Gala Nedrick (shadow/sword)</div><div><br></div><div>▼Newly added featured dragon:</div><div>5★ Primal Brunhilda (flame)</div><div><br></div><div>Gala Dragalia appearance rates:</div><div>5★ total: 6.00%</div><div>5★ featured total: 1.30% (Adventurers: 0.50%, Dragons: 0.80%)</div><div>5★ standard total: 4.70% (Adventurers: 2.50%, Dragons: 2.20%)</div><div>4★ standard total: 16.00% (Adventurers: 8.55%, Dragons: 7.45%)</div><div>3★ standard total: 78.00% (Adventurers: 47.00%, Dragons: 31.00%)</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Wyrmsigils may only be redeemed in the summon showcase from which they were earned. Wyrmsigils earned from this Gala Dragalia summon showcase cannot be redeemed in the Gala Dragalia available from <span class="local_date" data-local_date="1648706400"></span> to <span class="local_date" data-local_date="1649224799"></span>.</span></div><div><br></div><div>Gala Dragalia event duration:</div><div><span class="local_date" data-local_date="1648360800"></span> to <span class="local_date" data-local_date="1648706399"></span></div><div><br></div><div>Get a closer look at the featured adventurer and dragon below.</div><div><br></div><div>Featured adventurer:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3843252bae88cc2d034fa116e13fab3b.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The true seventh scion of Alberia. He was<br>afflicted with Wyrmscale shortly after birth and<br>taken to the Faerie Kingdom, where Bahamut<br>granted him a new chance at life. Pragmatic<br>and impersonal, he acts by his ideas alone.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aa47d998f104e87644a91a65819869de2.png"></span>
+				<span>Rising Rebellion</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies,<br>inflicts shadowblight, and raises the dragon<br>gauge if the attack connects.<br><br>If the user has Soul Charge, this skill will<br>instead deal damage to surrounding enemies,<br>inflict shadowblight, and dispel one buff from<br>each target.</div><div class="skill-detail">Damage: 800 × 4 hits<br>Skill Energy Required: 2,376<br>Skill Energy Required (Shared Skill): 9,005<br>Special Effects:<br>・Shadowblight<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br>Dragon Energy Gained: 10<br><br><color=#00008B>When the User Has Soul Charge:</color><br>Damage: 800 × 5 hits<br>Skill Energy Required: 3,360<br>Special Effects:<br>・Shadowblight<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br>・Dispels Buffs</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f75280a5a69d4666aab1410dba2c15d92.png"></span>
+				<span>Blazing Animus</span>
+			</dt>
+			<dd><div>The skill gauge for this skill cannot be filled<br>until the user has shapeshifted at least once.<br><br>Grants the user the "Soul Charge Lv. 3" effect.<br><br>If the user has Soul Charge, this skill will<br>instead deal damage to enemies directly ahead<br>and foes near them and grant the entire team<br>a team critical damage amp.</div><div class="skill-detail">Skill Energy Required: 1<br>Special Effects:<br>・Soul Charge Lv. 3<br><br><color=#00008B>When the User Has Soul Charge:</color><br>Damage: 700 × 6 hits<br>Skill Energy Required: 12,000<br>Team Amps:<br>・Team Critical Damage Amp (MAX Lv. = 3)<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>Dragon Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases dragon gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Shadow) Dragon Damage +12%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Shadow:<br>adds 12% to the modifier applied to their<br>damage when in dragon form.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/808223f7e4cd602dd87951cc09df34592.png"></span><span>Oblivion Pactbearer II</span></dt><dd><div>Fills 50% of the dragon gauge at the start of<br>quests and extends shapeshift time by 100%,<br>but doubles the amount of dragon energy<br>required to shapeshift. (The user's maximum<br>dragon energy will not be increased.)<br><br>When shapeshifting, Nedrick will transform<br>into Bahamut regardless of what dragon he<br>is equipped with. While he is shapeshifted,<br>this ability grants him a dragon strike that deals<br>damage to multiple targets and enemies near<br>those targets.<br><br>Also, grants Nedrick the "Oblivion Overload Lv. 1"<br>effect when his shapeshift is undone (once per<br>quest). Oblivion Overload has three progressively<br>more powerful levels and levels up automatically<br>after set intervals of time.<br>Lv. 1: Increases strength by 10%, but the user<br>takes damage over time.<br>Lv. 2: Increases strength and critical rate<br>by 15%, but the user takes damage over time.<br>Lv. 3: Increases strength, critical rate, and<br>attack skill damage by 20%, but the user takes<br>damage over time.<br><br>The maximum amount of the dragon gauge<br>that abilities can fill at the start of quests will<br>be limited to 50% for the entire team.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bd7de81c28d0b9c93b0edbfc86b0cb6a2.png"></span><span>Blessing of Creation II</span></dt><dd><div>Reduces susceptibility to blindness<br>and paralysis by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a5422b118c71a0a475d5e5cd611188862.png"></span><span>Enduring Ideals II</span></dt><dd><div>When Nedrick's HP falls to zero,<br>if he has the "Oblivion Overload" effect,<br>grants all team members other than<br>Nedrick Oblivion Overload Lv. 1.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities and represent the adventurer at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Some skills have different effects when used as a shared skill.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">■Regarding Gala Nedrick&#39;s Soul Charge<br>While Soul Charge has positive effects on Nedrick&#39;s status and abilities, it also has a negative effect. Please check the &quot;Soul Charge&quot; part of the &quot;Special Effects&quot; section in the Help menu for details on these effects.</span></div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/297430ae5c5a6e241dbfce81cfa6215a.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>The Flamewyrm Brunhilda with her regained<br>primal powers. Cloaked in brilliant flame, she is<br>fire incarnate, and burns all who oppose her to<br>ash. Her passion burns stronger still as she<br>stands by her beloved on the battlefield.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>Awakened Blaze</span>
+			</dt>
+			<dd><div>Deals damage to enemies in a line<br>and inflicts burn and scorchrend.</div><div class="skill-detail">Damage: 2,800 × 1 hit<br>Special Effects:<br>・Burn<br>　　Lasts 60 seconds<br>　　Triggers every 3.9 seconds<br>　　Damage: 72.7<br>・Scorchrend<br>　　Lasts 60 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31.1<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Flame) Strength +100%</span></dt><dd><div>If the user is attuned to Flame: <br>increases strength by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cd300ce06384384f9b63dbade824c8742.png"></span><span>Incinerating Ardor II</span></dt><dd><div>Fills 50% of the dragon gauge at the start of<br>quests and extends shapeshift time by 100%,<br>but doubles the amount of dragon energy<br>required to shapeshift. (The user's maximum<br>dragon energy will not be increased.)<br><br>Also, grants the user a dragon strike while<br>shapeshifted as Primal Brunhilda. This dragon<br>strike creates a zone that lasts for 7.5 seconds<br>and deals damage to enemies inside it. When<br>the user is in this zone, the depletion of their<br>dragon gauge over time will be reduced by 75%,<br>and their HP will be restored every 0.9 seconds.<br>The user can only have one of these zones active<br>at a time.<br><br>In addition, when one of the user's skills ends<br>or is interrupted, the user will be granted the<br>"Heart Aflame" effect. Heart Aflame has two<br>progressively more powerful levels.<br>Lv. 1: For 10 seconds, increases skill damage<br>by 10%.<br>Lv. 2: For five seconds, increases skill damage<br>by 30% and increases the chances of inflicting<br>burn or scorchrend by 30%.<br><br>The maximum amount of the dragon gauge<br>that abilities can fill at the start of quests will<br>be limited to 50% for the entire team.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at level 100, maximum bond, and unbound to the fourth stage. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. An Alberian Battle Royale skin for the adventurer featured in this summon showcase is on sale and costs fewer items to unlock. Note that some adventurers do not have adventurer skins.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1648360800; update_time1648202769

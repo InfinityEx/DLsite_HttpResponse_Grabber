@@ -1,0 +1,8 @@
+article_id:2618
+category_name:News
+title_name:Part Two of Main Campaign Chapter 22: Twice Sworn Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/dd42ce90f0f39b00a02f5d2f142d0f96.png
+
+message:<div>Part two of Chapter 22: Twice Sworn will be added to the main campaign on <span class="local_date" data-local_date="1637560800"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/dd42ce90f0f39b00a02f5d2f142d0f96.png"></div><div><br></div><div>We hope you&#39;re looking forward to seeing what&#39;s in store for the prince and his friends!</div><div><br></div><div>Note: Part two of Chapter 22 of the main campaign will unlock when you clear Ch. 22 / 3-3 &quot;The True Pact.&quot;</div><div><br></div><div>Thank you for playing Dragalia Lost.</div><div><br></div>
+
+start_time:1637215200; update_time1637200272

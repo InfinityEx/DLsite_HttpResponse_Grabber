@@ -1,0 +1,8 @@
+article_id:1979
+category_name:Events
+title_name:A Raid Event Revival, A Waltz with Fate, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/19ee3ee64c9742871a25dca430f89808.png
+
+message:<div>A Waltz with Fate raid event revival will begin on <span class="local_date" data-local_date="1613455200"></span>!<br>During this event, you can use co-op play to fight against the shadow-attuned raid boss.</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/19ee3ee64c9742871a25dca430f89808.png"></div><div>After being imprisoned by a ruler with twisted affections, the dancer Felicia is rescued by the dragon Phantom. During their escape they find the prince and his friends, who resolve to help them fight the king of death himself... Thus begins a tale of love for the ages!<br><br>■Event Duration<br><span class="local_date" data-local_date="1613455200"></span> to <span class="local_date" data-local_date="1614319199"></span><br><br>■Notes<br>1. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate in event quests.<br>2. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to play co-op.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1613109600; update_time1612775182

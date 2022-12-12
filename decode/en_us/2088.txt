@@ -1,0 +1,30 @@
+article_id:2088
+category_name:News
+title_name:New Wyrmprints Added to the Treasure Trade for Wyrmprints Lineup!
+image_path:
+
+message:<div><span style="color: rgb(0, 0, 0);">New wyrmprints were added to the Treasure Trade for wyrmprints lineup at <span class="local_date" data-local_date="1617343200"></span>.</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">You can trade for the newly added wyrmprints from the Featured tab or from the various rarity tabs in the Treasure Trade for wyrmprints.</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);"><strong>New wyrmprints:</strong></span></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/3f1be42cb63dc6b512a319afed9da2aa2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">Whispers of Spring</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>(Staff) Skill Damage +40%&nbsp;(Max 40%)</span></dt><dd><div>If the user wields a Staff:<br>increases attack skill damage by 40%.&nbsp;(Max 40%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/8df9d5b7c0e786bb3f77db1a6bcf45942.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">Two Myms</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span><span>(Wand) Recovery Potency +15%&nbsp;(Max 20%)</span></dt><dd><div>If the user wields a Wand:<br>increases the potency of recovery skills by 15%.&nbsp;(Max 20%)</div></dd></dl></div></div></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">Note: The stats shown here represent the wyrmprints when fully unbound. They do not represent the stats when first obtained.</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">Featured period:</span></div><div><span class="local_date" data-local_date="1617343200"></span> to <span class="local_date" data-local_date="1619589599"></span></div><div><br></div><div><span style="color: rgb(184, 49, 47);">Note: After the featured period is over, you will still be able to trade for the new wyrmprints from the various rarity tabs.</span></div><div><br></div><div><span style="color: rgb(0, 0, 0);">Note:</span></div><div><span style="color: rgb(0, 0, 0);">For other information aside from this notification, see the Wyrmprints section in the Shop.</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">Thank you for playing Dragalia Lost.</span></div>
+
+start_time:1617343200; update_time1616995658

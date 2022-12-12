@@ -1,0 +1,8 @@
+article_id:667
+category_name:News
+title_name:Issue Regarding Alliance Notifications
+image_path:
+
+message:<div>We have confirmed that Alliance notifications can sometimes not be received on iOS devices.</div><div>If this issue occurs, please check the settings below in order from the top.</div><div>Note: If the game is running, please make sure to close it before checking the settings.</div><div><br></div><div>■ Checking the device&#39;s notification settings</div><div>1. Tap Settings.</div><div>2. Tap Dragalia.</div><div>3. Tap Notifications.</div><div>4. Turn on Allow Notifications. This will enable notifications for the device.</div><div><br></div><div>■ Check the game&#39;s notification settings</div><div>1. Start the game.</div><div>2. Tap Alliance in the Home screen.</div><div>3. Tap Alliance Settings</div><div>4. Set Notifications While the Game is Running and/or Notifications While the Game is Not Running to On.</div><div>5. Tap Confirm. This will enable notifications within the game.</div><div><br></div><div>If you still don&#39;t receive Alliance notifications after following the steps above, please contact support from within the game.</div><div>We do plan to fix this issue in a future update.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1565676000; update_time1565747569

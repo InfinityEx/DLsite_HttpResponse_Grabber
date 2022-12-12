@@ -1,0 +1,32 @@
+article_id:1189
+category_name:News
+title_name:New Wyrmprints Added to the Treasure Trade for Wyrmprints Lineup!
+image_path:
+
+message:<div><span style="color: rgb(0, 0, 0);">New wyrmprints were added to the Treasure Trade for wyrmprints lineup at <span class="local_date" data-local_date="1585634400"></span>.</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">You can trade for the newly added wyrmprints from the Featured tab or from the various rarity tabs in the Treasure Trade for wyrmprints.</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);"><strong>New wyrmprints:</strong></span></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/eb0f349cfc222bdeed474ff6ce771b8e2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">The Synthetic Dragon</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>Last Recovery Ⅳ&nbsp;(Max IV)</span></dt><dd><div>Grants an HP regen buff for 20 seconds when<br>HP drops to 30% (once per quest).&nbsp;(Max IV)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Resilient Offense +10%&nbsp;(Max 10%)</span></dt><dd><div>Increases strength by 10% for the remainder<br>of the quest when the user's HP drops to 30%<br>(three times per quest).&nbsp;(Max 10%)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/8a66c7cc7b32f2f9d5b880a3b8d062202.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">A Widow's Lament</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span><span>Last Defense +50%&nbsp;(Max 100%)</span></dt><dd><div>Buffs defense by 50% for 15 seconds when<br>HP drops to 30% (once per quest).&nbsp;(Max 100%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>Healing Doublebuff Ⅲ&nbsp;(Max III)</span></dt><dd><div>Grants an HP regen buff for 20 seconds each<br>time a defense up buff is received.&nbsp;(Max III)</div></dd></dl></div></div></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">Note: The stats shown here represent the wyrmprints when fully unbound. They do not represent the stats when first obtained.</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">Featured period:</span></div><div><span class="local_date" data-local_date="1585634400"></span> to <span class="local_date" data-local_date="1586757599"></span></div><div><br></div><div><span style="color: rgb(184, 49, 47);">Note: After the featured period is over, you will still be able to trade for the new wyrmprints from the various rarity tabs.</span></div><div><br></div><div><span style="color: rgb(0, 0, 0);">Note:</span></div><div><span style="color: rgb(0, 0, 0);">For other information aside from this notification, see the Wyrmprints section in the Shop.</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">Thank you for playing Dragalia Lost.</span></div>
+
+start_time:1585634400; update_time1585287763

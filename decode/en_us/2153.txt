@@ -1,0 +1,8 @@
+article_id:2153
+category_name:News
+title_name:Regarding the Description of the Adventurer Halloween Melsa's Ability Endurance of the Dead I/II
+image_path:
+
+message:<div>The wording in the &quot;Reviving&quot; section of the in-game Help and the description of the adventurer Halloween Melsa&#39;s abilities Endurance of the Dead I and Endurance of the Dead II will be adjusted in a data update around <span class="local_date" data-local_date="1619762400"></span>. This change only affects the text; neither the amount of HP that is restored upon revival nor the effects of these abilities will change.</div><div><br></div><div>■Before</div><div>Help text: Upon revival, the revived adventurer&#39;s HP will be only partially restored.</div><div>Endurance of the Dead I: Upon revival, the user will come back with 60% of their HP (once per quest).</div><div>Endurance of the Dead II: Upon revival, the user will come back with 80% of their HP (once per quest).</div><div><br></div><div>■After</div><div>Help text: Upon revival, the revived adventurer&#39;s HP will only be restored to 30% of their max HP.</div><div>Endurance of the Dead I: Increases the amount of HP the user revives with by 30% (once per quest).</div><div>Endurance of the Dead II: Increases the amount of HP the user revives with by 50% (once per quest).</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1619589600; update_time1619418428

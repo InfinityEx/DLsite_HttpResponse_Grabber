@@ -1,0 +1,8 @@
+article_id:2057
+category_name:News
+title_name:Part Two of Chapter 18: The Forest of the Faeries Added to the Main Campaign!
+image_path:https://dragalialost.akamaized.net/attached/information/images/59c59dc6e2ce86e711fb7d63fe7a52ef.png
+
+message:<div>Part two of Chapter 18: The Forest of the Faeries was added to the main campaign on <span class="local_date" data-local_date="1616392800"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/59c59dc6e2ce86e711fb7d63fe7a52ef.png"></div><div><br></div><div>The group defeats Kai Yan, but before they can celebrate, another shocking change befalls Notte and an unexpected foe appears on the scene. As they ready for battle, all they can do is pray that the door to the Faerie Kingdom will open!<br><br>We hope you&#39;re looking forward seeing what&#39;s in store for the prince and his friends!<br><br>■Notes<br>1. Part two will unlock if you clear Ch. 18 / 3-5 &quot;Blessed Light.&quot;<br>2. The release of part two does not include additional dragons who can be unbound using draconic essences, but you can use the draconic essence icon displayed on the area map for each chapter in the main campaign to check the dragon whose draconic essence you can obtain, how many draconic essences you currently have, how many more you can obtain, and the quests from which you can obtain draconic essences.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1616392800; update_time1616143745

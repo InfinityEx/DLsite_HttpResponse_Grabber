@@ -1,0 +1,8 @@
+article_id:187
+category_name:News
+title_name:Announcing the New Year's Special Bonus!
+image_path:
+
+message:<div>The New Year&#39;s Special Bonus begins <span class="local_date" data-local_date="1546322400"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/2e7d2c3d6f293b48dc516b7f46857cf5.png"></div><div>You&#39;ll receive a gift of wyrmite or a Tenfold Summon Voucher each day you log in during the bonus period. If you log in seven days during the active period, you can get up to three Tenfold Summon Vouchers and 2,000 wyrmite!</div><div><br></div><div>■ New Year&#39;s Special Bonus gift details:</div><div>Day 1: Tenfold Summon Voucher x 1</div><div>Day 2: Tenfold Summon Voucher x 1</div><div>Day 3: Wyrmite x 500</div><div>Day 4: Wyrmite x 500</div><div>Day 5: Wyrmite x 500</div><div>Day 6: Wyrmite x 500</div><div>Day 7: Tenfold Summon Voucher x 1</div><div><br></div><div>■ Active period:</div><div><span class="local_date" data-local_date="1546322400"></span> to <span class="local_date" data-local_date="1548395999"></span></div><div><br></div><div>■ Notes:</div><div>1. The log-in bonus will be sent to you every day after 6:00 AM when you log in.</div><div>2. Gifts sent as log-in bonuses can only be accepted for a limited time.</div><div>3. The log-in bonus schedule and content may change without warning.</div><div><br></div><div>Thank you for playing the Dragalia Lost game!</div>
+
+start_time:1546322400; update_time1549535717

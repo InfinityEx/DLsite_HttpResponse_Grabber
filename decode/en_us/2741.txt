@@ -1,0 +1,8 @@
+article_id:2741
+category_name:News
+title_name:Regarding an Issue with Enter the Kaleidoscape
+image_path:
+
+message:<div>We have confirmed an issue where, in the following cases, if you tap Retry Current Floor after being returned to the title, an error will occur and you will not be able to resume.</div><div><br></div><div>After starting the 50th floor, if you defeat the boss after the date has changed.</div><div>If you start any level and choose to end the run after the date has changed.</div><div><br></div><div>Please follow the steps below to collect the reward up until the error.</div><div><br></div><div>1. Tap Enter the Kaleidoscape.</div><div>2. Tap Cancel.</div><div>3. Tap End Run.</div><div><br></div><div>We are currently investigating this issue. Any further updates will be added to this notice.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1640686800; update_time1641354050

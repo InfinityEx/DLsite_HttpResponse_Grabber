@@ -1,0 +1,478 @@
+article_id:2498
+category_name:News
+title_name:Certain 5★ Dragons Can Be Unbound up to Five Times!
+image_path:
+
+message:<div>Certain 5★ dragons may be unbound up to five times starting on <span class="local_date" data-local_date="1632722400"></span>.</div><div><br></div><div>The dragons made eligible this time and their stats are described below.</div><div><br></div><div>■Eligible Dragons</div><div>5★ Agni (flame)</div><div>5★ Poseidon (water)</div><div>5★ Zephyr (wind)</div><div>5★ Jeanne d&#39;Arc (light)</div><div>5★ Nidhogg (shadow)</div><div>5★ High Midgardsormr (wind)</div><div>5★ High Brunhilda (flame)</div><div>5★ High Mercury (water)</div><div>5★ High Jupiter (light)</div><div>5★ High Zodiark (shadow)</div><div><br></div><div>■Stats</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/7c003f1c74e80f17f083c24b82bd4cbe2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">Agni</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>389</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>147</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,146</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/504300d592534f448407b7bb70e5ec7f2.png"></span>
+				<span>Devastation</span>
+			</dt>
+			<dd><div>Deals damage to enemies in a line.</div><div class="skill-detail">Damage: 980 × 2 hits<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Flame) Strength +65%</span></dt><dd><div>If the user is attuned to Flame: <br>increases strength by 65%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>(Flame) Surge of Strength I</span></dt><dd><div>If the user is attuned to Flame:<br>grants the user the "Surge of Strength" effect<br>at the start of quests for 180 seconds.<br>During Surge of Strength, the user's strength<br>is increased by 30%.</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/fb1f3d20c0573fd5bfaf6122681b2db02.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">Poseidon</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>396</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>139</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,145</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>Poseidon's Trident</span>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies.</div><div class="skill-detail">Damage: 369.6 × 1 hit<br>Damage: 862.4 × 1 hit<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>(Water) HP & Strength +40%</span></dt><dd><div>If the user is attuned to Water:<br>increases strength and HP by 40%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>(Water) Surge of Strength II</span></dt><dd><div>If the user is attuned to Water:<br>grants the user the "Surge of Strength" effect<br>at the start of quests for 180 seconds.<br>During Surge of Strength, the user's strength<br>is increased by 40%.</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/3108e170f481eeff50ba423b2e7c416d2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">Zephyr</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>389</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>146</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,145</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>Zephyr's Wrath</span>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies<br>and inflicts stun.</div><div class="skill-detail">Damage: 534.8 × 3 hits<br>Special Effects:<br>・Stun<br>　　Lasts 7 seconds</div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Wind) Strength +65%</span></dt><dd><div>If the user is attuned to Wind: <br>increases strength by 65%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>(Wind) Surge of Strength I</span></dt><dd><div>If the user is attuned to Wind:<br>grants the user the "Surge of Strength" effect<br>at the start of quests for 180 seconds.<br>During Surge of Strength, the user's strength<br>is increased by 30%.</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/5399da139b60697a3461602ecc667bf92.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">Jeanne d'Arc</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>404</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>133</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,147</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>Saint's Banner</span>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies<br>and increases the entire team's defense.</div><div class="skill-detail">Damage: 1,652 × 1 hit<br>Special Effects:<br>・Defense +30%<br>　　Lasts 15 seconds</div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>(Light) HP +65%</span></dt><dd><div>If the user is attuned to Light:<br>increases HP by 65%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>(Light) Surge of Strength IV</span></dt><dd><div>If the user is attuned to Light:<br>grants the user the "Surge of Strength" effect<br>at the start of quests for 180 seconds.<br>During Surge of Strength, the user's strength<br>is increased by 60%.</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/a4b694714072317c3d4581b3649358ce2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">Nidhogg</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>394</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>141</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,145</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1dc2f6f0f6e043a02de111856f4d5c092.png"></span>
+				<span>Total Eclipse</span>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies<br>and inflicts blindness.</div><div class="skill-detail">Damage: 1,549.8 × 1 hit<br>Special Effects:<br>・Blindness<br>　　Lasts 8 seconds</div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>(Shadow) HP & Strength +40%</span></dt><dd><div>If the user is attuned to Shadow:<br>increases strength and HP by 40%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>(Shadow) Surge of Strength II</span></dt><dd><div>If the user is attuned to Shadow:<br>grants the user the "Surge of Strength" effect<br>at the start of quests for 180 seconds.<br>During Surge of Strength, the user's strength<br>is increased by 40%.</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/e0a1a5573268e6f8ce1bbe34ac05597a2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">High Midgardsormr</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>376</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>134</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,120</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0d671ee9f1118cae073adf924e4165c92.png"></span>
+				<span>Grand Tempest</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead<br>and inflicts stun.</div><div class="skill-detail">Damage: 1,300.6 × 1 hit<br>Special Effects:<br>・Stun<br>　　Lasts 7 seconds<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>(Wind) HP & Strength +40%</span></dt><dd><div>If the user is attuned to Wind:<br>increases strength and HP by 40%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>Dragon Time +20% & (Wind) Surge of Strength II</span></dt><dd><div>If the user is attuned to Wind:<br>grants the user the "Surge of Strength" effect<br>at the start of quests for 180 seconds.<br>During Surge of Strength, the user's strength<br>is increased by 40%.<br><br>Also, regardless of the user's attunement,<br>extends shapeshift time by 20%.</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/a1e65781e220861a4fa53f1478847ee92.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">High Brunhilda</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>140</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,120</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>Crimson Inferno</span>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies<br>and inflicts burn.</div><div class="skill-detail">Damage: 1,788 × 1 hit<br>Special Effects:<br>・Burn<br>　　Lasts 12 seconds<br>　　Triggers every 3.9 seconds<br>　　Damage: 97<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>(Flame) HP & Strength +40%</span></dt><dd><div>If the user is attuned to Flame:<br>increases strength and HP by 40%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>Dragon Time +20% & (Flame) Surge of Strength II</span></dt><dd><div>If the user is attuned to Flame:<br>grants the user the "Surge of Strength" effect<br>at the start of quests for 180 seconds.<br>During Surge of Strength, the user's strength<br>is increased by 40%.<br><br>Also, regardless of the user's attunement,<br>extends shapeshift time by 20%.</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/fbdf4a2edda40257d757100865322e9b2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">High Mercury</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>377</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>133</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,120</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>Aqua Spiral</span>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies,<br>draws them toward the user, and inflicts bog.</div><div class="skill-detail">Damage: 300 × 6 hits<br>Special Effects:<br>・Bog<br>　　Lasts 8 seconds</div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>(Water) HP & Strength +40%</span></dt><dd><div>If the user is attuned to Water:<br>increases strength and HP by 40%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>Dragon Time +20% & (Water) Surge of Strength II</span></dt><dd><div>If the user is attuned to Water:<br>grants the user the "Surge of Strength" effect<br>at the start of quests for 180 seconds.<br>During Surge of Strength, the user's strength<br>is increased by 40%.<br><br>Also, regardless of the user's attunement,<br>extends shapeshift time by 20%.</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/18be8e3c29ac6d29bf9636e1def091a72.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">High Jupiter</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>372</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>138</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,120</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>Primal Thunder</span>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies<br>and inflicts paralysis.</div><div class="skill-detail">Damage: 1,700 × 1 hit<br>Special Effects:<br>・Paralysis<br>　　Lasts 13 seconds<br>　　Triggers every 3.9 seconds<br>　　Damage: 88.3<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>(Light) HP & Strength +40%</span></dt><dd><div>If the user is attuned to Light:<br>increases strength and HP by 40%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>Dragon Time +20% & (Light) Surge of Strength II</span></dt><dd><div>If the user is attuned to Light:<br>grants the user the "Surge of Strength" effect<br>at the start of quests for 180 seconds.<br>During Surge of Strength, the user's strength<br>is increased by 40%.<br><br>Also, regardless of the user's attunement,<br>extends shapeshift time by 20%.</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/97401aee791f43a77def90385da773912.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">High Zodiark</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>140</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,120</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/71ec1ea232ae067c124323752959fb9f2.png"></span>
+				<span>Obsidian Ray</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead<br>and reduces their defense.</div><div class="skill-detail">Damage: 1,700 × 1 hit<br>Special Effects:<br>・Defense -10%<br>　　Lasts 10 seconds</div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>(Shadow) HP & Strength +40%</span></dt><dd><div>If the user is attuned to Shadow:<br>increases strength and HP by 40%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e4602fd0bf9bb7993373e40b08dc29172.png"></span><span>Dragon Time +20% & (Shadow) Surge of Strength II</span></dt><dd><div>If the user is attuned to Shadow:<br>grants the user the "Surge of Strength" effect<br>at the start of quests for 180 seconds.<br>During Surge of Strength, the user's strength<br>is increased by 40%.<br><br>Also, regardless of the user's attunement,<br>extends shapeshift time by 20%.</div></dd></dl></div></div></div><div><br></div><div>■Notes</div><div>1. The stats shown here represent the dragons at level 120, at maximum bond, and unbound to the fifth stage.</div><div>2. The stats shown here do not include increases or decreases due to abilities.</div><div>3. The stats for the dragons included in this notification shown in any prior notifications or preview videos were the stats at level 100 and maximum bond.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div><div><br></div>
+
+start_time:1632636000; update_time1632460563

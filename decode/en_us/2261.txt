@@ -1,0 +1,8 @@
+article_id:2261
+category_name:Events
+title_name:A Raid Event Revival, Timeworn Torment, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/13d17ab68fec1dce084e9b77ca345541.png
+
+message:<div>The Timeworn Torment raid event revival will begin on <span class="local_date" data-local_date="1623996000"></span>!<br><br>During this event, you can use co-op play to fight against the shadow-attuned raid boss.</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/13d17ab68fec1dce084e9b77ca345541.png"></div><div>Event theme song: &quot;Force Your Way&quot; by Takayoshi Tanimoto<br><br>■Event Duration<br><span class="local_date" data-local_date="1623996000"></span> to <span class="local_date" data-local_date="1624946399"></span><br><br>■Notes<br>1. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate in event quests.<br>2. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to play co-op.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1623736800; update_time1623658902

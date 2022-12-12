@@ -1,0 +1,8 @@
+article_id:1976
+category_name:News
+title_name:Change in Might Requirements for Caged Desire Quests
+image_path:
+
+message:<div>Starting <span class="local_date" data-local_date="1612591200"></span>, we will adjust the required might values for the Trials quests of the Caged Desire event to the suggested might values below.</div><div><br></div><div>■Solo Trials<br>・Joker&#39;s Trial: Standard<br>[Before]<br>Required Might: 10,000<br>[After]<br>Suggested Might: 10,000<br><br>・Joker&#39;s Trial: Expert<br>[Before]<br>Required Might: 25,000<br>[After]<br>Suggested Might: 25,000<br><br>・Sophie&#39;s Trial: Standard<br>[Before]<br>Required Might: 10,000<br>[After]<br>Suggested Might: 10,000<br><br>・Sophie&#39;s Trial: Expert<br>[Before]<br>Required Might: 25,000<br>[After]<br>Suggested Might: 25,000<br><br>■Co-op Trials<br>・Joker&#39;s Trial: Expert<br>[Before]<br>Required Might: 30,000<br>[After]<br>Suggested Might: 25,000<br><br>・Sophie&#39;s Trial: Expert<br>[Before]<br>Required Might: 30,000<br>[After]<br>Suggested Might: 25,000</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1612515600; update_time1612859387

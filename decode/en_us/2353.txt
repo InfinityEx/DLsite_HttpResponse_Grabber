@@ -1,0 +1,8 @@
+article_id:2353
+category_name:News
+title_name:Dragalia Life #380, Now Available!
+image_path:
+
+message:<div>Issue #380 of the comic strip Dragalia Life is now available!</div><div>Follow the steps below to read it.</div><div><br></div><div>In-Game:</div><div>Tap Dragalia Life under More at the top of the screen.</div><div><br></div><div>Official Website:</div><div>Select the Dragalia Life banner on the main page of the official website.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1628056800; update_time1626316442

@@ -1,0 +1,8 @@
+article_id:2313
+category_name:Events
+title_name:A Facility Event Revival, Rhythmic Resolutions, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/5df44e612a386d525890148011b369cf.png
+
+message:<div>A facility event revival, Rhythmic Resolutions, starts on <span class="local_date" data-local_date="1626328800"></span>!<br><br>This event will pit your group of adventurers against bosses of the flame element. You&#39;ll also be able to get an event-related reward facility!</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/5df44e612a386d525890148011b369cf.png"></div><div>■Event Duration<br><span class="local_date" data-local_date="1626328800"></span> to <span class="local_date" data-local_date="1627538399"></span><br><br>Notes:<br>1. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate.<br>2. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to play co-op.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1626069600; update_time1625625321

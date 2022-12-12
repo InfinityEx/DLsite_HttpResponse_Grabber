@@ -1,0 +1,8 @@
+article_id:2885
+category_name:Events
+title_name:A Raid Event Revival, A Splash of Adventure, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/464cdf636d86d236a0457b4bba517417.png
+
+message:<div>The A Splash of Adventure raid event revival will begin <span class="local_date" data-local_date="1659333600"></span>!</div><div>During this event, you can use co-op play to fight against the flame-attuned raid boss.</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/464cdf636d86d236a0457b4bba517417.png"><br></div><div>■Event Duration<br><span class="local_date" data-local_date="1659333600"></span> to <span class="local_date" data-local_date="1660111199"></span></div><div><br>Notes:<br>1. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate in event quests.<br>2. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign in order to play co-op.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1658901600; update_time1645514496

@@ -1,0 +1,8 @@
+article_id:2552
+category_name:News
+title_name:Regarding Adjustments to the Daily Damage Rewards' Damage Requirements [Update]
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>[Addendum <span class="local_date" data-local_date="1634196600"></span>]</strong></span><br>We have made the necessary adjustments in the data update applied around <span class="local_date" data-local_date="1634277600"></span>. Additionally, players will obtain yesterday&#39;s daily damage rewards according to the adjusted damage thresholds.<br><br>As a token of our appreciation for your patience, we will send 300 wyrmite to all players who started playing before <span class="local_date" data-local_date="1634104800"></span>. This gift can be claimed from your goodie box for up to seven days after reception.<br><br>Thank you for playing Dragalia Lost.</div><div><br></div><hr><div>We will adjust the damage values required to obtain the daily damage rewards in the Faith Forsaken (Part Two) raid event as they were different than expected, making it difficult to obtain these rewards.<br><br>Any further updates concerning these adjustments will be added to this notice.</div>
+
+start_time:1634178000; update_time1634264997

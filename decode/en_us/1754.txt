@@ -1,0 +1,8 @@
+article_id:1754
+category_name:News
+title_name:Regarding an Issue with the Adventurer Lapis [Update]
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>[Addendum <span class="local_date" data-local_date="1604469600"></span>]</strong></span><br>This issue was addressed in a data update at <span class="local_date" data-local_date="1604296800"></span>.&nbsp;</div><div><br></div><div>Thank you for your patience and understanding.</div><hr><div>We have confirmed that the following issue occurs with the adventurer Lapis, who was just added to the summon showcase:</div><div><br></div><div>When using Lapis&#39;s Fantastic Flight skill on enemies affected by paralysis, the skill&#39;s damage is increased.</div><div><br></div><div>We are planning to address this issue at a later date.&nbsp;</div><div>Any further information will be posted to this notice.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1604040600; update_time1604469722

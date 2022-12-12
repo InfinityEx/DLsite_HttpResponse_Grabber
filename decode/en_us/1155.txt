@@ -1,0 +1,8 @@
+article_id:1155
+category_name:News
+title_name:Daily Free Tenfold Summon Incoming!
+image_path:
+
+message:<div>A daily free tenfold summon event, which will allow you to perform a tenfold summon on the applicable summon showcases for free once per day, starts <span class="local_date" data-local_date="1585288800"></span>!</div><div><br></div><div>■Event Duration</div><div><span class="local_date" data-local_date="1585288800"></span> to <span class="local_date" data-local_date="1585807199"></span></div><div><br></div><div>■Applicable Summon Showcase</div><div>・Gala Dragalia</div><div><br></div><div>Note: You can perform up to six tenfold summons during the six-day period from <span class="local_date" data-local_date="1585288800"></span> to <span class="local_date" data-local_date="1585807199"></span>.</div><div><br></div><div>Notes:</div><div>1. You can perform a tenfold summon for free on the applicable summon showcase once per day (each day is from 6:00 AM to 5:59 AM the next day).</div><div>2. The daily free tenfold summon resets each day at 6:00 AM.</div><div>3. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1585202400; update_time1584093308

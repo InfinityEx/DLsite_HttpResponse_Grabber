@@ -1,0 +1,148 @@
+article_id:2084
+category_name:News
+title_name:A New Summon Showcase, the Prize Showcase, Is Now Live!
+image_path:
+
+message:<div>The next summon showcase, the Prize Showcase, kicks off on <span class="local_date" data-local_date="1617343200"></span>. Appearance rates for featured adventurers and dragons are boosted during this showcase!</div><div><br></div><div>When you summon on the Prize Showcase, you will get a prize in addition to the adventurer or dragon who appears. There are six categories of prize: platinum prize, gold prize, silver prize, bronze prize, fifth prize, and sixth prize. When you perform a tenfold summon, the tenth prize is guaranteed to be either a platinum, gold, silver, or bronze prize.<span style="color: rgb(226, 80, 65);">&nbsp;Prizes will be sent to the No Limit tab of your goodie box.</span></div><div><br></div><div>Notes:</div><div>・Unlike tenfold summons, using ten single summon vouchers at once doesn&#39;t guarantee that the tenth prize will be a platinum, gold, silver, or bronze prize.</div><div>・For a full list of prizes and their appearance rates, tap Summon on the in-game footer menu when the Prize Showcase is active, then see Prizes under Appearance Rates.</div><div><br></div><div>Newly added featured adventurer and dragon:</div><div><br></div><div>■Adventurer</div><div>5★ Alberius (shadow/sword)</div><div><br></div><div>■Dragon</div><div>5★ High Chthonius (shadow)</div><div><br></div><div>Availability period for the Prize Showcase:</div><div><span class="local_date" data-local_date="1617343200"></span> to <span class="local_date" data-local_date="1617947999"></span></div><div><br></div><div>Get a closer look at the newly added featured adventurer and dragon below.</div><div><br></div><div>Featured adventurer:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/9d78c76536a72d134d33202a587b9715.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The legendary Founder King. Three centuries ago,<br>he defeated the Other who had been restored by<br>the Dyrenell Empire and founded the Kingdom of<br>Alberia. Able to form pacts with many dragons,<br>he soon joined forces with the Six Greatwyrms.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f027b7d150713815ba70175982c142822.png"></span>
+				<span>Circlet Dawn</span>
+			</dt>
+			<dd><div>The user takes the form of High Chthonius,<br>deals damage to the target and nearby enemies,<br>inflicts shadowblight, then returns to their<br>original form. The user then deals further<br>damage to the target and nearby enemies.<br>Certain abilities that activate while shapeshifting<br>will affect High Chthonius's attack.</div><div class="skill-detail">Damage: 327 × 3 hits<br>Damage: 200 × 1 hit<br>Damage: 1,100 × 1 hit<br>Skill Energy Required: 3,360<br>Special Effects:<br>・Shadowblight<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3252f46b4caf10a0c15847a5d89335072.png"></span>
+				<span>Exalted Inception</span>
+			</dt>
+			<dd><div>The user takes the form of High Midgardsormr,<br>deals damage to surrounding enemies, inflicts stun,<br>raises the dragon gauge if the attack connects,<br>then returns to their original form.<br>Certain abilities that activate while shapeshifting<br>will affect this attack.</div><div class="skill-detail">Damage: 271 × 8 hits<br>Skill Energy Required: 5,045<br>Special Effects:<br>・Stun<br>　　Lasts 6 seconds<br>　　Triggers every 0 seconds<br>　　Damage: 0<br>Dragon Energy Gained: 50</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>Dragon Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases dragon gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Shadow) Dragon Damage +12%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Shadow:<br>adds 12% to the modifier applied to their<br>damage when in dragon form.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/34b4dd55399920298262636d1267db0f2.png"></span><span>Shapeshift Prep & Dragon Defense</span></dt><dd><div>Fills 25% of the dragon gauge at the start of quests,<br>and increases defense by 25% when in dragon form.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>Blindness Res +100%</span></dt><dd><div>Reduces susceptibility to blindness by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/874ebb8540cc62459ecedc47628161162.png"></span><span>Dragon's Fierce Rule II</span></dt><dd><div>Grants the user's attacks the ability to dispel<br>one enemy buff when in dragon form.<br>This effect does not apply to the damage<br>dealt as the user shapeshifts.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here do not include increases or decreases due to abilities, and represent the adventurer at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div><br></div><div>■Regarding Alberius&#39;s Skills</div><div>While Alberius is in the form of High Chthonius when the skill Circlet Dawn is used or the form of High Midgardsormr when the skill Exalted Inception is used, he is affected by the ability Shapeshift Prep &amp; Dragon Defense, abilities that increase damage when in dragon form like Dragon Damage +X%, and abilities that apply effects to attacks when in dragon form like Dragon&#39;s Fierce Rule.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/201cd80674ea599ba59faf97b8fbfbba.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>The Netherwyrm Chthonius, having unlocked his<br>hidden power within. Though he once wandered<br>the abyss of death, he has since effected a grand<br>revival. Ever loyal to Alberius, he spreads his<br>wings once more to serve his king's will.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>Netherblast</span>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies,<br>draws them together, and inflicts shadowblight.</div><div class="skill-detail">Damage: 397 × 5 hits<br>Damage: 477 × 1 hit<br>Special Effects:<br>・Shadowblight<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Shadow) Strength & High Dragon's Might V</span></dt><dd><div>If the user is attuned to Shadow: <br>increases strength by 65%, and increases strength<br>by a further 20% for the remainder of the quest upon<br>shapeshifting, up to twice per quest.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>(Shadow) Steeled Dragon's Endurance II</span></dt><dd><div>If the user is attuned to Shadow:<br>increases max HP by 30% for the remainder of<br>the quest upon shapeshifting for the second time.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For a list of prizes and their appearance rates, tap Summon on the in-game footer menu, and see Prizes under Appearance Rates.</div><div>3. If you obtain duplicate items in a tenfold summon, the item quantities for each item will be combined when sent to the No Limit tab of your goodie box.</div><div>4. An Alberian Battle Royale skin for the adventurer featured in this summon showcase is on sale and costs fewer items to unlock. (Not all adventurers have skins.)</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1617343200; update_time1617249711

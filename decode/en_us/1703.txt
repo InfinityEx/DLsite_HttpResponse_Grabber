@@ -1,0 +1,8 @@
+article_id:1703
+category_name:Events
+title_name:Story Event Revival, Stirring Shadows, Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/0b5ed54ea39c7dcfb17733024ae3d4ab.png
+
+message:<div>A story event revival, Stirring Shadows, will start at <span class="local_date" data-local_date="1603087200"></span>.<br><br>In the Stirring Shadows story event revival you can use event items acquired by clearing main-campaign quests and various event quests to unlock special stories.<br><br>The Stirring Shadows story includes content that expands on the story told in The Accursed Archives facility event.<br><span style="color: rgb(226, 80, 65);">To get the most out of Stirring Shadows, we strongly encourage you to play The Accursed Archives facility event revival, which will be active at the same time, first.</span></div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/0b5ed54ea39c7dcfb17733024ae3d4ab.png"></div><div>When a little girl mysteriously vanishes, the search leads her would-be saviors to The Immortal Village, a place where eternity ensnares all who reside there. Encounters with the strange dragon and priestess who rule over the village cast the pursuit deeper into chaos and confusion. In a village imprisoned by worship and obsession, who really holds the truth?<br><br>We hope you&#39;re looking forward to the Stirring Shadows story event revival!<br><br>Notes:<br>1. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate.<br>2. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign in order to play co-op.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1602828000; update_time1602752438

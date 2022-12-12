@@ -1,0 +1,8 @@
+article_id:581
+category_name:Events
+title_name:Astral Pieces Available from Quests in Preparation for Astral Raids!
+image_path:https://dragalialost.akamaized.net/attached/information/images/011f0d1be28deb9ad8be621a29e7529a.png
+
+message:<div>As of <span class="local_date" data-local_date="1562824800"></span>, Astral Pieces, an item used to challenge Astral Raids, will now drop from main campaign quests and event quests!</div><div>・Astral Raids will be available starting <span class="local_date" data-local_date="1563602400"></span>. Keep an eye out for a future notification with more information.</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/011f0d1be28deb9ad8be621a29e7529a.png"></div><div>■Astral Raids Overview</div><div>・Astral Raids are event quests where you can fight against past raid bosses, but they are only available on the weekends.</div><div>・To challenge Astral Raids quests, you will need to use Astral Pieces.</div><div><br></div><div>■Astral Pieces</div><div>・Astral pieces can be obtained by clearing main campaign quests and event quests.</div><div>・You will not receive Astral Pieces for clearing The Mercurial Gauntlet quests.</div><div>・You will not receive Astral Pieces for clearing quests while astral raids are active.</div><div>・The maximum number of Astral Pieces you can hold is 300.</div><div>・If you obtain Astral Pieces after reaching the limit, those Astral Pieces will be lost.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1562824800; update_time1569488897

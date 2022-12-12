@@ -1,0 +1,8 @@
+article_id:2960
+category_name:Events
+title_name:Epilogue Added to the Loyalty's Requiem Raid Event Revival!
+image_path:https://dragalialost.akamaized.net/attached/information/images/af008180765661450b081d6ec203f093.png
+
+message:<div>An epilogue has been added to the Loyalty&#39;s Requiem raid event revival, which ended on <span class="local_date" data-local_date="1666245599"></span>.</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/af008180765661450b081d6ec203f093.png"></div><div>You can view the epilogue by tapping Quests at the bottom of the screen, tapping the event banner, then tapping View Quests.<br><br>■Epilogue Availability<br><span class="local_date" data-local_date="1666245600"></span> to <span class="local_date" data-local_date="1666850399"></span><br><br>Note: The epilogue can only be viewed by players who completed episode 5 of the event story by the time the event ended.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1666245600; update_time1646625478

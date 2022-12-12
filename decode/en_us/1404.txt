@@ -1,0 +1,170 @@
+article_id:1404
+category_name:News
+title_name:Announcing a Platinum Showcase! 5★ Dragon Guaranteed!
+image_path:
+
+message:<div>A Platinum Showcase will start <span class="local_date" data-local_date="1592805600"></span>.</div><div><br></div><div>The Platinum Showcase is a limited summon showcase that works similarly to a tenfold summon in that one summon will get you 10 results. The difference between a regular tenfold summon and this Platinum Showcase is that a 5★ dragon is guaranteed to appear.</div><div><br></div><div>During the period, players are limited to doing the Platinum Showcase summon two times, and these summons can only be performed with diamantium (purchase required).</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Note: The roster for this summon showcase will not include the limited-time adventurers and dragons from the Halloween Fantasia 2 showcase that is also live at the same time.</span></div><div><br></div><div>Availability period for the Platinum Showcase:</div><div><span class="local_date" data-local_date="1592805600"></span> to <span class="local_date" data-local_date="1593410399"></span></div><div><br></div><div>Get a closer look at some of the 5★ dragons eligible to appear as the guaranteed 5★ summon.</div><div><br></div><div>5★ dragons eligible for guaranteed appearance as the 10th summon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f1e0c75d37ba3d4817bc535fbbbfa285.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon captured by the vile Syndicate.<br>She shoulders the sins of all people, and through<br>offering herself up cleanses them of said sin.<br>...Or so it is said; she lost her memory due to<br>Syndicate testing, and now travels with Aldred.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>Unblessed Bonds</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to the target<br>and nearby enemies, and increases<br>the entire team's defense by 30%<br>for 15 seconds.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Shadow) Strength +40%</span></dt><dd><div>If the user is attuned to Shadow: <br>increases strength by 40%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/97a6a9c25dfb5181cf44056f25fad1b82.png"></span><span>(Shadow) HP Below 30% = Strength & Defense II</span></dt><dd><div>If the user is attuned to Shadow:<br>increases strength by 40% and defense by 100%<br>when HP is 30% or below.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e140a6e197564b7e3a13e8d83f607776.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>The singing dragon is finally able to stand<br>on the stage of her dreams—and with an almost<br>frighteningly beautiful voice, she aims to bring<br>joy to everyone. Her outfit was made by her<br>friends, making her an icon of dragalia.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/77c2ac9b0a7142033bc6402d88c4b32d2.png"></span>
+				<span>Invigorating Harmony</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the entire team's strength and defense<br>by 20% for 20 seconds, and increases their<br>energy levels by three stages. It is possible to<br>charge this skill's gauge by attacking, and use it<br>up to twice during one shapeshift.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Light) Strength +40%</span></dt><dd><div>If the user is attuned to Light: <br>increases strength by 40%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>Exhilaration</span></dt><dd><div>If the user is attuned to Light: <br>increases shapeshift time for the entire team<br>by 3 seconds. The team's shapeshift time<br>can only be increased by a maximum of<br>5 seconds through this ability.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/293200f5e07a46f1040f4d093dc8110f.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,005</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon from Hinomoto, clad in flowers.<br>Any who receive her power bloom without limit,<br>but she is said to only bestow it upon those<br>she is sure will not wilt beneath its weight.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>Deciduous Dance</span>
+			</dt>
+			<dd>
+				<div>
+					Deals flame damage to the target and<br>nearby enemies, and increases the damage<br>dealt by the user's next skill by 40%.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Flame) Strength +20%</span></dt><dd><div>If the user is attuned to Flame: <br>increases strength by 20%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>(Flame) Skill Damage +90%</span></dt><dd><div>If the user is attuned to Flame:<br>increases attack skill damage by 90%.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent each dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Note:</div><div>For more information about the Platinum Showcase, tap Summon on the in-game footer menu, then select the Platinum Showcase and check the Appearance Rates section and the Details tab of the Showcase Info section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1592719200; update_time1592444654

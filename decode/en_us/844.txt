@@ -1,0 +1,136 @@
+article_id:844
+category_name:News
+title_name:A New Summon Showcase, Stirring Shadows (Part One), Is Now Live!
+image_path:
+
+message:<div>A new Summon Showcase, Stirring Shadows (Part One), went live <span class="local_date" data-local_date="1572501600"></span>!</div><div><br></div><div>Featured adventurers and dragons currently have boosted appearance rates.</div><div><br></div><div>Newly featured adventurer:</div><div>5★ Lathna (shadow/lance)</div><div><br></div><div>For information about other featured adventurers and dragons, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Availability period for featured summons:</div><div><span class="local_date" data-local_date="1572501600"></span> to <span class="local_date" data-local_date="1573538340"></span></div><div><br></div><div>Get a closer look at some of the featured adventurers and dragons below, including a new adventurer and a dragon from the existing lineup.</div><div><br></div><div>Featured adventurer:</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/220fc93e2559f9ecce253ef0e2ebf559.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>748</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>511</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A curious girl whose face often wears a somber<br>expression. She lost her family during a strange<br>incident at a library, and has been alone ever<br>since. Plagued with nightmares, she lives in fear<br>of something inside—the her that is not her.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/334b74601c5335a157f2f2aa2e3b9cd32.png"></span>
+				<span>Chaos Gift</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to the target<br>and nearby enemies. Poisoned foes<br>take extra damage. Continually tapping<br>the screen during the attack will unleash<br>additional blows, with up to a maximum of four.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/deb7134796a0b428f6b5a7a145a0d8262.png"></span>
+				<span>Sundering Shadow</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to enemies directly ahead.
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">Co-abilities</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases HP by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/18a0c508eccb37dc48c820d6ec7c0f152.png"></span><span>The Faceless God II</span></dt><dd><div>When shapeshifting, Lathna will transform into<br>Nyarlathotep regardless of what dragon she is<br>equipped with. Grants an HP regen buff for<br>20 seconds each time she shapeshifts.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>Paralysis Res +100%</span></dt><dd><div>Reduces susceptibility to paralysis by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>Dragon Time +20%</span></dt><dd><div>Extends shapeshift time by 20%.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here do not include increases or decreases due to abilities, and represent the adventurer at maximum level with all mana circles unlocked, not the stats when first obtained.</div><div><br></div><div>Featured dragon:</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ae76e99b9a251d8813aecf33dd460d65.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A mysterious dragon who dwells in the Library<br>Obscura. His words are difficult to parse;<br>his conduct inscrutable. He claims to be an<br>Emissary for something called the Ancient One,<br>and that his name is but a word for many beings.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>All-Encompassing Darkness</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to enemies directly ahead.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Shadow) HP 30% = Strength +50%</span></dt><dd><div>If the user is attuned to Shadow: <br>increases strength by 50% when HP is 30% or above.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>Moonlit Howl II</span></dt><dd><div>If the user is attuned to Shadow: <br>grants the user the "Bloody Tongue" effect<br>for 20 seconds when HP drops to 30%.<br>This effect grants the user a one-use shield<br>that nullifies damage less than 60% of their<br>maximum HP, and increases their strength by 30%.<br>These effects do not stack, and are lost upon taking<br>damage.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For information about featured adventurers and dragons, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1572501600; update_time1571982626

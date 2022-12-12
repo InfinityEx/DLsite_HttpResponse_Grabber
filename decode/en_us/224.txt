@@ -1,0 +1,8 @@
+article_id:224
+category_name:News
+title_name:Issue Regarding High Brunhila's Claw Attack
+image_path:
+
+message:<div>We have found an issue in High Brunhilda&#39;s Trial where High Brunhilda stopped moving for a certain amount of time instead of using her claw attack.</div><div><br></div><div>This issue was fixed during the maintenance performed on <span class="local_date" data-local_date="1548727200"></span>.</div><div><br></div><div>As a token of our appreciation for your understanding, we will send out the following gift to all players who started playing before <span class="local_date" data-local_date="1548727200"></span>:</div><div><br></div><div>・Wyrmite x300</div><div><br></div><div>For players who log in before <span class="local_date" data-local_date="1549346340"></span>, this gift can be claimed from your goodie box for up to 7 days after reception.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1548746100; update_time1549535650

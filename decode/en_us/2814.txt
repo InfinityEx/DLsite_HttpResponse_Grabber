@@ -1,0 +1,243 @@
+article_id:2814
+category_name:News
+title_name:A Prize Showcase Is Now Live!
+image_path:
+
+message:<div>A Prize Showcase started on <span class="local_date" data-local_date="1643954400"></span>. Appearance rates for featured adventurers and dragons are boosted during this showcase!</div><div><br></div><div>When you summon on the Prize Showcase, you will get a prize in addition to the adventurer or dragon who appears. <span style="color: rgb(226, 80, 65);">Prizes will be sent to the No Limit tab of your goodie box.</span></div><div><br></div><div>There are six categories of prize: platinum prize, gold prize, silver prize, bronze prize, fifth prize, and sixth prize. When you perform a tenfold summon, the tenth prize is guaranteed to be either a platinum, gold, silver, or bronze prize. Note that unlike tenfold summons, using 10 single summon vouchers at once doesn&#39;t guarantee that the tenth prize will be a platinum, gold, silver, or bronze prize.</div><div><br></div><div>For a full list of prizes and their appearance rates, tap Summon on the in-game footer menu when the Prize Showcase is active, then see Prizes under Appearance Rates.</div><div><br></div><div>▼Newly added featured adventurers:</div><div>5★ Valyx (light/axe)</div><div>5★ Phares (wind/lance)</div><div><br></div><div>▼Newly added featured dragon:</div><div>5★ Michael (wind)</div><div><br></div><div>Availability period for the Prize Showcase:</div><div><span class="local_date" data-local_date="1643954400"></span> to <span class="local_date" data-local_date="1644818399"></span></div><div><br></div><div>Get a closer look at the newly added featured adventurers and dragon below.</div><div><br></div><div>Featured adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c8d12a7d164240fd71fe6a29e7f48f27.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>747</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>515</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,502</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The fourth scion of Alberia, and a man renowned<br>for his military and leadership prowess. Though<br>he generally keeps to himself, his love for his<br>country and people speaks volumes. After serving<br>the empire for a time, he now works with the<br>Halidom in order to save the world.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd866680ac298f733f360d10f435a23d2.png"></span>
+				<span>Royal Blitz</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead<br>and inflicts paralysis and flashburn.</div><div class="skill-detail">Damage: 500 × 4 hits<br>Damage: 600 × 1 hit<br>Skill Energy Required: 3,849<br>Skill Energy Required (Shared Skill): 11,461<br>Special Effects:<br>・Paralysis<br>　　Lasts 13 seconds<br>　　Triggers every 3.9 seconds<br>　　Damage: 97<br>・Flashburn<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41.6<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/81cf3f993b5bd3954266b8f69dffe5392.png"></span>
+				<span>Lightning Rampage</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead<br>and dispels one buff from each target.</div><div class="skill-detail">Damage: 600 × 3 hits<br>Damage: 1,700 × 1 hit<br>Skill Energy Required: 6,296<br>Special Effects:<br>・Dispels Buffs<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>Defense +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases defense by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span>
+				<span>(Light) Team Defense Amp = HP Regen V</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Light:<br>gradually recovers their HP when they<br>have a team defense amp.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ba285b9620ca098f55337e3c8cdbea182.png"></span><span>Stalwart Warrior II</span></dt><dd><div>When shapeshifting, the user will transform<br>into Thor regardless of what dragon they<br>are equipped with.<br><br>Grants the user a unique force strike that<br>draws enemies toward the user.<br><br>In addition, grants the user immunity to<br>knockback for the duration of quests,<br>permanently energizes the user, and,<br>when the user takes damage, grants them<br>the "Defiant Spirit" effect for 20 seconds.<br>Curse of Nihility and afflictions will not reset<br>the user's energy level, nor will using skills.<br>During Defiant Spirit, damage dealt by the<br>user's standard attacks and their area of<br>effect are increased. After Defiant Spirit is<br>granted, this ability will not grant it again<br>for five seconds.<br><br>Also, restores 30% of damage taken during<br>skills or attacks as HP. This effect also activates<br>while charging skills or attacks and during the<br>transformation sequence when shapeshifting.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>Unconstrained Fate II</span></dt><dd><div>Reduces susceptibility to poison<br>and curses by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>Royal Shield II</span></dt><dd><div>When the user's HP drops to 70%,<br>grants the entire team a team defense amp<br>with a maximum team amp level of two<br>and a one-use divergent shield that nullifies<br>damage up to 40% of the user's maximum HP.<br>This shield can stack with ordinary shields.<br>After activating, this ability will not activate<br>again for 30 seconds.</div></dd></dl></div></div></div><div><br></div><div>■Regarding Valyx&#39;s Ability Stalwart Warrior II<br>Valyx&#39;s ability Stalwart Warrior II permanently energizes him during quests. Abilities whose activation requires the user&#39;s energy level to be increased or the user to be energized will not activate (excluding at the beginning of quests or when Valyx is revived).</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5ab7ce63a99c1f394935d38a7bc76f37.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>790</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>485</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The second scion of Alberia, and a man of nearly<br>unparalleled intellect. He became a puppet of the<br>Progenitor in order to battle his wyrmscale. After<br>regaining his freedom, he has been using his<br>knowledge to its fullest extent in order to save<br>the world.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>Wisdom Talisman</span>
+			</dt>
+			<dd><div>Grants all teammates a shield, increases their<br>water resistance, and increases their chances<br>of inflicting afflictions.<br><br>If this skill is used during dragondrive, a variant<br>called Punishment of Heaven will be used instead.<br>Punishment of Heaven deals damage to enemies<br>in a line and inflicts poison and stormlash.<br>In addition, it will deal bonus damage to targets<br>with Victim of Science, dispel one buff from<br>each of them, then remove Victim of Science.<br>This bonus damage will be increased against<br>enemies inflicted with any affliction.</div><div class="skill-detail">Skill Energy Required: 3,650<br>Special Effects:<br>・Shield<br>　　Charges: 1<br>　　Potency: 50% of max HP<br>・Water Res +8%<br>　　Lasts 25 seconds<br>　　Does not stack<br>・Affliction Success Rate +40%<br>　　Lasts 30 seconds<br>　　Stacks up to 3 times<br><br><color=#00008B>During Dragondrive:</color><br>Damage: 588 × 2 hits<br>Bonus Damage: 672 × 1 hit<br>Skill Energy Required: 3,650<br>Special Effects:<br>・Dispels Buffs<br>・Poison<br>　　Lasts 15 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 58.2<br>・Stormlash<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br>Damage Modifier:<br>・130% against enemies with any affliction<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b1f0c47e843c74bf666bf16d4b0c25992.png"></span>
+				<span>Oath of Bonds</span>
+			</dt>
+			<dd><div>Removes all afflictions from the entire team,<br>grants them a team strength amp, and partially<br>fills the user's dragondrive gauge.<br><br>If the user has the "Fatigue" debuff, this skill<br>will also remove it.<br><br>If this skill is used during dragondrive, a variant<br>called Uranus's Claw will be used instead.<br>Uranus's Claw grants the entire team a team<br>strength amp, deals damage to enemies directly<br>ahead, and extends the remaining time of any of<br>the following afflictions inflicted on enemies hit<br>by this attack by 15 seconds: poison, burn,<br>paralysis, frostbite, stormlash, flashburn,<br>shadowblight, and scorchrend.<br>The remaining time of these afflictions cannot<br>be extended beyond their original duration, and,<br>after activating, this extension will not activate<br>again for the same target for 15 seconds.</div><div class="skill-detail">Skill Energy Required: 7,490<br>Special Effects:<br>・Affliction Recovery (All Afflictions)<br>Team Amps:<br>・Team Strength Amp (MAX Lv. = 1)<br>Dragondrive Energy Gained: 1,000<br><br><color=#00008B>During Dragondrive:</color><br>Damage: 1,170 × 2 hits<br>Skill Energy Required: 7,490<br>Team Amps:<br>・Team Strength Amp (MAX Lv. = 1)</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases HP by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Wind) No Afflictions = Strength +6%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind:<br>increases their strength by 6%<br>when not inflicted with any afflictions.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/abe4a6a530d11cfe89696086b25d6ece2.png"></span><span>Uranus's Blessing II</span></dt><dd><div>Grants the user a strength amp with a<br>maximum team amp level of one when the user<br>inflicts an enemy with an affliction. After this<br>amp is granted, this ability will not grant it again<br>for eight seconds.<br><br>Also, grants the user a dragondrive gauge<br>and changes the shapeshift button into a<br>dragondrive button. Tapping this button activates<br>their dragondrive. The user's force strikes<br>will fill their dragondrive gauge if they connect.<br><br>Dragondrive grants the following effects:<br>・The user's standard attacks are changed and<br>fill the user's dragondrive gauge if they connect.<br>・The user's force strikes are changed and<br>deal damage to multiple targets and enemies<br>near those targets. They will also apply the<br>"Victim of Science" effect to enemies hit.<br>・The user's strength is increased by 35%.<br>・The user's HP is restored when they are<br>hit by an attack that inflicts an affliction.<br>After activating, this effect will not activate<br>again for 10 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>Freeze Res +100%</span></dt><dd><div>Reduces susceptibility to freezing by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>Thirst for Life II</span></dt><dd><div>Reduces susceptibility to afflictions by 150%<br>during dragondrive.<br><br>Also during dragondrive, once per quest, when<br>the user would take damage greater than their<br>remaining HP, that damage is instead nullified,<br>and their dragondrive gauge is completely<br>consumed. Damage from attacks that forcibly<br>reduce the user's HP to zero or deactivate<br>dragondrive cannot be nullified in this way.<br>Also, with the exception of damage dealt by<br>afflictions, buffs, debuffs, and certain attacks,<br>the user will be temporarily invulnerable to<br>damage while this effect is being activated.<br><br>When activated, this ability's damage<br>nullification effect also removes all afflictions<br>from the user and applies the "Fatigue"<br>debuff to them for 60 seconds. During Fatigue,<br>the user cannot activate their dragondrive,<br>and their dragondrive gauge will not be filled.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Some skills have different effects when used as a shared skill.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6397f4cc737e8488a03a08bf826a207d.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>One of the dragons known as the Five Archangels.<br>A pleasure-seeker whose behavior often confuses,<br>his true thoughts are impossible to ascertain.<br>Though he appears delicate, his power is without<br>peer, and he guides people and dragons alike<br>based on the strength of his own convictions.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>Angelic Storm</span>
+			</dt>
+			<dd><div>During close-quarters combat:<br>deals damage to surrounding enemies,<br>inflicts poison, and grants the entire team<br>a team defense amp.<br><br>During ranged combat:<br>deals damage to the target and nearby enemies,<br>inflicts stormlash, and grants overdamage to the<br>entire team.</div><div class="skill-detail"><color=#00008B>Close-Quarters Combat:</color><br>Damage: 1,478 × 2 hits<br>Special Effects:<br>・Poison<br>　　Lasts 15 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 43.6<br>Team Amps:<br>・Team Defense Amp (MAX Lv. = 2)<br><br><color=#00008B>Ranged Combat:</color><br>Damage: 170 × 7 hits<br>Damage: 265 × 4 hits<br>Special Effects:<br>・Stormlash<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br>・Overdamage<br>　　Lasts 180 seconds<br>　　Potency: 40% of strength<br>　　Does not stack</div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Wind) Strength +60%</span></dt><dd><div>If the user is attuned to Wind: <br>increases strength by 60%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>(Wind) Michael's Favor II</span></dt><dd><div>If the user is attuned to Wind:<br>extends the window between hitting an enemy<br>and the combo counter resetting by 2.5 seconds<br>and, for every 15-hit combo, increases the user's<br>strength by 3%. This strength increase can stack<br>up to 10 times and is removed when the combo<br>counter resets.<br>Also, grants wind-attuned adventurers in the team<br>overdamage based on 20% of the user's strength<br>for 60 seconds at the start of quests and grants<br>the user overdamage based on 20% of their<br>strength for 60 seconds when the combo counter<br>resets.<br><br>In addition, regardless of the user's attunement,<br>while shapeshifted as Michael, creates a combat<br>zone around the user and grants them one of two<br>combat styles: close quarters or ranged.<br>If there are any enemies within this combat zone,<br>the user will engage in close-quarters combat,<br>otherwise they will default to ranged combat.<br>The user's standard attack patterns and the<br>effects activated by Angelic Storm will change<br>based on their combat style.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at level 100, maximum bond, and unbound to the fourth stage. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For a list of prizes and their appearance rates, tap Summon on the in-game footer menu, and see Prizes under Appearance Rates.</div><div>3. If you obtain duplicate items from a tenfold summon or from using 10 single summon vouchers at once, the item quantities for each item will be combined when sent to the No Limit tab of your goodie box.</div><div>4. Alberian Battle Royale skins for the adventurers featured in this summon showcase are on sale and cost fewer items to unlock. Note that some adventurers do not have adventurer skins.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1643954400; update_time1643773621

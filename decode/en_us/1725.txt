@@ -1,0 +1,171 @@
+article_id:1725
+category_name:News
+title_name:Announcing Gala Dragalia!
+image_path:
+
+message:<div>Gala Dragalia will start at <span class="local_date" data-local_date="1604037600"></span>!</div><div><br></div><div>What are Gala Dragalia and Gala Dragalia Remix?</div><div>・The initial appearance rate for 5★ adventurers and dragons will be boosted to 6%, which is up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div>Notes:</div><div><span style="color: rgb(226, 80, 65);">・The newly added 5★ adventurer Lapis (water) will also appear in the next summon showcase.</span></div><div><span style="color: rgb(226, 80, 65);">・The Platinum Showcase that will be live at the same time does not include the new adventurers or dragons that were added in this showcase.</span></div><div><br></div><div>Newly added featured adventurer and dragon:</div><div>■Adventurer</div><div>5★ Lapis (water/rapid-fire manacaster)</div><div>Note: Rapid-fire manacasters are ideal for attacking foes at mid-range, and their force strikes are especially powerful.</div><div><br></div><div>■Dragon</div><div>5★ Gala Reborn Poseidon (water)</div><div><br></div><div>Gala Dragalia event duration:</div><div><span class="local_date" data-local_date="1604037600"></span> to <span class="local_date" data-local_date="1604469599"></span></div><div><br></div><div>Get a closer look at the newly added featured adventurer and dragon below.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/eb5b9b6f1ee7388836e2cfff5ac2dbec.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>Poseidon, the wyrm of legend who ruled the seas,<br>is reborn. After receiving the faith of a maiden,<br>he was freed from the miasma eating away at<br>him. While his boisterous persona is unchanged,<br>he is re-examining his view of people's strength.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cec8794d33276918ce38bfaa577312842.png"></span>
+				<span>Atlantean Flood</span>
+			</dt>
+			<dd>
+				<div>
+					Deals water damage to the target and nearby<br>enemies. If the user is targeting an enemy<br>and not using a skill when their remaining<br>shapeshift time runs out, this skill will be used<br>automatically, regardless of whether or not<br>the skill gauge is filled.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Water) Strength +70%</span></dt><dd><div>If the user is attuned to Water: <br>increases strength by 70%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6a11826292e883b2011a341c28b9c39d2.png"></span><span>(Water) Fury of the Seas II</span></dt><dd><div>If the user is attuned to Water:<br>adds 30% to the modifier applied to damage<br>against flame-attuned enemies for 45 seconds<br>every time the dragon gauge fills by 10%.<br>This increase will not stack, and, after activating,<br>this ability will not activate again for 5 seconds.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Featured adventurer:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2ffbab8654c175ce82ae87f1bbb066e2.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>757</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>503</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,500</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>Available Modes</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/a3fd3d318f5d1ce860f6d1c41c2d49fb2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/b8a3b3884cac48715702c5bf401cd8b22.png"><img src="https://dragalialost.akamaized.net/attached/information/images/448ef7b051c6bcd89db535067691e8b22.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A dashing phantom thief who leaves a blue rose<br>as her calling card. A master of disguise, she<br>slips through even the tightest security in pursuit<br>of her prey. She returns all she steals, seemingly<br>doing it for sport, but is there more to her story?</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/fccbc96244b6f48d6e2227e0f9ac47792.png"></span>
+				<span>Fantastic Flight</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals water damage to the target and nearby<br>enemies, and dispels one buff from each of them.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/fa25143c5b0f10f468895aaa4b0799412.png"></span>
+				<span>Graceful Bullet</span>
+			</dt>
+			<dd>
+				<div>
+					Deals water damage to enemies directly ahead.<br>The more buffs the user has, the higher the skill<br>boost received and the higher the damage dealt,<br>up to an additional 80%. Stronger Bullets will<br>grant a greater damage increase than other buffs.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>Gauge Accelerator +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Speeds the rate the mode gauge decreases<br>by 20%. Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>(Water) Above 10 Hits = Flame Res +10%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water: <br>reduces flame damage taken by them by 10%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5cdf50cfea30e45572cc006a886b83cd2.png"></span><span>Modus Operandi II</span></dt><dd><div>Dispelling an enemy buff or barrier lowers<br>that enemy's water resistance by 5% for<br>30 seconds and grants the user one stack of<br>"Stronger Bullets". This resistance<br>reduction will not stack.<br><br>Stronger Bullets increases the user's critical<br>rate by 4%, and can stack up to three times.<br>The effects of Stronger Bullets will be<br>removed upon using Graceful Bullet.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>Blossoming Rose II</span></dt><dd><div>Grants the user one stack of "Stronger Bullets"<br>for every 30-hit combo. This buff increases<br>the user's critical rate by 4%, and can stack<br>up to three times. The effects of Stronger<br>Bullets will be removed upon using<br>Graceful Bullet.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurer at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div><br></div><div>Notes: For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1603951200; update_time1603708307

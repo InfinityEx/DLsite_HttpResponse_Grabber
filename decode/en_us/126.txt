@@ -1,0 +1,8 @@
+article_id:126
+category_name:News
+title_name:Overdrive Punisher Issue in Sabnock Raid
+image_path:
+
+message:<div>We have confirmed an issue in the current Resplendent Refrain event where the Overdrive Punisher ability doesn&#39;t work on Sabnock&#39;s limbs.</div><div>This issue happens at all difficulty levels.</div><div><br></div><div>We are currently investigating this issue.</div><div>Any further updates regarding this issue will be added to this notice.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1543557600; update_time1545359628

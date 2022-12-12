@@ -1,0 +1,8 @@
+article_id:2335
+category_name:News
+title_name:Issues With Mana Circle Unlocking
+image_path:
+
+message:<div>We have confirmed that the following issues were occurring since <span class="local_date" data-local_date="1624845600"></span>.</div><div><br></div><div>・When unlocking a co-ability node, the co-ability&#39;s effects would sometimes not get upgraded.</div><div>・In certain instances, the confirmation screen appearing when unlocking a co-ability node would display a lower eldwater cost than the actual consumed amount of eldwater.</div><div>・When unlocking a co-ability node without having the required amount of eldwater, a Support Code: 60001 error would sometimes be displayed, taking you back to the title screen.</div><div>Note: These issues don&#39;t reduce the amount of eldwater actually consumed when unlocking co-ability nodes.</div><div><br></div><div>These issues have been fixed around <span class="local_date" data-local_date="1624869600"></span>. Please go back to the title screen and start the game again to resolve them.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1624871400; update_time1624876185

@@ -1,0 +1,8 @@
+article_id:562
+category_name:News
+title_name:Main Campaign Chapter 9: The Princess's Party, Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/d6bf6d8e19df1938636189273eb3c034.png
+
+message:<div>Chapter 9: The Princess&#39;s Party will be added to the main campaign at <span class="local_date" data-local_date="1563170400"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/d6bf6d8e19df1938636189273eb3c034.png"></div><div>We hope you&#39;re looking forward seeing what&#39;s in store for the prince and his friends!</div><div><br></div><div>Note:</div><div>Chapter 9 of the main campaign, The Princess&#39;s Party, will unlock if you clear Ch. 8 / 5-4 &quot;Love Births Strength.&quot;</div><div><br></div><div>Thanks for playing Dragalia Lost!</div>
+
+start_time:1562824800; update_time1569489367

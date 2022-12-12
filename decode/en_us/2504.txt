@@ -1,0 +1,8 @@
+article_id:2504
+category_name:Maintenance
+title_name:Maintenance Notice for 9/23(PT) [Update]
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>[Addendum <span class="local_date" data-local_date="1632454200"></span>]</strong></span><br>The maintenance is now complete.<br><br>As a token of our appreciation for your patience, we will send the following items to all players who started playing before <span class="local_date" data-local_date="1632448800"></span>.<br><br>・Exquisite Honey x1<br>・Blessed Ethon Ashes x1<br><br>These items can be claimed from your goodie box for up to 7 days after reception.<br><br>Thank you for playing Dragalia Lost.</div><div><br></div><hr><div>We will be performing server maintenance during the following period. You will not be able to obtain rewards if you complete a quest during the maintenance period.&nbsp;</div><div><br></div><div>■Maintenance Period</div><div>Around <span class="local_date" data-local_date="1632448800"></span> to around <span class="local_date" data-local_date="1632452400"></span></div><div><br></div><div>Notes:</div><div>1. You will not be able to play Dragalia Lost during the maintenance.</div><div>2. Maintenance may start and/or end before or after the scheduled times.</div><div><br></div><div><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1632290400; update_time1632460540

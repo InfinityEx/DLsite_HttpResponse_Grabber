@@ -1,0 +1,8 @@
+article_id:1240
+category_name:News
+title_name:Main Campaign Chapter 13: Return from Darkness, Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/49325118bc6e4d960c7ac3cbc3ba9977.png
+
+message:<div>Chapter 13: Return from Darkness will be added to the main campaign at <span class="local_date" data-local_date="1587362400"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/49325118bc6e4d960c7ac3cbc3ba9977.png"></div><div>We have also released a trailer for Chapter 13: Return from Darkness.</div><div>Check out the following page.</div><div><br></div><div>▼Nintendo Mobile YouTube Channel - Chapter 13: Return from Darkness Trailer</div><div><a href="https://youtu.be/BU-jwTMrBQg">https://youtu.be/BU-jwTMrBQg</a></div><div><br></div><div>We hope you&#39;re looking forward seeing what&#39;s in store for the prince and his friends!</div><div><br></div><div>Note:</div><div>Chapter 13: Return from Darkness will unlock if you clear Ch. 12 / 4-4 &quot;Unyielding Ambition.&quot;</div><div><br></div><div>Thanks for playing Dragalia Lost!</div>
+
+start_time:1587276000; update_time1586931334

@@ -1,0 +1,242 @@
+article_id:3032,category_name:News,title_name:Gala Dragalia Is Coming Soon!,image_path:,message:<div>Gala Dragalia starts on <span class="local_date" data-local_date="1664431200"></span>!</div><div><br></div><div>■What Are Gala Dragalia and Gala Dragalia Remix?</div><div>The initial appearance rate for 5★ adventurers and dragons will be boosted to 6%, which is up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div><br></div><div>▼Featured adventurers:</div><div>5★ Gala Notte (wind/dagger)</div><div>5★ Gala Ranzal (wind/sword)</div><div><br></div><div>▼Featured dragon:</div><div>5★ Gala Reborn Zephyr (wind)</div><div><br></div><div>Gala Dragalia event duration:</div><div><span class="local_date" data-local_date="1664431200"></span> to <span class="local_date" data-local_date="1664863199"></span></div><div><br></div><div>Get a closer look at the featured adventurers and dragon below.</div><div><br></div><div>Featured adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b9b805b839eaa287b53557362a769331.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>760</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>499</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Notte awakens to her true power as a faerie,<br>enabling her to change size at will. No longer<br>a tiny being in need of protection, she now<br>fights on the front lines to protect the ones<br>she loves most.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e85e2d5f87af2b9a484d50eb16f8480c2.png"></span>
+				<span>Faerie Punishment</span>
+			</dt>
+			<dd><div>Deals damage to the target and nearby<br>enemies, dispels one buff from each of them,<br>and, if the combo count is 20 or higher,<br>partially fills the metamorphosis gauge.<br><br>When shapeshifted:<br>deals damage to surrounding enemies,<br>and inflicts stormlash.</div><div class="skill-detail">Damage: 107 × 16 hits<br>Skill Energy Required: 2,620<br>Special Effects:<br>・Dispels Buffs<br>Shapeshift Energy Gained: 80<br><br><color=#00008B>When Shapeshifted:</color><br>Damage: 532 × 5 hits<br>Special Effects:<br>・Stormlash<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds <br>　　Damage: 41<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f966791f17e374d3ea12252d10ee6c462.png"></span>
+				<span>Faerie Illusion</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies,<br>dispels one buff from each target, and,<br>if the combo count is 20 or higher,<br>partially fills the metamorphosis gauge.<br>This attack will pursue targets for the<br>duration of the skill.<br><br>When shapeshifted:<br>deals damage to surrounding enemies,<br>then deals damage to enemies in a line.</div><div class="skill-detail">Damage: 82 × 30 hits<br>Skill Energy Required: 5,240<br>Skill Energy Required (Shared Skill): 8,279<br>Special Effects:<br>・Dispels Buffs<br>Shapeshift Energy Gained: 150<br><br><color=#00008B>When Shapeshifted:</color><br>Damage: 700 × 2 hits<br>Damage: 1,092 × 1 hit</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>Critical Rate +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases critical rate by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span>
+				<span>(Wind) Combo = Shapeshift Prep V</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind:<br>fills 3% of their dragon gauge<br>for every 50-hit combo.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6520d144b623d2b7b6131329914ae1a62.png"></span><span>Metamorphosis II</span></dt><dd><div>Grants Notte a unique shapeshift called<br>"metamorphosis," and replaces the dragon gauge<br>with a metamorphosis gauge. Tapping the gauge<br>after it has filled to a certain threshold will allow<br>Notte to shapeshift, and when shapeshifting,<br>Notte will use metamorphosis to transform<br>regardless of what dragon she is equipped with.<br>By tapping the gauge a second time or after the<br>gauge has been consumed, Notte will return to<br>her original form.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/857a2a2fdbc31b188c91fbd6f6eca6b32.png"></span><span>Faerie Blessing II</span></dt><dd><div>Reduces susceptibility to freeze and bog by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Flurry Strength +20%</span></dt><dd><div>Increases strength by 20% when the combo count is<br>15 or higher.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/4bf8b0a49783a345df97af11bed2c566.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>755</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>504</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Ranzal has been appointed a commander in the<br>New Alberian army. He wears armor made by his<br>friends, and has traded the axe of his mercenary<br>days for a sword. He's still as boisterous as ever,<br>but now has the dignity and presence of a leader.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>Cyclone Blade</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies.</div><div class="skill-detail">Damage: 303.6 × 6 hits<br>Skill Energy Required: 2,661<br>Skill Energy Required (Shared Skill): 9,579<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/862d02981336441f770826c64d15b0162.png"></span>
+				<span>Wind Tactics</span>
+			</dt>
+			<dd><div>Activates "Gale-Clad Sword."<br>The user's force strikes are powered up,<br>and can damage faraway enemies.<br>Also increases the entire team's defense.</div><div class="skill-detail">Skill Energy Required: 5,800<br>Special Effects:<br>・Defense +10%<br>　　Lasts 10 seconds<br>・Gale-Clad Sword<br>　　Charges: 3<br>　　Does not stack<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>Dragon Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases dragon gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>(Wind) Critical Rate Doublebuff +10%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind: <br>increases their critical rate by 10% for 15 seconds<br>each time they receive a defense up buff.<br>After activating, this ability will not<br>activate again for 15 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>Experience's Boon II</span></dt><dd><div>Grants Ranzal an Attack Gauge and a Burst Gauge.<br>The Attack Gauge fills when regular attacks connect<br>with enemies, while the Burst Gauge is filled when<br>force strikes successfully connect.<br>For every completely filled gauge, Ranzal's defense<br>is increased. Any filled gauges are consumed when<br>using the Cyclone Blade skill, increasing its power.<br></div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/857a2a2fdbc31b188c91fbd6f6eca6b32.png"></span><span>Relentless Spirit II</span></dt><dd><div>Reduces susceptibility to freeze and bog by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>Skill Damage +30%</span></dt><dd><div>Increases attack skill damage by 30%.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Some skills have different effects when used as a shared skill.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ab4960d508720739de1a856c948dc01f.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>Through the belief of the people of the plains,<br>Zephyr has been reborn. Freed from the noxious<br>miasma eating away at his body, his prudence is<br>now tempered with an unwavering will and an<br>open mind.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>Howling Fury</span>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies.<br>If the user is targeting an enemy and not using a<br>skill when their remaining shapeshift time runs out,<br>this skill will be used automatically, regardless of<br>whether or not the skill gauge is filled.</div><div class="skill-detail">Damage: 1,923 × 1 hit<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Wind) Strength +70%</span></dt><dd><div>If the user is attuned to Wind: <br>increases strength by 70%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/65863989132db80658f5d919573c14e92.png"></span><span>(Wind) Wrath of the Plains II</span></dt><dd><div>If the user is attuned to Wind:<br>adds 30% to the modifier applied to damage<br>against water-attuned enemies and enemies<br>with no attunement for 45 seconds every time<br>the dragon gauge fills by 10%. This increase<br>will not stack, and, after activating, this ability<br>will not activate again for five seconds.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at level 100, maximum bond, and unbound to the fourth stage. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. Alberian Battle Royale skins for the adventurers featured in this summon showcase will go on sale and will cost fewer items to unlock. Note that some adventurers do not have adventurer skins.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>,start_time:1664344800,update_time1648636074

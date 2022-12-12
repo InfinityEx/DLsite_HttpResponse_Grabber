@@ -1,0 +1,30 @@
+article_id:636
+category_name:News
+title_name:New Wyrmprints Added to the Treasure Trade for Wyrmprints Lineup!
+image_path:
+
+message:<div><span style="color: rgb(0, 0, 0);">New wyrmprints were added to the Treasure Trade for wyrmprints lineup at <span class="local_date" data-local_date="1564552800"></span>.</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">You can trade for the newly added wyrmprints from the Featured tab or from the various rarity tabs in the Treasure Trade for wyrmprints.</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);"><strong>New wyrmprints:</strong></span></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/da53f347a03ea091793a064e35a608d22.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">Summer Paladyns</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>(Axe) Skill Damage +40%&nbsp;(Max 40%)</span></dt><dd><div>If the user wields an Axe:<br>increases attack skill damage by 40%.&nbsp;(Max 40%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>Energy Doublebuff Ⅰ&nbsp;(Max I)</span></dt><dd><div>Increases energy level by one stage each<br>time a defense up buff is received.&nbsp;(Max I)</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/99a772f29ee7a860ab3ab08509be267d2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">Beach Battle</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>(Water) Skill Haste +7%&nbsp;(Max 15%)</span></dt><dd><div>If the user is attuned to Water:<br>increases skill gauge fill rate by 7%.&nbsp;(Max 15%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span><span>Buff Time +20%&nbsp;(Max 30%)</span></dt><dd><div>Increases duration of buff skills by 20%.&nbsp;(Max 30%)</div></dd></dl></div></div></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">Note: The stats shown here represent the wyrmprints when fully unbound. They do not represent the stats when first obtained.</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">Featured period:</span></div><div><span class="local_date" data-local_date="1564552800"></span> to <span class="local_date" data-local_date="1565675999"></span></div><div><br></div><div><span style="color: rgb(184, 49, 47);">Note: After the featured period is over, you will still be able to trade for the new wyrmprints from the various rarity tabs.</span></div><div><br></div><div><span style="color: rgb(0, 0, 0);">Note:</span></div><div><span style="color: rgb(0, 0, 0);">For other information aside from this notification, see the Wyrmprints section in the Shop.</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">Thank you for playing Dragalia Lost.</span></div>
+
+start_time:1564552800; update_time1564475949

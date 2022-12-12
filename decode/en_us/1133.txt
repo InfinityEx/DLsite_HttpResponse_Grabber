@@ -1,0 +1,138 @@
+article_id:1133
+category_name:News
+title_name:A Summon Showcase, Springtime Spree, Is Back!
+image_path:
+
+message:<div>A Summon Showcase, Springtime Spree, is back and went live <span class="local_date" data-local_date="1583992800"></span>!</div><div><br></div><div>Featured adventurers and dragons currently have boosted appearance rates. Also, mana spirals were added to adventurers Lin You and Hawk, who are both featured!</div><div><br></div><div>See the following notification for adventurers who gained mana spirals at <span class="local_date" data-local_date="1583991000"></span> and their stats.</div><div><a href="https://dragalialost.com/en/news/detail/1137">Adding the Mana Spiral to More Adventurers!</a></div><div><br></div><div><span style="color: rgb(226, 80, 65);">Note: The roster for this summon showcase does not include the new adventurers and dragons from the Paragons of Piety summon showcase, which is live at the same time.</span></div><div><br></div><div>Featured adventurers and dragons:</div><div><br></div><div>■Adventurers</div><div>5★ Lin You (wind/axe)</div><div>4★ Ku Hai(wind/sword)</div><div>3★ Xiao Lei (light/wand)</div><div><br></div><div>■Dragon</div><div>5★ Long Long (wind)</div><div><br></div><div>・For information about other featured adventurers and dragons, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Availability period for featured summons:</div><div><span class="local_date" data-local_date="1583992800"></span> to <span class="local_date" data-local_date="1584943140"></span></div><div><br></div><div>Get a closer look at some of the featured adventurers and dragons below.</div><div><br></div><div>Featured adventurer:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/4e6dd6564be86f1f9681da3fc0eb942a.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>744</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>517</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,501</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A young woman who trained with the Qilin tribe<br>of Taiwu. She can be a little naive, but has firm<br>beliefs when it comes to competitions and<br>improving her martial-arts skills, and burns<br>with a desire to become as strong as possible.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd5464d0aeb6d41964c19ee25f922b922.png"></span>
+				<span>Typhoon Fist</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to enemies directly ahead,<br>and inflicts sleep.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>Heaven's Breath</span>
+			</dt>
+			<dd>
+				<div>
+					Restores the user's HP, and activates "Heaven's Breath"<br>for 10 seconds. During Heaven's Breath, the user's<br>attack rate is increased by 20%, and the Typhoon Fist<br>skill is powered up.
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">Co-abilities</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>Defense +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases defense by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>HP 70% = Critical Rate +10%</span></dt><dd><div>Increases critical rate by 10% when<br>HP is 70% or above.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span><span>Bog Res +100%</span></dt><dd><div>Reduces susceptibility to bog by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>Skill Haste +8%</span></dt><dd><div>Increases skill gauge fill rate by 8%.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here do not include increases or decreases due to abilities, and represent the adventurer at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a379d7935acf9b45bade2b1f32939fb7.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>He looks like a charming panda, but is actually a<br>full-fledged dragon. A warrior who trained under<br>the Qilin tribe, he has mastered the art of hand-<br>to-hand combat. He has a son called Mao Mao,<br>and is something of a worrywart as a father.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>Howling Burst</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to enemies in a line.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Wind) Strength & Critical Damage II</span></dt><dd><div>If the user is attuned to Wind:<br>increases strength by 45% and adds 55% to the<br>modifier applied to critical damage.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For information about featured adventurers and dragons, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1583992800; update_time1583746910

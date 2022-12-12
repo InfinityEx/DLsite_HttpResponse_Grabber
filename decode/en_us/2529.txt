@@ -1,0 +1,99 @@
+article_id:2529
+category_name:News
+title_name:Adding the Mana Spiral to More Adventurers!
+image_path:
+
+message:<div>A sixth mana circle, the mana spiral, will be added to certain adventurer starting <span class="local_date" data-local_date="1634104800"></span>.</div><div><br></div><div>The adventurer affected this time and her stats are described below.</div><div>Note: Unlocking an eligible adventurer&#39;s mana spiral requires special materials specific to that adventurer that can be earned from the daily bonus of the Trials of the Mighty quest.</div><div><br></div><div>■Affected Adventurers</div><div>5★ Wedding Aoi (wind/dagger)</div><div><br></div><div>■Stats</div><div><br></div><div>・5★ adventurer</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/35fd46c415bf1fa2611a4df1bee6a45b2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">Wedding Aoi</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>960</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>569</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,229</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2ef60e9ac871b2e176714b7eed8d3132.png"></span>
+				<span>Ninja Bride Sweep</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>draws them together, and inflicts sleep<br>and stormlash.</div><div class="skill-detail">Damage: 324 × 4 hits<br>Damage: 1,290 × 1 hit<br>Skill Energy Required: 2,401<br>Skill Energy Required (Shared Skill): 10,324<br>Special Effects:<br>・Sleep<br>　　Lasts 7 seconds<br>・Stormlash<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd5464d0aeb6d41964c19ee25f922b922.png"></span>
+				<span>Ninja Bride Sunshower</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead<br>and restores HP to all allies.<br>Sleeping foes take extra damage.</div><div class="skill-detail">Damage: 701 × 5 hits<br>Recovery Potency: 30<br>Skill Energy Required: 4,400<br>Damage Modifier:<br>・200% against sleeping enemies<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>Critical Rate +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases critical rate by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>(Wind) Above 10 Hits = Water Res +10%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind: <br>reduces water damage taken by them by 10%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c38a382f5efa7c15de586ca118ff839f2.png"></span><span>Ninja Bride</span></dt><dd><div>Increases damage to sleeping enemies by 10%<br>and stormlashed enemies by 10%. Also, buffs<br>the entire team's strength by 15% for 10 seconds<br>upon successfully putting an enemy to sleep.<br>After activating, this strength increase will not<br>activate again for five seconds.<br><br>In addition, using Ninja Bride Sunshower will<br>grant the user a defense amp with a maximum<br>team amp level of two. After this amp is granted,<br>this ability will not grant it again for 30 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dfbbb18cd6a812083fd505b275d3a42a2.png"></span><span>Potent Freeze Res +100%</span></dt><dd><div>Reduces susceptibility to freeze by 100%.<br>When the user is hit by an attack that would have<br>inflicted freeze on them, their strength is increased<br>by 15% for 10 seconds. After activating, this buff will<br>not activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>Striking Haste +15%</span></dt><dd><div>Increases skill gauge fill rate by 15%<br>when the user's force strikes connect.</div></dd></dl></div></div></div><div><br></div><div>Notes:</div><div>1. The stats shown here represent the adventurer at level 100 with 70 mana nodes unbound.</div><div>2. The stats shown here do not include increases or decreases due to abilities.</div><div>3. The stats for the adventurer included in this notification shown in any prior notifications or preview videos were the stats at level 80 with 50 mana nodes unbound.</div><div>4. When an adventurer&#39;s skill level increases, the skill gauge will fill more slowly when set as a shared skill.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1634018400; update_time1633663133

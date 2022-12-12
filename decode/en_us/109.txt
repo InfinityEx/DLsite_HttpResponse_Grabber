@@ -1,0 +1,8 @@
+article_id:109
+category_name:News
+title_name:Jumpstart Endeavors
+image_path:
+
+message:<div>If you complete Jumpstart Endeavors within the first 14 days of starting the game, you can get your hands on some rewards. These include wyrmite and mana, which you can use to power up your adventurers.</div><div><br></div><div>And if you complete every Jumpstart Endeavor, you can earn a Tenfold Summon Voucher!</div><div><br></div><div>Notes:</div><div>You can check Jumpstart Endeavors in the Limited tab from the Endeavors section of the Home screen.</div><div>Once the first 14 days have passed, clearing the endeavors will no longer grant you the rewards.</div>
+
+start_time:1538028000; update_time1538139836

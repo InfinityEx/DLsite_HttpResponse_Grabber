@@ -1,0 +1,99 @@
+article_id:2300
+category_name:News
+title_name:The Toll of the Deep Summon Showcase Is Here!
+image_path:
+
+message:<div>The Toll of the Deep summon showcase started on <span class="local_date" data-local_date="1625464800"></span>. The featured adventurer has a boosted appearance rate!</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Note: The Platinum Showcase that is live at the same time does not include the new adventurer added in this showcase.</span></div><div><br></div><div>Newly added featured adventurer:</div><div>5★ Summer Mym (shadow/long-range manacaster)</div><div><br></div><div>Event duration:</div><div><span class="local_date" data-local_date="1625464800"></span> to <span class="local_date" data-local_date="1626328799"></span></div><div><br></div><div>Get a closer look at the newly added featured adventurer below.</div><div><br></div><div>Featured adventurer:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/44a47dd58e6e1bbf5d907211370f29b5.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,498</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>Available Modes</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/48f0cf6b6186ad0c7fa467c24cc47eea2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/b8a3b3884cac48715702c5bf401cd8b22.png"><img src="https://dragalialost.akamaized.net/attached/information/images/26f43aab3c39a2bcdadd1b40dd88e7402.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The Flamewyrm hits the beach with a devilishly<br>daring look to overshadow the summer sun.<br>Striking a pose with one of Chelle's signature<br>manacasters, she's aiming for her darling's heart!</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3cc7e63555e75a6121c412637b8b12272.png"></span>
+				<span>Twilit Memory</span>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies,<br>reduces their defense, inflicts shadowblight,<br>and partially fills the user's dragondrive gauge<br>if the attack connects.<br><br>During dragondrive:<br>consumes some of the user's dragondrive gauge,<br>deals damage to surrounding enemies,<br>reduces their defense, inflicts shadowblight,<br>then fills 100% of this skill's skill gauge after use.<br>Also, powers up the user's standard attacks.<br>This standard attack buff will be lost automatically<br>when the effect's remaining time is depleted<br>or when dragondrive is ended.</div><div class="skill-detail">Damage: 513 × 2 hits<br>Skill Energy Required: 3,950<br>Special Effects:<br>・Defense -5%<br>　　Lasts 10 seconds<br>　　Does not stack<br>・Shadowblight<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br>Dragondrive Energy Gained: 300<br><br><color=#00008B>During Dragondrive:</color><br>Damage: 624 × 2 hits<br>Skill Energy Required: 3,950<br>Special Effects:<br>・Defense -5%<br>　　Lasts 10 seconds<br>　　Does not stack<br>・Enhanced Standard Attacks<br>　　Lasts 10 seconds<br>　　Does not stack<br>・Shadowblight<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br>Dragondrive Energy Consumed: 850</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7bd001c2146691a592e7e2b4a13d5ca62.png"></span>
+				<span>A Midsummer Night's Blast</span>
+			</dt>
+			<dd><div>Deals damage to enemies in a line,<br>and grants the user a strength amp.</div><div class="skill-detail">Damage: 1,767 × 1 hit<br>Skill Energy Required: 9,855<br>Amps:<br>・Strength Amp (Team Amp MAX Lv. = 3)<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>Gauge Accelerator +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Speeds the rate the mode gauge decreases<br>by 20%. Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>(Shadow) Dragon Haste +20%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Shadow: <br>increases their dragon gauge fill rate by 20%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bb78ae882a78ef4449c1181d5399204b2.png"></span><span>Summer Sparks II</span></dt><dd><div>Grants the user a dragondrive gauge, and changes<br>the shapeshift button into a dragondrive button.<br>Tapping this button activates their dragondrive.<br><br>Dragondrive grants the following effects:<br>・The user's standard attacks are changed and<br>fill the user's dragondrive gauge if they connect.<br>・The user's strength is increased by 25%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>Paralysis Res +100%</span></dt><dd><div>Reduces susceptibility to paralysis by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>Skill Prep +100%</span></dt><dd><div>Fills 100% of skill gauges at the start of quests.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurer at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. An Alberian Battle Royale skin for the adventurer featured in this summon showcase is on sale, and it costs fewer items to unlock. Note that some adventurers do not have adventurer skins.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1625464800; update_time1624953597

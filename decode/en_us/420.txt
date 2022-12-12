@@ -1,0 +1,114 @@
+article_id:420
+category_name:News
+title_name:A Platinum Showcase Is Now Live!
+image_path:
+
+message:<div>A Platinum Showcase went live <span class="local_date" data-local_date="1556604000"></span>.</div><div><br></div><div>The Platinum Showcase is a limited-time summon showcase that works similar to a tenfold summon, in that one summon will get you 10 results. The difference between a regular tenfold summon and this Platinum Showcase is that a 5★ dragon is guaranteed to appear.</div><div><br></div><div>During the period, players are limited to doing the 5★ dragon guaranteed Platinum Showcase summon only once, and these summons can only be performed with diamantium (purchase required).</div><div><br></div><div>Note: The pool for this showcase includes limited-time 5★ adventurers Marth, Fjorm, and Veronica, but they are not guaranteed summons for this showcase.</div><div><br></div><div>Availability period for the Platinum Showcase:</div><div><span class="local_date" data-local_date="1556604000"></span> to <span class="local_date" data-local_date="1557813540"></span></div><div><br></div><div>Get a closer look at some of the 5★ dragons, one of which is guaranteed to appear in the tenfold summon.</div><div><br></div><div>5★ dragons eligible for guaranteed appearance as the 10th summon:</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5349f84c0a8fb5b3267eb96ffcc08a5b.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>The fire-wielding gatekeeper of the underworld.<br>A free spirit, she often shirks her work in favor of<br>play. The sentient, puppet-like dogs on her hands<br>are called Coco and Mimi, and their intelligence<br>allows them to speak and attack on their own.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/46abce3ca5f53484635af11860f0d2c02.png"></span>
+				<span>Infernal Damnation</span>
+			</dt>
+			<dd>
+				<div>
+					Deals flame damage to the target and nearby enemies,<br>and inflicts burn. Also reduces strength and defense<br>by 5%.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Flame) Strength +60%</span></dt><dd><div>If the user is attuned to Flame: <br>increases strength by 60%.</div></dd></dl></div></div></div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e9af075ff56ad4119ae75b3ec4706adb.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>383</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>113</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>981</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A motherly dragon living a quiet life in the forest.<br>She has been warming the same egg for many<br>hundreds of years, eagerly awaiting the first<br>signs of hatching. To threaten her egg is to<br>incur both a dragon's and a mother's wrath.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/71ec1ea232ae067c124323752959fb9f2.png"></span>
+				<span>Rainbow Bubbles</span>
+			</dt>
+			<dd>
+				<div>
+					Deals water damage to enemies directly ahead,<br>and restores HP to all allies.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>(Water) HP +40%</span></dt><dd><div>If the user is attuned to Water: <br>increases HP by 40%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/561f0cc02896bcc3c7580180041730282.png"></span><span>(Water) Overdrive Punisher +60%</span></dt><dd><div>If the user is attuned to Water: <br>increases damage to enemies in overdrive state<br>by 60%.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent each dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. The Platinum Showcase will be available during the Fire Emblem: Lost Heroes summon showcase, as well. You can move between showcases by using the left/right icons on the Summon screen.</div><div>3. Performing a Platinum Showcase summon will not reset the appearance rate modifier increase for when a 5★ fails to appear after summoning ten times on a regular summon showcase.</div><div>4. For more information, tap Summon on the in-game footer menu, then select Showcase Info, Details, and see the Notes section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1556604000; update_time1556101551

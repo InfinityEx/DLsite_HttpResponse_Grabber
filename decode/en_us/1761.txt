@@ -1,0 +1,220 @@
+article_id:1761
+category_name:News
+title_name:Announcing a Platinum Showcase! Light-Attuned 5★ Adventurer Guaranteed!
+image_path:
+
+message:<div>A Platinum Showcase will start at <span class="local_date" data-local_date="1604642400"></span>.</div><div><br></div><div>The Platinum Showcase is a limited summon showcase that works similarly to a tenfold summon in that one summon will get you 10 results. The difference between a regular tenfold summon and this Platinum Showcase is that a light-attuned 5★ adventurer is guaranteed to appear.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Note: The roster for this summon showcase does not include adventurers and dragons that are attuned to elements other than light.</span></div><div><br></div><div>During the period, players are limited to doing the Platinum Showcase summon two times, and these summons can only be performed with diamantium (purchase required).</div><div><br></div><div>Availability period for the Platinum Showcase:</div><div><span class="local_date" data-local_date="1604642400"></span> to <span class="local_date" data-local_date="1605247199"></span></div><div><br></div><div>Get a closer look at some of the light-attuned 5★ adventurers eligible to appear as the guaranteed 5★ summon.</div><div><br></div><div>Light-attuned 5★ adventurers eligible for guaranteed appearance as the 10th summon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b6166a8b4841be7a490873c301ba8869.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,500</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>Available Modes</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/48f0cf6b6186ad0c7fa467c24cc47eea2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/b8a3b3884cac48715702c5bf401cd8b22.png"><img src="https://dragalialost.akamaized.net/attached/information/images/26f43aab3c39a2bcdadd1b40dd88e7402.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>An alchemist of unparalleled talents, so much<br>so that she was successfully able to create the<br>legendary omega key. After the death of her<br>parents, she was raised by a faerie. She yearns<br>to be free, but the world is greedy for her talents.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/775392a8a09a554df496b2a54960c3e62.png"></span>
+				<span>Drive Buster</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals light damage to multiple targets, and<br>inflicts flashburn. If the user has one or more<br>alchemic cartridges, it will deal light damage<br>to enemies in a line, inflict flashburn,<br>and consume one alchemic cartridge.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>Alchemic Enhancement</span>
+			</dt>
+			<dd>
+				<div>
+					Unlocking this skill grants the user<br>an alchemy gauge. If the user does not<br>have any alchemic cartridges,<br>the alchemy gauge will fill when<br>standard attacks, dodge attacks, or<br>force strikes connect with enemies.<br>The alchemy gauge charges faster when<br>the combo count is 30 or higher.<br><br>This skill can only be used when the user's<br>alchemy gauge has one or more charges.<br><br>Grants the user an alchemic cartridge<br>for each charge of the alchemy gauge.<br>These cartridges last for 20 seconds.<br>Alchemic cartridges grant the user<br>a unique force strike that consumes<br>all remaining alchemic cartridges.<br>The number of hits this unique force<br>strike deals is based on the number<br>of alchemic cartridges consumed.<br><br>If the user has one or more alchemic<br>cartridges, this skill will instead deal<br>light damage to enemies directly ahead,<br>and consume one alchemic cartridge.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>Gauge Accelerator +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Speeds the rate the mode gauge decreases<br>by 20%. Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>(Light) Above 10 Hits = Shadow Res +10%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Light: <br>reduces shadow damage taken by them by 10%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3c27f8fc4d7206c65512f3f2c27c30762.png"></span><span>Enigma II</span></dt><dd><div>Dodging will carry out an additional<br>attack toward the target.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>Epiphany II</span></dt><dd><div>Reduces susceptibility to poison<br>and curses by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>Critical Output II</span></dt><dd><div>Increases Ilia's critical rate by 30% for<br>15 seconds when an alchemic cartridge<br>is consumed by any means other than<br>depletion of time.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b5a8f45c62445971622f8dd9c056e327.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>767</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>492</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Mikoto has found a slick swimsuit that helps him<br>surf the waves. He continues to search for his<br>beloved cat Mineuchi, a journey that takes him to<br>a beach said to have wave-riding felines. He's<br>also taken up a bow to land fish for cat friends.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/90d8cd6109c5aa230672ce95592b1e492.png"></span>
+				<span>Radiant Bolt</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals light damage to the target and nearby enemies,<br>and inflicts paralysis. When the user has the<br>Illuminating Sunlight and Celestial Wavelight effects,<br>the Sun and Sea ability will make this skill deal more<br>damage, and deal extra damage to paralyzed foes.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>Magnanimity's Call</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the user's strength by 20% for 30 seconds.<br>When the user has the Illuminating Sunlight and<br>Celestial Wavelight effects, the Sun and Sea ability<br>will make this skill also increase the user's<br>critical rate by 20% for 30 seconds,<br>and add 15% to the modifier applied<br>to critical damage for 30 seconds.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>Skill Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases skill gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>(Light) Paralysis = User Shadow Res +8%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Light:<br>reduces shadow damage taken by them by 8%<br>for 15 seconds when they successfully paralyze<br>an enemy. After activating, this ability will not<br>activate again for 10 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/0c5841f62a44ce904527e0e5e75265e52.png"></span><span>Sun and Sea II</span></dt><dd><div>Increases defense by 5%, grants the user a<br>unique force strike, and grants the user the<br>"Sunlight" effect for 12 seconds at the start<br>of quests. Using a force strike while the user<br>has the Sunlight effect grants the user the<br>Illuminating Sunlight effect, which will not stack.<br>After the Sunlight effect ends, the user will be<br>granted the "Wavelight" effect for 12 seconds.<br>Using a force strike while the user has the<br>Wavelight effect grants the user the<br>Celestial Wavelight effect, which will not stack.<br>After the Wavelight effect ends, the user will be<br>granted the Sunlight effect for 12 seconds again.<br>If the user has both the Illuminating Sunlight and<br>Celestial Wavelight effects, the Radiant Bolt and<br>Magnanimity's Call skills will be powered up.<br>Using either powered-up skill will consume<br>both the Illuminating Sunlight and<br>Celestial Wavelight effects. Sunlight and<br>Wavelight are not extended by Buff Time abilities.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>Curse Res +100%</span></dt><dd><div>Reduces susceptibility to curses by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5928d08635cbad73278c1391505a73392.png"></span><span>Paralyzed Shredder II</span></dt><dd><div>Increases critical rate by 20% and adds 15%<br>to the modifier applied to critical damage<br>against paralyzed enemies.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Notes:</div><div>1. For more information about the Platinum Showcase, tap Summon on the in-game footer menu, then select the Platinum Showcase and check the Appearance Rates section and the Details tab of the Showcase Info section.</div><div>2. Wyrmsigils cannot be earned from summoning on a Platinum Showcase.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1604556000; update_time1604307734

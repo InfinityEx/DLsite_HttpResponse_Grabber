@@ -1,0 +1,8 @@
+article_id:957
+category_name:Events
+title_name:A New Raid Event, New Year's Tidings: A Clawful Caper, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/4043d5a707b7b9dcc7c9d5e5af2f6ef1.png
+
+message:<div>The New Year&#39;s Tidings: A Clawful Caper raid event will begin <span class="local_date" data-local_date="1577772000"></span>!</div><div><br></div><div>During this event, you can use co-op play to fight against the shadow-attuned raid boss.</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/4043d5a707b7b9dcc7c9d5e5af2f6ef1.png"></div><div>This New Year&#39;s is bright and lively! A wyrmclan leader named Mitsuhide has arrived, bringing a chaotic cohort of companions along with her! Mitsuhide is here to deliver blessings, but Ebisu, a feline dragon, has made off with all of the gifts she brought!<br><br>Now it&#39;s up to a mouse dragon, the cutest boy in the land, a master of Hinomotoan dance, and yet another wyrmclan leader to work together and take action to recover the gifts! This clawful caper is just getting started!<br><br>Notes:<br>1. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate in event quests.<br>2. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign in order to play co-op.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1577426400; update_time1577519613

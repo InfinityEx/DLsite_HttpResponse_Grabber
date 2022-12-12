@@ -1,0 +1,170 @@
+article_id:1589
+category_name:News
+title_name:A Platinum Showcase Is Now Live! 5★ Dragon Guaranteed!
+image_path:
+
+message:<div>A Platinum Showcase went live <span class="local_date" data-local_date="1600668000"></span>.</div><div><br></div><div>The Platinum Showcase is a limited summon showcase that works similarly to a tenfold summon in that one summon will get you 10 results. The difference between a regular tenfold summon and this Platinum Showcase is that a 5★ dragon is guaranteed to appear.</div><div><br></div><div>During the period, players are limited to doing the Platinum Showcase summon two times, and these summons can only be performed with diamantium (purchase required).</div><div><br></div><div>Availability period for the Platinum Showcase:</div><div><span class="local_date" data-local_date="1600668000"></span> to <span class="local_date" data-local_date="1601186399"></span></div><div><br></div><div>Get a closer look at some of the 5★ dragons eligible to appear as the guaranteed 5★ summon.</div><div><br></div><div>5★ dragons eligible for guaranteed appearance as the 10th summon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/aadbcea0b8fb0ed6be29d52317837773.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,096</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>One of the six legendary Greatwyrms who once<br>accompanied the Founder King. Also known as<br>the Netherwyrm, he wandered the abyss of death<br>after his defeat, but now spreads his wings to<br>stop the Other and fulfill his liege's dearest wish.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>Immortal Spirit</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to the target<br>and nearby enemies, and inflicts poison.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Shadow) Strength & Dragon's Might V</span></dt><dd><div>If the user is attuned to Shadow: <br>increases strength by 55%, and increases strength<br>by a further 10% for the remainder of the quest upon<br>shapeshifting, up to twice per quest.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/4b6b9fce46eb2f24a397e5ed56cde1b8.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,095</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>An anti-air dragon from the militant dragon<br>group Pravda. He has a strong sense of<br>integrity, and fights alongside humankind<br>despite the ancient laws that would forbid<br>such an alliance.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>Shredding Storm</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to enemies in a line.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Wind) Strength +50%</span></dt><dd><div>If the user is attuned to Wind: <br>increases strength by 50%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>(Wind) Dauntless Rampart II</span></dt><dd><div>If the user is attuned to Wind: <br>grants them a one-use divergent shield that nullifies<br>damage less than 40% of the user's maximum HP<br>every 15 seconds that pass without the user being<br>knocked back by an enemy. Divergent shields can<br>stack with ordinary shields. Also, the user's strength<br>is increased by 30% while this shield is active.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e2a4bdd92f2add4de3bf93d8e8b9efc2.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,095</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>The dragon guardian of South Grastaea's rivers,<br>with much variance between immature and<br>mature forms. A normally friendly dragon,<br>witnessing humans breaking a certain taboo<br>causes it to produce troublesome copies of itself.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>Frigid Blast</span>
+			</dt>
+			<dd>
+				<div>
+					Deals water damage to enemies in a line.<br>Damage will be increased based on the number<br>of Ice Spirit stacks the user has. Ice Spirit stacks<br>are gained through Styx's normal attacks, and can<br>stack up to three times. All Ice Spirit stacks<br>will be consumed when the user uses this skill,<br>or when their shapeshift is undone.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>(Water) Compounding Skill Damage V</span></dt><dd><div>If the user is attuned to Water:<br>increases the damage of the next attack skill<br>by 50% for every 15 seconds that pass.<br>This buff can stack up to four times.<br>All stacks will be lost upon using an attack skill.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent each dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about the Platinum Showcase, tap Summon on the in-game footer menu, then select the Platinum Showcase and check the Appearance Rates section and the Details tab of the Showcase Info section.</div><div>2. The Platinum Showcase will be available during other showcases, including the Summon Showcase: Dragon Special. You can move between showcases by using the left/right icons on the Summon screen.</div><div>3. Performing a Platinum Showcase summon will not reset the appearance rate modifier increase for when a 5★ fails to appear after summoning ten times on another showcase, such as the Summon Showcase: Dragon Special.</div><div>4. For more information, tap Summon on the in-game footer menu, then select Showcase Info, Details, and see the Notes section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1600668000; update_time1600240166

@@ -1,0 +1,8 @@
+article_id:2970
+category_name:Events
+title_name:A Raid Event Revival, Celestial Showdown, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/907881ea4eaf42645a87860518677642.png
+
+message:<div>The Celestial Showdown raid event revival begins on <span class="local_date" data-local_date="1668060000"></span>!<br>During this event, you can use co-op play to fight against a raid boss with no elemental attunement.<br><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/907881ea4eaf42645a87860518677642.png"></div><div>This event&#39;s theme song is &quot;I will be stronger with you&quot; by Honoka Watanabe.<br><br>■Event Duration<br><span class="local_date" data-local_date="1668060000"></span> to <span class="local_date" data-local_date="1669010399"></span><br><br>■Notes<br>1. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate in event quests.<br>2. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to play co-op.<br><br>Thank you for playing Dragalia Lost.<br><br></div>
+
+start_time:1667800800; update_time1646728215

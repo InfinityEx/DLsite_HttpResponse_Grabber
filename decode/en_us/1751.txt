@@ -1,0 +1,210 @@
+article_id:1751
+category_name:News
+title_name:Adding the Mana Spiral to More Adventurers!
+image_path:
+
+message:<div>A sixth mana circle, the mana spiral, will be added to certain adventurers starting <span class="local_date" data-local_date="1604468400"></span>.</div><div><br></div><div>The adventurers affected this time and their stats are described below.</div><div>Note: When an adventurer&#39;s skill level increases, the skill gauge will fill more slowly when set as a shared skill.</div><div><br></div><div>■Affected Adventurers</div><div>5★ Laranoa (water/bow)</div><div>4★ Renee (water/dagger)</div><div><br></div><div>■Stats</div><div><br></div><div>・5★ adventurer</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/f0e3880b083e029e04cf9a5b12fea94b2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">Laranoa</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>966</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>562</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,228</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/bed50bf6f65f5dd9e3905c40d2e039bf2.png"></span>
+				<span>Vivid Volley</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals water damage to enemies in a line,<br>and inflicts frostbite.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>Hunter's Intuition</span>
+			</dt>
+			<dd>
+				<div>
+					For 15 seconds, increases the user and nearby<br>allies' strength by 20% and skill gauge fill rate<br>by 25%. Also grants the user the following additional<br>buffs based on the number of adventurers who were<br>buffed by this skill, including the user:<br>One or more adventurers: Increases defense by 10%<br>for 10 seconds.<br>Two or more adventurers: Increases critical rate by<br>10% for 10 seconds.<br>Three or more adventurers: Immediately readies the<br>user's initial skill, displayed at the top of their<br>skill list, for use.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>Skill Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases skill gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>(Water) Above 10 Hits = Flame Res +10%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water: <br>reduces flame damage taken by them by 10%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>15 Hits = Critical Damage +10%</span></dt><dd><div>Adds 10% to the modifier applied to critical damage<br>for 20 seconds for every 15-hit combo.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f9540aa3b892c485f82bfd1ef78b1b72.png"></span><span>Potent Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.<br>When the user is hit by an attack that would have<br>stunned them, their strength is increased by 15%<br>for 10 seconds. After activating, this buff will not<br>activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>Skill Damage +35%</span></dt><dd><div>Increases attack skill damage by 35%.</div></dd></dl></div></div></div><div><br></div><div>・4★ adventurer</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/a589a441ec769490d88c60b272fa71e72.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">Renee</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>932</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>550</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,142</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>Droplet Slash</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>3</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals water damage to enemies directly ahead,<br>inflicts bog, and reduces their defense by 5% for 10 <br>seconds. This defense reduction effect will not stack.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd5464d0aeb6d41964c19ee25f922b922.png"></span>
+				<span>Drenching Strike</span>
+			</dt>
+			<dd>
+				<div>
+					Deals water damage to surrounding enemies,<br>increases the user's defense by 20% for<br>20 seconds, and activates "Cooling Master."<br>When this effect is active, the user's next<br>force strike will inflict freeze.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>Critical Rate +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases critical rate by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span>
+				<span>(Water) Buff Skill Time +9%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water:<br>increases duration of their buff skills by 9%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>Primed Devastation +10%</span></dt><dd><div>Increases the critical rate of the adventurer you<br>are currently controlling by 10% for 5 seconds<br>every time their initial skill, displayed at the<br>top of their skill list, becomes available for use.<br>After activating, this ability will not<br>activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f9540aa3b892c485f82bfd1ef78b1b72.png"></span><span>Potent Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.<br>When the user is hit by an attack that would have<br>stunned them, their strength is increased by 15%<br>for 10 seconds. After activating, this buff will not<br>activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>Healing Doublebuff II (Team)</span></dt><dd><div>Grants an HP regen buff to the entire team<br>for 20 seconds each time a defense up buff<br>is received.</div></dd></dl></div></div></div><div><br></div><div><br></div><div><br></div><div>Notes:</div><div>1. The stats shown here represent the adventurer at level 100 with 70 mana nodes unbound.</div><div>2. The stats shown here do not include increases or decreases due to abilities.</div><div>3. The stats for the adventurer included in this notification shown in any prior notifications or preview videos were the stats at level 80 with 50 mana nodes unbound.</div><div>4. When an adventurer&#39;s skill level increases, the skill gauge will fill more slowly when set as a shared skill.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1604383200; update_time1604051448

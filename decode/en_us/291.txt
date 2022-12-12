@@ -1,0 +1,8 @@
+article_id:291
+category_name:News
+title_name:New Prelude Difficulty Added to High Midgardsormr's Trial!
+image_path:
+
+message:<div>Greetings, adventurers!</div><div><br></div><div>We&#39;re pleased to inform you that a new difficulty, Prelude, was added to High Midgardsormr&#39;s Trial at <span class="local_date" data-local_date="1552284000"></span>.</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/afbd880894a55224e6b2581b79d09e84.png"></div><div>The true power of High Midgardsormr has been unleashed... Is your team strong enough to stand against him?</div><div><br></div><div>■You cannot obtain the epithet by clearing Prelude difficulty.</div><div>■Rewards differ from those for High Midgardsormr&#39;s Trial.</div><div>■The weekly bonus for Advanced Dragon Trials also applies to High Midgardsormr&#39;s Trial: Prelude.</div><div>Note: due to the above, the weekly bonus rewards for the High Dragon Trials will be adjusted.</div><div><br></div><div>Notes:</div><div>1. In order to challenge High Midgardsormr&#39;s Trial: Prelude, a player&#39;s team must have 11,000 might or higher.</div><div>2. Players must have completed Midgardsormr&#39;s Trial: Master to challenge High Midgardsormr&#39;s Trial: Prelude.</div><div>3. Players must have completed up to Chapter 2 / 2-1 (Normal) of the campaign in order to play co-op.</div><div><br></div><div>Thank you for playing Dragalia Lost. And good luck!</div>
+
+start_time:1552284000; update_time1552278870

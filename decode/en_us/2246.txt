@@ -1,0 +1,154 @@
+article_id:2246
+category_name:News
+title_name:Announcing a Prize Showcase!
+image_path:
+
+message:<div>A Prize Showcase kicks off on <span class="local_date" data-local_date="1622700000"></span>. Appearance rates for featured adventurers and dragons will be boosted during this showcase!</div><div><br></div><div>When you summon on the Prize Showcase, you will get a prize in addition to the adventurer or dragon who appears. <span style="color: rgb(226, 80, 65);">Prizes will be sent to the No Limit tab of your goodie box.</span></div><div><br></div><div>There are six categories of prize: platinum prize, gold prize, silver prize, bronze prize, fifth prize, and sixth prize. When you perform a tenfold summon, the tenth prize is guaranteed to be either a platinum, gold, silver, or bronze prize. Note that unlike tenfold summons, using 10 single summon vouchers at once doesn&#39;t guarantee that the tenth prize will be a platinum, gold, silver, or bronze prize.</div><div><br></div><div>For a full list of prizes and their appearance rates, tap Summon on the in-game footer menu when the Prize Showcase is active, then see Prizes under Appearance Rates.</div><div><br></div><div>Newly added featured adventurer and dragon:</div><div><br></div><div>■Adventurer</div><div>5★ Isaac (light/bow)</div><div><br></div><div>■Dragon</div><div>5★ Raphael (light)</div><div><br></div><div>Availability period for the Prize Showcase:</div><div><span class="local_date" data-local_date="1622700000"></span> to <span class="local_date" data-local_date="1623736799"></span></div><div><br></div><div>Get a closer look at some of the prizes below.</div><div><br></div><div>■Platinum Prize</div><div>If you receive a platinum prize, you will receive one of the following, based on their appearance rates.</div><div>・Sunlight Stone &times; 1</div><div>・Damascus Ingot &times; 1</div><div>・Adamantite Ingot &times; 1</div><div><br></div><div>■Gold Prize</div><div>If you receive a gold prize, you will receive one of the following, based on their appearance rates.</div><div>・Sunlight Ore &times; 3</div><div>・Champion&#39;s Testament &times; 2</div><div>・Golden Key &times; 2</div><div>・Twinkling Sand &times; 7</div><div><br></div><div>■Silver Prize</div><div>If you receive a silver prize, you will receive one of the following, based on their appearance rates.</div><div>・Champion&#39;s Testament &times; 1</div><div>・Sunlight Ore &times; 1</div><div>・Twinkling Sand &times; 3</div><div>・Damascus Crystal &times; 2</div><div>・Moonlight Stone &times; 2</div><div>・Knight&#39;s Testament &times; 2</div><div>・High Lightwyrm&#39;s Tail &times; 3</div><div>・High Waterwyrm&#39;s Tail &times; 3</div><div>・Lightwyrm&#39;s Greatsphere &times; 5</div><div>・Waterwyrm&#39;s Greatsphere &times; 5</div><div>・Rainbow Orb &times; 3</div><div>・Resplendence Orb &times; 5</div><div>・Tsunami Orb &times; 5</div><div><br></div><div>Get a closer look at the newly added featured adventurer and dragon below.</div><div><br></div><div>Featured adventurer:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/36aeedc4d52e0017ff566b9b8c2c2b4c.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>808</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>469</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,517</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A watchman from the sylvan holy land of Initio<br>in North Grastaea and protector of the dragon<br>Yggdrasil. A staunch advocate of sylvan laws<br>and traditions, he considers it his sworn duty<br>to pass them down to the next generation.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3d61034215be89a7fcc68fb9ccff4c3b2.png"></span>
+				<span>Wealdfury</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead, and<br>activates one of the following effects at random:<br>・Increases the user's strength.<br>・Increases the user's attack rate.<br>・Gradually recovers the user's HP.<br>・Gradually fills the user's skill gauges.<br><br>This skill also creates a buff zone that grants the same<br>effect as the buff applied to the user by this skill.</div><div class="skill-detail">Damage: 800 × 1 hit<br>Damage: 75 × 4 hits<br>Skill Energy Required: 2,835<br>Skill Energy Required (Shared Skill): 13,267<br>Special Effects:<br>・Verdure Blessing (Strength Up)<br>　　Strength +5%<br>　　Lasts 10 seconds<br>・Verdure Blessing (Attack Rate Up)<br>　　Attack Rate +5%<br>　　Lasts 10 seconds<br>・Verdure Blessing (HP Regen)<br>　　Lasts 10 seconds<br>　　Triggers every 2.9 seconds<br>　　Potency: 10<br>・Verdure Blessing (Skill Charger)<br>　　Lasts 10 seconds<br>　　Triggers every 1 second<br>　　Potency: 2%<br>Buff Zones (10 Second Duration):<br>・Verdure Blessing (Strength Up)<br>　　Strength +10%<br>・Verdure Blessing (Attack Rate Up)<br>　　Attack Rate +10%<br>・Verdure Blessing (HP Regen)<br>　　Triggers every 2.9 seconds<br>　　Potency: 20<br>・Verdure Blessing (Skill Charger)<br>　　Triggers every 1 second<br>　　Potency: 2%</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/90d8cd6109c5aa230672ce95592b1e492.png"></span>
+				<span>Lightning Hunt</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead.</div><div class="skill-detail">Damage: 1,500 × 1 hit<br>Skill Energy Required: 7,475<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>Skill Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases skill gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>(Light) Poised Shadow Res +7%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Light: <br>reduces shadow damage taken by them by 7%<br>when they are in a buff zone.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Guardsman of the Verdure II</span></dt><dd><div>Using Wealdfury grants the user a strength amp<br>with a maximum team amp level of two.<br>Also, the user's shadow resistance is increased<br>by 5% when they are in a buff zone.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>Poison Res +100%</span></dt><dd><div>Reduces susceptibility to poison by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Poised Strength +20%</span></dt><dd><div>Increases strength by 20%<br>when the user is in a buff zone.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here do not include increases or decreases due to abilities, and represent the adventurer at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/0538c8ad400b45c0ec9b0fff9294b5bd.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>One of the dragons known as the Five Archangels.<br>Optimistic and open-minded in nature, her<br>physical might belies her talent for healing.<br>She is currently on a journey to aid any and<br>all in need of her angelic succor.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>Angelic Justice</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead, and<br>immediately readies the user's second skill for use.</div><div class="skill-detail">Damage: 650 × 1 hit<br>Damage: 800 × 1 hit<br>Damage: 950 × 1 hit<br>Special Effects:<br>・Skill Prep<br>　　Potency: 100%</div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Light) Strength +60%</span></dt><dd><div>If the user is attuned to Light: <br>increases strength by 60%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>(Light) Raphael's Aid II</span></dt><dd><div>If the user is attuned to Light:<br>when the user takes damage, restores their HP,<br>and grants them the "Raphael's Aid" effect for<br>30 seconds. During Raphael's Aid, the user's<br>defense is increased by 50%. After activating,<br>this ability will not activate again for 60 seconds.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For a list of prizes and their appearance rates, tap Summon on the in-game footer menu, and see Prizes under Appearance Rates.</div><div>3. If you obtain duplicate items from a tenfold summon or from using 10 single summon vouchers at once, the item quantities for each item will be combined when sent to the No Limit tab of your goodie box.</div><div>4. An Alberian Battle Royale skin for the adventurer featured in this summon showcase will be on sale and will cost fewer items to unlock. Note that some adventurers do not have adventurer skins.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1622613600; update_time1622598673

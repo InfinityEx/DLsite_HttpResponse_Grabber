@@ -1,0 +1,208 @@
+article_id:1559
+category_name:News
+title_name:A Platinum Showcase Is Now Live! Shadow-Attuned 5★ Adventurer Guaranteed!
+image_path:
+
+message:<div>A Platinum Showcase went live <span class="local_date" data-local_date="1599458400"></span>.</div><div><br></div><div>The Platinum Showcase is a limited summon showcase that works similarly to a tenfold summon in that one summon will get you 10 results. The difference between a regular tenfold summon and this Platinum Showcase is that a shadow-attuned 5★ adventurer is guaranteed to appear.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Note: The roster for this summon showcase does not include adventurers and dragons that are attuned to elements other than shadow.</span></div><div><br></div><div>During the period, players are limited to doing the Platinum Showcase summon two times, and these summons can only be performed with diamantium (purchase required).</div><div><br></div><div>Availability period for the Platinum Showcase:</div><div><span class="local_date" data-local_date="1599458400"></span> to <span class="local_date" data-local_date="1599890399"></span></div><div><br></div><div>Get a closer look at some of the shadow-attuned 5★ adventurers eligible to appear as the guaranteed 5★ summon.</div><div><br></div><div>Shadow-attuned 5★ adventurers eligible for guaranteed appearance as the 10th summon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/60d49ef40a83022757b0bf37d2cbf5a0.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>797</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>477</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,504</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>One of the apostles of the northern Ilian Church.<br>Though he normally adopts a lackadaisical<br>demeanor, he possesses keen insight and excels<br>in battlefield strategy. He has formed a Sigil with<br>the angel Ramiel, and looks to him like a father.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>Victoria Strategy</span>
+			</dt>
+			<dd>
+				<div>
+					Creates a buff zone that lasts for 10 seconds<br>and increases the strength of shadow-attuned<br>adventurers inside it by 25%. During Sigil Released,<br>this skill also reduces light damage taken by the<br>entire team by 20% for 10 seconds.<br>This damage reduction effect will not stack.
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/48ad4816ddb1b05918d1b08ce53e562f2.png"></span>
+				<span>Magnus Apocalypse</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to the target<br>and nearby enemies, and decreases<br>the remaining time of Locked Sigil<br>by 60 seconds if the attack connects.<br>During Sigil Released, this skill instead<br>deals shadow damage to the target<br>and nearby enemies, and deals bonus<br>damage to enemies in buff zones created<br>by both the user and other adventurers.<br>Bonus damage will be greater against<br>enemies in buff zones created by the user.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>Critical Rate +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases critical rate by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span>
+				<span>(Shadow) Above 10 Hits = Light Res +10%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Shadow: <br>reduces light damage taken by them by 10%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>Ramiel's Covenant II</span></dt><dd><div>Inflicts the "Locked Sigil" debuff on the user at<br>the start of quests for 300 seconds, and grants the user<br>a unique force strike that cannot deal damage,<br>but gradually heals the user while charging.<br>The Locked Sigil debuff cannot be removed by<br>shapeshifting or incapacitation, but shapeshifting<br>will reduce its remaining time by 240 seconds.<br>When the Locked Sigil effect wears off, the user<br>will be granted the "Sigil Released" effect instead,<br>powering up the "Victoria Strategy" and<br>"Magnus Apocalypse" skills and allowing<br>the user to summon Revelation Swords<br>for 12 seconds at the expense of 10% of the<br>user's HP by tapping the screen at the end<br>of a standard attack combo.<br>These Revelation Swords will attack automatically,<br>but their attacks will not be treated<br>as standard attacks.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>Blindness Res +100%</span></dt><dd><div>Reduces susceptibility to blindness by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>Critical Damage +20%</span></dt><dd><div>Adds 20% to the modifier applied to critical damage.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/45c4e035880a6a2ae27b9a57208388b7.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/1fc4080420e16a67744809f28590c98b2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>804</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>470</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,514</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A widow in constant mourning for her deceased<br>husband who hopes to join him by having her life<br>taken by his murderer. To her, ongoing grief is<br>love—so as her love endures, she will never<br>change out of her mourning dress.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dcaa6a19b847a492e179bfe23fc6ec6d2.png"></span>
+				<span>Sorrow's Requiem</span>
+			</dt>
+			<dd>
+				<div>
+					If the user's HP is below 40% of max HP<br>when using this skill, increases the entire team's<br>defense by 30% for 15 seconds.<br>If the user's HP is above or equal to 40% of max HP,<br>reduces their HP to 30% of max HP and grants the<br>entire team a "Life Shield" that nullifies damage<br>relative to the amount of HP lost by the user<br>when using this skill.<br>This shield can stack with ordinary shields.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8c34fcb89d5a300e55bf63bd264927542.png"></span>
+				<span>Earnest Prayer</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the entire team's defense by 100%<br>for 5 seconds.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/fd589517c61c65312e1509e13a36cd412.png"></span>
+				<span>Force Strike +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases force strike damage by 20%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span>
+				<span>(Shadow) HP Below 40% = Shield VI</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Shadow:<br>grants them a one-use shield that nullifies<br>damage less than 50% of their maximum HP<br>when their HP drops to 40%. This does not stack<br>with any other shields.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f9c2d9288412c72cf2277b7580c4fe5d2.png"></span><span>Mournful Heart II</span></dt><dd><div>Grants the user a unique force strike,<br>and increases force strike damage by 30%.<br>Their force strike dispels one buff from an enemy,<br>and restores 10% of the damage inflicted as HP<br>to the user. This recovery caps at 5% of their<br>maximum HP.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>Blindness Res +100%</span></dt><dd><div>Reduces susceptibility to blindness by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>Healing Doublebuff IV</span></dt><dd><div>Grants an HP regen buff for 20 seconds each<br>time a defense up buff is received.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about the Platinum Showcase, tap Summon on the in-game footer menu, then select the Platinum Showcase and check the Appearance Rates section and the Details tab of the Showcase Info section.</div><div>2. The Platinum Showcase will be available during other showcases, including the Shadow Focus. You can move between showcases by using the left/right icons on the Summon screen.</div><div>3. Performing a Platinum Showcase summon will not reset the appearance rate modifier increase for when a 5★ fails to appear after summoning ten times on another showcase, such as the Shadow Focus.</div><div>4. For more information, tap Summon on the in-game footer menu, then select Showcase Info, Details, and see the Notes section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1599458400; update_time1598959539

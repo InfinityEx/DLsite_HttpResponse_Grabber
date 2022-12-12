@@ -1,0 +1,218 @@
+article_id:1853
+category_name:News
+title_name:Announcing a Platinum Showcase! Flame-Attuned 5★ Adventurer Guaranteed!
+image_path:
+
+message:<div>A Platinum Showcase will start at <span class="local_date" data-local_date="1608530400"></span>.</div><div><br></div><div>The Platinum Showcase is a limited summon showcase that works similarly to a tenfold summon in that one summon will get you 10 results. The difference between a regular tenfold summon and this Platinum Showcase is that a flame-attuned 5★ adventurer is guaranteed to appear.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Note: The roster for this summon showcase does not include adventurers and dragons that are attuned to elements other than flame.</span></div><div><br></div><div>During the period, players are limited to doing the Platinum Showcase summon two times, and these summons can only be performed with diamantium (purchase required).</div><div><br></div><div>Availability period for the Platinum Showcase:</div><div><span class="local_date" data-local_date="1608530400"></span> to <span class="local_date" data-local_date="1609135199"></span></div><div><br></div><div>Get a closer look at some of the flame-attuned 5★ adventurers eligible to appear as the guaranteed 5★ summon.</div><div><br></div><div>Flame-attuned 5★ adventurers eligible for guaranteed appearance as the 10th summon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/9f22dda64c1fea99ae1b3aff9ecb1666.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/1fc4080420e16a67744809f28590c98b2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>805</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>469</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,524</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Garbed in a nostalgic yukata, the former court<br>sorceress soothes wandering souls with her staff<br>of healing. What drives her to wreathe herself in<br>such bittersweet memories? Does she seek to<br>overcome old regrets, or is her objective new?</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3b9d73b6d9d0f95096ff35ca8a12469d2.png"></span>
+				<span>Goldfish of the Hereafter</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Restores HP to all teammates and grants all<br>teammates the "Fluorescent Fish" effect for 30<br>seconds. Fluorescent Fish grants overdamage<br>based on 40% of the user's strength.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>Ritual of Soul Cleansing</span>
+			</dt>
+			<dd>
+				<div>
+					Gradually recovers the entire team's HP for 15 seconds.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>Recovery Potency +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the potency of recovery skills by 20%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Flame) Taking Damage = Strength +13%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Flame: <br>increases their strength by 13% for 15 seconds<br>when they take damage. After activating,<br>this ability will not activate again for 5 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Full HP = Strength +20%</span></dt><dd><div>Increases strength by 20% when HP is full.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Skill 2 Filled = Strength +30%</span></dt><dd><div>Increases the user's strength by 30%<br>while their second skill is available for use.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/444923c9525b067e04f80709bb02d9c2.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>742</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The middle child of the blacksmith sisters,<br>blessed with the ability to manipulate the<br>temperature of flames. Gruff yet responsible,<br>she leads her sisters in honoring their father's<br>legacy with unyielding passion.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>Forge Buster</span>
+			</dt>
+			<dd>
+				<div>
+					Deals flame damage to surrounding enemies.<br>Burned foes take extra damage.<br>Increases critical rate by 10% for 10 seconds,<br>and continually tapping the screen during<br>the attack will unleash additional blows,<br>with up to a maximum of six.<br>Changing direction is possible during these additional<br>blows.
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8c34fcb89d5a300e55bf63bd264927542.png"></span>
+				<span>Smith Shield</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Increases the entire team's defense by 25%<br>for 15 seconds.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>Defense +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases defense by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Flame) HP 60% = Strength +6%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Flame: <br>increases their strength by 6%<br>when their HP is 60% or above.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Primed Strength +10%</span></dt><dd><div>Increases the strength of the adventurer you<br>are currently controlling by 10% for 10 seconds<br>every time their initial skill, displayed at the<br>top of their skill list, becomes available for use.<br>After activating, this ability will not<br>activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>Sleep Res +100%</span></dt><dd><div>Reduces susceptibility to sleep by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Strength Doublebuff +13%</span></dt><dd><div>Increases strength by 13% for 15 seconds each time<br>a defense up buff is received.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Notes:</div><div>1. For more information about the Platinum Showcase, tap Summon on the in-game footer menu, then select the Platinum Showcase and check the Appearance Rates section and the Details tab of the Showcase Info section.</div><div>2. Wyrmsigils cannot be earned from summoning on a Platinum Showcase.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1608444000; update_time1608028924

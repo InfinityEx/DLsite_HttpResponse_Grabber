@@ -1,0 +1,8 @@
+article_id:2256
+category_name:News
+title_name:The Onslaught Event Bonus Is Live!
+image_path:https://dragalialost.akamaized.net/attached/information/images/045a648fb010efadedb79aa78b0f93b3.png
+
+message:<div>The Onslaught Event Bonus started on <span class="local_date" data-local_date="1623391200"></span>!</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/045a648fb010efadedb79aa78b0f93b3.png"></div><div>Log in during the bonus to get gifts such as items and wyrmite.</div><div><br></div><div>■Log-In Bonus Content</div><div>Day 1: Exquisite Honey &times; 20</div><div>Day 2: Wyrmite &times; 400</div><div>Day 3: Rupie &times; 1,000,000</div><div>Day 4: Gold Crystal &times; 200</div><div>Day 5: Rupie &times; 1,000,000</div><div>Day 6: Rainbow Orb &times; 20</div><div>Day 7: Champion&#39;s Testament &times; 1</div><div><br></div><div>■Event Duration</div><div><span class="local_date" data-local_date="1623391200"></span> to <span class="local_date" data-local_date="1624946399"></span></div><div><br></div><div>Notes:</div><div>1. The log-in bonus will be sent to your goodie box every day after 6:00 AM when you log in.</div><div>2. Gifts sent as log-in bonuses can only be accepted for a limited time.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1623391200; update_time1622792875

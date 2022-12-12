@@ -1,0 +1,8 @@
+article_id:16
+category_name:News
+title_name:A gift to commemorate the first event!
+image_path:
+
+message:<div>The first Dragalia Lost event, Loyalty&#39;s Requiem, began at <span class="local_date" data-local_date="1538632800"></span>.</div><div>To commemorate this event, we&#39;re giving players the items listed below.</div><div>You can put them to good use as you adventure through Loyalty&#39;s Requiem!</div><div><br></div><div>■The gift:</div><div>・Tenfold Summon Voucher x1</div><div>・Quality Honey x3</div><div>・Blessed Ethon Ashes x6</div><div><br></div><div>■Who gets it:</div><div>Anyone who plays Dragalia Lost before <span class="local_date" data-local_date="1539583199"></span>.</div><div><br></div><div>■How to claim it:</div><div>You can claim the gift from your goodie box via the Home screen.</div><div>If it doesn&#39;t appear in your goodie box, return to the title screen and try again.</div><div><br></div><div>Thank you for playing Dragalia Lost!</div>
+
+start_time:1538632800; update_time1540519212

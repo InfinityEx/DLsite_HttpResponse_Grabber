@@ -1,0 +1,8 @@
+article_id:116
+category_name:Updates
+title_name:Automatic Update Rescheduled
+image_path:
+
+message:<div>In our November 26 announcement we indicated that an automatic update was scheduled to occur around <span class="local_date" data-local_date="1543374000"></span>. However, this automatic update will be rescheduled as per below.</div><div><br></div><div>■Rescheduled Automatic Update Time</div><div>Around <span class="local_date" data-local_date="1543546800"></span></div><div><br></div><div>■Details</div><div>This automatic update is being rescheduled to fix an issue with High Midgardsomr&#39;s &quot;Storm Chaser&quot; skill dealing more hits than it should.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1543303800; update_time1543909991

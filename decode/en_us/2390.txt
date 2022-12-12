@@ -1,0 +1,154 @@
+article_id:2390
+category_name:News
+title_name:A Prize Showcase Is Now Live!
+image_path:
+
+message:<div>A Prize Showcase kicked off on <span class="local_date" data-local_date="1628056800"></span>. Appearance rates for featured adventurers and dragons are boosted during this showcase!</div><div><br></div><div>When you summon on the Prize Showcase, you will get a prize in addition to the adventurer or dragon who appears. <span style="color: rgb(226, 80, 65);">Prizes will be sent to the No Limit tab of your goodie box.</span></div><div><br></div><div>There are six categories of prize: platinum prize, gold prize, silver prize, bronze prize, fifth prize, and sixth prize. When you perform a tenfold summon, the tenth prize is guaranteed to be either a platinum, gold, silver, or bronze prize. Note that unlike tenfold summons, using 10 single summon vouchers at once doesn&#39;t guarantee that the tenth prize will be a platinum, gold, silver, or bronze prize.</div><div><br></div><div>For a full list of prizes and their appearance rates, tap Summon on the in-game footer menu when the Prize Showcase is active, then see Prizes under Appearance Rates.</div><div><br></div><div>Newly added featured adventurer and dragon:</div><div><br></div><div>■Adventurer</div><div>5★ Summer Chelle (light/wand)</div><div><br></div><div>■Dragon</div><div>5★ Summer Cat S&igrave;th (light)</div><div><br></div><div>Availability period for the Prize Showcase:</div><div><span class="local_date" data-local_date="1628056800"></span> to <span class="local_date" data-local_date="1628834399"></span></div><div><br></div><div>Get a closer look at the newly added featured adventurer and dragon below.</div><div><br></div><div>Featured adventurer:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/cdabaedd51d48d8ba0f69b60f3407f98.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>751</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>510</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The third scion of Alberia graces the beach with<br>a breezy summer outfit. Her defenseless facade<br>belies her usual cunning and calculated poise.<br>'Ware the thorns ere you pluck this summer rose.'</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/11649f76ca217a065d489dfa5d3bd43a2.png"></span>
+				<span>Sole Estivo</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead, inflicts<br>flashburn, and lowers their flashburn resistance.<br>Also, fills one bar of the ravishing radiance gauge.</div><div class="skill-detail">Damage: 2,751 × 1 hit<br>Skill Energy Required: 2,950<br>Skill Energy Required (Shared Skill): 19,175<br>Special Effects:<br>・Flashburn Res -20%<br>　　Lasts 30 seconds<br>　　Does not stack<br>・Flashburn<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41.6<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/abd4ee6340f095d549255a9a75f6cc382.png"></span>
+				<span>Estate Brillante</span>
+			</dt>
+			<dd><div>Restores HP to the user, resets the ravishing<br>radiance gauge, and partially fills the dragon gauge.<br>Abilities that increase dragon gauge fill rate will not<br>affect this increase.</div><div class="skill-detail">Recovery Potency: 40<br>Skill Energy Required: 6,300<br>Dragon Energy Gained: 100</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>Skill Damage +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases attack skill damage by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>(Light) Flashburn = Shadow Res +8%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Light:<br>reduces shadow damage taken by them by 8%<br>for 15 seconds when they successfully inflict<br>an enemy with flashburn. After activating,<br>this ability will not activate again for 10 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3f3152251c0b37973a6b0bcee74ee6cc2.png"></span><span>Stunning Summer Scion II</span></dt><dd><div>Grants the user a ravishing radiance gauge with<br>three bars. The ravishing radiance gauge's effects<br>are based on the number of bars filled.<br><br>One bar: Increases the user's chances of inflicting<br>flashburn by 30%.<br>Two bars: Increases the user's chances of inflicting<br>flashburn by 50% and increases the damage dealt<br>by the Sole Estivo skill by 100%.<br>Three bars: Reduces the user's movement speed.<br><br>Also, when shapeshifting, the ravishing radiance<br>gauge will be reset, and the user will transform<br>into Summer Cat Sìth regardless of what dragon<br>they are equipped with. The user's dragon skill will<br>increase the chances of inflicting flashburn by 50%<br>for the remainder of the quest and deal damage to<br>surrounding enemies.<br><br>Additionally, using Sole Estivo will grant the user a<br>defense amp with a maximum team amp level of two.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>Curse Res +100%</span></dt><dd><div>Reduces susceptibility to curses by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/08a27fb8083a4dcb6b4840a1de22ead22.png"></span><span>HP 70% = Flashburn Time +30%</span></dt><dd><div>Increases the duration of flashburn inflicted<br>on enemies by 30% when the user's HP is<br>70% or above.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurer at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/4bd9cb71b46b108166f7cbf69524a7cb.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>With Chelle on vacation, Cat Sìth dresses to<br>match. Clad in hat and sunglasses, she is the<br>picture of elegance, and would be primed for a<br>purrfect summer...if only her beloved fur wasn't<br>so unceasingly HOT. Thank Ilia for parasols!</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>Prankster's Pleasure</span>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies,<br>inflicts flashburn, and grants the entire team<br>a team defense amp.</div><div class="skill-detail">Damage: 1,750 × 1 hit<br>Special Effects:<br>・Flashburn<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41.6<br>Team Amps:<br>・Team Defense Amp (MAX Lv. = 2)<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Light) Strength +50%</span></dt><dd><div>If the user is attuned to Light: <br>increases strength by 50%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/adb13b3fa2060593c1c02f8b47ef97442.png"></span><span>(Light) Tropical Troublemaker II</span></dt><dd><div>If the user is attuned to Light:<br>fills 100% of skill gauges at the start of quests and<br>increases damage to flashburned enemies by 25%<br>when the user has a team defense amp.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For a list of prizes and their appearance rates, tap Summon on the in-game footer menu, and see Prizes under Appearance Rates.</div><div>3. If you obtain duplicate items from a tenfold summon or from using 10 single summon vouchers at once, the item quantities for each item will be combined when sent to the No Limit tab of your goodie box.</div><div>4. An Alberian Battle Royale skin for the adventurer featured in this summon showcase is now on sale and costs fewer items to unlock. Note that some adventurers do not have adventurer skins.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1628056800; update_time1627613736

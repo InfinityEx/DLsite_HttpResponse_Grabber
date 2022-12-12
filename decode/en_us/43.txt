@@ -1,0 +1,8 @@
+article_id:43
+category_name:News
+title_name:Issues Regarding the Event Trick or Treasure![Update]
+image_path:
+
+message:<div>We have confirmed that the following issues have been occurring in the event Trick or Treasure!, taking place since <span class="local_date" data-local_date="1539756000"></span>.</div><div><br></div><div>■Details<br>・ The total might of each party is displayed during co-op play of the boss battle Squash the Pumpking.<br>・ Under Current Effective Facility at the event&#39;s main screen, it incorrectly says &quot;Strength X% Up!&quot; instead of &quot;Damage X% Up!&quot;</div><div><br></div><div>■Fixed Issues: Updated <span class="local_date" data-local_date="1539861300"></span></div><div>・ Player may be disconnected in Co-op when using the weapon skill of &quot;Jack-o&#39;-Lance&quot; or &quot;Vampire&#39;s Lantern.&quot;</div><div><br>We are currently investigating these issues. Any further updates regarding these issues will be added to this notice.</div><div><br></div><div>Thank you for your patience.</div>
+
+start_time:1539780000; update_time1540888500

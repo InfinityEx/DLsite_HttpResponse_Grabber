@@ -1,0 +1,8 @@
+article_id:1290
+category_name:News
+title_name:Issues Regarding Fire Emblem: Kindred Ties Event
+image_path:
+
+message:<div>We have confirmed the following issues in the Fire Emblem: Kindred Ties event.</div><div>These issues have been resolved in the data update applied around <span class="local_date" data-local_date="1588597200"></span>.</div><div><br></div><div>■Detail of the Issues</div><div><br></div><div>・The acquired Resolve from clearing defensive battles was sometimes less than expected.</div><div>・In the Resolve Rewards menu, the necessary scores to obtain the listed rewards were displaying as &quot;Valor Required&quot; instead of &quot;Resolve Required&quot;.</div><div><br></div><div>As a token of our appreciation for your patience, we will send the following gifts to all players:</div><div><br></div><div>・Quality Honey x10</div><div>・Ethon Ashes x10</div><div><br></div><div>These gifts can be claimed from your goodie box for up to seven days after reception. If the gifts are not retrieved within seven days, they will be lost.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1588597200; update_time1588594128

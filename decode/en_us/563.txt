@@ -1,0 +1,8 @@
+article_id:563
+category_name:News
+title_name:Chapter 9: The Princess's Party Added to the Main Campaign!
+image_path:https://dragalialost.akamaized.net/attached/information/images/94624a13c4e47c91503f7fb67d713435.png
+
+message:<div>Chapter 9: The Princess&#39;s Party was added to the main campaign at <span class="local_date" data-local_date="1563170400"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/94624a13c4e47c91503f7fb67d713435.png"></div><div>After receiving a surprise party invitation from Princess Chelle, the prince and his friends make their way to the city of Chanzelia. There, they find themselves in a dance hall filled with resplendence and intrigue&mdash;a hall where an endless rondo is about to begin.</div><div><br></div><div>We hope you&#39;re looking forward seeing what&#39;s in store for the prince and his friends!</div><div><br></div><div>Note:</div><div>Chapter 9 of the main campaign, The Princess&#39;s Party, will unlock if you clear Ch. 8 / 5-4 &quot;Love Births Strength.&quot;</div><div><br></div><div>Thanks for playing Dragalia Lost!</div>
+
+start_time:1563170400; update_time1569488255

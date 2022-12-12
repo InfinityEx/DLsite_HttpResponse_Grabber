@@ -1,0 +1,8 @@
+article_id:1018
+category_name:News
+title_name:Regarding 5★ Adventurer Summon Showcase Info
+image_path:
+
+message:<div>The warnings section at the bottom of the More Info tab of the Showcase Info menu in the 5★ Adventurer Summon screen contained information which predated the introduction of Naveed&#39;s mana spiral, and has been corrected as per below:</div><div><br></div><div>[Before correction]</div><div>・Adventurer stats shown are at max level with all mana circles/nodes unlocked. (Starting stats will be lower.)</div><div>[After correction]</div><div>・Adventurer stats shown are at level 80 with 50 mana nodes unlocked. (Starting stats will be lower.)</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1578981600; update_time1578981318

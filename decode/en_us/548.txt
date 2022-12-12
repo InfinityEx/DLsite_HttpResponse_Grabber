@@ -1,0 +1,211 @@
+article_id:548
+category_name:News
+title_name:Announcing the Next Summon Showcase, Festival Phenoms!
+image_path:
+
+message:<div>The next summon showcase, Festival Phenoms, kicks off <span class="local_date" data-local_date="1561874400"></span>!</div><div><br></div><div>Appearance rates for featured adventurers and dragons will be boosted during this showcase!</div><div><br></div><div>Availability period for featured summons:</div><div><span class="local_date" data-local_date="1561874400"></span> to <span class="local_date" data-local_date="1562824740"></span></div><div><br></div><div>Get a closer look at some of the featured adventurers and dragons below.</div><div><br></div><div>Featured adventurers:</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/748ba2df1a4ba0ad1139c52c1a185cbc.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2498</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A master at festival planning who left his<br>homeland to hone his craft. Despite his love of<br>napping and unkempt appearance, his passion<br>for festivals has brought joy to many a sad<br>and lonely town.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7391c0f33efb07117ee2c7bdf7815b7c2.png"></span>
+				<span>Festival Rush</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to enemies directly ahead,<br>and increases the user's energy level by one stage.<br>When an adventurer's energy level reaches level five,<br>they will become energized, and their next attack or<br>recovery skill will be upgraded. At this point,<br>using any applicable skill will reset that adventurer's<br>energy level to zero. If this skill is used when the<br>user is energized, a variant called Festival Dance<br>will be used instead, dealing additional damage.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/10a00f27f7b4fb0f1e9db38ca57076272.png"></span>
+				<span>Bold Blade</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the entire team's energy levels by two stages.<br>When an adventurer's energy level reaches level five,<br>they will become energized, and their next attack or<br>recovery skill will be upgraded. At this point,<br>using any applicable skill will reset that<br>adventurer's energy level to zero.
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">Co-abilities</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>Dragon Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases dragon gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/0ca003e40efaeaec644df1940674fce52.png"></span><span>Energy = Strength & Critical Rate III</span></dt><dd><div>Increases the user's strength and critical rate as their<br>energy level increases. The maximum bonus, given<br>when the user is energized, is strength +20% and<br>critical rate +8%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>Paralysis Res +100%</span></dt><dd><div>Reduces susceptibility to paralysis by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Energized: Strength +20%</span></dt><dd><div>Increases strength by 20% for 15 seconds each<br>time the user is energized.</div></dd></dl></div></div></div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/24feaed8dff3ba2920d7bbd75c15100b.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>739</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>521</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A traveling festival planner who aids Yaten<br>as a capable and hard-working apprentice.<br>Her rough manner of speech betrays a kind,<br>big-sister persona.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3f0dec434b5784c125591b226dcf5f662.png"></span>
+				<span>Defiant Dance</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to enemies directly ahead,<br>and increases the user's energy level by one stage.<br>Damage will be increased as the user's HP decreases.<br>When an adventurer's energy level reaches level five,<br>they will become energized, and their next attack or<br>recovery skill will be upgraded. At this point,<br>using any applicable skill will reset that<br>adventurer's energy level to zero.<br>
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6c0d33ea3eb33415241d8f0ee34c041a2.png"></span>
+				<span>Clean Slate</span>
+			</dt>
+			<dd>
+				<div>
+					Removes all debuffs from the user.<br>If the user's HP is below 30% of max HP<br>when using this skill, increases the user's<br>strength by 15% for 10 seconds.<br>If the user's HP is above or equal to 30% of max HP,<br>reduces their HP to 20% of max HP and grants them<br>a one-use divergent shield that nullifies damage less<br>than 80% of the user's maximum HP.<br>Divergent shields can stack with ordinary shields.
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">Co-abilities</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Strength +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases strength by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>Extra Energy III</span></dt><dd><div>Grants an 80% chance that a user's<br>energy level will increase by an<br>additional stage upon being increased.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>Paralysis Res +100%</span></dt><dd><div>Reduces susceptibility to paralysis by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8c8841b3f5aa35fb71f07f9075152dba2.png"></span><span>HP Below 30% = Strength & Attack Rate III</span></dt><dd><div>Increases strength by 20% and attack rate by 10%<br>when HP is 30% or below.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent each adventurer at maximum level with all mana circles unlocked, not the stats when first obtained.</div><div><br></div><div>Featured dragon:</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/447aba779ca12d8e3095cefae58a5411.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1006</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon who is at home among darkness and<br>shadow. He fells his foes utilizing an arsenal<br>of unique skills. The first ninjas of Hinomoto are<br>said to have learned their techniques from him.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5347ab03287b73332172842f38879f5a2.png"></span>
+				<span>Shuriken Shower</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to the target and<br>nearby enemies, and energizes the entire team.<br>Once energized, using any applicable skill<br>will reset that adventurer's energy level<br>to zero.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Shadow) Strength +20%</span></dt><dd><div>If the user is attuned to Shadow: <br>increases strength by 20%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>(Shadow) Skill Damage +70%</span></dt><dd><div>If the user is attuned to Shadow:<br>increases attack skill damage by 70%.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For information about featured adventurers and dragons, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1561701600; update_time1561685365

@@ -1,0 +1,8 @@
+article_id:761
+category_name:Events
+title_name:A New Event, Fractured Futures, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/aa990ad667c1f92fd1fa04ad577f419f.png
+
+message:<div>The Fractured Futures raid event will begin <span class="local_date" data-local_date="1569823200"></span>!</div><div><br></div><div>During this event, you can use co-op play to fight against the light-attuned raid boss.</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/aa990ad667c1f92fd1fa04ad577f419f.png"></div><div>On one fateful day, a loved one was lost, and a possible future was stolen forever... While lamenting over memories of days gone by, the prince is approached by a dragon named Chronos. The dragon offers to use his powers to alter time, giving the prince a chance to set things right&mdash;no matter the consequences!</div><div><br></div><div>A video introducing the Fractured Futures event has been posted on the Nintendo Mobile YouTube Channel.</div><div>Check it out below!</div><div><br></div><div><strong>▼ Dragalia Lost - Fractured Futures Raid Event</strong></div><div><a href="https://youtu.be/bx27H_XlSWo">https://youtu.be/bx27H_XlSWo</a></div><div><br></div><div>■Notes</div><div>1. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate in event quests.</div><div>2. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign in order to play co-op.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1569736800; update_time1569576248

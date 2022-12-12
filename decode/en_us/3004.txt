@@ -1,0 +1,251 @@
+article_id:3004
+category_name:News
+title_name:Gala Dragalia Remix Is Coming Soon!
+image_path:
+
+message:<div>Gala Dragalia Remix starts on <span class="local_date" data-local_date="1652421600"></span>!</div><div><br></div><div>■What Are Gala Dragalia and Gala Dragalia Remix?</div><div>The initial appearance rate for 5★ adventurers and dragons will be boosted to 6%, which is up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Adventurers and dragons added in past Gala Dragalia summon showcases may appear in this summon showcase as well. For information about which adventurers and dragons may appear, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</span></div><div><br></div><div>▼Featured adventurers returning for a limited time:</div><div>5★ Halloween Laxi (light/rapid-fire manacaster)</div><div>5★ Halloween Akasha (water/blade)</div><div><br></div><div>▼Featured dragon returning for a limited time:</div><div>5★ Halloween Maritimus (water)</div><div><br></div><div><span style="color: rgb(226, 80, 65);">In addition to the above, certain limited-time adventurers and dragons from past summon showcases make their return but are not featured.</span></div><div><br></div><div>Gala Dragalia Remix event duration:</div><div><span class="local_date" data-local_date="1652421600"></span> to <span class="local_date" data-local_date="1652680799"></span></div><div><br></div><div>Get a closer look at the returning limited-time featured adventurers and dragon below.</div><div><br></div><div>Adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2acb1d9b3a663611f729ae121187b48c.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,500</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>Available Modes</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/4805e47916f093eb2b9049cff29e9eb72.png"><img src="https://dragalialost.akamaized.net/attached/information/images/d45c68ecb3b1d88cba2136c949f214772.png"><img src="https://dragalialost.akamaized.net/attached/information/images/1f0f10277cfc223cafe9e19e2d15434d2.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Laxi received this costume when performing<br>in a play and is now using it for Halloween.<br>After the Prince told her pranking was part of<br>the fun of Halloween, she began to take a great<br>interest in the subject.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d787cf6a3aea75191d1a381a2d0c7b942.png"></span>
+				<span>Trick 00: Ghost Fig</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies,<br>dispels one buff from each of them, and inflicts<br>flashburn.</div><div class="skill-detail">Damage: 99 × 12 hits<br>Skill Energy Required: 4,480<br>Skill Energy Required (Shared Skill): 7,481<br>Special Effects:<br>・Dispels Buffs<br>・Flashburn<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41.6<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d746ee4dfa37344598bb40dc36dc00fb2.png"></span>
+				<span>Trick 99: Clockwork</span>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies,<br>grants the user a defense amp, and partially<br>fills the clockwork gauge. This skill will deal<br>extra damage and fill more of the clockwork<br>gauge based on the combo count.</div><div class="skill-detail">Damage: 524 × 3 hits<br>Skill Energy Required: 8,450<br>Amps:<br>・Defense Amp (Team Amp MAX Lv. = 3)<br>Damage Modifier (Based on Combo Count):<br>・25 hit(s) = +10%<br>・50 hit(s) = +20%<br>・75 hit(s) = +30%<br>・100 hit(s) = +40%<br>Gauge Energy Gained (Based on Combo Count):<br>・0 hit(s) = 30%<br>・25 hit(s) = 45%<br>・50 hit(s) = 60%<br>・75 hit(s) = 75%<br>・100 hit(s) = 100%</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>Gauge Accelerator +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Speeds the rate the mode gauge decreases<br>by 20%. Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>(Light) Combo = Critical Rate V</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Light:<br>increases their critical rate by 1%<br>for every 10-hit combo. This effect can<br>stack up to 20 times, but all stacks will<br>be lost when the combo counter resets.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3d35acdfe7f5a710f73a893dfb248ca82.png"></span><span>Clockwork Creature II</span></dt><dd><div>Grants the user a clockwork gauge that is<br>completely filled at the start of quests.<br><br>After the clockwork gauge is completely filled,<br>it will be gradually depleted during force strikes,<br>but will grant the user the following effects until<br>it is completely depleted:<br><br>・Damage dealt by force strikes is increased<br>by 10%.<br>・The rate that force strikes decrease the<br>mode gauge is sped up.<br>・Force strike attack rate is increased by 12%.<br>・Movement speed during force strikes is<br>increased.<br><br>After the clockwork gauge is depleted, it will<br>gradually fill automatically, and the user will not<br>be able to use force strikes until it is filled.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>Curse Res +100%</span></dt><dd><div>Reduces susceptibility to curses by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/14792abf67fb05b76ddc3021564efff22.png"></span><span>Flashburn Frenzy II</span></dt><dd><div>Extends the window between hitting an enemy<br>and the combo counter resetting by 0.5 seconds.<br><br>Also, increases the user's chances of inflicting<br>flashburn by 25% for every 15-hit combo (up to<br>three times per combo), and grants the user a<br>stack of the "Flashburn Trickster" effect each<br>time they inflict flashburn (up to three times per<br>combo). Flashburn Trickster increases damage<br>to flashburned enemies by 7%. These buffs are<br>removed when the combo counter resets.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f85fbd424433cd2832bcda4df8087410.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>743</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A priestess from the Church-of-All, now dressed<br>as a vampire. She seems almost childlike as she<br>cavorts about town, but sometimes shows a<br>smile as bewitching as the full moon. Is her<br>heart empty, or is there something there...?</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d436213ee1d25605303354b04cb18e92.png"></span>
+				<span>Nameless Abductor</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals water damage to enemies in a line, and<br>reduces their defense by 3% for 10 seconds.</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/10fc81680bc1c3cbf52e7271e7cfdf5f2.png"></span>
+				<span>Coffin of Madness</span>
+			</dt>
+			<dd><div>Deals water damage to the target and nearby<br>enemies, and inflicts bleeding.</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Strength +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases strength by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>(Water) HP 80% = Flame Res +6%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water: <br>reduces flame damage taken by them by 6%<br>when their HP is 80% or above.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e915bc581ed54d29f06ebfc9f8eed8252.png"></span><span>Defense Reduced = Debuff Edge II</span></dt><dd><div>Increases the chances of inflicting debuffs<br>by 50% for five seconds upon successfully<br>reducing an enemy's defense. After activating,<br>this ability will not activate again for five seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>Bleeding = HP Recovery II</span></dt><dd><div>Restores the user's HP upon successfully<br>inflicting an enemy with bleeding.<br>After activating, this ability will not<br>activate again for five seconds.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Some skills have different effects when used as a shared skill.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/fa95a78239ae75e100e3afd8b64733af.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>376</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>119</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>Maritimus in a magician costume! He's a big<br>fan of Halloween, and plans to hand treats<br>out to everyone he sees. The kids love him;<br>their moms not so much!</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>Hocus Pocus!</span>
+			</dt>
+			<dd><div>Restores HP to all allies, and creates a buff zone<br>that lasts for 10 seconds and increases the<br>skill damage of adventurers inside it by 30%.</div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>(Water) HP +30%</span></dt><dd><div>If the user is attuned to Water: <br>increases HP by 30%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>(Water) Skill Haste +35%</span></dt><dd><div>If the user is attuned to Water:<br>increases skill gauge fill rate by 35%.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at level 100, maximum bond, and unbound to the fourth stage. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. Alberian Battle Royale skins for the adventurers featured in this summon showcase will go on sale and will cost fewer items to unlock. Note that some adventurers do not have adventurer skins.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1652335200; update_time1648551916

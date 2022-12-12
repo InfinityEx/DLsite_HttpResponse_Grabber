@@ -1,0 +1,8 @@
+article_id:1755
+category_name:News
+title_name:Regarding Balance Adjustments and a Change to the Dragon That Can Be Used in The Alberian Battle Royale
+image_path:
+
+message:<div>At <span class="local_date" data-local_date="1604469600"></span>, the dragon that adventurers can shapeshift into during the Alberian Battle Royale was changed and some balance adjustments were made.</div><div><br></div><div>■The dragon that can be shapeshifted into has changed</div><div>All adventurers (regardless of weapon type) will now shapeshift into Cupid.</div><div>Note: Future events may feature a different dragon.</div><div><br></div><div>Before: Midgardsormr</div><div>After: Cupid</div><div><br></div><div>■Balance adjustments</div><div>After some analysis on matches held until now, it was found that axes had a conspicuously high win rate. In order to address this issue, some balance adjustments have been made to prevent certain weapons from becoming too dominant.</div><div><br></div><div>Weapon type: Axe</div><div>・The starting HP value and increase in HP per level has been reduced.</div><div>・The strength increase for each level has been reduced.</div><div>・The damage inflicted by axe-exclusive weapon skills has been reduced.</div><div><br></div><div>■Notes</div><div>1. You can see more details about this event by tapping Help on the event page.</div><div>2. If the event ends during a battle, the battle will continue until a winner is determined and its rewards will be obtainable.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1604469600; update_time1604041996

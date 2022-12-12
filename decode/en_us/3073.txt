@@ -1,0 +1,243 @@
+article_id:3073
+category_name:News
+title_name:A Sigil Spotlight Is Now Live!
+image_path:
+
+message:<div>A Sigil Spotlight summon showcase started on <span class="local_date" data-local_date="1660802400"></span>.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">In this summon showcase, players may exchange wyrmsigils for any of the 5★ adventurers or dragons who are eligible to appear. For further information, tap Summon on the in-game footer menu while this showcase is available, then tap the Wyrmsigils button for this showcase.</span></div><div><br></div><div>Availability period:</div><div><span class="local_date" data-local_date="1660802400"></span> to <span class="local_date" data-local_date="1661752799"></span></div><div><br></div><div>Get a closer look at some of the 5★ adventurers and dragons eligible to appear in this showcase below.</div><div><br></div><div>5★ adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/02baf084ae42a5d3ebabd1b9d2f66c6a.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>761</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>498</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The Waterwyrm Mercury, taken human form to<br>learn more of human culture. Though her looks<br>have changed, her mission as a guardian dragon<br>has not. She will show no quarter to those who<br>threaten the peace of those she cares about.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/80922336d78c6a339d07de68c524e4242.png"></span>
+				<span>Raging Ocean</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>inflicts frostbite, and raises the dragon gauge<br>if the attack connects. If the user has a team<br>strength amp, a more powerful version of this<br>skill will be used.</div><div class="skill-detail">Damage: 540 × 3 hits<br>Skill Energy Required: 2,800<br>Special Effects:<br>・Frostbite<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br>Dragon Energy Gained: 40<br><br><color=#00008B>After Skill Change:</color><br>Damage: 600 × 4 hits<br>Skill Energy Required: 2,800<br>Skill Energy Required (Shared Skill): 9,940<br>Special Effects:<br>・Frostbite<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br>Dragon Energy Gained: 50</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/965d37e14de2ff3025ebd071ceb568dd2.png"></span>
+				<span>Aquatic Ruin</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>and grants the user a strength amp.<br>If the user has already shapeshifted at least once,<br>a more powerful version of this skill will be used.</div><div class="skill-detail">Damage: 322 × 6 hits<br>Skill Energy Required: 8,000<br>Amps:<br>・Strength Amp (Team Amp MAX Lv. = 2)<br><br><color=#00008B>After Skill Change:</color><br>Damage: 322 × 9 hits<br>Skill Energy Required: 8,000<br>Amps:<br>・Strength Amp (Team Amp MAX Lv. = 2)</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>Critical Rate +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases critical rate by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span>
+				<span>(Water) Team Strength Amp = Burn Res +100%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water:<br>reduces their susceptibility to burning by 100%<br>when they have a team strength amp.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/67e1d7b7a658af6624ecd3c0af03e0d52.png"></span><span>Waterwyrm's Nature II</span></dt><dd><div>Reduces susceptibility to bog by 100%,<br>and adds 14% to the modifier applied<br>to damage when in dragon form.<br>When shapeshifting for the first time,<br>the user will transform into Mercury regardless<br>of what dragon they are equipped with.<br>The second time onwards, they will transform<br>into High Mercury instead.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>Bubble Shield II</span></dt><dd><div>Grants the user the "Sphere of Protection"<br>effect when they have a team strength amp.<br>Sphere of Protection gradually recovers the<br>user's HP, and grants a one-use shield that<br>nullifies damage up to 30% of the user's<br>maximum HP.<br>This shield can stack with ordinary shields.<br>Sphere of Protection will not stack, its effects<br>are lost upon taking damage or if the user<br>no longer has a team strength amp, and,<br>after Sphere of Protection has been lost,<br>this ability will not activate again for 10 seconds.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/bd8283abe33323a237477460a1311c32.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>517</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,502</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>To stave off boredom, the Lightwyrm Jupiter<br>takes a human form in order to observe humans<br>more closely. Though his appearance has<br>changed, his personality has not, and he still<br>loves seeing people flustered by his words.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>Thunder Strike</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>inflicts flashburn, and grants the user a strength<br>amp. If this attack hits an enemy that has the<br>"Overcharged" effect, it will deal bonus damage<br>based on the effect's level. If Overcharged<br>is at its maximum level, it will be removed<br>after the bonus damage is dealt.</div><div class="skill-detail">Damage: 1,200 × 1 hit<br>Bonus Damage (Overcharged Lv. 1): 300 × 1 hit<br>Bonus Damage (Overcharged Lv. 2): 300 × 2 hits<br>Bonus Damage (Overcharged Lv. 3): 300 × 3 hits<br>Bonus Damage (Overcharged Lv. 4): 300 × 4 hits<br>Skill Energy Required: 2,640<br>Special Effects:<br>・Flashburn<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41.6<br>Amps:<br>・Strength Amp (Team Amp MAX Lv. = 1)</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0b6e96a9297308fa346ed1059be779062.png"></span>
+				<span>Spark Ignition</span>
+			</dt>
+			<dd><div>Applies "Overcharged" to the target.<br><br>If the user is hit by an attack that can be<br>avoided with the damage immunity provided<br>by skills while using this skill but before<br>it applies Overcharged, this skill will instead<br>apply four levels of Overcharged to the target<br>and nearby enemies.</div><div class="skill-detail">Skill Energy Required: 10,560<br>Special Effects:<br>・Overcharged Lv. 1<br>　　Lasts 60 seconds<br>・Overcharged Lv. 4<br>　　Lasts 15 seconds</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Strength +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases strength by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span>
+				<span>(Light) Team Strength Amp = Curse Res +100%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Light:<br>reduces their susceptibility to curses by 100%<br>when they have a team strength amp.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a59180d889cf164d6560fdcbdc5d43a52.png"></span><span>Lightwyrm's Nature II</span></dt><dd><div>Reduces susceptibility to paralysis by 100%.<br><br>When shapeshifting for the first time,<br>the user will transform into Jupiter regardless<br>of what dragon they are equipped with.<br>The second time onwards, they will transform<br>into High Jupiter instead.<br><br>Also, when the user dodges an enemy's attack,<br>applies "Overcharged" to the attacking enemy<br>and grants the user a strength amp with a<br>maximum team amp level of one.<br>After activating, this effect will not activate<br>again for 10 seconds.<br><br>Overcharged has four levels and deals damage<br>to the affected target and nearby enemies when<br>the effect is lost. This damage and its area of<br>effect increase with its level, and when removed<br>at level four, it also inflicts paralysis and stun.<br><br>Lv. 1: Lasts 60 seconds.<br>Lv. 2: Lasts 45 seconds.<br>Lv. 3: Lasts 30 seconds.<br>Lv. 4: Lasts 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>Poison Res +100%</span></dt><dd><div>Reduces susceptibility to poison by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cb9a79af6cfdc75b0e5d4d610cfbe8c32.png"></span><span>Arc Absorption II</span></dt><dd><div>Fills the dragon gauge by 20% and restores the<br>user's HP if they are in range of the attack dealt<br>by the "Overcharged" effect when it is lost.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Some skills have different effects when used as a shared skill.</div><div><br></div><div>5★ dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a8d052784a85ab2fcf993da0a12ddb5e.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>The Windwyrm who lived a thousand years ago. <br>In the First War of Binding, he searched for<br>harmony between people and dragon, then<br>bequeathed his spirit to the next generation<br>at the end of his life.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>Primal Tempest</span>
+			</dt>
+			<dd><div>Deals wind damage to surrounding enemies,<br>and lowers their wind resistance by 10%<br>for the remainder of the quest.<br>This resistance reduction will not stack.</div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>(Wind) HP & Strength +35%</span></dt><dd><div>If the user is attuned to Wind: <br>increases strength and HP by 35%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>(Wind) Flurry Skill +70%</span></dt><dd><div>If the user is attuned to Wind:<br>increases attack skill damage by 70% when<br>the combo count is 15 or higher.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at level 100, maximum bond, and unbound to the fourth stage. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For information about appearance rates, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1660802400; update_time1647601989

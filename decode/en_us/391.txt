@@ -1,0 +1,167 @@
+article_id:391
+category_name:News
+title_name:Announcing the Next Summon Showcase: Dragon Special!
+image_path:
+
+message:<div>The next Summon Showcase: Dragon Special, kicks off <span class="local_date" data-local_date="1555048800"></span>!</div><div><br></div><div>During this showcase, the appearance rates for featured 4★ and 5★ dragons will be increased.<br>On top of that, 4★ and 5★ adventurers will also be featured!</div><div><br></div><div>The changes to summoning which were announced in the &quot;Regarding Changes to Summoning&quot; notice will be applied after the maintenance planned on <span class="local_date" data-local_date="1556247600"></span>.<br><span style="color: rgb(184, 49, 47);"><strong>While there are no featured wyrmprints in this summon showcase, they are in fact still included in the pool.</strong></span></div><div><br></div><div>This showcase will be available from <span class="local_date" data-local_date="1555048800"></span> to <span class="local_date" data-local_date="1555567140"></span>.</div><div><br></div><div>Get a closer look at some of the featured dragons below.</div><div><br></div><div>Featured Dragons:<br><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/aa36196f4cdaabc49bb8032846b417dd.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon who has slumbered in the depths of the<br>ocean since ancient times. Spoken of in hushed<br>tones as a bringer of calamity, he is in truth a<br>perfect gentleman who loathes his colossal<br>power and what it represents.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0d671ee9f1118cae073adf924e4165c92.png"></span>
+				<span>Tidal Stream</span>
+			</dt>
+			<dd>
+				<div>
+					Deals water damage to enemies directly ahead,<br>and inflicts bog.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Water) Strength +60%</span></dt><dd><div>If the user is attuned to Water: <br>increases strength by 60%.</div></dd></dl></div></div></div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1b1767f299fc12d336bf061fa4b56053.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>377</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>119</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon who supports all those who are<br>in love. He is quite young and pure, and<br>wants nothing more than to spread love<br>and happiness throughout the entire world.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>Lovely Pose</span>
+			</dt>
+			<dd>
+				<div>
+					Restores HP to all allies, and increases<br>their critical rate by 25% for 15 seconds.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Light) Strength +60%</span></dt><dd><div>If the user is attuned to Light: <br>increases strength by 60%.</div></dd></dl></div></div></div><div><br></div><div>&nbsp;<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7cc64f6dced2d9b5e7580e16cd8e9aea.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>383</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>114</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>997</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon once revered as a god of protection in a<br>certain village. Though haughty and stand-offish,<br>she secretly wants to be close with those around<br>her. She often acts on emotion, but is ultimately<br>kindhearted and quite responsible.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>Tempestuous Kiss</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to enemies directly ahead,<br>and restores the user's HP.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>(Wind) HP +60%</span></dt><dd><div>If the user is attuned to Wind: <br>increases HP by 60%.</div></dd></dl></div></div></div><div>The stats shown here represent each dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:<br>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.<br>2. For information about featured adventurers, dragons, and wyrmprints, tap Summon on the in-game footer menu, then select Showcase Info and check the More Info tab, or select Appearance Rates and check the Appearance Rates section.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1555038000; update_time1555032658

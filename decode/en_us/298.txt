@@ -1,0 +1,8 @@
+article_id:298
+category_name:News
+title_name:Regarding an Issue with the Game Not Launching on Certain Devices;[Update]
+image_path:
+
+message:<div>We have found an issue that prevents the game from launching properly on certain devices.</div><div><br></div><div>We are currently investigating this issue. Any further updates will be added to this notice.</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>[Addendum <span class="local_date" data-local_date="1552453200"></span>]</strong></span></div><div><br>This issue was fixed in the data update applied on <span class="local_date" data-local_date="1552453200"></span>.<br>In addition, the visual effect of Heinwald&#39;s &quot;Abyssal Connection&quot; skill has been modified as a result.</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>[Addendum <span class="local_date" data-local_date="1552460400"></span>]</strong></span><br>As a token of our appreciation, the following gift will be sent to players who started playing before <span class="local_date" data-local_date="1552453200"></span>.<br><br>・Wyrmite x300<br><br>For players who log in before <span class="local_date" data-local_date="1553065199"></span>, this gift can be claimed from your goodie box for up to 7 days after logging in.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1552375200; update_time1552460700

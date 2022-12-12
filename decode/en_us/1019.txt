@@ -1,0 +1,8 @@
+article_id:1019
+category_name:News
+title_name:Regarding an Issue with the Daily Free Tenfold Summon Event for New Players Only
+image_path:
+
+message:<div>We have confirmed an issue with the daily free tenfold summon event for new players where, from <span class="local_date" data-local_date="1578981600"></span> to <span class="local_date" data-local_date="1579066199"></span>, the eligible showcase should have been Windswept Harbingers but was actually Flames of Reflection.</div><div><br></div><div>This issue was fixed in a data update applied around <span class="local_date" data-local_date="1579066200"></span>.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1579066200; update_time1579066251

@@ -1,0 +1,8 @@
+article_id:2696
+category_name:Events
+title_name:A Limited-Time Event Revival, A Sweeping Retrospective, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/94df26266ed1c2a5fed58efdae01e510.png
+
+message:<div>A limited-time event revival, A Sweeping Retrospective, will start on <span class="local_date" data-local_date="1640325600"></span>.</div><div><br></div><div>During this revival event, you can play the event-exclusive quests to get drop rewards and complete endeavors. Help Cleo with a major cleanup and see how all the residents of the Halidom are spending their time as this year draws to a close!</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/94df26266ed1c2a5fed58efdae01e510.png"></div><div><br></div><div>It&#39;s the end of the year and Cleo is leading the charge to give the Halidom a much needed deep clean, but something is amiss and groups of fiends are appearing in the castle! Help your allies and wipe the floor with the intruding fiends!</div><div><br></div><div>Notes:</div><div>1. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate.</div><div>2. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to play co-op.</div><div>3. There will not be a period after the event has ended when you can still read the story.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1640239200; update_time1640228101

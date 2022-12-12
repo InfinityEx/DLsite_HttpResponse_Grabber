@@ -1,0 +1,164 @@
+article_id:1969
+category_name:News
+title_name:A New Summon Showcase, Caged Desire (Part Two), Is Now Live!
+image_path:
+
+message:<div>A summon showcase, Caged Desire (Part Two), went live on <span class="local_date" data-local_date="1612591200"></span>! This summon showcase includes limited-time adventurers and dragons. Featured adventurers and dragons also have a boosted appearance rate!</div><div><br></div><div>Newly added limited-time featured adventurer:</div><div>5★ Panther (flame/lance)</div><div><br></div><div>Limited-time featured dragon:</div><div>5★ Ars&egrave;ne (shadow)</div><div><br></div><div><span style="color: rgb(226, 80, 65);">In this summon showcase, the following limited-time adventurers make their return but are not featured.</span></div><div><br></div><div>Limited-time adventurers:</div><div>5★ Joker (shadow/dagger)</div><div>5★ Mona (wind/sword)</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Wyrmsigils may only be redeemed in the summon showcase from which they were earned. Wyrmsigils earned from the Caged Desire (Part One) showcase cannot be redeemed in the Caged Desire (Part Two) showcase.</span></div><div><br></div><div>Availability period for showcase summons:</div><div><span class="local_date" data-local_date="1612591200"></span> to <span class="local_date" data-local_date="1613109599"></span></div><div><br></div><div>Get a closer look at the featured adventurer and dragon below.</div><div><br></div><div>Featured adventurer:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/54d4346d10169b44f295683b327442eb.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>749</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>510</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A kindhearted girl who associated with the<br>lecherous Suguru Kamoshida in order to protect<br>her best friend. After awakening to her Persona,<br>Carmen, she joined the Phantom Thieves and<br>resolved to rid society of corrupt adults.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/043043e46b37ae46cb8ed5b5e9618b112.png"></span>
+				<span>Wildfire</span>
+			</dt>
+			<dd><div>Grants the user the "Fire Boost" and<br>"Snipe" effects, deals damage to enemies<br>directly ahead, and partially fills the<br>Persona gauge if the attack connects.<br><br>When Carmen is active:<br>deals damage to enemies directly ahead.<br>Scorchrent foes take extra damage.</div><div class="skill-detail">
+
+Damage: 855 × 1 hit<br>Skill Energy Required: 5,920<br>Special Effects:<br>・Snipe<br>　　Strength +10%<br>　　Lasts 15 seconds<br>　　Does not stack<br>・Fire Boost<br>　　Flame-Attuned Damage +10%<br>　　Lasts 15 seconds<br>　　Does not stack<br>Persona Energy Gained: 300<br><br>
+
+<color=#00008B>When Carmen is Active:</color><br>Damage: 1496.2 × 1 hit<br>Skill Energy Required: 5,920<br>Damage Modifier:<br>・135% against Scorchrend</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd5464d0aeb6d41964c19ee25f922b922.png"></span>
+				<span>Feel the Heat</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>and inflicts scorchrend.<br><br>When Carmen is active:<br>deals damage to enemies directly ahead,<br>reduces their strength, and dispels one buff<br>from each target. Dispelling an enemy buff<br>also lowers that enemy's flame resistance.<br>Neither this strength reduction nor this<br>resistance reduction will stack.</div><div class="skill-detail">
+
+Damage: 267.1 × 3 hits<br>Damage: 293.9 × 3 hits<br>Skill Energy Required: 11,840<br>Skill Energy Required (Shared Skill): 10,656<br>Special Effects:<br>・Scorchrend<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31.1<br>Persona Energy Gained: 300<br><br>
+
+<color=#00008B>When Carmen is Active:</color><br>Damage: 997.5 × 1 hit<br>Skill Energy Required: 11,840<br>Special Effects:<br>・Strength -20%<br>　　Lasts 30 seconds<br>　　Does not stack<br>・Dispels Buffs<br>・Flame Res -5%<br>　　Lasts 30 seconds<br>　　Does not stack</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/71d793fb535ac808bdfe31e27ebe9b8b2.png"></span>
+				<span>Scorchrend Boost V</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the chances of inflicting and<br>the duration of scorchrend by 20%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/132b47160438f5bd6b9ef2830f9358c82.png"></span>
+				<span>(Flame) Flame Dancer V</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Flame: <br>extends their shapeshift time by 20%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/029eba960e21943162dd77888930a3d02.png"></span><span>Dancing Panther II</span></dt><dd><div>Grants the Persona element Fire to certain<br>attacks. Also grants the user a Persona gauge,<br>and changes the shapeshift button into a<br>Persona button. Tapping this button summons<br>Carmen. While summoned, Carmen will attack<br>together with the user.<br><br>Additionally, increases defense by 6%,<br>and grants the user a unique force strike.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>Sleep Res +100%</span></dt><dd><div>Reduces susceptibility to sleep by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ba1d939f31aa624b013b900d03a48812.png"></span><span>Scorchrend = Flame Damage II</span></dt><dd><div>Adds 10% to the modifier applied to damage<br>against wind-attuned enemies upon successfully<br>inflicting an enemy with scorchrend. This buff<br>can stack up to three times, and, after activating,<br>this ability will not activate again for five seconds.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurer at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f0eccb946a066a6a2646b51a8db1dce6.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>Joker's Persona, distinguished by its mask-like<br>face and massive black wings. From where does<br>this Persona fare? And what power does it hold<br>beneath its haunting visage?</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2719fe27911749dfccf7afb09adc17d52.png"></span>
+				<span>Maeiga</span>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies.</div><div class="skill-detail">
+
+Damage: 2,540 × 1 hit<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>Attack Master +90%</span></dt><dd><div>Increases attack skill damage by 90%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>Curse Amp +90%</span></dt><dd><div>If the user is attuned to Shadow:<br>increases attack skill damage by 90%,<br>and grants attacks the Persona element Curse.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>■Regarding Ars&egrave;ne</div><div>Ars&egrave;ne will not appear in the Dragon&#39;s Roost in the Halidom, but his bond will be maximized and part one of his dragon story will be unlocked when he is summoned. Rewards equivalent to the Dragon Thank-Yous granted by other dragons (normally obtained when reaching certain bond levels with them) can be obtained by reading both parts of his dragon story (part two will unlock after reading part one). Summoning Ars&egrave;ne will not complete the &quot;Reach Bond Lv. 10 with a Dragon&quot; or &quot;Reach Bond Lv. 30 with a Dragon&quot; endeavors in the Royal Regimen.</div><div><br></div><div>Note: For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1612591200; update_time1612492941

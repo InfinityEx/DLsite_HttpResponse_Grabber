@@ -1,0 +1,8 @@
+article_id:2700
+category_name:Events
+title_name:Epilogue Added to the Princess Connect! Re: Dive: A Voracious Visitor Raid Event Revival!
+image_path:https://dragalialost.akamaized.net/attached/information/images/d0c87d65d7879e4f5d8e3f359fe2a84c.png
+
+message:<div>An epilogue has been added to the Princess Connect! Re: Dive: A Voracious Visitor raid event revival, which ended on <span class="local_date" data-local_date="1643608799"></span>.</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/d0c87d65d7879e4f5d8e3f359fe2a84c.png"></div><div><br></div><div>You can view the epilogue by tapping the banner on the lower-left corner of the Home screen, which can be accessed from the in-game footer menu, then by selecting View Quests.<br><br>■Epilogue Availability<br><span class="local_date" data-local_date="1643608800"></span> to <span class="local_date" data-local_date="1644213599"></span><br><br>Note: The epilogue can be viewed only by players who have completed up to episode 6 of the event&#39;s story.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1643608800; update_time1639985578

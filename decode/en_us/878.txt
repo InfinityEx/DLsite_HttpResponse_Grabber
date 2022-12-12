@@ -1,0 +1,8 @@
+article_id:878
+category_name:News
+title_name:Issue Regarding High Zodiark's Trial: Master, Temporary Unavailability
+image_path:
+
+message:<div>We have confirmed an issue in High Zodiark&#39;s Trial: Master where High Zodiark becomes unable to attack.</div><div>Consequently, we will make the High Zodiark&#39;s Trial: Master quest unavailable until the cause of this issue has been identified and corrected.</div><div><br></div><div>■Unavailability Period</div><div><span class="local_date" data-local_date="1573470000"></span> to when the issue is resolved.</div><div><br></div><div>We will post any updates on this quest&#39;s availability and on other issues in this notice.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1573470000; update_time1573470110

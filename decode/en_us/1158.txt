@@ -1,0 +1,170 @@
+article_id:1158
+category_name:News
+title_name:Summon Showcase: Dragon Special Is Now Live!
+image_path:
+
+message:<div>The Summon Showcase: Dragon Special kicked off <span class="local_date" data-local_date="1584943200"></span>!</div><div><br></div><div>The appearance rates for featured 4★ and 5★ dragons is currently boosted.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Note: The roster for this summon showcase does not include the new adventurers and dragons from the Paragons of Piety summon showcase, which is live now.</span></div><div><br></div><div>Dragon Special appearance rates:</div><div>5★ featured - Total: 2.40% (Adventurers: 0%, Dragons: 2.40%)</div><div>5★ normal - Total: 1.60% (Adventurers: 0.75%, Dragons: 0.85%)</div><div>4★ featured - Total: 7.00% (Adventurers: 0%, Dragons: 7.00%)</div><div>4★ normal - Total: 9.00% (Adventurers: 5.05%, Dragons: 3.95%)</div><div>3★ normal - Total: 80.00% (Adventurers: 48.00%, Dragons: 32.00%)</div><div><br></div><div>This showcase will be available from <span class="local_date" data-local_date="1584943200"></span> to <span class="local_date" data-local_date="1585288740"></span>.</div><div><br></div><div>Get a closer look at the featured dragons below.</div><div><br></div><div>Featured Dragons:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/293200f5e07a46f1040f4d093dc8110f.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,005</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon from Hinomoto, clad in flowers.<br>Any who receive her power bloom without limit,<br>but she is said to only bestow it upon those<br>she is sure will not wilt beneath its weight.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>Deciduous Dance</span>
+			</dt>
+			<dd>
+				<div>
+					Deals flame damage to the target and<br>nearby enemies, and increases the damage<br>dealt by the user's next skill by 40%.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Flame) Strength +20%</span></dt><dd><div>If the user is attuned to Flame: <br>increases strength by 20%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>(Flame) Skill Damage +90%</span></dt><dd><div>If the user is attuned to Flame:<br>increases attack skill damage by 90%.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e56a77d04fb2123522cdec3e99cb6e64.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,005</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A swift dragon clad in gusting winds. He is<br>distinguished by his speed, as the gales he<br>unleashes become blades that cleave the very<br>air itself. Though his rough and wild personality<br>makes him seem violent, he's actually quite kind.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/02e0e90cb54331571331affbe607d6362.png"></span>
+				<span>Purusha Prana</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to enemies in a line, and increases<br>the damage dealt by the user's next skill by 40%.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Wind) Strength +20%</span></dt><dd><div>If the user is attuned to Wind: <br>increases strength by 20%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>(Wind) Skill Damage +90%</span></dt><dd><div>If the user is attuned to Wind:<br>increases attack skill damage by 90%.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/03342af35f6bf3f21de93b07db693ff6.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A phoenix with the power of regeneration. Though<br>she's bubbly and strong-willed, she can also be<br>clumsy when her mind wanders. Some believe<br>her to be the model for the Ilian Church's sacred<br>bird symbol, but the truth remains a mystery.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>Refreshing Flare</span>
+			</dt>
+			<dd>
+				<div>
+					Deals light damage to surrounding enemies,<br>inflicts paralysis, and removes curses<br>and poison from all allies.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Light) Strength +50%</span></dt><dd><div>If the user is attuned to Light: <br>increases strength by 50%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28cbbe44c3b9fd009706ad48a7e4e0f52.png"></span><span>(Light) Paralyzed Punisher +20%</span></dt><dd><div>If the user is attuned to Light:<br>increases damage to paralyzed enemies by 20%.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent each dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>The other featured dragons are as follows.</div><div>4★ Dragons: Ifrit, Roc, Unicorn</div><div><br></div><div>Note:</div><div>For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1584943200; update_time1584586492

@@ -1,0 +1,8 @@
+article_id:247
+category_name:News
+title_name:Regarding the Damage of Orion (Valentine)'s Skill[Addendum]
+image_path:
+
+message:<div>It has been brought to our attention that the burn damage from Orion (Valentine)&#39;s skill Spinning Br&ucirc;l&eacute;e is different from the intended value.</div><div><br></div><div>We are currently fixing this issue.</div><div>Any further updates will be added to this notice.</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>[Addendum <span class="local_date" data-local_date="1550157000"></span>]</strong></span><br>The above issue has been fixed by the data update that took place at <span class="local_date" data-local_date="1550156100"></span>.<br><br>As a token of appreciation for your patience, we have sent out the following gift to all players who played the game before <span class="local_date" data-local_date="1550156100"></span>.<br><br>・Wrymite x300<br><br>For players who log in before <span class="local_date" data-local_date="1550760900"></span>, this gift can be claimed from your goodie box for up to 7 days after logging in.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1550144400; update_time1550199976

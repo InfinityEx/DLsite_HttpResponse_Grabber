@@ -1,0 +1,8 @@
+article_id:621
+category_name:News
+title_name:Issue Regarding the Astral Raid Rewards
+image_path:
+
+message:<div>We have confirmed an issue where clearing Astral Raid quests at a certain time would cause an error to be displayed in the results screen, and would prevent players from obaining the drop rewards.</div><div>This issue will be fixed before the next Astral Raids become available.</div><div><br></div><div>As a token of appreciation for your patience, we have sent all affected players the drop rewards that they were unable to obtain due to the issue above.</div><div>These were sent to all players who started an Astral Raid quest before <span class="local_date" data-local_date="1563775199"></span> and cleared it after <span class="local_date" data-local_date="1563775200"></span>.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1563790860; update_time1563790426

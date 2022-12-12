@@ -1,0 +1,8 @@
+article_id:3240
+category_name:News
+title_name:Part Two of Chapter 25: Proof of the Pact Added to the Main Campaign!
+image_path:https://dragalialost.akamaized.net/attached/information/images/1af0d5abb77344f9ce804c8aee4080d4.png
+
+message:<div>Part two of Chapter 25: Proof of the Pact was added to the main campaign on <span class="local_date" data-local_date="1653458400"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/1af0d5abb77344f9ce804c8aee4080d4.png"></div><div><br></div><div>With the invasion of Xenos&#39;s stronghold underway, the threat of total destruction looms ever nearer. But as the five Auspexes grasp the power of creation, Zena alone is unable to wield it&mdash;so to obtain the ability, she vows to face her past and bid farewell to her old world.<br><br>We hope you&#39;re looking forward to seeing what&#39;s in store for the prince and his friends!<br><br>■Notes<br>1. Part two of Chapter 25 of the main campaign will unlock when you clear Ch. 25 / 3-2 &quot;The Power of Creation.&quot;<br>2. The release of part two does not include additional dragons who can be unbound using draconic essences, but you can use the draconic essence icon displayed on the area map for each chapter in the main campaign to check the dragon whose draconic essence you can obtain, how many draconic essences you currently have, how many more you can obtain, and the quests from which you can obtain draconic essences.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1653458400; update_time1652696963

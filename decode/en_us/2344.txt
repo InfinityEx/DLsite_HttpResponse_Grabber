@@ -1,0 +1,8 @@
+article_id:2344
+category_name:News
+title_name:Part Two of Main Campaign Chapter 20: The Sacred Tree, Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/97a69c7780ea6f3129e8f3178e8a27a8.png
+
+message:<div>Part two of Chapter 20: The Sacred Tree will be added to the main campaign on <span class="local_date" data-local_date="1626847200"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/97a69c7780ea6f3129e8f3178e8a27a8.png"></div><div><br></div><div>We hope you&#39;re looking forward seeing what&#39;s in store for the prince and his friends!</div><div><br></div><div>Note: Part two of chapter 20 of the main campaign will unlock when you clear Ch. 20 / 4-3 &quot;The World He Left Behind.&quot;</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1626415200; update_time1626312201
