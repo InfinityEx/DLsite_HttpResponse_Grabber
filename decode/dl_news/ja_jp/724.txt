@@ -1,0 +1,30 @@
+article_id:724
+category_name:お知らせ
+title_name:「竜輝の護符交換所」のラインナップに新たな竜輝の護符を追加！
+image_path:
+
+message:<div><span style="color: rgb(0, 0, 0);"><span class="local_date" data-local_date="1568268000"></span>から、「竜輝の護符交換所」のラインナップに新たな竜輝の護符を追加しました。</span></div><div><span style="color: rgb(0, 0, 0);">&nbsp;</span></div><div><span style="color: rgb(0, 0, 0);">追加された竜輝の護符は、「竜輝の護符交換所」内の「ピックアップ」タブや、各レアリティのタブから交換できます。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);"><strong>【新たな竜輝の護符紹介】</strong></span></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/030fceb229d5e594d2ac30b647d0c3422.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">我ら、キャッスル応援団！</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>スキルチャージ・強撃Ⅲ&nbsp;(MaxⅢ)</span></dt><dd><div>バーストアタックがヒットした時、スキルゲージが25％アップする。この効果は1クエスト3回まで発動する。&nbsp;(MaxⅢ)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>スキルブースト＋6％&nbsp;(Max15％)</span></dt><dd><div>スキルゲージの上昇率が6％アップする。&nbsp;(Max15％)</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/9e2e0cf4998f2ddda4b467d6016c6ff62.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">幽美なる虚無</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP70％で攻＋10％&nbsp;(Max20％)</span></dt><dd><div>HP70％以上のとき、攻撃力が10％アップする。&nbsp;(Max20％)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>クリティカル率＋5％&nbsp;(Max15％)</span></dt><dd><div>攻撃がクリティカルになる確率が5％アップする。&nbsp;(Max15％)</div></dd></dl></div></div></div><div><br></div><div><span style="color: rgb(0, 0, 0);">※最大上限解放時のステータスです。入手時のステータスではありません。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">【ピックアップ期間】</span></div><div><span class="local_date" data-local_date="1568268000"></span> ～ <span class="local_date" data-local_date="1570168799"></span></div><div><br></div><div><span style="color: rgb(184, 49, 47);">※今回追加された竜輝の護符は、ピックアップ期間終了後も各レアリティのタブから交換できます。</span></div><div><br></div><div><span style="color: rgb(0, 0, 0);">【注意事項】</span></div><div><span style="color: rgb(0, 0, 0);">本お知らせに掲載されている内容以外の情報は、マイページ内のショップから「竜輝の護符交換所」をご確認ください。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">今後とも『ドラガリアロスト』をよろしくお願いいたします。</span></div>
+
+start_time:1568268000; update_time1568021730

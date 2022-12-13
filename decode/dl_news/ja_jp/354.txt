@@ -1,0 +1,8 @@
+article_id:354
+category_name:お知らせ
+title_name:「【ドラガリアロスト】人とドラゴンの歴史・前篇」公開のお知らせ
+image_path:
+
+message:<div>『ドラガリアロスト』の公式YouTube Channelで、「【ドラガリアロスト】人とドラゴンの歴史・前篇」を公開しました。</div><div>下記のページからご覧ください。</div><div><br></div><div>▼【ドラガリアロスト】人とドラゴンの歴史・前篇</div><div>https://youtu.be/L5-t1rB8HXI</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1535608800; update_time1555307167

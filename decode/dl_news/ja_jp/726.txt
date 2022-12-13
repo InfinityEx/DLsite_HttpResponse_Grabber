@@ -1,0 +1,8 @@
+article_id:726
+category_name:お知らせ
+title_name:真ドラゴンの試練に「真ゾディアークの試練」の追加が決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/8d94d4fbf7a983e94d5cc18a4c01c718.png
+
+message:<div><span class="local_date" data-local_date="1568872800"></span>から、最高難易度のイベントクエスト「真ドラゴンの試練」に、新コンテンツ「真ゾディアークの試練」の追加が決定いたしました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/8d94d4fbf7a983e94d5cc18a4c01c718.png"></div><div>闇竜ゾディアークが秘めたる力を解放した姿。</div><div>己を蝕む怨念を闇のマナへと昇華させ、果てのない影を生み出す。</div><div>影は愛しき者を守るため、その者に仇なす全てのものを呑みこむという。</div><div><br></div><div>【注意事項】</div><div>1. 「真ゾディアークの試練」に挑戦するには、パーティの戦力が13000以上である必要があります。</div><div>2. 「真ゾディアークの試練」に挑戦するには、「ゾディアークの試練 超級」をクリアする必要があります。</div><div>3. マルチプレイ参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1568354400; update_time1569475482

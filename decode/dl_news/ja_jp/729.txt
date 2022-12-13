@@ -1,0 +1,167 @@
+article_id:729
+category_name:お知らせ
+title_name:「ドラゴンレジェンド召喚」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1568872800"></span>から、「ドラゴンレジェンド召喚」の開催を予定しております。</div><div><br></div><div>ピックアップ対象の★5と★4ドラゴンの提供割合がアップします。</div><div><br></div><div>【ドラゴンレジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1568872800"></span> ～ <span class="local_date" data-local_date="1569562140"></span></div><div><br></div><div>ピックアップ対象のドラゴンの一部を、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/12a28bf73e96dd1528f2cc6682360f48.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>377</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>119</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>獣の如き雄々しい姿をしたドラゴン。<br>獰猛な外見ではあるが、その本質は<br>楽しいことが大好きな少年のそれである。<br>サーカスで愛嬌溢れる芸を披露する一方、<br>戦闘になれば、鋭い爪と牙で敵を一掃する。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>ブリッツブレイク</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に光属性のダメージを与え、「麻痺」状態にする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>【光】HP＆攻撃力＋30％</span></dt><dd><div>装備キャラが光属性なら<br>装備キャラのHPと攻撃力が30％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ceafd06fb6da5f96388a8d714f091284.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>377</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>119</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>恋に悩めるみんなの味方。<br>らぶとハッピーをこよなく愛し、<br>それらを人々に与える。<br>まだ幼く、純粋無垢。<br>愛を持つ全ての者に友好的に接する。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>らぶりぃぽーず</span>
+			</dt>
+			<dd>
+				<div>
+					味方全員のHPを回復する。また、15秒間、パーティ<br>全員のクリティカル率を25％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻撃力＋60％</span></dt><dd><div>装備キャラが光属性なら<br>装備キャラの攻撃力が60％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/9d611d9cfb8f7e029303989904bf1a1f.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>死を司るドラゴン。単に殺戮を好むという<br>わけではなく、死に瀕した人々の強い感情を<br>味わうことが生きがい。そのため災害、<br>疫病、戦争の被災地に姿を現し、不吉の<br>象徴として人々に恐れられるようになった。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1dc2f6f0f6e043a02de111856f4d5c092.png"></span>
+				<span>エクリプスゲート</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に闇属性のダメージを<br>与え、「暗闇」状態にする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>【闇】HP＆攻撃力＋30％</span></dt><dd><div>装備キャラが闇属性なら<br>装備キャラのHPと攻撃力が30％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1568786400; update_time1568774769

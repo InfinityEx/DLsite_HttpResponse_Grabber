@@ -1,0 +1,8 @@
+article_id:911
+category_name:お知らせ
+title_name:「期間限定パック」が表示されない不具合について【更新】
+image_path:
+
+message:<div><span style="color: rgb(44, 130, 201);"><strong>【<span class="local_date" data-local_date="1574926800"></span>追記】<br></strong></span>本不具合は、<span class="local_date" data-local_date="1574926200"></span>に解消し、現在正しく表示されることを確認しております。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div><div><br></div><hr><div>現在、<span class="local_date" data-local_date="1574924400"></span>から販売を開始した「期間限定パック」が、ショップに表示されない不具合が発生していることを確認しております。</div><div><br></div><div>本不具合は、現在原因を調査中です。</div><div><br>ご案内できることがございましたら、本お知らせにてご連絡いたします。</div><div>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div>
+
+start_time:1574925900; update_time1574927752

@@ -1,0 +1,8 @@
+article_id:1241
+category_name:お知らせ
+title_name:メインストーリーに第13章「闇より還りし者」を追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/08d3bcf09377427ade86db6bb769c5cb.png
+
+message:<div><span class="local_date" data-local_date="1587362400"></span>からメインストーリーに、第13章「闇より還りし者」を追加しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/08d3bcf09377427ade86db6bb769c5cb.png"></div><div>ヴォイドドラゴンを従え突如戦場に現れたファルエス。一行を襲う真意は如何に――。</div><div>古の叡智が眠る禁足の地で、第二位王子の過去と驚きの計画が明かされる。</div><div>そして、アルベリア王家絶対の秘密、最後の王子がついにその姿を現す――。</div><div><br></div><div>最新章をお楽しみください！</div><div><br></div><div>■注意事項</div><div>メインストーリー第13章「闇より還りし者」は、メインストーリー第12章 4-4「覇道」をクリアすると解放されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1587362400; update_time1586930437

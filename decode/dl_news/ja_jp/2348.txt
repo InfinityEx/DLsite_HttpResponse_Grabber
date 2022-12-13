@@ -1,0 +1,198 @@
+article_id:2348
+category_name:お知らせ
+title_name:リリース1000日記念！期間限定★5キャラ確定！「プラチナレジェンド召喚」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1626674400"></span>から、「プラチナレジェンド召喚」の開催を予定しております。</div><div><br></div><div>今回の「プラチナレジェンド召喚」では、「10回召喚」の10枠目で、一部の期間限定★５キャラのいずれかが確定で出現します。</div><div>本召喚は、期間中に「10回召喚」を3回までご利用いただけます。</div><div>また、本召喚は「ドラゴンダイヤ」でのみご利用いただけます。</div><div><span style="color: rgb(226, 80, 65);">※別途開催中の「★5確定ハッピー☆ギフトスクラッチ召喚」に、本召喚から期間限定で再登場するキャラ・ドラゴンは登場いたしません。</span></div><div><br></div><div>【10枠目に確定で出現する対象キャラ】</div><div>■キャラ</div><div>★5 ノブナガ：火/刀</div><div>★5 ムム（ハロウィンVer.）：火/斧</div><div>★5 セイメイ：火/ロッド</div><div>★5 アカーシャ（ハロウィンVer.）：水/刀</div><div>★5 クラウ（星竜祭Ver.）：水/短剣</div><div>★5 リリィ（星竜祭Ver.）：水/杖</div><div>★5 ヨシツネ：水/銃（散弾銃モード）</div><div>★5 メロディ（バレンタインVer.）：風/斧</div><div>★5 メルサ（ハロウィンVer.）：風/槍</div><div>★5 チェルシー（バレンタインVer.）：風/弓</div><div>★5 ミツヒデ：光/短剣</div><div>★5 マローラ（星竜祭Ver.）：光/斧</div><div>★5 エルフィリス（ハロウィンVer.）：光/槍</div><div>★5 イエヤス：闇/刀</div><div>★5 ヴィクター（星竜祭Ver.）：闇/斧</div><div>★5 アディス（バレンタインVer.）：闇/弓</div><div><br></div><div>【プラチナレジェンド召喚 開催期間】</div><div><span class="local_date" data-local_date="1626674400"></span> ～ <span class="local_date" data-local_date="1627624799"></span></div><div><br></div><div>「プラチナレジェンド召喚」の10枠目に確定で出現する、対象の★5キャラの一部を、下記にてご紹介いたします。</div><div><br></div><div>【10枠目確定対象★5キャラ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/42dc4854fbe234d769e75266006fac7b.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5acf4f3182dfd0356371c43a0b53ad902.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>809</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>467</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,526</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>サンメテオールに扮した氷晶族の少女。<br>氷晶族の誇りを胸に、星竜祭でみなに<br>幸せを届けようと奮闘する。なんでも<br>凍らせてしまう彼女だが、心はあたたか。<br>健気な頑張りに、みなの心も解けていく。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b505d80a6d01ec97e7ffff44998260562.png"></span>
+				<span>クリスタルマジック</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>パーティ全員のHPを回復し、30秒間、パーティ全員に【クリスタルパワー】を付与する。<br>【クリスタルパワー】は攻撃力の40％の【追いうちダメージ】を付与する。<br>また、60秒間、パーティ全員の攻撃力を15％アップする。この攻撃力アップ効果は重複しない。</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/221089680fc05db454b41e396a6b3d442.png"></span>
+				<span>サプライズプレゼント</span>
+			</dt>
+			<dd><div>自身の【サンメテオールパワー】バフをすべて消費し、10秒間、自身に【とっておきパワー】バフを付与する。<br>この効果は重複しない。<br>【とっておきパワー】バフは【サンメテオールパワー】バフを消費した数に応じて効果がアップする。<br>なし：攻撃力を20％アップする。<br>1つ：攻撃力を40％アップする。<br>2つ：攻撃力を60％アップする。<br>3つ：攻撃力を100％アップする。</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回復スキル効果＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の回復スキル効果が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【水】治癒：HP回復で攻＋8％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが水属性なら自身のHPが回復したとき、【15秒間、攻撃力が8％アップするバフ】が発動。<br>この効果は発動してから10秒間は発動しない。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5122215b634609527398e561ecdd33872.png"></span><span>サンメテオールのお仕事Ⅱ</span></dt><dd><div>スキル「クリスタルマジック」を使用時に自身に【サンメテオール・リリィ（重複不可）】バフが発動。<br>自身のバーストアタックが3回分【とっておきプレゼント】になる。<br>【とっておきプレゼント】はパーティ内で最もHPの割合が低いキャラのHPを回復し、【クエストの間、最大HPを15％アップする】バフを付与し、また自身に【サンメテオールパワー（3つまで重複可）】バフを付与する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f3503b7c11dab7e6111611cb63f010c32.png"></span><span>氷晶の加護Ⅱ</span></dt><dd><div>「火傷」、「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP満タンで攻＋20％</span></dt><dd><div>HP満タン時、攻撃力が20％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/18bdfa9b5b70735926736e4c924675a8.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>764</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>494</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>チョコレート菓子のようなドレスを纏った<br>チェルシー。愛しの「リュカきゅん☆」を<br>一途に想い続ける彼女は、バレンタインにも<br>相当な思い入れが。一体どんな強烈な……<br>もとい愛あるプレゼントを贈るのか。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a934f8bcb2c028554f97a353305475732.png"></span>
+				<span>恋の暴走ジェノサイド★</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、「裂風」状態にする。<br>また、自身に【レッツ・デリート★】を付与し、「火傷」状態にする。</div><div class="skill-detail">威力：906 × 2 Hit<br>威力：1,087 × 1 Hit<br>必要スキルポイント：2,910<br>必要シェアスキルポイント：12,658<br>特殊効果<br>・レッツ・デリート★<br>　攻撃力10％アップ<br>　効果時間：15 秒<br>　重複不可<br>・火傷<br>　効果時間：15 秒<br>　効果間隔：2.9 秒<br>　威力：最大HPの5％<br>・裂風<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0f7c131400617dcb8578eb1114ec52d22.png"></span>
+				<span>愛の力はインフィニティ☆</span>
+			</dt>
+			<dd><div>自身のラッピングゲージを1本チャージする。<br>スキル発動後【スキルシフト】が発生し、スキルの効果が最大で2回変化する。<br>また、ラッピングゲージが5本チャージされているとき、【スキルシフト】に関わらず次のように変化する。<br>パーティ全員に【スイートギフト】、自身に【ビターギフト】を付与し、スキル「恋の暴走ジェノサイド★」を即時発動可能にする。</div><div class="skill-detail">必要スキルポイント：11,640<br><br>（スキルシフト1回目）<br>必要スキルポイント：11,640<br>特殊効果<br>・スイートギフト<br>　防御力15％アップ<br>　効果時間：15 秒<br>　対象：パーティ全員<br><br>（スキルシフト2回目）<br>必要スキルポイント：11,640<br>特殊効果<br>・スイートギフト<br>　防御力15％アップ<br>　効果時間：15 秒<br>　対象：パーティ全員<br>・ビターギフト<br>　スキルダメージ30％アップ<br>　効果回数：1<br>　対象：自身<br>　重複不可<br><br>（アビリティ効果発動時）<br>必要スキルポイント：11,640<br>特殊効果<br>・スイートギフト<br>　防御力15％アップ<br>　効果時間：15 秒<br>　対象：パーティ全員<br>・ビターギフト<br>　スキルダメージ30％アップ<br>　効果回数：1<br>　対象：自身<br>　重複不可<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>スキルブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のスキルゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span>
+				<span>【風】背水：逆上でシールドⅤ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが風属性なら、状態異常判定を持つ攻撃を受けた時、【最大HPの25％以下のダメージを無効化するシールド】を付与する。この効果は発動してから20秒間は発動しない。シールドの効果は1回のみで、同種のシールドとは重複しない。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28c11357a92bd55c2e5268bd733d83622.png"></span><span>セルフ☆ラッピングⅡ</span></dt><dd><div>ラッピングゲージを追加する。ラッピングゲージは以下の効果を持つ。<br>①最大5本までチャージでき、5本チャージされている場合は通常攻撃およびスキル2が強化される。<br>②スキル2の効果で1本チャージされる。<br>③スキルによってバフを付与されるたび、1本の12.5％分チャージされる。この効果は発動してから5秒間は発動しない。<br>④チャージされている本数に応じて、自身のスキルダメージ・防御力・最大HP・状態異常になる確率が、それぞれ以下のように変化する。<br>なし：−10％、−10％、−10％、変化なし<br>1本：−5％、−5％、−5％、−20％<br>2本：変化なし、変化なし、変化なし、−40％<br>3本：＋5％、＋5％、＋5％、−60％<br>4本：＋10％、＋10％、＋10％、−80％<br>5本：＋25％、＋15％、＋15％、−100％</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c4b3c1e9ed13f178980bfc77eb8713b52.png"></span><span>キャッチング★ファイアⅡ</span></dt><dd><div>「火傷」判定を持つ攻撃を受けた時、自身のスキル2を25％チャージし、8秒間【激熱ラブ】が発動。<br>この効果中は攻撃速度が15％アップし、最大3回バーストアタックに【敵のバフを1つ解除する効果】が付与される。<br>【激熱ラブ】は重複せず、またこのアビリティの効果は発動してから5秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/50e8f27a8ccb8795c0a52d0417e9e2862.png"></span><span>裂風特効＋30％</span></dt><dd><div>「裂風」状態の敵に与えるダメージが30％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>【注意事項】</div><div>1. 「プラチナレジェンド召喚」についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「プラチナレジェンド召喚」の「提供割合」や「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. 「プラチナレジェンド召喚」では「竜輝の印」を獲得できません。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1626588000; update_time1626166754

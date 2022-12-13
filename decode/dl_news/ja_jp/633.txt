@@ -1,0 +1,8 @@
+article_id:633
+category_name:イベント
+title_name:イベント予告「トレジャー・アイランド！」開催！
+image_path:https://dragalialost.akamaized.net/attached/information/images/6feedd8404f6b4a7da080fe7928ddf84.png
+
+message:<div><span class="local_date" data-local_date="1564552800"></span>から、レイドイベント「トレジャー・アイランド！」の開催を予定しております。</div><div>イベント「トレジャー・アイランド！」は、火属性のレイドボスとマルチプレイで戦うイベントです。</div><div><br></div><div>&nbsp;<img src="https://dragalialost.akamaized.net/attached/information/images/6feedd8404f6b4a7da080fe7928ddf84.png"></div><div>白い砂浜、青い海、きらめく太陽――！</div><div>戦士にも休息は必要。</div><div>王子たち一行は、風光明媚な島でバカンスを満喫していた。</div><div>しかし、その島には大きな秘密が！</div><div>どうやら島のどこかに宝が眠っているらしいのだ。</div><div>宝の地図に導かれ、王子たちは蒼炎のドラゴンと、</div><div>奇怪な海洋大魔獣に出会う&hellip;&hellip;！</div><div><br></div><div>■注意事項</div><div>1. イベントクエスト参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div>2. マルチプレイ参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1564466400; update_time1569485392

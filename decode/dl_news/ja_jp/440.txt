@@ -1,0 +1,8 @@
+article_id:440
+category_name:お知らせ
+title_name:スキップチケットを複数枚使用した際にクエストを開始できない不具合について
+image_path:
+
+message:<div>スキップチケットを複数枚使用してクエストを開始しようとした際に、スタミナの最大値よりも消費スタミナの合計が上回っていた場合、「サポートコード:20021」が表示されクエストを開始できない不具合が発生しておりました。</div><div><br></div><div>本現象は、<span class="local_date" data-local_date="1556280000"></span>に修正が完了しております。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div>
+
+start_time:1556280000; update_time1556288013

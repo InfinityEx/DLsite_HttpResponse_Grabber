@@ -1,0 +1,8 @@
+article_id:224
+category_name:お知らせ
+title_name:真ブリュンヒルデが引っかき攻撃を行わない不具合について
+image_path:
+
+message:<div>「真ブリュンヒルデの試練」にて、真ブリュンヒルデが引っかき攻撃をせず一定時間行動しない不具合が発生しておりました。</div><div><br></div><div>本不具合は、<span class="local_date" data-local_date="1548727200"></span>以降に行ったメンテナンスにて解消しております。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div><div><br></div><div>本不具合のお詫びとして、<span class="local_date" data-local_date="1548727200"></span>までにゲームを開始されたプレイヤーの皆様に、下記のアイテムを順次お送りいたします。</div><div><br></div><div>・竜輝晶300個</div><div><br></div><div>お送りしたアイテムは、「プレゼント」からお受け取りいただけます。</div><div>お送りしたアイテムは、<span class="local_date" data-local_date="1549346340"></span>までにゲームにログインした際に受け取れます。</div><div>お送りしたアイテムの受け取り期限は、プレゼントにアイテムが送られてから7日間です。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことを重ねてお詫び申し上げます。</div>
+
+start_time:1548746100; update_time1549535650

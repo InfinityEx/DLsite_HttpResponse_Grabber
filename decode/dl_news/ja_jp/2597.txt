@@ -1,0 +1,8 @@
+article_id:2597
+category_name:イベント
+title_name:施設イベント【復刻】「オペラハウスの怪盗」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/3905d5e3fce50d33b47ad0052132d8f7.png
+
+message:<div><span class="local_date" data-local_date="1637042400"></span>から、施設イベント【復刻】「オペラハウスの怪盗」の開催を予定しております。<br>光属性のボスと戦い、イベント限定の施設を報酬として獲得し、建設できるイベントです。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/3905d5e3fce50d33b47ad0052132d8f7.png"></div><div>■イベント期間<br><span class="local_date" data-local_date="1637042400"></span> ～ <span class="local_date" data-local_date="1638165599"></span><br><br>■注意事項<br>1. イベントクエスト参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br>2. マルチプレイ参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1636696800; update_time1635728952

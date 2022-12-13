@@ -1,0 +1,244 @@
+article_id:3028
+category_name:お知らせ
+title_name:「ドラガリアフェス」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1659074400"></span>から、「ドラガリアフェス」の開催を予定しております。</div><div><br></div><div>【ドラガリアフェスとは】 ※「ドラガリアフェス　エクストラ」含む</div><div>★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップします！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><br></div><div>【ピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 クラウ（ドラフェスVer.）：闇/ロッド</div><div>★5 ゼシア（ドラフェスVer.）：闇/刀</div><div><br></div><div>■ドラゴン</div><div>★5 ケットシー（ドラフェスVer.）：闇</div><div><br></div><div>【ドラガリアフェス開催期間】</div><div><span class="local_date" data-local_date="1659074400"></span> ～ <span class="local_date" data-local_date="1659506399"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6db7093021a41135142d5f8a935e95c3.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/960c7daac545c22ad02e9e69f39f670e2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>785</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>489</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,514</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>聖城に封印されたロッドから、大いなる力を<br>得たクラウ。今までは回復支援が多かったが<br>自らの弱さと決別し、強く一歩前へ出る。<br>体力のなさは相変わらずだが、その分、<br>知略を駆使して、強大な攻撃魔法を放つ。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d3e8717c75363aa57b66e9021fff4d352.png"></span>
+				<span>エンシェントレイ</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>複数の攻撃対象とその周囲の敵にダメージを与える。敵にヒットさせると【スキルシフト】が発生し、スキルの効果が最大で2回変化する。</div><div class="skill-detail">威力：88 × 3 Hit<br>威力：265 × 3 Hit<br>必要スキルポイント：2,814<br>必要シェアスキルポイント：7,316<br><br>（スキルシフト1回目）<br>威力：88 × 4 Hit<br>威力：265 × 4 Hit<br>必要スキルポイント：2,814<br><br>（スキルシフト2回目）<br>威力：88 × 5 Hit<br>威力：265 × 5 Hit<br>必要スキルポイント：2,814<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0b6e96a9297308fa346ed1059be779062.png"></span>
+				<span>エルダーズフェイス</span>
+			</dt>
+			<dd><div>ターゲットとその周囲の敵にダメージを与え、防御力をダウンさせる。敵にヒットさせると【スキルシフト】が発生し、スキルの効果が最大で2回変化する。</div><div class="skill-detail">威力：460 × 1 Hit<br>必要スキルポイント：6,000<br>特殊効果<br>・防御力10％ダウン<br>　効果時間：20 秒<br><br>（スキルシフト1回目）<br>威力：460 × 1 Hit<br>必要スキルポイント：6,000<br>特殊効果<br>・攻撃力5％ダウン<br>　効果時間：20 秒<br>・防御力10％ダウン<br>　効果時間：20 秒<br><br>（スキルシフト2回目）<br>威力：460 × 1 Hit<br>回復力：22<br>必要スキルポイント：6,000<br>特殊効果<br>・攻撃力5％ダウン<br>　効果時間：20 秒<br>・防御力10％ダウン<br>　効果時間：20 秒<br>・HP継続回復<br>　効果時間：15 秒<br>　効果間隔：2.9 秒<br>　効果量：17<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>スキルダメージ＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のスキルダメージが15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span>
+				<span>【闇】堅守：HP80％で耐光＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが闇属性ならHP80％以上のとき、光属性耐性が6％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1582968ccea870712399e4e9e9e34edd2.png"></span><span>術式練化Ⅱ</span></dt><dd><div>スキル「エンシェントレイ」を使用したとき、自身に【アルターバースト】バフが発動。次に使用するバーストアタックが、地面に10秒間【攻撃力アップバフフィールド】を設置するものに変化する。このフィールドの中にいるキャラは攻撃力が25％アップする。【アルターバースト】バフは重複せず、バーストアタックを使用すると解除される。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bd7de81c28d0b9c93b0edbfc86b0cb6a2.png"></span><span>千古の加護Ⅱ</span></dt><dd><div>「暗闇」、「麻痺」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>開幕スキルゲージ＋100％</span></dt><dd><div>クエスト開始時のスキルゲージが100％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/01a75c2073898f15bb7b74d0e799688d.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>739</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>521</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>創世の竜バハムートの力を得たゼシア。<br>バハムートとの契約は半分だけで不完全な<br>状態のため、力のすべてを発揮できるわけ<br>ではない。だがそれでも、その力は極めて<br>強大であり、背負った代償も非常に大きい。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3a6524f4f9c6d3f80a23eb3c1ac353f92.png"></span>
+				<span>ジェネシスクラウン</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>・周囲の敵にダメージを与える。<br>・スキル中、攻撃でのけぞらず、また受けるダメージを30％カットする。<br>・このスキルは時間経過で自動的にチャージされ、使用するたびに満タンになるまでに必要な時間が増える。このチャージは「スキルゲージの上昇量をアップさせる効果」を受けず、チャージ時間が増える効果は2回まで発動する。</div><div class="skill-detail">威力：394 × 5 Hit<br>必要スキルポイント：時間経過でチャージ<br>必要シェアスキルポイント：6,240<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻撃力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の攻撃力が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span>
+				<span>【闇】士気：会心威力・耐光＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが闇属性ならクリティカル時のダメージ倍率アップのバーストオーラが付与されているとき、光属性耐性が6％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b75445f3dd3b27a93ef9fadf6ac292a32.png"></span><span>創世竜の霊威Ⅱ</span></dt><dd><div>①竜化ボタンがバハムート召喚ボタンに変化し、以下の効果を得る。<br>・バハムートの召喚中は一部の通常攻撃の威力がアップする。<br>・召喚されたバハムートは自動で攻撃を行い、一定回数攻撃を行うとスキルを発動する。これらの攻撃は、バハムート（ドラフェスVer.）のものと同じ威力となる。<br>・召喚ゲージは、バハムートを召喚していない状態で一部の通常攻撃を敵にヒットさせることでチャージできる。<br>②通常攻撃中にフリックによる回避を行った場合、回避の性能が変化。回避中周囲の敵に追加攻撃を行う。また、この回避中にさらに通常攻撃を行った場合、通常攻撃のコンボを続きから行う。（この回避からさらに回避を行った場合、通常の回避となる。）<br>③敵の攻撃を回避したとき、周囲の敵にダメージを与える。この効果は一回の回避につき一度まで発動する。<br>④スキル2を習得しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bd7de81c28d0b9c93b0edbfc86b0cb6a2.png"></span><span>創世の加護Ⅱ</span></dt><dd><div>「暗闇」、「麻痺」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/2b61051285afb3de0474ccae5ace68ec2.png"></span><span>神託の大太刀Ⅱ</span></dt><dd><div>通常攻撃のコンボの5段目または9段目を行ったとき、自身にクリティカル時のダメージ倍率アップのオーラ（バーストオーラ上限Lv1）を付与する。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1c67df2ea4ff3a0771fd028480f9dcc4.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>シェスの契約竜。可愛らしい見た目と<br>裏腹に気まぐれで悪戯好き。人間観察と<br>夜の散歩が趣味。心を許した人間以外は<br>玩具同然に考えている。非情さと情熱を<br>兼ね揃えた性格は契約主似ともいえる。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>エレガントアーティフィス</span>
+			</dt>
+			<dd><div>前方の敵に10秒間、ダメージを与える。</div><div class="skill-detail">威力：48.4 × 33 Hit<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【闇】クレバートリックⅤ</span></dt><dd><div>装備キャラが闇属性なら<br>クエスト開始時、自身に【次のスキルダメージが180％アップするバフ】を15回分付与する。また攻撃が25ヒットするたび自身に【次のスキルダメージが180％アップするバフ】を付与する。【次のスキルダメージが180％アップするバフ】は最大で15個までスタックすることができ超過分は消滅する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【闇】竜化解除時付与・クレバートリックⅤ</span></dt><dd><div>装備キャラが闇属性なら<br>竜化が解除されたとき、自身に【次のスキルダメージが180％アップするバフ】を8回分付与する。</div></dd></dl></div></div></div><div>※Lv100、上限解放4段階、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1658988000; update_time1648631899

@@ -1,0 +1,8 @@
+article_id:2911
+category_name:イベント
+title_name:イベント予告【復刻】「ドラガリア・デイブレイク」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/11fb5ec2132cc7bfa88318d3c056b22e.png
+
+message:<div><span class="local_date" data-local_date="1664517600"></span>から、レイドイベント【復刻】「ドラガリア・デイブレイク」の開催を予定しております。</div><div><br>【復刻】「ドラガリア・デイブレイク」は、無属性のレイドボスとマルチプレイで戦うイベントです。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/11fb5ec2132cc7bfa88318d3c056b22e.png"></div><div>イベントテーマ曲：「Because of You」/セツコ<br>作詞作曲：TAKU INOUE<br>編曲：棚橋&quot;EDDY&quot;テルアキ<br><br>■イベント期間<br><span class="local_date" data-local_date="1664517600"></span> ～ <span class="local_date" data-local_date="1665381599"></span><br><br>■注意事項<br>1. イベントクエスト参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br>2. マルチプレイ参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1664258400; update_time1646190783

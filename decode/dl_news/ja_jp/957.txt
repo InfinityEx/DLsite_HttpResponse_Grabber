@@ -1,0 +1,8 @@
+article_id:957
+category_name:イベント
+title_name:イベント予告「新春にゃあちゅう大合戦」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/a3151b5d8c41415a9380ab9cc093923d.png
+
+message:<div><span class="local_date" data-local_date="1577772000"></span>から、レイドイベント「新春にゃあちゅう大合戦」の開催を予定しております。</div><div>イベント「新春にゃあちゅう大合戦」は、闇属性のレイドボスとマルチプレイで戦うイベントです。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a3151b5d8c41415a9380ab9cc093923d.png"></div><div>今年の正月は賑やか華やか！<br>ぐうたら姫がハチャメチャなヤツらを連れてやってくる！<br>福を届けに来た十二竜氏ミツヒデ。<br>だが道中、にゃんこドラゴンのエビスに福を奪われてしまう。<br>奪還に立ち上がる、ねずみドラゴン、天下一カワイイ男子、日舞の達人、<br>さらに&hellip;&hellip;もうひとりの十二竜氏。<br>にゃあちゅう大合戦の始まり始まり～！<br><br><br>■注意事項<br>1. イベントクエスト参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。<br>2. マルチプレイ参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1577426400; update_time1577519613

@@ -1,0 +1,249 @@
+article_id:2968
+category_name:お知らせ
+title_name:「ドラガリアフェス　エクストラ」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1647237600"></span>から、「ドラガリアフェス　エクストラ」を開催中です！</div><div><br></div><div>【ドラガリアフェスとは】 ※「ドラガリアフェス　エクストラ」含む</div><div>★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップします！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><span style="color: rgb(226, 80, 65);">※今回新規で追加される★5キャラ「シーラ（火）」は、次回のレジェンド召喚からも登場します。</span></div><div><span style="color: rgb(226, 80, 65);">※これまでの「ドラガリアフェス」で追加されたキャラ・ドラゴンも本召喚から登場する場合があります。登場するキャラ・ドラゴンの詳細はゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</span></div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 シーラ：火/短剣</div><div><br></div><div>【過去のドラガリアフェスから登場するピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 ムム（ドラフェスVer.）：火/槍</div><div><br></div><div>■ドラゴン</div><div>★5 マーズ（ドラフェスVer.）：火</div><div><br></div><div>【ドラガリアフェス　エクストラの提供割合】</div><div>★5 合計：6.00％</div><div>★5ピックアップ 合計：1.80％（キャラ：1.00％ ドラゴン：0.80％）</div><div>★5通常 合計：4.20％（キャラ：2.00％ ドラゴン：2.20％）</div><div>★4通常 合計：16.00％（キャラ：8.55％ ドラゴン：7.45％）</div><div>★3通常 合計：78.00％（キャラ：47.00％ ドラゴン：31.00％）</div><div><br></div><div>【ドラガリアフェス　エクストラ開催期間】</div><div><span class="local_date" data-local_date="1647237600"></span> ～ <span class="local_date" data-local_date="1647496799"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/245bfecab1d66a464cf0b2238300c74a.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>500</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>心を取り戻し、巫女として覚醒したシーラ。<br>長い間、黒いマナに魂を囚われ続けていたが<br>父ガトフとの親子の絆が魂を呼び戻した。<br>魂を取り戻した彼女は、巫女衣装に身を包み<br>心新たに己の信じる道を歩み始める。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/617c65154a9d4f27f02e0be8cb970a2c2.png"></span>
+				<span>カーマインラッシュ</span>
+			</dt>
+			<dd><div>■通常時<br>・直線上の敵にダメージを与え、【破邪の巫呪】と【火属性耐性ダウン】を付与する。<br><br>■強化時<br>スキル2の使用直後に使用した場合、スキルが「ブライトカーマインラッシュ」となり、効果が次のようになる。<br>・直線上の敵にダメージを与え、【破邪の巫呪】と【火属性耐性ダウン】を付与する。<br>・自身に【巫女の気炎】が付与されている場合、それを解除し、スキル2を即時発動可能にする。</div><div class="skill-detail">威力：190 × 2 Hit<br>威力：380 × 3 Hit<br>必要スキルポイント：4,480<br>特殊効果<br>・火属性耐性15％ダウン<br>　効果時間：30 秒<br>　重複不可<br>・破邪の巫呪<br>　効果時間：15 秒<br>　重複不可<br><br>（変化後）<br>威力：190 × 4 Hit<br>威力：380 × 6 Hit<br>必要スキルポイント：4,480<br>特殊効果<br>・火属性耐性15％ダウン<br>　効果時間：30 秒<br>　重複不可<br>・破邪の巫呪<br>　効果時間：30 秒<br>　重複不可</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/214b245198821e4cba0f9684c85604352.png"></span>
+				<span>フレイムレイド</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>■通常時<br>・周囲の敵にダメージを与え、「火傷」状態にし、バフを1つ解除する。<br><br>■強化時<br>スキル1の使用直後に使用した場合、スキルが「サベージフレイムレイド」となり、効果が次のようになる。<br>・周囲の敵にダメージを与え、「劫火」状態にし、バフを1つ解除する。<br>・自身に【巫女の気炎】が付与されている場合、それを解除し、スキル1を即時発動可能にする。</div><div class="skill-detail">威力：200 × 7 Hit<br>必要スキルポイント：4,480<br>特殊効果<br>・バフ解除<br>・火傷<br>　効果時間：12 秒<br>　効果間隔：3.9 秒<br>　威力：72.7<br><br>（変化後）<br>威力：250 × 7 Hit<br>必要スキルポイント：4,480<br>必要シェアスキルポイント：10,528<br>特殊効果<br>・バフ解除<br>・劫火<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：31.1</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>クリティカル率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のクリティカル確率が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span>
+				<span>【火】士気：竜化チャージⅤ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性なら自身にオーラまたはバーストオーラが付与されるたび、竜化ゲージが3％アップする。この効果は発動してから10秒間は発動しない。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/594de4fde56822ee8624ebff22a1dafd2.png"></span><span>閃狼仕込みの戦闘術Ⅱ</span></dt><dd><div>①【破邪の巫呪】が付与されている敵に対して、クリティカル時のダメージ倍率が20％アップし、スキル2が必ずクリティカルになる。（超ヒラメキ付与時にスキルを使用した場合、超ヒラメキは消費される。）<br>②通常攻撃中にフリックによる回避を行った場合、回避の性能が変化。回避発動時に周囲の敵にダメージを与える。また、この回避中にさらに通常攻撃を行った場合、通常攻撃のコンボを続きから行う。（この回避からさらに回避を行った場合、通常の回避となる。）<br>③スキル1またはスキル2発動中、自身に【ダメージを50％カットするバフ】を付与し、攻撃でのけぞらなくなる。<br>④スワイプによる移動の速度が35％アップする。この効果はダッシュ中および竜化中は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea4c47784ca6465117276eb2a3d9a0d92.png"></span><span>不屈の精神Ⅱ</span></dt><dd><div>「気絶」、「睡眠」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d805814858ba5df827dbca1af8119dfc2.png"></span><span>王撃の決意Ⅱ</span></dt><dd><div>①通常攻撃のコンボの4段目を行ったとき、自身にクリティカル時のダメージ倍率アップのオーラ（バーストオーラ上限Lv1）を付与する。<br>②スキル1を使用するたび、自身に防御力アップのオーラ（バーストオーラ上限Lv1）を付与する。<br>③通常攻撃のコンボの7段目を行ったとき、自身に【巫女の気炎（重複不可）】を付与する。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5b06cebfd7c266dfb87bf13b6f3210c7.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>749</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>510</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>「愛する人のそばにいたい！」——そんな<br>乙女心から、緋竜ブリュンヒルデが人間に<br>変身した姿。自分を救ってくれた王子を<br>「ダーリン」と呼び慕い、熱い視線を送る。<br>種族の違いなど、彼女にとっては問題なし。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>ドラゴンズラッシュ</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、自身の攻撃力をアップする。このスキルがヒットすると自身の竜化ゲージが上昇する。</div><div class="skill-detail">威力：767.5 × 3 Hit<br>必要スキルポイント：2,914<br>必要シェアスキルポイント：12,821<br>特殊効果<br>・攻撃力20％アップ<br>　効果時間：10 秒<br>竜化ゲージ回復量：50<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>レッドイグニション</span>
+			</dt>
+			<dd><div>直線上の敵にダメージを与える。</div><div class="skill-detail">威力：517.5 × 4 Hit<br>必要スキルポイント：5,736<br><br>（アビリティ効果発動時）<br>威力：622 × 4 Hit<br>必要スキルポイント：5,736<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のHPが15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【火】竜化：竜の恩寵・攻Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性なら竜化するごとに攻撃力がアップする。<br>この効果は1クエスト3回まで発動する。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b5b8a0971c2940faccafb60e2bb060ab2.png"></span><span>緋竜発現Ⅱ</span></dt><dd><div>「火傷」状態になる確率が100％ダウンする。装備しているドラゴンに関わらずブリュンヒルデに竜化する。竜化時、自身に【クエスト中攻撃力が15％アップし、スキル「レッドイグニション」を強化するバフ】が発動。この効果は1クエスト中1回まで発動する。1クエスト中の竜化2回目からは真ブリュンヒルデに竜化し、竜化中の攻撃速度が15％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ed2537bb247dfd2ad93353a86c3d8c12.png"></span><span>ヴォルテック・ボルテージⅡ</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。<br>気絶判定を持つ攻撃を受けた時、スキル「ドラゴンズラッシュ」を50％チャージする。スキルチャージ効果は発動してから15秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>竜化時間＋20％</span></dt><dd><div>竜化時間が20％延長される。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/fb551a31bc9be683ff0913a1f109e693.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>有史最強と名高いドラゴン。<br>その炎で百の王国を燃やし尽くしたとされ、<br>人々から『焔竜』と呼ばれ畏れられている。<br>世界最強の火竜となるため、レオニードと<br>契約し、その身に錬金術を施した。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>アルケミックヘルフレア</span>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、自身の攻撃力をアップする。攻撃時に敵を引き寄せる。このスキルは竜化中に攻撃することで再チャージが可能で、1度の竜化中に最大2回まで使用できる。</div><div class="skill-detail">威力：500 × 3 Hit<br>特殊効果<br>・攻撃力20％アップ<br>　効果時間：20 秒<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻撃力アップ＆HP50％で攻＋20％Ⅴ</span></dt><dd><div>装備キャラが火属性なら<br>装備キャラの攻撃力が70％、HP50％以上のとき、更に攻撃力が20％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>【火】竜化解除時付与・スキルゲージ＋100％</span></dt><dd><div>装備キャラが火属性なら<br>竜化が解除されたとき、自身のスキルゲージが100％アップする。</div></dd></dl></div></div></div><div>※Lv100、上限解放4段階、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1647237600; update_time1646725975

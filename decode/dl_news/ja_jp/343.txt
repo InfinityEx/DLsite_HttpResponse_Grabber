@@ -1,0 +1,8 @@
+article_id:343
+category_name:お知らせ
+title_name:予約トップ10で事前登録を開始！
+image_path:
+
+message:<div>2018/05/21(月)から、予約トップ10での事前登録を開始しました。</div><div>下記のページから、ぜひご登録ください。</div><div><br></div><div>▼iOS版</div><div>https://yoyaku-top10.jp/u/t/MjYzNjI</div><div><br></div><div>▼Android版</div><div>https://yoyaku-top10.jp/u/t/MjYzNjM</div><div><br></div><div>また、事前登録者数に応じたキャンペーンを実施しております。</div><div>キャンペーン内容や登録方法などの詳細は、下記のページをご確認ください。</div><div><br></div><div>▼事前登録キャンペーンページ</div><div>https://dragalialost.com/jp/pre_registration/</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1526968800; update_time1555291639

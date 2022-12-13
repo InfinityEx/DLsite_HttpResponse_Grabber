@@ -1,0 +1,30 @@
+article_id:877
+category_name:お知らせ
+title_name:「竜輝の護符交換所」のラインナップに新たな竜輝の護符を追加！【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1574925000"></span>追記】</strong></span><br>本お知らせにてご案内しておりました、「竜輝の護符交換所」のピックアップ期間を下記のとおり延長いたします。<br><br>■ピックアップ期間<br><span class="local_date" data-local_date="1573624800"></span> ～ <span class="local_date" data-local_date="1575266399"></span><br><br>※今回追加された竜輝の護符は、ピックアップ期間終了後も各レアリティのタブから交換できます。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div><hr><div><span style="color: rgb(0, 0, 0);"><span class="local_date" data-local_date="1573624800"></span>から、「竜輝の護符交換所」のラインナップに新たな竜輝の護符を追加しました。</span></div><div><span style="color: rgb(0, 0, 0);">&nbsp;</span></div><div><span style="color: rgb(0, 0, 0);">追加された竜輝の護符は、「竜輝の護符交換所」内の「ピックアップ」タブや、各レアリティのタブから交換できます。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);"><strong>【新たな竜輝の護符紹介】</strong></span></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/c645654fc88420d388772eb3db714ad52.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">あたしだけのリュカきゅん☆☆☆</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>【弓】クリティカル率＋14％&nbsp;(Max15％)</span></dt><dd><div>装備キャラの武器種が弓なら<br>装備キャラの攻撃がクリティカルになる確率が14％アップする。&nbsp;(Max15％)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>起死回生・攻＋10％&nbsp;(Max10％)</span></dt><dd><div>HP30％以下になったとき、【クエスト中、攻撃力が10％アップするバフ】が発動。<br>この効果は1クエスト中3回まで発動する。&nbsp;(Max10％)</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/9815dee85434309c2e8833ffb863d1052.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">おらぁ！チャリオッツで来たぜぇ！</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>クリティカルダメージ＋15％&nbsp;(Max25％)</span></dt><dd><div>クリティカル時のダメージ倍率が15％アップする。&nbsp;(Max25％)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>背水の陣・治癒Ⅲ&nbsp;(MaxⅣ)</span></dt><dd><div>HP30％以下になったとき、【20秒間、HPを継続回復するバフ】が発動。<br>この効果は1クエスト中1回まで発動する。&nbsp;(MaxⅣ)</div></dd></dl></div></div></div><div><br></div><div><span style="color: rgb(0, 0, 0);">※最大上限解放時のステータスです。入手時のステータスではありません。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">【ピックアップ期間】</span></div><div><span class="local_date" data-local_date="1573624800"></span> ～ <span class="local_date" data-local_date="1575007199"></span></div><div><br></div><div><span style="color: rgb(184, 49, 47);">※今回追加された竜輝の護符は、ピックアップ期間終了後も各レアリティのタブから交換できます。</span></div><div><br></div><div><span style="color: rgb(0, 0, 0);">【注意事項】</span></div><div><span style="color: rgb(0, 0, 0);">本お知らせに掲載されている内容以外の情報は、マイページ内のショップから「竜輝の護符交換所」をご確認ください。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">今後とも『ドラガリアロスト』をよろしくお願いいたします。</span></div>
+
+start_time:1573624800; update_time1575022815

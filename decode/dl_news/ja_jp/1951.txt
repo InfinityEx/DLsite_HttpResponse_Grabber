@@ -1,0 +1,8 @@
+article_id:1951
+category_name:お知らせ
+title_name:召喚ページにてエラーが発生する不具合について【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1611557880"></span> 更新</strong></span></div><div><br></div><div>本不具合は<span class="local_date" data-local_date="1611554400"></span> &nbsp;～ <span class="local_date" data-local_date="1611556800"></span> の間に発生しておりました。<br>現在は解消しております。<br>本不具合のお詫びとして<span class="local_date" data-local_date="1611556800"></span>までにゲームを開始されたプレイヤーの皆様に下記アイテムを順次お送りいたします。<br><br>・竜輝晶 120個<br><br>プレイヤーの皆様には、ご迷惑をおかけしましたことを重ねてお詫び申し上げます。<br>今後ともドラガリアロストをよろしくお願いいたします。</div><div><br></div><hr><div><span class="local_date" data-local_date="1611554400"></span> 以降、召喚画面にて「サポートコード：9002」が表示され、タイトル画面に戻される不具合の発生を確認しております。</div><div><br></div><div>本不具合に関しましては、現在調査を進めております。</div><div><br></div><div>ご案内できることがございましたら本お知らせにて追記を行ってまいりますため、対応まで今しばらくお待ちください。</div><div><br></div><div>プレイヤーの皆様にはご迷惑をおかけしておりますことお詫び申し上げます。</div>
+
+start_time:1611556020; update_time1611561282

@@ -1,0 +1,8 @@
+article_id:1673
+category_name:お知らせ
+title_name:2周年記念アンケート開催中！
+image_path:
+
+message:<div>いつも『ドラガリアロスト』をプレイしていただき誠にありがとうございます。</div><div>Ver.2.0.0ではクラフトの改修やバランス調整といった仕様改修や、アルベリアバトルロイヤルといった新たなゲームモードの追加を実施してまいりました。</div><div>本アンケートでは、Ver.2.0.0で行ったアップデートの内容を含めた『ドラガリアロスト』に関して、プレイヤーの皆様からのご意見をお聞かせいただければと思います。</div><div>お寄せいただいた内容は運営チームで持ち帰り、検討した上でその返答をまとめて公式サイトにて公開したいと思います。</div><div>すべての意見に触れることは難しいのですが、プレイヤーの皆様からいただいたご意見はすべて目を通した上で返答したいと思っておりますので、ぜひ今回のアンケートにご協力いただけますと幸いです。</div><div>皆様からのご意見をお待ちしております。</div><div><br></div><div>■開催期間</div><div><span class="local_date" data-local_date="1602050400"></span> ～ <span class="local_date" data-local_date="1602655140"></span></div><div><br></div><div>■アンケート特設ページURL</div><div><a href="https://form.dragalialost.com/form/input/questionnaire_jp">2周年記念アンケート特設ページ</a></div><div><br></div><div>【注意事項】</div><div>アンケート特設ページに記載の注意事項をご確認のうえ、ご利用をお願いいたします。</div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1602050400; update_time1602034762

@@ -1,0 +1,8 @@
+article_id:297
+category_name:お知らせ
+title_name:マルチプレイにて通信が切断される場合がある不具合について
+image_path:
+
+message:<div>下記の期間、マルチプレイにてヒルデガルド(バレンタインVer.)のバーストアタックを使用すると、通信が切断される場合がある不具合が発生しておりました。</div><div><br></div><div>■発生日時</div><div><span class="local_date" data-local_date="1552292700"></span>　～　<span class="local_date" data-local_date="1552296060"></span></div><div>&nbsp;</div><div>現在、本不具合は解消しております。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div>
+
+start_time:1552307100; update_time1552307023

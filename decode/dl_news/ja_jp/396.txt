@@ -1,0 +1,8 @@
+article_id:396
+category_name:お知らせ
+title_name:メインストーリーに第8章「からみ合う炎」の追加が決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1555567200"></span>からメインストーリーに、第8章「からみ合う炎」の追加が決定しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/fbb6d4694c412bfea8b965862667d702.png"></div><div>最新章をご期待ください！</div><div><br></div><div>■注意事項</div><div>メインストーリー第8章「からみ合う炎」は、メインストーリー第7章 5-6「水陸を結ぶ絆」をクリアすると解放されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1555394400; update_time1555067648

@@ -1,0 +1,8 @@
+article_id:690
+category_name:お知らせ
+title_name:初心者限定 建設時間ブースト追加！
+image_path:
+
+message:<div>Ver.1.12.0アップデートから、「聖城」を解放してから30日間限定で、施設の建設やLvアップに必要な時間が1/2になる、「初心者限定 建設時間ブースト」を追加いたします！</div><div><span style="color: rgb(226, 80, 65);"><strong>※<span class="local_date" data-local_date="1569564000"></span>に実施されたVer.1.12.0強制アップデート後に「聖城」のチュートリアルを完了し、「聖城」を解放したプレイヤーの皆様が対象です。</strong></span></div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/f0eb004699e79f3fda1e3d9decb98551.png"></div><div><br></div><div>■注意事項</div><div>「聖城」を解放するには、メインストーリー1章 4-6(Normal)をクリアし、「聖城・竜の庭のチュートリアル」を完了する必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1569564000; update_time1568947135

@@ -1,0 +1,30 @@
+article_id:568
+category_name:お知らせ
+title_name:「竜輝の護符交換所」のラインナップに新たな竜輝の護符を追加！
+image_path:
+
+message:<div><span style="color: rgb(0, 0, 0);"><span class="local_date" data-local_date="1562824800"></span>から、「竜輝の護符交換所」のラインナップに新たな竜輝の護符を追加しました。</span></div><div><span style="color: rgb(0, 0, 0);">&nbsp;</span></div><div><span style="color: rgb(0, 0, 0);">追加された竜輝の護符は、「竜輝の護符交換所」内の「ピックアップ」タブや、各レアリティのタブから交換できます。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);"><strong>【新たな竜輝の護符紹介】</strong></span></div><div><span style="color: rgb(0, 0, 0);"><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/856caf638358762fc0621471e352bb992.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">三姉妹の日常</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>スキルチャージ・強撃Ⅲ&nbsp;(MaxⅢ)</span></dt><dd><div>バーストアタックがヒットした時、スキルゲージが25％アップする。この効果は1クエスト3回まで発動する。&nbsp;(MaxⅢ)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/fd589517c61c65312e1509e13a36cd412.png"></span><span>バーストダメージ＋40％&nbsp;(Max50％)</span></dt><dd><div>バーストアタックのダメージが40％アップする。&nbsp;(Max50％)</div></dd><dt class="event 20808"><span><img src="https://dragalialost.akamaized.net/attached/information/images/ec939e993c6871f7cd9f90393072c2d42.png"></span><span>ド根性＋150％&nbsp;(Max150％)</span></dt><dd class="event 20808"><div>クエストクリア時に獲得する【ド根性】が150％増加する。&nbsp;(Max150％)</div></dd></dl></div></div></span></div><div><span style="color: rgb(0, 0, 0);"><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/0c77fe5c5c161c39bac41496542dcfad2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">アルクトスの猛特訓！</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>【火】疾風怒濤・会心＋12％&nbsp;(Max15％)</span></dt><dd><div>装備キャラが火属性ならヒット数15以上で、<br>攻撃がクリティカルになる確率が12％アップする。&nbsp;(Max15％)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>背水の陣・治癒Ⅲ&nbsp;(MaxⅣ)</span></dt><dd><div>HP30％以下になったとき、【20秒間、HPを継続回復するバフ】が発動。<br>この効果は1クエスト中1回まで発動する。&nbsp;(MaxⅣ)</div></dd><dt class="event 20808"><span><img src="https://dragalialost.akamaized.net/attached/information/images/ec939e993c6871f7cd9f90393072c2d42.png"></span><span>ド根性＋100％&nbsp;(Max150％)</span></dt><dd class="event 20808"><div>クエストクリア時に獲得する【ド根性】が100％増加する。&nbsp;(Max150％)</div></dd></dl></div></div></span></div><div><br></div><div><span style="color: rgb(0, 0, 0);">※最大上限解放時のステータスです。入手時のステータスではありません。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">【ピックアップ期間】</span></div><div><span class="local_date" data-local_date="1562824800"></span> ～ <span class="local_date" data-local_date="1564552799"></span></div><div><br></div><div><span style="color: rgb(184, 49, 47);">※今回追加された竜輝の護符は、ピックアップ期間終了後も各レアリティのタブから交換できます。</span></div><div><br></div><div><span style="color: rgb(0, 0, 0);">【注意事項】</span></div><div><span style="color: rgb(0, 0, 0);">本お知らせに掲載されている内容以外の情報は、マイページ内のショップから「竜輝の護符交換所」をご確認ください。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">今後とも『ドラガリアロスト』をよろしくお願いいたします。</span></div>
+
+start_time:1562824800; update_time1562211900

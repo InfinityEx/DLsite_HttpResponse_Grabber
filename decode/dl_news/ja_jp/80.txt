@@ -1,0 +1,8 @@
+article_id:80
+category_name:お知らせ
+title_name:「鮮烈なコンビネーション」のアビリティの不具合【追記】
+image_path:
+
+message:<div>竜輝の護符「鮮烈なコンビネーション」のアビリティ「ヒュプノスキラー」の効果が、レイドバトル「ヒュプノス大討滅戦」の「ヒュプノス」の部位&quot;右手&quot;に対して適用されていない不具合が確認されました。</div><div>※本不具合は、すべての難易度で確認しております。</div><div><br></div><div>本不具合については、現在調査を進めております。</div><div>ご案内できることがございましたら、本お知らせしてご連絡いたします。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1541493000"></span> 追記</strong></span><br>本不具合について、<span class="local_date" data-local_date="1541487600"></span>に実施したデータ更新にて解消しましたことをご報告いたします。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div>
+
+start_time:1541407500; update_time1542364309

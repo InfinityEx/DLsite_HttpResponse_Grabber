@@ -1,0 +1,8 @@
+article_id:2958
+category_name:イベント
+title_name:イベント予告【復刻】「忠竜が願うは果てし王の魂葬」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/07eee611ac43e941001175f898674c9a.png
+
+message:<div><span class="local_date" data-local_date="1665381600"></span>から、レイドイベント【復刻】「忠竜が願うは果てし王の魂葬」の開催を予定しております。<br>【復刻】「忠竜が願うは果てし王の魂葬」は、火属性のレイドボスとマルチプレイで戦うイベントです。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/07eee611ac43e941001175f898674c9a.png"></div><div>■イベント期間<br><span class="local_date" data-local_date="1665381600"></span> ～ <span class="local_date" data-local_date="1666245599"></span><br><br>■注意事項<br>1. イベントクエスト参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br>2. マルチプレイ参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。<br><br></div>
+
+start_time:1664949600; update_time1646625161

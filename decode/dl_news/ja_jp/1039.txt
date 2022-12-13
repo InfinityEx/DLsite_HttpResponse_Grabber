@@ -1,0 +1,8 @@
+article_id:1039
+category_name:お知らせ
+title_name:イベント「MONSTER HUNTER STRANGELAND」紹介PV＆イベント特設ページ公開！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1580277600"></span>から、開催予定のイベント「MONSTER HUNTER STRANGELAND」の紹介PVと、イベント特設ページを公開いたしました。</div><div>下記のページからご覧ください。</div><div><br></div><div>▼『ドラガリアロスト』公式YouTube Channel　 イベント「MONSTER HUNTER STRANGELAND」紹介PV</div><div><a href="https://youtu.be/qjejI1PpkaU">https://youtu.be/qjejI1PpkaU</a></div><div><br></div><div>▼イベント「MONSTER HUNTER STRANGELAND」特設ページ</div><div><a href="https://dragalialost.com/jp/event/monsterhunter/">https://dragalialost.com/jp/event/monsterhunter/</a></div><div><br></div><div>「モンスターハンター」シリーズは、雄大な自然の中で巨大なモンスターに立ち向かうハンティングアクションゲームです。</div><div><br></div><div>「友人と協力して強大なモンスターに挑む」という通信協力プレイが新たなコミュニケーションスタイルを確立し、「モンハン現象」と呼ばれる社会現象を巻き起こしました。</div><div><br></div><div>2004年に家庭用ゲームでの第1作を発売して以降確実にファンを増やし、大ヒットシリーズに成長しています。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1579845600; update_time1579835388

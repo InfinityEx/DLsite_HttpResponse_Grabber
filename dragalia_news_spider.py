@@ -14,13 +14,14 @@ import pandas as pd
 # Running path
 path=os.path.split(os.path.realpath(__file__))[0]
 # languages
-# lang: zh_cn, zh_tw, en_us, ja_jp
-lang='ja_jp'
+# lang: zh_cn, zh_tw, en_us, en_eu, ja_jp
+lang='en_eu'
 # time delta
 timelist={"zh_cn":"+08:00",
     "zh_tw":"+08:00",
     "en_us":"+00:00",
-    "jp_jp":"+09:00",
+    "en_eu":"+01:00",
+    "ja_jp":"+09:00",
 }
 news_idlist=[]
 timedelta=uri.quote(timelist[lang])
@@ -68,16 +69,16 @@ for i in range(0,4500):
         title=pd.json_normalize(contents['data']['information'])['title_name'][0]
         updatet=pd.json_normalize(contents['data']['information'])['update_time'][0]
 
-        with open(f"{path}/origin/{lang}/{id}.json",'w',encoding='utf-8') as nl:
+        with open(f"{path}/origin/{lang}/dl_news/{id}.json",'w',encoding='utf-8') as nl:
             nl.write(str(response.content).replace("\/","/"))
             nl.close()
-        with open(f"{path}/decode/{lang}/{id}.txt",'w',encoding='utf-8') as nt:
+        with open(f"{path}/decode/{lang}/dl_news/{id}.txt",'w',encoding='utf-8') as nt:
             nt.write(f"article_id:{artid}\ncategory_name:{catname}\ntitle_name:{title}\nimage_path:{img}\n\nmessage:{msg}\n\nstart_time:{startt}; update_time{updatet}")
             nt.close()
-        with open(f"{path}/decodejson/{lang}/{id}.json",'w',encoding='utf-8') as nj:
+        with open(f"{path}/decodejson/{lang}/dl_news/{id}.json",'w',encoding='utf-8') as nj:
             nj.write(f"article_id:{artid},category_name:{catname},title_name:{title},image_path:{img},message:{msg},start_time:{startt},update_time{updatet}")
             nj.close()
-        with open(f"{path}/picres_{lang}.txt",'a+') as pic:
+        with open(f"{path}/dlnews_picres_{lang}.txt",'a+') as pic:
             if img!="":
                 pic.write(f"{img}\n")
             pic.close()

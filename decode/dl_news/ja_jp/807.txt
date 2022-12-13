@@ -1,0 +1,8 @@
+article_id:807
+category_name:お知らせ
+title_name:イベントにあわせて「竜輝晶」をプレゼント！
+image_path:
+
+message:<div>レイドイベント「クロノス～廻る運命の針～」が開催していることにあわせまして、プレイヤーの皆様へ「竜輝晶」をお贈りいたしました！</div><div>ぜひイベントにお役立てください！</div><div><br></div><div>■プレゼント内容</div><div>竜輝晶 &nbsp;1200個</div><div><br></div><div>■お贈りする対象の方</div><div><span class="local_date" data-local_date="1570600800"></span>までにゲームを開始されたプレイヤーの皆様</div><div><br></div><div>お贈りしたアイテムの受け取り期限は、「プレゼント」にアイテムが贈られてから7日間です。</div><div><br></div><div>また、<span class="local_date" data-local_date="1570860000"></span>からは、1日1回無料10回召喚キャンペーンも開催されます！</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1570600800; update_time1570601423

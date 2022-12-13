@@ -1,0 +1,251 @@
+article_id:3005
+category_name:お知らせ
+title_name:「ドラガリアフェス　エクストラ」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1652421600"></span>から、「ドラガリアフェス　エクストラ」を開催中です！</div><div><br></div><div>【ドラガリアフェスとは】 ※「ドラガリアフェス　エクストラ」含む</div><div>期間限定のキャラ・ドラゴンがドラガリアフェスから登場します。</div><div>また、★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップします！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><span style="color: rgb(226, 80, 65);">※これまでの「ドラガリアフェス」で追加されたキャラ・ドラゴンも本召喚から登場する場合があります。登場するキャラ・ドラゴンの詳細はゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</span></div><div><br></div><div>【期間限定で再登場するピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 ラキシ（ハロウィンVer.）：光/銃（機関銃モード）</div><div>★5 アカーシャ（ハロウィンVer.）：水/刀</div><div><br></div><div>■ドラゴン</div><div>★5 マリティムス（ハロウィンVer.）：水</div><div><br></div><div>上記以外にも、これまでの召喚で追加された期間限定のキャラ・ドラゴンが一部再登場します。</div><div><span style="color: rgb(226, 80, 65);">※上記以外のキャラ・ドラゴンはピックアップ対象ではございません。</span></div><div><br></div><div>【ドラガリアフェス　エクストラの提供割合】</div><div>★5 合計：6.00％</div><div>★5ピックアップ 合計：1.80％（キャラ：1.00％ ドラゴン：0.80％）</div><div>★5通常 合計：4.20％（キャラ：2.00％ ドラゴン：2.20％）</div><div>★4通常 合計：16.00％（キャラ：8.55％ ドラゴン：7.45％）</div><div>★3通常 合計：78.00％（キャラ：47.00％ ドラゴン：31.00％）</div><div><br></div><div>【ドラガリアフェス　エクストラ開催期間】</div><div><span class="local_date" data-local_date="1652421600"></span> ～ <span class="local_date" data-local_date="1652680799"></span></div><div><br></div><div>期間限定で再登場するピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/52626377d64f65ebc64c6cf7f14cadc3.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>使用可能モード</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/4805e47916f093eb2b9049cff29e9eb72.png"><img src="https://dragalialost.akamaized.net/attached/information/images/d45c68ecb3b1d88cba2136c949f214772.png"><img src="https://dragalialost.akamaized.net/attached/information/images/1f0f10277cfc223cafe9e19e2d15434d2.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>演劇の主演を務めた際の衣装をもらい受け、<br>仮装として聖城のハロウィンに参加した<br>ラキシ。「イタズラはパーティーの一環で、<br>みんなで楽しくなるもの」との王子の言葉を<br>聞き、イタズラという行為に興味を抱く。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d787cf6a3aea75191d1a381a2d0c7b942.png"></span>
+				<span>trick: 00 ゴーストフィクス</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>ターゲットとその周囲の敵にダメージを与え、「閃熱」状態にし、バフを1つ解除する。</div><div class="skill-detail">威力：99 × 12 Hit<br>必要スキルポイント：4,480<br>必要シェアスキルポイント：7,481<br>特殊効果<br>・バフ解除<br>・閃熱<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d746ee4dfa37344598bb40dc36dc00fb2.png"></span>
+				<span>trick: 99 クロックワーク</span>
+			</dt>
+			<dd><div>周囲の敵にダメージを与え、自身に防御力アップのオーラを付与し、ゼンマイゲージをチャージする。<br>このスキルは、現在のヒット数に応じてダメージとゼンマイゲージのチャージ量がアップする。</div><div class="skill-detail">威力：524 × 3 Hit<br>必要スキルポイント：8,450<br>オーラ付与<br>・防御力アップ（バーストオーラ上限Lv 3）<br>ヒット数によるダメージ倍率<br>・25ヒット以上で10％<br>・50ヒット以上で20％<br>・75ヒット以上で30％<br>・100ヒット以上で40％<br>ヒット数による特殊ゲージチャージ量<br>・0ヒット以上で30％<br>・25ヒット以上で45％<br>・50ヒット以上で60％<br>・75ヒット以上で75％<br>・100ヒット以上で100％</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>ゲージブレイク＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のモードゲージの減少量が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>【光】連撃：連撃で会心Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性なら攻撃が10ヒットするたびにクリティカル率が1％アップする。この効果は最大20回まで重複する。<br>ヒット数がリセットされると、このアビリティで付与された効果がすべて解除される。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3d35acdfe7f5a710f73a893dfb248ca82.png"></span><span>ゼンマイ仕掛けの戦闘人形Ⅱ</span></dt><dd><div>ゼンマイゲージを追加する。ゼンマイゲージは以下の効果を持つ。<br>①クエスト開始時にゼンマイゲージが満タンになる。<br>②ゼンマイゲージが満タンになると、チャージアップモードが発動。ゼンマイゲージが0になるまで以下の効果を得る。<br>・バーストアタックで与えるダメージが10％アップする。<br>・バーストアタックのモードゲージ減少量がアップする。<br>・バーストアタック中の攻撃速度が12％アップする。<br>・バーストアタック中の移動速度がアップする。<br>・バーストアタック中、ゼンマイゲージが時間経過で減少する。<br>・ゼンマイゲージが0になるとチャージアップモードが解除され、チャージダウンモードになる。<br>③チャージダウンモード時、バーストアタックが使用不可になり、ゼンマイゲージが時間経過で自動的にチャージされる。チャージダウンモードはチャージアップモードになると解除される。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>呪い耐性＋100％</span></dt><dd><div>「呪い」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/14792abf67fb05b76ddc3021564efff22.png"></span><span>ショックドライヴⅡ</span></dt><dd><div>・攻撃が最後にヒットしてからヒット数がリセットされるまでの時間を0.5秒延長する。<br>・攻撃が15ヒットするたびに、自身に【閃熱付与率25％アップ】（重複上限3）を付与する。<br>・敵を「閃熱」状態にするたびに、自身に【フラッシュトリック】（重複上限3）を付与する。このバフの効果中は「閃熱」状態の敵に与えるダメージが7％ずつアップする。<br>・ヒット数がリセットされると、このアビリティで付与されたバフがすべて解除される。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f3e47eb90646dda784651e0fe17e046c.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>743</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>吸血鬼に扮した『全なる教団』の祭司。<br>ハロウィンの街に遊ぶ姿はまるで無邪気な<br>子供のようだが、ふと妖艶に微笑む様は、<br>闇夜に浮かぶ月のように人々を魅了する。<br>その心にあるものは虚無か。それとも——？</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d436213ee1d25605303354b04cb18e92.png"></span>
+				<span>ネームレススナッチャー</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>直線上の敵に水属性のダメージを与え、10秒間敵の防御力を3％ダウンさせる。</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/10fc81680bc1c3cbf52e7271e7cfdf5f2.png"></span>
+				<span>マッドネスコフィン</span>
+			</dt>
+			<dd><div>ターゲットとその周囲の敵に水属性のダメージを与え、「切り傷」状態にする。</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻撃力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の攻撃力が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>【水】堅守：HP80％で耐火＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが水属性ならHP80％以上のとき、火属性耐性が6％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e915bc581ed54d29f06ebfc9f8eed8252.png"></span><span>防御力ダウントリガー・デバフ付与率Ⅱ</span></dt><dd><div>敵を「防御力ダウン」状態にしたときに自身に【5秒間、デバフ効果を付与する確率を50％アップするバフ】が発動。この効果は発動してから5秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>気絶耐性＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>切り傷トリガー・HP回復Ⅱ</span></dt><dd><div>敵を「切り傷」状態にしたときに自身のHPを回復する。この効果は発動してから5秒間は発動しない。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/18a45880414e6d789e362b1cc6b5005e.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>376</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>119</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>魔法使いに仮装したマリティムス。お菓子を<br>たくさん持って、町を大行進。トリックオア<br>トリートと言われなくても、会う人全員に<br>お菓子を配る。よい子にはついあげすぎて<br>しまい、たまにお母さんに叱られる。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>ぱんぱかマジック♪</span>
+			</dt>
+			<dd><div>味方全員のHPを回復し、地面に10秒間【スキルダメージバフフィールド】を設置する。<br>このフィールドの中にいる味方はスキルダメージが30％アップする。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【水】HP＋30％</span></dt><dd><div>装備キャラが水属性なら<br>装備キャラのHPが30％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【水】スキルブースト＋35％</span></dt><dd><div>装備キャラが水属性なら<br>スキルゲージの上昇率が35％アップする。</div></dd></dl></div></div></div><div>※Lv100、上限解放4段階、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1652421600; update_time1648552083

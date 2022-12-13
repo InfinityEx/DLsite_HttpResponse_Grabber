@@ -1,0 +1,373 @@
+article_id:1694
+category_name:お知らせ
+title_name:「ドラガリアフェス　エクストラ」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1602828000"></span>から、「ドラガリアフェス　エクストラ」の開催を予定しております。</div><div><br></div><div>【ドラガリアフェスとは】 ※「ドラガリアフェス　エクストラ」含む</div><div>期間限定のキャラがドラガリアフェスから登場します。</div><div>また、★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップします！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><span style="color: rgb(226, 80, 65);">※これまでの「ドラガリアフェス」で追加されたキャラ・ドラゴンも本召喚から登場する場合があります。登場するキャラ・ドラゴンの詳細はゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</span></div><div><br></div><div>【新規に期間限定で登場するピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 メルサ（ハロウィンVer.）：風/槍</div><div>★5 アカーシャ（ハロウィンVer.）：水/刀</div><div><br></div><div>【過去のドラガリアフェスから登場するピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 シャノン（ドラフェスVer.）：闇/剣</div><div><br></div><div>■ドラゴン</div><div>★5 ケットシー（ドラフェスVer.）：闇</div><div><br></div><div>また、今回のドラガリアフェスでは下記の期間限定のキャラ・ドラゴンが再登場します。</div><div><span style="color: rgb(226, 80, 65);">※下記のキャラ・ドラゴンはピックアップ対象ではございません。</span></div><div>【期間限定で再登場するキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 ムム（ハロウィンVer.）：火/斧</div><div>★5 エルフィリス（ハロウィンVer.）：光/槍</div><div>★4 ルーエン（ハロウィンVer.）：火/杖</div><div>★4 オデッタ（ハロウィンVer.）：水/剣</div><div>★4 イルテミア（ハロウィンVer.）：光/杖</div><div>★3 エドワード（ハロウィンVer.）：光/刀</div><div><br></div><div>■ドラゴン</div><div>★5 マリティムス（ハロウィンVer.）：水</div><div>★4 シルキー（ハロウィンVer.）：光</div><div><br></div><div>【ドラガリアフェス　エクストラ開催期間】</div><div><span class="local_date" data-local_date="1602828000"></span> ～ <span class="local_date" data-local_date="1603087199"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/709a7f1414c1458e2a3c1cb6626c6517.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/960c7daac545c22ad02e9e69f39f670e2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>790</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>485</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>ゾンビの仮装をしたフォレスティアの少女。<br>普段は心優しい性格だが、ハロウィンでは<br>不気味で恐ろしい、生ける屍になりきる。<br>だが、パーティーのわくわくを隠せず、<br>いきいきとしたゾンビになってしまった。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/11558585106c5018e7f5f984e61288292.png"></span>
+				<span>スプーキーリバイバル</span>
+			</dt>
+			<dd>
+				<div>
+					15秒間、パーティ全員の攻撃力を25％アップする。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b6dadd2717890e18594f663a9069c9bf2.png"></span>
+				<span>ヴェノムバイト</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に風属性のダメージを与え、「毒」状態にする。また、30秒間毒耐性を10％ダウンさせる。<br>この効果は重複しない。攻撃時、方向制御が可能。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のHPが15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【風】無傷：HP60％で攻＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが風属性ならHP60％以上のとき、【攻撃力が6％アップするバフ】が発動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3c77eb4ce89d7a87424b9733969ae7282.png"></span><span>復活HPアップⅡ</span></dt><dd><div>復活したとき、HPが80％の状態で復活する。この効果は1クエスト1回まで発動する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>凍結耐性＋100％</span></dt><dd><div>「凍結」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>毒トリガー・PT攻＋10％</span></dt><dd><div>敵を毒状態にしたときにパーティ全員に【10秒間、攻撃力が10％アップするバフ】が発動。<br>この効果は発動してから5秒間は発動しない。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f3e47eb90646dda784651e0fe17e046c.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>743</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>吸血鬼に扮した『全なる教団』の祭司。<br>ハロウィンの街に遊ぶ姿はまるで無邪気な<br>子供のようだが、ふと妖艶に微笑む様は、<br>闇夜に浮かぶ月のように人々を魅了する。<br>その心にあるものは虚無か。それとも——？</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d436213ee1d25605303354b04cb18e92.png"></span>
+				<span>ネームレススナッチャー</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に水属性のダメージを与え、10秒間敵の防御力を3％ダウンさせる。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/10fc81680bc1c3cbf52e7271e7cfdf5f2.png"></span>
+				<span>マッドネスコフィン</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に水属性のダメージを与え、「切り傷」状態にする。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻撃力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の攻撃力が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>【水】堅守：HP80％で耐火＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが水属性ならHP80％以上のとき、火属性耐性が6％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e915bc581ed54d29f06ebfc9f8eed8252.png"></span><span>防御力ダウントリガー・デバフ付与率Ⅱ</span></dt><dd><div>敵を「防御力ダウン」状態にしたときに自身に【5秒間、デバフ効果を付与する確率を50％アップするバフ】が発動。この効果は発動してから5秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>気絶耐性＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>切り傷トリガー・HP回復Ⅱ</span></dt><dd><div>敵を「切り傷」状態にしたときに自身のHPを回復する。この効果は発動してから5秒間は発動しない。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/47677918599c8bfa18b1fcf9199a1eac.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>エルフィリスの護衛となり、新たな装備に<br>身を固めたシャノン。純白のフードに<br>暗殺との決別を、手にした刃に友を守る<br>覚悟を誓う。血塗られた過去も、残酷な<br>真実も、彼女の心を折ることはできない。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a14e3aeaf8990581545b970f18bf5f82.png"></span>
+				<span>クライシスエッジ</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットに闇属性のダメージを与え、15秒間敵の防御力を5％ダウンさせる。この防御力ダウン効果は重複しない。<br>このスキルは使用後に一定時間【スキルチェイン】が発生する。<br>【スキルチェイン】中、「クライシスエッジ」は、【前方の敵に闇属性のダメージを与える。「防御ダウン」状態の敵にはダメージがアップする。】スキルになり、「クライシスエッジ」の使用により敵にダメージを与えると追加でダメージ（「防御ダウン」状態の敵にはダメージがアップ）が発生する。<br>また、スキル「シャドウイレイズ」使用時にターゲットが特定の状態の場合、スキル「クライシスエッジ」は一定時間【スキルチェイン】が可能になる。<br>①ターゲットにバフが付与されている状態の時：スキルが変化【ターゲットに闇属性のダメージを与え、バフを1つ解除する】＋追加ダメージ（「防御ダウン」状態の敵に与えるダメージがアップ）<br>②ターゲットが「ブレイク」状態の時：スキルが変化【ターゲットに闇属性のダメージを与える。ブレイク中の敵にはダメージがアップする。】＋追加ダメージ（ブレイク中の敵にはダメージがアップ）<br>なお、ターゲットが①②の条件をともに満たす場合は①が優先される。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/18bb75cee57f186afb031e6ca02c56f92.png"></span>
+				<span>シャドウイレイズ</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットに闇属性のダメージを与え、「毒」状態にする。<br>このスキルは使用後に一定時間【スキルチェイン】が発生する。<br>【スキルチェイン】中、「シャドウイレイズ」は、【ターゲットに闇属性のダメージを与える。「毒」状態の敵にはダメージがアップする。】スキルになり、「シャドウイレイズ」の使用により敵にダメージを与えると追加でダメージ（「毒」状態の敵にはダメージがアップ）が発生する。<br>また、スキル「クライシスエッジ」使用時にターゲットが特定の状態の場合、スキル「シャドウイレイズ」は一定時間【スキルチェイン】が可能になる。<br>①ターゲットにバフが付与されている状態の時：スキルが変化【ターゲットに闇属性のダメージを与え、バフを1つ解除する】＋追加ダメージ（「毒」状態の敵に与えるダメージがアップ）<br>②ターゲットが「ブレイク」状態の時：スキルが変化【ターゲットに闇属性のダメージを与える。ブレイク中の敵にはダメージがアップする。】＋追加ダメージ（ブレイク中の敵にはダメージがアップ）<br>なお、ターゲットが①②の条件をともに満たす場合は①が優先される。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>竜化ブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の竜化ゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【闇】毒：毒トリガー・攻＋13％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが闇属性なら敵を毒状態にしたとき、【15秒間、攻撃力が13％アップするバフ】が発動。<br>この効果は発動してから10秒間は発動しない。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a2241ae1de30904a24117f1388bd71782.png"></span><span>防御力ダウン特効＋30％</span></dt><dd><div>「防御力ダウン」状態の敵に与えるダメージが30％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bd7de81c28d0b9c93b0edbfc86b0cb6a2.png"></span><span>護影の覚悟Ⅱ</span></dt><dd><div>「暗闇」、「麻痺」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>毒特効＋30％</span></dt><dd><div>「毒」状態の敵に与えるダメージが30％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1c67df2ea4ff3a0771fd028480f9dcc4.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>シェスの契約竜。可愛らしい見た目と<br>裏腹に気まぐれで悪戯好き。人間観察と<br>夜の散歩が趣味。心を許した人間以外は<br>玩具同然に考えている。非情さと情熱を<br>兼ね揃えた性格は契約主似ともいえる。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>エレガントアーティフィス</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に10秒間、闇属性のダメージを与える。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【闇】クレバートリックⅤ</span></dt><dd><div>装備キャラが闇属性なら<br>クエスト開始時、自身に【次のスキルダメージが180％アップするバフ】を15回分付与する。また攻撃が25ヒットするたび自身に【次のスキルダメージが180％アップするバフ】を付与する。【次のスキルダメージが180％アップするバフ】は最大で15個までスタックすることができ超過分は消滅する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【闇】竜化解除時付与・クレバートリックⅤ</span></dt><dd><div>装備キャラが闇属性なら<br>竜化が解除されたとき、自身に【次のスキルダメージが180％アップするバフ】を8回分付与する。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1602741600; update_time1602647147

@@ -1,0 +1,293 @@
+article_id:2123
+category_name:お知らせ
+title_name:「ドラガリアフェス　エクストラ」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1618466400"></span>から、「ドラガリアフェス　エクストラ」の開催を予定しております。</div><div><br></div><div>【ドラガリアフェスとは】 ※「ドラガリアフェス　エクストラ」含む</div><div>★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップします！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><span style="color: rgb(226, 80, 65);">※今回新規で追加される★5キャラ「幻身マーキュリー（水）」「ランザーヴ（子供Ver.）（火）」は、次回のレジェンド召喚からも登場します。</span></div><div><span style="color: rgb(226, 80, 65);">※これまでの「ドラガリアフェス」で追加されたキャラも本召喚から登場する場合があります。登場するキャラの詳細はゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</span></div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 幻身マーキュリー：水/短剣</div><div>★5 ランザーヴ（子供Ver.）：火/斧</div><div><br></div><div>【過去のドラガリアフェスから登場するピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 ラキシ（ドラフェスVer.）：火/短剣</div><div><br></div><div>【ドラガリアフェス　エクストラ開催期間】</div><div><span class="local_date" data-local_date="1618466400"></span> ～ <span class="local_date" data-local_date="1618811999"></span></div><div><br></div><div>ピックアップ対象のキャラを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/9c82cae559e9a33f2d72187912aaacee.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>761</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>498</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>人の姿に変化した青竜マーキュリー。<br>心根の正しき人々と手を取り共に歩むため、<br>人をよく知ろうとその文化に興味を持つ。<br>姿が変われど守護竜の使命は変わらず、<br>平和を脅かす者には容赦をしない。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/80922336d78c6a339d07de68c524e4242.png"></span>
+				<span>レイジングオーシャン</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、「冷傷」状態にする。このスキルがヒットすると自身の竜化ゲージが上昇する。攻撃力アップのバーストオーラが付与されているとき、性能が変化する。</div><div class="skill-detail">威力：540 × 3 Hit<br>必要スキルポイント：2,800<br>特殊効果<br>・冷傷<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41<br>竜化ゲージ回復量：40<br><br>（変化後）<br>威力：600 × 4 Hit<br>必要スキルポイント：2,800<br>必要シェアスキルポイント：9,940<br>特殊効果<br>・冷傷<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41<br>竜化ゲージ回復量：50</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/965d37e14de2ff3025ebd071ceb568dd2.png"></span>
+				<span>ハイドロルイン</span>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、自身に攻撃力アップのオーラを付与する。竜化すると性能が変化する。</div><div class="skill-detail">威力：322 × 6 Hit<br>必要スキルポイント：8,000<br>オーラ付与<br>・攻撃力アップ（バーストオーラ上限Lv 2）<br><br>（変化後）<br>威力：322 × 9 Hit<br>必要スキルポイント：8,000<br>オーラ付与<br>・攻撃力アップ（バーストオーラ上限Lv 2）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>クリティカル率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のクリティカル確率が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span>
+				<span>【水】士気：攻勢士気・火傷耐性＋100％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが水属性なら攻撃力アップのバーストオーラが付与されているとき、「火傷」状態になる確率が100％ダウンする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/67e1d7b7a658af6624ecd3c0af03e0d52.png"></span><span>青竜発現Ⅱ</span></dt><dd><div>「ずぶぬれ」状態になる確率が100％ダウンする。装備しているドラゴンに関わらずマーキュリーに竜化する。竜化中のダメージ倍率が14％アップする。1クエスト中に2回以上竜化した場合は真マーキュリーに竜化する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>気絶耐性＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>バブルシールドⅡ</span></dt><dd><div>攻撃力アップのバーストオーラが付与されているとき、自身に【守護の泡】を付与する。<br>この効果は【守護の泡】が解除されてから10秒間は発動しない。<br>【守護の泡】は重複せず、以下の効果を持つ。<br>・最大HPの30％以下のダメージを無効化する特殊シールドの効果。このシールドの効果は1回のみで、通常のシールドと重複が可能。<br>・HPを継続回復する。<br>・攻撃を受けると解除される。<br>・攻撃力アップのバーストオーラが付与されていないと解除される。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5f9ac3bcafb1db10ce604bac3a844fa9.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>742</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>腕利きの傭兵ランザーヴが、時空物理魔法の<br>実験で子供になった姿。体こそ小さく<br>なったが、歴戦で培った経験と、義に厚い<br>漢気……そして、周囲が呆れるほどの<br>大食漢ぶりは、なんら変わることはない。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c2db8e594e072513922d2af7ebfa68c62.png"></span>
+				<span>ダイナミックスイング</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、「劫火」状態にする。</div><div class="skill-detail">威力：1,015 × 1 Hit<br>必要スキルポイント：3,230<br>必要シェアスキルポイント：8,559<br>特殊効果<br>・劫火<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20f15e05dab3cf33c2c02e36b5f9d8722.png"></span>
+				<span>パワフルホームラン</span>
+			</dt>
+			<dd><div>自身に攻撃力アップのオーラを付与する。また、スキル「ダイナミックスイング」を即時使用可能にし、次に使用したときに必ずクリティカルにする。<br>（この効果と超ヒラメキが付与されている状態でスキルを使用した場合、両方の効果を消費して攻撃がクリティカルとなる。）</div><div class="skill-detail">必要スキルポイント：7,583<br>オーラ付与<br>・攻撃力アップ（バーストオーラ上限Lv 2）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防御力＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の防御力が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【火】士気：攻勢士気・攻＋8％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性なら攻撃力アップのバーストオーラが付与されているとき、攻撃力が8％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>パワーヒッターⅡ</span></dt><dd><div>クリティカル率アップの上限が10％になるが、クリティカル時のダメージ倍率を40％アップする。（超ヒラメキの効果は発生する。）<br>また、スキル「ダイナミックスイング」がクリティカルになった場合、自身に攻撃力アップのオーラ（バーストオーラ上限Lv2）を付与する。この効果は発動してから1秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>気絶耐性＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cc3f28b7bfce6dfc1ea65f36822cae7f2.png"></span><span>オーラ（攻）で攻撃速度＋8％</span></dt><dd><div>攻撃力アップのオーラが付与されているとき、攻撃速度が8％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/0d95a665ca892f3ac3042abf8b0509e8.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>500</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>新たな力『ガンエデンモード』に目覚めた<br>ラキシと、戦う決意をしたマスキュラ。<br>マエストロの願いを叶えるため、激化する<br>戦いへ身を投じる。相反していたふたりの<br>心も、少しずつ理解を深め始めた。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/db0ecaba45b202d4c8bc6be2ec207a572.png"></span>
+				<span>code: 14 コンヴィクション</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>前方の敵にダメージを与える。ガンエデンモード時はスキルが「code　eden:05　ゲブラー」へと変化し、前方の敵にダメージを与え、「火傷」状態にする。</div><div class="skill-detail">威力：210.8 × 4 Hit<br>必要スキルポイント：2,476<br>必要シェアスキルポイント：5,075<br><br>（ガンエデンモード）<br>威力：124 × 6 Hit<br>威力：74.4 × 2 Hit<br>威力：99.2 × 4 Hit<br>必要スキルポイント：2,476<br>特殊効果<br>・火傷<br>　効果時間：12 秒<br>　効果間隔：3.9 秒<br>　威力：97<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c31716617139519d6cf9b46ed104cb822.png"></span>
+				<span>モード・ガンエデン</span>
+			</dt>
+			<dd><div>自身がガンエデンモードとなり【フィクス】が起動。【フィクス】起動中は【フィクス】が自動攻撃を行う。【フィクス】による攻撃はスキルダメージとして扱われない。ガンエデンモード時はスキルが「code　eden:01　ケテル」へと変化し、前方の敵にダメージを与える。</div><div class="skill-detail">必要スキルポイント：7,732<br>特殊効果<br>・フィクス<br>　効果時間：20 秒<br><br>（ガンエデンモード）<br>威力：560 × 3 Hit<br>威力：616 × 1 Hit<br>必要スキルポイント：3,736<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d84b02c496bd915cc9ca72d7b486190a2.png"></span>
+				<span>通常攻撃＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の通常攻撃のダメージが20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/03585ae11a2b0de283c914026533b3fe2.png"></span>
+				<span>【火】連撃：10ヒット以上で耐風＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性ならヒット数10以上のとき、【風属性耐性が10％アップするバフ】が発動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>レゾナントゲージⅡ</span></dt><dd><div>チャージゲージを追加する。チャージゲージは3段階あり、段階によって効果が発動する。ゲージ1段階目：【防御力が20％アップするバフ】が発動。ゲージ2段階目：さらに【攻撃スキルのダメージが15％アップするバフ】が発動。ゲージ3段階目：さらに【攻撃力が15％アップする】バフが発動。チャージゲージは【フィクス】が付与されている時、チャージされない。チャージゲージは【フィクス】解除後0になり、段階によって付与されたバフが解除される。チャージゲージは通常攻撃、バーストアタック、ダッシュ攻撃でチャージされる。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea4c47784ca6465117276eb2a3d9a0d92.png"></span><span>魔幻の機構Ⅱ</span></dt><dd><div>「気絶」、「睡眠」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5928d08635cbad73278c1391505a73392.png"></span><span>クリティカルドライヴⅡ</span></dt><dd><div>攻撃が15ヒットするたびに【クリティカル率が4％アップするバフ】が発動し最大3個まで重複可能。また攻撃がクリティカルになるたびに【クリティカル時のダメージ倍率が4％アップするバフ】が付与され最大10個まで重複可能。しかし、この効果は発動してから1秒間は発動しない。ヒット数がリセットされると、このアビリティで付与されたバフがすべて解除される。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1618380000; update_time1618376956

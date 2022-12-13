@@ -1,0 +1,8 @@
+article_id:2836
+category_name:お知らせ
+title_name:メインストーリーに第24章「原初の力」の前半を追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/0000ca90da26d21142feba1b22dddb47.png
+
+message:<div><span class="local_date" data-local_date="1645077600"></span>から、メインストーリーに第24章「原初の力」前半を追加しました！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/0000ca90da26d21142feba1b22dddb47.png"></div><div>砂漠と化した亡国レフコスに辿り着いた一行。</div><div>祖国の変わり果てた姿に心を痛めるガトフ。</div><div>原初のドラゴンが眠るとされる『竜の墓場』は</div><div>黒いマナにより閉ざされていた。何人も立ち入れぬ</div><div>その先にはレフコス滅亡の真実が待ち構えていた――。</div><div><br></div><div>最新章をお楽しみください！</div><div><br></div><div>■注意事項</div><div>1. メインストーリー第24章「原初の力」前半は、メインストーリー第23章 5-3「可能性」をクリアすると解放されます。</div><div>2. 今回の前半追加と併せて、新たに「竜玉」を使用して上限解放できるドラゴンの追加はございませんが、獲得できるドラゴンの「竜玉」、現在の所持数、残り獲得回数、および「竜玉」が獲得できるクエストは、メインストーリー各章のエリアマップ内に表示される「竜玉」アイコンから確認できます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1645077600; update_time1644386623

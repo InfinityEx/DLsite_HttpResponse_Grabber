@@ -1,0 +1,148 @@
+article_id:2084
+category_name:お知らせ
+title_name:「プライズレジェンド召喚」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1617343200"></span>から、「プライズレジェンド召喚」を開催中！</div><div>「プライズレジェンド召喚」では、ピックアップ対象のキャラ・ドラゴンの提供割合がアップします。</div><div><br></div><div>「プライズレジェンド召喚」を行うと、召喚で出現するキャラ・ドラゴンに加えて「プライズ」も獲得できます。</div><div>プライズはプラチナ賞、金賞、銀賞、銅賞、5等、6等の6種類があります。</div><div>「10回召喚」を行った場合の10回目のプライズは、プラチナ賞、金賞、銀賞、銅賞のいずれかが確定で獲得できます。</div><div><span style="color: rgb(226, 80, 65);">獲得したプライズは、プレゼントの「期限なし」に送られます。</span></div><div><br></div><div>※召喚チケットを1度に10枚使用しても、「10回召喚」とは異なり、10回目のプライズで、プラチナ賞、金賞、銀賞、銅賞のいずれかが確定で獲得できるわけではありません。</div><div>※プライズの一覧と提供割合は「プライズレジェンド召喚」開催中に、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「プライズ」からご確認ください。</div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 アルベリウス：闇/剣</div><div><br></div><div>■ドラゴン</div><div>★5 真プルートー：闇</div><div><br></div><div>【プライズレジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1617343200"></span> ～ <span class="local_date" data-local_date="1617947999"></span></div><div><br></div><div>新規で追加されるピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/75a7920732c0a0756c3f9ebd1873e8c6.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>300年前、ディアネル帝国が復活させた<br>魔神モルトメサイアを封印した英雄にして<br>アルベリア王国を興した建国王。<br>複竜契約者であり、伝説の六竜と契約を結び<br>辣腕を振るったとされる。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f027b7d150713815ba70175982c142822.png"></span>
+				<span>ドーンオブクラウン</span>
+			</dt>
+			<dd><div>真プルートーによって、ターゲットとその周囲の敵にダメージを与え、「暗黒」状態にする。この攻撃は一部の竜化中に発動するアビリティの効果を受ける。<br>またその後、アルベリウスがさらにターゲットとその周囲の敵にダメージを与える。</div><div class="skill-detail">威力：327 × 3 Hit<br>威力：200 × 1 Hit<br>威力：1,100 × 1 Hit<br>必要スキルポイント：3,360<br>特殊効果<br>・暗黒<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3252f46b4caf10a0c15847a5d89335072.png"></span>
+				<span>ドーンオブグローリー</span>
+			</dt>
+			<dd><div>真ミドガルズオルムによって、周囲の敵にダメージを与え、「気絶」状態にする。このスキルがヒットすると自身の竜化ゲージが上昇する。この攻撃は一部の竜化中に発動するアビリティの効果を受ける。</div><div class="skill-detail">威力：271 × 8 Hit<br>必要スキルポイント：5,045<br>特殊効果<br>・気絶<br>　効果時間：6 秒<br>　効果間隔：0 秒<br>　威力：0<br>竜化ゲージ回復量：50</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>竜化ブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の竜化ゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【闇】竜化：竜化中ダメージアップ＋12％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが闇属性なら竜化中のダメージ倍率が12％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/34b4dd55399920298262636d1267db0f2.png"></span><span>開幕竜化ゲージ＆竜化・防</span></dt><dd><div>クエスト開始時の竜化ゲージが25％アップし、竜化中の防御力を25％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>暗闇耐性＋100％</span></dt><dd><div>「暗闇」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/874ebb8540cc62459ecedc47628161162.png"></span><span>竜の暴威Ⅱ</span></dt><dd><div>竜化中の攻撃に【敵のバフを1つ解除する効果】が付与される。（竜化した瞬間の攻撃には付与されない。）</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>■アルベリウスのスキル「ドーンオブクラウン」および「ドーンオブグローリー」について</div><div>アルベリウスのスキル「ドーンオブクラウン」の真プルートーによる攻撃、およびスキル「ドーンオブグローリー」には、下記アビリティの効果が適用されます。</div><div>・「開幕竜化ゲージ＆竜化・防」</div><div>・「竜化中ダメージアップ＋〇％」など、竜化中に与えるダメージをアップするアビリティ</div><div>・「竜の暴威」など、竜化中の攻撃に効果を付与するアビリティ</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/06904207c1b6831447e9c46caf8d14b8.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>冥竜プルートーが秘めたる力を解放した姿。<br>一度死の淵を彷徨ったが復活を遂げた。<br>かつて契約した主、建国王アルべリウスへの<br>忠誠心は薄れることなく、彼の王の悲願を<br>果たすため、蘇った翼を広げる。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>ルールオブルイン</span>
+			</dt>
+			<dd><div>ターゲットとその周囲の敵にダメージを与え、「暗黒」状態にする。攻撃時、敵を引き寄せる。</div><div class="skill-detail">威力：397 × 5 Hit<br>威力：477 × 1 Hit<br>特殊効果<br>・暗黒<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41</div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】攻撃＆真・竜の恩寵Ⅴ</span></dt><dd><div>装備キャラが闇属性なら<br>装備キャラの攻撃力が65％アップする。また、竜化するたび、自身の攻撃力が20％アップする。この効果は1クエスト中2回まで発動する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【闇】竜の恩寵（弐）・体力Ⅱ</span></dt><dd><div>装備キャラが闇属性なら、クエスト中に竜化した回数が2回以上のとき、自身の最大HPが30％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. プライズの一覧と提供割合は、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「プライズ」からご確認ください。</div><div>3. 「10回召喚」や召喚チケットを1度に10枚使用して獲得したアイテムが重複した場合、アイテムごとに個数をまとめて「期限なし」のプレゼントに送られます。</div><div>4. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1617343200; update_time1617249711

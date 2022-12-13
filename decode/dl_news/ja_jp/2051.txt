@@ -1,0 +1,251 @@
+article_id:2051
+category_name:お知らせ
+title_name:「光属性レジェンド召喚」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1616392800"></span>から、「光属性レジェンド召喚」を開催中！</div><div><br></div><div>「光属性レジェンド召喚」は光属性のキャラ・ドラゴンのみ出現する召喚です。</div><div><span style="color: rgb(226, 80, 65);">※本召喚の提供内容に、光属性以外のキャラ・ドラゴンは含まれません。</span></div><div><br></div><div>【光属性レジェンド召喚 開催期間】</div><div><span class="local_date" data-local_date="1616392800"></span> ～ <span class="local_date" data-local_date="1616824799"></span></div><div><br></div><div>「光属性レジェンド召喚」から出現する★5キャラ・★5ドラゴンの一部を、下記にてご紹介いたします。</div><div><br></div><div>【★5キャラ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/4b3328e0b6a57490b6a5c6d9f73e9045.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/00b59471a5991a11454d8f1f1ba3e0de2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>833</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>459</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,522</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>北方イリア教会に所属する、『使徒』の<br>ひとり。争いごとを好まない臆病な性格だが<br>力は非常に強く、怯えながら敵を一掃する。<br>『天使』ラファエルと聖痕を結んでおり、<br>彼女の奔放かつ楽天的な性格に憧れている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/257d7ba222c68f962309115bfaf865bc2.png"></span>
+				<span>クレメンスパニッシュメント</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、「閃熱」状態にする。</div><div class="skill-detail">威力：720 × 3 Hit<br>必要スキルポイント：2,412<br>必要シェアスキルポイント：9,678<br>特殊効果<br>・閃熱<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>レントゥスオラクル</span>
+			</dt>
+			<dd><div>自身のHPを回復し、【ラファエルの加護】を付与する。</div><div class="skill-detail">回復力：90<br>必要スキルポイント：9,360<br>特殊効果<br>・ラファエルの加護<br>　効果時間：30 秒<br>　クリティカル率＋15％<br>　リアクション無効<br>　重複不可</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のHPが15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【光】治癒：HP回復で攻＋8％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性なら自身のHPが回復したとき、【15秒間、攻撃力が8％アップするバフ】が発動。<br>この効果は発動してから10秒間は発動しない。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>ラファエルの聖約Ⅱ</span></dt><dd><div>通常時<br>・クエスト開始時、自身に【300秒間、聖痕の枷】デバフを付与する。<br>・HPが回復したとき、【聖痕の枷】の残り効果時間が30秒減少する。HPが1,000以上回復した場合はさらに効果時間が15秒減少する。この効果は発動してから20秒間は発動しない。<br>・バーストアタックが変化。ダメージを与えず、自身に【20秒間、ラファエルの魂】を付与する。この効果中は攻撃力が15％、攻撃速度が10％アップする。【ラファエルの魂】は重複しない。<br>【聖痕解放】状態時<br>・通常時の効果に加え、通常攻撃の最後が溜め動作中に画面をタップした回数に応じて3段階まで強化される。最大強化時にはバフを1つ解除する効果が追加される。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>呪い耐性＋100％</span></dt><dd><div>「呪い」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/317712b76f3ecc180ec58d9f103e43932.png"></span><span>ラファエルの盾Ⅱ</span></dt><dd><div>【聖痕解放】状態でダメージを受けたとき、自身を除くパーティ全員に自身の最大HPの30％分のライフシールドを付与する。この効果は発動してから60秒間は発動しない。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/269f464cf7ca1f6601dfed156c86ad63.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>使用可能モード</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/48f0cf6b6186ad0c7fa467c24cc47eea2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/b8a3b3884cac48715702c5bf401cd8b22.png"><img src="https://dragalialost.akamaized.net/attached/information/images/26f43aab3c39a2bcdadd1b40dd88e7402.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>類い稀な才能を持つ錬金術師。その腕は<br>不可能とされていた『異界の鍵』の錬成に<br>成功するほど。軍に両親を殺され、妖精に<br>育てられた。彼女は自由に生きたいと願うが<br>世界はその天賦の才を放っておかない。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/775392a8a09a554df496b2a54960c3e62.png"></span>
+				<span>ドライブバスター</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>ターゲットに光属性のダメージを与え、「閃熱」状態にする。<br>【マルチターゲット】スキルは複数の敵をターゲットできる。<br>【アルケミーカートリッジ】が1つ以上あるとき、このスキルは次のようになる。<br>直線上の敵に光属性のダメージを与え、「閃熱」状態にする。<br>【アルケミーカートリッジ】を1つ消費する。</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>アルケミックエンハンスメント</span>
+			</dt>
+			<dd><div>チャージされている【アルケミーゲージ】の本数に応じて、自身に20秒間【アルケミーカートリッジ】を付与する。<br>この効果中はバーストアタックで【コレクトアンサー】が発射される。<br>【コレクトアンサー】は全ての【アルケミーカートリッジ】を消費し、その数に応じてヒット数がアップする。<br>このスキルは【アルケミーゲージ】が1本以上チャージされている間のみ使用可能。<br>【アルケミーカートリッジ】が1つ以上あるとき、このスキルは次のようになる。前方の敵に光属性のダメージを与える。<br>【アルケミーカートリッジ】を1つ消費する。<br>スキル習得時、【アルケミーゲージ】を追加する。<br>【アルケミーゲージ】は【アルケミーカートリッジ】が1つも付与されていない時、通常攻撃、回避攻撃、バーストアタックを敵にヒットさせるとチャージされる。<br>【アルケミーゲージ】はヒット数が30以上のときチャージ量がアップする。</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>ゲージブレイク＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のモードゲージの減少量が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】連撃：10ヒット以上で耐闇＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性ならヒット数10以上のとき、【闇属性耐性が10％アップするバフ】が発動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3c27f8fc4d7206c65512f3f2c27c30762.png"></span><span>クローズアンサーⅡ</span></dt><dd><div>フリックして回避したとき、ターゲットに追加攻撃を行うようになる。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>ファインドアンサーⅡ</span></dt><dd><div>「毒」、「呪い」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>クリティカルアウトプットⅡ</span></dt><dd><div>【アルケミーカートリッジ】バフが時間経過以外によって解除されるとき、自身に【15秒間、クリティカル率を30％アップするバフ】が発動。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>【★5ドラゴン紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ff632a82851ed76e43030b167caa64c1.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>ついに憧れのステージに立った、渚の歌姫<br>ドラゴン。船を難破させるほど美しいと<br>言われる歌声で、人々を楽しませる。<br>ステージ衣装はヒトのお手製。まさに人竜の<br>絆が生み出した、ドラガリア歌姫である。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/77c2ac9b0a7142033bc6402d88c4b32d2.png"></span>
+				<span>ハッピーユニゾン</span>
+			</dt>
+			<dd><div>20秒間、パーティ全員の攻撃力を20％、防御力20％をアップさせ【やる気】を3段階アップする。このスキルは竜化中に攻撃することで再チャージが可能で、1度の竜化中に最大2回まで使用できる。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻撃力＋40％</span></dt><dd><div>装備キャラが光属性なら<br>装備キャラの攻撃力が40％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>ハピエストタイム☆</span></dt><dd><div>装備キャラが光属性なら<br>パーティ全員の竜化時間が3秒アップする。<br>竜化時間は最大5秒までアップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. 提供割合についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1616392800; update_time1615887703

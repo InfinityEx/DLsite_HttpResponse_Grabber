@@ -1,0 +1,138 @@
+article_id:1050
+category_name:お知らせ
+title_name:レジェンド召喚「MONSTER HUNTER STRANGELAND ピックアップ Part 2」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1580796000"></span>から、レジェンド召喚「MONSTER HUNTER STRANGELAND ピックアップ Part 2」を開催中！</div><div><br></div><div>期間限定のキャラ・ドラゴンがレジェンド召喚から登場します。</div><div>また、ピックアップ対象のキャラ・ドラゴンの提供割合がアップ中です。</div><div><br></div><div>【新規に期間限定で追加されるピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 シーリス(ハンターVer.)：水/弓</div><div><br></div><div>■ドラゴン</div><div>★5 黒炎王リオレウス：火</div><div><br></div><div>※ピックアップには期間限定以外のキャラ・ドラゴンも含まれます。</div><div>※その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><span style="color: rgb(226, 80, 65);">※本召喚の提供内容に、別途開催中のレジェンド召喚「MONSTER HUNTER STRANGELAND ピックアップ Part 1」の期間限定★5キャラと期間限定★5ドラゴンは含まれません。</span></div><div><br></div><div>【レジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1580796000"></span> ～ <span class="local_date" data-local_date="1581919140"></span></div><div><br></div><div>新規に期間限定で追加されるピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップキャラ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/441e99e56d54812a0bb73fcdebf3cf01.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>766</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>493</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>モンスターハンターのタマミツネ装備を<br>身にまとったシーリス。親切心から受けた<br>依頼をきっかけに、採取や調合を駆使して<br>戦う、ハンターの奥深さに目覚める。<br>目指せ、G級ハンター！</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/15e894f15b2af01e653f324883c234112.png"></span>
+				<span>身躱し射法</span>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に水属性のダメージを与え、自身の次のバーストアタックのダメージを100％アップする。この効果は重複しない。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>アクセルレイン</span>
+			</dt>
+			<dd>
+				<div>
+					30秒間、自身のバーストアタックのチャージ速度を30％アップする。この効果は重複しない。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EXアビリティ</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>スキルブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のスキルゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/07d87a8e6300e0bc12288870e47a71962.png"></span><span>ハンターの心得・弓＋2</span></dt><dd><div>バーストアタックが変化し、バーストアタックのダメージが30％アップする。このバーストアタックはチャージ中移動ができ、4段階のチャージが可能で段階に応じて威力がアップする。またバーストアタックに【10秒間攻撃力が15％ダウンするデバフ】が発生する。このデバフは重複しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>火傷耐性＋100％</span></dt><dd><div>「火傷」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/fd589517c61c65312e1509e13a36cd412.png"></span><span>バーストダメージ＆チャージ強化Ⅱ</span></dt><dd><div>バーストアタックのダメージが25％、チャージ速度が20％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/0c173271b6b4ec760110a44d22fc614b.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>異界から訪れた飛竜の王種にして諸王の王。<br>巨躯を支える黒き翼、一切を焼却する<br>紅蓮の息吹、王の証たる気高き誇りを持つ。<br>普段は人身など歯牙にもかけないが、自らの<br>領域を荒らすものには痛烈なる断罪を下す。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>爆炎ブレス</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に火属性のダメージを与え、「火傷」状態にする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻撃＆バーストダメージアップⅡ</span></dt><dd><div>装備キャラが火属性なら<br>装備キャラの攻撃力が55％、バーストアタックのダメージが60％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【火】スキルブースト・強撃Ⅱ＆GB−30％</span></dt><dd><div>装備キャラが火属性なら<br>バーストアタックがヒットした時のスキルゲージの上昇率が30％アップ。<br>モードゲージの減少量が30％ダウンする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1580796000; update_time1580435195

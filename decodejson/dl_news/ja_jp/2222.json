@@ -1,0 +1,193 @@
+article_id:2222,category_name:お知らせ,title_name:「ドラガリアフェス」開催中！,image_path:,message:<div><span class="local_date" data-local_date="1622181600"></span>から、「ドラガリアフェス」を開催中です！</div><div><br></div><div>【ドラガリアフェスとは】 ※「ドラガリアフェス　エクストラ」含む</div><div>・★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップ中です！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><span style="color: rgb(226, 80, 65);">※今回新規で追加される★5キャラ「シーリス（ガンナーVer.）（水）」は、次回のレジェンド召喚からも登場します。</span></div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 マスキュラ（ドラフェスVer.）：水/刀</div><div>★5 シーリス（ガンナーVer.）：水/銃（散弾銃モード）</div><div><br></div><div>【ドラガリアフェスの提供割合】</div><div>★5 合計：6.00％</div><div>★5ピックアップ 合計：1.00％（キャラ：1.00％）</div><div>★5通常 合計：5.00％（キャラ：2.00％ ドラゴン：3.00％）</div><div>★4通常 合計：16.00％（キャラ：8.55％ ドラゴン：7.45％）</div><div>★3通常 合計：78.00％（キャラ：47.00％ ドラゴン：31.00％）</div><div><br></div><div>【ドラガリアフェス開催期間】</div><div><span class="local_date" data-local_date="1622181600"></span> ～ <span class="local_date" data-local_date="1622699999"></span></div><div><br></div><div>新規で追加されるピックアップ対象のキャラを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/9521049b7516718ade42641573010287.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>743</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>一度失ったボディを取り戻したマスキュラ。<br>修繕したボディをラキシ内部にある思考回路<br>『心』から遠隔で操作している。自分だけの<br>力で戦う決意をした彼だが、戦闘後には涙の<br>ようなものを流す姿をよく見かける。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e4c4b6c2cda86984ab5b0997b4b26db62.png"></span>
+				<span>code: 03 ライズジェネレーター</span>
+			</dt>
+			<dd><div>自身に【リアクション無効】と【シールド】を付与する。<br>自身に【フルアクセス】が付与されている場合、このスキルは「code:　08　エグゼキューション」へ変化し、効果が次のようになる。<br>自身に【リアクション無効】と【シールド】と【トランスエフェクト】を付与する。【トランスエフェクト】の効果中は通常攻撃が強化され、攻撃がヒットする回数が増える。</div><div class="skill-detail">必要スキルポイント：3,840<br>特殊効果<br>・リアクション無効<br>　効果時間：15 秒<br>・シールド<br>　効果回数：1<br>　効果量：最大HPの30％<br><br>（変化後）<br>必要スキルポイント：3,840<br>特殊効果<br>・リアクション無効<br>　効果時間：15 秒<br>・シールド<br>　効果回数：1<br>　効果量：最大HPの30％<br>・トランスエフェクト<br>　効果時間：11 秒<br>　重複不可<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e6227bb278c077fe5ca2ed4db4bd6ce42.png"></span>
+				<span>code: 36 クーラントサイクル</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>自身に【フルアクセス】を付与する。<br>自身に【フルアクセス】が付与されている場合、このスキルは「code:　06　コンクリュージョン」へ変化し、効果が次のようになる。<br>周囲の敵のバフを1つ解除し、ダメージを与える。</div><div class="skill-detail">必要スキルポイント：5,570<br>特殊効果<br>・フルアクセス<br>　効果時間：26 秒<br><br>（変化後）<br>威力：489 × 6 Hit<br>必要スキルポイント：2,830<br>必要シェアスキルポイント：16,668<br>特殊効果<br>・バフ解除<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻撃力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の攻撃力が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span>
+				<span>【水】連撃：連撃でバフスキル時間＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが水属性ならヒット数10以上のとき、使用するバフスキルの効果時間が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>アクセラレーターⅡ</span></dt><dd><div>①スキル1を使用するたび、自身に攻撃力アップのオーラ（バーストオーラ上限Lv3）を付与する。この効果は発動してから20秒間は発動しない。<br>②【フルアクセス】が付与されている間、以下の効果を得る。<br>・通常攻撃が強化。攻撃時に複数の敵に追撃を行う。<br>・通常攻撃の4段目に【敵のバフを1つ解除する効果】が付与される。<br>・攻撃速度が6％アップする。<br>・ヒット数が30以上のとき、攻撃力が10％、クリティカル率が8％、クリティカル時のダメージ倍率が8％アップする。<br>・竜化するとき、【フルアクセス】を解除する。<br>③【フルアクセス】が解除されたとき、スキル2を50％チャージする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f3503b7c11dab7e6111611cb63f010c32.png"></span><span>魔動の機構Ⅱ</span></dt><dd><div>「火傷」、「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5928d08635cbad73278c1391505a73392.png"></span><span>クリティカルドライヴⅡ</span></dt><dd><div>攻撃が15ヒットするたびに【クリティカル率が4％アップするバフ】が発動し最大3個まで重複可能。また攻撃がクリティカルになるたびに【クリティカル時のダメージ倍率が4％アップするバフ】が付与され最大10個まで重複可能。しかし、この効果は発動してから1秒間は発動しない。ヒット数がリセットされると、このアビリティで付与されたバフがすべて解除される。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/376da0ae33c0f9b44d92cd094ca859e6.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>757</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>503</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>使用可能モード</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/a3fd3d318f5d1ce860f6d1c41c2d49fb2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/b55a4c2045276a7e557c62c0be3897042.png"><img src="https://dragalialost.akamaized.net/attached/information/images/26f43aab3c39a2bcdadd1b40dd88e7402.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>聖城でヒューマンと交流し、銃の技術を<br>習得したシーリス。多くの仲間と出会い、<br>支え合うことで成長してきた彼女が挑むのは<br>銃をはじめとする異文化。なんでも受容する<br>素直さが、まばゆい未来を切り開いていく。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9bf3fe22f62e503eadabcd3cbb53adcc2.png"></span>
+				<span>プログレスブラスター</span>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、「冷傷」状態にする。<br>このスキルによる攻撃が25ヒット以上した場合、スキル「フォレストエイム」を25％チャージする。</div><div class="skill-detail">威力：32 × 25 Hit<br>必要スキルポイント：4,215<br>特殊効果<br>・冷傷<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41<br>・スキルチャージ<br>　効果量：25％</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d947c2b7e1c76a0a2082580e6b9b773c2.png"></span>
+				<span>フォレストエイム</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>ターゲットとその周囲の敵にダメージを与え、さらに以下の効果の内、いずれかが発生する。<br>・攻撃がヒットした敵の攻撃力をダウンさせる。<br>・攻撃がヒットした敵の防御力をダウンさせる。<br>・自身のHPを回復する。</div><div class="skill-detail">威力：330 × 1 Hit<br>威力：149 × 4 Hit<br>回復力：10<br>回復力：10<br>回復力：10<br>回復力：10<br>必要スキルポイント：6,520<br>必要シェアスキルポイント：8,280<br>特殊効果<br>・攻撃力20％ダウン<br>　効果時間：15 秒<br>・防御力7％ダウン<br>　効果時間：12 秒<br>　重複不可<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>ゲージブレイク＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のモードゲージの減少量が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span>
+				<span>【水】連撃：連撃でやる気アップⅥ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが水属性なら攻撃が20ヒットするたびに【やる気】を1段階アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/83bd9c8302b087a508daec2a8fc9b2cf2.png"></span><span>デバフスキル時間＋20％</span></dt><dd><div>切り傷、攻撃力ダウン、防御力ダウンを付与するデバフスキルの効果時間が20％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>気絶耐性＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>背水の陣・治癒Ⅳ</span></dt><dd><div>HP30％以下になったとき、【20秒間、HPを継続回復するバフ】が発動。<br>この効果は1クエスト中1回まで発動する。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>,start_time:1622181600,update_time1621992633

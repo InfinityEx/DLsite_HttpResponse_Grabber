@@ -1,0 +1,41 @@
+article_id:454
+category_name:お知らせ
+title_name:「竜輝の護符交換所」のラインナップに新たな竜輝の護符を追加！
+image_path:
+
+message:<div><span style="color: rgb(0, 0, 0);"><span class="local_date" data-local_date="1557813600"></span>から、「竜輝の護符交換所」のラインナップに新たな竜輝の護符を追加しました。</span></div><div><span style="color: rgb(0, 0, 0);">&nbsp;</span></div><div><span style="color: rgb(0, 0, 0);">追加された竜輝の護符は、「竜輝の護符交換所」内の「ピックアップ」タブや、各レアリティのタブから交換できます。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);"><strong>【新たな竜輝の護符紹介】</strong></span></div><div><span style="color: rgb(0, 0, 0);"><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/f083187fa60906adb22050a92f8d51822.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">悠久の時を経て</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3d57efbfc9ee679b982b0fd3ed6495302.png"></span><span>【闇】状態異常無効Ⅲ</span></dt><dd><div>装備キャラが闇属性なら<br>クエスト中3回まで状態異常にならない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>【闇】麻痺耐性＋75％</span></dt><dd><div>装備キャラが闇属性なら<br>「麻痺」状態になる確率が75％ダウンする。</div></dd></dl></div></div></span></div><div><span style="color: rgb(0, 0, 0);"><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/9afd41124f771cc95db8254dbfe4d3bb2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">真実の探究者</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span><span>ずぶぬれ耐性＋60％</span></dt><dd><div>「ずぶぬれ」状態になる確率が60％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span><span>【風】ずぶぬれ耐性＋40％</span></dt><dd><div>装備キャラが風属性なら<br>「ずぶぬれ」状態になる確率が40％ダウンする。</div></dd></dl></div></div></span></div><div><span style="color: rgb(0, 0, 0);"><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/86ab6cb2b331b2426546f518f18f69942.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">強い男になるために</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span><span>回復スキル効果＋10％</span></dt><dd><div>回復スキルの効果量が10％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>スキルブースト＋5％</span></dt><dd><div>スキルゲージの上昇率が5％アップする。</div></dd></dl></div></div></span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">※最大上限解放時のステータスです。入手時のステータスではありません。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">【ピックアップ期間】</span></div><div><span style="color: rgb(0, 0, 0);"><span class="local_date" data-local_date="1557813600"></span> ～ <span class="local_date" data-local_date="1559282399"></span></span></div><div><br></div><div><span style="color: rgb(184, 49, 47);">※今回追加された竜輝の護符は、ピックアップ期間終了後も各レアリティのタブから交換できます。</span></div><div><br></div><div><span style="color: rgb(0, 0, 0);">【注意事項】</span></div><div><span style="color: rgb(0, 0, 0);">本お知らせに掲載されている内容以外の情報は、マイページ内のショップから「竜輝の護符交換所」をご確認ください。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">今後とも『ドラガリアロスト』をよろしくお願いいたします。</span></div>
+
+start_time:1557813600; update_time1557803590

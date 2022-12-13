@@ -1,0 +1,154 @@
+article_id:3047
+category_name:お知らせ
+title_name:「ドラガリアフェス」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1648360800"></span>から、「ドラガリアフェス」の開催を予定しております。</div><div><br></div><div>【ドラガリアフェスとは】 ※「ドラガリアフェス　エクストラ」含む</div><div>★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップします！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><span style="color: rgb(226, 80, 65);">※今回新規で追加される★5キャラ「ネデウ（ドラフェスVer.）」、★5ドラゴン「ブリュンヒルデサガ」は、<span class="local_date" data-local_date="1648706400"></span>から<span class="local_date" data-local_date="1649224799"></span>まで開催予定の「ドラガリアフェス」にて引き続き登場しますが、ピックアップ対象ではありません。</span></div><div><span style="color: rgb(226, 80, 65);">また、★5ドラゴン「ブリュンヒルデサガ」はその後のレジェンド召喚からも引き続き登場します。</span></div><div><span style="color: rgb(226, 80, 65);">※別途開催予定の「★5確定ハッピー☆ギフトスクラッチ召喚」に、本召喚から新規で追加されるキャラ・ドラゴンは登場いたしません。</span></div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 ネデウ（ドラフェスVer.）：闇/剣</div><div><br></div><div>■ドラゴン</div><div>★5 ブリュンヒルデサガ：火</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※「竜輝の印」は獲得した召喚のみで消費できます。今回の「ドラガリアフェス」で獲得した「竜輝の印」を、<span class="local_date" data-local_date="1648706400"></span>から<span class="local_date" data-local_date="1649224799"></span>まで開催予定の「ドラガリアフェス」で消費することはできません。</span></div><div><br></div><div>【ドラガリアフェス開催期間】</div><div><span class="local_date" data-local_date="1648360800"></span> ～ <span class="local_date" data-local_date="1648706399"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b9d7555179cfe9feec0837236fe5a5e9.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>真の第七位王子。生まれて間もなく竜鱗病に<br>冒され、妖精国に引き取られた。そのまま<br>死ぬはずだったが、バハムートによって<br>生かされてきた。合理主義者で馴れ合いを<br>嫌い、己の理想のためだけに行動する。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/aa47d998f104e87644a91a65819869de2.png"></span>
+				<span>ライジングリベリオン</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>通常時<br>周囲の敵にダメージを与え、「暗黒」状態にする。<br>このスキルがヒットすると自身の竜化ゲージが上昇する。<br><br>ソウルカウント付与時<br>周囲の敵にダメージを与え、「暗黒」状態にし、バフを1つ解除する。</div><div class="skill-detail">威力：800 × 4 Hit<br>必要スキルポイント：2,376<br>必要シェアスキルポイント：9,005<br>特殊効果<br>・暗黒<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41<br>竜化ゲージ回復量：10<br><br>（ソウルカウント付与時）<br>威力：800 × 5 Hit<br>必要スキルポイント：3,360<br>特殊効果<br>・暗黒<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41<br>・バフ解除</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f75280a5a69d4666aab1410dba2c15d92.png"></span>
+				<span>ブレイジングアニムス</span>
+			</dt>
+			<dd><div>通常時<br>一度竜化するまでこのスキルはチャージできない。<br>自身に【ソウルカウントLv3】を付与する。<br><br>ソウルカウント付与時<br>前方の敵とその周囲の敵にダメージを与え、パーティ全員にクリティカル時のダメージ倍率アップのバーストオーラを付与する。</div><div class="skill-detail">必要スキルポイント：1<br>特殊効果<br>・ソウルカウントLv3<br><br>（ソウルカウント付与時）<br>威力：700 × 6 Hit<br>必要スキルポイント：12,000<br>バーストオーラ付与<br>・クリティカル時のダメージ倍率アップ（バーストオーラ上限Lv 3）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>竜化ブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の竜化ゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【闇】竜化：竜化中ダメージアップ＋12％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが闇属性なら竜化中のダメージ倍率が12％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/808223f7e4cd602dd87951cc09df34592.png"></span><span>創世竜の降臨Ⅱ</span></dt><dd><div>①装備しているドラゴンに関わらず、「バハムート」に竜化する。<br>②自身の竜化時間が100％アップする。<br>③竜化に必要な竜化ゲージの量が倍になる。（竜化ゲージの上限は変わらない。）<br>④クエスト開始時の自身の竜化ゲージが50％アップする。<br>⑤パーティ全員の「クエスト開始時の竜化ゲージがアップする効果」の上限が50％になる。<br>⑥竜化中、次の効果のドラゴンバーストが使用できる。複数の攻撃対象とその周囲の敵にダメージを与える。<br>⑦クエスト中、初めて竜化が解除されたとき、自身に【オーバーロードLv1】を付与する。<br>【オーバーロード】は一定時間が経過するたびレベルアップする。<br>Lv1：継続ダメージを受けるが攻撃力が10％アップする。<br>Lv2：継続ダメージを受けるが攻撃力が15％、クリティカル率が15％アップする。<br>Lv3：継続ダメージを受けるが攻撃力が20％、クリティカル率が20％、攻撃スキルのダメージが20％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bd7de81c28d0b9c93b0edbfc86b0cb6a2.png"></span><span>創世の加護Ⅱ</span></dt><dd><div>「暗闇」、「麻痺」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a5422b118c71a0a475d5e5cd611188862.png"></span><span>理想の残照Ⅱ</span></dt><dd><div>自身のHPが0になったとき、【オーバーロード】が付与されていた場合、自身を除くパーティ全員に【オーバーロードLv1】を付与する。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div><br></div><div><span style="color: rgb(226, 80, 65);">■ネデウ（ドラフェスVer.）の「ソウルカウント」について<br>「ソウルカウント」は、ステータスや性能にプラスの効果を与えるほかに、マイナスの効果がございます。効果の詳細については、ゲーム内ヘルプの「特殊な効果」の「ソウルカウント」にてご確認ください。</span><br><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ecbc64b924921bdd98fac50ab4c164c8.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>緋竜ブリュンヒルデが原初の力を取り戻した<br>姿。炎の化身と呼ぶにふさわしい華炎を<br>その身にまとい、敵を焼き尽くす。<br>愛の炎もこれまで以上に燃え上がり、<br>最愛のダーリンと共に戦地に立つ。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>アウェイクニングフレイム</span>
+			</dt>
+			<dd><div>直線上の敵にダメージを与え、「火傷」、「劫火」状態にする。</div><div class="skill-detail">威力：2,800 × 1 Hit<br>特殊効果<br>・火傷<br>　効果時間：60 秒<br>　効果間隔：3.9 秒<br>　威力：72.7<br>・劫火<br>　効果時間：60 秒<br>　効果間隔：2.9 秒<br>　威力：31.1<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻撃力＋100％</span></dt><dd><div>装備キャラが火属性なら<br>装備キャラの攻撃力が100％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cd300ce06384384f9b63dbade824c8742.png"></span><span>フィアスアーダーⅡ</span></dt><dd><div>①自身の竜化時間が100％アップする。<br>②竜化に必要な竜化ゲージの量が倍になる。（竜化ゲージの上限は変わらない。）<br>③クエスト開始時の自身の竜化ゲージが50％アップする。<br>④パーティ全員の「クエスト開始時の竜化ゲージがアップする効果」の上限が50％になる。<br>⑤「ブリュンヒルデサガ」に竜化中、次の効果のドラゴンバーストが使用できる。<br>指定した範囲に7.5秒間、敵にダメージを与えるフィールドを設置する。このフィールドは同時に1つまで設置できる。<br>⑥上の⑤で設置したフィールド上にいるとき、自身の竜化時間の時間経過による減少量を75％軽減し、0.9秒ごとに自身のHPを回復する。<br>⑦スキル終了時またはスキルが中断されたとき、自身に【フレイムラブ】を付与する。【フレイムラブ】はレベルアップし、レベルに応じて以下のバフ効果が発動する。<br>Lv1：10秒間、スキルダメージが10％アップする。<br>Lv2：5秒間、スキルダメージが30％、敵を「火傷」および「劫火」状態にする確率が30％アップする。</div></dd></dl></div></div></div><div>※Lv100、上限解放4段階、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1648274400; update_time1648202513

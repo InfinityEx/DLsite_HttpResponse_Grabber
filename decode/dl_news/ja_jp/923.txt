@@ -1,0 +1,8 @@
+article_id:923
+category_name:お知らせ
+title_name:メインストーリーに第11章「哀しき戦闘人形」を追加！【更新】
+image_path:https://dragalialost.akamaized.net/attached/information/images/8297d7a3bb06a96a3baa24f30017bbdc.png
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1577356800"></span>更新】</strong></span><br>現在、メインストーリー11章 6-2「モード・ジェノサイド」やメインストーリー11章 EX1-2「閉塞の道」にて、一部の端末でクエストを開始した際、進行不能になる不具合が発生することを確認しております。<br><br>本不具合は、<span class="local_date" data-local_date="1577772000"></span>ごろに実施予定のデータ更新にて、修正を予定しております。<br>修正が完了しましたら、本お知らせにてご連絡いたします。<br><br>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。<br><br></div><hr><div><span class="local_date" data-local_date="1576476000"></span>からメインストーリーに、第11章「哀しき戦闘人形」を追加しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/8297d7a3bb06a96a3baa24f30017bbdc.png"></div><div>完全復活を果たした魔神モルトメサイアによって、世界は蹂躙される。</div><div>天地を司るドラゴンを滅ぼすため、300年の眠りから覚めた古の戦闘兵器――マリオーン。</div><div>戦うためだけに造られた人形が、一行に迫り来る――</div><div><br></div><div>最新章をお楽しみください！</div><div><br></div><div>■注意事項</div><div>メインストーリー第11章「哀しき戦闘人形」は、メインストーリー第10章 6-3「新たなる誓い」をクリアすると解放されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1576476000; update_time1577356803

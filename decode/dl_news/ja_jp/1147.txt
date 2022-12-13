@@ -1,0 +1,8 @@
+article_id:1147
+category_name:お知らせ
+title_name:メインストーリー第12章「戦火の覇道」に新たなストーリーの追加が決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/3cb183e845ed03c8608a50b50c4941d8.png
+
+message:<div><span class="local_date" data-local_date="1584943200"></span>からメインストーリー第12章「戦火の覇道」に、新たなストーリーの追加が決定しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/3cb183e845ed03c8608a50b50c4941d8.png"></div><div><br></div><div>新たなストーリーをご期待ください！</div><div><br></div><div>■注意事項</div><div>・メインストーリー第12章「戦火の覇道」に追加される新たなストーリーは、メインストーリー第12章 4-4「覇道」をクリアすると解放されます。</div><div>・新たに追加されるストーリーは、フルボイスではなく一部のボイスのみが再生されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1584597600; update_time1583836762

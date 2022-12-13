@@ -1,0 +1,170 @@
+article_id:1587
+category_name:お知らせ
+title_name:「ドラゴンレジェンド召喚」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1600668000"></span>から、「ドラゴンレジェンド召喚」を開催中！</div><div><br></div><div>ピックアップ対象の★5と★4ドラゴンの提供割合がアップ中です。</div><div><br></div><div>【ドラゴンレジェンド召喚の提供割合】</div><div>★5ピックアップ 合計：2.40％（キャラ：0％ ドラゴン：2.40％）</div><div>★5通常 合計：1.60％（キャラ：0.75％ ドラゴン：0.85％）</div><div>★4ピックアップ 合計：7.00％（キャラ：0％ ドラゴン：7.00％）</div><div>★4通常 合計：9.00％（キャラ：5.05％ ドラゴン：3.95％）</div><div>★3通常 合計：80.00％（キャラ：48.00％ ドラゴン：32.00％）</div><div><br></div><div>【ドラゴンレジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1600668000"></span> ～ <span class="local_date" data-local_date="1601186399"></span></div><div><br></div><div>ピックアップ対象のドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/cbc0a63823ffe1023ded9f9ee52d252f.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>1,096</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>建国王アルベリウスに最期まで付き従った<br>伝説の六竜の一。冥竜の異名を持つ。<br>一度は敗れて死の淵をさ迷ったが、<br>復活を遂げた魔神の野望を阻止し、彼の王の<br>悲願を叶えるため、蘇った翼を広げる。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>エターナルハート</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に闇属性のダメージを与え、「毒」状態にする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】攻撃＆竜の恩寵Ⅴ</span></dt><dd><div>装備キャラが闇属性なら<br>装備キャラの攻撃力が55％アップする。竜化時、自身に【クエスト中攻撃力が10％アップするバフ】が発動。この効果は1クエスト中2回まで発動する。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/604f24b9b2b24305e11d57aafcdf34d2.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>1,095</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>北グラスティア大陸を中心に活動している<br>武装ドラゴン集団『プラウダ』の、<br>空軍制圧部隊所属。礼節を重んじる清廉、<br>高潔な性格。人と竜を隔てる古き掟を疎み、<br>共に戦う道を切り開かんと志す。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>アンブロックリッパー</span>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に風属性のダメージを与える。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【風】攻撃力＋50％</span></dt><dd><div>装備キャラが風属性なら<br>装備キャラの攻撃力が50％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>【風】勇猛果敢・攻盾Ⅱ</span></dt><dd><div>装備キャラが風属性なら攻撃によってのけぞらずに15秒経過するたび、自身に【最大HPの40％以下のダメージを無効化する特殊シールド】を付与する。<br>シールドの効果は1回のみで、通常のシールドと重複が可能。またこのシールドが存在しているとき、攻撃力が30％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/86d1ee4a40fe2a289e8203b4fe87c283.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>1,095</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>南大陸の河川を守護するドラゴン。<br>幼体と成体で姿形が大きく異なる。<br>基本的に友好的な性格だが、幼体の前で<br>人間がタブーを侵すと悪意を持った分身が<br>生まれ、災いをもたらすようになる。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>クリナップウェイヴ</span>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に水属性のダメージを与える。このスキルは、ステュクスの通常攻撃で付与される【ストリームスピリット】の数に応じて強化される。【ストリームスピリット】は3つまで重複可能で、竜化解除またはスキル使用時に全て解除される。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【水】経時スキルダメージⅤ</span></dt><dd><div>装備キャラが水属性なら15秒経過するたび、自身に【次のスキルダメージが50％アップするバフ】を付与する。<br>このバフは最大4つまで重複し、攻撃スキル使用時にすべて解除される。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>その他のピックアップ対象のドラゴンは下記のとおりです。</div><div>★4ドラゴン：ヴォジャノーイ、フォーゲル、ジャガーノート</div><div><br></div><div>【注意事項】</div><div>召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div>
+
+start_time:1600668000; update_time1600239903

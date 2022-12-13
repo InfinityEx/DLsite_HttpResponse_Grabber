@@ -1,0 +1,170 @@
+article_id:1402
+category_name:お知らせ
+title_name:「ドラゴンレジェンド召喚」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1592805600"></span>から、「ドラゴンレジェンド召喚」の開催を予定しております。</div><div><br></div><div>ピックアップ対象の★5と★4ドラゴンの提供割合がアップします。</div><div><span style="color: rgb(226, 80, 65);">※本召喚の提供内容に、別途開催中のレジェンド召喚「ハロウィンファンタジア2」の期間限定で追加されたキャラとドラゴンは含まれません。</span></div><div><br></div><div>【ドラゴンレジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1592805600"></span> ～ <span class="local_date" data-local_date="1593410340"></span></div><div><br></div><div>ピックアップ対象のドラゴンの一部を、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6ff8af3c0662eca5212ddc0d99fd8619.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>《結社》に囚われていたドラゴン。<br>万人の罪を自ら背負い、その身を捧げる<br>ことで罪を浄化する——と伝わるが、<br>《結社》の実験により、記憶を失い、<br>今はアデルペインの旅に協力をしている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>祝福されざる絆の鎖</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に闇属性のダメージを与え、15秒間パーティ全員の防御力を30％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】攻撃力＋40％</span></dt><dd><div>装備キャラが闇属性なら<br>装備キャラの攻撃力が40％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/97a6a9c25dfb5181cf44056f25fad1b82.png"></span><span>【闇】ピンチで攻防アップⅡ</span></dt><dd><div>装備キャラが闇属性なら<br>HP30％以下のとき、攻撃力が40％、防御力が100％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ff632a82851ed76e43030b167caa64c1.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>ついに憧れのステージに立った、渚の歌姫<br>ドラゴン。船を難破させるほど美しいと<br>言われる歌声で、人々を楽しませる。<br>ステージ衣装はヒトのお手製。まさに人竜の<br>絆が生み出した、ドラガリア歌姫である。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/77c2ac9b0a7142033bc6402d88c4b32d2.png"></span>
+				<span>ハッピーユニゾン</span>
+			</dt>
+			<dd>
+				<div>
+					20秒間、パーティ全員の攻撃力を20％、防御力20％をアップさせ【やる気】を3段階アップする。このスキルは竜化中に攻撃することで再チャージが可能で、1度の竜化中に最大2回まで使用できる。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻撃力＋40％</span></dt><dd><div>装備キャラが光属性なら<br>装備キャラの攻撃力が40％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>ハピエストタイム☆</span></dt><dd><div>装備キャラが光属性なら<br>パーティ全員の竜化時間が3秒アップする。<br>竜化時間は最大5秒までアップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c9a3dc6ddd92860e20f072f0c78efec5.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>1,005</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>桜花をまとったヒノモトのドラゴン。<br>見込んだ者に花咲くような栄華をもたらす。<br>しかし力が強すぎるため、恵みを受けた者は<br>一瞬で散ってしまう。そのため自身の力を<br>受けきれる強い者にのみ手を貸すという。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>乙女神楽・花衣の舞</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に火属性のダメージを与え、自身に【次のスキルダメージが40％アップするバフ】を付与する。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻撃力＋20％</span></dt><dd><div>装備キャラが火属性なら<br>装備キャラの攻撃力が20％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【火】スキルダメージ＋90％</span></dt><dd><div>装備キャラが火属性なら<br>装備キャラの攻撃スキルのダメージが90％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1592719200; update_time1592377482

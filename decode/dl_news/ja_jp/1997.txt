@@ -1,0 +1,8 @@
+article_id:1997
+category_name:イベント
+title_name:施設イベント「悪魔が誘う偽りの楽園」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/55f38f48d2459f291c515f486233a2a8.png
+
+message:<div><span class="local_date" data-local_date="1614319200"></span>から、施設イベント「悪魔が誘う偽りの楽園」の開催を予定しております。<br>風属性のボスと戦い、イベント限定の施設を報酬として獲得し、建設できるイベントです。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a7a74fff80df66d782843626f90236b7.png"></div><div>北大陸の旅の途中、山奥の小村パラダイスを訪れた王子たち。<br>そこではマダムと呼ばれる女性が、<br>不思議な力で人々の記憶を書き換えていた。<br>その力は『封印石』の瘴気によるものなのか？<br>王子は使徒と共に偽りに満ちた楽園へ潜入捜査を試みるが&hellip;&hellip;。<br><br>■イベント期間<br><span class="local_date" data-local_date="1614319200"></span> ～ <span class="local_date" data-local_date="1615442399"></span><br><br>■注意事項<br>1. イベントクエスト参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br>2. マルチプレイ参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1614146400; update_time1613526184

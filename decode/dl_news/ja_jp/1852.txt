@@ -1,0 +1,8 @@
+article_id:1852
+category_name:お知らせ
+title_name:メインストーリーに第17章「聖都グラムス」を追加＆「竜玉」で上限解放できるドラゴンを追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/36f0b6dd2c91f51c67ef3d0798203eba.png
+
+message:<div><span class="local_date" data-local_date="1608271200"></span>から、メインストーリーに第17章「聖都グラムス」を追加しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/36f0b6dd2c91f51c67ef3d0798203eba.png"></div><div><br></div><div>北グラスティア大陸に降り立った第七位王子一行は手紙の差出人であるガトフを探すためグラムスへと出向く。</div><div>教皇率いるイリア教会の勢力が一行に迫り、叛逆の牙が悩めるランザーヴに襲い来る。</div><div>光と影が入り混じる聖都で、王子たちに試練が待ち受ける――。</div><div><br></div><div>最新章をお楽しみください！</div><div><br></div><div>また、<span class="local_date" data-local_date="1608271200"></span>から、「竜玉」を使用して上限解放できるドラゴンを追加しました。</div><div>今回、「竜玉」が追加されたドラゴンは下記の通りです。</div><div>・アルクトス</div><div>・カムイ</div><div>・フレイヤ</div><div>・タケミカヅチ</div><div>・エピメテウス</div><div><br></div><div>■注意事項</div><div>1. メインストーリー第17章「聖都グラムス」は、メインストーリー第16章 4-6「旅立ち」をクリアすると解放されます。</div><div>2. 獲得できるドラゴンの「竜玉」、現在の所持数、残り獲得回数、および「竜玉」が獲得できるクエストは、メインストーリー各章のエリアマップ内に表示される「竜玉」アイコンから確認できます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1608271200; update_time1608023539

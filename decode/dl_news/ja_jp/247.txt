@@ -1,0 +1,8 @@
+article_id:247
+category_name:お知らせ
+title_name:オリオン(バレンタインVer.)のスキルのダメージ値について【追記】
+image_path:
+
+message:<div>オリオン(バレンタインVer.)のスキル「スピニングブリュレ」で付与する火傷ダメージ値が、想定したダメージ値と異なる現象を確認しております。</div><div><br></div><div>本現象については、現在修正を進めております。</div><div>修正まで今しばらくお待ちください。</div><div>ご案内できることがございましたら、本お知らせにてご連絡いたします。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1550157000"></span> 追記</strong></span><br><span class="local_date" data-local_date="1550156100"></span> に実施したデータ更新にて本現象を修正いたしました。<br><br>また、本現象のお詫びとして、<span class="local_date" data-local_date="1550156100"></span> までにゲームを開始されたプレイヤーの皆様に、下記のアイテムを順次お送りいたします。<br><br>・竜輝晶300個<br><br>お詫びとしてお送りしたアイテムは、「プレゼント」からお受け取りいただけます。<br>本アイテムは、<span class="local_date" data-local_date="1550760900"></span>までにゲームにログインした際に受け取れます。<br>本アイテムの受け取り期限は、プレゼントに竜輝晶が送られてから7日間です。<br><br>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div>
+
+start_time:1550144400; update_time1550199976

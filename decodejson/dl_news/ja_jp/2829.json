@@ -1,0 +1,147 @@
+article_id:2829,category_name:お知らせ,title_name:「ドラガリアフェス　エクストラ」開催中！,image_path:,message:<div><span class="local_date" data-local_date="1644818400"></span>から、「ドラガリアフェス　エクストラ」を開催中です！</div><div><br></div><div>【ドラガリアフェスとは】 ※「ドラガリアフェス　エクストラ」含む</div><div>★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップします！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><span style="color: rgb(226, 80, 65);">※今回新規で追加される★5キャラ「ニーナ（風）」は、次回のレジェンド召喚からも登場します。</span></div><div><span style="color: rgb(226, 80, 65);">※これまでの「ドラガリアフェス」で追加されたドラゴンも本召喚から登場する場合があります。登場するドラゴンの詳細はゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</span></div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 ニーナ：風/杖</div><div><br></div><div>【過去のドラガリアフェスから登場するピックアップ対象のドラゴン】</div><div>■ドラゴン</div><div>★5 ワキヤンブレイヴ（ドラフェスVer.）：風</div><div><br></div><div>また、今回のドラガリアフェスでは下記の期間限定のキャラが再登場します。</div><div><span style="color: rgb(226, 80, 65);">※下記のキャラはピックアップ対象ではございません。</span></div><div><br></div><div>【期間限定で再登場するキャラ】</div><div>■キャラ</div><div>★5 チェルシー（バレンタインVer.）：風/弓</div><div>★5 メロディ（バレンタインVer.）：風/斧</div><div>★5 アディス（バレンタインVer.）：闇/弓</div><div><br></div><div>【ドラガリアフェス　エクストラの提供割合】</div><div>★5 合計：6.00％</div><div>★5ピックアップ 合計：1.30％（キャラ：0.50％ ドラゴン：0.80％）</div><div>★5通常 合計：4.70％（キャラ：2.50％ ドラゴン：2.20％）</div><div>★4通常 合計：16.00％（キャラ：8.55％ ドラゴン：7.45％）</div><div>★3通常 合計：78.00％（キャラ：47.00％ ドラゴン：31.00％）</div><div><br></div><div>【ドラガリアフェス　エクストラ開催期間】</div><div><span class="local_date" data-local_date="1644818400"></span> ～ <span class="local_date" data-local_date="1645077599"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ed8b1ee904aba7e39864977165ca0e7a.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5acf4f3182dfd0356371c43a0b53ad902.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>807</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>468</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>南グラスティア大陸のとある街で店を営む、<br>明るく元気な少女。自分の店を訪れた人を<br>区別せず、どんなお客も真摯に出迎えるが、<br>理不尽な言いがかりをつける客や万引き客に<br>対してだけは一切の容赦をしない。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/febed52c0bbb22852312ef8a69f450cb2.png"></span>
+				<span>出張！　ニーナショップ！</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>パーティ全員のHPを継続回復する。<br>またパーティ全員のHPを回復する。この回復は対象のHPが30％以下の場合、回復量が10倍にアップする。<br>接客ゲージが1本以上あるとき、本数に応じた効果が追加される。<br>・接客ゲージ1本以上：回復量がアップする。<br>・接客ゲージ2本以上：パーティ全員の状態異常を解除する。<br>・接客ゲージ3本：パーティ全員に攻撃力アップのバーストオーラを付与する。</div><div class="skill-detail">（接客ゲージ0本時）<br>回復力：10<br>必要スキルポイント：5,916<br>必要シェアスキルポイント：9,169<br>特殊効果<br>・HP継続回復<br>　効果時間：40 秒<br>　効果間隔：2.9 秒<br>　効果量：25<br><br>（接客ゲージ1本時）<br>回復力：21<br>特殊効果<br>・HP継続回復<br>　効果時間：40 秒<br>　効果間隔：2.9 秒<br>　効果量：25<br><br>（接客ゲージ2本時）<br>回復力：21<br>特殊効果<br>・HP継続回復<br>　効果時間：40 秒<br>　効果間隔：2.9 秒<br>　効果量：25<br>・全状態異常回復<br><br>（接客ゲージ3本時）<br>回復力：21<br>特殊効果<br>・HP継続回復<br>　効果時間：40 秒<br>　効果間隔：2.9 秒<br>　効果量：25<br>・全状態異常回復<br>バーストオーラ付与<br>・攻撃力アップ（バーストオーラ上限Lv 1）</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/275a89229a56fc552cb6eaa8508951262.png"></span>
+				<span>赤字覚悟の大放出！</span>
+			</dt>
+			<dd><div>パーティ内でHPが0のキャラをHP満タンで復活させ、<br>パーティ全員のHPを回復し、状態異常を解除する。<br>さらに、自身とドラゴンを除くパーティ全員のスキルをチャージする。<br>スキル中、攻撃でのけぞらない。<br>このスキルは、接客ゲージが最大の場合のみ使用可能で、スキル使用時、接客ゲージをすべて消費する。</div><div class="skill-detail">回復力：300<br>必要スキルポイント：8,352<br>特殊効果<br>・復活<br>・全状態異常回復<br>・スキルチャージ<br>　効果量：100％</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回復スキル効果＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の回復スキル効果が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span>
+				<span>【風】士気：攻勢士気・治癒Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが風属性なら攻撃力アップのバーストオーラが付与されているとき、【HPを継続回復するバフ】が発動する。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cabfd8229c6af11c5b1f4e6ea9115ed42.png"></span><span>まごころ接客Ⅱ</span></dt><dd><div>・接客ゲージが追加され、バーストアタックがターゲットとその周囲にダメージを与えるものに変化する。<br>・クエスト開始時に接客ゲージが最大までチャージされる。<br>・スキル「出張！　ニーナショップ！」を使用したとき、接客ゲージがチャージされる。接客ゲージは最大で3本までチャージでき、1本以上チャージされているとき、バーストアタックにバフを解除する効果が追加される。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>凍結耐性＋100％</span></dt><dd><div>「凍結」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/77e6a5d022e8d9cc368641382287ea682.png"></span><span>ご奉仕セールⅡ</span></dt><dd><div>・スキル「出張！　ニーナショップ！」のアイコンにスキルゲージが追加される。<br>・接客ゲージが1本以上のとき、スキルゲージがたまっていなくてもスキル「出張！　ニーナショップ！」が使用可能になる。この方法でスキルを発動した場合、接客ゲージを1本消費する。<br>・接客ゲージを1本以上消費したとき、パーティ全員に攻撃力アップのバーストオーラ（バーストオーラ上限Lv1）を付与する。この効果は発動してから45秒間は発動しない。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div>※スキルによる復活についての詳細はヘルプをご確認ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ff6cc9a8c5a56487d886079103aac2a0.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>平原の民に信仰されるドラゴン・ワキヤンが<br>生まれ変わった姿。屈強な丈夫の迷いなき<br>意志を受け、身を蝕む瘴気から解放された。<br>慎重で用心深い性格は以前と変わりないが、<br>変化を恐れない強い意志を胸に秘めている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>シャンペインレイジ</span>
+			</dt>
+			<dd><div>ターゲットとその周囲の敵にダメージを与える。スキル使用中でなく、敵をターゲットしているときに竜化時間が0になった場合、このスキルが自動で発動する。この効果はスキルゲージがチャージされていない状態でも発動する。</div><div class="skill-detail">威力：1,923 × 1 Hit<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【風】攻撃力＋70％</span></dt><dd><div>装備キャラが風属性なら<br>装備キャラの攻撃力が70％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/65863989132db80658f5d919573c14e92.png"></span><span>【風】悠原の猛りⅡ</span></dt><dd><div>装備キャラが風属性なら<br>竜化ゲージが10％上昇するたび、自身に【45秒間水属性と無属性の敵に対して攻撃したときダメージ倍率が30％アップするバフ】が発動。<br>この効果は重複せず、発動してから5秒間は発動しない。</div></dd></dl></div></div></div><div>※Lv100、上限解放4段階、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>,start_time:1644818400,update_time1644457118

@@ -1,0 +1,8 @@
+article_id:110
+category_name:イベント
+title_name:イベント予告「闇穿つ光の歌声」開催！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1543557600"></span>から、レイドイベント「闇穿つ光の歌声」の開催を予定しております。</div><div>闇属性のレイドボスとマルチプレイで戦うイベントです。</div><div><br></div><div>本イベントに登場するキャラ・ドラゴンを紹介します。<br><br>【キャラ紹介】</div><div>■ルクレツィア<img src="https://dragalialost.akamaized.net/attached/information/images/16feedd4929f635d9f4b4c3099ea10f3.png"></div><div>絶世の歌姫と名高い歌い手。鈴を転がすような声は数多の人を虜にし、その名声は大陸中に響き渡っている。<br>華麗で優雅な外見とは裏腹に、魔獣退治の腕も超一流と噂されている。<br><br>【キャラ紹介】<br>■エリアス</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a182fa4e2d3dfecad39848c5c171f9e6.png"></div><div>神の歌声を持つと言われる合唱団の少年。自分にも他人にも厳しく、非常な努力家。<br>真摯でストイックな性格で、歌に対して強い思い入れを持つ。甘いもの好きだが、子供っぽいかもと少し気にしている。<br><br><br>【ドラゴン紹介】<br>■マリティムス</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/aa1620125fcf6e1a45efbe5f53723d6e.png"></div><div>雪の町の合唱団を守り続けるドラゴン。<br>長年、町に住んでいて、皆の人気者。<br>オシャレが大好きで、合唱団の子どもたちから贈られたベルをいつも大事に首につけている。</div><div><br></div><div>■注意事項</div><div>1. イベントクエスト参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div>2. マルチプレイ参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div>3. 開催期間および内容は、予告なく変更する場合があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1543213800; update_time1543558226

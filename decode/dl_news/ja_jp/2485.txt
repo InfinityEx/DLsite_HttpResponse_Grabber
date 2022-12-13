@@ -1,0 +1,8 @@
+article_id:2485
+category_name:お知らせ
+title_name:「3rd Anniversary カウントダウン ログインボーナス」開催！
+image_path:https://dragalialost.akamaized.net/attached/information/images/9506bf4a8fb1f20b2e6e70171828b657.png
+
+message:<div><span class="local_date" data-local_date="1632204000"></span>から、「3rd Anniversary カウントダウン ログインボーナス」を開催中！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/9506bf4a8fb1f20b2e6e70171828b657.png"></div><div><br></div><div>開催期間中、ログインするたびに召喚チケットを毎日3枚プレゼント！</div><div>最大6日間で召喚チケット18枚をプレゼントいたします。</div><div><br></div><div>■開催期間</div><div><span class="local_date" data-local_date="1632204000"></span> ～ <span class="local_date" data-local_date="1632722399"></span></div><div><br></div><div>■注意事項</div><div>1. ログインボーナスは、毎日15:00以降にゲームにログインした際、プレゼントに贈られます。</div><div>2. ログインボーナスとして贈られたプレゼントには、受け取り期限があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1632204000; update_time1631600024

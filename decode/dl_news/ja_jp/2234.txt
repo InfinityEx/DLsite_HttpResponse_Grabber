@@ -1,0 +1,8 @@
+article_id:2234
+category_name:お知らせ
+title_name:キャラ「リュカ（ドラフェスVer.）」のシェアスキル「シャイニングデストラプション」の不具合について
+image_path:
+
+message:<div><span class="local_date" data-local_date="1622084400"></span>ごろに公開したVer.2.8.0にて、下記不具合を修正しました。</div><div><br></div><div>■不具合内容</div><div>・キャラ「ナーム（ドラフェスVer.）」の羽化時のスキル「フェアリークラウン」に、キャラ「リュカ（ドラフェスVer.）」のスキル「シャイニングデストラプション」をシェアスキルとして使用した際の効果が反映される。</div><div><br></div><div>不具合の修正に伴い、下記の対象プレイヤーにスキル「シャイニングデストラプション」のシェアスキル解放に必要な「輝の書」を順次補填いたします。</div><div><br></div><div>■補填対象プレイヤー</div><div>ナーム（ドラフェスVer.）入手時点からVer.2.7.0までにシェアスキル「シャイニングデストラプション」を解放されたプレイヤー</div><div><br></div><div>■補填予定日</div><div><span class="local_date" data-local_date="1622178000"></span>以降順次補填いたします。</div><div><br></div><div>■補填内容</div><div>輝の書&times;6</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div><div><br></div>
+
+start_time:1622170800; update_time1622165710

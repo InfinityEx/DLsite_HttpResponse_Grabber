@@ -1,0 +1,8 @@
+article_id:166
+category_name:お知らせ
+title_name:サンメテオールからのプレゼント！
+image_path:
+
+message:<div><img src="https://dragalialost.akamaized.net/attached/information/images/c21ebf8c756c8d811cb074044d81525f.png"></div><div>ハッピー星竜祭！</div><div><br></div><div>開催中の季節イベント「雪降る夜、星竜樹の下で」はお楽しみいただけているでしょうか！？</div><div><br></div><div>星の降る竜の夜、星竜樹の下で、プレゼントを交換しあう星竜祭のパーティーが、聖城でも開かれています。</div><div><br></div><div>サンメテオールに扮した聖城の仲間たちから、ゲームをプレイしていただいているプレイヤーの皆様に、プレゼントが贈られました！</div><div><br></div><div>■プレゼント内容</div><div>・竜輝晶1000個</div><div><br></div><div>■対象</div><div><span class="local_date" data-local_date="1545721200"></span>までにゲームを開始されたプレイヤーの皆様</div><div><br></div><div><span class="local_date" data-local_date="1546325999"></span>までにゲームにログインした際に受け取れます。</div><div>受け取り期限は、プレゼントに竜輝晶が送られてから7日間です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1545721200; update_time1545721287

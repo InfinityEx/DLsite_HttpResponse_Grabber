@@ -1,0 +1,8 @@
+article_id:1285
+category_name:お知らせ
+title_name:チキ＆ムムからプレゼント！
+image_path:
+
+message:<div>イベント「FIRE EMBLEM 新たなる扉」をプレイしていただき、ありがとうございます！</div><div>竜という共通点をもつ二人から感謝の気持ちとして、プレイヤーの皆様へ、下記のプレゼントを順次お贈りいたします！</div><div><br></div><div>■プレゼント内容</div><div>召喚チケット&times;5</div><div>ファフニールコイン&times;50</div><div><br></div><div>お贈りしたアイテムの受け取り期限は、「プレゼント」にアイテムが贈られてから7日間です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1588831200; update_time1588246535

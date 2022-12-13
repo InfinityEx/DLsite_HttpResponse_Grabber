@@ -1,0 +1,8 @@
+article_id:386
+category_name:イベント
+title_name:4/12からヴォイド討伐戦に「アグニ・ヴォイド」がついに登場！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1555048800"></span>から、「ヴォイド討伐戦」に「アグニ・ヴォイド」が登場！</div><div><br></div><div>「炎帝」と恐れられしドラゴン――アグニ。</div><div>黒いマナに浸食された彼は供物を捧げられても満たされず</div><div>目につくすべてを焼き尽くし、暴虐を振るう。</div><div>激情を鎮めるため、</div><div>王子たちは虚無に堕ちた炎帝に立ち向かう！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/02183a21f048023940ecf362a61f51c8.png"></div><div>アグニ・ヴォイド(火) 必要戦力：12500</div><div><br></div><div>【注意事項】</div><div>ヴォイド討伐戦参加には、メインストーリー第7章 5-6(Normal)をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1554876000; update_time1554700305

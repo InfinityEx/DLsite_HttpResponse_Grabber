@@ -1,0 +1,32 @@
+article_id:1291
+category_name:お知らせ
+title_name:「竜輝の護符交換所」のラインナップに新たな竜輝の護符を追加！
+image_path:
+
+message:<div><span style="color: rgb(0, 0, 0);"><span class="local_date" data-local_date="1589263200"></span>から、「竜輝の護符交換所」のラインナップに新たな竜輝の護符を追加しました。</span></div><div><span style="color: rgb(0, 0, 0);">&nbsp;</span></div><div><span style="color: rgb(0, 0, 0);">追加された竜輝の護符は、「竜輝の護符交換所」内の「ピックアップ」タブや、各レアリティのタブから交換できます。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);"><strong>【新たな竜輝の護符紹介】</strong></span></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/9414a8243378aee240623c1515e9aafa2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">友の記憶</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾風怒濤・攻＋20％&nbsp;(Max20％)</span></dt><dd><div>ヒット数15以上で、攻撃力が20％アップする。&nbsp;(Max20％)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>スキルブースト＋8％&nbsp;(Max15％)</span></dt><dd><div>スキルゲージの上昇率が8％アップする。&nbsp;(Max15％)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/c5c162ef2865bcf394185bcdcea947dd2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">堕ちた翼</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>竜化中ダメージアップ＋14％&nbsp;(Max18％)</span></dt><dd><div>竜化中のダメージ倍率が14％アップする。&nbsp;(Max18％)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span><span>光属性耐性＋10％&nbsp;(Max15％)</span></dt><dd><div>光属性のダメージを10％減少させる。&nbsp;(Max15％)</div></dd></dl></div></div></div><div><br></div><div><span style="color: rgb(0, 0, 0);">※最大上限解放時のステータスです。入手時のステータスではありません。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">【ピックアップ期間】</span></div><div><span class="local_date" data-local_date="1589263200"></span> ～ <span class="local_date" data-local_date="1590731999"></span></div><div><br></div><div><span style="color: rgb(184, 49, 47);">※今回追加された竜輝の護符は、ピックアップ期間終了後も各レアリティのタブから交換できます。</span></div><div><br></div><div><span style="color: rgb(0, 0, 0);">【注意事項】</span></div><div><span style="color: rgb(0, 0, 0);">本お知らせに掲載されている内容以外の情報は、マイページ内のショップから「竜輝の護符交換所」をご確認ください。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">今後とも『ドラガリアロスト』をよろしくお願いいたします。</span></div>
+
+start_time:1589263200; update_time1588835719

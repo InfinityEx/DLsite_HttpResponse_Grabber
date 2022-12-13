@@ -1,0 +1,311 @@
+article_id:1843
+category_name:お知らせ
+title_name:マナサークルの「第6層」解放キャラを追加！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1608271200"></span>から、一部のキャラにおいて、マナサークルの「第6層」を追加いたします。</div><div><br></div><div>今回の対象キャラおよびステータスを、下記にてご紹介いたします。</div><div>※キャラのスキルLvを上げると、シェアスキルに設定した際、スキルゲージが溜まりにくくなります。</div><div><br></div><div>■対象キャラ</div><div>★5 クラウ（星竜祭Ver.）：水/短剣</div><div>★4 ザインフラッド（星竜祭Ver.）：風/ロッド</div><div>★4 ネファリエ（星竜祭Ver.）：水/弓</div><div><br></div><div>■ステータス紹介</div><div><br></div><div>【★5キャラ】</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/1bcc8794a77ba2c39bca1c808b5183732.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">クラウ（星竜祭Ver.）</div><div class="cv">CV:内山夕実</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/960c7daac545c22ad02e9e69f39f670e2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>961</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>568</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>3,229</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f23251faac385b6083b7adc84b169d2a2.png"></span>
+				<span>トゥインクルギフト</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>3</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に水属性のダメージを与え、自身と周囲の味方の【やる気】を1段階アップする。また【フローズンギフト】を発動。次に使用するバーストアタックに【敵を凍結状態にする効果】を付与する。<br>このスキルを敵にヒットさせると【スキルシフト】が発生し、シフト1で攻撃力アップ、シフト2でクリティカル率アップが追加される。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>スターナイトグレイス</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に水属性のダメージを与える。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>クリティカル率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のクリティカル確率が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span>
+				<span>【水】連撃：ヒット数継続時間延長Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが水属性なら攻撃が最後にヒットしてからヒット数がリセットされるまでの時間を2.5秒延長する。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/97a6a9c25dfb5181cf44056f25fad1b82.png"></span><span>リングサンメテオール</span></dt><dd><div>HP70％以上のとき、攻撃力と防御力が13％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f9540aa3b892c485f82bfd1ef78b1b72.png"></span><span>気絶耐性・改＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。<br>気絶判定を持つ攻撃を受けた時、自身に【10秒間、攻撃力が15％アップするバフ】が発動。バフを発生させる効果は発動してから15秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>20ヒットでやる気アップ</span></dt><dd><div>攻撃が20ヒットするたびに【やる気】を1段階アップする。</div></dd></dl></div></div></div><div>スキル「トゥインクルギフト」は、Lv3まではスキル使用時に凍結状態にする効果がありましたが、Lv4にするとスキル使用時にバーストアタックに凍結効果を付与する効果に変わり、敵を凍結状態にする確率も上がっています。</div><div>スキル使用時に凍結状態にする効果が発生するのではなく、スキルゲージの状況によらずプレイヤーが任意のタイミングで凍結状態にする効果を発動できるようにすることで、より扱いやすいスキルにしています。</div><div>なお、サポートスキル、シェアスキルについては、Lv4にしてもLv3までと同じように、スキル使用時に凍結状態にする効果が発生します。</div><div><br></div><div>【★4キャラ】</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/bc35e67bacf5a2e4fd67c908fb5b0f592.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">ザインフラッド（星竜祭Ver.）</div><div class="cv">CV:関智一</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/960c7daac545c22ad02e9e69f39f670e2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>916</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>565</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>3,161</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>ドラゴンプレゼント</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					15秒間、パーティ内の風属性キャラ全員のクリティカル発生確率を22％アップし、パーティ全員の攻撃力を5％アップする。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/eedeb82f382c79ce1e8e580efaa403f92.png"></span>
+				<span>ドラゴニュールブレス</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に風属性のダメージを与える。このスキルがヒットすると自身の竜化ゲージが上昇する。<br>クエスト中、1回竜化するとスキルが強化され、スキルヒット時の竜化ゲージ上昇量がアップする。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>スキルダメージ＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のスキルダメージが15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【風】竜化：竜の恩寵・攻Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが風属性なら竜化するごとに攻撃力がアップする。<br>この効果は1クエスト3回まで発動する。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>スキルコネクト・攻＋15％</span></dt><dd><div>自分が操作するキャラのスキル1が使用可能になったとき、そのキャラに【10秒間、攻撃力を15％アップするバフ】が発動。この効果は発動してから15秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9d77939f4269ebb33ba6b5e2044474042.png"></span><span>ずぶぬれ耐性・改＋100％</span></dt><dd><div>「ずぶぬれ」状態になる確率が100％ダウンする。<br>ずぶぬれ判定を持つ攻撃を受けた時、自身に【10秒間、攻撃力が15％アップするバフ】が発動。バフを発生させる効果は発動してから15秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>竜の恩寵・攻Ⅳ</span></dt><dd><div>竜化するごとに攻撃力がアップする。<br>この効果は1クエスト3回まで発動する。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/f85670f2c0407b0ab6652a225bb297812.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">ネファリエ（星竜祭Ver.）</div><div class="cv">CV:ゆかな</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/960c7daac545c22ad02e9e69f39f670e2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>957</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>557</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>3,204</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2c1bfc17f576d6c5f7d31dc8568743502.png"></span>
+				<span>スターブリザードショット</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に水属性のダメージを与え、「冷傷」状態にする。「冷傷」状態の敵にはダメージがアップする。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/238e26f1fb8055213f344b979afe79322.png"></span>
+				<span>プレゼントバースト</span>
+			</dt>
+			<dd>
+				<div>
+					周囲の味方に【最大HPの20％以下のダメージを無効化するシールド】【やる気3段階アップ】を付与する。また、【プレゼント準備】を発動、【プレゼント】を2つ準備する。この効果中はバーストアタックで【プレゼント】を配ることが出来る。【プレゼント】は、その周囲の味方に【最大HPの20％以下のダメージを無効化するシールド】【やる気3段階アップ】を付与する。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>スキルブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のスキルゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>【水】冷傷：冷傷トリガー・耐火＋7％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが水属性なら敵を冷傷状態にしたとき、【15秒間、火属性耐性が7％アップするバフ】が発動。<br>この効果は発動してから10秒間は発動しない。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>スキルダメージ＋35％</span></dt><dd><div>攻撃スキルのダメージが35％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c0b3ec2bdf2af0f73ef2627b87da47152.png"></span><span>火傷耐性・改＋100％</span></dt><dd><div>「火傷」状態になる確率が100％ダウンする。<br>火傷判定を持つ攻撃を受けた時、自身に【10秒間、攻撃力が15％アップするバフ】が発動。バフを発生させる効果は発動してから15秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a74512b1be6552f814d492e56318e602.png"></span><span>スマイリーミストレス</span></dt><dd><div>ヒット数15以上で、【通常攻撃に、25％の確率で6秒間凍結状態にする効果】【冷傷状態の敵に与えるダメージが10％アップする効果】が付与される。</div></dd></dl></div></div></div><div>マナサークル6層解放のタイミングで、アビリティ「疾風怒濤・凍結I」のアビリティ詳細を修正します。</div><div>効果に変更はありません。</div><div>修正前：ヒット数15以上で、通常攻撃に【6秒間、10％の確率で凍結状態にする効果】が付与される。</div><div>修正後：ヒット数15以上で、通常攻撃に【10％の確率で6秒間凍結状態にする効果】が付与される。<br><br></div><div><br></div><div>■注意事項</div><div>1. 本お知らせに記載されているキャラのステータスは、Lv100、マナサークル70解放時のステータスです。</div><div>2. ステータスに、アビリティで上昇したり減少したりする値は含まれません。</div><div>3. 本お知らせに記載されているキャラの、本お知らせよりも前に掲載されたお知らせや紹介映像などに記載されているステータスは、Lv80、マナサークル50解放時のステータスです。</div><div>4. キャラのスキルLvを上げると、シェアスキルに設定した際、スキルゲージが溜まりにくくなります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1608184800; update_time1608095996

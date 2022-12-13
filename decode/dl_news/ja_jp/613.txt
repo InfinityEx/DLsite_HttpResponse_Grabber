@@ -1,0 +1,8 @@
+article_id:613
+category_name:イベント
+title_name:ヴォイド討伐戦に「ジャンヌダルク・ヴォイド」「マンティコア・エンヴィ」がついに登場！
+image_path:https://dragalialost.akamaized.net/attached/information/images/a9620b466ae0cfdf64ad184953b6e4cc.png
+
+message:<div><span class="local_date" data-local_date="1563861600"></span>から、「ヴォイド討伐戦」に「ジャンヌダルク・ヴォイド」「マンティコア・エンヴィ」が登場！</div><div><br></div><div>ジャンヌダルクはかつて、慈悲深き伝説の聖騎士だった。</div><div>だが、『黒いマナ』に浸食された彼女にその面影はない。</div><div>人々の嘆きかなしみに微笑み、戦火の拡大にその身を投じる。</div><div>美しき乙女、高く掲げた戦旗。</div><div>その果てに待つものは――。</div><div>&nbsp;</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/1483be11ef831863541f25f8b2814ea3.png"></div><div>ジャンヌダルク・ヴォイド(光) 必要戦力：12000</div><div><br></div><div>&nbsp;<img src="https://dragalialost.akamaized.net/attached/information/images/83ffe2deb824e8fc03a019ad49f10a54.png"></div><div>マンティコア・エンヴィ(水) 必要戦力：12000</div><div><br></div><div>【注意事項】</div><div>「ヴォイド討伐戦」参加には、メインストーリー第7章 5-6(Normal)をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1563775200; update_time1569486687

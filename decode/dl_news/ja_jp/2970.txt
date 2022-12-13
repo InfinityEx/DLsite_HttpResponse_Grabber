@@ -1,0 +1,8 @@
+article_id:2970
+category_name:イベント
+title_name:イベント予告【復刻】「來光！　日ノ下決戦」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/5268514a8204b9138a78a1585548e313.png
+
+message:<div><span class="local_date" data-local_date="1668060000"></span>から、レイドイベント【復刻】「來光！　日ノ下決戦」の開催を予定しております。<br>【復刻】「來光！　日ノ下決戦」は、無属性のレイドボスとマルチプレイで戦うイベントです。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/5268514a8204b9138a78a1585548e313.png"></div><div>イベントテーマ曲：「I will be stronger with you / 渡辺ほのか」<br><br>■イベント期間<br><span class="local_date" data-local_date="1668060000"></span> ～ <span class="local_date" data-local_date="1669010399"></span><br><br>■注意事項<br>1. イベントクエスト参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br>2. マルチプレイ参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1667800800; update_time1646728215

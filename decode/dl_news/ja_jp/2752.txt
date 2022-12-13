@@ -1,0 +1,249 @@
+article_id:2752
+category_name:お知らせ
+title_name:「ドラガリアフェス　エクストラ」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1642053600"></span>から、「ドラガリアフェス　エクストラ」の開催を予定しております。</div><div><br></div><div>【ドラガリアフェスとは】 ※「ドラガリアフェス　エクストラ」含む</div><div>★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップします！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><span style="color: rgb(226, 80, 65);">※今回新規で追加される★5キャラ「ナーム（着物Ver.）（光）」は、次回のレジェンド召喚からも登場します。</span></div><div><span style="color: rgb(226, 80, 65);">※これまでの「ドラガリアフェス」で追加されたキャラ・ドラゴンも本召喚から登場する場合があります。登場するキャラ・ドラゴンの詳細はゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</span></div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 ナーム（着物Ver.）：光/杖</div><div><br></div><div>【過去のドラガリアフェスから登場するピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 リュカ（ドラフェスVer.）：光/刀</div><div><br></div><div>■ドラゴン</div><div>★5 トール（ドラフェスVer.）：光</div><div><br></div><div>【ドラガリアフェス　エクストラ開催期間】</div><div><span class="local_date" data-local_date="1642053600"></span> ～ <span class="local_date" data-local_date="1642485599"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f9d53a77cdf1ff2f50acacfa3333c5a5.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5acf4f3182dfd0356371c43a0b53ad902.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>810</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>466</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,516</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>お正月の晴れ着に身を包んだナーム。みんな<br>と過ごす時間が素敵な想い出になるように、<br>今年も色々なことにチャレンジする予定。<br>『大人のわたし』用の振袖も新調して、<br>年明けからワクワク全開、絶好調！</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>フェアリーサンライズ</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>■通常時<br>・パーティ全員のHPを回復し、継続回復する。<br>・スキル使用時、自身が召喚している【蝶】の数に応じて追加でパーティ全員を回復し、【蝶】を消失させる。<br>・【蝶】の数が6以上の場合、さらにパーティ全員に【闇属性耐性アップ】を付与する。<br><br>■羽化時<br>・複数の攻撃対象とその周囲の敵にダメージを与え、「閃熱」状態にする。<br>・攻撃時、自身が召喚している【蝶】および【回る蝶】の位置に追加ダメージを発生させ、【蝶】および【回る蝶】を消失させる。</div><div class="skill-detail">回復力：105<br>【蝶】1つあたりの回復力：6<br>必要スキルポイント：6,255<br>必要シェアスキルポイント：16,982<br>特殊効果<br>・HP継続回復<br>　効果時間：15 秒<br>　効果間隔：2.9 秒<br>　効果量：45<br>・闇属性耐性20％アップ<br>　効果時間：10 秒<br>　重複不可<br><br>（特殊竜化時）<br>威力：338 × 5 Hit<br>追加ダメージ威力：168 × 1 Hit<br>特殊効果<br>・閃熱<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6c0d33ea3eb33415241d8f0ee34c041a2.png"></span>
+				<span>フェアリーフォーチュン</span>
+			</dt>
+			<dd><div>■通常時<br>・パーティ全員のHPを回復し、状態異常を解除し、【闇属性の敵に対して攻撃したときダメージ倍率がアップするバフ】を付与する。<br>・スキル使用時、自身が召喚している【蝶】の数に応じて自身の羽化ゲージをチャージし、【蝶】を消失させる。<br>・【蝶】の数が6以上の場合、さらにパーティ全員に【最大HPをアップするバフ】を付与する。<br><br>■羽化時<br>・周囲の敵にダメージを与える。<br>・スキル使用後13秒間、自身の周囲に【回る蝶】を4つ召喚する。【回る蝶】は羽化解除時に消失する。</div><div class="skill-detail">回復力：110<br>必要スキルポイント：8,940<br>特殊効果<br>・全状態異常回復<br>・HP10％アップ<br>・光属性攻撃力10％アップ<br>　効果時間：30 秒<br>　重複不可<br>【蝶】1つあたりの羽化ゲージ回復量：75<br><br>（特殊竜化時）<br>威力：1,045 × 1 Hit<br><br>（【回る蝶】の攻撃）<br>威力：72 × 1 Hit<br>ヒット間隔：1.5秒</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回復スキル効果＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の回復スキル効果が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span>
+				<span>【光】連撃：連撃で竜化チャージⅤ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性なら攻撃が50ヒットするたびに竜化ゲージが3％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d92fa00a576f3016a247125bc75a97e32.png"></span><span>新春『羽化』の秘術Ⅱ</span></dt><dd><div>①通常の竜化の代わりに、特殊竜化「羽化」を持つ。羽化は以下の効果を持つ。<br>・竜化ゲージが羽化ゲージに変化する。<br>・ゲージが一定以上溜まっている状態でボタンをタップすると、装備しているドラゴンに関わらず羽化の姿になる。<br>・羽化中に再度ボタンをタップするか羽化ゲージがなくなると羽化の姿から戻る。<br>②通常攻撃、バーストアタック、ダッシュ攻撃、羽化中の通常攻撃がターゲットを追尾し続ける【蝶】を召喚するものに変化する。羽化時または羽化解除時に【蝶】は消失する。<br>③バーストアタック使用時、パーティ全員のHPを回復する。<br>④スキル1、スキル2、および羽化後のスキル1、スキル2を使用するたび、自身にクリティカル時のダメージ倍率がアップするオーラ（バーストオーラ上限Lv1）を付与する。この効果は発動してから8秒間は発動しない。<br>⑤クエスト開始時にパーティ全員に【自身の最大HPの20％分のライフシールド】を付与する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>毒耐性＋100％</span></dt><dd><div>「毒」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>開幕スキルゲージ＋100％</span></dt><dd><div>クエスト開始時のスキルゲージが100％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8798d1ee7c7d3dba81b5ee84a831ade6.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>517</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,502</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>誰もが争わなくていい居場所を作る決意を<br>したリュカ。種族の垣根を越えるため、<br>多くの種族の協力のもと、新たな装備を<br>身にまとった。大切な約束を忘れぬよう、<br>友の刀を手に、争いの根を打ち破る。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cbd8f43df3f5398db1f1d365ac553ca22.png"></span>
+				<span>シャイニングデストラプション</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>直線上の敵にダメージを与える。自身にかかっているアイコンの異なるバフ1種類につき、このスキルとダメージを与える竜化時のスキルにおいてクリティカル率が10％アップする。</div><div class="skill-detail">威力：502.4 × 4 Hit<br>必要スキルポイント：2,870<br>必要シェアスキルポイント：11,193<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>ライトニングアクセル</span>
+			</dt>
+			<dd><div>自身のクリティカル時のダメージ倍率を大幅にアップする。</div><div class="skill-detail">必要スキルポイント：3,899<br>特殊効果<br>・クリティカル80％強化<br>　効果時間：10 秒<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻撃力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の攻撃力が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】連撃：10ヒット以上で耐闇＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性ならヒット数10以上のとき、【闇属性耐性が10％アップするバフ】が発動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/daec86e89dfb95ad45d6f68c08c841752.png"></span><span>架け橋の力Ⅱ</span></dt><dd><div>自身にかかっているアイコンの異なるバフ1種類につき、クリティカル率が4％（最大28％）アップする。また攻撃がクリティカルになるたびに自身に20秒間、【フォレスティアの秘伝】、【ヒューマンの英知】、【ロッカの技術】のうちいずれかひとつのバフが発動。これらのバフは重複せず、自身のクリティカル率を3％アップする。この効果は発動してから3秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/2752d5bf66ac339cb32a3adf1a41e1702.png"></span><span>不撓の約束Ⅱ</span></dt><dd><div>「呪い」状態になる確率が100％ダウンする。<br>呪い判定を持つ攻撃を受けた時、自身に【10秒間、クリティカル率を15％アップするバフ】が発動。この効果は発動してから15秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>疾風怒濤・会心＋13％</span></dt><dd><div>ヒット数15以上で、攻撃がクリティカルになる<br>確率が13％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>■リュカ（ドラフェスVer.）のシェアスキルについて<br>キャラ「リュカ（ドラフェスVer.）」のスキル「シャイニングデストラプション」は、「カレイドラビリンス」に持ち込むシェアスキルとして選択できません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b9ca754ca2a4078b04cfc5b64eeab7dd.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>ヴァルクスの契約竜。雷を司り、自らを<br>雷帝と称する。稲妻ひとつで、戦地の全てを<br>焼き払う強さを持ち、その強さは世界各地で<br>語り継がれている。トールの武人としての<br>考えは、契約主にも影響を与えている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>雷槌</span>
+			</dt>
+			<dd><div>ターゲットとその周囲の敵にダメージを与え、「麻痺」状態にする。このスキルは溜め動作中に画面をタップした回数に応じて3段階まで強化される。攻撃は時間経過か最大まで強化することで発動する。</div><div class="skill-detail">威力：1,780 × 1 Hit（最大時）<br>特殊効果<br>・麻痺<br>　効果時間：26 秒<br>　効果間隔：3.9 秒<br>　威力：44.2<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/212bea9478466c5e63454315256b6a5f2.png"></span><span>【光】戦車を駆る者Ⅴ</span></dt><dd><div>装備キャラが光属性なら下記の効果を発動する。<br>効果1：攻撃力が50％アップする。<br>効果2：5秒経過するたび【やる気】が1段階アップする。<br>効果3：【やる気】の段階に応じて攻撃力がアップする。【超やる気】時に効果は最大となり攻撃力が45％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>【光】轟く者Ⅱ</span></dt><dd><div>装備キャラが光属性なら、竜化解除時に【超やる気】になる。<br>さらにパーティ全員が【超やる気】になる。</div></dd></dl></div></div></div><div>※Lv100、上限解放4段階、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1641967200; update_time1641952709

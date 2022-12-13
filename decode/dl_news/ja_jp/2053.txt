@@ -1,0 +1,8 @@
+article_id:2053
+category_name:お知らせ
+title_name:YouTube Liveにてナームちゃんねる配信決定
+image_path:https://dragalialost.akamaized.net/attached/information/images/e3ccdbd2b5f436b15241f1804a7fbf70.png
+
+message:<div><span class="local_date" data-local_date="1616641200"></span>ごろから、YouTube Liveにてナームちゃんねるを配信いたします。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/e3ccdbd2b5f436b15241f1804a7fbf70.png"></div><div><br></div><div>「ナームちゃんねる」では、2.5Year Anniversaryの情報や新機能の紹介、アップデートの内容など、さまざまな情報をナームがプレイヤーの皆様にお届けしますので、ぜひご覧ください！</div><div>また、YouTube Live終了後にアーカイブ配信を予定しております。</div><div><br></div><div>▼配信予定ページ</div><div><a href="https://youtu.be/-d8oX6ASTMk">https://youtu.be/-d8oX6ASTMk</a></div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1616392800; update_time1616384265

@@ -1,0 +1,8 @@
+article_id:2712
+category_name:お知らせ
+title_name:運営からの星竜祭のプレゼント
+image_path:
+
+message:<div>日頃から『ドラガリアロスト』をプレイしてくださっているプレイヤーの皆様への感謝の気持ちとして、下記のプレゼントをお贈りいたしました！</div><div>素敵な1日をお過ごしください！</div><div><br></div><div>■プレゼント内容</div><div>アダマント&times;1</div><div><br></div><div>お送りしたアイテムの受け取り期限は、「プレゼント」にアイテムが贈られてから7日間です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1640412000; update_time1640223549

@@ -1,0 +1,8 @@
+article_id:624
+category_name:お知らせ
+title_name:ゲームにログインできない不具合について【更新】
+image_path:
+
+message:<div><span class="local_date" data-local_date="1563859800"></span> ～ <span class="local_date" data-local_date="1563860580"></span>ごろの間、ゲームにログインしようとした際、「サーバーとの通信に失敗しました。」と表示されログインできない現象が発生しておりました。</div><div>&nbsp;</div><div>本現象は、現在解消しております。</div><div>&nbsp;</div><div>現在、原因について調査を行っております。</div><div>進捗がありましたら、本お知らせにてご案内いたします。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1564129800"></span> 追記】</strong></span></div><div>本不具合についての調査が完了しましたので、ご報告いたします。</div><div><br></div><div>本不具合が発生していた期間、サーバーに負荷のかかる状況が発生しており、ゲームにログインできない現象が発生しておりました。</div><div>現在は対応を行い、解消しております。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことを重ねてお詫び申し上げます。</div>
+
+start_time:1563862800; update_time1564129745

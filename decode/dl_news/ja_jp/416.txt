@@ -1,0 +1,8 @@
+article_id:416
+category_name:お知らせ
+title_name:「期間限定 強化パック」と「期間限定 英雄パック」の販売開始！
+image_path:
+
+message:<div>2019年04月26日(金)メンテナンス後から「ショップ」にて、期間限定の「期間限定 強化パック」と「期間限定 英雄パック」の販売を開始しました！</div><div><br></div><div>■販売期間</div><div><span class="local_date" data-local_date="1556258400"></span> ～ <span class="local_date" data-local_date="1557813599"></span></div><div><br></div><div>■「期間限定 強化パック」のご紹介</div><div>「期間限定 強化パック」は、キャラ・武器・竜輝の護符・ドラゴンの強化に役立つアイテムとドラゴンダイヤを獲得できるおすすめのパックです。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/1798d0353588b5e0f86c5db4ff63490c.png"></div><div>・ドラゴンダイヤ 1500個(ドラゴンダイヤ1200個+300個サービス)</div><div>・ゴールドクリスタル 350個</div><div>・金の研磨石 150個</div><div>・祝福の聖水 150個</div><div>・完熟ドラゴンフルーツ 150個</div><div><br></div><div>■「期間限定 英雄パック」のご紹介</div><div>「期間限定 英雄パック」は、キャラの強化とマナピースの解放に役立つ育成アイテムとドラゴンダイヤを獲得できるおすすめのパックです。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/457fb7bbb5d663adc9633054ae680d49.png"></div><div>・ドラゴンダイヤ 200個(ドラゴンダイヤ192個+8個サービス)</div><div>・英雄の証 1個</div><div>・ゴールドクリスタル 300個</div><div>・マナ 75000個</div><div><br></div><div>■注意事項</div><div>1. 「期間限定 強化パック」と「期間限定 英雄パック」は、それぞれ販売期間中1回のみ購入できます。</div><div>2. その他の詳細や価格などは、マイページの「ショップ」をタップし、「スペシャルパック」からご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1556258400; update_time1556255485

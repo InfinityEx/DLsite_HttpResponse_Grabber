@@ -1,0 +1,8 @@
+article_id:1336
+category_name:イベント
+title_name:「ルヴ・トシュカトル叛逆戦」に新たな難易度「超級」の追加が決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/53dcf6936d17c41af8f0598f8aa3a5ef.png
+
+message:<div><span class="local_date" data-local_date="1590472800"></span>から、新たな勢力の強敵たちと戦う高難易度クエスト「アギト叛逆戦」の「ルヴ・トシュカトル叛逆戦」に、新たな難易度「超級」を追加します。</div><div>クリアするとレアリティ「★6」のグレードIIの武器を生産するために必要な素材アイテムが獲得できます！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/53dcf6936d17c41af8f0598f8aa3a5ef.png"></div><div>アギト――それは、牙。</div><div>アギト――それは、目覚め。</div><div>アギト――そしてそれは、叛逆。</div><div>虚面に覆われしアギトを名乗る者が現れる時、</div><div>病をもたらす叛逆の風が吹き荒れ、餓狼が牙を剥く。</div><div>その病の名こそ――ルヴ・トシュカトル。</div><div><br></div><div>■ウィークリーボーナスの変更</div><div><span class="local_date" data-local_date="1590472800"></span>から、「ルヴ・トシュカトル叛逆戦 上級」のウィークリーボーナスで、「ルヴ・トシュカトル叛逆戦 超級」に追加するクラフト素材が獲得できるようになります。</div><div><br></div><div>■クエストの並び順の変更</div><div><span class="local_date" data-local_date="1590472800"></span>から、「アギト叛逆戦」の並び順を以下のように変更します。</div><div>「ルヴ・トシュカトル叛逆戦」</div><div>「シェルシエル叛逆戦」</div><div>「ガイエン叛逆戦」</div><div><br></div><div>【注意事項】</div><div>1. 「アギト叛逆戦」参加には、メインストーリー10章 6-3(Normal)、およびいずれかの「真ドラゴンの試練 中級」をクリアする必要があります。</div><div>2. 「ルヴ・トシュカトル叛逆戦 超級」参加には、「ルヴ・トシュカトル叛逆戦 上級」をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1590127200; update_time1589882553

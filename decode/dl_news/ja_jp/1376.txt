@@ -1,0 +1,8 @@
+article_id:1376
+category_name:お知らせ
+title_name:マルチプレイにて通信が切断されてしまう場合がある現象について
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1591754400"></span>追記】</strong></span><br>現在、マルチプレイにおける通信が安定していることを確認しております。<br><br>本現象のお詫びとして、<span class="local_date" data-local_date="1591754400"></span>までにゲームを開始されたプレイヤーの皆様に、下記のアイテムをお送りいたします。<br><br>・竜輝晶 150個<br><br>お送りしたアイテムの受け取り期限は、「プレゼント」にアイテムが送られてから7日間です。<br><br>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div><hr><div>現在、マルチプレイをプレイしようとすると、通信が切断されてしまう場合がある現象を確認しております。</div><div><br></div><div>本現象について原因を調査中です。</div><div>ご案内できることがございましたら、本お知らせにてご連絡いたします。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div>
+
+start_time:1591743600; update_time1591754646

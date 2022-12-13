@@ -1,0 +1,196 @@
+article_id:1264
+category_name:お知らせ
+title_name:レジェンド召喚「FIRE EMBLEM 新たなる扉 ピックアップ Part 1」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1588226400"></span>から、レジェンド召喚「FIRE EMBLEM 新たなる扉 ピックアップ Part 1」を開催中！</div><div><br></div><div>期間限定のキャラがレジェンド召喚から登場します。</div><div>また、ピックアップ対象のキャラの提供割合がアップ中です。</div><div><br></div><div>【新規に期間限定で追加されるピックアップ対象のキャラ】</div><div>★5 クロム：火/剣</div><div>★5 ピアニー：光/ロッド</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※本召喚の提供内容に、別途開催中のレジェンド召喚「FIRE EMBLEM つながる世界 ピックアップ」の期間限定★5キャラは含まれません。</span></div><div><br></div><div>【レジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1588226400"></span> ～ <span class="local_date" data-local_date="1589263140"></span></div><div><br></div><div>新規に期間限定で追加されるピックアップ対象のキャラを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップキャラ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/acb914740bd0cb017532326def768ad8.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>2,479</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>イーリス聖王国の王子であり、自警団の<br>団長も務めている。本人は愛想がないことを<br>気にしているが、飾らない人柄で団員たちに<br>慕われている好青年。自ら先陣に立ち、<br>人々の平和のため戦う。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cd8e17cdfb215141efb492b53f0c372d2.png"></span>
+				<span>聖王の剣</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に火属性のダメージを与え、自身に【覚醒の炎】を付与する。【覚醒の炎】は3段階まで重複可能で、スキル「天空」を段階に応じて強化する。【覚醒の炎】はスキル「天空」使用時に解除される。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1bf0275e1b82b1d08d7d4e27642c33c32.png"></span>
+				<span>天空</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に火属性のダメージを与える。「状態異常」状態の敵にはダメージがアップする。さらに、与えたダメージの3％分自身のHPを回復する。この回復効果の最大値は自身の最大HPの15％となる。【覚醒の炎】の段階に応じてスキル「天空」は強化される。スキル「天空」の発動に、すべての【覚醒の炎】とSPゲージ1本を消費する。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d78aff22949d45baac014f570ce39bcd2.png"></span>
+				<span>HP＋10％＆防御力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のHPが10％アップし、防御力が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/03585ae11a2b0de283c914026533b3fe2.png"></span>
+				<span>【火】火傷：火傷トリガー・耐風＋8％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性なら敵を火傷状態にしたとき、【15秒間、風属性耐性が8％アップするバフ】が発動。<br>この効果は発動してから10秒間は発動しない。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP満タンで攻＋15％</span></dt><dd><div>HP満タン時、攻撃力が15％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠耐性＋100％</span></dt><dd><div>「睡眠」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cb055acccee75022468720514bdda1332.png"></span><span>王の器</span></dt><dd><div>【覚醒の炎】が3つかつSPゲージが3本のとき、スキル「天空」はスキル「覚醒天空」になる。スキル「覚醒天空」使用後、【覚醒の炎】は解除され、SPゲージは0になる。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2078499f137f6820ec83282462b9c7ab.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/960c7daac545c22ad02e9e69f39f670e2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>791</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>485</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>2,516</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>夢の国アルフの妖精。<br>健気で前向き、優しい性格。<br>人々に幸せな夢を見せる力を持っており、<br>みんなを幸せにしたいと思っている。<br>人間の子供と遊ぶのが大好き。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e31c4d483b07c8455dcf2857bee9e1bd2.png"></span>
+				<span>幸福の花</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットに光属性のダメージを与え、「麻痺」状態にする。敵にヒットさせると【スキルシフト】が発生し効果が変化する。<br>シフト1：10秒間、自身の防御力を10％アップする効果が追加される。<br>シフト2：さらに、10秒間パーティ全員の攻撃力を10％アップする効果が追加される。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8c5b8cfcb58b2194599f26e0e929283b2.png"></span>
+				<span>やさしいゆめ</span>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に光属性のダメージを与え、「麻痺」状態の敵にはダメージがアップする。10秒間、パーティ全員の攻撃力を10％、攻撃速度を10％アップする。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1143744471e52c225083bf356743039b2.png"></span>
+				<span>光属性攻撃ダメージ＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の光属性攻撃のダメージが20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>【光】防御力＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性なら防御力が6％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8c8793f1f7fc70ecf3892715fe7629f32.png"></span><span>妖精の鼓舞Ⅱ</span></dt><dd><div>クエスト開始時、パーティ全員にライフシールドを付与する。また、スキル「やさしいゆめ」を使用したとき、自身に【幸夢のひととき】バフを付与する。【幸夢のひととき】バフは、次に使用するバーストアタックが変化し、【「ピアニー」を除くキャラのスキル1のスキルゲージが40％アップ】し、パーティ全員に【10秒間、攻撃力10％アップ、攻撃速度10％アップ、防御力20％アップ、闇属性耐性5％アップ、移動速度5％アップするバフ（重複しない）】を付与する。【幸夢のひととき】バフは重複せず、バーストアタックを使用すると解除され、【幸夢のひととき】バフは発動してから20秒間、発動することができない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>呪い耐性＋100％</span></dt><dd><div>「呪い」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28cbbe44c3b9fd009706ad48a7e4e0f52.png"></span><span>麻痺特効＋30％</span></dt><dd><div>「麻痺」状態の敵に与えるダメージが30％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>【注意事項】</div><div>召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1588226400; update_time1588044277

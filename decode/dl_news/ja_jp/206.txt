@@ -1,0 +1,8 @@
+article_id:206
+category_name:お知らせ
+title_name:シシマイの部位破壊報酬がドロップしない場合がある不具合について【追記】
+image_path:
+
+message:<div>イベント「新春日ノ下招福縁起」にて、シシマイの部位破壊直後、シシマイが「OVERDRIVE」または「BREAK」状態になると、部位破壊報酬をドロップしない場合がある不具合を確認しております。</div><div><br></div><div>本不具合については、現在調査を進めております。</div><div>ご案内できることがございましたら、本お知らせにてご連絡いたします。</div><div>&nbsp;</div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1546916400"></span>追記</strong></span><br>本不具合の修正は、イベント「新春日ノ下招福縁起」の開催期間中に修正できないことが判明いたしました。<br><br>本不具合発生と開催期間中に修正できないお詫びとして、<span class="local_date" data-local_date="1546236000"></span> ～ <span class="local_date" data-local_date="1547099999"></span>の間に「シシマイ大遊戯戦」をプレイされたプレイヤーの皆様に下記のアイテムをお送りいたします。<br><br>・召喚チケット3枚<br>・ダマスカス骸晶3個<br>・夢想のかけら3個<br><br>お詫びの配布が完了しましたら、本お知らせにてご案内いたします。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。<br><br><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1547186400"></span>追記</strong></span><br><span class="local_date" data-local_date="1547186400"></span>にお詫びの配布が完了いたしました。<br><br>お詫びとしてお送りしたアイテムは、「プレゼント」からお受け取りいただけます。<br>本件のお詫びの品は、<span class="local_date" data-local_date="1547791199"></span>までにゲームにログインした際に受け取れます。<br>本件のお詫びの品の受取期限は、プレゼントにお詫びの品が送られてから7日間です。<br><br>プレイヤーの皆様には、ご迷惑をおかけしましたことを重ねてお詫び申し上げます。</div>
+
+start_time:1546916400; update_time1548396531

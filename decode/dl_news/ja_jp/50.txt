@@ -1,0 +1,8 @@
+article_id:50
+category_name:お知らせ
+title_name:データ更新のお知らせ
+image_path:
+
+message:<div><span class="local_date" data-local_date="1539927000"></span>ごろにデータ更新を行います。</div><div><br></div><div>本データ更新の内容は下記のとおりです。</div><div><br></div><div>■データ更新内容</div><div>・デイリーバトル「毎日トリック！」にて、設置してある「カボチャのかかし」の近くに一部の敵が出ると、キャラの攻撃が敵に当たらないことがある不具合の修正。</div><div>・マイページのキャラの動きの調整。</div><div><br></div><div>■注意事項</div><div>データの更新を行った際「新しいバージョンがあります」と表示される場合があります。</div><div>上記はアプリのバージョンアップではなく、通信によるデータの更新が行われます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1539925200; update_time1542363565

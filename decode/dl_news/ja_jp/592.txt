@@ -1,0 +1,8 @@
+article_id:592
+category_name:お知らせ
+title_name:施設イベントの開催にあわせて「祝福の聖水」をプレゼント！
+image_path:
+
+message:<div>施設イベントの開催にあわせまして、プレイヤーの皆様へ下記のプレゼントをお贈りいたしました！</div><div>新たな竜輝の護符を強化して、施設イベント「工房に響け！ 三姉妹の絆」のプレイにお役立てください！</div><div><br></div><div>■プレゼント内容</div><div>祝福の聖水 100個</div><div><br></div><div>■お贈りする対象の方</div><div><span class="local_date" data-local_date="1563429600"></span>までにゲームを開始されたプレイヤーの皆様</div><div><br></div><div>お贈りしたアイテムの受け取り期限は、「プレゼント」にアイテムが贈られてから7日間です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1563429600; update_time1569487261

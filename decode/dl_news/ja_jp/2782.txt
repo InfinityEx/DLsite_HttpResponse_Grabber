@@ -1,0 +1,8 @@
+article_id:2782
+category_name:イベント
+title_name:メモリーイベントに複数の施設イベントを追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/5c35673fc74133cac14b8da9dc1cbf07.png
+
+message:<div><span class="local_date" data-local_date="1643954400"></span>からメモリーイベントとして参加できるイベントに、施設イベント「食宴！アミューズキュイジーヌ」「ダンシング☆ボンオドリ」「オペラハウスの怪盗」「悪魔が誘う偽りの楽園」「鐘の音は深き海より」「舞台の上の怪物人形」が追加されました。<br><br></div><div><a href="https://dragalialost.com/jp/news/detail/1176">メモリーイベントの詳細はこちらをご覧ください。</a></div><div><br></div><div>※今回追加されるクエストはすべてソロ専用のクエストです。マルチプレイはできません。</div><div>※参加可能なイベントの種類は、今後のアップデートにて追加する予定です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1643954400; update_time1642410975

@@ -1,0 +1,8 @@
+article_id:2973
+category_name:イベント
+title_name:イベント予告【復刻】「レイジ・オブ・クロノス」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/ef4a64aa777e7cd7549b526407da9a0d.png
+
+message:<div><span class="local_date" data-local_date="1669010400"></span>から、レイドイベント【復刻】「レイジ・オブ・クロノス」の開催を予定しております。<br>【復刻】「レイジ・オブ・クロノス」は、無属性のレイドボスとマルチプレイで戦うイベントです。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/ef4a64aa777e7cd7549b526407da9a0d.png"></div><div>イベントテーマ曲：「サンプルアンサー」/緒方恵美<br><br>■イベント期間<br><span class="local_date" data-local_date="1669010400"></span> ～ <span class="local_date" data-local_date="1669701599"></span><br><br>■注意事項<br>1. イベントクエスト参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br>2. マルチプレイ参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1668664800; update_time1664520435

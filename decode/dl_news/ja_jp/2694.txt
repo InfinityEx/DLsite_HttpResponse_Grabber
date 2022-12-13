@@ -1,0 +1,8 @@
+article_id:2694
+category_name:イベント
+title_name:新コンテンツ「サガドラゴンの試練」が登場！
+image_path:https://dragalialost.akamaized.net/attached/information/images/d94e572bcd5a1b98da8aeb769ea05cf4.png
+
+message:<div><span class="local_date" data-local_date="1640325600"></span>から、「サガドラゴンの試練」が登場！</div><div>原初の力を取り戻したドラゴンの試練に挑みましょう！</div><div>クリアすると新たな「★6」武器の生産＆強化に必要な素材アイテムが獲得できます！</div><div>※「サガドラゴンの試練」では、バトル開始時に虚無が付与されます。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/d94e572bcd5a1b98da8aeb769ea05cf4.png"></div><div><br></div><div>千年の時を駆けた少女に真なる覚醒をもたらすため</div><div>原初の力を取り戻した碧竜が試練を与える。</div><div>いかなるものも容赦なく薙ぎ払う始原の暴嵐&hellip;&hellip;</div><div>風の巫女は嵐を超え新たな可能性を手にできるのか。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/80a5f51146c04156dd80463d6e84015a.png"></div><div>ミドガルズオルムサガの試練 中級（風）必要戦力：22,000</div><div>ミドガルズオルムサガの試練 上級（風）必要戦力：34,000</div><div>ミドガルズオルムサガの試練 超級（風）必要戦力：36,000</div><div><br></div><div>■クエストの解放条件</div><div>メインストーリー16章 4-6（Normal）のクリアおよび、いずれかの「真ドラゴンの試練 超級」をクリア</div><div><br></div><div>■「サガドラゴンシリーズ」武器の追加</div><div><span class="local_date" data-local_date="1640325600"></span>から、「サガドラゴンシリーズ」の強力な★6武器を「武器生産＆強化」に追加します。</div><div>「ミドガルズオルムサガ」を倒すことで獲得できる素材アイテムを使い、スキルを使用するとダメージを与えて自身に固有のバフ「ドラガリア・サガ」と「攻撃力アップ」を付与することができる風属性の武器を生産することができます。</div><div>※固有のバフ「ドラガリア・サガ」は、バフを消去・無効化する「虚無」の対象ではありません。</div><div><br></div><div>「ミドガルズオルムサガ」から獲得できる素材アイテムを使用した武器の生産は、特定の武器を入手したことがある場合に解放されます。</div><div>解放条件となる武器は、「真ドラゴンの試練」の「真ミドガルズオルム」から獲得できる素材アイテムで生産できる、風属性の★5武器です。</div><div><br></div><div>解放条件となる武器は、生産する武器の武器種によって異なります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div><div><br></div>
+
+start_time:1639980000; update_time1648544513

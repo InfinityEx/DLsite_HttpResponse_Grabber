@@ -1,0 +1,338 @@
+article_id:2470
+category_name:お知らせ
+title_name:「ドラガリアフェス　エクストラ」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1631512800"></span>から、「ドラガリアフェス　エクストラ」を開催中です！</div><div><br></div><div>【ドラガリアフェスとは】 ※「ドラガリアフェス　エクストラ」含む</div><div>★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップします！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><span style="color: rgb(226, 80, 65);">※今回新規で追加される★5キャラ「グレース（《結社》Ver.）（火）」「ファルギルト（光）」は、次回のレジェンド召喚からも登場します。</span></div><div><span style="color: rgb(226, 80, 65);">※これまでの「ドラガリアフェス」で追加されたキャラ・ドラゴンも本召喚から登場する場合があります。登場するキャラ・ドラゴンの詳細はゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</span></div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 グレース（《結社》Ver.）：火/剣</div><div>★5 ファルギルト：光/短剣</div><div><br></div><div>【過去のドラガリアフェスから登場するピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 マスキュラ（ドラフェスVer.）：水/刀</div><div><br></div><div>■ドラゴン</div><div>★5 トール（ドラフェスVer.）：光</div><div><br></div><div>【ドラガリアフェス　エクストラの提供割合】</div><div>★5 合計：6.00％</div><div>★5ピックアップ 合計：2.30％（キャラ：1.50％ ドラゴン：0.80％）</div><div>★5通常 合計：3.70％（キャラ：1.50％ ドラゴン：2.20％）</div><div>★4通常 合計：16.00％（キャラ：8.55％ ドラゴン：7.45％）</div><div>★3通常 合計：78.00％（キャラ：47.00％ ドラゴン：31.00％）</div><div><br></div><div>【ドラガリアフェス　エクストラ開催期間】</div><div><span class="local_date" data-local_date="1631512800"></span> ～ <span class="local_date" data-local_date="1631858399"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5ef1971a5730400e9e5e95e0f875614a.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>謎の悪の組織《結社》の衣装に袖を通した<br>グレース。その姿は研究員として敵の懐に<br>入るための装い。亡き夫と共に犯した罪を<br>償うべく、形見の剣を携えて《結社》の<br>野望を阻止するために活動する。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7d48df2c26370575bbc79e1466561f4c2.png"></span>
+				<span>烈なる慧剣の抑制</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>周囲の敵にダメージを与え、攻撃力をダウンさせる。</div><div class="skill-detail">威力：2,200 × 1 Hit<br>必要スキルポイント：3,000<br>必要シェアスキルポイント：7,350<br>特殊効果<br>・攻撃力10％ダウン<br>　効果時間：10 秒<br>　重複不可</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/35834645c2606a850ecc19943feac5132.png"></span>
+				<span>猛き智剣の解放</span>
+			</dt>
+			<dd><div>複数の攻撃対象とその周囲の敵にダメージを与え、自身に防御力アップのオーラを付与する。このスキルは、【慧剣封印】が付与されている間のみ使用可能で、スキル使用時、【慧剣封印】を全て解除しその数だけ攻撃とオーラ付与を行う。</div><div class="skill-detail">威力：1,000 × 1 Hit<br>必要スキルポイント：6,000<br>オーラ付与<br>・防御力アップ（バーストオーラ上限Lv 2）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>竜化ブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の竜化ゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【火】背水：ピンチで攻＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性ならHP40％以下のとき、【攻撃力が15％アップするバフ】が発動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8635dfbfe7f74f8f76e9d913d1d186922.png"></span><span>聚合せし諸刃の剣Ⅱ</span></dt><dd><div>スキル「烈なる慧剣の抑制」がヒットするたびに自身に【慧剣封印】バフを付与する。<br>【慧剣封印】は最大4つまで重複し、付与されている数に応じて効果が変化する。<br>竜化するとき、【慧剣封印】を全て解除する。<br>1つ：攻撃の威力が10％アップする。<br>2つ：攻撃の威力が15％アップする。<br>3つ：攻撃の威力が20％アップする。<br>4つ：攻撃の威力が80％アップするが、攻撃する度に自身の最大HPの2％分のダメージを受ける。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>気絶耐性＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>バーストオーラ（防）で治癒Ⅱ</span></dt><dd><div>防御力アップのバーストオーラが付与されているとき、HPが継続回復する。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/70363412de4c4b4e2ea3f023aba32419.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>763</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>497</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>世界の裏で暗躍する謎の組織《結社》に、<br>ドラゴンと合体する力を与えられた少年。<br>明るく前向きな性格で、極度のお人よし。<br>自分のような被害者を二度と出さないため、<br>《結社》との戦いに身を投じる。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>命を守る剛腕</span>
+			</dt>
+			<dd><div>通常時<br>前方の敵にダメージを与え、自身に防御力アップのオーラを付与する。さらにエンハンスゲージをチャージする。<br>エンハンスモード時<br>前方の敵にダメージを与え、自身に防御力アップのオーラを付与する。さらにエンハンスゲージをチャージする。自身の残りHPが多いほど、与えるダメージが増える。</div><div class="skill-detail">威力：400 × 5 Hit<br>必要スキルポイント：2,860<br>オーラ付与<br>・防御力アップ（バーストオーラ上限Lv 2）<br>エンハンスゲージ回復量：300<br><br>（エンハンスモード時）<br>威力：520 × 5 Hit<br>必要スキルポイント：2,860<br>オーラ付与<br>・防御力アップ（バーストオーラ上限Lv 2）<br>エンハンスゲージ回復量：300<br>残りHPによるダメージ変化<br>・最大-90％</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>この命を賭した奮戦</span>
+			</dt>
+			<dd><div>通常時<br>エンハンスゲージを全て消費し、自身のHPを回復する。消費量に応じて回復量が増加する。<br>エンハンスモード時<br>前方の敵にダメージを与える。エンハンスゲージを消費し、このスキルをチャージする。<br>自身の残りHPが多いほど、与えるダメージが増える。</div><div class="skill-detail">回復力：30<br>エンハンスゲージ消費による回復量：最大HPの140％<br>必要スキルポイント：10,725<br><br>（エンハンスモード時）<br>威力：3,250 × 1 Hit<br>必要スキルポイント：10,725<br>エンハンスゲージ消費量：1,500<br>特殊効果<br>・スキルチャージ<br>　効果量：50％<br>残りHPによるダメージ変化<br>・最大-90％</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>クリティカル率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のクリティカル確率が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】堅守：HP80％で耐闇＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性ならHP80％以上のとき、闇属性耐性を6％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/15ca5a03b679a12193daa8e1b0247ee32.png"></span><span>竜鎖装填Ⅱ</span></dt><dd><div>エンハンスゲージが追加され、竜化ボタンがエンハンスボタンに変化する。エンハンスモード中は通常攻撃、バーストアタックが変化し、自身の残りHPが多いほど与えるダメージが増え、これらの攻撃でエンハンスゲージがチャージされるようになる。またこのモード中は防御力が20％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>呪い耐性＋100％</span></dt><dd><div>「呪い」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/11dcde67080976ea6dd376437cf405042.png"></span><span>この腕に宿りし希望の竜Ⅱ</span></dt><dd><div>防御力アップのバーストオーラが付与されているとき、エンハンスゲージが時間経過で自動的にチャージされる。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/9521049b7516718ade42641573010287.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>743</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>一度失ったボディを取り戻したマスキュラ。<br>修繕したボディをラキシ内部にある思考回路<br>『心』から遠隔で操作している。自分だけの<br>力で戦う決意をした彼だが、戦闘後には涙の<br>ようなものを流す姿をよく見かける。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e4c4b6c2cda86984ab5b0997b4b26db62.png"></span>
+				<span>code: 03 ライズジェネレーター</span>
+			</dt>
+			<dd><div>自身に【リアクション無効】と【シールド】を付与する。<br>自身に【フルアクセス】が付与されている場合、このスキルは「code:　08　エグゼキューション」へ変化し、効果が次のようになる。<br>自身に【リアクション無効】と【シールド】と【トランスエフェクト】を付与する。【トランスエフェクト】の効果中は通常攻撃が強化され、攻撃がヒットする回数が増える。</div><div class="skill-detail">必要スキルポイント：3,840<br>特殊効果<br>・リアクション無効<br>　効果時間：15 秒<br>・シールド<br>　効果回数：1<br>　効果量：最大HPの30％<br><br>（変化後）<br>必要スキルポイント：3,840<br>特殊効果<br>・リアクション無効<br>　効果時間：15 秒<br>・シールド<br>　効果回数：1<br>　効果量：最大HPの30％<br>・トランスエフェクト<br>　効果時間：11 秒<br>　重複不可<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e6227bb278c077fe5ca2ed4db4bd6ce42.png"></span>
+				<span>code: 36 クーラントサイクル</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>自身に【フルアクセス】を付与する。<br>自身に【フルアクセス】が付与されている場合、このスキルは「code:　06　コンクリュージョン」へ変化し、効果が次のようになる。<br>周囲の敵のバフを1つ解除し、ダメージを与える。</div><div class="skill-detail">必要スキルポイント：5,570<br>特殊効果<br>・フルアクセス<br>　効果時間：26 秒<br><br>（変化後）<br>威力：489 × 6 Hit<br>必要スキルポイント：2,830<br>必要シェアスキルポイント：16,668<br>特殊効果<br>・バフ解除<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻撃力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の攻撃力が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span>
+				<span>【水】連撃：連撃でバフスキル時間＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが水属性ならヒット数10以上のとき、使用するバフスキルの効果時間が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>アクセラレーターⅡ</span></dt><dd><div>①スキル1を使用するたび、自身に攻撃力アップのオーラ（バーストオーラ上限Lv3）を付与する。この効果は発動してから20秒間は発動しない。<br>②【フルアクセス】が付与されている間、以下の効果を得る。<br>・通常攻撃が強化。攻撃時に複数の敵に追撃を行う。<br>・通常攻撃の4段目に【敵のバフを1つ解除する効果】が付与される。<br>・攻撃速度が6％アップする。<br>・ヒット数が30以上のとき、攻撃力が10％、クリティカル率が8％、クリティカル時のダメージ倍率が8％アップする。<br>・竜化するとき、【フルアクセス】を解除する。<br>③【フルアクセス】が解除されたとき、スキル2を50％チャージする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f3503b7c11dab7e6111611cb63f010c32.png"></span><span>魔動の機構Ⅱ</span></dt><dd><div>「火傷」、「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5928d08635cbad73278c1391505a73392.png"></span><span>クリティカルドライヴⅡ</span></dt><dd><div>攻撃が15ヒットするたびに【クリティカル率が4％アップするバフ】が発動し最大3個まで重複可能。また攻撃がクリティカルになるたびに【クリティカル時のダメージ倍率が4％アップするバフ】が付与され最大10個まで重複可能。しかし、この効果は発動してから1秒間は発動しない。ヒット数がリセットされると、このアビリティで付与されたバフがすべて解除される。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b9ca754ca2a4078b04cfc5b64eeab7dd.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>ヴァルクスの契約竜。雷を司り、自らを<br>雷帝と称する。稲妻ひとつで、戦地の全てを<br>焼き払う強さを持ち、その強さは世界各地で<br>語り継がれている。トールの武人としての<br>考えは、契約主にも影響を与えている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>雷槌</span>
+			</dt>
+			<dd><div>ターゲットとその周囲の敵にダメージを与え、「麻痺」状態にする。このスキルは溜め動作中に画面をタップした回数に応じて3段階まで強化される。攻撃は時間経過か最大まで強化することで発動する。</div><div class="skill-detail">威力：1,780 × 1 Hit（最大時）<br>特殊効果<br>・麻痺<br>　効果時間：26 秒<br>　効果間隔：3.9 秒<br>　威力：44.2<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/212bea9478466c5e63454315256b6a5f2.png"></span><span>【光】戦車を駆る者Ⅴ</span></dt><dd><div>装備キャラが光属性なら下記の効果を発動する。<br>効果1：攻撃力が50％アップする。<br>効果2：5秒経過するたび【やる気】が1段階アップする。<br>効果3：【やる気】の段階に応じて攻撃力がアップする。【超やる気】時に効果は最大となり攻撃力が45％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>【光】轟く者Ⅱ</span></dt><dd><div>装備キャラが光属性なら、竜化解除時に【超やる気】になる。<br>さらにパーティ全員が【超やる気】になる。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1631512800; update_time1631151470

@@ -1,0 +1,8 @@
+article_id:766
+category_name:お知らせ
+title_name:「ナームちゃんねる」の配信に関して
+image_path:
+
+message:<div>YouTube Liveにて放送を予定しておりました「ナームちゃんねる」ですが、放送トラブルによりYouTubeでのアーカイブ配信のみとさせていただくこととなりました。<br>お待ちいただいていた皆様には、ご迷惑をおかけしますことをお詫び申し上げます。</div><div><br></div><div>アーカイブ配信については、下記のURLからご視聴いただけます。</div><div><br></div><div>▼1st Anniversary「ナームちゃんねる」</div><div><a href="https://youtu.be/2KXe_t1wAEw">https://youtu.be/2KXe_t1wAEw</a></div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1569468600; update_time1569468928

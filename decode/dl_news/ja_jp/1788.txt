@@ -1,0 +1,8 @@
+article_id:1788
+category_name:お知らせ
+title_name:メインストーリー第16章「新しき絆、進むべき道」に新たなストーリーの追加が決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/a184f7f310f349a1404dec6e7b2ea5c6.png
+
+message:<div><span class="local_date" data-local_date="1606111200"></span>から、メインストーリー第16章「新しき絆、進むべき道」に新たなストーリーの追加が決定しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a184f7f310f349a1404dec6e7b2ea5c6.png"></div><div><br></div><div>新たなストーリーをご期待ください！</div><div><br></div><div>■注意事項</div><div>・メインストーリー第16章「新しき絆、進むべき道」に追加される新たなストーリーは、メインストーリー第16章 4-6「旅立ち」をクリアすると解放されます。</div><div>・新たに追加されるストーリーは、フルボイスではなく一部のボイスのみが再生されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1605852000; update_time1605757105

@@ -1,0 +1,8 @@
+article_id:2484
+category_name:お知らせ
+title_name:竜輝の護符「堕ちた翼」の不具合について
+image_path:
+
+message:<div><span class="local_date" data-local_date="1630044000"></span>ごろのデータ更新以降、竜輝の護符「堕ちた翼」について、下記不具合が発生しておりました。</div><div><br></div><div>・上限解放および所持数追加のピース解放に必要な覚醒の雫が、想定よりも少ない。</div><div><br></div><div>【誤】</div><div>■上限解放段階</div><div>0 &rarr; 1 必要な覚醒の雫：150</div><div>1 &rarr; 2 必要な覚醒の雫：200</div><div>2 &rarr; 3 必要な覚醒の雫：200</div><div>3 &rarr; 4 必要な覚醒の雫：200</div><div><br></div><div>■所持数追加</div><div>1 &rarr; 2 必要な覚醒の雫：850</div><div>2 &rarr; 3 必要な覚醒の雫：850</div><div>3 &rarr; 4 必要な覚醒の雫：850</div><div><br></div><div>【正】</div><div>■上限解放段階</div><div>0 &rarr; 1 必要な覚醒の雫：3,000</div><div>1 &rarr; 2 必要な覚醒の雫：4,000</div><div>2 &rarr; 3 必要な覚醒の雫：4,000</div><div>3 &rarr; 4 必要な覚醒の雫：4,000</div><div><br></div><div>■所持数追加</div><div>1 &rarr; 2 必要な覚醒の雫：17,000</div><div>2 &rarr; 3 必要な覚醒の雫：17,000</div><div>3 &rarr; 4 必要な覚醒の雫：17,000</div><div><br></div><div>本不具合は<span class="local_date" data-local_date="1631512800"></span>ごろのデータ更新にて修正いたしました。</div><div><br></div><div>また、本不具合が発生していたことへのお詫びとして、<span class="local_date" data-local_date="1631512800"></span>までにゲームを開始されたプレイヤーの皆様に、下記のアイテムを順次お送りいたします。</div><div><br></div><div>・竜輝晶&times;300</div><div><br></div><div>※お詫びとしてお送りしたアイテムは、「プレゼント」からお受け取りいただけます。</div><div>※お詫びとしてお送りしたアイテムの受け取り期限は、「プレゼント」にアイテムが送られてから7日間です。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div>
+
+start_time:1631512800; update_time1631502373

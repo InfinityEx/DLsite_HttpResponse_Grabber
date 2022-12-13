@@ -1,0 +1,8 @@
+article_id:1210
+category_name:お知らせ
+title_name:召喚チケットをプレゼント！
+image_path:
+
+message:<div>レイドイベント「咎人は巡る、竜眼の軌跡」をプレイして頂いている感謝の気持ちとして、プレイヤーの皆様へ、下記のプレゼントを順次お贈りいたします！</div><div><br></div><div>■プレゼント内容</div><div>召喚チケット&times;3</div><div><br></div><div>お贈りしたアイテムの受け取り期限は、「プレゼント」にアイテムが贈られてから7日間です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1585980000; update_time1585905747

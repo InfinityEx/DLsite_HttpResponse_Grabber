@@ -1,0 +1,167 @@
+article_id:576
+category_name:お知らせ
+title_name:「ドラゴンレジェンド召喚」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1563602400"></span>から、「ドラゴンレジェンド召喚」の開催を予定しております。</div><div><br></div><div>ドラゴンレジェンド召喚は、ピックアップ対象の★5と★4ドラゴンの提供割合がアップします。</div><div>※ドラゴン以外に、★5と★4キャラもピックアップします。</div><div><br></div><div>【ドラゴンレジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1563602400"></span> ～ <span class="local_date" data-local_date="1564120740"></span></div><div><br></div><div>ピックアップ対象のドラゴンの一部を、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/066e966eb2d317a93fa214a13a65f9dc.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>禁書を収めた図書館に棲む謎のドラゴン。<br>言葉は難解にして、行動は不可解。<br>『遥かなる主』という存在に仕える使者だと<br>名乗る。ニャルラトホテプとは、ただ一体の<br>名ではないと語るが、その真相は……。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>覆い尽くす闇</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に闇属性のダメージを与える。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】HP30％で攻＋50％</span></dt><dd><div>装備キャラが闇属性かつHPが30％以上のとき<br>装備キャラの攻撃力が50％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>【闇】背水の陣・盾Ⅱ</span></dt><dd><div>装備キャラが闇属性かつHP30％以下になったとき、【最大HPの60％以下のダメージを無効化するシールド】を付与する。シールドの効果は1回のみで、同種のシールドとは重複しない。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/79b37626f04e8413e89f208296c545ad.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>暴風と災厄を司るドラゴン。その羽ばたきは<br>嵐を起こし、毒気で病を流行らせるという。<br>人と関わり合うことはほとんどないが、<br>災いを避けずに立ち向かい、克服する人間の<br>姿には関心を示し、敬意を表している。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>カラミティウィンド</span>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に風属性のダメージを与え、「毒」状態にする。また、防御力を5％ダウンさせる。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【風】攻撃力＋50％</span></dt><dd><div>装備キャラが風属性なら<br>装備キャラの攻撃力が50％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>【風】毒特効＋20％</span></dt><dd><div>装備キャラが風属性なら<br>「毒」状態の敵に与えるダメージが20％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/9d611d9cfb8f7e029303989904bf1a1f.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>死を司るドラゴン。単に殺戮を好むという<br>わけではなく、死に瀕した人々の強い感情を<br>味わうことが生きがい。そのため災害、<br>疫病、戦争の被災地に姿を現し、不吉の<br>象徴として人々に恐れられるようになった。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1dc2f6f0f6e043a02de111856f4d5c092.png"></span>
+				<span>エクリプスゲート</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に闇属性のダメージを<br>与え、「暗闇」状態にする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>【闇】HP＆攻撃力＋30％</span></dt><dd><div>装備キャラが闇属性なら<br>装備キャラのHPと攻撃力が30％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1563429600; update_time1563359186

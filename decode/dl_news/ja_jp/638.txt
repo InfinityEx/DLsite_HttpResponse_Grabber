@@ -1,0 +1,8 @@
+article_id:638
+category_name:お知らせ
+title_name:同盟のメンバーとクエストに挑戦して「竜輝晶」を手に入れよう！【追記】
+image_path:
+
+message:<div>「同盟」機能の追加にあわせまして、キャンペーン開催期間中にマルチプレイにて、ルームの条件が「同盟のみ」のルームでクエストに挑戦されたプレイヤーの皆様へ、「竜輝晶」をプレゼントいたします。</div><div>ぜひ、この機会に同盟のメンバーたちとマルチプレイをお楽しみください！</div><div>キャンペーンの詳細は下記のとおりです。</div><div><br></div><div>■プレゼント内容</div><div>竜輝晶 300個</div><div><br></div><div>■キャンペーン開催期間</div><div><span class="local_date" data-local_date="1564380000"></span> ～ <span class="local_date" data-local_date="1565589599"></span></div><div><br></div><div>■お贈りする日時</div><div><span class="local_date" data-local_date="1565676000"></span>以降順次</div><div><br></div><div>■お贈りする対象の方</div><div>開催期間中にマルチプレイにて、ルームの条件が「同盟のみ」のルームで、クエストに1回以上挑戦されたプレイヤーの皆様</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/ff060cb18234b96f321ea1e574941fb1.png"></div><div><br></div><div>■注意事項</div><div>1. ルームの条件を「同盟のみ」から「だれでも」に切り替えた状態でクエストに挑戦された場合は、本キャンペーンの対象外となります。</div><div>2. 開催期間中にクエストを開始し、開催期間終了後にクエストをクリアした場合でも、プレゼントをお贈りする対象となります。クエストをクリアしたかどうかは問いません。</div><div>3. 入室したルームの条件が「同盟のみ」であった場合は、同盟に所属していなくてもプレゼントをお贈りする対象となります。</div><div>4. マルチプレイ参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1565676900"></span>追記】<br></strong></span>対象のプレイヤーの皆様に、下記のアイテムをお贈りいたしました。<br><br>・竜輝晶 300個<br><br>お贈りしたアイテムの受け取り期限は、「プレゼント」にアイテムが贈られてから7日間です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1564380000; update_time1565677025

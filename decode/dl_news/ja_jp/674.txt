@@ -1,0 +1,136 @@
+article_id:674
+category_name:お知らせ
+title_name:ヒルデガルド(バレンタインVer.)が再登場！レジェンド召喚「紅き薔薇咲くバレンタイン」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1566453600"></span>から、レジェンド召喚「紅き薔薇咲くバレンタイン」の開催を予定しております。</div><div><br></div><div>期間限定のキャラがレジェンド召喚から再登場します。</div><div>また、ピックアップ対象のキャラ・ドラゴンの提供割合がアップします。</div><div><br></div><div>【レジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1566453600"></span> ～ <span class="local_date" data-local_date="1567231140"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンの一部を、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップキャラ紹介】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6d2efeb63c5dec729d01a6a8aaab556c.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5acf4f3182dfd0356371c43a0b53ad902.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>805</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>469</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>2514</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>エレガントなドレスを纏ったヒルデガルド。<br>その姿は大人の魅力満点。実はドレスを<br>着用したのはこれが人生初めて。<br>ドレスを着て鏡の前に立ち、ひとりで<br>はにかむ姿を仲間の何人かが目撃している。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/11abb0801c7c50c1525746a356ebbb5d2.png"></span>
+				<span>慈愛の薔薇</span>
+			</dt>
+			<dd>
+				<div>
+					味方全員のHPを回復する。さらにパーティ全員の【やる気】を1段階アップし、15秒間HP継続回復を付与する。【やる気】は5段階アップすると【超やる気】になり、攻撃・回復スキルが強化される。【超やる気】は適用スキル使用時に解除される。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/238e26f1fb8055213f344b979afe79322.png"></span>
+				<span>聖なる守護</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員に【最大HPの30％以下のダメージを無効化するシールド】を付与し、さらに【やる気】を2段階アップする。シールドの効果は1回のみで、同種のシールドとは重複しない。【やる気】は5段階アップすると【超やる気】になり、攻撃・回復スキルが強化される。【超やる気】は適用スキル使用時に解除される。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EXアビリティ</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回復スキル効果＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の回復スキル効果が20％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9db1d5ba1c3810cd513929574db547b92.png"></span><span>強撃で弱体・攻Ⅱ</span></dt><dd><div>バーストアタックに70％の確率で【10秒間攻撃力が3％ダウンするデバフ】が発生する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>気絶耐性＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>開幕スキルゲージ＋100％</span></dt><dd><div>クエスト開始時のスキルゲージが100％アップする。</div></dd></dl></div></div></div><div>※最大Lv、マナサークル全解放時のステータスです。入手時のステータスではありません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/23aa11a9a21b141b9f0a9a427b4673bb.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>原初の炎を受け継ぐ強力な火竜。「弱者を<br>守るのは強者の務め」というポリシーを<br>持つが、過去に、その力の強大さゆえに<br>守るべき者を傷つけてしまったことがある。<br>それから人間と距離を置くようになった。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>プロメテウスの火</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に火属性のダメージを与える。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/916d0547dd866ff9333344c772c14d732.png"></span><span>【火】攻撃＆風耐性アップⅡ</span></dt><dd><div>装備キャラが火属性なら<br>装備キャラの攻撃力が50％、風属性耐性が15％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1566367200; update_time1565940497

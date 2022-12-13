@@ -1,0 +1,8 @@
+article_id:387
+category_name:お知らせ
+title_name:「ドラガリアロスト公式Twitterアカウント フォロー＆リツイートキャンペーン」参加のお礼
+image_path:
+
+message:<div>「ドラガリアロスト公式Twitterアカウント フォロー＆リツイートキャンペーン」にご参加いただき、ありがとうございました！</div><div>おかげさまで、キャンペーン期間中のリツイート数の合計が、60000回を超えました！</div><div><br></div><div>キャンペーンにご参加いただいたお礼として、<span class="local_date" data-local_date="1554789600"></span>までにゲームを開始されたプレイヤーの皆様に、下記のアイテムを順次お贈りいたします。</div><div><br></div><div>・10回召喚チケット 1枚</div><div>・覚醒の雫 35000個</div><div>・竜輝晶 1000個</div><div>・四葉のクローバー 10個</div><div>・スキップチケット 10枚</div><div><br></div><div>お贈りしたアイテムは、<span class="local_date" data-local_date="1555394399"></span>までにゲームにログインした際に、「プレゼント」からお受け取りいただけます。</div><div>アイテムの受け取り期限は、「プレゼント」にアイテムが贈られてから7日間です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1554789600; update_time1554708104

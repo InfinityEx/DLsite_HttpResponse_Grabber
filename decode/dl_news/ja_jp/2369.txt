@@ -1,0 +1,8 @@
+article_id:2369
+category_name:お知らせ
+title_name:アプリへ接続できない現象について【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1626682200"></span>追記】</strong></span></div><div>本現象の影響にて、一部の対象プレイヤーの皆様につきまして、現在もプレイできない現象が発生していることを確認しております。</div><div><br></div><div>■対象プレイヤー</div><div><span class="local_date" data-local_date="1626674700"></span> ～ <span class="local_date" data-local_date="1626675300"></span>ごろに新しくゲームをはじめ、利用規約に同意されたプレイヤー</div><div><br></div><div>本現象により、現在もプレイできない場合は、お手数をおかけして申し訳ございませんが、アプリを再インストールすることで新しくゲームをはじめることができるか、お試しくださいますようお願いいたします。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div><div><br></div><hr><div><span class="local_date" data-local_date="1626674400"></span>ごろから、通信の影響によりアプリへ接続できない現象が一時的に発生しておりました。</div><div><br></div><div>本現象は現在解消しております。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div>
+
+start_time:1626676200; update_time1626751635

@@ -1,0 +1,8 @@
+article_id:231
+category_name:お知らせ
+title_name:春節のプレゼント！
+image_path:
+
+message:<div>春節がはじまりました！</div><div><br></div><div>開催中のレイドイベント「郷愁の空に咲く大輪の華」はお楽しみいただけておりますでしょうか？</div><div><br></div><div>本日は春節のお祝いとして、日頃から応援してくださるプレイヤーの皆様への感謝の気持ちとして、下記のプレゼントをお贈りいたしました。</div><div>これからの冒険にぜひお役立てください！</div><div><br></div><div>■プレゼント内容</div><div>10回召喚チケット 1枚</div><div><br></div><div>■お贈りする対象の方</div><div><span class="local_date" data-local_date="1549346400"></span>までにゲームを開始されたプレイヤーの皆様。</div><div><br></div><div><span class="local_date" data-local_date="1549951199"></span>までにゲームにログインした際に受け取れます。</div><div>受け取り期限は、プレゼントにアイテムが送られてから7日間です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1549346400; update_time1549346458

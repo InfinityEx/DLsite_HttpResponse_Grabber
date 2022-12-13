@@ -1,0 +1,8 @@
+article_id:930
+category_name:お知らせ
+title_name:ヴォイド討伐戦に「ヴォルカキマイラ」がついに登場！
+image_path:https://dragalialost.akamaized.net/attached/information/images/f12b5d4dde312d765adf50824278769d.png
+
+message:<div><span class="local_date" data-local_date="1577340000"></span>から、「ヴォイド討伐戦」に「ヴォルカキマイラ」が登場！</div><div>「ヴォルカキマイラ」から獲得できる素材アイテムでクラフトできる武器もあわせて追加します。</div><div><br></div><div>その身に燃え盛る炎を宿したキマイラは</div><div>『黒いマナ』をも取り込み、禍々しき咆哮をあげる。</div><div>炎を纏った爪牙は血に狂うほど研ぎ澄まされ、</div><div>その猛火は時と共に巨大な壁となって立ち塞がる――！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/f12b5d4dde312d765adf50824278769d.png"></div><div>ヴォルカキマイラ(火) 必要戦力：13,000</div><div><br></div><div>■「ヴォルカキマイラ」から獲得できる素材アイテムでクラフトできる武器の追加</div><div><span class="local_date" data-local_date="1577340000"></span>から、「ヴォイドシリーズ」の強力な武器を「クラフト」に追加します。</div><div>「ヴォルカキマイラ」から獲得できる素材アイテムでクラフトできる武器の生産は、特定の武器を入手したことがある場合に解放されます。</div><div>解放条件となる武器は、「マンティコア・レイジ」から獲得できる素材アイテムでクラフトできる火属性の★5武器となります。</div><div><br></div><div>解放条件となる武器は、生産する武器の武器種によって異なり、「クラフト」の「生産」内にある「ヴォルカキマイラ」の各武器の「素材確認」から確認できます。</div><div>※「ヴォルカキマイラ」から獲得できる素材アイテムでクラフトできる武器は分解することができません。</div><div><br></div><div>【注意事項】</div><div>ヴォイド討伐戦参加には、メインストーリー第7章 5-6(Normal)をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1576476000; update_time1575603685

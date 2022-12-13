@@ -1,0 +1,8 @@
+article_id:555
+category_name:お知らせ
+title_name:ヴォイド討伐戦の交換所にて報酬の交換個数を更新！
+image_path:https://dragalialost.akamaized.net/attached/information/images/828f50f598517f1b0dbce6da604cc2fc.png
+
+message:<div><span class="local_date" data-local_date="1561960800"></span>に、ヴォイド討伐戦の交換所にて、報酬の交換個数を更新いたしました！</div><div>交換個数の上限に達していたプレイヤーの皆様も、一部の報酬を除き、新たに交換することができます。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/828f50f598517f1b0dbce6da604cc2fc.png"></div><div><br></div><div>■交換所報酬</div><div>交換所では、ヴォイドを討伐して獲得できる素材アイテムをさまざまな報酬と交換できます。</div><div>一部の報酬を除き、ヴォイド討伐戦の交換所の交換個数制限は、毎月1日 の15:00(JST)に更新されます。</div><div><br></div><div>ヴォイド討伐戦の交換所は、マイページの「ショップ」から、「交換所」をタップし、「ヴォイド討伐戦」をご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1561960800; update_time1569490304

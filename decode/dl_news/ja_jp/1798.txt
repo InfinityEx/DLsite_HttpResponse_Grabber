@@ -1,0 +1,8 @@
+article_id:1798
+category_name:イベント
+title_name:メモリーイベントに施設イベント「Melodious Summer♪」を追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/5c35673fc74133cac14b8da9dc1cbf07.png
+
+message:<div><span class="local_date" data-local_date="1606456800"></span>からメモリーイベントとして参加できるイベントに、施設イベント「Melodious Summer♪」が追加されました。</div><div><br></div><div>また、竜輝の護符の仕様変更に伴い、メモリーイベントの一部ミッションや交換所の内容を変更しました。</div><div>詳細は下記のお知らせをご確認ください。</div><div><br></div><div><a href="https://dragalialost.com/jp/news/detail/1605">竜輝の護符仕様変更についてのお知らせ</a></div><div><a href="https://dragalialost.com/jp/news/detail/1622">竜輝の護符仕様変更に伴う補填のお知らせ</a></div><div><br></div><div><a href="https://dragalialost.com/jp/news/detail/1176">メモリーイベントの詳細はこちらをご覧ください。</a></div><div><br></div><div>※今回追加されるクエストはすべてソロ専用のクエストです。マルチプレイはできません。</div><div>※参加可能なイベントの種類は、今後のアップデートにて追加する予定です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1606456800; update_time1606459848

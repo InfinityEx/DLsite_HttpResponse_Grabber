@@ -1,0 +1,8 @@
+article_id:2387
+category_name:イベント
+title_name:レイドイベント「サバイブ・アイランド」の「HELL」「ULTIMATE」解放！
+image_path:https://dragalialost.akamaized.net/attached/information/images/66104aaaec31ad8149c4c0bd23ecd9b4.png
+
+message:<div><span class="local_date" data-local_date="1627884000"></span>から、レイドイベント「サバイブ・アイランド」のレイドバトルの「HELL」と「ULTIMATE」を解放します。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/66104aaaec31ad8149c4c0bd23ecd9b4.png"></div><div>■HELLについて<br>「HELL」に挑戦するには、エクストラレイドバトルをクリアする必要があります。<br>「HELL」の挑戦に必要な「異界のかけら」や「共闘の翼」、ならびにドロップ報酬は、「上級」と同じです。<br>「HELL」をクリアすると1日1回、チャレンジ報酬を獲得することができます。<br>※チャレンジ報酬は豪華報酬からランダムに選ばれます。<br><br>■ULTIMATEについて<br>「ULTIMATE」に挑戦するには、レイドバトルの難易度「HELL」と、ストーリー第5話をクリアする必要があります。<br><br>また、「ULTIMATE」を解放するにあたり、イベントアイテム「異界の鍵」を3つ獲得する必要があります。<br>「異界の鍵」は、「敢銅の祝章」「箔銀の祝章」「王金の祝章」それぞれの祝章報酬として、1つずつ獲得することができます。<br><br>・「ULTIMATE ソロ Lv1」<br>ソロプレイ専用のクエストです。<br>レイドバトルの難易度「HELL」と、ストーリー第5話をクリアすると解放されます。<br><br>・「ULTIMATE マルチ Lv1」<br>マルチプレイ専用のクエストです。<br>「ULTIMATE ソロ Lv1」をクリアすると解放されます。<br><br>・「ULTIMATE ソロ Lv2」<br>ソロプレイ専用のクエストです。<br>「ULTIMATE マルチ Lv1」をクリアすると解放されます。<br><br>・「ULTIMATE マルチ Lv2」<br>マルチプレイ専用のクエストです。<br>「ULTIMATE ソロ Lv2」をクリアすると解放されます。<br><br>・「ULTIMATE ソロ Lv3」<br>ソロプレイ専用のクエストです。<br>「ULTIMATE マルチ Lv2」をクリアすると解放されます。<br><br>・「ULTIMATE マルチ Lv3」<br>マルチプレイ専用のクエストです。<br>「ULTIMATE ソロ Lv3」をクリアすると解放されます。<br><br>■「HELL」「ULTIMATE」解放期間<br>・<span class="local_date" data-local_date="1627884000"></span> ～ <span class="local_date" data-local_date="1628747999"></span><br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1627884000; update_time1627439959

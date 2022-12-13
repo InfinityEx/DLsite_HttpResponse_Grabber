@@ -1,0 +1,8 @@
+article_id:678
+category_name:お知らせ
+title_name:真ユピテル試練に難易度「入門」を追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/049e535e4baa3679fd241cf338abb349.png
+
+message:<div><span class="local_date" data-local_date="1566453600"></span>から、真ドラゴンの試練「真ユピテルの試練」に、難易度「入門」を追加しました！</div><div><br></div><div>&nbsp;<img src="https://dragalialost.akamaized.net/attached/information/images/049e535e4baa3679fd241cf338abb349.png"></div><div>全身からマナがあふれ、その身に閃光を走らす「真ユピテル」に挑む前に、腕試しとして挑戦してみてください！</div><div>※「入門」は、クリアしても二つ名を獲得できません。</div><div><br></div><div>「真ドラゴンの試練」のウィークリーボーナスは「真ユピテルの試練 入門」も対象です。</div><div>報酬は「真ユピテルの試練」とは異なります。</div><div><br></div><div>■注意事項</div><div>1. 真ドラゴンの試練「真ユピテルの試練 入門」に挑戦するには、パーティの戦力が11000以上である必要があります。</div><div>2. 真ドラゴンの試練「真ユピテルの試練 入門」に挑戦するには、ドラゴンの試練「ユピテルの試練 超級」をクリアする必要があります。</div><div>3. マルチプレイ参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div>&nbsp;</div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1566453600; update_time1569480969

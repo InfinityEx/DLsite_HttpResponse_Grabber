@@ -1,0 +1,8 @@
+article_id:24
+category_name:イベント
+title_name:「忠竜が願うは果てし王の魂葬」のバランス調整について【10/06 20:30 追記】
+image_path:
+
+message:<div><span class="local_date" data-local_date="1538632800"></span>から開催しております、レイドイベント「忠竜が願うは果てし王の魂葬」にて一部バランスの調整を実施いたします。</div><div><br></div><div>詳細は下記をご確認ください。</div><div><br></div><div>■実施日時</div><div><span class="local_date" data-local_date="1538809200"></span></div><div><br></div><div>■調整内容</div><div>・「フレガノス大討伐戦 EX」の出現頻度を増加</div><div>・「フレガノス大討伐戦 EX」および「フレガノス大討伐戦 上級」で獲得できる王金の祝章数を増加</div><div><br></div><div>なお、今回のバランス調整に伴う補てんを検討しております。<br>補てん内容が決まりましたら、本お知らせにて追記いたします。</div><div><br></div><div>【<span class="local_date" data-local_date="1538825400"></span>追記】<br>レイドイベント「忠竜が願うは果てし王の魂葬」にて、一部バランスの調整を<span class="local_date" data-local_date="1538809200"></span>に実施いたしました。<br><br><span class="local_date" data-local_date="1538809200"></span>までに「フレガノス大討伐戦 EX」および「フレガノス大討伐戦 上級」をクリアされたプレイヤーの皆様に、補てんとしてクリア数に応じた王金の祝章をお送りいたしました。<br><br>補てんとしてお送りした王金の祝章は、「プレゼント」からお受け取りいただけます。<br>本件の補てんの品の受取期限は、<span class="local_date" data-local_date="1540187999"></span>です。<br><br>プレイヤーの皆様にはご迷惑をおかけしましたことをお詫び申し上げます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1538803800; update_time1540518931

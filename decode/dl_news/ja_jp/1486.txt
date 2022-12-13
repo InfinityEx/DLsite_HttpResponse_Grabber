@@ -1,0 +1,8 @@
+article_id:1486
+category_name:イベント
+title_name:イベント予告「迎撃戦～暮れる夏夜の灯篭流し～」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/3f5f807ec9e20153bb1a7f1a4987de5f.png
+
+message:<div><span class="local_date" data-local_date="1597125600"></span>から、「迎撃戦～暮れる夏夜の灯篭流し～」の開催を予定しております。</div><div>「迎撃戦～暮れる夏夜の灯篭流し～」は、拠点に迫り来る多くの敵を迎え撃つ迎撃戦イベントです！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/3f5f807ec9e20153bb1a7f1a4987de5f.png"></div><div><br></div><div>夏祭りに訪れたクーガーは、カサンドラに</div><div>付き合わされ、一緒に祭りを見学していた。</div><div>夏空に響く、のどかな祭り囃子。</div><div>しかしそれを遮ったのは、帝国兵の軍靴の音。</div><div>このままでは、祭りは滅茶苦茶になる&hellip;&hellip;。</div><div>祭りに秘められたカサンドラの願いをクーガーが</div><div>知った時、ふたりは共に戦う決意をする！</div><div><br></div><div>■注意事項</div><div>イベントクエスト参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1596780000; update_time1596018052

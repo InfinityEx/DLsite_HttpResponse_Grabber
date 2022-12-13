@@ -1,0 +1,8 @@
+article_id:538
+category_name:お知らせ
+title_name:「キャッスルストーリー」に新たなストーリーを追加！
+image_path:
+
+message:<div><img src="https://dragalialost.akamaized.net/attached/information/images/b79f859ef944201b28858c4958224621.png"></div><div>下記のスケジュールにて、「キャッスルストーリー」に新たなストーリーを追加いたします！</div><div>ぜひお楽しみください！</div><div><br></div><div>■配信スケジュール</div><div>・<span class="local_date" data-local_date="1561356000"></span> 「勃発！結婚式バトル(1)」</div><div>・<span class="local_date" data-local_date="1561528800"></span> 「勃発！結婚式バトル(2)」</div><div>・<span class="local_date" data-local_date="1561701600"></span> 「勃発！結婚式バトル(3)」</div><div><br></div><div>さらに、上記のストーリーが配信されるごとに、プレイヤーの皆様に「絆の映し鏡」を1つずつプレゼントいたします。</div><div><br></div><div>■注意事項</div><div>1. 「キャッスルストーリー」は、メインストーリー第1章クリア後に解放されます。</div><div>2. お贈りしたアイテムの受け取り期限は、「プレゼント」にアイテムが贈られてから7日間です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1561356000; update_time1561353199

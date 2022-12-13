@@ -1,0 +1,80 @@
+article_id:1618
+category_name:お知らせ
+title_name:「竜輝の護符交換所」のラインナップに定常化された竜輝の護符を追加！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1601013600"></span>から、「メモリーイベント」のイベントクエスト追加に伴い、これまで期間限定だった竜輝の護符の一部を、「竜輝の護符交換所」のラインナップに定常化して追加しました。</div><div>追加された竜輝の護符は、「竜輝の護符交換所」内の「ピックアップ」タブや、各レアリティのタブから交換できます。</div><div><br></div><div>【定常化した竜輝の護符紹介】</div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/065bdfea2945c816a0f6573c39b9c6192.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">トゥインクルナイトウィッチーズ</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【ロッド】スキルダメージ＋40％&nbsp;(Max40％)</span></dt><dd><div>装備キャラの武器種がロッドなら<br>装備キャラの攻撃スキルのダメージが40％アップする。&nbsp;(Max40％)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/63d71fadcdab08dbda4d555b5e8284942.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">ハロウィン・ウィッチ・クラフト</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>HP満タンでスキル＋40％&nbsp;(Max40％)</span></dt><dd><div>HP満タン時、スキルのダメージが40％アップ<br>する。&nbsp;(Max40％)</div></dd><dt class="event 20826"><span><img src="https://dragalialost.akamaized.net/attached/information/images/942ae6f4594c4dd5be5626cd5fec1d072.png"></span><span>トリックP＋100％&nbsp;(Max100％)</span></dt><dd class="event 20826"><div>クエストクリア時に獲得する【トリックP】が100％増加する。&nbsp;(Max100％)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/85c7dc13a0f8e67fdf87e0d0d0c3f8b62.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">トリック・トリート・トリック</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span><span>闇属性耐性＋10％&nbsp;(Max15％)</span></dt><dd><div>闇属性のダメージを10％減少させる。&nbsp;(Max15％)</div></dd><dt class="event 20826"><span><img src="https://dragalialost.akamaized.net/attached/information/images/942ae6f4594c4dd5be5626cd5fec1d072.png"></span><span>トリックP＋100％&nbsp;(Max100％)</span></dt><dd class="event 20826"><div>クエストクリア時に獲得する【トリックP】が100％増加する。&nbsp;(Max100％)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/db5b855f6014d5663ea7ad7d019adf9d2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">マスカレード・オペラ</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span><span>闇属性耐性＋10％&nbsp;(Max15％)</span></dt><dd><div>闇属性のダメージを10％減少させる。&nbsp;(Max15％)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/c2af8599001eaa69546a293ead8b17f52.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">シルキーのお手伝い</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>暗闇耐性＋50％&nbsp;(Max100％)</span></dt><dd><div>「暗闇」状態になる確率が50％ダウンする。&nbsp;(Max100％)</div></dd><dt class="event 20826"><span><img src="https://dragalialost.akamaized.net/attached/information/images/71ca6f198687c952036797855e36daa92.png"></span><span>かぼちゃビスケット＋50％&nbsp;(Max50％)</span></dt><dd class="event 20826"><div>クエストクリア時に獲得する【かぼちゃビスケット】が50％増加する。&nbsp;(Max50％)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/2f86f0d9ed3f7517d3bdb613136cf2082.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/8882a1e2cd557667e16b4245e73d8a6f2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">パンプキンボックス</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>呪い耐性＋25％&nbsp;(Max100％)</span></dt><dd><div>「呪い」状態になる確率が25％ダウンする。&nbsp;(Max100％)</div></dd><dt class="event 20826"><span><img src="https://dragalialost.akamaized.net/attached/information/images/71ca6f198687c952036797855e36daa92.png"></span><span>かぼちゃビスケット＋50％&nbsp;(Max50％)</span></dt><dd class="event 20826"><div>クエストクリア時に獲得する【かぼちゃビスケット】が50％増加する。&nbsp;(Max50％)</div></dd></dl></div></div></div><div><br></div><div>※最大上限解放時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>本お知らせに掲載されている内容以外の情報は、マイページ内のショップから「竜輝の護符交換所」をご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1601002800; update_time1600991535

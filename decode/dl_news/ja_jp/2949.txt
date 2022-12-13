@@ -1,0 +1,8 @@
+article_id:2949
+category_name:お知らせ
+title_name:メインストーリーに第24章「原初の力」後半を追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/a3ebdb02b29b9b388df70076e62d7ad1.png
+
+message:<div><span class="local_date" data-local_date="1647496800"></span>から、メインストーリーに第24章「原初の力」後半を追加しました！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a3ebdb02b29b9b388df70076e62d7ad1.png"></div><div>『竜の墓場』で一行を待ち受けていた遥か古代の</div><div>ドラゴンの意志。そこで王子たちは太古の争乱と</div><div>バハムートの真実を知ることとなる。</div><div>そして、黒いマナに侵され堕ちた聖竜の嘆きは、</div><div>伝承のドラゴンを呼ぶ――。</div><div><br></div><div>最新章をお楽しみください！</div><div><br></div><div>■注意事項</div><div>1. メインストーリー第24章「原初の力」後半は、メインストーリー第24章 4-2「共に在る」をクリアすると解放されます。</div><div>2. 今回の後半追加と併せて、新たに「竜玉」を使用して上限解放できるドラゴンの追加はございませんが、獲得できるドラゴンの「竜玉」、現在の所持数、残り獲得回数、および「竜玉」が獲得できるクエストは、メインストーリー各章のエリアマップ内に表示される「竜玉」アイコンから確認できます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1647496800; update_time1646890225

@@ -1,0 +1,8 @@
+article_id:1760
+category_name:お知らせ
+title_name:YouTube Liveにて新イベントの予告動画配信決定
+image_path:
+
+message:<div><span class="local_date" data-local_date="1604577600"></span>ごろから、YouTube Liveにて新イベントの予告動画を配信いたします。</div><div>内容は11月下旬から開催予定の新イベントに関する情報の予告などで、1分ほどの放送を予定しております。</div><div><br></div><div>▼配信予定ページ</div><div><a href="https://youtu.be/z2AmpaB5-sY">https://youtu.be/z2AmpaB5-sY</a></div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1604469600; update_time1604454115

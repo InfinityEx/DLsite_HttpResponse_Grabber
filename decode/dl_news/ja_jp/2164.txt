@@ -1,0 +1,8 @@
+article_id:2164
+category_name:お知らせ
+title_name:キャラ「エルフィリス（ドラフェスVer.）」のアビリティにおける不具合について
+image_path:
+
+message:<div>マナサークル第6層解放後のキャラ「エルフィリス（ドラフェスVer.）」について、下記の不具合が発生していることを確認しております。</div><div><br></div><div>・キャラ「エルフィリス（ドラフェスVer.）」のアビリティ「聖天の誓いⅢ」が発動した際、アビリティ「プロテクトリンク・攻＋〇％」「プロテクトリンク・治癒〇」「プロテクトリンク・やる気」などの効果が発動してしまう。</div><div><br></div><div>本不具合は<span class="local_date" data-local_date="1621231200"></span>ごろのデータ更新にて修正予定です。</div><div><br></div><div>本不具合の修正に伴い、<span class="local_date" data-local_date="1621231200"></span>までに「エルフィリス（ドラフェスVer.）」のマナサークル第6層を解放したプレイヤーの皆様に下記の補填を行います。</div><div><br></div><div>■補填日時</div><div>・<span class="local_date" data-local_date="1621231200"></span>以降順次</div><div><br></div><div>■補填内容</div><div>・「聖なる導き手の信念」「聖なる導き手の誓魂」を除く、<span class="local_date" data-local_date="1621231200"></span>時点までに「エルフィリス（ドラフェスVer.）」のマナサークル第6層のピース解放に使用した素材</div><div>※マナサークル第5層までの素材は含みません。</div><div><br></div><div>また、<span class="local_date" data-local_date="1621231200"></span>までにゲームを開始されたプレイヤーの皆様に、本不具合を修正以降、下記アイテムを順次お送りいたします。</div><div><br></div><div>・竜輝晶 300個</div><div><br></div><div>プレイヤーの皆様には、本不具合によりご迷惑をおかけしておりますことをお詫び申し上げます。</div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1619589600; update_time1619575732

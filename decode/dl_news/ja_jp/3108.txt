@@ -1,0 +1,198 @@
+article_id:3108
+category_name:お知らせ
+title_name:火属性★5キャラ確定！「プラチナレジェンド召喚」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1667368800"></span>から、「プラチナレジェンド召喚」を開催中！</div><div><br></div><div>「プラチナレジェンド召喚」では、「10回召喚」の10枠目で、火属性の★5キャラが確定で出現します。</div><div><span style="color: rgb(226, 80, 65);">※本召喚の提供内容に、火属性以外のキャラ・ドラゴンは含まれません。</span></div><div>本召喚は、期間中に「10回召喚」を2回までご利用いただけます。</div><div>また、本召喚は「ドラゴンダイヤ」でのみご利用いただけます。</div><div><br></div><div>【プラチナレジェンド召喚 開催期間】</div><div><span class="local_date" data-local_date="1667368800"></span> ～ <span class="local_date" data-local_date="1668491999"></span></div><div><br></div><div>「プラチナレジェンド召喚」の10枠目に確定で出現する、対象の火属性★5キャラの一部を、下記にてご紹介いたします。</div><div><br></div><div>【10枠目確定対象火属性★5キャラ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/df19e7313db48b56c71c5c4a0678273e.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/960c7daac545c22ad02e9e69f39f670e2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>789</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>486</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>東方のヒノモト国に伝わる、お正月用装束<br>『晴れ着』をまとったエルフィリス。<br>心穏やかに新年を迎えようと思っていたが、<br>戦ったり、アクシデントに巻き込まれたりと<br>大忙し。今年も賑やかな一年になりそうだ。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9403d500fcac4e5fa713f9f22e2acb6d2.png"></span>
+				<span>大和撫子</span>
+			</dt>
+			<dd><div>パーティ内の火属性キャラ全員に【活躍祈願】を付与する。このスキルは溜め動作中に画面をタップした回数分追加で2回まで【活躍祈願】を付与する。<br>【活躍祈願】は効果時間中に再度【活躍祈願】が付与される事でレベルアップし、効果が強化される。<br>【活躍祈願】は効果時間が過ぎるとレベルダウンし、Lv1のときにレベルダウンすると解除される。<br>Lv1：15秒間、攻撃力を15％アップする。<br>Lv2：30秒間、攻撃力を25％アップする。<br>Lv3：60秒間、攻撃力を40％アップし、風属性のダメージを15％減少させる。</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ddbfc893d24491b774462a7d936dab522.png"></span>
+				<span>新春吉日</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>ターゲットとその周囲の敵に火属性のダメージを与え、「劫火」状態にする。また、30秒間劫火耐性を20％ダウンさせる。この効果は重複しない。</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3c77eb4ce89d7a87424b9733969ae7282.png"></span>
+				<span>復活時HP＋30％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の復活するときのHPが30％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>【火】連撃：連撃で会心Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性なら攻撃が10ヒットするたびにクリティカル率が1％アップする。この効果は最大20回まで重複する。<br>ヒット数がリセットされると、このアビリティで付与された効果がすべて解除される。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>新春万福Ⅱ</span></dt><dd><div>自身に付与されている【活躍祈願】のレベルに応じて下記の効果が発動する。<br>Lv1：スキルゲージの上昇率が7％アップする。<br>Lv2：スキルゲージの上昇率が8％アップする。<br>Lv3：スキルゲージの上昇率が10％アップする。また、スキル「新春吉日」が時間経過で自動でチャージされる。このチャージは「スキルゲージの上昇量をアップさせる効果」を受けない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠耐性＋100％</span></dt><dd><div>「睡眠」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>開幕スキルゲージ＋100％</span></dt><dd><div>クエスト開始時のスキルゲージが100％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5f9ac3bcafb1db10ce604bac3a844fa9.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>742</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>腕利きの傭兵ランザーヴが、時空物理魔法の<br>実験で子供になった姿。体こそ小さく<br>なったが、歴戦で培った経験と、義に厚い<br>漢気……そして、周囲が呆れるほどの<br>大食漢ぶりは、なんら変わることはない。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c2db8e594e072513922d2af7ebfa68c62.png"></span>
+				<span>ダイナミックスイング</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、「劫火」状態にする。</div><div class="skill-detail">威力：1,015 × 1 Hit<br>必要スキルポイント：3,230<br>必要シェアスキルポイント：8,559<br>特殊効果<br>・劫火<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20f15e05dab3cf33c2c02e36b5f9d8722.png"></span>
+				<span>パワフルホームラン</span>
+			</dt>
+			<dd><div>自身に攻撃力アップのオーラを付与する。また、スキル「ダイナミックスイング」を即時使用可能にし、次に使用したときに必ずクリティカルにする。<br>（この効果と超ヒラメキが付与されている状態でスキルを使用した場合、両方の効果を消費して攻撃がクリティカルとなる。）</div><div class="skill-detail">必要スキルポイント：7,583<br>オーラ付与<br>・攻撃力アップ（バーストオーラ上限Lv 2）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防御力＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の防御力が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【火】士気：攻勢士気・攻＋8％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性なら攻撃力アップのバーストオーラが付与されているとき、攻撃力が8％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>パワーヒッターⅡ</span></dt><dd><div>クリティカル率アップの上限が10％になるが、クリティカル時のダメージ倍率を40％アップする。（超ヒラメキの効果は発生する。）<br>また、スキル「ダイナミックスイング」がクリティカルになった場合、自身に攻撃力アップのオーラ（バーストオーラ上限Lv2）を付与する。この効果は発動してから1秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>気絶耐性＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cc3f28b7bfce6dfc1ea65f36822cae7f2.png"></span><span>オーラ（攻）で攻撃速度＋8％</span></dt><dd><div>攻撃力アップのオーラが付与されているとき、攻撃速度が8％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>【注意事項】</div><div>1. 「プラチナレジェンド召喚」についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「プラチナレジェンド召喚」の「提供割合」や「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. 「プラチナレジェンド召喚」開催中も、「レジェンド召喚」は開催中です。召喚画面タイトル部分の「&lt;」「&gt;」アイコンをタップすると、各召喚の画面に移動できます。</div><div>3. 「レジェンド召喚」にて、10回連続で★5が出現しなかったことにより上昇した提供割合は、「プラチナレジェンド召喚」をご利用いただいても、リセットされません。</div><div>4. その他の注意事項は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブから「注意事項」をご確認ください。</div><div>5. 「プラチナレジェンド召喚」では「竜輝の印」を獲得できません。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1667368800; update_time1647666894

@@ -1,0 +1,8 @@
+article_id:630
+category_name:お知らせ
+title_name:ドラガリアフェスにあわせて「召喚チケット」をプレゼント！
+image_path:
+
+message:<div>ドラガリアフェスの開催にあわせまして、プレイヤーの皆様へ「召喚チケット」をお贈りいたしました！</div><div>「召喚チケット」を使って、ぜひドラガリアフェスをお楽しみください！</div><div><br></div><div>■プレゼント内容</div><div>召喚チケット 3枚</div><div><br></div><div>■お贈りする対象の方</div><div><span class="local_date" data-local_date="1564120800"></span>までにゲームを開始されたプレイヤーの皆様</div><div><br></div><div>お贈りしたアイテムの受け取り期限は、「プレゼント」にアイテムが贈られてから7日間です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1564120800; update_time1569485997

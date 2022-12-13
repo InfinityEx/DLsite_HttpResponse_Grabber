@@ -1,0 +1,8 @@
+article_id:1590
+category_name:お知らせ
+title_name:メインストーリー第15章「光を覆う影」に新たなストーリーの追加が決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/f8eed7a7c847fced6372e7a31baaa25a.png
+
+message:<div><span class="local_date" data-local_date="1600668000"></span>からメインストーリー第15章「光を覆う影」に、新たなストーリーの追加が決定しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/f8eed7a7c847fced6372e7a31baaa25a.png"></div><div><br></div><div>新たなストーリーをご期待ください！</div><div><br></div><div>■注意事項</div><div>・メインストーリー第15章「光を覆う影」に追加される新たなストーリーは、メインストーリー第15章 4-8「闇を乗り越えて」をクリアすると解放されます。</div><div>・新たに追加されるストーリーは、フルボイスではなく一部のボイスのみが再生されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1600408800; update_time1600319158

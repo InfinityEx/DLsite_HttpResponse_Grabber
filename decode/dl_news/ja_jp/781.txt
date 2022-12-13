@@ -1,0 +1,8 @@
+article_id:781
+category_name:重要
+title_name:ショップメンテナンス実施のお知らせ【更新】
+image_path:
+
+message:<div>下記の期間、「ショップ」のメンテナンスを実施いたします。</div><div>※「ショップ」のみの実施のため、「ショップ」以外はプレイできます。</div><div><br></div><div>■メンテナンス期間</div><div><span class="local_date" data-local_date="1570003200"></span> ～ 対応完了次第</div><div><br></div><div>■メンテナンスの内容</div><div>日本の税率改正に伴う、アイテム価格変更対応のため。</div><div>※アイテム価格の変更はアプリストアの国設定を「日本」にしている方のみ対象です。</div><div><br></div><div>■ショップメンテナンス中に発生する不具合および注意事項<br>・クエストにて「ドラゴンダイヤ」を消費して「コンティニュー」を行おうとした際、「ドラゴンダイヤ」を必要数所持していないと進行不能になる。<br>・クエスト開始時や、マイページ上部のスタミナや共闘の翼の「+」ボタンからそれぞれを回復しようとした際、ドラゴンダイヤや竜輝晶で回復ができない。<br>※アイテムを使用しての回復はできます。</div><div><br></div><div><span style="color: rgb(44, 130, 201);"><strong>【<span class="local_date" data-local_date="1570012200"></span>追記】</strong></span></div><div>「ショップ」のメンテナンスは、<span class="local_date" data-local_date="1570012200"></span>に終了いたしました。</div><div>メンテナンスにご協力いただき、ありがとうございました。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1569987900; update_time1570012297

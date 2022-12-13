@@ -1,0 +1,32 @@
+article_id:1537
+category_name:お知らせ
+title_name:「竜輝の護符交換所」のラインナップに新たな竜輝の護符を追加！
+image_path:
+
+message:<div><span style="color: rgb(0, 0, 0);"><span class="local_date" data-local_date="1598594400"></span>から、「竜輝の護符交換所」のラインナップに新たな竜輝の護符を追加しました。</span></div><div><span style="color: rgb(0, 0, 0);">&nbsp;</span></div><div><span style="color: rgb(0, 0, 0);">追加された竜輝の護符は、「竜輝の護符交換所」内の「ピックアップ」タブや、各レアリティのタブから交換できます。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);"><strong>【新たな竜輝の護符紹介】</strong></span></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/c8f77d65e4c5cb77778828fb5057fd4d2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">令嬢騎士の一日</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>プロテクトリンク・やる気Ⅰ&nbsp;(MaxⅠ)</span></dt><dd><div>防御力アップのバフを受けたとき、【やる気】を1段階アップ。&nbsp;(MaxⅠ)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/fd589517c61c65312e1509e13a36cd412.png"></span><span>バーストダメージ＋50％&nbsp;(Max50％)</span></dt><dd><div>バーストアタックのダメージが50％アップする。&nbsp;(Max50％)</div></dd><dt class="event 20825"><span><img src="https://dragalialost.akamaized.net/attached/information/images/856a5c490361a9125f1ba4b52989d40c2.png"></span><span>浄化度＋150％&nbsp;(Max150％)</span></dt><dd class="event 20825"><div>クエストクリア時に獲得する【浄化度】が150％増加する。&nbsp;(Max150％)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/8b3843539d5cfedc44b2b8ebc636b17b2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">知の宝庫</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3f54ed4d677850651c74cfcb285df96f2.png"></span><span>睡眠特効＋20％&nbsp;(Max25％)</span></dt><dd><div>「睡眠」状態の敵に与えるダメージが20％アップする。&nbsp;(Max25％)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>暗闇耐性＋50％&nbsp;(Max100％)</span></dt><dd><div>「暗闇」状態になる確率が50％ダウンする。&nbsp;(Max100％)</div></dd><dt class="event 20825"><span><img src="https://dragalialost.akamaized.net/attached/information/images/856a5c490361a9125f1ba4b52989d40c2.png"></span><span>浄化度＋100％&nbsp;(Max150％)</span></dt><dd class="event 20825"><div>クエストクリア時に獲得する【浄化度】が100％増加する。&nbsp;(Max150％)</div></dd></dl></div></div></div><div><br></div><div><span style="color: rgb(0, 0, 0);">※最大上限解放時のステータスです。入手時のステータスではありません。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">【ピックアップ期間】</span></div><div><span class="local_date" data-local_date="1598594400"></span> ～ <span class="local_date" data-local_date="1599890399"></span></div><div><br></div><div><span style="color: rgb(184, 49, 47);">※今回追加された竜輝の護符は、ピックアップ期間終了後も各レアリティのタブから交換できます。</span></div><div><br></div><div><span style="color: rgb(0, 0, 0);">【注意事項】</span></div><div><span style="color: rgb(0, 0, 0);">本お知らせに掲載されている内容以外の情報は、マイページ内のショップから「竜輝の護符交換所」をご確認ください。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">今後とも『ドラガリアロスト』をよろしくお願いいたします。</span></div>
+
+start_time:1598594400; update_time1598508894

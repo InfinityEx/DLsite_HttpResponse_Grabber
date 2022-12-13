@@ -1,0 +1,244 @@
+article_id:3018,category_name:お知らせ,title_name:「ドラガリアフェス」開催決定！,image_path:,message:<div><span class="local_date" data-local_date="1651039200"></span>から、「ドラガリアフェス」の開催を予定しております。</div><div><br></div><div>【ドラガリアフェスとは】 ※「ドラガリアフェス　エクストラ」含む</div><div>★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップします！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><br></div><div>【ピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 ガトフ（ドラフェスVer.）：火/斧</div><div>★5 レオニード（ドラフェスVer.）：火/銃（機関銃モード）</div><div><br></div><div>■ドラゴン</div><div>★5 アグニブレイヴ（ドラフェスVer.）：火</div><div><br></div><div>【ドラガリアフェス開催期間】</div><div><span class="local_date" data-local_date="1651039200"></span> ～ <span class="local_date" data-local_date="1651471199"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/d43fb1d94098e078709c70f090273f21.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>742</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>聖都グラムスで自警団長を務める男。<br>『閃狼ガトフ』の異名で恐れられる元傭兵で<br>アローラス王とは旧知の仲。グラムスでは<br>貧しい者、身寄りのない者たちの面倒を見る<br>など、優しさと強さを併せ持つ。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/db70276619a06b302ebcc35f1ecf47682.png"></span>
+				<span>チャージブレード</span>
+			</dt>
+			<dd><div>【斧牙剛進】状態時<br>自身の二刀流ゲージを100％チャージする。<br><br>【剣爪乱舞】状態時<br>・スキルが「クリムゾンラッシュ」となり、効果が次のようになる。<br>直線上の敵にダメージを与え、「劫火」状態にする。<br>・スキル「アズールレイド」使用直後に使用した場合、スキルが「ダブルフレイム」となり、効果が次のようになる。<br>直線上の敵にダメージを与え、「劫火」状態にし、【防御力ダウン】を付与する。</div><div class="skill-detail">（斧牙剛進）<br>必要スキルポイント：10,450<br><br>（剣爪乱舞）<br>威力：405 × 4 Hit<br>必要スキルポイント：2,240<br>特殊効果<br>・劫火<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6<br><br>（変化後）<br>威力：584 × 4 Hit<br>必要スキルポイント：2,240<br>特殊効果<br>・防御力5％ダウン<br>　効果時間：10 秒<br>　効果量：5％<br>　重複不可<br>・劫火<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b8bc4d0fe334e827bb7fae18c5ca21d62.png"></span>
+				<span>カウンターファング</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>【斧牙剛進】状態時<br>・一定時間構え、その間自身に【ダメージカット】を付与し、攻撃でのけぞらなくなる。<br>・構え中に攻撃を受けた場合（一部の攻撃を除く）、周囲の敵にダメージを与え、バフを1つ解除し、スキル「チャージブレード」を即時発動可能にする。このスキルに超やる気の効果は発動せず、またスキル使用中に受けたダメージの50％を回復する。<br>・構え中に攻撃を受けなかった場合、このスキルを再度発動可能にする。<br><br>【剣爪乱舞】状態時<br>・スキルが「アズールレイド」となり、効果が次のようになる。<br>周囲の敵にダメージを与え、バフを1つ解除する。<br>・スキル「クリムゾンラッシュ」使用直後に使用した場合、スキルが「デュアルデモリション」となり、効果が次のようになる。<br>周囲の敵にダメージを与え、バフを1つ解除する。</div><div class="skill-detail">（斧牙剛進）<br>威力：418 × 6 Hit<br>必要スキルポイント：3,120<br>特殊効果<br>・バフ解除<br>・ダメージ50％カット<br>　重複不可<br><br>（剣爪乱舞）<br>威力：254 × 7 Hit<br>必要スキルポイント：2,240<br>特殊効果<br>・バフ解除<br><br>（変化後）<br>威力：421 × 8 Hit<br>必要スキルポイント：2,240<br>必要シェアスキルポイント：12,544<br>特殊効果<br>・バフ解除</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d78aff22949d45baac014f570ce39bcd2.png"></span>
+				<span>HP＋10％＆防御力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のHPが10％アップし、防御力が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【火】回避：攻撃回避で攻＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性なら攻撃を回避したとき、【15秒間、攻撃力を10％アップするバフ】が発動。<br>この効果は発動してから15秒間は発動しない。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cbd90a2cfa2d4d09289458f70c6714262.png"></span><span>二刀の心得Ⅱ</span></dt><dd><div>①クエスト開始時、【斧牙剛進】状態になり、スキル2を即時発動可能にする。<br>②二刀流ゲージを追加する。二刀流ゲージが満タンになると、【剣爪乱舞】状態に変化。二刀流ゲージが時間経過で減少するようになり、0になるまで以下の効果を得る。<br>・【剣爪乱舞】状態になったとき、スキル1とスキル2を即時発動可能にする。<br>・自身に【リアクション無効】バフを付与する。<br>・バーストアタックが変化。周囲の敵にダメージを与えるものになる。<br>・通常攻撃、スキル1、スキル2が変化する。<br>・二刀流ゲージが0になると【剣爪乱舞】状態が解除され、スキル1とスキル2のゲージを0にし、【斧牙剛進】状態に戻る。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea4c47784ca6465117276eb2a3d9a0d92.png"></span><span>不撓の精神Ⅱ</span></dt><dd><div>「気絶」、「睡眠」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/370c33c0e68c950bdaa4ced8721cad5f2.png"></span><span>王護の決意Ⅱ</span></dt><dd><div>・スキル1を使用するたび、自身に防御力アップのオーラ（バーストオーラ上限Lv3）を付与する。この効果は発動してから20秒間は発動しない。<br>・【剣爪乱舞】状態で通常攻撃のコンボの7段目を行った場合、次に使用するスキル「ダブルフレイム」またはスキル「デュアルデモリション」の威力が15％アップする。この効果は重複しない。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e02909420291be169c0b29867f73fcd8.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,499</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>使用可能モード</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/4805e47916f093eb2b9049cff29e9eb72.png"><img src="https://dragalialost.akamaized.net/attached/information/images/d45c68ecb3b1d88cba2136c949f214772.png"><img src="https://dragalialost.akamaized.net/attached/information/images/1f0f10277cfc223cafe9e19e2d15434d2.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>アルべリア王国の第一位王子。<br>ドラゴンに管理された世界から脱却すべく、<br>南グラスティア大陸のみならず、世界全土の<br>統一を目指す。決意の証である紅蓮の衣を<br>身に纏い、今日も我が道を突き進む。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/775392a8a09a554df496b2a54960c3e62.png"></span>
+				<span>ルーラーズバレット</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、「劫火」状態にする。</div><div class="skill-detail">威力：100 × 18 Hit<br>必要スキルポイント：3,780<br>必要シェアスキルポイント：7,975<br>特殊効果<br>・劫火<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d06b5882930f12e76cbac51669f220ff2.png"></span>
+				<span>ドミネイトワールド</span>
+			</dt>
+			<dd><div>自身に【ラディカルマナー】を付与し、周囲の敵にダメージを与え、バフを1つ解除する。<br>【ラディカルマナー】は効果時間中に再度【ラディカルマナー】が付与される事でレベルアップし、効果が強化される。<br>【ラディカルマナー】は効果時間が過ぎるとレベルダウンし、Lv1のときにレベルダウンすると解除される。<br>Lv1：40秒間、ダメージを10％カットする。<br>Lv2：40秒間、攻撃力が5％アップし、ダメージを10％カットする。<br>Lv3：40秒間、攻撃力が5％アップし、ダメージを15％カットする。<br>Lv4：40秒間、攻撃力が10％アップし、ダメージを20％カットする。<br>Lv5：クエスト中、攻撃力が10％アップし、ダメージを20％カットする。</div><div class="skill-detail">威力：300 × 7 Hit<br>必要スキルポイント：7,560<br>特殊効果<br>・バフ解除<br>・ラディカルマナー<br>　効果時間：40 秒<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>ゲージブレイク＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のモードゲージの減少量が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span>
+				<span>【火】連撃：連撃で竜化チャージⅤ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性なら攻撃が50ヒットするたびに竜化ゲージが3％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/054d33d79920a0e51bbbb11909b08bf92.png"></span><span>制覇せし竜の血Ⅱ</span></dt><dd><div>装備しているドラゴンに関わらずマーズに竜化する。<br>自身に【ラディカルマナーLv5】が付与されているとき、竜化時間が半減し、竜化による竜化ゲージの消費量が50％ダウンする。<br>この効果が発動している状態で竜化すると、<br>竜化が解除されたとき、【ラディカルマナーLv5】が解除される。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea4c47784ca6465117276eb2a3d9a0d92.png"></span><span>覇者の意志Ⅱ</span></dt><dd><div>「気絶」、「睡眠」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/62ec54c3111dcff5d7c6fadf0c9e0ae92.png"></span><span>バーンアウトⅡ</span></dt><dd><div>「劫火」状態の敵に与えるダメージが30％、オーバードライブ中の敵に与えるダメージが10％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e22ee379c8f7dca88a22189ad557c37a.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>炎帝と呼ばれた貪欲なドラゴン・アグニが<br>生まれ変わった姿。平和な世界を求める者の<br>心に共鳴し、身を蝕む瘴気から解放された。<br>すべてを喰らい尽くさんとする貪欲さは<br>以前以上に燃え滾り、万物を灰燼へ帰す。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>ブレイズインベイジョン</span>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、「劫火」状態にする。ブレイク中の敵にはダメージがダウンする。<br>スキル使用中でなく、敵をターゲットしているときに竜化時間が0になった場合、このスキルが自動で発動する。この効果はスキルゲージがチャージされていない状態でも発動する。</div><div class="skill-detail">威力：1,078 × 1 Hit<br>威力：1,470 × 1 Hit<br>特殊効果<br>・劫火<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6<br>特定状態へのダメージ倍率<br>・ブレイク：75％<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻撃力＋70％</span></dt><dd><div>装備キャラが火属性なら<br>装備キャラの攻撃力が70％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ba1d939f31aa624b013b900d03a48812.png"></span><span>【火】灼熱の滾りⅡ</span></dt><dd><div>装備キャラが火属性なら<br>竜化ゲージが10％上昇するたび、自身に【45秒間風属性と無属性の敵に対して攻撃したときダメージ倍率が30％アップするバフ】が発動。<br>この効果は重複せず、発動してから5秒間は発動しない。</div></dd></dl></div></div></div><div>※Lv100、上限解放4段階、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>,start_time:1650952800,update_time1649838884

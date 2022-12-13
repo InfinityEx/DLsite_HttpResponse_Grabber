@@ -1,0 +1,8 @@
+article_id:393
+category_name:イベント
+title_name:イベント「FIRE EMBLEM つながる世界」開催日決定！
+image_path:
+
+message:<div>イベント「FIRE EMBLEM つながる世界」の開催期間が決定しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/0723de402bd0101c4af8e8118d7bccc3.png"></div><div>■開催期間</div><div>2019年04月26日 メンテナンス終了後 ～ <span class="local_date" data-local_date="1557813599"></span></div><div><br></div><div>イベント開催まで、楽しみにお待ちください！</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1555038000; update_time1555029522

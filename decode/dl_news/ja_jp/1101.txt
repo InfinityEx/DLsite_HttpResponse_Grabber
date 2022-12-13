@@ -1,0 +1,8 @@
+article_id:1101
+category_name:お知らせ
+title_name:「ルヴ・トシュカトル叛逆戦 上級」における「ルヴ・トシュカトル」の行動に関する不具合について
+image_path:
+
+message:<div><span class="local_date" data-local_date="1579757400"></span> に実施したデータ更新の影響により、「ルヴ・トシュカトル叛逆戦 上級」にて、特定のタイミングにおける「ルヴ・トシュカトル」の行動が、想定とは異なる場合がある現象が発生しておりました。</div><div><br></div><div>本現象は、<span class="local_date" data-local_date="1582178400"></span> に実施したデータ更新にて解消しております。</div><div><br></div><div>不具合が発生していたことへのお詫びとして、<span class="local_date" data-local_date="1582178400"></span>までにゲームを開始されたプレイヤーの皆様に、下記のアイテムを順次お送りいたします。</div><div><br></div><div>・竜輝晶 150個</div><div><br></div><div>お送りしたアイテムは、「プレゼント」からお受け取りいただけます。</div><div>お送りしたアイテムの受け取り期限は、「プレゼント」にアイテムが送られてから7日間です。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div>
+
+start_time:1582178400; update_time1582161364

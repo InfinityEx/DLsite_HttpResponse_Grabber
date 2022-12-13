@@ -1,0 +1,154 @@
+article_id:2152
+category_name:お知らせ
+title_name:「プライズレジェンド召喚」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1620021600"></span>から、「プライズレジェンド召喚」を開催中！</div><div>「プライズレジェンド召喚」では、ピックアップ対象のキャラ・ドラゴンの提供割合がアップします。</div><div><br></div><div>「プライズレジェンド召喚」を行うと、召喚で出現するキャラ・ドラゴンに加えて「プライズ」も獲得できます。</div><div>プライズはプラチナ賞、金賞、銀賞、銅賞、5等、6等の6種類があります。</div><div>「10回召喚」を行った場合の10回目のプライズは、プラチナ賞、金賞、銀賞、銅賞のいずれかが確定で獲得できます。</div><div><span style="color: rgb(226, 80, 65);">獲得したプライズは、プレゼントの「期限なし」に送られます。</span></div><div><br></div><div>※召喚チケットを1度に10枚使用しても、「10回召喚」とは異なり、10回目のプライズで、プラチナ賞、金賞、銀賞、銅賞のいずれかが確定で獲得できるわけではありません。</div><div>※プライズの一覧と提供割合は「プライズレジェンド召喚」開催中に、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「プライズ」からご確認ください。</div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 グリームニル：風/槍</div><div><br></div><div>■ドラゴン</div><div>★5 ローズクイーン：風</div><div><br></div><div>【プライズレジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1620021600"></span> ～ <span class="local_date" data-local_date="1620885599"></span></div><div><br></div><div>新規で追加されるピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6f621d55a4f5b2d81f0dba6e22e70fb1.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>751</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>509</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>『因果の守護者』に従う軍神を名乗る青年。<br>詩集や物語に影響されてか芝居がかった<br>言動が多いが、根は素直で明るい。<br>風を操る強大な力を持ち、時に人間離れ<br>した業を見せることもある謎めいた存在。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5e860879725eadcd3d3e55ebf6e30bcb2.png"></span>
+				<span>エターナルストリーム</span>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、「裂風」状態にする。<br>自身に【ラストストームLv5】が付与されているとき、性能が変化する。</div><div class="skill-detail">威力：935 × 1 Hit<br>威力：312 × 3 Hit<br>必要スキルポイント：2,940<br>特殊効果<br>・裂風<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41<br><br>（変化後）<br>威力：125 × 8 Hit<br>威力：500 × 2 Hit<br>必要スキルポイント：2,940<br>特殊効果<br>・裂風<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/273770323173fe0ea126abaf18c1b2352.png"></span>
+				<span>フルストリームテンペスト</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>複数の攻撃対象とその周囲の敵にダメージを与える。<br>攻撃時に敵を引き寄せる。</div><div class="skill-detail">威力：300 × 9 Hit<br>必要スキルポイント：8,640<br>必要シェアスキルポイント：14,688<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のHPが15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span>
+				<span>【風】連撃：ヒット数継続時間延長Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが風属性なら攻撃が最後にヒットしてからヒット数がリセットされるまでの時間を2.5秒延長する。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/2ec3e30d1d11cd4a58c28c7b039015582.png"></span><span>我が腕に秘められし禁断の力Ⅱ</span></dt><dd><div>攻撃が100ヒットする、または敵を5体倒すたびに<br>自身に【ラストストーム】バフを付与する。<br>【ラストストーム】はレベルアップする。<br>Lv1：60秒間、攻撃の威力が15％アップする。<br>Lv2：60秒間、攻撃の威力が20％アップする。<br>Lv3：60秒間、攻撃の威力が25％アップする。<br>Lv4：60秒間、攻撃の威力が30％アップする。<br>Lv5：60秒間、攻撃の威力が50％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>凍結耐性＋100％</span></dt><dd><div>「凍結」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span><span>エンドテンペストⅡ</span></dt><dd><div>攻撃が最後にヒットしてからヒット数がリセットされるまでの時間を2秒延長する。<br>自身に【ラストストームLv5】が付与されているとき、周囲の敵にダメージを与える竜巻を展開する。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7149930161cb569346b2a3bb801f1af0.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>自らの美しさを何よりの誇りとする、女王の<br>如き高貴な性格の、妖艶なドラゴン。<br>薔薇と茨を司り、植物を自在に操ることが<br>可能で、とある森の周囲に茨を張り巡らし<br>何人も立ち入らぬよう守護している。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>ダーティ・ローズ</span>
+			</dt>
+			<dd><div>周囲の敵にダメージを与え、ローズサーヴァントを5つ召喚する。<br>ローズサーヴァントは10秒間周囲の敵にダメージを与え、ダメージを与え終えると枯れた状態になる。<br>枯れたローズサーヴァントを破壊すると破壊したキャラのHPが回復し、敵を5体倒したものとしてカウントする。<br>枯れたローズサーヴァントは10秒で消滅する。</div><div class="skill-detail">威力：288 × 8 Hit<br>威力：50 × 25 Hit<br>回復力：10 × 5</div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【風】攻撃力＋70％</span></dt><dd><div>装備キャラが風属性なら<br>装備キャラの攻撃力が70％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【風】獅子奮迅・攻＋2％</span></dt><dd><div>装備キャラが風属性なら<br>敵を5体倒すたびに【攻撃力が2％アップするバフ】が発動する。<br>この効果は1クエスト5回まで発動する。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. プライズの一覧と提供割合は、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「プライズ」からご確認ください。</div><div>3. 「10回召喚」や召喚チケットを1度に10枚使用して獲得したアイテムが重複した場合、アイテムごとに個数をまとめて「期限なし」のプレゼントに送られます。</div><div>4. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1620021600; update_time1619573463

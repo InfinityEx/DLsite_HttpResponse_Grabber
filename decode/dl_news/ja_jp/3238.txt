@@ -1,0 +1,8 @@
+article_id:3238
+category_name:お知らせ
+title_name:メインストーリーに第25章「人と竜の契約の証」の前半を追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/162d180b6320d7c13321c0145bc0422d.png
+
+message:<div><span class="local_date" data-local_date="1650866400"></span>から、メインストーリーに第25章「人と竜の契約の証」前半を追加しました！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/162d180b6320d7c13321c0145bc0422d.png"></div><div>創世の力を得るための試練に挑む巫女たち。</div><div>一方、世界の破壊をもくろむゼノスたちとの戦いの中、</div><div>王子は新たなる世界の繭を目にする。それは、数多の</div><div>世界を犠牲として生まれようとする世界。それに</div><div>抗う術を持っていたのは、無垢なる心だった――。</div><div><br></div><div>最新章をお楽しみください！</div><div><br></div><div>■注意事項</div><div>1. メインストーリー第25章「人と竜の契約の証」前半は、メインストーリー第24章 5-6「女神の切り札」をクリアすると解放されます。</div><div>2. 今回の前半追加と併せて、新たに「竜玉」を使用して上限解放できるドラゴンの追加はございませんが、獲得できるドラゴンの「竜玉」、現在の所持数、残り獲得回数、および「竜玉」が獲得できるクエストは、メインストーリー各章のエリアマップ内に表示される「竜玉」アイコンから確認できます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1650866400; update_time1650851352

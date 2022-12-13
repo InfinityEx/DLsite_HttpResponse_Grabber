@@ -1,0 +1,8 @@
+article_id:2046
+category_name:お知らせ
+title_name:「モルトメサイア大討滅戦」の不具合について
+image_path:
+
+message:<div><span class="local_date" data-local_date="1615442400"></span>以降、下記不具合を確認しております。</div><div><br></div><div>・「防衛戦 超級」などのクエストスキルが使用できるクエストをプレイした後に、「モルトメサイア大討滅戦」をプレイすると、防衛戦のクエストスキルが表示され、発動ができない。</div><div><br></div><div>本不具合は、アプリの再起動を行うことで解消されます。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div>
+
+start_time:1615460700; update_time1615513052

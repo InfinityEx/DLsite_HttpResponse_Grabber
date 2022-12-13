@@ -1,0 +1,8 @@
+article_id:2363
+category_name:イベント
+title_name:期間限定育成イベント「栄光へ至る道」開催！
+image_path:https://dragalialost.akamaized.net/attached/information/images/10356776740587abd284e8841991ed27.png
+
+message:<div><span class="local_date" data-local_date="1626674400"></span>から、期間限定育成イベント「栄光へ至る道」を開催中です！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/10356776740587abd284e8841991ed27.png"></div><div>■イベント期間</div><div><span class="local_date" data-local_date="1626674400"></span> ～ <span class="local_date" data-local_date="1627624799"></span></div><div><br></div><div>■イベント概要</div><div>「栄光へ至る道」は、イベント限定のクエストをプレイしてドロップ報酬を獲得するイベントです。</div><div>「栄光へ至る道」には、下記の2つのクエストがあります。</div><div><br></div><div>・「躍進へ至る道」</div><div>駆け回るファフニールたちと戦い、キャラ・武器・ドラゴン・竜輝の護符の強化に使用する強化マテリアルを獲得できるクエストです。</div><div>キャラや竜輝の護符などの強化を進めたいプレイヤーにおすすめです。</div><div><br></div><div>・「宝貨へ至る道」</div><div>押し寄せてくるゴールドスライムたちと戦い、「ルピ」を獲得できるクエストです。</div><div>とにかく「ルピ」を集めたいプレイヤーにおすすめです。</div><div><br></div><div>■注意事項</div><div>1. イベントクエスト参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。</div><div>2. マルチプレイ参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。</div><div>3. クエスト中にイベント期間が終了した場合、勝敗が決まるまでバトルが行われます。バトルの勝敗に応じた報酬も獲得できます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1626674400; update_time1626249204

@@ -1,0 +1,8 @@
+article_id:16
+category_name:お知らせ
+title_name:初イベント開催記念プレゼント！
+image_path:
+
+message:<div>『ドラガリアロスト』をプレイしていただき、ありがとうございます。</div><div><br></div><div>『ドラガリアロスト』の初イベント「忠竜が願うは果てし王の魂葬」を<span class="local_date" data-local_date="1538632800"></span>から開始いたしました。</div><div>初イベント開催の記念として、下記のアイテムをプレイヤーの皆様にお送りいたしました。</div><div>「忠竜が願うは果てし王の魂葬」の冒険にぜひお役立てください！</div><div><br></div><div>■プレゼント内容</div><div>・10回召喚チケット 1枚</div><div>・高級はちみつ 3個</div><div>・霊鳥の聖灰 6個</div><div><br></div><div>■受け取り対象者</div><div><span class="local_date" data-local_date="1539583199"></span>までに『ドラガリアロスト』をプレイされている皆様</div><div><br></div><div>■受け取り方法</div><div>「マイページ」の「プレゼント」からお受け取りください。</div><div>「プレゼント」に届いていない場合は、タイトル画面に戻って再度「マイページ」の「プレゼント」をご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1538632800; update_time1540519212

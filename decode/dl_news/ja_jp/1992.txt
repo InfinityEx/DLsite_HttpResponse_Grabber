@@ -1,0 +1,8 @@
+article_id:1992
+category_name:お知らせ
+title_name:メインストーリーに第18章「妖精たちの森」前半の追加が決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/b11217d188bd22e1e94fb6a728061865.png
+
+message:<div><span class="local_date" data-local_date="1613628000"></span>から、メインストーリーに第18章「妖精たちの森」前半の追加が決定しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/b11217d188bd22e1e94fb6a728061865.png"></div><div><br></div><div>また、メインストーリー第18章「妖精たちの森」の予告PVを公開いたしました。</div><div>下記のページからご覧ください。</div><div><br></div><div>▼『ドラガリアロスト』公式YouTube Channel メインストーリー第18章「妖精たちの森」予告PV</div><div><a href="https://youtu.be/mpKfeK25OQY">https://youtu.be/mpKfeK25OQY</a></div><div><br></div><div>最新章をご期待ください！</div><div><br></div><div>■注意事項</div><div>メインストーリー第18章「妖精たちの森」前半は、メインストーリー第17章 5-4「妖精たちの場所」をクリアすると解放されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1613455200; update_time1613371491

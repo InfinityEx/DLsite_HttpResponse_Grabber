@@ -1,0 +1,115 @@
+article_id:1660
+category_name:お知らせ
+title_name:「プライズレジェンド召喚」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1601877600"></span>から、「プライズレジェンド召喚」の開催を予定しております。</div><div><br></div><div>「プライズレジェンド召喚」では、ピックアップ対象のキャラの提供割合がアップします。</div><div>「プライズレジェンド召喚」を行うと、召喚で出現するキャラ・ドラゴンに加えて「プライズ」も獲得できます。</div><div><br></div><div>プライズはプラチナ賞、金賞、銀賞、銅賞、5等、6等の6種類があります。</div><div>「10回召喚」を行った場合の10回目のプライズは、プラチナ賞、金賞、銀賞、銅賞のいずれかが確定で獲得できます。</div><div><span style="color: rgb(226, 80, 65);">獲得したプライズは、プレゼントの「期限なし」に送られます。</span></div><div><br></div><div>※召喚チケットを1度に10枚使用しても、『10回召喚』とは異なり、10回目のプライズで、プラチナ賞、金賞、銀賞、銅賞のいずれかが確定で獲得できるわけではありません。</div><div>※プライズの一覧と提供割合は「プライズレジェンド召喚」開催中に、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「プライズ」からご確認ください。</div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 イリア：光/銃（長銃モード）<br>※長銃モードは、射程が長く、遠距離攻撃が得意なモードです。</div><div><br></div><div>【プライズレジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1601877600"></span> ～ <span class="local_date" data-local_date="1602482399"></span></div><div><br></div><div>プライズの一部を、下記にてご紹介いたします。</div><div><br></div><div>【プライズ一覧の一部】</div><div>■プラチナ賞</div><div>プラチナ賞が排出された場合、下記の中から提供割合に基づいて1種類が獲得できます。</div><div>・金剛晶 1個</div><div>・ダマスカス鋼 1個</div><div>・アダマント 1個</div><div><br></div><div>■金賞</div><div>金賞が排出された場合、下記の中から提供割合に基づいて1種類が獲得できます。</div><div>・金剛原石 3個</div><div>・英雄の証 2個</div><div>・夢想の聖鍵 2個</div><div>・星空の煌めき 7個</div><div><br></div><div>■銀賞</div><div>銀賞が排出された場合、下記の中から提供割合に基づいて1種類が獲得できます。</div><div>・英雄の証 1個</div><div>・金剛原石 1個</div><div>・星空の煌めき 3個</div><div>・ダマスカス骸晶 2個</div><div>・月光晶 2個</div><div>・騎士の証 2個</div><div>・真なる輝竜の尾 3個</div><div>・輝竜のブレイヴスフィア 5個</div><div>・虹のオーブ 3個</div><div>・金燐光のオーブ 5個</div><div><br></div><div>新規で追加されるピックアップ対象のキャラを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e5ba78cc6ba9c64e5b3310664dc63bc7.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>使用可能モード</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/48f0cf6b6186ad0c7fa467c24cc47eea2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/b8a3b3884cac48715702c5bf401cd8b22.png"><img src="https://dragalialost.akamaized.net/attached/information/images/26f43aab3c39a2bcdadd1b40dd88e7402.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>類い稀な才能を持つ錬金術師。その腕は<br>不可能とされていた『異界の鍵』の錬成に<br>成功するほど。軍に両親を殺され、妖精に<br>育てられた。彼女は自由に生きたいと願うが<br>世界はその天賦の才を放っておかない。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/775392a8a09a554df496b2a54960c3e62.png"></span>
+				<span>ドライブバスター</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					ターゲットに光属性のダメージを与え、「閃熱」状態にする。<br>【マルチターゲット】スキルは複数の敵をターゲットできる。<br>【アルケミーカートリッジ】が1つ以上あるとき、このスキルは次のようになる。<br>直線上の敵に光属性のダメージを与え、「閃熱」状態にする。<br>【アルケミーカートリッジ】を1つ消費する。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>アルケミックエンハンスメント</span>
+			</dt>
+			<dd>
+				<div>
+					チャージされている【アルケミーゲージ】の本数に応じて、自身に20秒間【アルケミーカートリッジ】を付与する。<br>この効果中はバーストアタックで【コレクトアンサー】が発射される。<br>【コレクトアンサー】は全ての【アルケミーカートリッジ】を消費し、その数に応じてヒット数がアップする。<br>このスキルは【アルケミーゲージ】が1本以上チャージされている間のみ使用可能。<br>【アルケミーカートリッジ】が1つ以上あるとき、このスキルは次のようになる。前方の敵に光属性のダメージを与える。<br>【アルケミーカートリッジ】を1つ消費する。<br>スキル習得時、【アルケミーゲージ】を追加する。<br>【アルケミーゲージ】は【アルケミーカートリッジ】が1つも付与されていない時、通常攻撃、回避攻撃、バーストアタックを敵にヒットさせるとチャージされる。<br>【アルケミーゲージ】はヒット数が30以上のときチャージ量がアップする。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>ゲージブレイク＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のモードゲージの減少量が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】連撃：10ヒット以上で耐闇＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性ならヒット数10以上のとき、【闇属性耐性が10％アップするバフ】が発動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3c27f8fc4d7206c65512f3f2c27c30762.png"></span><span>クローズアンサーⅡ</span></dt><dd><div>フリックして回避したとき、ターゲットに追加攻撃を行うようになる。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>ファインドアンサーⅡ</span></dt><dd><div>「毒」、「呪い」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>クリティカルアウトプットⅡ</span></dt><dd><div>【アルケミーカートリッジ】バフが時間経過以外によって解除されるとき、自身に【15秒間、クリティカル率を30％アップするバフ】が発動。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. プライズの一覧と提供割合は、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「プライズ」からご確認ください。</div><div>3. 「10回召喚」や召喚チケットを1度に10枚使用して獲得したアイテムが重複した場合、アイテムごとに個数をまとめて「期限なし」のプレゼントに送られます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1601791200; update_time1601632936

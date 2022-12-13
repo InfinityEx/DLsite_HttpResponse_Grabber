@@ -1,0 +1,192 @@
+article_id:3270
+category_name:お知らせ
+title_name:「ドラガリアフェス　エクストラ」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1650002400"></span>から、「ドラガリアフェス　エクストラ」を開催中です！</div><div><br></div><div>【ドラガリアフェスとは】 ※「ドラガリアフェス　エクストラ」含む</div><div>★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップします！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><span style="color: rgb(226, 80, 65);">※これまでの「ドラガリアフェス」で追加されたキャラ・ドラゴンも本召喚から登場する場合があります。登場するキャラ・ドラゴンの詳細はゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</span></div><div><br></div><div>【ピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 リーフ（軽装Ver.）：光/剣</div><div><br></div><div>【過去のドラガリアフェスから登場するピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 アスラム（ドラフェスVer.）：光/斧</div><div><br></div><div>【ドラガリアフェス　エクストラの提供割合】</div><div>★5 合計：6.00％</div><div>★5ピックアップ 合計：1.00％（キャラ：1.00％）</div><div>★5通常 合計：5.00％（キャラ：2.00％ ドラゴン：3.00％）</div><div>★4通常 合計：16.00％（キャラ：8.55％ ドラゴン：7.45％）</div><div>★3通常 合計：78.00％（キャラ：47.00％ ドラゴン：31.00％）</div><div><br></div><div>【ドラガリアフェス　エクストラ開催期間】</div><div><span class="local_date" data-local_date="1650002400"></span> ～ <span class="local_date" data-local_date="1650261599"></span></div><div><br></div><div>ピックアップ対象のキャラを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/831a5a4e1582f80bfb4659c443a1fdc3.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>白燕騎士団の団長という身分を隠すために、<br>私服を纏ったリーフ。鎧を脱いでも剣の腕や<br>忠誠心に変わりはなく、アルベリアに平和を<br>もたらす理想を叶えんと、主君の剣として<br>東奔西走する。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>ギャラントスワロウ</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、【属性攻撃力ダウン】を付与し、「麻痺」状態にする。</div><div class="skill-detail">威力：1,783 × 1 Hit<br>必要スキルポイント：3,150<br>必要シェアスキルポイント：7,654<br>特殊効果<br>・属性攻撃力10％ダウン<br>　効果時間：10 秒<br>　重複不可<br>・麻痺<br>　効果時間：13 秒<br>　効果間隔：3.9 秒<br>　威力：97<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd5464d0aeb6d41964c19ee25f922b922.png"></span>
+				<span>リストリクションラベッジ</span>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、【光属性耐性ダウン】を付与する。また、自身に攻撃力アップのオーラを付与する。</div><div class="skill-detail">威力：437 × 3 Hit<br>威力：817 × 1 Hit<br>必要スキルポイント：6,880<br>特殊効果<br>・光属性耐性5％ダウン<br>　効果時間：10 秒<br>　重複不可<br>オーラ付与<br>・攻撃力アップ（バーストオーラ上限Lv 2）<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>竜化ブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の竜化ゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span>
+				<span>【光】背水：ピンチでシールドⅥ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性ならHP40％以下のとき、【最大HPの50％以下のダメージを無効化するシールド】を付与する。<br>シールドの効果は1回のみで、同種のシールドとは重複しない。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b067970c0dc4794d8ad1ad07f3bd61ae2.png"></span><span>正義の誓いⅡ</span></dt><dd><div>・バーストアタックが変化。攻撃を二回行うものになり、後半の攻撃がヒットした敵を「切り傷」状態にする。また、バーストアタックのチャージと攻撃中、攻撃でのけぞらなくなる。<br>・バーストアタックで与えるダメージが20％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>毒耐性＋100％</span></dt><dd><div>「毒」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/83bd9c8302b087a508daec2a8fc9b2cf2.png"></span><span>デバフスキル時間＋20％</span></dt><dd><div>使用するデバフスキルの効果時間が20％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b261e9e38fb6a403866cfe647ea0a86b.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>747</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>515</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,502</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>厳しくも暖かい目で王子を見守る戦士。<br>多くの罪を背負い、その贖罪のために<br>人知れず戦い続けていた。かつてやり残した<br>ことを果たすため、王子の力となる<br>決意を新たにする。その正体は……。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/15cd4b50f9bd4f1724b4b253ecd3b0872.png"></span>
+				<span>オーバー・ザ・カルマ</span>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、「閃熱」状態にし、バフを1つ解除する。スキル使用後一定時間【スキルチェイン】が発生し、スキルの効果が変化する。</div><div class="skill-detail">威力：390 × 3 Hit<br>必要スキルポイント：1,129<br>特殊効果<br>・バフ解除<br>・閃熱<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6<br><br>（スキルチェイン時）<br>威力：390 × 3 Hit<br>必要スキルポイント：1,129<br>特殊効果<br>・バフ解除<br>特定状態へのダメージ倍率<br>・閃熱：120％<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/475e5a54b864ac4342ef8e38afb97ff42.png"></span>
+				<span>グロリアスクラウン</span>
+			</dt>
+			<dd><div>前方の敵にダメージを与える。スキル使用後一定時間【スキルチェイン】が発生し、スキルの効果が変化する。</div><div class="skill-detail">威力：793 × 2 Hit<br>必要スキルポイント：1,129<br><br>（スキルチェイン時）<br>威力：793 × 2 Hit<br>必要スキルポイント：1,129<br>特定状態へのダメージ倍率<br>・閃熱：120％<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span>
+				<span>クリティカルダメージ＋30％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のクリティカル時のダメージ倍率が30％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>【光】防御力＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性なら防御力が6％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/54b7cd9fc4bbf8d4a28aa3bb2df3b1852.png"></span><span>未来への遺志Ⅱ</span></dt><dd><div>通常攻撃やバーストアタックを敵に当てることで最大3段階まで溜まる「SPゲージ」を追加し、自身のスキルを使用するたび自身の攻撃速度を2％（最大10％）アップする。また、自身のスキルを2回使用するたび自身に防御力アップのオーラ（バーストオーラ上限Lv3）を付与する。オーラを付与する効果は発動してから30秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>異天の加護Ⅱ</span></dt><dd><div>「毒」、「呪い」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span><span>ゲージブレイク＋35％</span></dt><dd><div>モードゲージの減少量が35％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1650002400; update_time1648549302

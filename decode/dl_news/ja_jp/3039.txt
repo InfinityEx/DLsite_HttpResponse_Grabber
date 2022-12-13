@@ -1,0 +1,8 @@
+article_id:3039
+category_name:イベント
+title_name:イベント予告「神竜降臨」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/761c1ff3722a7b3e0c0e258c63384015.png
+
+message:<div><span class="local_date" data-local_date="1648620000"></span>から、レイドイベント「神竜降臨」の開催を予定しております。<br>「神竜降臨」は、無属性のレイドボスとマルチプレイで戦うイベントです。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/761c1ff3722a7b3e0c0e258c63384015.png"></div><div>イベントテーマ曲：「Destiny / 宮原ひとみ &times; 渡辺ほのか」<br><br>■イベント期間<br><span class="local_date" data-local_date="1648620000"></span> ～ <span class="local_date" data-local_date="1650002399"></span></div><div><br>■注意事項<br>1. イベントクエスト参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br>2. マルチプレイ参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1648360800; update_time1647418779

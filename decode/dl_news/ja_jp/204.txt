@@ -1,0 +1,196 @@
+article_id:204
+category_name:お知らせ
+title_name:レジェンド召喚「燦々たる夢の天幕」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1547532000"></span>から、レジェンド召喚「燦々たる夢の天幕」を開催中！</div><div><br></div><div>ピックアップ対象のキャラ・ドラゴン・竜輝の護符の提供割合がアップ中です。</div><div><br></div><div>【ピックアップのキャラ・ドラゴン・竜輝の護符】</div><div><br></div><div>■キャラ</div><div>「アンネリーエ（光/槍）」、「フリッツ（光/短剣）」、「マーティ（火/剣）」</div><div>■ドラゴン</div><div>「ライガ（光）」</div><div>■竜輝の護符</div><div>「ドラゴンサーカス」、「ベストパフォーマンス」、「地道な活動」、「輝ける場所」</div><div><br></div><div>※その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」からご確認ください。</div><div><br></div><div>【レジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1547532000"></span> ～ <span class="local_date" data-local_date="1548914340"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴン・竜輝の護符の一部を、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップキャラ紹介】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/62b5799c9acd6987b42de2c73448b8d9.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>80</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/960c7daac545c22ad02e9e69f39f670e2.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>793</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>483</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>2516</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">キャラ詳細</div>
+			<div class="param">
+				<ul>
+					<li>グラスティア大陸を巡るサーカス団の団長。<br>ドラゴンを操るドラゴンテイマー。<br>可憐な姿で獰猛なドラゴンを従えるショーは<br>見る者を魅了する。誰かに感謝するときは<br>つい頬にキスしてしまうクセがある。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7823c5dc5d663b88dd98604b790690602.png"></span>
+				<span>グリッターサーカス</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に光属性のダメージを与え、「気絶」状態にする。攻撃時、敵を引き寄せる。敵にヒットさせると【スキルシフト】が発生し効果が変化する。初期状態：自身の【やる気】を1段階アップする。シフト1：自身の【やる気】を2段階アップする。シフト2：ダメージがアップする。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f7c0f3ed34a67d5c1036624a3c9cf8bd2.png"></span>
+				<span>スマイル・フォー・ユー</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に光属性のダメージを与え、パーティ全員の【やる気】を2段階アップする。【やる気】は5段階アップすると【超やる気】になり、攻撃・回復スキルが強化される。【超やる気】は適用スキル使用時に解除される。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EXアビリティ</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のHPが15％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>HP70％でスキル＋35％</span></dt><dd><div>HP70％以上のとき、スキルのダメージが35％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>毒耐性＋100％</span></dt><dd><div>「毒」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>超やる気リンク・攻＋20％</span></dt><dd><div>超やる気が発動したとき、【15秒間攻撃力が20％アップするバフ】が発動する。</div></dd></dl></div></div></div><div>※最大Lv、マナサークル全解放時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/12a28bf73e96dd1528f2cc6682360f48.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>377</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>119</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>996</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">ドラゴン詳細</div>
+			<div class="param">
+				<ul>
+					<li>獣の如き雄々しい姿をしたドラゴン。<br>獰猛な外見ではあるが、その本質は<br>楽しいことが大好きな少年のそれである。<br>サーカスで愛嬌溢れる芸を披露する一方、<br>戦闘になれば、鋭い爪と牙で敵を一掃する。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5ffe297c2dacc6d6f3791df2a3c0ca062.png"></span>
+				<span>ブリッツブレイク</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に光属性のダメージを与え、「麻痺」状態にする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>【光】HP＆攻撃力＋30％</span></dt><dd><div>装備キャラが光属性なら<br>装備キャラのHPと攻撃力が30％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【ピックアップ竜輝の護符紹介】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/07412e69fed59a13dde3b6d36c8e0cb8.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>183</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>57</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>380</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【槍】スキルダメージ＋35％</span></dt><dd><div>装備キャラの武器種が槍なら<br>装備キャラの攻撃スキルのダメージが35％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span><span>闇属性耐性＋8％</span></dt><dd><div>闇属性のダメージを8％減少させる。</div></dd><dt class="event 20804"><span><img src="https://dragalialost.akamaized.net/attached/information/images/f42d666d8879553aa28a6205927b09f52.png"></span><span>知名度＋150％</span></dt><dd class="event 20804"><div>クエストクリア時に獲得する【知名度】が150％増加する。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放時のステータスです。入手時のステータスではありません。</div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/07e494db9dd0b7892dfdcddd5cd1c87e.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>176</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>65</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>381</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/fd589517c61c65312e1509e13a36cd412.png"></span><span>バーストダメージ＋40％</span></dt><dd><div>バーストアタックのダメージが40％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>クリティカルダメージ＋13％</span></dt><dd><div>クリティカル時のダメージ倍率が13％アップする。</div></dd><dt class="event 20804"><span><img src="https://dragalialost.akamaized.net/attached/information/images/f42d666d8879553aa28a6205927b09f52.png"></span><span>知名度＋150％</span></dt><dd class="event 20804"><div>クエストクリア時に獲得する【知名度】が150％増加する。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「召喚情報」タブ、または、「提供割合」内の「提供割合一覧」からご確認ください。</div><div>3. 開催期間および内容は、予告なく変更する場合があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1547532000; update_time1549012361

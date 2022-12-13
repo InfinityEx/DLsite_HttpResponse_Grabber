@@ -1,0 +1,243 @@
+article_id:3067
+category_name:お知らせ
+title_name:「レジェンド召喚」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1652680800"></span>から、「レジェンド召喚」を開催中！</div><div><span style="color: rgb(226, 80, 65);">※本召喚から登場するすべての★5キャラ・★5ドラゴンが「竜輝の印交換」の対象となります。詳細はゲーム内画面下メニューの「召喚」をタップし、召喚画面の「竜輝の印」からご確認ください。</span></div><div><br></div><div>【レジェンド召喚 開催期間】</div><div><span class="local_date" data-local_date="1652680800"></span> ～ <span class="local_date" data-local_date="1653890399"></span></div><div><br></div><div>「レジェンド召喚」から出現する★5キャラ・★5ドラゴンの一部を、下記にてご紹介いたします。</div><div><br></div><div>【★5キャラ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/9c82cae559e9a33f2d72187912aaacee.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>761</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>498</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>人の姿に変化した青竜マーキュリー。<br>心根の正しき人々と手を取り共に歩むため、<br>人をよく知ろうとその文化に興味を持つ。<br>姿が変われど守護竜の使命は変わらず、<br>平和を脅かす者には容赦をしない。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/80922336d78c6a339d07de68c524e4242.png"></span>
+				<span>レイジングオーシャン</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、「冷傷」状態にする。このスキルがヒットすると自身の竜化ゲージが上昇する。攻撃力アップのバーストオーラが付与されているとき、性能が変化する。</div><div class="skill-detail">威力：540 × 3 Hit<br>必要スキルポイント：2,800<br>特殊効果<br>・冷傷<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41<br>竜化ゲージ回復量：40<br><br>（変化後）<br>威力：600 × 4 Hit<br>必要スキルポイント：2,800<br>必要シェアスキルポイント：9,940<br>特殊効果<br>・冷傷<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41<br>竜化ゲージ回復量：50</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/965d37e14de2ff3025ebd071ceb568dd2.png"></span>
+				<span>ハイドロルイン</span>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、自身に攻撃力アップのオーラを付与する。竜化すると性能が変化する。</div><div class="skill-detail">威力：322 × 6 Hit<br>必要スキルポイント：8,000<br>オーラ付与<br>・攻撃力アップ（バーストオーラ上限Lv 2）<br><br>（変化後）<br>威力：322 × 9 Hit<br>必要スキルポイント：8,000<br>オーラ付与<br>・攻撃力アップ（バーストオーラ上限Lv 2）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>クリティカル率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のクリティカル確率が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span>
+				<span>【水】士気：攻勢士気・火傷耐性＋100％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが水属性なら攻撃力アップのバーストオーラが付与されているとき、「火傷」状態になる確率が100％ダウンする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/67e1d7b7a658af6624ecd3c0af03e0d52.png"></span><span>青竜発現Ⅱ</span></dt><dd><div>「ずぶぬれ」状態になる確率が100％ダウンする。装備しているドラゴンに関わらずマーキュリーに竜化する。竜化中のダメージ倍率が14％アップする。1クエスト中に2回以上竜化した場合は真マーキュリーに竜化する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>気絶耐性＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>バブルシールドⅡ</span></dt><dd><div>攻撃力アップのバーストオーラが付与されているとき、自身に【守護の泡】を付与する。<br>この効果は【守護の泡】が解除されてから10秒間は発動しない。<br>【守護の泡】は重複せず、以下の効果を持つ。<br>・最大HPの30％以下のダメージを無効化する特殊シールドの効果。このシールドの効果は1回のみで、通常のシールドと重複が可能。<br>・HPを継続回復する。<br>・攻撃を受けると解除される。<br>・攻撃力アップのバーストオーラが付与されていないと解除される。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f342999a084f15b9f562447e714a494f.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>517</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,502</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>人の姿に変化した輝竜ユピテル。<br>つまらない日常に刺激を求めた結果、<br>人の営みをより間近で観察することにした。<br>姿は変わっても享楽的な性格は相変わらずで<br>自分の言葉に狼狽する者らを見て愉悦する。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>サンダーストライク</span>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、「閃熱」状態にし、自身に攻撃力アップのオーラを付与する。この攻撃がヒットした敵に【雷気】が付与されていた場合、そのレベルに応じて追加ダメージを与え、レベルが最大なら解除する。</div><div class="skill-detail">威力：1,200 × 1 Hit<br>（雷気Lv1）<br>威力：300 × 1 Hit<br>（雷気Lv2）<br>威力：300 × 2 Hit<br>（雷気Lv3）<br>威力：300 × 3 Hit<br>（雷気Lv4）<br>威力：300 × 4 Hit<br>必要スキルポイント：2,640<br>特殊効果<br>・閃熱<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6<br>オーラ付与<br>・攻撃力アップ（バーストオーラ上限Lv 1）<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0b6e96a9297308fa346ed1059be779062.png"></span>
+				<span>スパークイグニション</span>
+			</dt>
+			<dd><div>一定時間構えた後、ターゲットに【雷気】を付与する。構え中にスキルによって回避可能な攻撃を受けた場合は、ターゲットと周囲の敵に【雷気Lv4】を付与する。</div><div class="skill-detail">必要スキルポイント：10,560<br>特殊効果<br>・雷気Lv1<br>　効果時間：60 秒<br>・雷気Lv4<br>　効果時間：15 秒<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻撃力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の攻撃力が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span>
+				<span>【光】士気：攻勢士気・呪い耐性＋100％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性なら攻撃力アップのバーストオーラが付与されているとき、「呪い」状態になる確率が100％ダウンする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a59180d889cf164d6560fdcbdc5d43a52.png"></span><span>輝竜発現Ⅱ</span></dt><dd><div>・「麻痺」状態になる確率が100％ダウンする。<br>・装備しているドラゴンに関わらずユピテルに竜化する。1クエスト中に2回以上竜化した場合は真ユピテルに竜化する。<br>・敵の攻撃を回避したとき、その攻撃を行った敵に【雷気】を付与し、自身に攻撃力アップのオーラ（バーストオーラ上限Lv1）を付与する。この効果は発動してから10秒間は発動しない。<br>【雷気】は最大Lv4までレベルアップし、解除されたとき付与されていた敵とその周囲にダメージを与える。レベルが上がるほどダメージを与える範囲と威力が強化され、最大レベルで解除されるとさらに「麻痺」、「気絶」を付与する。<br>Lv1：効果時間60秒<br>Lv2：効果時間45秒<br>Lv3：効果時間30秒<br>Lv4：効果時間15秒</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>毒耐性＋100％</span></dt><dd><div>「毒」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cb9a79af6cfdc75b0e5d4d610cfbe8c32.png"></span><span>エレクトリックハイⅡ</span></dt><dd><div>【雷気】が解除されたときに発生する攻撃の範囲内にいた場合、自身のHPが回復し、自身の竜化ゲージが20％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>【★5ドラゴン紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/abdfa6416c98a93d3256f89a64fcabd2.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>1000年前に生きた碧竜。第一次封魔戦争<br>では人とドラゴンの間に立ち、今世に続く<br>友和の道を模索した。その魂を次代へと譲り<br>生を終えた。高潔な魂を受け継ぐドラゴンが<br>世界のどこかに存在している。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>ラストテンペスト</span>
+			</dt>
+			<dd><div>周囲の敵に風属性のダメージを与え、クエスト中風属性耐性を10％ダウンさせる。この効果は重複しない。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>【風】HP＆攻撃力＋35％</span></dt><dd><div>装備キャラが風属性なら<br>装備キャラのHPと攻撃力が35％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【風】疾風怒濤・スキル＋70％</span></dt><dd><div>装備キャラが風属性ならヒット数15以上で、攻撃スキルのダメージが70％アップする。</div></dd></dl></div></div></div><div>※Lv100、上限解放4段階、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. 提供割合についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1652680800; update_time1647597893

@@ -1,0 +1,164 @@
+article_id:257
+category_name:お知らせ
+title_name:「ドラゴンレジェンド召喚」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1550815200"></span>から、「ドラゴンレジェンド召喚」を開催中！</div><div><br></div><div>ドラゴンレジェンド召喚は、ピックアップ対象の★5と★4ドラゴンの提供割合がアップ中です。</div><div>※ドラゴン以外に、★5と★4のキャラや竜輝の護符もピックアップします。</div><div><br></div><div>【ドラゴンレジェンド召喚の提供割合】</div><div>★5ピックアップ　合計：2%(キャラ：0.40%　ドラゴン：1.20%　竜輝の護符：0.40%)</div><div>★5通常　　　　合計：2%(キャラ：0.40%　ドラゴン：1.20%　竜輝の護符：0.40%)</div><div>★4ピックアップ　合計：7%(キャラ：1.25%　ドラゴン：4.50%　竜輝の護符：1.25%)</div><div>★4通常　　　　合計：9%(キャラ：3.07%　ドラゴン：3.95%　竜輝の護符：1.97%)</div><div>★3通常　　　　合計：80%(キャラ：33.75%　ドラゴン：28.50%　竜輝の護符：17.75%)</div><div><br></div><div>【ドラゴンレジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1550815200"></span> ～ <span class="local_date" data-local_date="1551333540"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴン・竜輝の護符の一部を、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/24ee5140ae394f61228a135c639b4b0c.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>369</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>127</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>996</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">ドラゴン詳細</div>
+			<div class="param">
+				<ul>
+					<li>炎の帝王。炎の性質を「すべてを呑み尽くす<br>貪欲なもの」と語り、人々に己の腹を満たす<br>貢ぎ物を要求する。威厳あるようにふるまう<br>が、内面はわがままな大食漢。しかし、供物<br>を捧げた人々のことは必ず守る。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cb241c1bff1c072c2b8450241b15c37b2.png"></span>
+				<span>ディヴァステーション</span>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に火属性のダメージを与える。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻撃力＋60％</span></dt><dd><div>装備キャラが火属性なら<br>装備キャラの攻撃力が60％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/bda951ff6befe9ac59f382b9251d3f4f.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>376</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>119</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>995</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">ドラゴン詳細</div>
+			<div class="param">
+				<ul>
+					<li>伝説の老竜。南グラスティア大陸周辺海域を<br>支配し、船乗りたちに崇拝されている。<br>豪放磊落な性格はゆるぎない自信の<br>あらわれ。冒険心あふれる若者を特に好み、<br>加護とおせっかいな助言を与える。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1f6d0bbf9a2503a371995eae39d200e32.png"></span>
+				<span>ポセイドントライデント</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に水属性のダメージを<br>与える。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>【水】HP＆攻撃力＋30％</span></dt><dd><div>装備キャラが水属性なら<br>装備キャラのHPと攻撃力が30％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e3320642a3e8c6722eca3c491000b512.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>369</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>126</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>995</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">ドラゴン詳細</div>
+			<div class="param">
+				<ul>
+					<li>平原の民の信仰を集めるドラゴン。<br>みずからを讃えるものを守り、みずからを<br>害するものには鉄槌をくわえる。その性格は<br>慎重で、とても用心深い。どんな小さな<br>ものであれ、己が脅威をけっして許さない。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3b8c6f3c96c407cfbd6115f294a01def2.png"></span>
+				<span>ワキヤンラス</span>
+			</dt>
+			<dd>
+				<div>
+					周囲の敵に風属性ダメージを与え<br>「気絶」状態にする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【風】攻撃力＋60％</span></dt><dd><div>装備キャラが風属性なら<br>装備キャラの攻撃力が60％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>そのほかのピックアップ対象のキャラ・ドラゴン・竜輝の護符は下記のとおりです。</div><div>キャラ：★5ミコト、★4ヴァネッサ</div><div>ドラゴン：★4イフリート、★4ポリアフ、★4ジャガーノート</div><div>竜輝の護符：★5天才の閃き、★4この身は影となりて</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「召喚情報」タブ、または、「提供割合」内の「提供割合一覧」からご確認ください。</div><div>3. 開催期間および内容は、予告なく変更する場合があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1550815200; update_time1550812339

@@ -1,0 +1,8 @@
+article_id:114
+category_name:お知らせ
+title_name:真ミドガルズオルムの「ストームチェイサー」の不具合について【追記】
+image_path:
+
+message:<div>バージョン1.2.0にて、「真ミドガルズオルムの試練」で真ミドガルズオルムの「ストームチェイサー」の攻撃が本来よりも多くヒットする不具合が発生していることを確認しております。</div><div>※本現象は以前にも発生しており、バージョン1.1.5にて修正された現象でした。</div><div><br></div><div>現在、原因の調査を行っております。</div><div>進捗があり次第、本お知らせにてご案内いたします。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1543303800"></span> 追記</strong></span><br>本不具合の修正は、アプリのアップデートが必要なことが判明いたしました。<br>次回アップデートにて修正を行うため、開発を行っております。<br>本不具合の修正に伴い、<span class="local_date" data-local_date="1543374000"></span>に予定しておりましたバージョン1.2.0の強制アップデートを取りやめます。<br><br><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1543469400"></span>追記</strong></span><br>本不具合は、ver.1.2.1にて、修正いたしました。<br><br>本不具合のお詫びとして、<span class="local_date" data-local_date="1543546800"></span>までにゲームを開始されたプレイヤーの皆様に、下記のアイテムを順次お送りいたします。<br><br>・竜輝晶300個<br><br>お詫びとしてお送りした竜輝晶は、「プレゼント」からお受け取りいただけます。<br>本件のお詫びの品は、<span class="local_date" data-local_date="1544151540"></span>までにゲームにログインした際に受け取れます。<br>本件の竜輝晶の受取期限は、プレゼントに竜輝晶が送られてから7日間です。<br><br>プレイヤーの皆様には、ご迷惑をおかけしましたことを重ねてお詫び申し上げます。</div>
+
+start_time:1543231500; update_time1543909958

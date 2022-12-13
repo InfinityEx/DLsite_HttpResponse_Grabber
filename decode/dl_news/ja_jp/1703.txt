@@ -1,0 +1,8 @@
+article_id:1703
+category_name:イベント
+title_name:ストーリーイベント【復刻】 「シャドウ・オーバー・メイデン」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/94bcf1347f3bde1332393f6a252e7500.png
+
+message:<div><span class="local_date" data-local_date="1603087200"></span>から、ストーリーイベント【復刻】「シャドウ・オーバー・メイデン」の開催を予定しております。<br><br>ストーリーイベント【復刻】「シャドウ・オーバー・メイデン」は、メインクエストや各イベントクエストをクリアして獲得したイベントアイテムで、特別なストーリーを解放していくイベントです。<br><br>「シャドウ・オーバー・メイデン」のストーリーには、施設イベント【復刻】「コール・オブ・ビブリア」のストーリーの核心に触れる内容が含まれています。</div><div><span style="color: rgb(226, 80, 65);">「シャドウ・オーバー・メイデン」のストーリーをお楽しみいただく際は、同時に開催される施設イベント【復刻】「コール・オブ・ビブリア」を先にプレイすることを強く推奨します。</span></div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/94bcf1347f3bde1332393f6a252e7500.png"></div><div>ひとりの少女の失踪&hellip;&hellip;それがすべての始まりだった。<br>消えた少女を追う者たちが辿り着いたのは――<br>『不老不死の村』<br>村を支配する奇怪なドラゴンと異端の祭司との出会いが<br>事件をさらなる混迷へと導く。<br>崇拝と執着に囚われた村で、真実は誰の手に&hellip;&hellip;。<br><br>ストーリーイベント【復刻】「シャドウ・オーバー・メイデン」をどうぞお楽しみに！<br><br>■注意事項<br>1. イベントクエスト参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br>2. マルチプレイ参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1602828000; update_time1602752438

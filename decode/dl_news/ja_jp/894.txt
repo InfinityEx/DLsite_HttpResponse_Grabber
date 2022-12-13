@@ -1,0 +1,8 @@
+article_id:894
+category_name:お知らせ
+title_name:ヴォイド討伐戦において詳細画面が正しく表示されない不具合について
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1574319300"></span>追記】<br></strong></span>本不具合は、<span class="local_date" data-local_date="1574319180"></span>に解消し、現在正しく表示されることを確認しております。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div><div><br></div><hr><div>現在開催中のヴォイド討伐戦「スペクター・シェオル討伐戦」と「マンティコア・レイジ討伐戦」において、クエストの詳細画面が正しく表示されない不具合が発生していることを確認しております。</div><div><br></div><div>本現象は、現在原因を調査中です。<br>ご案内できることがございましたら、本お知らせにてご連絡いたします。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div>
+
+start_time:1574317500; update_time1574320851

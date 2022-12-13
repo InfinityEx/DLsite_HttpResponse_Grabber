@@ -1,0 +1,8 @@
+article_id:1699
+category_name:イベント
+title_name:「アヤハ＆オトハ叛逆戦」に新たな難易度「超級」の追加が決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/c4098b13789dd400a465ce59b64edca0.png
+
+message:<div><span class="local_date" data-local_date="1603778400"></span>から、新たな勢力の強敵たちと戦う高難易度クエスト「アギト叛逆戦」の「アヤハ＆オトハ叛逆戦」に、難易度「超級」を追加します。</div><div>クリアするとレアリティ「★6」の水属性の武器を武器精錬するために必要な素材アイテムが獲得できます！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/c4098b13789dd400a465ce59b64edca0.png"></div><div>アギトである双子の鬼は無邪気に嗤う。</div><div>アギトである黒髪の鬼は無様を嘲り、</div><div>アギトである白髪の鬼は無味を蔑む。</div><div>二つの体に一つの心&hellip;&hellip;二人は等しく無慙無愧。</div><div>二人のアギトは自由を宣い、享楽を貪り喰らう。</div><div>自由に飛び舞う双翅の名は――アヤハとオトハ。</div><div><br></div><div>■ウィークリーボーナスの変更</div><div><span class="local_date" data-local_date="1603778400"></span>から、「アヤハ＆オトハ叛逆戦 上級」のウィークリーボーナスで、「アヤハ＆オトハ叛逆戦 超級」に追加する素材アイテムが獲得できるようになります。</div><div><br></div><div>■復活回数と復活ボーナスの変更</div><div><span class="local_date" data-local_date="1603778400"></span>から、復活回数と復活ボーナスを変更します。</div><div>「アヤハ＆オトハ叛逆戦 上級」の復活回数を1回にし、復活ボーナスを追加します。</div><div>「アヤハ＆オトハ叛逆戦 中級」の復活回数を2回に増やし、復活ボーナスの内容を変更します。</div><div><br></div><div>【注意事項】</div><div>1. 「アギト叛逆戦」参加には、メインストーリー10章 6-3（Normal）、およびいずれかの「真ドラゴンの試練 中級【ソロ】」または「真ドラゴンの試練 中級【マルチ】」をクリアする必要があります。</div><div>2. 「アヤハ＆オトハ叛逆戦 超級【ソロ】」参加には、「アヤハ＆オトハ叛逆戦 上級【ソロ】」または「アヤハ＆オトハ叛逆戦 上級【マルチ】」をクリアする必要があります。</div><div>3. 「アヤハ＆オトハ叛逆戦 超級【マルチ】」参加には、「アヤハ＆オトハ叛逆戦 上級【ソロ】」または「アヤハ＆オトハ叛逆戦 上級【マルチ】」をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1603260000; update_time1602732139

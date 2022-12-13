@@ -1,0 +1,8 @@
+article_id:1345
+category_name:イベント
+title_name:イベント予告「仙光、暗晦に閃きて」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/bbdac82a6570f8cf2fe436469bc79bf0.png
+
+message:<div><span class="local_date" data-local_date="1590559200"></span>から、レイドイベント「仙光、暗晦に閃きて」の開催を予定しております。</div><div>イベント「仙光、暗晦に閃きて」は、闇属性のレイドボスとマルチプレイで戦うイベントです。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/bbdac82a6570f8cf2fe436469bc79bf0.png"></div><div>王子たちが封師・サンゾウと共に<br>仙宝・緊箍児を封印してから、しばらく経ったある日。<br>聖城にサンゾウの弟子・ゴクウがやってきた！<br>封印が解けてしまったという緊箍児のもとに向かった王子たちが<br>出会ったのは、心優しい魔獣・ビコウオウ。<br>彼を守ろうとする者と、倒そうとする者――<br>それぞれの信念が、今激しくぶつかり合う！<br><br>イベントテーマ曲：「Force Your Way」/谷本貴義<br><br><br>■注意事項<br>1. イベントクエスト参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。<br>2. マルチプレイ参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1590472800; update_time1590653795

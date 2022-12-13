@@ -1,0 +1,8 @@
+article_id:2827
+category_name:イベント
+title_name:メモリーイベントの施設イベントにてアイテムの交換個数を更新！ 
+image_path:https://dragalialost.akamaized.net/attached/information/images/5c35673fc74133cac14b8da9dc1cbf07.png
+
+message:<div><span class="local_date" data-local_date="1643954400"></span>に、メモリーイベントの施設イベント内でのアイテム交換個数を更新いたしました！</div><div>交換個数の上限に達していたプレイヤーの皆様も、新たに交換することができます。</div><div><br></div><div>■交換個数を更新した施設イベント</div><div>・「工房に響け！三姉妹の絆」</div><div>・「雪降る夜、星竜樹の下で」</div><div>・「天つ風に願いを」</div><div>・「サーカステントで夢の時間を」</div><div>・「希望と友情のエッグハント」</div><div>・「お菓子なハロウィンパーティーナイト」</div><div>・「Melodious Summer♪」</div><div>・「コール・オブ・ビブリア」</div><div>・「北より来たる女神の使徒」</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1644300000; update_time1644284125

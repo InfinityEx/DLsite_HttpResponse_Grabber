@@ -1,0 +1,322 @@
+article_id:1414
+category_name:お知らせ
+title_name:「ドラガリアフェス」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1593410400"></span>から、「ドラガリアフェス」の開催を予定しております。</div><div><br></div><div>【ドラガリアフェスとは】</div><div>・★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップします！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><span style="color: rgb(226, 80, 65);">※今回新規で追加される★5キャラ「ユージン(水)」「カトリーヌ(水)」、★5ドラゴン「ステュクス(水)」は、次回のレジェンド召喚からも登場します。</span></div><div><br></div><div>【ドラガリアフェス開催期間】</div><div><span class="local_date" data-local_date="1593410400"></span> ～ <span class="local_date" data-local_date="1593755940"></span></div><div><br></div><div>新規で追加されるピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1c67df2ea4ff3a0771fd028480f9dcc4.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>1,006</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>シェスの契約竜。可愛らしい見た目と<br>裏腹に気まぐれで悪戯好き。人間観察と<br>夜の散歩が趣味。心を許した人間以外は<br>玩具同然に考えている。非情さと情熱を<br>兼ね揃えた性格は契約主似ともいえる。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>エレガントアーティフィス</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に10秒間、闇属性のダメージを与える。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【闇】クレバートリックⅡ</span></dt><dd><div>装備キャラが闇属性なら<br>クエスト開始時、自身に【次のスキルダメージが180％アップするバフ】を15回分付与する。攻撃が連続で25ヒットするたび自身に【次のスキルダメージが180％アップするバフ】を付与する。【次のスキルダメージが180％アップするバフ】は最大で15個までスタックすることができ超過分は消滅する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【闇】竜化解除時付与・クレバートリックⅡ</span></dt><dd><div>装備キャラが闇属性なら<br>竜化が解除されたとき、自身に【次のスキルダメージが180％アップするバフ】を8回分付与する。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>■ケットシー(ドラフェスVer.)の攻撃について<br>ケットシー(ドラフェスVer.)に竜化中の通常攻撃は、周囲の敵にダメージを与え「睡眠」状態にします。</div><div><br></div><div>■バフのカウントについて<br>ケットシー(ドラフェスVer.)のアビリティ「【闇】クレバートリックI/II」により付与されるバフが重なった場合でも、「自身にかかっているバフの数に応じて性能が変化するスキル」において、バフの数は1つとしてカウントされます。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/86d1ee4a40fe2a289e8203b4fe87c283.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>南大陸の河川を守護するドラゴン。<br>幼体と成体で姿形が大きく異なる。<br>基本的に友好的な性格だが、幼体の前で<br>人間がタブーを侵すと悪意を持った分身が<br>生まれ、災いをもたらすようになる。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>クリナップウェイヴ</span>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に水属性のダメージを与える。このスキルは、ステュクスの通常攻撃で付与される【ストリームスピリット】の数に応じて強化される。【ストリームスピリット】は3つまで重複可能で、竜化解除またはスキル使用時に全て解除される。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【水】経時スキルダメージⅡ</span></dt><dd><div>装備キャラが水属性なら15秒経過するたび、自身に【次のスキルダメージが50％アップするバフ】を付与する。<br>このバフは最大4つまで重複し、攻撃スキル使用時にすべて解除される。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【ピックアップキャラ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6e3639527bee7ff921375288e6b012dc.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/960c7daac545c22ad02e9e69f39f670e2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>797</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>479</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>2,516</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>根暗でひねくれ者の少年。友達なんか<br>いらないと豪語するが、それは寂しさの<br>裏返し。緊張しやすい性格で、他人と話す<br>ことが苦手。心の奥では、そんな自分を<br>変えたいと思っている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>ユージン・セオリー</span>
+			</dt>
+			<dd>
+				<div>
+					地面に10秒間【バフフィールド】を設置する。スキル使用時、【スキルシフト】が発生し効果が変化する。<br>初期状態【草小人の進撃】：攻撃力が20％アップする。<br>シフト1【剣騎士の急襲】：攻撃力が20％、火属性耐性が8％アップする。<br>シフト2【聖竜王の鼓舞】：攻撃力が20％、火属性耐性が8％、クリティカル時のダメージ倍率が20％アップする。スキル使用時、自身に【勝利の一手】が付与され、スキル「チェックメイト」が即時発動可能になる。<br>スキル「チェックメイト」は、【勝利の一手】が付与されている間のみ使用可能で、【勝利の一手】は最大2つまで重複可能。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/afc20a16a5386d949ce9cd874cf2f6012.png"></span>
+				<span>チェックメイト</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に水属性のダメージを与える。このスキルは、【勝利の一手】が付与されている間のみ使用可能で、スキル使用時、【勝利の一手】が1つ解除される。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>竜化ブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の竜化ゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【水】竜化：竜の恩寵・攻Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが水属性なら竜化するごとに攻撃力がアップする。<br>この効果は1クエスト3回まで発動する。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6c8630603e25801ad9b184d92642fad02.png"></span><span>会心でヒラメキアップⅡ</span></dt><dd><div>攻撃がクリティカルになるたびに自身の【ヒラメキ】を1段階アップする。この効果は発動してから10秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>気絶耐性＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span><span>HP70％で防＋13％</span></dt><dd><div>HP70％以上のとき、防御力が13％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/009de9248f31aa4aa400122c20d49246.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>508</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>2,500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>南グラスティア大陸の田舎町・クインベルの<br>町長の娘。高飛車で周りを巻き込む言動が<br>目立つが、実はストイックな性格の持ち主。<br>お嬢様という生まれに甘んじず、完璧な<br>自分であろうと日々努力を重ねている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1afb4a1e63b9349ff028357edec9da6a2.png"></span>
+				<span>カトリーヌ・コール</span>
+			</dt>
+			<dd>
+				<div>
+					自身に【パーフェクト・ガード】を付与する。【パーフェクト・ガード】はアビリティ「トップ・オブ・パーフェクト」により様々な効果を発揮する。<br>【パーフェクト・ガード】は3つまで重複可能。<br>10秒間、自身の攻撃力を20％アップする。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5df6e7b975d220221d524e55556940f92.png"></span>
+				<span>カトリーヌ・パーフェクト・オーダー</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に水属性のダメージを与える。このスキルは、自身に付与された【パーフェクト・ガード】の数に応じて強化される。スキル使用時、【パーフェクト・ガード】は全て解除される。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のHPが15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【水】連撃：10ヒット以上で攻＋13％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが水属性ならヒット数10以上のとき、【攻撃力が13％アップするバフ】が発動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6ddcc8f713334a535e381df622386dc92.png"></span><span>トップ・オブ・パーフェクトⅡ</span></dt><dd><div>自身に付与されている【パーフェクト・ガード】の数に応じて自身の通常攻撃・バーストアタック・スキル「カトリーヌ・パーフェクト・オーダー」が強化される。<br>また、【パーフェクト・ガード】が付与されている間は攻撃でのけぞらなくなり全属性ダメージが10％軽減されるが、自身がダメージを受けると1つ解除される。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>気絶耐性＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>スキルダメージ＋30％</span></dt><dd><div>攻撃スキルのダメージが30％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>【注意事項】</div><div>召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1593324000; update_time1593137778

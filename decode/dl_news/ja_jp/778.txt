@@ -1,0 +1,8 @@
+article_id:778
+category_name:お知らせ
+title_name:「アストラルレイド」開催にあわせて「アストラルピース」をプレゼント！【更新】
+image_path:
+
+message:<div>「アストラルレイド」の開催にあわせまして、プレイヤーの皆様へ「アストラルピース」を順次お贈りいたします。</div><div>今回は「アストラルピース」150個を、2回配布いたします。</div><div>「アストラルピース」を使用して、ぜひ「アストラルレイド」に挑戦しましょう！</div><div><br></div><div>■プレゼント内容</div><div>アストラルピース150個を2回(最大300個)</div><div><br></div><div>■配布期間</div><div>1回目 <span class="local_date" data-local_date="1569650400"></span> ～ <span class="local_date" data-local_date="1572847199"></span></div><div>2回目 <span class="local_date" data-local_date="1569736800"></span> ～ <span class="local_date" data-local_date="1572847199"></span></div><div><br></div><div>■お贈りする対象の方</div><div><span class="local_date" data-local_date="1570773600"></span>までにゲームを開始されたプレイヤーの皆様</div><div><br></div><div>■注意事項</div><div>1. お贈りしたアイテムの受け取り期限は、「プレゼント」にアイテムが贈られてから7日間です。<br>2. アストラルピースが所持数上限の300枚を超えた場合、アストラルピースは受け取れず、「プレゼント」に残ります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div><div><span style="color: rgb(44, 130, 201);"><strong><span class="local_date" data-local_date="1569653400"></span>追記</strong></span><br>「アストラルピース」150個の配布が<span class="local_date" data-local_date="1569652200"></span>に完了いたしました。<br>配布が遅れましたことをお詫び申し上げます。<br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1569650400; update_time1569654884

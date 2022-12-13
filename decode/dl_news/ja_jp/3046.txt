@@ -1,0 +1,8 @@
+article_id:3046
+category_name:お知らせ
+title_name:「4th Anniversary ログインボーナス」開催！
+image_path:https://dragalialost.akamaized.net/attached/information/images/fbb2bbe70ef19a35fc53a522504c6b01.png
+
+message:<div><span class="local_date" data-local_date="1664258400"></span>から、「4th Anniversary ログインボーナス」を開催中！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/fbb2bbe70ef19a35fc53a522504c6b01.png"></div><div><br></div><div>開催期間中、ログインした日数に応じて、アイテムや竜輝晶をプレゼントいたします！</div><div><br></div><div>■ログインボーナスの内容</div><div>1日目 竜輝晶&times;2,000</div><div>2日目 霊鳥の聖灰&times;40</div><div>3日目 虹のオーブ&times;40</div><div>4日目 ルピ&times;40,000,000</div><div>5日目 プラチナクリスタル&times;1</div><div>6日目 ダマスカス鋼&times;4</div><div>7日目 アダマント&times;4</div><div>8日目 英雄の証&times;4</div><div>9日目 金剛晶&times;4</div><div>10日目 竜輝晶&times;2,000</div><div><br></div><div>■開催期間</div><div><span class="local_date" data-local_date="1664258400"></span> ～ <span class="local_date" data-local_date="1667195999"></span></div><div><br></div><div>■注意事項</div><div>1. ログインボーナスは、毎日15:00以降にゲームにログインした際、プレゼントに贈られます。</div><div>2. ログインボーナスとして贈られたプレゼントには、受け取り期限があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1664258400; update_time1647488196

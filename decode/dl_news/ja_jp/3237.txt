@@ -1,0 +1,8 @@
+article_id:3237
+category_name:お知らせ
+title_name:メインストーリーに第25章「人と竜の契約の証」前半の追加が決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/162d180b6320d7c13321c0145bc0422d.png
+
+message:<div><span class="local_date" data-local_date="1650866400"></span>から、メインストーリーに第25章「人と竜の契約の証」前半の追加が決定しました！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/162d180b6320d7c13321c0145bc0422d.png"></div><div>また、メインストーリー第25章「人と竜の契約の証」の予告PVを公開いたしました。</div><div>下記のページからご覧ください。</div><div><br></div><div>▼『ドラガリアロスト』公式YouTube Channel メインストーリー第25章「人と竜の契約の証」予告PV</div><div><a href="https://youtu.be/k3PBdwVeg9s">https://youtu.be/k3PBdwVeg9s</a></div><div><br></div><div>最新章をご期待ください！</div><div><br></div><div>■注意事項</div><div>メインストーリー第25章「人と竜の契約の証」前半は、メインストーリー第24章 5-6「女神の切り札」をクリアすると解放されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1650607200; update_time1650941334

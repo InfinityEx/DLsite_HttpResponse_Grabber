@@ -1,0 +1,8 @@
+article_id:1598
+category_name:お知らせ
+title_name:2nd Anniversary 「ナームちゃんねる」予告
+image_path:https://dragalialost.akamaized.net/attached/information/images/cb17f0e66d2a87d171d878cec3b5261f.png
+
+message:<div><span class="local_date" data-local_date="1601002800"></span>ごろに、「ナームちゃんねる」を『ドラガリアロスト』公式YouTube Channelにて公開いたします。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/cb17f0e66d2a87d171d878cec3b5261f.png"></div><div><br></div><div>「ナームちゃんねる」では、2nd Anniversaryの情報や新機能の紹介、アップデートの内容など、さまざまな情報をナームがプレイヤーの皆様にお届けしますので、ぜひご覧ください！</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1600668000; update_time1600495838

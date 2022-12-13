@@ -1,0 +1,156 @@
+article_id:1129
+category_name:お知らせ
+title_name:レジェンド召喚「女神の福音と信仰の刃」開催中！【更新】
+image_path:
+
+message:<div>【<span class="local_date" data-local_date="1585117800"></span>更新】<br>召喚情報のホープ(教会騎士Ver.)にてリンクEXアビリティの表記に誤りがございましたので、下記のとおり修正いたしました。<br><br>誤：【風】無傷：HP60％で攻＋3％<br>正：【風】無傷：HP60％で攻＋5％<br><br>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。<br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div><hr><div><span class="local_date" data-local_date="1583992800"></span>から、レジェンド召喚「女神の福音と信仰の刃」を開催中！</div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンの提供割合がアップ中です。</div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 トライツ：風/刀</div><div>★4 ホープ(教会騎士Ver.)：風/剣</div><div><br></div><div>■ドラゴン</div><div>★5 アリエル：風</div><div><br></div><div>※その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><br></div><div>【レジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1583992800"></span> ～ <span class="local_date" data-local_date="1585288740"></span></div><div><br></div><div>新規で追加されるピックアップ対象のキャラ・ドラゴンの一部を、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップキャラ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7b8e890386b1cce84b77b8e66ea086ef.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/960c7daac545c22ad02e9e69f39f670e2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>781</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>494</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>2,495</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>煉獄派の統率役を務める聖騎士。<br>正しき信仰の為ならば、いかなる犠牲も<br>厭わない。だが、その求めるところは<br>戦いのない平穏な世界と人々の幸福。<br>理想実現の為、祈りと共に剣を振るう。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>エターナルグレース</span>
+			</dt>
+			<dd>
+				<div>
+					15秒間、パーティ内の風属性キャラ全員の攻撃力を30％アップする。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6dc6c36e6e05224a9c6a4de33447bb5a2.png"></span>
+				<span>セイクリッドブレード</span>
+			</dt>
+			<dd>
+				<div>
+					10秒間、【セイクリッドブレード】を発動。この効果中は自身が次の状態になる。<br>通常攻撃が変化。このスキルが「リヴェレーションパージ」となり、即時発動可能に。また、移動・バーストアタック・回避が出来なくなり【エターナルグレース】のスキルゲージを7秒間、継続上昇させる。<br>【セイクリッドブレード】はスキル「リヴェレーションパージ」の発動や時間経過などで解除される。<br>(リヴェレーションパージ：複数の攻撃対象とその周囲の敵に風属性のダメージを与え、「毒」状態にする。このスキルの攻撃対象は、一定範囲内で距離が近い順に選択される。攻撃対象に選択できる数より範囲内の敵が少ない場合、残りの攻撃は再び距離の近い順で選択された対象に行われる。)<br>このスキルは時間経過で自動的にチャージされる。このチャージは「スキルゲージの上昇量をアップさせる効果」を受けない。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span>
+				<span>バフスキル時間＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の使用するバフスキルの効果時間が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>【風】連撃：10ヒット以上で耐水＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが風属性ならヒット数10以上のとき、【水属性耐性が10％アップするバフ】が発動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span><span>バフスキル時間＋25％</span></dt><dd><div>使用するバフスキルの効果時間が25％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span><span>ずぶぬれ耐性＋100％</span></dt><dd><div>「ずぶぬれ」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>毒特効＋30％</span></dt><dd><div>「毒」状態の敵に与えるダメージが30％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※リンクEXアビリティはVer.1.18.0から追加されたEXアビリティです。Ver.1.18.0よりも前のバージョンでは、リンクEXアビリティは適用されませんのでご注意ください。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/804feadd9cf7afbb973c2a50c533a6c7.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>イリア教の名のもと、人間に対して危害を<br>及ぼすドラゴンを成敗しているドラゴン。<br>女神イリアの言葉を人々に伝えながら、<br>ドラゴンと人間が共に暮らせる世界を維持<br>するために、世界各地を飛び回っている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>マキシマムストームインパクト</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に風属性のダメージを与え、「気絶」状態にする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【風】攻撃力＋50％</span></dt><dd><div>装備キャラが風属性なら<br>装備キャラの攻撃力が50％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【風】スキルブースト＋30％</span></dt><dd><div>装備キャラが風属性なら<br>スキルゲージの上昇率が30％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><br></div><div>&nbsp;今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1583992800; update_time1585117804

@@ -1,0 +1,8 @@
+article_id:143
+category_name:お知らせ
+title_name:「成長へ至る道/黄金へ至る道」超級追加と、スタミナ・共闘の翼消費量の調整
+image_path:
+
+message:<div><span class="local_date" data-local_date="1544594400"></span>ごろにデータ更新を行います。</div><div>&nbsp;</div><div>本データ更新の内容は下記のとおりです。</div><div>&nbsp;</div><div><strong>■データ更新内容</strong></div><div><strong>・「成長へ至る道」「黄金へ至る道」にて難易度「超級」を追加します。</strong></div><div>イベントクエスト「成長へ至る道」「黄金へ至る道」に難易度「超級」が追加されます。</div><div><br></div><div>成長へ至る道 超級 必要戦力：7500</div><div>黄金へ至る道 超級 必要戦力：6700</div><div>超級　スタミナ　15</div><div>※マルチプレイのゲストで参加する場合、共闘の翼は2個必要です。</div><div><br></div><div>より豪華な報酬を獲得できるので、戦力を整えて挑戦してください！</div><div><br></div><div><strong>・「成長へ至る道」「黄金へ至る道」の消費スタミナを調整します。</strong></div><div>難易度ごとに消費スタミナを調整し、より挑戦しやすくなります。</div><div><br></div><div>初級　スタミナ　5　&rarr;　4</div><div>中級　スタミナ　10　&rarr;　8</div><div>上級　スタミナ　15　&rarr;　12</div><div><br></div><div><strong>・「成長へ至る道」「黄金へ至る道」の中級にてマルチプレイで消費する「共闘の翼」を調整します。</strong></div><div><br></div><div>中級　共闘の翼　2　&rarr;　1</div><div><br></div><div><strong>■注意事項</strong></div><div>データの更新を行った際「新しいバージョンがあります」と表示される場合があります。</div><div>上記はアプリのバージョンアップではなく、通信によるデータの更新が行われます。</div><div>&nbsp;</div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1544594400; update_time1547531492

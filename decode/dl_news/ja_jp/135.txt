@@ -1,0 +1,164 @@
+article_id:135
+category_name:お知らせ
+title_name:「ドラゴンレジェンド召喚」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1544594400"></span>から、新たに「ドラゴンレジェンド召喚」の開催を予定しております。</div><div><br></div><div>ドラゴンレジェンド召喚は、ピックアップ対象の★5と★4ドラゴンの提供割合がアップします。</div><div><br></div><div>【ドラゴンレジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1544594400"></span> ～ <span class="local_date" data-local_date="1545026340"></span></div><div><br></div><div>ピックアップ対象のドラゴンの一部を、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f35861da420b90563856229b453afa9d.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>369</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>127</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>996</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">ドラゴン詳細</div>
+			<div class="param">
+				<ul>
+					<li>炎を操る冥界の門番。自由奔放な性格で、<br>仕事を放り出して遊ぶこともしばしば。<br>両手にはめたパペットのような犬の名前は<br>ココとミミ。それぞれ意識を持ち、会話を<br>したり、宙を舞いながら攻撃したりする。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ce3ba29aa211f645ec6c9c701e0d510f2.png"></span>
+				<span>ラヴァ・ダムネーション</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に火属性のダメージを与え、「火傷」状態にする。また、攻撃力を5％、防御力を5％ダウンさせる。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻撃力＋60％</span></dt><dd><div>装備キャラが火属性なら<br>装備キャラの攻撃力が60％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/59cf7e0fd5ea79a196201bb879cf6f42.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>370</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>125</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>995</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">ドラゴン詳細</div>
+			<div class="param">
+				<ul>
+					<li>古より大海の底で眠り続けていたもの。<br>その存在は災いをもたらす竜として、<br>現在も語り継がれている。しかし、<br>伝説とは裏腹に、実際の性格は紳士的。<br>己の大きすぎる力を忌んでいる。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5288dad4390ed2a836a17ea91d5358d22.png"></span>
+				<span>メイルストルム・ストリーム</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に水属性のダメージを与え<br>「ずぶぬれ」状態にする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【水】攻撃力＋60％</span></dt><dd><div>装備キャラが水属性なら<br>装備キャラの攻撃力が60％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/42916b32da014ed6dabbf502fd42fe80.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>384</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>113</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>997</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">ドラゴン詳細</div>
+			<div class="param">
+				<ul>
+					<li>伝説の中にのみ名を残す、慈悲深き聖騎士。<br>うら若き乙女の形をとり、永遠の時を<br>過ごしている。魔獣の侵攻や悪政によって<br>民が嘆きかなしむ時、いずこからか<br>現れ、人々を導くと信じられている。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3b8c6f3c96c407cfbd6115f294a01def2.png"></span>
+				<span>セイントフラッグ</span>
+			</dt>
+			<dd>
+				<div>
+					周囲の敵に光属性のダメージを与え、15秒間<br>パーティ全員の防御力を30％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【光】HP＋60％</span></dt><dd><div>装備キャラが光属性なら<br>装備キャラのHPが60％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 本お知らせに掲載されている以外のピックアップ対象の情報や、召喚の提供割合は、ドラゴンレジェンド召喚開催時にゲーム内フッターメニューの「召喚」をタップし、「召喚情報」「提供割合」からご確認ください。</div><div>2. 10回連続で★5が召喚されなかった場合、次回召喚時に★5の提供割合が上昇する仕組みがあります。召喚の内容が変更される場合は、提供割合の上昇量は引き継がれません。提供割合の上昇についての詳しい説明は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」&rarr;「詳細」&rarr;「レジェンド召喚とは」をご確認ください。</div><div>3. ドラゴンレジェンド召喚の開催期間および内容は、予告なく変更する場合があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1544508000; update_time1545359305

@@ -1,0 +1,8 @@
+article_id:1863
+category_name:お知らせ
+title_name:サーバーの不具合を起因とする複数の不具合について
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1608541200"></span>追記】</strong></span><br>本不具合は<span class="local_date" data-local_date="1608520500"></span> ～ <span class="local_date" data-local_date="1608537600"></span>に発生しておりました。<br>現在は解消しております。</div><div>本不具合のお詫びとして<span class="local_date" data-local_date="1608537600"></span>までにゲームを開始されたプレイヤーの皆様に下記アイテムを順次お送りいたします。</div><div><br></div><div>・竜輝晶 240個</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことを重ねてお詫び申し上げます。<br>今後ともドラガリアロストをよろしくお願いいたします。</div><hr><div>現在、サーバーの不具合によりミッションやデイリーボーナスの受け取り時、イベント参加時にエラーが発生するなど、複数の不具合を確認しております。</div><div>現象については現在原因を調査中です。</div><div>不具合の詳細や進捗について、ご案内できることがございましたら、本お知らせにてご連絡いたします。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div>
+
+start_time:1608535800; update_time1608541298

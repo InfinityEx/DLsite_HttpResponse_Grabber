@@ -1,0 +1,8 @@
+article_id:401
+category_name:お知らせ
+title_name:真ドラゴンの試練に「真マーキュリーの試練」の追加が決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1555567200"></span>から、最高難易度のイベントクエスト「真ドラゴンの試練」に、新コンテンツ「真マーキュリーの試練」の追加が決定いたしました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/6b37cb189db0d4af78dddb20fb40649a.png"></div><div>青竜マーキュリーが秘めたる力を解放した姿。膨大なマナは迸る水流となり、その全身を覆っている。</div><div>守るべきものを全霊で堅守する優しさと、倒すべき敵を容赦なく退ける厳しさを併せ持つ、大いなる水の竜。</div><div><br></div><div>【注意事項】</div><div>1. 「真マーキュリーの試練」に挑戦するには、パーティの戦力が13000以上である必要があります。</div><div>2. 「真マーキュリーの試練」に挑戦するには、「マーキュリーの試練 超級」をクリアする必要があります。</div><div>3. マルチプレイ参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1555394400; update_time1555306232

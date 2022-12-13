@@ -1,0 +1,8 @@
+article_id:563
+category_name:お知らせ
+title_name:メインストーリーに第9章「Let's Party！」を追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/04137ede9437ffe3ca31d0c960690eeb.png
+
+message:<div><span class="local_date" data-local_date="1563170400"></span>からメインストーリーに、第9章「Let&#39;s Party！」を追加しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/04137ede9437ffe3ca31d0c960690eeb.png"></div><div>突如、第三位王女シェスから届くパーティーの招待状。</div><div>彼女の真意を問うため、一行は絢爛都市シャンゼリアへ向かった。</div><div>さまざまな思惑に包まれた、まばゆいダンスホールで終りのない輪舞曲が今、始まる――。</div><div><br></div><div>最新章をお楽しみください！</div><div><br></div><div>■注意事項</div><div>メインストーリー第9章「Let&#39;s Party！」は、メインストーリー第8章 &nbsp;5-4「強さは愛ゆえに」をクリアすると解放されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1563170400; update_time1569488255

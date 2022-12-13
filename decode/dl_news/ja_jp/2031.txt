@@ -1,0 +1,8 @@
+article_id:2031
+category_name:イベント
+title_name:イベント予告「防衛戦～アンビバレント・マリオーン～」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/725020a7ed092668894fa1c489e1ba2c.png
+
+message:<div><span class="local_date" data-local_date="1615442400"></span>から、イベント「防衛戦～アンビバレント・マリオーン～」の開催を予定しております。</div><div>「防衛戦～アンビバレント・マリオーン～」は、迫りくる多くの敵を迎え撃ちながら拠点を守り抜く期間限定イベントです！</div><div>本イベントの報酬として、シェアスキル解放に使用するアイテムを獲得できますので、ぜひご参加ください！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/725020a7ed092668894fa1c489e1ba2c.png"></div><div><br></div><div>エクス・マキナ――</div><div>それは、遥か古より、世界を人の手に</div><div>取り戻すことを託された機械仕掛けの兵士たち</div><div>1000年の繰り糸にあやつられたマリオネットは</div><div>悠久の時を戦い、傷つき、摺り減らされた</div><div>ふたりの戦闘人形とふたつの『心』の戦闘人形が</div><div>出会う時、人形たちの歯車が回り始める――</div><div><br></div><div>■注意事項</div><div>1. イベントクエスト参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。</div><div>2. マルチプレイ参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1615269600; update_time1615170961

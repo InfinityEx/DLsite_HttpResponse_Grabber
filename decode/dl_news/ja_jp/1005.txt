@@ -1,0 +1,8 @@
+article_id:1005
+category_name:お知らせ
+title_name:1日1回無料召喚キャンペーン開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1578981600"></span>から、対象のレジェンド召喚を1日1回無料で召喚できる、1日1回無料召喚キャンペーンを開催します！</div><div><br></div><div>■キャンペーン開催期間</div><div><span class="local_date" data-local_date="1578981600"></span> ～ <span class="local_date" data-local_date="1579759140"></span></div><div><br></div><div>■対象のレジェンド召喚</div><div>下記のレジェンド召喚を、それぞれ1日1回無料で召喚することができます。</div><div><br></div><div>・レジェンド召喚「戦場を駆け抜ける北の疾風」</div><div>※<span class="local_date" data-local_date="1578981600"></span> ～ <span class="local_date" data-local_date="1579759140"></span>の間に、最大9日間で9回分召喚することができます。</div><div><br></div><div>・レジェンド召喚「工房に響け！ 三姉妹の絆 ピックアップ」</div><div>※<span class="local_date" data-local_date="1578981600"></span> ～ <span class="local_date" data-local_date="1579759140"></span>の間に、最大9日間で9回分召喚することができます。</div><div><br></div><div>■注意事項</div><div>1. 1日(15:00 ～ 翌14:59)に1回、対象のレジェンド召喚を無料で召喚することができます。</div><div>2. 「1日1回無料召喚」のリセットは、毎日15:00に行われます。</div><div>3. ドラゴンダイヤ30個で1日1回召喚できる「1日1回限定召喚」は、「1日1回無料召喚」を行った後に召喚することができます。</div><div>4. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1578895200; update_time1578552952

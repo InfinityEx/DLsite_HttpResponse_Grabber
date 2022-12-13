@@ -1,0 +1,8 @@
+article_id:1006
+category_name:イベント
+title_name:施設イベント【復刻】「工房に響け！　三姉妹の絆」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/fabd48f25703bb1e0d4daec6425fd096.png
+
+message:<div><span class="local_date" data-local_date="1578981600"></span>から、施設イベント【復刻】「工房に響け！　三姉妹の絆」の開催を予定しております。</div><div>風属性のボスと戦い、イベント限定の施設を報酬として獲得し、建設できるイベントです。</div><div><br></div><div>&nbsp;<img src="https://dragalialost.akamaized.net/attached/information/images/fabd48f25703bb1e0d4daec6425fd096.png"></div><div>力を合わせ鍛冶を行う、聖城の鍛冶屋三姉妹。</div><div>しっかり者の次女・ロジィナ。</div><div>優しく、おおらかな長女・レジィナ。</div><div>にぎやかで、夢見がちな三女・ルジィナ。</div><div>鍛冶師は戦いを支える裏方&hellip;&hellip;だが、そんな彼女たちにもドラマがあった！</div><div>これは鍛冶師として高みを目指し、切磋琢磨する少女たちの、熱く激しい物語――！</div><div><br></div><div>■イベント期間</div><div><span class="local_date" data-local_date="1578981600"></span> ～ <span class="local_date" data-local_date="1579759199"></span></div><div><br></div><div>■注意事項</div><div>1. イベントクエスト参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div>2. マルチプレイ参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1578895200; update_time1578622500

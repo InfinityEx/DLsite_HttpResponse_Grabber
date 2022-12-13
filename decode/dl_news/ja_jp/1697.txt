@@ -1,0 +1,274 @@
+article_id:1697
+category_name:お知らせ
+title_name:レジェンド召喚「シャドウ・オーバー・メイデン ピックアップ」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1603087200"></span>から、レジェンド召喚「シャドウ・オーバー・メイデン ピックアップ」の開催を予定しております。</div><div><span style="color: rgb(226, 80, 65);">※本召喚は過去に開催した「コール・オブ・ビブリア ピックアップ」「シャドウ・オーバー・メイデン ピックアップ Part 1」「シャドウ・オーバー・メイデン ピックアップ Part 2」で追加されたキャラ・ドラゴンがピックアップ対象となります。</span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンの提供割合がアップします。</div><div><br></div><div>【ピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 ラトニー：闇/槍</div><div>★5 クーガー：闇/斧</div><div>★5 アカーシャ：風/杖</div><div>★5 ハインヴァルト：闇/杖</div><div><br></div><div>■ドラゴン</div><div>★5 ニャルラトホテプ：闇</div><div>★5 ハスター：風</div><div><br></div><div>【レジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1603087200"></span> ～ <span class="local_date" data-local_date="1603432799"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンの一部を、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f91558978e8028da75cae1718178924c.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>748</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>511</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>どこか物憂げな表情をした、不思議な少女。<br>奇妙な図書館をめぐる事件で身寄りを<br>なくし、天涯孤独の身。時々、恐ろしい夢を<br>見ることがあり、自分の中にいる自分では<br>ない何かの存在に怯えている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/334b74601c5335a157f2f2aa2e3b9cd32.png"></span>
+				<span>カオスギフト</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に闇属性のダメージを与える。「毒」状態の敵にはダメージがアップする。このスキルは発動中に画面をタップした回数分の追撃が4回まで発生する。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/deb7134796a0b428f6b5a7a145a0d8262.png"></span>
+				<span>トラペゾヘドロン</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に闇属性のダメージを与える。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のHPが15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>【闇】竜化：竜化ブースト＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが闇属性なら竜化ゲージ上昇率が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/18a0c508eccb37dc48c820d6ec7c0f152.png"></span><span>無貌の白面Ⅱ</span></dt><dd><div>自身に装備しているドラゴンに関わらずニャルラトホテプに竜化する。竜化時、自身に【20秒間、HPを継続回復するバフ】が発動する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痺耐性＋100％</span></dt><dd><div>「麻痺」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>竜化時間＋20％</span></dt><dd><div>竜化時間が20％延長される。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e82e9607343f493814e53fef6e5ff298.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>741</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>519</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>イリア教会の異端審問官。ハードボイルドを<br>気取るが、じつは涙もろく情に厚い人情派。<br>とある事件以来、異端とされた人物を罰する<br>だけではなにも解決しないと気づき、逆に<br>異端ではない証拠を集めるため、奔走する。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>ジャッジメントサーキュラー</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に闇属性のダメージを与え<br>防御力を5％ダウンさせる。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>マーシレスブロー</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に闇属性のダメージを与える。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防御力＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の防御力が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【闇】背水：ピンチで攻＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが闇属性ならHP40％以下のとき、【攻撃力が15％アップするバフ】が発動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/561f0cc02896bcc3c7580180041730282.png"></span><span>オーバードライブ特効＋13％</span></dt><dd><div>オーバードライブ中の敵へ与えるダメージが13％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痺耐性＋100％</span></dt><dd><div>「麻痺」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>背水の陣・攻＋50％</span></dt><dd><div>HP30％以下になったとき、【15秒間、攻撃力が<br>50％アップするバフ】が発動。<br>この効果は1クエスト中1回まで発動する。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/208c3c8afcdf1d888f0ca360e88b8559.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>禁書を収めた図書館に棲む謎のドラゴン。<br>言葉は難解にして、行動は不可解。<br>『遥かなる主』という存在に仕える使者だと<br>名乗る。ニャルラトホテプとは、ただ一体の<br>名ではないと語るが、その真相は……。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>覆い尽くす闇</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に闇属性のダメージを与える。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】HP30％で攻＋50％</span></dt><dd><div>装備キャラが闇属性かつHPが30％以上のとき<br>装備キャラの攻撃力が50％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>月に吠えるものⅡ</span></dt><dd><div>装備キャラが闇属性かつHP30％以下になったとき、自身に【20秒間、血塗られた舌】を付与する。【血塗られた舌】中は1回だけ最大HPの60％以下のダメージを無効化し、攻撃力が30％アップする。【血塗られた舌】は重複せず、攻撃を受けると解除される。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1603000800; update_time1602668945

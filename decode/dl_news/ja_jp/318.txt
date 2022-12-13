@@ -1,0 +1,8 @@
+article_id:318
+category_name:お知らせ
+title_name:「ナームちゃんねる」公開！
+image_path:
+
+message:<div>2019/3/26 12:00(JST)に、「ナームちゃんねる」を『ドラガリアロスト』公式YouTube Channelにて公開しました。</div><div><br></div><div>2019/3/27 15:00(JST)から開始するハーフアニバーサリーイベントや、フォロー＆リツイートキャンペーンなど、さまざまな情報をナームがプレイヤーの皆様にお届けします！</div><div><br></div><div>詳細は下記のページをご覧ください。</div><div><br></div><div>▼「ナームちゃんねる」</div><div><a href="https://youtu.be/JtgkS0C9I_k" target="_blank">https://youtu.be/JtgkS0C9I_k</a></div><div><br></div><div>▼『ドラガリアロスト』公式YouTubeChannel</div><div><a href="https://www.youtube.com/channel/UC5eGagNBgJYiH2DCVbxTSIA" target="_blank">http://eng.mg/c0a56</a></div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1553569200; update_time1553593303

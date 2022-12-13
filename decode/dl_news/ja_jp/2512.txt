@@ -1,0 +1,8 @@
+article_id:2512
+category_name:お知らせ
+title_name:「3rd Anniversaryパック」の不具合について【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1632738300"></span>追記】</strong></span><br><span class="local_date" data-local_date="1632738120"></span>ごろに本補填対応が完了いたしました。<br><br>補填としてお送りしたアイテムは、「プレゼント」からお受け取りいただけます。<br><br>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div><div><br></div><hr><div><span class="local_date" data-local_date="1632722400"></span> ～ <span class="local_date" data-local_date="1632723660"></span>ごろ、下記の不具合が発生しておりました。<br><br>■購入処理が正常に完了したにもかかわらず、購入したアイテムが正常に反映されない。<br>・3rd Anniversary金剛晶4個パック<br>・3rd Anniversary上限解放パック<br>・3rd Anniversary高級オーブパック<br>・3rd Anniversary ★5ドラゴン強化パック<br>・3rd Anniversary施設建設ブーストパック<br><br>■一度購入した商品が再度購入可能となっている。<br>・3rd Anniversaryドラゴンダイヤ大量パック<br>・3rd Anniversaryドラゴンダイヤお得パック<br>・3rd Anniversary金剛晶4個パック<br>・3rd Anniversary上限解放パック<br>・3rd Anniversary高級オーブパック<br>・3rd Anniversary ★5ドラゴン強化パック<br>・3rd Anniversary施設建設ブーストパック<br><br>本不具合は修正を行い、現在は購入が完了した後、購入したアイテムが正常に反映されることを確認しております。<br><br>なお、「サービスアイテム」が含まれる商品を購入し、正常にアイテムが反映されなかったお客様には、正常に反映されなかった分のアイテムを順次補填し、プレゼントにお送りいたします。<br><br>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。&nbsp;</div>
+
+start_time:1632726000; update_time1632738278

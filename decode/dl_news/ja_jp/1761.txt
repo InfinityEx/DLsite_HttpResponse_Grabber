@@ -1,0 +1,220 @@
+article_id:1761
+category_name:お知らせ
+title_name:光属性★5キャラ確定！「プラチナレジェンド召喚」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1604642400"></span>から、「プラチナレジェンド召喚」の開催を予定しております。</div><div><br></div><div>「プラチナレジェンド召喚」では、「10回召喚」の10枠目で、光属性の★5キャラが確定で出現します。</div><div><span style="color: rgb(226, 80, 65);">※本召喚の提供内容に、光属性以外のキャラ・ドラゴンは含まれません。</span></div><div>本召喚は、期間中に「10回召喚」を2回までご利用いただけます。</div><div>また、本召喚は「ドラゴンダイヤ」でのみご利用いただけます。</div><div><br></div><div>【プラチナレジェンド召喚 開催期間】</div><div><span class="local_date" data-local_date="1604642400"></span> ～ <span class="local_date" data-local_date="1605247199"></span></div><div><br></div><div>「プラチナレジェンド召喚」の10枠目に確定で出現する、対象の光属性★5キャラの一部を、下記にてご紹介いたします。</div><div><br></div><div>【10枠目確定対象光属性★5キャラ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/269f464cf7ca1f6601dfed156c86ad63.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>使用可能モード</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/48f0cf6b6186ad0c7fa467c24cc47eea2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/b8a3b3884cac48715702c5bf401cd8b22.png"><img src="https://dragalialost.akamaized.net/attached/information/images/26f43aab3c39a2bcdadd1b40dd88e7402.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>類い稀な才能を持つ錬金術師。その腕は<br>不可能とされていた『異界の鍵』の錬成に<br>成功するほど。軍に両親を殺され、妖精に<br>育てられた。彼女は自由に生きたいと願うが<br>世界はその天賦の才を放っておかない。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/775392a8a09a554df496b2a54960c3e62.png"></span>
+				<span>ドライブバスター</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					ターゲットに光属性のダメージを与え、「閃熱」状態にする。<br>【マルチターゲット】スキルは複数の敵をターゲットできる。<br>【アルケミーカートリッジ】が1つ以上あるとき、このスキルは次のようになる。<br>直線上の敵に光属性のダメージを与え、「閃熱」状態にする。<br>【アルケミーカートリッジ】を1つ消費する。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>アルケミックエンハンスメント</span>
+			</dt>
+			<dd>
+				<div>
+					チャージされている【アルケミーゲージ】の本数に応じて、自身に20秒間【アルケミーカートリッジ】を付与する。<br>この効果中はバーストアタックで【コレクトアンサー】が発射される。<br>【コレクトアンサー】は全ての【アルケミーカートリッジ】を消費し、その数に応じてヒット数がアップする。<br>このスキルは【アルケミーゲージ】が1本以上チャージされている間のみ使用可能。<br>【アルケミーカートリッジ】が1つ以上あるとき、このスキルは次のようになる。前方の敵に光属性のダメージを与える。<br>【アルケミーカートリッジ】を1つ消費する。<br>スキル習得時、【アルケミーゲージ】を追加する。<br>【アルケミーゲージ】は【アルケミーカートリッジ】が1つも付与されていない時、通常攻撃、回避攻撃、バーストアタックを敵にヒットさせるとチャージされる。<br>【アルケミーゲージ】はヒット数が30以上のときチャージ量がアップする。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>ゲージブレイク＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のモードゲージの減少量が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】連撃：10ヒット以上で耐闇＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性ならヒット数10以上のとき、【闇属性耐性が10％アップするバフ】が発動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3c27f8fc4d7206c65512f3f2c27c30762.png"></span><span>クローズアンサーⅡ</span></dt><dd><div>フリックして回避したとき、ターゲットに追加攻撃を行うようになる。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>ファインドアンサーⅡ</span></dt><dd><div>「毒」、「呪い」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>クリティカルアウトプットⅡ</span></dt><dd><div>【アルケミーカートリッジ】バフが時間経過以外によって解除されるとき、自身に【15秒間、クリティカル率を30％アップするバフ】が発動。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e9f818b838a951e6b6d6b9631683bf74.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>767</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>492</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>猫と共に波に乗るため、水着に着替えた<br>ミコト。今も愛猫のミネウチを捜して<br>各地を巡っており、波に乗る猫の噂を<br>聞きつけ浜へ。得物を弓に持ち替えて、<br>射抜いた魚を猫に与える。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/90d8cd6109c5aa230672ce95592b1e492.png"></span>
+				<span>閃輝弓・奉射滅相</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に光属性のダメージを与え、「麻痺」状態にする。アビリティ「天声」の効果によって【照破の閃】【天潮の閃】の2つのバフが付与されている時、このスキルは強化されて、次の追加効果を得る。<br>追加効果：スキルの威力が上昇し、さらに「麻痺」状態の敵にはダメージがアップする。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>閃輝板・浩然喚気</span>
+			</dt>
+			<dd>
+				<div>
+					30秒間、自身の攻撃力を20％アップする。アビリティ「天声」の効果によって【照破の閃】【天潮の閃】の2つのバフが付与されている時、このスキルは強化されて、次の追加効果を得る。<br>追加効果：30秒間、クリティカル発生確率を20％、クリティカルダメージを15％アップする。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>スキルブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のスキルゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】麻痺：麻痺トリガー・耐闇＋8％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性なら敵を麻痺状態にしたとき、【15秒間、闇属性耐性が8％アップするバフ】が発動。<br>この効果は発動してから10秒間は発動しない。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/0c5841f62a44ce904527e0e5e75265e52.png"></span><span>天声Ⅱ</span></dt><dd><div>防御力が5％アップし、バーストアタックが変化する。またクエスト開始時、自身に12秒間【陽の閃】を付与する。この効果中にバーストアタックを使用すると自身に【照破の閃】が付与される。また【照破の閃】は重複して付与されない。【陽の閃】の効果が終了すると自身に12秒間【波の閃】を付与する。この効果中にバーストアタックを使用すると自身に【天潮の閃】が付与される。また【天潮の閃】は重複して付与されない。【波の閃】の効果が終了すると自身に12秒間【陽の閃】を付与する。【照破の閃】【天潮の閃】この2種類のバフを保持しているとスキル「閃輝弓・奉射滅相」スキル「閃輝板・浩然喚気」を強化する。どちらかのスキルを使用すると【照破の閃】【天潮の閃】は解除される。また【陽の閃】【波の閃】は「バフ時間＋」のアビリティ効果の対象にならない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>呪い耐性＋100％</span></dt><dd><div>「呪い」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5928d08635cbad73278c1391505a73392.png"></span><span>雷轟電撃Ⅱ</span></dt><dd><div>「麻痺」状態の敵に対するクリティカル確率が20％、クリティカル時のダメージ倍率が15％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>【注意事項】</div><div>1. 「プラチナレジェンド召喚」についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「プラチナレジェンド召喚」の「提供割合」や「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. 「プラチナレジェンド召喚」では「竜輝の印」を獲得できません。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1604556000; update_time1604307734

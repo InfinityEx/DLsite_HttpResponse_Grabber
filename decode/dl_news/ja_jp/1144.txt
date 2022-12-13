@@ -1,0 +1,8 @@
+article_id:1144
+category_name:お知らせ
+title_name:「1.5Year Anniversary カウントダウン ログインボーナス」開催！
+image_path:https://dragalialost.akamaized.net/attached/information/images/86fa5be1908b9a809ee2b899f9726aec.png
+
+message:<div><span class="local_date" data-local_date="1584511200"></span>から、「1.5Year Anniversary カウントダウン ログインボーナス」を開催中！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/86fa5be1908b9a809ee2b899f9726aec.png"></div><div><br></div><div>開催期間中、ログインするたびに召喚チケットを毎日1枚プレゼント！</div><div>最大7日間で召喚チケット7枚をプレゼントいたします。</div><div><br></div><div>■開催期間</div><div><span class="local_date" data-local_date="1584511200"></span> ～ <span class="local_date" data-local_date="1585288799"></span></div><div><br></div><div>■注意事項</div><div>1. ログインボーナスは、毎日15:00以降にゲームにログインした際に、プレゼントに贈られます。</div><div>2. ログインボーナスとして贈られたプレゼントには、受け取り期限があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1584511200; update_time1583743638

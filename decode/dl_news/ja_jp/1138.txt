@@ -1,0 +1,8 @@
+article_id:1138
+category_name:イベント
+title_name:イベント予告【復刻】「郷愁の空に咲く大輪の華」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/d58e12720f4e7636d8e6e6527fecb9a9.png
+
+message:<div><span class="local_date" data-local_date="1583992800"></span>から、レイドイベント【復刻】「郷愁の空に咲く大輪の華」の開催を予定しております。</div><div>イベント【復刻】「郷愁の空に咲く大輪の華」は、水属性のレイドボスとマルチプレイで戦うイベントです。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/d58e12720f4e7636d8e6e6527fecb9a9.png"></div><div>――春節。<br>東方由来の新年祭が開かれる街に、王子たちはやってきた。<br>点心、ドラゴンダンス、そして夜空に打ち上げられる仙花焔（せんかえん）。<br>楽しい催し物がいろいろ控える中、突然発生する危機！<br>マナを枯らす強大な敵に、功夫少女、武侠、パンダドラゴンたちが立ち向かう！<br><br><br>■注意事項<br>1. イベントクエスト参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。<br>2. マルチプレイ参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1583906400; update_time1583465012

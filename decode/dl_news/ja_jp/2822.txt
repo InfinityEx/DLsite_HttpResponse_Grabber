@@ -1,0 +1,8 @@
+article_id:2822
+category_name:イベント
+title_name:イベント予告【復刻】「迎撃戦～バレンタイン☆★ヘヴン～」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/bff6e171fd74c274910cb22c33c57b63.png
+
+message:<div><span class="local_date" data-local_date="1644818400"></span>から、イベント【復刻】「迎撃戦～バレンタイン☆★ヘヴン～」の開催を予定しております。</div><div><br></div><div>【復刻】「迎撃戦～バレンタイン☆★ヘヴン～」は、拠点に迫り来る多くの敵を迎え撃つ迎撃戦イベントです！</div><div>本イベントの報酬として、シェアスキル解放に使用するアイテムやスタミナが回復するアイテムを獲得できますので、ぜひご参加ください！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/bff6e171fd74c274910cb22c33c57b63.png"></div><div><br></div><div>■注意事項</div><div>イベントクエスト参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1644386400; update_time1643782987

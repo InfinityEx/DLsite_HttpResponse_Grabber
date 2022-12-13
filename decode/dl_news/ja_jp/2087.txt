@@ -1,0 +1,8 @@
+article_id:2087
+category_name:お知らせ
+title_name:アギト叛逆戦「シェルシエル叛逆戦 絶級」の不具合について
+image_path:
+
+message:<div><span class="local_date" data-local_date="1616738400"></span>から追加されたアギト叛逆戦「シェルシエル叛逆戦 絶級」において、下記の不具合を確認しております。</div><div>・マルチプレイにて、特定の条件下でエネミー「ミラクルポッド」が出現しない場合がある。</div><div><br></div><div>本不具合については、現在原因を調査中です。</div><div>なお、ソロプレイでは発生しないことを確認しております。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div>
+
+start_time:1616757300; update_time1616987493

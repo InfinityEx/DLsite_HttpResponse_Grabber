@@ -1,0 +1,8 @@
+article_id:5
+category_name:お知らせ
+title_name:「レジェンド召喚」の開催期間延長
+image_path:
+
+message:<div>ただいま開催中の「レジェンド召喚」について、開催期間を延長いたします。</div><div><br></div><div>開催期間: サービス開始 ～ <span class="local_date" data-local_date="1538632740"></span></div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1538118000; update_time1539317382

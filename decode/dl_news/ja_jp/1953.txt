@@ -1,0 +1,8 @@
+article_id:1953
+category_name:お知らせ
+title_name:Ver2.4.0アップデートに伴う「アルべリアバトルロイヤル」の調整について
+image_path:
+
+message:<div><span class="local_date" data-local_date="1611727200"></span>から、「アルべリアバトルロイヤル」のバランス調整、および開催スケジュールの変更を行います。</div><div><br></div><div>■武器種のバランス調整</div><div>これまでの日々の対戦データを集計・分析し、特定の武器種の勝率が偏らないように下記のバランス調整を行います。</div><div><br></div><div>【武器種：刀】</div><div>・バーストアタックの威力をアップします。</div><div><br></div><div>【武器種：短剣】</div><div>・HPの初期値、およびLvアップ時のHP上昇量を増やします。</div><div>・武器種専用スキルの威力をアップします。</div><div><br></div><div>【武器種：槍】</div><div>・通常攻撃の判定範囲を広げて、攻撃を当てやすくします。</div><div>・武器種専用スキルで付与されるバフの効果が、バーストアタックを3回使用するまで継続できるようにします。</div><div>・バーストアタックのチャージ時間を短くします。</div><div><br></div><div>【武器種：弓】</div><div>・バーストアタックにて、遠くの敵の追尾や、3方向への攻撃ができるようにします。</div><div>・移動速度を少し速くします。</div><div>・バーストアタックのチャージ時間を長くします。</div><div><br></div><div>■瘴気のダメージ調整</div><div>瘴気から受けるダメージが増加します。</div><div><br></div><div>■開催スケジュールの変更</div><div>開催スケジュールを下記の通り変更します。</div><div><br></div><div>変更前：</div><div><span class="local_weekly_time" data-local_date="1670997600"></span> ～ <span class="local_weekly_time" data-local_date="1671170340"></span></div><div><br></div><div>変更後：</div><div><span class="local_weekly_time" data-local_date="1670997600"></span> ～ <span class="local_weekly_time" data-local_date="1671170340"></span></div><div><span class="local_weekly_time" data-local_date="1670738400"></span> ～ <span class="local_weekly_time" data-local_date="1670824740"></span></div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1611640800; update_time1611564195

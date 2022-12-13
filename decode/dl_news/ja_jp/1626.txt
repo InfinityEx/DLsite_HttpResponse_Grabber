@@ -1,0 +1,8 @@
+article_id:1626
+category_name:イベント
+title_name:イベント予告「ロストヒストリア～失われし真実～」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/53eac17ac7615e01b1b0609bffffe471.png
+
+message:<div><span class="local_date" data-local_date="1601445600"></span>から、レイドイベント「ロストヒストリア～失われし真実～」の開催を予定しております。</div><div>イベント「ロストヒストリア～失われし真実～」は、無属性のレイドボスとマルチプレイで戦うイベントです。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/53eac17ac7615e01b1b0609bffffe471.png"></div><div>突如、1000年前の世界に飛ばされてしまったゼシア。<br>そこで、女神と同じ名を持つ少女・イリアと出逢う。<br>ドラゴンと人間が争う中、ゼシアは未来を信じ、世界を導こうとする。<br>運命に抗うその選択は正解か、不正解か？<br>ゼシアは自らの知る未来へと世界を繋げることはできるのか？<br>そして、選択の先に待ち受ける真実とは果たして――<br><br>イベントテーマ曲：「We Are The Lights」/ルクレツィア<br><br><br><br>■注意事項<br>1. イベントクエスト参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br>2. マルチプレイ参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1601002800; update_time1600948677

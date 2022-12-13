@@ -1,0 +1,8 @@
+article_id:722
+category_name:イベント
+title_name:ヴォイド討伐戦に「ニーズヘッグ・ヴォイド」「カトブレパス・アネモス」がついに登場！
+image_path:https://dragalialost.akamaized.net/attached/information/images/d474a072af667917fdad9421fc11e655.png
+
+message:<div><span class="local_date" data-local_date="1568268000"></span>から、「ヴォイド討伐戦」に「ニーズヘッグ・ヴォイド」「カトブレパス・アネモス」が登場！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/d474a072af667917fdad9421fc11e655.png"></div><div>邪竜ニーズヘッグ。生に焦がれ、死を見届ける者。</div><div>その誇り高き心が『黒きマナ 』に染まっていく。</div><div>ただ多くの終焉と絶望を求め、彼は瘴気の翼を広げた。</div><div>今――死を見届ける者は、死をもたらす者となる。</div><div>&nbsp;</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/cee7688fca6c21baa8a0d0e4ced1e11d.png"></div><div>ニーズヘッグ・ヴォイド(闇) 必要戦力：12000</div><div>&nbsp;</div><div>&nbsp;<img src="https://dragalialost.akamaized.net/attached/information/images/032edc38ee3688efb2b9a3bf869ee9d5.png"></div><div>カトブレパス・アネモス(風) 必要戦力：11000</div><div><br></div><div>【注意事項】</div><div>「ヴォイド討伐戦」参加には、メインストーリー第7章 5-6(Normal)をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1568097300; update_time1569476882

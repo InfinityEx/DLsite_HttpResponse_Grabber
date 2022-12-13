@@ -1,0 +1,8 @@
+article_id:589
+category_name:お知らせ
+title_name:ノーマルミッションの追加について
+image_path:
+
+message:<div><span class="local_date" data-local_date="1563602400"></span>から、下記のノーマルミッションを追加いたします。</div><div><br></div><div>・戦力14100以上を対象とした、「パーティの戦力が○に到達」を追加。</div><div>ミッションを達成すると、「竜輝晶」を獲得できます。</div><div>※ミッション追加後に到達した戦力が対象となります。</div><div><br></div><div>・クエストのクリア回数を対象とした、「クエストを○回クリアしよう」を追加。</div><div>ミッションを達成すると、「最高級はちみつ」を獲得できます。</div><div>※ミッション追加後にクリアしたクエストが対象となります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1563170400; update_time1562906656

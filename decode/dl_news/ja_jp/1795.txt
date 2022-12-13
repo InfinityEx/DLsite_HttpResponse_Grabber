@@ -1,0 +1,274 @@
+article_id:1795
+category_name:お知らせ
+title_name:レジェンド召喚「プリンセスコネクト！Re:Dive新しい友だちと異世界ごはん ピックアップ」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1606716000"></span>から、レジェンド召喚「プリンセスコネクト！Re:Dive新しい友だちと異世界ごはん ピックアップ」の開催を予定しております。</div><div><br></div><div>レジェンド召喚「プリンセスコネクト！Re:Dive新しい友だちと異世界ごはん ピックアップ」では、ピックアップ対象のキャラ・ドラゴンの提供割合がアップします。</div><div><br></div><div>レジェンド召喚「プリンセスコネクト！Re:Dive新しい友だちと異世界ごはん ピックアップ」を行うと、召喚で出現するキャラ・ドラゴンに加えて「プライズ」も獲得できます。</div><div><br></div><div>プライズはプラチナ賞、金賞、銀賞、銅賞、5等、6等の6種類があります。</div><div><br></div><div>「10回召喚」を行った場合の10回目のプライズは、プラチナ賞、金賞、銀賞、銅賞のいずれかが確定で獲得できます。</div><div><br></div><div><span style="color: rgb(226, 80, 65);">獲得したプライズは、プレゼントの「期限なし」に送られます。</span></div><div><br></div><div>※召喚チケットを1度に10枚使用しても、「10回召喚」とは異なり、10回目のプライズで、プラチナ賞、金賞、銀賞、銅賞のいずれかが確定で獲得できるわけではありません。</div><div>※プライズの一覧と提供割合はレジェンド召喚「プリンセスコネクト！Re:Dive新しい友だちと異世界ごはん ピックアップ」開催中に、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「プライズ」からご確認ください。</div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 ぺコリーヌ：光/剣</div><div>★5 ミツバ（野食殿Ver.）：風/刀</div><div><br></div><div>■ドラゴン</div><div>★5 ルミエールパンドラ：光</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※今回新規で追加されるキャラ・ドラゴンは、次回のレジェンド召喚からも登場します。</span></div><div><br></div><div>【レジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1606716000"></span> ～ <span class="local_date" data-local_date="1607320799"></span></div><div><br></div><div>プライズの一部を、下記にてご紹介いたします。</div><div><br></div><div>【プライズ一覧の一部】</div><div>■プラチナ賞</div><div>プラチナ賞が排出された場合、下記の中から提供割合に基づいて1種類が獲得できます。</div><div>・金剛晶 1個</div><div>・ダマスカス鋼 1個</div><div>・アダマント 1個</div><div><br></div><div>■金賞</div><div>金賞が排出された場合、下記の中から提供割合に基づいて1種類が獲得できます。</div><div>・金剛原石 3個</div><div>・英雄の証 2個</div><div>・夢想の聖鍵 2個</div><div>・星空の煌めき 7個</div><div><br></div><div>■銀賞</div><div>銀賞が排出された場合、下記の中から提供割合に基づいて1種類が獲得できます。</div><div>・英雄の証 1個</div><div>・金剛原石 1個</div><div>・星空の煌めき 3個</div><div>・ダマスカス骸晶 2個</div><div>・月光晶 2個</div><div>・騎士の証 2個</div><div>・真なる輝竜の尾 3個</div><div>・輝竜のブレイヴスフィア 5個</div><div>・虹のオーブ 3個</div><div>・金燐光のオーブ 5個</div><div><br></div><div>新規で追加されるピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/30ffe8f5166c493f0788cf4f68e9b13b.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>『アストライア』からやってきた、<br>ギルド【美食殿】のギルドマスターにして<br>いつもお腹を空かせている腹ペコ剣士。<br>異世界においても、その旺盛な食欲は<br>とどまるところをしらない。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8bc784d76a34568599242e4d6e41ef7b2.png"></span>
+				<span>プリンセスストライク</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					自身に【10秒間、闇属性耐性を10％アップ】を付与し、前方の敵に光属性のダメージを与える。この闇属性耐性をアップする効果は重複しない。お米のパワーゲージが最大まで溜まると、このスキルは「プリンセスヴァリアント」となり、効果が次のように変化する。5秒間、自身の攻撃力を40％アップし、前方の敵に光属性のダメージを与える。スキルの変化はお米のパワーゲージがなくなると元に戻る。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9e1898818f4652069e70f1ad504ad68d2.png"></span>
+				<span>ランチタイム</span>
+			</dt>
+			<dd>
+				<div>
+					自身のHPを回復し、お米のパワーゲージを増加させる。さらに15秒間、自身の防御力を15％アップさせる。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>竜化ブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の竜化ゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【光】無傷：HP60％で攻＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性ならHP60％以上のとき、【攻撃力が6％アップするバフ】が発動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b0f9893a86ba76b0f104d8e5df90cc332.png"></span><span>お腹ペコペコのペコリーヌⅡ</span></dt><dd><div>お米のパワーゲージを追加する。<br>お米のパワーゲージはスキル2を使用するとチャージされる。<br>ゲージが最大になったとき、バーストアタックが変化し時間経過でお米のパワーゲージが減少する。<br>バーストアタックの変化はお米のパワーゲージがなくなると元に戻る。<br>お米のパワーゲージが減少している間は「スキル2のお米のパワーゲージを増加させる効果」を受けない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>呪い耐性＋100％</span></dt><dd><div>「呪い」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ffb9968d43f8fb3edf69d3eddffc0bbd2.png"></span><span>ごはんは命のエネルギー☆Ⅱ</span></dt><dd><div>HPが回復したとき、自身に【10秒間、攻撃力が20％アップするバフ】が発動。この効果は発動してから20秒間は発動しない。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/aa4a5781cd849a6eca8c98a01c6504b5.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/960c7daac545c22ad02e9e69f39f670e2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>781</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>494</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>アルベリアで料理修行中のヒノモト料亭娘。<br>仲間と野外料理に挑戦したことをきっかけに<br>山での食事の美味しさに興味を抱く。実家の<br>料亭をたてなおすための『新たな味』を求め<br>割烹少女は野山を駆ける！</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/659df034cb15d577d4c1578fba2f0c382.png"></span>
+				<span>活け〆魔獣づくり</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に風属性のダメージを与え、「切り傷」状態にする。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>魔獣御膳大振る舞い</span>
+			</dt>
+			<dd>
+				<div>
+					このキャラの攻撃が15ヒットするたびに自身に【献立追加】を付与する。<br>【献立追加】は最大3つまで重複する。<br>自身の周囲に15秒間【バフフィールド】を展開する。<br>このスキルのバフフィールドはスキルを発動したときの【献立追加】の数に応じて効果が変化する。<br>1つ：スキルダメージが10％アップする。<br>2つ：スキルダメージが10％、クリティカル率が10％アップする。<br>3つ：スキルダメージが10％、クリティカル率が10％、攻撃力が5％アップする。<br>このスキルは、【献立追加】が付与されている間のみ使用可能で、<br>スキル使用時、【献立追加】は全て解除される。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻撃力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の攻撃力が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>【風】堅守：HP80％で耐水＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが風属性ならHP80％以上のとき、水属性耐性が6％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>切り傷トリガー・攻＋10％</span></dt><dd><div>敵を「切り傷」状態にしたときに自身に【10秒間、攻撃力が10％アップするバフ】が発動。<br>この効果は発動してから5秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>凍結耐性＋100％</span></dt><dd><div>「凍結」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/727e4e8f12face22a6f4d46574b0b3fe2.png"></span><span>板前の目利きⅡ</span></dt><dd><div>スキル「魔獣御膳大振る舞い」を使用したとき、自身に【マンドラダイコン収穫】バフが発動。【マンドラダイコン収穫】バフ発動中はスキルゲージ上昇率が15％アップし、次に使用するバーストアタックが【珍味マンドラダイコン】となり、ヒットした敵を「毒」状態にする。【マンドラダイコン収穫】バフは重複せず、バーストアタックを使用すると解除される。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/119162e713772b1691eea2b74252c923.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>世界をより良くする力を持った、不思議な<br>箱を持つ双子のドラゴンの妹。姉が持つ<br>『災厄の箱』と対になった『希望の箱』で、<br>世界に希望と幸福を振りまく。お姉ちゃん<br>が大好きで、本当は甘えん坊さん。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>シューティングハピネス☆</span>
+			</dt>
+			<dd>
+				<div>
+					15秒間、自身の攻撃力を25％、クリティカル率を15％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】希望の箱の使者Ⅴ</span></dt><dd><div>装備キャラが光属性のとき、自身に付与された【幸せのキラキラ】バフ1つにつき攻撃力が20％アップする。<br>【幸せのキラキラ】バフはクエスト開始時に自身に4つ付与され、また自身のスキルによって自身に攻撃力アップ、防御力アップ、属性耐性アップ、クリティカル率アップ、クリティカルダメージアップ、やる気アップ、ヒラメキアップが付与された際に1つ付与される。<br>【幸せのキラキラ】バフは最大4つまで重複し、1つ目が付与されてから20秒経過ごとに1つずつ消費される。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. プライズの一覧と提供割合は、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「プライズ」からご確認ください。</div><div>3. 「10回召喚」や召喚チケットを1度に10枚使用して獲得したアイテムが重複した場合、アイテムごとに個数をまとめて「期限なし」のプレゼントに送られます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1606629600; update_time1606786534

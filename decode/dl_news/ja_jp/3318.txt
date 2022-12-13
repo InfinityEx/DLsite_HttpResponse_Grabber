@@ -1,0 +1,8 @@
+article_id:3318
+category_name:お知らせ
+title_name:一部画面が正常に表示されない現象について【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1665647520"></span>追記】</strong></span></div><div>本現象につきまして、下記の操作により解消する場合があることを確認しております。<br>現象が発生した場合は、下記をお試しください。<br><br>・Google Playのアカウントをログアウトし、再ログインする<br><br>プレイヤーの皆様には、ご迷惑をおかけしておりますことを重ねてお詫び申し上げます。</div><div><br></div><hr><div><span class="local_date" data-local_date="1665639000"></span>ごろから、召喚やスタミナ回復などの一部画面が正常に表示されない現象が発生しております。<br><br>現在、原因を調査中です。<br><br>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div>
+
+start_time:1665643020; update_time1665655139

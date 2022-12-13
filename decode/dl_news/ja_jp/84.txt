@@ -1,0 +1,8 @@
+article_id:84
+category_name:メンテナンス
+title_name:「ショップ」メンテナンスのお知らせ【追記】
+image_path:
+
+message:<div>「ショップ」のメンテナンスを実施いたします。</div><div>※本メンテナンスは「ショップ」のみの実施のため、「ショップ」以外については通常通りプレイいただけます。</div><div>※「毎日プレゼントパック」や「毎日チャージパック」のプレゼントは、本メンテナンス前にお受け取りください。</div><div><br></div><div>■メンテナンス期間</div><div><span class="local_date" data-local_date="1542000600"></span> ～ <span class="local_date" data-local_date="1542003000"></span></div><div><br></div><div>■メンテナンス内容</div><div>・各属性の「属性強化パック」の販売回数を、1回/週から、2回/週に変更します。</div><div>・「キャラ育成おたすけパック」の販売回数を、2回/週から、3回/週に変更します。</div><div>・「装備強化おたすけパック」の販売回数を、2回/週から、3回/週に変更します。</div><div>・「マナサークル解放パック」の販売回数を、1回/月から、2回/月に変更します。</div><div><br></div><div>■注意事項</div><div>メンテナンスの開始日時、および終了日時は前後する場合がございます。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1542002700"></span> 追記</strong></span><br><br>「ショップ」のメンテナンスは、<span class="local_date" data-local_date="1542002700"></span>に終了いたしました。<br>メンテナンスにご協力いただき、ありがとうございました。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1541734200; update_time1542364360

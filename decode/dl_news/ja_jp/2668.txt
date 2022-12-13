@@ -1,0 +1,251 @@
+article_id:2668
+category_name:お知らせ
+title_name:「ドラガリアフェス　エクストラ」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1639548000"></span>から、「ドラガリアフェス　エクストラ」の開催を予定しております。</div><div><br></div><div>【ドラガリアフェスとは】 ※「ドラガリアフェス　エクストラ」含む</div><div>★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップします！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><span style="color: rgb(226, 80, 65);">※今回新規で追加される★5キャラ「アヤハ＆オトハ（火）」は、次回のレジェンド召喚からも登場します。</span></div><div><span style="color: rgb(226, 80, 65);">※これまでの「ドラガリアフェス」で追加されたキャラ・ドラゴンも本召喚から登場する場合があります。登場するキャラ・ドラゴンの詳細はゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</span></div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 アヤハ＆オトハ：火/杖</div><div><br></div><div>【過去のドラガリアフェスから登場するピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 レオニード（ドラフェスVer.）：火/銃（機関銃モード）</div><div><br></div><div>■ドラゴン</div><div>★5 アグニブレイヴ（ドラフェスVer.）：火</div><div><br></div><div>また、今回のドラガリアフェスでは下記の期間限定のキャラ・ドラゴンが再登場します。</div><div><span style="color: rgb(226, 80, 65);">※下記のキャラ・ドラゴンはピックアップ対象ではございません。</span></div><div><br></div><div>【期間限定で再登場するキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 リリィ（星竜祭Ver.）：水/杖</div><div>★5 ヴィクター（星竜祭Ver.）：闇/斧</div><div>★5 マローラ（星竜祭Ver.）：光/斧</div><div>★5 クラウ（星竜祭Ver.）：水/短剣</div><div>★4 ネファリエ（星竜祭Ver.）：水/弓</div><div>★4 アレクシス（星竜祭Ver.）：水/ロッド</div><div>★4 ザインフラッド（星竜祭Ver.）：風/ロッド</div><div><br></div><div>■ドラゴン</div><div>★5 ジャンヌダルク（星竜祭Ver.）：水</div><div><br></div><div>【ドラガリアフェス　エクストラ開催期間】</div><div><span class="local_date" data-local_date="1639548000"></span> ～ <span class="local_date" data-local_date="1639979999"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/602258e8e74471bc55e1f591371728a2.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>765</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>492</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,497</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>かつて『アギト』に与していた双子の姉妹。<br>黒髪がアヤハで白髪がオトハ。無邪気で<br>残酷な性格で、自分たちの掲げる自由が<br>一番正しいと信じ、『アギト』壊滅後は<br>欲望のまま好き勝手に行動している。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d07d9921bf8130db4dfafb43dde61cc52.png"></span>
+				<span>なべなべそこぬけ</span>
+			</dt>
+			<dd><div>■通常時<br>・ターゲットとその周囲の敵にダメージを与える。このスキルがヒットすると自身の竜化ゲージが上昇する。<br>・パーティ全員の状態異常を解除する。<br>・操作している「アヤハ」と「オトハ」を交代する。<br>・スキル「おにごっこ/かごめかごめ」を使用した直後にこのスキルを使用した場合、スキル「おにごっこ/かごめかごめ」を即時発動可能にする。<br><br>■竜化時<br>スキルが「はないちもんめ」となり、効果が次のようになる。<br>・ターゲットとその周囲の敵にダメージを与え、「気絶」、「火傷」、「劫火」状態にする。また、与えたダメージに応じたHPを回復する。攻撃時に敵を引き寄せる。<br>・パーティ全員に攻撃力アップのバーストオーラと【最大HPをアップするバフ】と【むらさきのはごろも】を付与する。</div><div class="skill-detail">威力：81 × 14 Hit<br>必要スキルポイント：8,364<br>竜化ゲージ回復量：40<br>特殊効果<br>・全状態異常回復<br><br>（竜化時）<br>威力：396 × 7 Hit<br>特殊効果<br>・HP15％アップ<br>・むらさきのはごろも<br>　重複不可<br>　HP継続回復<br>　効果間隔：2.9 秒<br>　効果量：最大HPの2％<br>　気絶特効10％アップ<br>　火傷特効5％アップ<br>　劫火特効5％アップ<br>・気絶<br>　効果時間：7 秒<br>・火傷<br>　効果時間：12 秒<br>　効果間隔：3.9 秒<br>　威力：97<br>・劫火<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41<br>バーストオーラ付与<br>・攻撃力アップ（バーストオーラ上限Lv 1）<br>HPドレイン<br>・回復量：与ダメージの10％<br>　回復上限：各キャラの最大HPの10％<br>　回復対象：パーティ全員</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3171d52c1cdee5d533d25df908ef96252.png"></span>
+				<span>おにごっこ/かごめかごめ</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>このスキルは操作しているキャラによって効果が変化する。<br>■アヤハ操作時<br>スキルが「おにごっこ」となり、効果が次のようになる。<br>・ターゲットとその周囲の敵にダメージを与え、「気絶」状態にする。<br>・パーティ全員のHPを回復し、【あおいはごろも】を付与する。<br><br>■オトハ操作時<br>スキルが「かごめかごめ」となり、効果が次のようになる。<br>・複数の攻撃対象とその周囲の敵にダメージを与え、「火傷」、「劫火」状態にする。この攻撃は同じ対象には重複して発動しない。<br>・パーティ全員のHPを回復し、【追いうちダメージ】と【あかいはごろも】を付与する。</div><div class="skill-detail">（アヤハ操作時）<br>威力：1,395 × 1 Hit<br>回復力：60<br>必要スキルポイント：4,132<br>必要シェアスキルポイント：16,395<br>特殊効果<br>・気絶<br>　効果時間：6 秒<br>・あおいはごろも<br>　効果時間：30 秒<br>　重複上限：3<br>　風属性耐性4％アップ<br>　HP継続回復<br>　効果間隔：2.9 秒<br>　効果量：18<br><br>（オトハ操作時）<br>威力：1,048 × 1 Hit<br>回復力：60<br>必要スキルポイント：4,132<br>特殊効果<br>・あかいはごろも<br>　全状態異常付与率50％アップ<br>　効果時間：30 秒<br>　重複上限：3<br>・追いうちダメージ<br>　効果時間：30 秒<br>　効果量：40％<br>　重複不可<br>・火傷<br>　効果時間：12 秒<br>　効果間隔：3.9 秒<br>　威力：72.7<br>・劫火<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：31</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>竜化中ダメージアップ＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の竜化中のダメージ倍率が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span>
+				<span>【火】連撃：連撃でバフスキル時間＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性ならヒット数10以上のとき、使用するバフスキルの効果時間が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c0668faa3dc59d6a25d13c11b55642532.png"></span><span>ちょうつがいⅡ</span></dt><dd><div>①「アヤハ」と「オトハ」であらゆるステータスを共有する。クエスト開始時は「アヤハ」を操作する。「アヤハ」と「オトハ」で通常攻撃・バーストアタック・ダッシュ攻撃・スキル2の性能が異なり、バーストアタックは次のようになる。<br>・アヤハ：直線上の敵にダメージを与え、20秒間【攻撃力5％ダウン（重複不可）】を付与する。<br>・オトハ：周囲の敵にダメージを与える。<br><br>②装備しているドラゴンに関わらず、「獣化アヤハ＆オトハ」に竜化し、竜化中次の効果が発動する。<br>・自身の竜化時間が25％アップする。<br>・竜化スキルのレベルがキャラ「アヤハ＆オトハ」のスキル1のレベルと同じになる。<br>・通常攻撃で30秒間【火傷耐性20％ダウン（重複不可）】または30秒間【劫火耐性20％ダウン（重複不可）】を付与する。<br>・次の効果のドラゴンバーストが使用できる。周囲の敵にダメージを与え、「気絶」、「劫火」状態にする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6a94f7adaeafadf56700005abbf6d8fe2.png"></span><span>わらべあそびⅡ</span></dt><dd><div>①クエスト中にスキル「なべなべそこぬけ」を使用した回数分、状態異常になる確率が20％ダウンする。この効果は最大5回分まで重複する。<br>②スキル「なべなべそこぬけ」または「おにごっこ/かごめかごめ」を使用するたび、自身に攻撃力アップのオーラ（バーストオーラ上限Lv1）を付与する。この効果は発動してから8秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cb8b9d60b801a6b11eda8d8e40214f1f2.png"></span><span>とおせんぼ＆とおりゃんせⅡ</span></dt><dd><div>①自身に状態異常が付与されていないとき、受けるダメージを10％カットする。<br>②自身に状態異常が付与されていない状態で9秒経過するたび、自身に【あそべやあそべ】を付与する。この効果中は攻撃力が5％、回復スキルの効果量が10％アップする。このバフは最大3つまで重複可能で、自身に状態異常が付与されたときすべて解除される。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div><br></div><div>■アヤハ＆オトハのシェアスキルについて<br>シェアスキルはアヤハ操作時のスキル「おにごっこ」になります。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e02909420291be169c0b29867f73fcd8.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,499</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>使用可能モード</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/4805e47916f093eb2b9049cff29e9eb72.png"><img src="https://dragalialost.akamaized.net/attached/information/images/d45c68ecb3b1d88cba2136c949f214772.png"><img src="https://dragalialost.akamaized.net/attached/information/images/1f0f10277cfc223cafe9e19e2d15434d2.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>アルべリア王国の第一位王子。<br>ドラゴンに管理された世界から脱却すべく、<br>南グラスティア大陸のみならず、世界全土の<br>統一を目指す。決意の証である紅蓮の衣を<br>身に纏い、今日も我が道を突き進む。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/775392a8a09a554df496b2a54960c3e62.png"></span>
+				<span>ルーラーズバレット</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、「劫火」状態にする。</div><div class="skill-detail">威力：100 × 18 Hit<br>必要スキルポイント：3,780<br>必要シェアスキルポイント：7,975<br>特殊効果<br>・劫火<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d06b5882930f12e76cbac51669f220ff2.png"></span>
+				<span>ドミネイトワールド</span>
+			</dt>
+			<dd><div>自身に【ラディカルマナー】を付与し、周囲の敵にダメージを与え、バフを1つ解除する。<br>【ラディカルマナー】は効果時間中に再度【ラディカルマナー】が付与される事でレベルアップし、効果が強化される。<br>【ラディカルマナー】は効果時間が過ぎるとレベルダウンし、Lv1のときにレベルダウンすると解除される。<br>Lv1：40秒間、ダメージを10％カットする。<br>Lv2：40秒間、攻撃力が5％アップし、ダメージを10％カットする。<br>Lv3：40秒間、攻撃力が5％アップし、ダメージを15％カットする。<br>Lv4：40秒間、攻撃力が10％アップし、ダメージを20％カットする。<br>Lv5：クエスト中、攻撃力が10％アップし、ダメージを20％カットする。</div><div class="skill-detail">威力：300 × 7 Hit<br>必要スキルポイント：7,560<br>特殊効果<br>・バフ解除<br>・ラディカルマナー<br>　効果時間：40 秒<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>ゲージブレイク＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のモードゲージの減少量が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span>
+				<span>【火】連撃：連撃で竜化チャージⅤ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性なら攻撃が50ヒットするたびに竜化ゲージが3％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/054d33d79920a0e51bbbb11909b08bf92.png"></span><span>制覇せし竜の血Ⅱ</span></dt><dd><div>装備しているドラゴンに関わらずマーズに竜化する。<br>自身に【ラディカルマナーLv5】が付与されているとき、竜化時間が半減し、竜化による竜化ゲージの消費量が50％ダウンする。<br>この効果が発動している状態で竜化すると、<br>竜化が解除されたとき、【ラディカルマナーLv5】が解除される。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea4c47784ca6465117276eb2a3d9a0d92.png"></span><span>覇者の意志Ⅱ</span></dt><dd><div>「気絶」、「睡眠」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/62ec54c3111dcff5d7c6fadf0c9e0ae92.png"></span><span>バーンアウトⅡ</span></dt><dd><div>「劫火」状態の敵に与えるダメージが30％、オーバードライブ中の敵に与えるダメージが10％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e22ee379c8f7dca88a22189ad557c37a.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>炎帝と呼ばれた貪欲なドラゴン・アグニが<br>生まれ変わった姿。平和な世界を求める者の<br>心に共鳴し、身を蝕む瘴気から解放された。<br>すべてを喰らい尽くさんとする貪欲さは<br>以前以上に燃え滾り、万物を灰燼へ帰す。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>ブレイズインベイジョン</span>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、「劫火」状態にする。ブレイク中の敵にはダメージがダウンする。<br>スキル使用中でなく、敵をターゲットしているときに竜化時間が0になった場合、このスキルが自動で発動する。この効果はスキルゲージがチャージされていない状態でも発動する。</div><div class="skill-detail">威力：1,078 × 1 Hit<br>威力：1,470 × 1 Hit<br>特殊効果<br>・劫火<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6<br>特定状態へのダメージ倍率<br>・ブレイク：75％<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻撃力＋70％</span></dt><dd><div>装備キャラが火属性なら<br>装備キャラの攻撃力が70％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ba1d939f31aa624b013b900d03a48812.png"></span><span>【火】灼熱の滾りⅡ</span></dt><dd><div>装備キャラが火属性なら<br>竜化ゲージが10％上昇するたび、自身に【45秒間風属性と無属性の敵に対して攻撃したときダメージ倍率が30％アップするバフ】が発動。<br>この効果は重複せず、発動してから5秒間は発動しない。</div></dd></dl></div></div></div><div>※Lv100、上限解放4段階、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1639461600; update_time1639359716

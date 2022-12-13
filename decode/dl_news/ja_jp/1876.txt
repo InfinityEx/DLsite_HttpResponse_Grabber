@@ -1,0 +1,74 @@
+article_id:1876
+category_name:お知らせ
+title_name:「竜輝の護符交換所」のラインナップに期間限定で竜輝の護符を追加！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1609394400"></span>から、「竜輝の護符交換所」のラインナップに、期間限定で竜輝の護符を追加しました。</div><div><br></div><div>追加された竜輝の護符は、「竜輝の護符交換所」内の「ピックアップ」タブや、各レアリティのタブから交換できます。</div><div><br></div><div>【新たな竜輝の護符紹介】</div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/cbde4cfab621e5f9f617adbd126b88832.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/4bc7ceaf11d54996eee5b6ba756bc05f2.png"></div>
+	<div class="discription">
+		<div class="charaName">新春カワイイ流天下一決定戦</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5b8f1930779d870cb69bf678e6b5c28d2.png"></span><span>劫火特効＋25％&nbsp;(Max25％)</span></dt><dd><div>「劫火」状態の敵に与えるダメージが25％アップする。&nbsp;(Max25％)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/f2e385783acb4613791f8d5cba9c78a22.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/0aa465679884392adac7ac7a19d7e9432.png"></div>
+	<div class="discription">
+		<div class="charaName">十二竜氏がふたり、参る！</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>スキルダメージ＋30％&nbsp;(Max40％)</span></dt><dd><div>攻撃スキルのダメージが30％アップする。&nbsp;(Max40％)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/c2cd18c2e4b5c328c2c5916b3283f7bf2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">謹賀新年</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span><span>光属性耐性＋13％&nbsp;(Max15％)</span></dt><dd><div>光属性のダメージを13％減少させる。&nbsp;(Max15％)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/082c0276ead832573c5cecaaeee4ff522.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/0aa465679884392adac7ac7a19d7e9432.png"></div>
+	<div class="discription">
+		<div class="charaName">ヒノモトよりの使者</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>スキルダメージ＋30％&nbsp;(Max40％)</span></dt><dd><div>攻撃スキルのダメージが30％アップする。&nbsp;(Max40％)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/224d16567c9e4c53e833b0600cd0b8bd2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">新しい年のはじまり</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>疾風怒濤・会心＋10％&nbsp;(Max15％)</span></dt><dd><div>ヒット数15以上で、攻撃がクリティカルになる<br>確率が10％アップする。&nbsp;(Max15％)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/c6c194e79dd187160e407eb1c423a5f62.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/b6fe5f7f272fe5c0a9f21d57ac1ec20b2.png"></div>
+	<div class="discription">
+		<div class="charaName">羽子板勝負！</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>背水の陣・攻＋40％&nbsp;(Max60％)</span></dt><dd><div>HP30％以下になったとき、【15秒間、攻撃力が<br>40％アップするバフ】が発動。<br>この効果は1クエスト中1回まで発動する。&nbsp;(Max60％)</div></dd></dl></div></div></div><div><br></div><div><br></div><div>※最大上限解放時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【ピックアップ期間】</div><div><span class="local_date" data-local_date="1609394400"></span> ～ <span class="local_date" data-local_date="1612072799"></span></div><div><br></div><div><span style="color: rgb(226, 80, 65);"><strong>※今回追加された期間限定の竜輝の護符は、ピックアップ期間終了後は交換できません。</strong></span></div><div><br></div><div>【注意事項】</div><div>1. 今回ピックアップされた竜輝の護符は、今後再度登場する可能性があります。</div><div>2. 本お知らせに掲載されている内容以外の情報は、マイページ内のショップから「竜輝の護符交換所」をご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1609394400; update_time1608782382

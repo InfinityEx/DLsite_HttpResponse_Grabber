@@ -1,0 +1,8 @@
+article_id:1644
+category_name:お知らせ
+title_name:GAME LIVE JAPAN 2020『ドラガリアロスト』生放送プレゼント配布
+image_path:
+
+message:<div>ゲームメディア&ldquo;ファミ通&rdquo;と&ldquo;ゲームの電撃&rdquo;を展開するKADOKAWA Game Linkageがプロデュースするゲーム情報番組『GAME LIVE JAPAN 2020』で配信された『ドラガリアロスト』の生放送番組をご視聴いただきありがとうございました。</div><div>番組内で、「アルべリアバトルロイヤル」のミッションを見事達成いたしましたので、プレゼントを<span class="local_date" data-local_date="1601200800"></span>までにゲームを開始されたプレイヤーの皆様にお贈りいたしました！</div><div><br></div><div>■プレゼント内容</div><div>・金剛原石&times;5<br>・召喚チケット&times;3</div><div><br></div><div>■注意事項</div><div>お贈りしたアイテムの受け取り期限は、「プレゼント」にアイテムが贈られてから7日間です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1601200800; update_time1601199291

@@ -1,0 +1,8 @@
+article_id:1979
+category_name:イベント
+title_name:イベント予告【復刻】「舞姫と魔竜の円舞曲」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/108222b5c7d76aac06db75062eb7aef4.png
+
+message:<div><span class="local_date" data-local_date="1613455200"></span>から、レイドイベント【復刻】「舞姫と魔竜の円舞曲」の開催を予定しております。<br>【復刻】「舞姫と魔竜の円舞曲」は、闇属性のレイドボスとマルチプレイで戦うイベントです。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/108222b5c7d76aac06db75062eb7aef4.png"></div><div>愛に狂いし王に囚われた舞姫・フェリーチャ。<br>彼女を救わんとするドラゴン「ファントム」。<br>自由を求めたふたりを救うべく、<br>王子たちは「死の王」に立ち向かう。<br>今、ひとつの愛の物語が幕を開ける――！<br><br>■イベント期間<br><span class="local_date" data-local_date="1613455200"></span> ～ <span class="local_date" data-local_date="1614319199"></span><br><br>■注意事項<br>1. イベントクエスト参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br>2. マルチプレイ参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1613109600; update_time1612775182

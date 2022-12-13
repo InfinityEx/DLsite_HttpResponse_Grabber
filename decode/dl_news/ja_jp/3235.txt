@@ -1,0 +1,192 @@
+article_id:3235
+category_name:お知らせ
+title_name:「ドラガリアフェス」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1648706400"></span>から、「ドラガリアフェス」を開催中です！</div><div><br></div><div>【ドラガリアフェスとは】 ※「ドラガリアフェス　エクストラ」含む</div><div>★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップ中です！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><span style="color: rgb(226, 80, 65);">※今回新規で追加される★5キャラ「ゼシア（絆の力Ver.）」「主人公（絆の力Ver.）」は、次回のレジェンド召喚からも登場します。</span></div><div><span style="color: rgb(226, 80, 65);">※これまでの「ドラガリアフェス」で追加されたすべての「ドラフェスVer.」のキャラ・ドラゴンが本召喚から登場します。登場するキャラ・ドラゴンの詳細はゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</span></div><div><span style="color: rgb(226, 80, 65);">※下記以外のキャラ・ドラゴンはピックアップ対象ではございません。</span></div><div><span style="color: rgb(226, 80, 65);">※別途開催中の「★5確定ハッピー☆ギフトスクラッチ召喚」に、本召喚から新規で追加されるキャラは登場いたしません。</span></div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 ゼシア（絆の力Ver.）：光/ロッド</div><div>★5 主人公（絆の力Ver.）：風/剣</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※「竜輝の印」は獲得した召喚のみで消費できます。<span class="local_date" data-local_date="1648360800"></span>から<span class="local_date" data-local_date="1648706399"></span>まで開催された「ドラガリアフェス」で獲得した「竜輝の印」を<span class="local_date" data-local_date="1648706400"></span>から<span class="local_date" data-local_date="1649224799"></span>まで開催中の「ドラガリアフェス」で消費することはできません。</span></div><div><br></div><div>【ドラガリアフェスの提供割合】</div><div>★5 合計：6.00％</div><div>★5ピックアップ 合計：1.00％（キャラ：1.00％）</div><div>★5通常 合計：5.00％（キャラ：2.00％ ドラゴン：3.00％）</div><div>★4通常 合計：16.00％（キャラ：8.55％ ドラゴン：7.45％）</div><div>★3通常 合計：78.00％（キャラ：47.00％ ドラゴン：31.00％）</div><div><br></div><div>【ドラガリアフェス開催期間】</div><div><span class="local_date" data-local_date="1648706400"></span> ～ <span class="local_date" data-local_date="1649224799"></span></div><div><br></div><div>ピックアップ対象のキャラを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/581d4646f84fb6d140f030b65e185aba.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>751</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>510</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>絆の力で覚醒したゼシア。<br>巫女とバハムートの力を使い、世界を<br>守るため、兄や仲間たちと共に戦う。<br>戦う力のみならず、心の強さも手に入れた<br>彼女はもう守られるだけの存在ではない。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5299b6045ba548739b1b50f5c8e92a442.png"></span>
+				<span>ブレイジングレイ</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>通常時<br>ターゲットとその周囲の敵にダメージを与え、「閃熱」状態にする。<br><br>絆の力付与時<br>ターゲットとその周囲の敵にダメージを与え、「閃熱」状態にし、バフを1つ解除する。<br>また、スキル発動中に攻撃でのけぞらなくなる。</div><div class="skill-detail">威力：800 × 3 Hit<br>必要スキルポイント：2,800<br>必要シェアスキルポイント：7,980<br>特殊効果<br>・閃熱<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6<br><br>（絆の力付与時）<br>威力：1,800 × 1 Hit<br>威力：360 × 5 Hit<br>必要スキルポイント：2,800<br>特殊効果<br>・閃熱<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6<br>・バフ解除</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0e22dbd42118a954d53624bdb6620ad22.png"></span>
+				<span>アフェクションリング</span>
+			</dt>
+			<dd><div>通常時<br>パーティ全員に【絆の力】を付与する。<br>現在のHP以上のダメージを受けたときそのダメージを無効化し、他のパーティメンバーが最大HPの20％分ダメージを受ける。<br>この効果でダメージを無効化したとき【絆の力】は解除される。<br><br>絆の力付与時<br>パーティ全員のHPを回復する。<br>また、パーティ全員の【絆の力】を解除する。</div><div class="skill-detail">必要スキルポイント：4,200<br>特殊効果<br>・絆の力<br>　重複不可<br><br>（絆の力付与時）<br>必要スキルポイント：0<br>回復力：100</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>スキルダメージ＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のスキルダメージが15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】堅守：HP80％で耐闇＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性ならHP80％以上のとき、闇属性耐性を6％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/591da5c63620a841e49a273e761ada402.png"></span><span>巫女の奇跡Ⅱ</span></dt><dd><div>①HP30％以下になったとき、自身のHPを回復する。<br>自身に【絆の力】が付与されている場合はさらに自身を除くパーティ全員のHPを回復する。<br>これらの効果はそれぞれ発動してから45秒間は発動しない。<br>②スキル「アフェクションリング」を使用したとき、パーティ全員にクリティカル時のダメージ倍率アップのバーストオーラ（バーストオーラ上限Lv3）を付与する。<br>この効果は発動してから30秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>不屈の絆Ⅱ</span></dt><dd><div>「毒」、「呪い」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>護るための強さⅡ</span></dt><dd><div>攻撃スキルのダメージが20％アップする。<br>【絆の力】が付与されているとき、さらに攻撃スキルのダメージが40％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div>※「絆の力」についての詳細はヘルプをご確認ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/39edfef9b919a7046ddedcfa57ef2552.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>755</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>504</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>みんなを守る鎧となるため、絆を束ねて<br>新たなる力を得た第七位王子。<br>これまで共に培ってきた仲間たちとの絆が<br>ある限り、どんな絶望もはねのけて<br>希望に満ちた新たな可能性を切り拓く。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/904a0bf1acfed3176b20198f43edaa5e2.png"></span>
+				<span>ブレイジングテンペスト</span>
+			</dt>
+			<dd><div>■通常時<br>・ミドガルズオルムサガによって、ターゲットとその周囲の敵にダメージを与え、攻撃がヒットした場合自身の竜化ゲージが上昇する。この攻撃は一部の竜化中に発動するアビリティの効果を受ける。<br>・またその後ミドガルズオルムサガから戻り、さらに直線上の敵にダメージを与え、「裂風」状態にする。<br><br>■竜化時<br>スキルが「ユナイテッドテンペスト」となり、効果が次のようになる。<br>・周囲の敵にダメージを与え、風属性耐性をダウンさせる。<br>・さらに前方の敵にダメージを与え、「気絶」状態にする。<br>・このスキルは竜化中に攻撃することで再チャージが可能で、1度の竜化中に最大2回まで使用できる。</div><div class="skill-detail">威力：230 × 5 Hit<br>威力：1,085 × 1 Hit<br>必要スキルポイント：3,050<br>特殊効果<br>・裂風<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41<br>竜化ゲージ回復量：50<br><br>（竜化時）<br>威力：60 × 15 Hit<br>威力：300 × 4 Hit<br>威力：195 × 3 Hit<br>特殊効果<br>・風属性耐性15％ダウン<br>　重複不可<br>・気絶<br>　効果時間：7 秒</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/fc288d44b2abc84660337299848315c12.png"></span>
+				<span>ヴォルテックスクラウン</span>
+			</dt>
+			<dd><div>・ミドガルズオルムサガによって、周囲の敵にダメージを与え、「気絶」状態にする。この攻撃は一部の竜化中に発動するアビリティの効果を受ける。<br>・またその後ミドガルズオルムサガから戻り、さらに周囲の敵にダメージを与える。この攻撃はモードゲージの減少量が大きい。</div><div class="skill-detail">威力：271 × 8 Hit<br>威力：2,025 × 1 Hit<br>必要スキルポイント：7,200<br>特殊効果<br>・気絶<br>　効果時間：6 秒</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2993ccd3f5c88b4fc376f81999404f672.png"></span>
+				<span>竜化強化Ⅷ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の竜化中のダメージ倍率が10％、竜化時間が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>【風】竜化：竜化ブースト＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが風属性なら竜化ゲージ上昇率が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24d7c6c7bc433277432a054dad84fd452.png"></span><span>碧空の竜光Ⅱ</span></dt><dd><div>①装備しているドラゴンに関わらず、「ミドガルズオルムサガ」に竜化し、竜化スキルのレベルがスキル「ブレイジングテンペスト」のレベルと同じになる。<br>②竜化中の攻撃に【敵のバフを1つ解除する効果】が付与される。（竜化した瞬間の攻撃には付与されない。）<br>③竜化したとき、パーティ全員にクリティカル時のダメージ倍率アップのバーストオーラ（バーストオーラ上限Lv3）を付与する。<br>④バーストアタックが変化し、直線上の敵にダメージを与えるものになる。また、通常攻撃中にバーストアタックを行い、この攻撃中にさらに通常攻撃を行った場合、通常攻撃のコンボを続きから行う。<br>⑤通常攻撃のコンボの4段目からバーストアタックを行った場合、そのバーストアタックの威力と演出が変化する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/857a2a2fdbc31b188c91fbd6f6eca6b32.png"></span><span>不屈の絆Ⅱ</span></dt><dd><div>「凍結」、「ずぶぬれ」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span><span>テンペストチャージⅡ</span></dt><dd><div>①HP40％以下になったとき、自身の竜化ゲージが50％アップする。この効果は1クエスト中1回まで発動する。<br>②竜化時間の時間経過による減少量を20％軽減する。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※「主人公（絆の力Ver.）」のスキルは、シェアスキルとして解放することができません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>■主人公（絆の力Ver.）の通常攻撃とスキルについて</div><div>主人公（絆の力Ver.）の通常攻撃のコンボの5段目や、スキル「ブレイジングテンペスト」「ヴォルテックスクラウン」によるミドガルズオルムサガの攻撃には、下記アビリティの効果が適用されます。</div><div>・「竜化中ダメージアップ＋○％」など竜化中に与えるダメージがアップするアビリティ</div><div>・「碧空の竜光」など竜化中の攻撃に効果を付与するアビリティ</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1648706400; update_time1648602456

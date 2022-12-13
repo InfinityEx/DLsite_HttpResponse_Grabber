@@ -1,0 +1,8 @@
+article_id:759
+category_name:お知らせ
+title_name:期間中、最大100回召喚無料！1日1回無料「10回召喚」キャンペーン開催中！
+image_path:https://dragalialost.akamaized.net/attached/information/images/c99e45ede51d6799e3c26bb0090fb9a3.png
+
+message:<div><img src="https://dragalialost.akamaized.net/attached/information/images/c99e45ede51d6799e3c26bb0090fb9a3.png"></div><div><span class="local_date" data-local_date="1569564000"></span>から、対象のレジェンド召喚を1日1回無料で「10回召喚」ができる、「1日1回無料『10回召喚』キャンペーン」を開催中！<br><br>■キャンペーン開催期間<br><span class="local_date" data-local_date="1569564000"></span> ～ <span class="local_date" data-local_date="1570427940"></span><br><br>■対象のレジェンド召喚<br>下記のレジェンド召喚を、それぞれ1日1回無料で「10回召喚」ができます。<br>・ドラガリアフェス<br>※<span class="local_date" data-local_date="1569564000"></span> ～ <span class="local_date" data-local_date="1570168740"></span>の間に、最大7日間で7回分の「10回召喚」ができます。<br><br>・クロノス～廻る運命の針～ ピックアップ<br>※<span class="local_date" data-local_date="1570168800"></span> ～ <span class="local_date" data-local_date="1570427940"></span>の間に、最大3日間で3回分の「10回召喚」ができます。<br><br>■注意事項<br>1. 1日(15:00 ～ 翌14:59)に1回無料で、対象のレジェンド召喚の「10回召喚」ができます。<br>2. 「1日1回無料『10回召喚』」のリセットは、毎日15:00に行われます。<br>3. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1569564000; update_time1569464755

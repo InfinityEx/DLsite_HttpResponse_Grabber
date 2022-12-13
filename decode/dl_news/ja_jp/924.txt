@@ -1,0 +1,8 @@
+article_id:924
+category_name:お知らせ
+title_name:メインストーリーに新たな難易度「Very Hard」を追加！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1576476000"></span>からメインストーリーに、新たな難易度「Very Hard」を追加しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/8efe6c8f45b0ec11a08c7de794ecfbb2.png"></div><div><br></div><div>難易度「Very Hard」のクエストでは、初回クリア報酬として「ディアネル金貨」や「各ロイヤルオーダー」、「プラス値を付与できる素材アイテム」などを獲得できます！<br>また、次回のアップデート後から一部のキャラにて実装を予定している、マナサークル第6層のマナピースを解放するための新たな素材アイテムもドロップします！<br><br>■注意事項<br>難易度「Very Hard」に挑戦するには、メインストーリー第10章 6-3「新たなる誓い」と、各章の難易度「Hard」をクリアする必要があります。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。<br><br></div>
+
+start_time:1576476000; update_time1575538855

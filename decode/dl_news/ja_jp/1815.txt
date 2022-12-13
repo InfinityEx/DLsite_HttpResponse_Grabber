@@ -1,0 +1,8 @@
+article_id:1815
+category_name:お知らせ
+title_name:竜輝晶 1,200個プレゼント！
+image_path:
+
+message:<div>イベント「プリンセスコネクト！Re:Dive新しい友だちと異世界ごはん」を楽しんでいただいているプレイヤーの皆様へ、下記のプレゼントを順次お贈りいたします！</div><div><br></div><div>■プレゼント内容</div><div>竜輝晶 1,200個</div><div><br></div><div>お贈りしたアイテムの受け取り期限は、「プレゼント」にアイテムが贈られてから7日間です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1607148000; update_time1606891797

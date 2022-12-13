@@ -1,0 +1,8 @@
+article_id:1850
+category_name:イベント
+title_name:施設イベント【復刻】「食宴！アミューズキュイジーヌ」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/18f697df78b9a3f3d53a597519d20e5a.png
+
+message:<div><span class="local_date" data-local_date="1608530400"></span>から、施設イベント【復刻】「食宴！アミューズキュイジーヌ」の開催を予定しております。</div><div>火属性のボスと戦い、イベント限定の施設を報酬として獲得し、建設できるイベントです。</div><div><br></div><div>&nbsp;<img src="https://dragalialost.akamaized.net/attached/information/images/18f697df78b9a3f3d53a597519d20e5a.png"></div><div>世界一の料理人を決めるコンテスト「アミューズキュイジーヌ」。</div><div>そこに集結したのは、凄腕の料理人と、至高の一皿を心待ちにする客。</div><div>加えて、はらぺこドラゴン。動く野菜まで&hellip;&hellip;！？</div><div>バラエティ豊かな面子が集まって、食の宴ここに開宴！</div><div><br></div><div>■イベント期間</div><div><span class="local_date" data-local_date="1608530400"></span> ～ <span class="local_date" data-local_date="1609394399"></span></div><div><br></div><div>■注意事項</div><div>1. イベントクエスト参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div>2. マルチプレイ参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1608271200; update_time1608112118

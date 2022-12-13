@@ -1,0 +1,8 @@
+article_id:160
+category_name:お知らせ
+title_name:竜輝の護符の効果が正常に反映しない不具合について【追記】
+image_path:
+
+message:<div>スキップチケットを使用してクエストをクリアし、そのまま再戦した際に、竜輝の護符「あなたへのプレゼント」の効果が反映しない不具合が発生しておりました。</div><div><br></div><div>本不具合は、<span class="local_date" data-local_date="1545363600"></span>に解消しております。</div><div><br></div><div>■不具合発生期間</div><div><span class="local_date" data-local_date="1545026400"></span>～<span class="local_date" data-local_date="1545363600"></span></div><div><br></div><div>■本件の補填について</div><div><span class="local_date" data-local_date="1545386700"></span>に以下の内容で補填が完了いたしました。</div><div><br></div><div>不具合発生期間中、下記の条件すべてに該当し、クエストを行った際、正常に経験値を獲得できなかった分の補填として、消費した「スキップチケット」と、消費したスタミナに相当する「はちみつ」をお送りいたしました。</div><div>・不具合発生期間にスキップチケットを使用して任意のクエストをプレイしていたこと。</div><div>・主人公以外のキャラでパーティ編成していたこと。</div><div>・竜輝の護符「あなたへのプレゼント」を装備していたこと。</div><div><br></div><div>■お送りする「はちみつ」の個数について</div><div>消費したスタミナ10あたり1個の「はちみつ」をお送りいたしました。</div><div>消費スタミナが10未満の場合は繰り上げて「はちみつ」をお送りいたしました。</div><div>例：消費スタミナ10の場合は、「はちみつ」1個、消費スタミナ11の場合は「はちみつ」2個です。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1545979500"></span> 追記</strong></span><br><span class="local_date" data-local_date="1545386700"></span>に行った補填につきまして、補填の対象であるにも関わらず、サポートキャラに主人公を設定していた方を対象外としてしまっていたことが判明したため、あらためて該当される方へ、消費した「スキップチケット」と、消費したスタミナに相当する「はちみつ」をお送りいたしました。<br><br>プレイヤーの皆様には、ご迷惑をおかけしましたことを重ねてお詫び申し上げます。</div>
+
+start_time:1545386700; update_time1547531367

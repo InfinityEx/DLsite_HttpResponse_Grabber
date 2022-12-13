@@ -1,0 +1,8 @@
+article_id:2761
+category_name:お知らせ
+title_name:武器スキン「フェイタルアルター」の武器種の不具合について【更新】
+image_path:
+
+message:<div>「カレイドラビリンス」の交換所にて、獲得できる武器スキン「フェイタルアルター」の武器種が、ロッドではなく杖となっている不具合を確認しております。</div><div><br></div><div>本不具合は、<span class="local_date" data-local_date="1643090400"></span>ごろのデータ更新にて修正予定です。</div><div>また、本不具合についてご案内できることがございましたら、本お知らせにてご連絡いたします。</div><div>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div><div><br></div><div>【<span class="local_date" data-local_date="1643092200"></span>追記】<br><br><span class="local_date" data-local_date="1640584800"></span> ~ <span class="local_date" data-local_date="1643090400"></span>に発生しておりました本不具合は、現在解消しております。<br><br></div><div>※本不具合の修正前に竜化限定クエストなどで武器スキン「フェイタルアルター」を設定していた場合、クエスト開始後のローディング画面で「使用できない武器スキンを設定しています。」というメッセージが表示されます。恐れ入りますが、武器スキンの設定変更をお願いいたします。</div><div><br>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div>
+
+start_time:1641967200; update_time1643096195

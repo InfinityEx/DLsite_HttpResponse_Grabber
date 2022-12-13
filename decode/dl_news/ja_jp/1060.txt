@@ -1,0 +1,8 @@
+article_id:1060
+category_name:メンテナンス
+title_name:2/10 メンテナンスについて【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1581319800"></span> 追記</strong></span><br>メンテナンスは、<span class="local_date" data-local_date="1581319800"></span>に終了いたしました。<br>メンテナンスにご協力いただき、ありがとうございました。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。<br><br></div><hr><div>サーバー機器の更新作業のため、下記の期間メンテナンスを実施いたします。</div><div>※本メンテナンス前にクエストを開始し、本メンテナンス中にクエストをクリアした場合、報酬は獲得できません。</div><div><br></div><div>■メンテナンス期間</div><div><span class="local_date" data-local_date="1581318000"></span>ごろ ～ <span class="local_date" data-local_date="1581319800"></span>ごろ</div><div><br></div><div>■注意事項</div><div>1. メンテナンス中は『ドラガリアロスト』をプレイできません。</div><div>2. メンテナンスの開始日時、および終了日時は前後する場合がございます。</div><div><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1580794200; update_time1581319821

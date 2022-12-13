@@ -1,0 +1,8 @@
+article_id:2834
+category_name:イベント
+title_name:レイドイベント【復刻】「闇穿つ光の歌声」エピローグ追加！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1651211999"></span>まで開催しておりました、レイドイベント【復刻】「闇穿つ光の歌声」にエピローグを追加しました！</div><div>&nbsp;</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/ee40b38861300deceddaf34b641f9f3a.png"></div><div><br></div><div>エピローグは、ゲーム内画面下メニューの「マイページ」から、左上の「バナー」をタップし、「レイドイベント」内の「限定クエスト」からご覧いただけます。</div><div>&nbsp;</div><div>■エピローグ解放期間</div><div><span class="local_date" data-local_date="1651212000"></span> ～ <span class="local_date" data-local_date="1651816799"></span></div><div>&nbsp;</div><div>■注意事項</div><div>エピローグをご覧いただくには、イベント期間終了時点でイベントのストーリー第5話をクリアしている必要があります。</div><div>&nbsp;</div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1651212000; update_time1644386824

@@ -1,0 +1,8 @@
+article_id:1246
+category_name:イベント
+title_name:イベント【復刻】「FIRE EMBLEM つながる世界」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/8ec88888059979b85db1e01c81fbaf92.png
+
+message:<div><span class="local_date" data-local_date="1587362400"></span>から、イベント【復刻】「FIRE EMBLEM つながる世界」の開催を予定しております。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/987d821ac7020cd70ee8974b54967d03.png"></div><div><br></div><div>異なる世界の英雄たちが、</div><div>今、ドラガリアロストの世界に降り立つ！</div><div>激突するふたりの王子。</div><div>相対する「開く力」と「竜の血」。</div><div>そして、妖艶なる使者が、大軍と共に迫り来る。</div><div>交錯する意志は、世界をどこへ向かわせるのか――</div><div><br></div><div>■イベント期間</div><div><span class="local_date" data-local_date="1587362400"></span> ～ <span class="local_date" data-local_date="1589263199"></span></div><div><br></div><div>■注意事項</div><div>1. イベントクエスト参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div>2. マルチプレイ参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1587103200; update_time1587031473

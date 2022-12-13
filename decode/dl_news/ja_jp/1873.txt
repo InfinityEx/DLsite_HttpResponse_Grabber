@@ -1,0 +1,169 @@
+article_id:1873
+category_name:お知らせ
+title_name:レジェンド召喚「新春陰陽役 ピックアップ Part1」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1609394400"></span>から、レジェンド召喚「新春陰陽役 ピックアップ Part1」の開催を予定しております。</div><div><br></div><div>期間限定のキャラ・ドラゴンがレジェンド召喚から登場します。</div><div>また、ピックアップ対象のキャラ・ドラゴンの提供割合がアップします。</div><div><span style="color: rgb(226, 80, 65);"><strong>今回新規で追加される★5キャラ「セイメイ」と★5ドラゴン「ゴズテンノウ」は<span class="local_date" data-local_date="1609999200"></span>から開催予定のレジェンド召喚「新春陰陽役 ピックアップ Part2」にて引き続き登場しますが、「新春陰陽役 ピックアップ Part2」にてピックアップ対象となるのは、★5ドラゴン「ゴズテンノウ」のみです。</strong></span></div><div><br></div><div><br></div><div>【新規に期間限定で登場するピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 セイメイ：火/ロッド</div><div><br></div><div>■ドラゴン</div><div>★5 ゴズテンノウ：火</div><div><br></div><div>今回のレジェンド召喚「新春陰陽役 ピックアップ Part1」では下記の期間限定のキャラ・ドラゴンが再登場します。</div><div>※下記のキャラ・ドラゴンはピックアップ対象ではございません。</div><div><span style="color: rgb(226, 80, 65);"><strong>※下記のキャラ・ドラゴンはレジェンド召喚「新春陰陽役 ピックアップ Part2」でも引き続き登場しますが、ピックアップ対象ではございません。</strong></span></div><div><br></div><div>【期間限定で再登場するキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 ミツヒデ：光/短剣</div><div>★5 ノブナガ：火/刀</div><div>★5 イエヤス：闇/刀</div><div>★4 チトセ：光/ロッド</div><div>★4 サザンカ：闇/斧</div><div>★4 アディス：風/刀</div><div><br></div><div>■ドラゴン</div><div>★5 ダイコクテン：光</div><div>★5 マリシテン：闇</div><div><br></div><div><span style="color: rgb(226, 80, 65);"><strong>※「竜輝の印」は獲得した召喚のみで消費できます。レジェンド召喚「新春陰陽役 ピックアップ Part1」で獲得した「竜輝の印」をレジェンド召喚「新春陰陽役 ピックアップ Part2」で消費することはできません。</strong></span></div><div><span style="color: rgb(226, 80, 65);"><strong>※レジェンド召喚「新春陰陽役 ピックアップ Part2」の「竜輝の印交換」の対象キャラに★5キャラ「セイメイ」は含まれません。</strong></span></div><div><br></div><div>【レジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1609394400"></span> ～ <span class="local_date" data-local_date="1609999199"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/eb51571434543ae522ac31d7e1c67e68.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>747</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>513</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>東方の島国ヒノモトを治める『十二竜氏』の<br>ひとり。丑の竜氏。天才陰陽師の切れ者で<br>ゴズテンノウと契りを交わしている。<br>どんな難題でもひとりで解決できてしまう<br>力量を持ち、単独行動を好む。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c89df2db77c761dc648329bf7d4410322.png"></span>
+				<span>五神開衢悪鬼祓除</span>
+			</dt>
+			<dd>
+				<div>
+					【火精の式鬼】が召喚されていない場合<br>40秒間、【火精の式鬼】を召喚する。【火精の式鬼】は使役ゲージを消費し自動攻撃を行う。【火精の式鬼】の攻撃が15回ヒットすると【火精の式鬼】は1度だけレベルアップし、召喚時間が40秒にリセットされ、自動攻撃が威力アップ。さらに自動攻撃に10秒間、敵の防御力を10％ダウンさせる効果が追加される。この効果は重複しない。【火精の式鬼】による攻撃は、スキルダメージとして扱われない。<br>【火精の式鬼】が召喚されている場合<br>自身に【最大HPの20％以下のダメージを無効化するシールド】を付与する。シールドの効果は1回のみで、同種のシールドとは重複しない。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0842a5082957e208cf98412b117988412.png"></span>
+				<span>退魔調伏・天刑星</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に火属性のダメージを与え、20秒間、敵の防御力を10％ダウンさせ、さらに「劫火」状態にする。この防御力ダウン効果は重複しない。このスキルは、【火精の式鬼】が召喚されている間のみ使用可能で、スキル使用時、【火精の式鬼】が解除される。【火精の式鬼】がレベルアップしていた場合、威力がアップしさらに敵のバフを1つ解除する。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/317a0c478ead8a4a39304ffcbf29eda12.png"></span>
+				<span>OD特効＆ゲージブレイクⅧ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のオーバードライブ中の敵へ与えるダメージが15％、モードゲージの減少量が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span>
+				<span>【火】連撃：連撃でバフスキル時間＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性ならヒット数10以上のとき、使用するバフスキルの効果時間が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>式鬼使役之律令Ⅱ</span></dt><dd><div>使役ゲージを追加する。<br>またバーストアタックがチャージ中ターゲットにダメージを与え、使役ゲージを徐々に回復するものに変化する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>気絶耐性＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>式鬼回生之験Ⅱ</span></dt><dd><div>竜化ゲージが10％上昇するたび、使役ゲージを50％回復する。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e4ce3bcd15c23565aab381f27af875ac.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>ヒノモト国のドラゴンの長・アマテラスを<br>支える十二竜が一柱、『丑』の竜。<br>いかめしい風貌だが、世話好きな性格。<br>東に空腹の人がいると聞けば飯を作りに行き<br>西に泣く子がいると聞けば飴を与えに走る。<br></li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>牛頭猛炎撃</span>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に火属性のダメージを与え、クエスト中火属性耐性を10％ダウンさせる。この効果は重複しない。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻撃力＋70％</span></dt><dd><div>装備キャラが火属性なら<br>装備キャラの攻撃力が70％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ba1d939f31aa624b013b900d03a48812.png"></span><span>意気の熾火Ⅱ</span></dt><dd><div>装備キャラが火属性ならバーストアタックを3秒以上継続して使用したとき（攻撃中やチャージ中も含む）、自身に【30秒間風属性の敵に対して攻撃したときダメージ倍率が30％アップするバフ】が発動。この効果は重複せず、発動してから15秒間は発動しない。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1609308000; update_time1608873980

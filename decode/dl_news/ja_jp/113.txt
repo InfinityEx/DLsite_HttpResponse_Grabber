@@ -1,0 +1,8 @@
+article_id:113
+category_name:お知らせ
+title_name:一部スキルを使用できない不具合について【追記】
+image_path:
+
+message:<div>バージョン1.2.0にアップデート後、一部のスキルを使用できない不具合を確認しております。</div><div><br></div><div>本不具合については、現在調査を進めております。</div><div>ご案内できることがございましたら、本お知らせにてご連絡いたします。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1543222800"></span> 追記</strong></span><br>本不具合について、<span class="local_date" data-local_date="1543222200"></span>に実施したデータ更新にて解消しましたことをご報告いたします。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div>
+
+start_time:1543212360; update_time1543223087

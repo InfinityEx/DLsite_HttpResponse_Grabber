@@ -1,0 +1,161 @@
+article_id:1996
+category_name:お知らせ
+title_name:「ドラゴンレジェンド召喚」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1613973600"></span>から、「ドラゴンレジェンド召喚」を開催中！</div><div><br></div><div>ピックアップ対象の★5と★4ドラゴンの提供割合がアップ中です。</div><div><br></div><div>【ピックアップ対象のドラゴン】</div><div>■ドラゴン</div><div>★5 ベルカント：闇</div><div>★5 アポロン：火</div><div>★5 アンドロメダ：闇</div><div>★4 フェニックス：火</div><div>★4 イフリート：火</div><div>★4 ジャガーノート：闇</div><div><br></div><div>【ドラゴンレジェンド召喚の提供割合】</div><div>★5ピックアップ 合計：2.40％（キャラ：0％ ドラゴン：2.40％）</div><div>★5通常 合計：1.60％（キャラ：0.75％ ドラゴン：0.85％）</div><div>★4ピックアップ 合計：7.00％（キャラ：0％ ドラゴン：7.00％）</div><div>★4通常 合計：9.00％（キャラ：5.05％ ドラゴン：3.95％）</div><div>★3通常 合計：80.00％（キャラ：48.00％ ドラゴン：32.00％）</div><div><br></div><div>【ドラゴンレジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1613973600"></span> ～ <span class="local_date" data-local_date="1614319199"></span></div><div><br></div><div>ピックアップ対象のドラゴンの一部を、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3fe0a6fcd58b428a5dabeac1a922de48.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>音楽をこよなく愛するドラゴン。<br>楽器の演奏も歌唱も指揮も作曲も超一流。<br>クジラのような姿だが、海だけでなく<br>空も泳げる。ベルカントが泳ぐ空の下には、<br>心洗われる音楽が降り注ぐと言われている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>ブラボーコンチェルト</span>
+			</dt>
+			<dd><div>前方の敵に闇属性のダメージを与える。自身と他キャラが設置したいずれかのバフフィールドの中にいる時このスキルは強化され、攻撃範囲が拡大し自身に【クエスト中、クリティカル時のダメージ倍率を15％アップするバフ】を付与する効果が追加される。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/0ca003e40efaeaec644df1940674fce52.png"></span><span>【闇】攻撃力＆クリティカル率アップⅤ</span></dt><dd><div>装備キャラが闇属性なら<br>装備キャラの攻撃力が45％、クリティカル率が20％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8feeaa29a01a64643a1aa761bc209913.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>名誉ある戦いを好むドラゴン。<br>競技都市と呼ばれるアポロニアという街の<br>守護者でもある。<br>アポロニアでは、日々闘技会が開かれ、<br>名誉を求め多くの人々が切磋琢磨している。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/46abce3ca5f53484635af11860f0d2c02.png"></span>
+				<span>グロリアスヘイロー</span>
+			</dt>
+			<dd><div>ターゲットとその周囲の敵に火属性のダメージを与え、「火傷」状態にする。また、防御力を5％ダウンさせる。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻撃力＋50％</span></dt><dd><div>装備キャラが火属性なら<br>装備キャラの攻撃力が50％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/332b0b04ccb12c122bbc2ba7b27bff5b2.png"></span><span>【火】火傷特効＋20％</span></dt><dd><div>装備キャラが火属性なら<br>「火傷」状態の敵に与えるダメージが20％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6ff8af3c0662eca5212ddc0d99fd8619.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>《結社》に囚われていたドラゴン。<br>万人の罪を自ら背負い、その身を捧げる<br>ことで罪を浄化する——と伝わるが、<br>《結社》の実験により、記憶を失い、<br>今はアデルペインの旅に協力をしている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>祝福されざる絆の鎖</span>
+			</dt>
+			<dd><div>ターゲットとその周囲の敵に闇属性のダメージを与え、15秒間パーティ全員の防御力を30％アップする。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】攻撃力＋40％</span></dt><dd><div>装備キャラが闇属性なら<br>装備キャラの攻撃力が40％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/97a6a9c25dfb5181cf44056f25fad1b82.png"></span><span>【闇】ピンチで攻防アップⅡ</span></dt><dd><div>装備キャラが闇属性なら<br>HP30％以下のとき、攻撃力が40％、防御力が100％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1613973600; update_time1613525399

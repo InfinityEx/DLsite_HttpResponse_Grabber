@@ -1,0 +1,8 @@
+article_id:348
+category_name:お知らせ
+title_name:ドラゴンページとキャラクターページ更新
+image_path:
+
+message:<div>『ドラガリアロスト』公式サイトのドラゴンページとキャラクターページを更新しました。</div><div><br></div><div>ドラゴンページには、物語の鍵を握るユピテル(CV:高山みなみさん)、ゾディアーク(CV:若本規夫さん)を追加しています。</div><div>キャラクターページには、主人公の仲間エルフィリス(CV:早見沙織さん)、ランザーヴ(CV:小西克幸さん)、</div><div>クラウ(CV:内山夕実さん)、リュカ(CV:浅沼晋太郎さん)を追加しています。</div><div>下記のページからご覧ください。</div><div>※各ページにて、「VOICE」を押すとセリフが再生されます。</div><div><br></div><div>▼ドラゴンページ</div><div>https://dragalialost.com/jp/dragon/jupiter/</div><div>https://dragalialost.com/jp/dragon/zodiark/</div><div><br></div><div>▼キャラクターページ</div><div>https://dragalialost.com/jp/character/</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1530079200; update_time1555293339

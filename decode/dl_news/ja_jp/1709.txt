@@ -1,0 +1,8 @@
+article_id:1709
+category_name:お知らせ
+title_name:メインストーリーに第16章「新しき絆、進むべき道」の追加が決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/a951a9fa543e543dd7a135a3cc388937.png
+
+message:<div><span class="local_date" data-local_date="1603346400"></span>から、メインストーリーに第16章「新しき絆、進むべき道」の追加が決定しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a951a9fa543e543dd7a135a3cc388937.png"></div><div><br></div><div>また、メインストーリー第16章「新しき絆、進むべき道」の予告PVを公開いたしました。</div><div>下記のページからご覧ください。</div><div><br></div><div>▼『ドラガリアロスト』公式YouTube Channel メインストーリー第16章「新しき絆、進むべき道」予告PV</div><div><a href="https://youtu.be/vrC2EkwNJAY">https://youtu.be/vrC2EkwNJAY</a></div><div><br></div><div>最新章をご期待ください！</div><div><br></div><div>■注意事項</div><div>メインストーリー第16章「新しき絆、進むべき道」は、メインストーリー第15章 4-8「闇を乗り越えて」をクリアすると解放されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1603173600; update_time1603077065

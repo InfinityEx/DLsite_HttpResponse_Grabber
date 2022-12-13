@@ -1,0 +1,8 @@
+article_id:101
+category_name:お知らせ
+title_name:「ルーエン」がスキル「風よ、みんなを癒して！」を使用しない不具合【追記】
+image_path:
+
+message:<div>キャラ「ルーエン」をパーティに編成してクエストをプレイ中、プレイヤーが直接操作していない場合、</div><div>ルーエンがスキル「風よ、みんなを癒して！」を自動で使用しない不具合を確認いたしました。</div><div>※本不具合はすべてのスキルレベルで発生することを確認しております。</div><div><br></div><div>プレイヤーが直接操作している場合は、スキルを正しく使用できることを確認しております。</div><div>また、スキルの効果の内容に間違いはないことも確認しております。</div><div><br></div><div>本不具合については、現在調査を進めております。</div><div>ご案内できることがございましたら、本お知らせにてご連絡いたします。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1542865200"></span> 追記</strong></span><br>本不具合について、<span class="local_date" data-local_date="1542865200"></span>に実施したデータ更新にて解消しましたことをご報告いたします。<br><br>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div>
+
+start_time:1542706800; update_time1543215637

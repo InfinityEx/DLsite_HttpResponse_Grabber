@@ -1,0 +1,8 @@
+article_id:1928
+category_name:お知らせ
+title_name:「ヴォイド討伐戦」の開催スケジュール変更について
+image_path:
+
+message:<div><span class="local_date" data-local_date="1611640800"></span>以降、「ヴォイド討伐戦」のすべてのクエストについて、いつでも開放いたします。</div><div>※必要なスタミナや共闘の翼、獲得できる報酬などに変更はありません。</div><div><br></div><div>■今回いつでも開放とする対象クエスト</div><div>ワキヤン・ヴォイド討伐戦</div><div>ポセイドン・ヴォイド討伐戦</div><div>ジャンヌダルク・ヴォイド討伐戦</div><div>ニーズヘッグ・ヴォイド討伐戦</div><div>アグニ・ヴォイド討伐戦</div><div>ヴォルカキマイラ討伐戦</div><div>フラッドキマイラ討伐戦</div><div>テンペストキマイラ討伐戦</div><div>ルミナスキマイラ討伐戦</div><div>エクリプスキマイラ討伐戦</div><div><br></div><div>【注意事項】</div><div>「ヴォイド討伐戦」参加には、メインストーリー7章 5-6（Normal）をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1611554400; update_time1610698902

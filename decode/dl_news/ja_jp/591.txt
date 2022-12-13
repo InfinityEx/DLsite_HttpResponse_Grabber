@@ -1,0 +1,8 @@
+article_id:591
+category_name:お知らせ
+title_name:メインストーリー第9章の追加にあわせて「最高級はちみつ」をプレゼント！
+image_path:
+
+message:<div>メインストーリー第9章「Let&#39;s Party！」が追加されたことにあわせまして、プレイヤーの皆様へ下記のプレゼントをお贈りいたしました！</div><div>ぜひ、最新章をお楽しみください！</div><div><br></div><div>■プレゼント内容</div><div>最高級はちみつ 10個</div><div><br></div><div>■お贈りする対象の方</div><div><span class="local_date" data-local_date="1563256800"></span>までにゲームを開始されたプレイヤーの皆様</div><div><br></div><div>お贈りしたアイテムの受け取り期限は、「プレゼント」にアイテムが贈られてから7日間です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1563256800; update_time1569487678

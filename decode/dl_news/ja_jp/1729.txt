@@ -1,0 +1,30 @@
+article_id:1729
+category_name:お知らせ
+title_name:「竜輝の護符交換所」のラインナップに新たな竜輝の護符を追加！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1603778400"></span>から、「竜輝の護符交換所」のラインナップに新たな竜輝の護符を追加しました。</div><div><br></div><div>追加された竜輝の護符は、「竜輝の護符交換所」内の「ピックアップ」タブや、各レアリティのタブから交換できます。</div><div><br></div><div>【新たな竜輝の護符紹介】</div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/5bec68695800a6e7246d7718255196cf2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">オペラ座にようこそ！</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ec72ef8cd42c62205b75088898a601112.png"></span><span>暗黒特効＋25％&nbsp;(Max25％)</span></dt><dd><div>暗黒状態の敵に与えるダメージが25％アップする。&nbsp;(Max25％)</div></dd><dt class="event 20828"><span><img src="https://dragalialost.akamaized.net/attached/information/images/b3291f49dfc69257393b939a7346ff652.png"></span><span>オペラP＋150％&nbsp;(Max150％)</span></dt><dd class="event 20828"><div>クエストクリア時に獲得する【オペラP】が150％増加する。&nbsp;(Max150％)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/08bc7a2c64ab5efee41d3ce2020d26622.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">青薔薇怪盗、ここに参上！</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>【銃】クリティカル率＋12％&nbsp;(Max15％)</span></dt><dd><div>装備キャラの武器種が銃なら<br>装備キャラの攻撃がクリティカルになる確率が12％アップする。&nbsp;(Max15％)</div></dd><dt class="event 20828"><span><img src="https://dragalialost.akamaized.net/attached/information/images/b3291f49dfc69257393b939a7346ff652.png"></span><span>オペラP＋100％&nbsp;(Max150％)</span></dt><dd class="event 20828"><div>クエストクリア時に獲得する【オペラP】が100％増加する。&nbsp;(Max150％)</div></dd></dl></div></div></div><div><br></div><div>※最大上限解放時のステータスです。入手時のステータスではありません。</div><div>※アビリティ「暗黒特効」は、近日登場予定の状態異常「暗黒」に対する特効能力を持つアビリティです。</div><div><br></div><div>【ピックアップ期間】</div><div><span class="local_date" data-local_date="1603778400"></span> ～ <span class="local_date" data-local_date="1605247199"></span></div><div><br></div><div>※今回追加された竜輝の護符は、ピックアップ期間終了後も「竜輝の護符交換所」の各レアリティのタブから交換できます。</div><div><br></div><div>【注意事項】</div><div>本お知らせに掲載されている内容以外の情報については、マイページなどからショップに移動し、「竜輝の護符交換所」にてご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1603778400; update_time1603767376

@@ -1,0 +1,156 @@
+article_id:2875
+category_name:お知らせ
+title_name:「ドラガリアフェス」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1646028000"></span>から、「ドラガリアフェス」を開催中です！</div><div><br></div><div>【ドラガリアフェスとは】 ※「ドラガリアフェス　エクストラ」含む</div><div>★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップ中です！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><span style="color: rgb(226, 80, 65);">※今回新規で追加される★5キャラ「幻身ゾディアーク（闇）」は、次回のレジェンド召喚からも登場します。</span></div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 幻身ゾディアーク：闇/銃（散弾銃モード）</div><div><br></div><div>■ドラゴン</div><div>★5 エリュシオン（ドラフェスVer.）：光</div><div><br></div><div>【ドラガリアフェスの提供割合】</div><div>★5 合計：6.00％</div><div>★5ピックアップ 合計：1.30％（キャラ：0.50％ ドラゴン：0.80％）</div><div>★5通常 合計：4.70％（キャラ：2.50％ ドラゴン：2.20％）</div><div>★4通常 合計：16.00％（キャラ：8.55％ ドラゴン：7.45％）</div><div>★3通常 合計：78.00％（キャラ：47.00％ ドラゴン：31.00％）</div><div><br></div><div>【ドラガリアフェス開催期間】</div><div><span class="local_date" data-local_date="1646028000"></span> ～ <span class="local_date" data-local_date="1646373599"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/24002e46336861ed6ae0632075413653.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>1000年前に起きた第一次封魔戦争にて<br>イリアと契約し魔神を封印したとされる<br>ドラゴン。聖竜と呼ばれ多くの民から崇拝<br>されており、世界の管理者として人の仔の<br>行く末を見守っているという。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7f3c6f3a42d6a89a489bebec12a42d422.png"></span>
+				<span>護るは至高天</span>
+			</dt>
+			<dd><div>パーティ全員に以下の効果を付与する。<br>・ダメージカット<br>・特殊シールド<br>・防御力アップのバーストオーラ<br>・クリティカル時のダメージ倍率アップのバーストオーラ</div><div class="skill-detail">特殊効果<br>・ダメージ50％カット<br>　効果時間：30 秒<br>　重複不可<br>・特殊シールド<br>　効果回数：1<br>　効果量：最大HPの50％<br>バーストオーラ付与<br>・防御力アップ（バーストオーラ上限Lv 3）<br>・クリティカル時のダメージ倍率アップ（バーストオーラ上限Lv 3）<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>【光】聖心の調和Ⅴ</span></dt><dd><div>装備キャラが光属性なら以下の効果が発動する。<br>①装備キャラの攻撃力が60％、防御力が30％、HPが30％アップする。<br>②装備キャラのタイプに応じて、クエスト中、次の効果が発動する。<br>・攻撃タイプ：攻撃力が30％アップする。<br>・防御タイプ：攻撃力と防御力とHPが15％ずつアップする。<br>・補助タイプ：スキルゲージ上昇率が30％アップする。<br>・回復タイプ：HPが30％、スキルゲージ上昇率が15％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/10f062c122cbbdae4e1e1e2ff084d14a2.png"></span><span>聖審の咆哮Ⅱ</span></dt><dd><div>①自身の竜化時間が100％アップする。<br>②竜化に必要な竜化ゲージの量が倍になる。（竜化ゲージの上限は変わらない。）<br>③クエスト開始時の自身の竜化ゲージが50％アップする。<br>④パーティ全員の「クエスト開始時の竜化ゲージがアップする効果」の上限が50％になる。<br>⑤「エリュシオン（ドラフェスVer.）」に竜化中、次の効果のドラゴンバーストが使用できる。<br>前方の敵にダメージを与える。</div></dd></dl></div></div></div><div>※Lv100、上限解放4段階、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/0537f89c8a9508ca0589c43324458411.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,498</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>使用可能モード</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/4805e47916f093eb2b9049cff29e9eb72.png"><img src="https://dragalialost.akamaized.net/attached/information/images/0ea47b25dd52e83055f02a3ca4d545522.png"><img src="https://dragalialost.akamaized.net/attached/information/images/c10d099648b4bc58a4f2bde4fe0dfd752.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>人の姿に変化した闇竜ゾディアーク。<br>愛とは何かを見つめ直すため、<br>人の営みをより間近で観察することにした。<br>姿は変われど無償の愛は健在で、人々の<br>ありのままをすべて受け入れる。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/463fc5ea424ca929ee125304b38e1bd72.png"></span>
+				<span>ヘイトクラスター</span>
+			</dt>
+			<dd><div>自身に【マリスマーレ】を3つ付与する。<br>この効果中、通常攻撃に3段目が追加される。<br>この攻撃をヒットさせるとバフを1つ解除し、敵の至近距離でヒットさせた場合はさらに【怨念】を付与する。<br>【怨念】は最大Lv5までレベルアップする。<br>【マリスマーレ】は通常攻撃の3段目を使用するたびに1つ解除される。</div><div class="skill-detail">必要スキルポイント：4,329<br>特殊効果<br>・マリスマーレ<br>　重複上限：3<br>・怨念Lv1<br>　効果時間：10 秒<br>・怨念Lv2<br>　効果時間：10 秒<br>・怨念Lv3<br>　効果時間：10 秒<br>・怨念Lv4<br>　効果時間：15 秒<br>・怨念Lv5<br>　効果時間：20 秒</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a3661c9bf88bcc1418c169b6451357fb2.png"></span>
+				<span>死の奔流</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>周囲の敵にダメージを与え、「暗黒」状態にする。<br>敵に【怨念】が付与されている場合、そのレベルに応じて防御力を無視した追加ダメージを与える。</div><div class="skill-detail">威力：1,500 × 1 Hit<br>（怨念Lv1）<br>威力：300 × 1 Hit<br>（怨念Lv2）<br>威力：600 × 1 Hit<br>（怨念Lv3）<br>威力：900 × 1 Hit<br>（怨念Lv4）<br>威力：1,200 × 1 Hit<br>（怨念Lv5）<br>威力：1,500 × 1 Hit<br>必要スキルポイント：9,072<br>必要シェアスキルポイント：7,348<br>特殊効果<br>・暗黒<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：31</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>ゲージブレイク＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のモードゲージの減少量が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span>
+				<span>【闇】士気：攻勢士気・暗闇耐性＋100％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが闇属性なら攻撃力アップのバーストオーラが付与されているとき、「暗闇」状態になる確率が100％ダウンする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/2556d0d8a3f335b515df8014f55973332.png"></span><span>闇竜発現Ⅱ</span></dt><dd><div>・「呪い」状態になる確率が100％ダウンする。<br>・装備しているドラゴンに関わらずゾディアークに竜化する。1クエスト中に2回以上竜化した場合は真ゾディアークに竜化する。<br>・【怨念】が付与されている敵に与えるダメージが15％アップする。<br>・スキル1、スキル2を使用したとき、自身に攻撃力アップのオーラ（バーストオーラ上限Lv1）を付与する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痺耐性＋100％</span></dt><dd><div>「麻痺」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3c1105a9ca11c4e91051d5218bc3f2802.png"></span><span>サテライトカウンターⅡ</span></dt><dd><div>ダメージを受けたとき、自身の竜化ゲージが10％アップする。<br>1クエスト中に1回以上竜化していた場合、さらにダメージを受けた地点にダークネスサテライトを設置する。<br>ダークネスサテライトは3秒後に爆発し、周囲の敵にダメージを与え、【怨念】を付与する。<br>これらの効果はそれぞれ発動してから15秒間は発動しない。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1646028000; update_time1645756255

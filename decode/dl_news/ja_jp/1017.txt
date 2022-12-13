@@ -1,0 +1,8 @@
+article_id:1017
+category_name:メンテナンス
+title_name:1/22 メンテナンスについて【更新】
+image_path:
+
+message:<div>サーバー機器の更新作業のため、下記の期間メンテナンスを実施いたします。</div><div>※本メンテナンス前にクエストを開始し、本メンテナンス中にクエストをクリアした場合、報酬は獲得できません。</div><div><br></div><div>■メンテナンス期間</div><div><span class="local_date" data-local_date="1579676400"></span>ごろ ～ <span class="local_date" data-local_date="1579680000"></span>ごろ</div><div><br></div><div>■注意事項</div><div>1. メンテナンス中は『ドラガリアロスト』をプレイできません。</div><div>2. メンテナンスの開始日時、および終了日時は前後する場合がございます。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1579680000"></span>追記】</strong></span><br>メンテナンスは、<span class="local_date" data-local_date="1579680000"></span>に終了いたしました。<br>メンテナンスにご協力いただき、ありがとうございました。<br>メンテナンスにご協力いただいたお礼として、<span class="local_date" data-local_date="1579676340"></span>までにゲームを開始されたプレイヤーの皆様に、下記のアイテムを順次お送りいたします。<br>・最高級はちみつ&times;1<br>・霊鳥の聖灰&times;1<br>お送りしたアイテムの受け取り期限は、「プレゼント」にアイテムが送られてから7日間です。<br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1579068000; update_time1579680039

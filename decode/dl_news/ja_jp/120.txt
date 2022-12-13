@@ -1,0 +1,196 @@
+article_id:120
+category_name:お知らせ
+title_name:レジェンド召喚「響き渡る愛の調べ」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1543557600"></span>から、レジェンド召喚「響き渡る愛の調べ」を予定しております。</div><div><br></div><div>ピックアップ対象のキャラ・ドラゴン・竜輝の護符の提供割合がアップします。</div><div><br></div><div>【レジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1543557600"></span> ～ <span class="local_date" data-local_date="1544594340"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴン・竜輝の護符の一部を、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップキャラ紹介】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/578a31f56ee6e3b3406c0d7edb53a616.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>80</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>751</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>510</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>2501</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">キャラ詳細</div>
+			<div class="param">
+				<ul>
+					<li>絶世の歌姫と名高い歌い手。<br>鈴を転がすような声は数多の人を虜にし、<br>その名声は大陸中に響き渡っている。<br>華麗で優雅な外見とは裏腹に、<br>魔獣退治の腕も超一流と噂されている。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/54b173fe63fa4e5fe9c4ff73a5ce7bbc2.png"></span>
+				<span>トリプレット・アリア</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に光属性のダメージを与え、パーティ全員<br>の【やる気】を1段階アップする。【やる気】は5<br>段階アップすると【超やる気】になり、攻撃・回復<br>スキルが強化される。【超やる気】は適用スキル使<br>用時に解除。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66d36f720c8a46a8288996f833a36202.png"></span>
+				<span>クレッシェンド・コーラス</span>
+			</dt>
+			<dd>
+				<div>
+					10秒間、自身の攻撃力を10%アップし【やる気】<br>を2段階アップ。【やる気】は5段階アップする<br>と【超やる気】になり、攻撃・回復スキルが強化さ<br>れる。【超やる気】は適用スキル使用時に解除。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EXアビリティ</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>スキルダメージ＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のスキルダメージが15％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>超やる気リンク・攻＋20％</span></dt><dd><div>超やる気が発動したとき、【15秒間攻撃力が20％アップするバフ】が発動する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>呪い耐性＋100％</span></dt><dd><div>「呪い」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a92e675fd730e94b01a7ce6f30bea04b2.png"></span><span>ブレイク特効＋30％</span></dt><dd><div>ブレイク中の敵へ与えるダメージが30％アップ<br>する。</div></dd></dl></div></div></div><div>※最大Lv、マナサークル全解放時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ceafd06fb6da5f96388a8d714f091284.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>377</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>119</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>996</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">ドラゴン詳細</div>
+			<div class="param">
+				<ul>
+					<li>恋に悩めるみんなの味方。<br>らぶとハッピーをこよなく愛し、<br>それらを人々に与える。<br>まだ幼く、純粋無垢。<br>愛を持つ全ての者に友好的に接する。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/03c66916e73cd981af03b4a90d1a53032.png"></span>
+				<span>らぶりぃぽーず</span>
+			</dt>
+			<dd>
+				<div>
+					味方全員のHPを回復する。また、15秒間、パーティ<br>全員のクリティカル率を25%アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻撃力＋60％</span></dt><dd><div>装備キャラが光属性なら<br>装備キャラの攻撃力が60％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【ピックアップ竜輝の護符紹介】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/69de2be39769cf9b35ea44318d916830.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>177</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>64</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>381</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>スキルダメージ＋25％</span></dt><dd><div>攻撃スキルのダメージが25％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>HP70％で会心＋6％</span></dt><dd><div>HP70％以上で攻撃がクリティカルになる確率が<br>6％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放時のステータスです。入手時のステータスではありません。</div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/52eb5f74f22948caba553477042eb62c.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>195</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>46</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>361</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>呪い耐性＋60％</span></dt><dd><div>「呪い」状態になる確率が60％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>【光】呪い耐性＋40％</span></dt><dd><div>装備キャラが光属性なら<br>「呪い」状態になる確率が40％ダウンする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 本お知らせに掲載されている以外のピックアップ対象のキャラ・ドラゴン・竜輝の護符の情報や、召喚の提供割合は、レジェンド召喚開催時にゲーム内フッターメニューの「召喚」をタップし、「召喚情報」「提供割合」からご確認ください。</div><div>2. 10回連続で★5が召喚されなかった場合、次回召喚時に★5の提供割合が上昇する仕組みがございますが、召喚の内容が変更される場合は、提供割合の上昇量は引き継がれません。提供割合の上昇に関する詳しい説明は、以下をご確認ください。<br>[1] ゲーム内の画面下メニューから「召喚」をタップ[2] 画面中段の右にある「召喚情報」をタップ[3] 「召喚情報」ページの上段にある「詳細」をタップ</div><div>3. レジェンド召喚の開催期間および内容は、予告なく変更する場合があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1543471200; update_time1543558335

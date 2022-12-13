@@ -1,0 +1,176 @@
+article_id:1785
+category_name:お知らせ
+title_name:★5ドラゴン確定！「プラチナレジェンド召喚」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1606111200"></span>から、「プラチナレジェンド召喚」の開催を予定しております。</div><div><br></div><div>「プラチナレジェンド召喚」では、「10回召喚」の10枠目で、★5ドラゴンが確定で出現します。</div><div>本召喚は、期間中に「10回召喚」を2回までご利用いただけます。</div><div>また、本召喚は「ドラゴンダイヤ」でのみご利用いただけます。</div><div><span style="color: rgb(226, 80, 65);">※本召喚の提供内容に、別途開催中のレジェンド召喚「新春にゃあちゅう大合戦 ピックアップ」から期間限定で再登場するキャラとドラゴンは含まれません。</span></div><div><br></div><div>【プラチナレジェンド召喚 開催期間】</div><div><span class="local_date" data-local_date="1606111200"></span> ～ <span class="local_date" data-local_date="1606456799"></span></div><div><br></div><div>「プラチナレジェンド召喚」の10枠目に確定で出現する、対象の★5ドラゴンの一部を、下記にてご紹介いたします。</div><div><br></div><div>【10枠目確定対象★5ドラゴン紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/910097675fdc099abccdfd72b2493c0e.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>遥かな昔、南方の『砂の国』で王室を<br>司っていたドラゴン。力を得た人が何を<br>為すのか、という知的好奇心から人々に<br>高度な魔法を授け、以後は砂の国が滅ぶまで<br>淡々と人間を観察し続けていた。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b578da17fca8b309bc38a693b65c07072.png"></span>
+				<span>ウジャトの目</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットに火属性のダメージを与える。【マルチターゲット】スキルは複数の敵をターゲットできる。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/364d1dcba21eaea0124f0cfc193f96142.png"></span><span>【火】攻撃速度＆クリティカル率アップⅤ</span></dt><dd><div>装備キャラが火属性なら攻撃速度が20％、クリティカル率が50％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/814064a20f05b2622b0629aa16769036.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>フェニックス種の一種で「再生」を司る。<br>元気でハキハキしているしっかり者だが、<br>気を抜くと、ついドジしたり甘えたりする。<br>その容姿からイリア教のシンボル『聖鳥』の<br>原型と考える者もいるが、真偽は不明。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>リフレッシュメントフレア</span>
+			</dt>
+			<dd>
+				<div>
+					周囲の敵に光属性のダメージを与え、「麻痺」状態にする。<br>さらに味方の「呪い」状態と「毒」状態を解除する。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻撃力＋50％</span></dt><dd><div>装備キャラが光属性なら<br>装備キャラの攻撃力が50％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28cbbe44c3b9fd009706ad48a7e4e0f52.png"></span><span>【光】麻痺特効＋20％</span></dt><dd><div>装備キャラが光属性なら<br>「麻痺」状態の敵に与えるダメージが20％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8feeaa29a01a64643a1aa761bc209913.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>名誉ある戦いを好むドラゴン。<br>競技都市と呼ばれるアポロニアという街の<br>守護者でもある。<br>アポロニアでは、日々闘技会が開かれ、<br>名誉を求め多くの人々が切磋琢磨している。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/46abce3ca5f53484635af11860f0d2c02.png"></span>
+				<span>グロリアスヘイロー</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に火属性のダメージを与え、「火傷」状態にする。また、防御力を5％ダウンさせる。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻撃力＋50％</span></dt><dd><div>装備キャラが火属性なら<br>装備キャラの攻撃力が50％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/332b0b04ccb12c122bbc2ba7b27bff5b2.png"></span><span>【火】火傷特効＋20％</span></dt><dd><div>装備キャラが火属性なら<br>「火傷」状態の敵に与えるダメージが20％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 「プラチナレジェンド召喚」についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「プラチナレジェンド召喚」の「提供割合」や「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. 「プラチナレジェンド召喚」では「竜輝の印」は獲得できません。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1606024800; update_time1605582156

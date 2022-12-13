@@ -1,0 +1,8 @@
+article_id:937
+category_name:イベント
+title_name:施設イベント【復刻】「雪降る夜、星竜樹の下で」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/1e3f31e253628b0bd7ad4528c865f05a.png
+
+message:<div><span class="local_date" data-local_date="1576130400"></span>から、施設イベント【復刻】「雪降る夜、星竜樹の下で」の開催を予定しております。</div><div>火属性のボスと戦い、イベント限定の施設を報酬として獲得し、建設できるイベントです。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/1e3f31e253628b0bd7ad4528c865f05a.png"></div><div>星竜祭の季節がやってきた。</div><div>街には星竜樹が飾られ、人々はサンメテオールの訪れを待ち望む。</div><div>しかし、その楽しい星竜祭を壊そうとする魔獣が現れて！？</div><div>はたして王子たちは平和な星竜祭を取り戻すことができるのか？</div><div><br></div><div>■イベント期間</div><div><span class="local_date" data-local_date="1576130400"></span> ～ <span class="local_date" data-local_date="1577339999"></span></div><div><br></div><div>■注意事項</div><div>1. イベントクエスト参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div>2. マルチプレイ参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1576044000; update_time1575891610

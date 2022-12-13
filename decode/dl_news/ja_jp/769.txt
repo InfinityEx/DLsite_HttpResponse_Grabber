@@ -1,0 +1,8 @@
+article_id:769
+category_name:お知らせ
+title_name:『ドラガリアロスト』TVCM 「1st Anniversary篇」公開
+image_path:https://dragalialost.akamaized.net/attached/information/images/ae0235ba3e2b4f8c23c77e17c6aeeeb4.png
+
+message:<div>『ドラガリアロスト』の新しいTVCM、「1st Anniversary篇」を、ドラガリアロスト公式Channelにて公開しました。</div><div>下記のページからご覧ください。</div><div><br></div><div>▼「1st Anniversary篇」</div><div><a href="https://youtu.be/aymzj1P-G5Q">https://youtu.be/aymzj1P-G5Q</a></div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1569567600; update_time1569568276

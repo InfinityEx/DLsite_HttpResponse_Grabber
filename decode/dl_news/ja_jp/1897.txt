@@ -1,0 +1,8 @@
+article_id:1897
+category_name:イベント
+title_name:イベント予告「闘技場～迎福御礼！大闘技大会～」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/68b775c3dd6d355621004eddc1fe3c30.png
+
+message:<div><span class="local_date" data-local_date="1610517600"></span>から、イベント「闘技場～迎福御礼！大闘技大会～」の開催を予定しております。</div><div>「闘技場～迎福御礼！大闘技大会～」は、闘技大会で優勝を目指す闘技場イベントです！</div><div>本イベントの報酬として、シェアスキル解放に使用するアイテムやスタミナが回復するアイテムを獲得できますので、ぜひご参加ください！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/68b775c3dd6d355621004eddc1fe3c30.png"></div><div><br></div><div>今年の正月は闘技大会だ！</div><div>新年早々のトラブルを片づけたセイメイは、</div><div>正月祝いの闘技大会を開くと宣言。</div><div>ぞくぞくと集う参加者たちの中には、</div><div>懐かしい顔ぶれや謎の人物まで!?</div><div>大混戦の大会で、リュカとエルフィリスの</div><div>譲れない想いが交錯する！</div><div><br></div><div>■注意事項</div><div>イベントクエスト参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1610258400; update_time1609742547

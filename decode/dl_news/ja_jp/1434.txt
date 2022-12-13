@@ -1,0 +1,8 @@
+article_id:1434
+category_name:イベント
+title_name:イベント予告「防衛戦～真夏のバカンスガーディアン！～」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/022e17b08872f6e8af79838bf1a43b21.png
+
+message:<div><span class="local_date" data-local_date="1594620000"></span>から、イベント「防衛戦～真夏のバカンスガーディアン！～」の開催を予定しております。</div><div>「防衛戦～真夏のバカンスガーディアン！～」は、迫りくる多くの敵を迎え撃ちながら拠点を守り抜く期間限定イベントです！</div><div>本イベントの報酬として、シェアスキル解放に使用するアイテムを獲得できますので、ぜひご参加ください！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/022e17b08872f6e8af79838bf1a43b21.png"></div><div><br></div><div>バカンス客でにぎわう真夏のビーチに、</div><div>突如攻め来るディアネル帝国兵！</div><div>その理由は&hellip;&hellip;ビーチを奪って自分たちだけの</div><div>バカンスをエンジョイしたいから!?</div><div>ビーチと人々の平和を守るため、</div><div>天啓を得た波乗り男と夏を翔ける白ツバメが</div><div>いま立ち上がる!!</div><div><br></div><div>■注意事項</div><div>1. イベントクエスト参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div>2. マルチプレイ参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div>3. イベント「防衛戦～真夏のバカンスガーディアン！～」のストーリーは、フルボイスではなく一部のボイスのみが再生されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1594360800; update_time1593776593

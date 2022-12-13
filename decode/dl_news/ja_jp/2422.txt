@@ -1,0 +1,8 @@
+article_id:2422
+category_name:お知らせ
+title_name:メインストーリーに第21章「二柱の造物主」前半の追加が決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/14f31bb8ee9001497aa53ccf011b3eb2.png
+
+message:<div><span class="local_date" data-local_date="1629698400"></span>から、メインストーリーに第21章「二柱の造物主」前半の追加が決定しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/14f31bb8ee9001497aa53ccf011b3eb2.png"></div><div><br></div><div>また、メインストーリー第21章「二柱の造物主」の予告PVを公開いたしました。</div><div>下記のページからご覧ください。</div><div><br></div><div>▼『ドラガリアロスト』公式YouTube Channel メインストーリー第21章「二柱の造物主」予告PV</div><div><a href="https://youtu.be/ThAY-iD-AHo">https://youtu.be/ThAY-iD-AHo</a></div><div><br></div><div>最新章をご期待ください！</div><div><br></div><div>■注意事項</div><div>メインストーリー第21章「二柱の造物主」前半は、メインストーリー第20章 7-5「父から子へ」をクリアすると解放されます。</div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1629352800; update_time1629268640

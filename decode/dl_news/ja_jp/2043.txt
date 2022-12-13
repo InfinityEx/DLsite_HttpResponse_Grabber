@@ -1,0 +1,8 @@
+article_id:2043
+category_name:イベント
+title_name:「聖城ワンダフルデイ！」が開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/a0479133286c31dd75c47458c2acc7a2.png
+
+message:<div><span class="local_date" data-local_date="1617256800"></span>から、「聖城ワンダフルデイ！」の開催を予定しております！</div><div>昨年開催された「聖城ワンダフルデイ！」が帰ってきました！</div><div>新たな要素も加わり、今度はずっと住み着くことになるとか&hellip;&hellip;。</div><div>&nbsp;<img src="https://dragalialost.akamaized.net/attached/information/images/a0479133286c31dd75c47458c2acc7a2.png"></div><div>聖城に迷い込んでしまった子犬。</div><div>愛くるしい姿は、見た者をメロメロにする。</div><div>人懐っこく、好奇心旺盛でさんぽが大好き。</div><div>怖いもの知らずで、珍しいものを見ると興味津々。</div><div>その姿はまるで冒険家のよう。</div><div><br></div><div>【注意事項】</div><div>「聖城ワンダフルデイ！」参加には、メインストーリー第2章 2-1(Normal)をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1617199200; update_time1617086246

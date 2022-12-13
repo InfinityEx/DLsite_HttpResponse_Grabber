@@ -1,0 +1,8 @@
+article_id:379
+category_name:お知らせ
+title_name:『ドラガリアロスト』CygamesFes2018特設ページを公開！
+image_path:
+
+message:<div>CygamesFes2018に出展する『ドラガリアロスト』の情報を掲載した特設ページを公開しました！</div><div>イベント当日の内容は下記のページからご覧ください。</div><div><br></div><div>▼『ドラガリアロスト』 CygamesFes 2018特設ページ</div><div><br></div><div>https://dragalialost.com/jp/lp/cygamesfes2018/</div><div><br></div><div>CygamesFes2018の詳細は、下記のとおりです。</div><div><br></div><div>■開催日時</div><div>2018/12/15(土)、16(日)</div><div><br></div><div>■会場</div><div>幕張メッセ 2ホール</div><div><br></div><div>▼CygamesFes2018オフィシャルサイト</div><div>https://cygamesfes.jp/</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1543212000; update_time1555327887

@@ -1,0 +1,8 @@
+article_id:1154
+category_name:お知らせ
+title_name:召喚の一時利用停止について【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1584004560"></span>更新】</strong></span><br>本不具合に関して、対象のプレイヤーの皆様に、余分に消費した竜輝晶及びドラゴンダイヤの差分を補填いたしました。<br>補填としてお送りしたアイテムは、「プレゼント」の「期限なし」からお受け取りいただけます。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことを重ねてお詫び申し上げます。</div><div><br></div><hr><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1583999580"></span>更新】</strong></span><br>本日<span class="local_date" data-local_date="1583992800"></span>から開催中のレジェンド召喚「万里風舞いて陽春来たる」にて、竜輝晶およびドラゴンダイヤの消費量に誤りがございましたので、下記のとおり修正いたしました。<br><br>正：1回召喚 120個、10回召喚 1,200個<br>誤：1回召喚 150個、10回召喚 1,500個<br><br>※本不具合が発生したため、召喚の利用を一時停止しておりました。<br>※本不具合は、現在は解消し召喚の利用の一時停止を解除しております。<br><br>本不具合の補填として、対象期間中にレジェンド召喚「万里風舞いて陽春来たる」を利用したプレイヤーの皆様に、余分に消費した竜輝晶およびドラゴンダイヤの差分を<span class="local_date" data-local_date="1584000000"></span>以降、順次補填いたします。<br>■対象期間<br><span class="local_date" data-local_date="1583992800"></span> ～ <span class="local_date" data-local_date="1583993939"></span><br><br>また、不具合が発生していたことへのお詫びとして、<span class="local_date" data-local_date="1583996400"></span>までにゲームを開始されたプレイヤーの皆様に、下記のアイテムを順次お送りいたします。<br><br>・竜輝晶 300個<br><br>お送りしたアイテムは、「プレゼント」からお受け取りいただけます。<br>お送りしたアイテムの受け取り期限は、「プレゼント」にアイテムが送られてから7日間です。<br><br>プレイヤーの皆様には、ご迷惑をおかけしましたことを重ねてお詫び申し上げます。<br><br></div><hr><div>本日<span class="local_date" data-local_date="1583992800"></span>から開催中の召喚の一部に不具合が発生したため、一時的に召喚の利用を停止しております。</div><div><br>修正が完了しましたら、本お知らせにてご連絡いたします。</div><div>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div>
+
+start_time:1583994600; update_time1584068068

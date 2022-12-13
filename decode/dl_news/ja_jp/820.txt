@@ -1,0 +1,8 @@
+article_id:820
+category_name:お知らせ
+title_name:「ハッピー♪ハロウィン ログインボーナス」開催！
+image_path:https://dragalialost.akamaized.net/attached/information/images/269dd908712c02ebdef8431f4c402f50.png
+
+message:<div><span class="local_date" data-local_date="1571378400"></span>から、「ハッピー♪ハロウィン ログインボーナス」を開催中！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/269dd908712c02ebdef8431f4c402f50.png"></div><div><br></div><div><span class="local_date" data-local_date="1572501599"></span>までの期間中、ログインするたびに竜輝晶をプレゼント！</div><div>最大7日間で竜輝晶2100個をプレゼントいたします。</div><div>詳細は下記のとおりです。</div><div><br></div><div><strong><u>■ログインボーナスの内容</u></strong></div><div>1日目 竜輝晶 200個</div><div>2日目 竜輝晶 400個</div><div>3日目 竜輝晶 400個</div><div>4日目 竜輝晶 200個</div><div>5日目 竜輝晶 200個</div><div>6日目 竜輝晶 200個</div><div>7日目 竜輝晶 500個</div><div><br></div><div><strong><u>■開催期間</u></strong></div><div><span class="local_date" data-local_date="1571378400"></span> ～ <span class="local_date" data-local_date="1572501599"></span></div><div><br></div><div><strong><u>■注意事項</u></strong></div><div>1. ログインボーナスは、毎日15:00以降にゲームにログインした際に、プレゼントに贈られます。</div><div>2. ログインボーナスとして贈られたプレゼントには、受け取り期限があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1571378400; update_time1571206718

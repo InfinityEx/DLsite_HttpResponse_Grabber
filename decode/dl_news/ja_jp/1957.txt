@@ -1,0 +1,8 @@
+article_id:1957
+category_name:お知らせ
+title_name:武器「カーストリガー」の不具合について
+image_path:
+
+message:<div><span class="local_date" data-local_date="1611727200"></span>より新規で追加された真ドラゴンシリーズ武器について、下記の不具合が発生していることを確認しております。</div><div><br></div><div>・武器「カーストリガー」の武器スキル「カースカノン」および「カースハウザー」を麻痺状態の敵に使用すると、ダメージがアップする。</div><div><br></div><div>本不具合は今後修正予定です。<br>ご案内できることがございましたら、本お知らせにてご案内いたします。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div>
+
+start_time:1611727200; update_time1611731610

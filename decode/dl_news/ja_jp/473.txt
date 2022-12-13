@@ -1,0 +1,136 @@
+article_id:473
+category_name:お知らせ
+title_name:イエヤスが再登場！レジェンド召喚「亥招きし勝利の夜明け」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1558332000"></span>から、レジェンド召喚「亥招きし勝利の夜明け」を開催中！</div><div><br></div><div>期間限定のキャラ・ドラゴンがレジェンド召喚から再登場します。</div><div>また、ピックアップ対象のキャラ・ドラゴンの提供割合がアップ中です。</div><div><br></div><div>【期間限定で再登場するピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 イエヤス：闇/刀</div><div>★4 サザンカ：闇/斧</div><div>★4 アディス：風/刀</div><div><br></div><div>■ドラゴン</div><div>★5 マリシテン：闇</div><div><br></div><div>※ピックアップには再登場以外のキャラ・ドラゴンも含まれます。</div><div>※その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><br></div><div>【レジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1558332000"></span> ～ <span class="local_date" data-local_date="1558936740"></span></div><div><br></div><div>期間限定で追加されるピックアップ対象のキャラ・ドラゴンの一部を、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップキャラ紹介】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2116d6235f4ff813694296da05ffb564.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>739</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>521</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>2500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>東方の島国ヒノモトを治める『十二竜氏』の<br>ひとり。亥の竜氏。剣の達人であり、<br>戦竜マリシテンと契りを交わしている。<br>一騎当千の将だが、その本性は平和を愛し、<br>戦を嫌う心優しい青年である。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5974417a6448ec840830b1964335c2272.png"></span>
+				<span>奥義・夜桜八連斬</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に闇属性のダメージを与え、「切り傷」状態にする。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>秘技・戦刃の陣</span>
+			</dt>
+			<dd>
+				<div>
+					15秒間、【戦刃の陣】を発動。この効果中は自身にHP継続回復効果と自身の攻撃に「切り傷」状態の敵に対するクリティカル率が15％アップする効果が付与される。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EXアビリティ</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻撃力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の攻撃力が10％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>HP70％で会心＋10％</span></dt><dd><div>HP70％以上で攻撃がクリティカルになる確率が<br>10％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痺耐性＋100％</span></dt><dd><div>「麻痺」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>クリティカルダメージ＋20％</span></dt><dd><div>クリティカル時のダメージ倍率が20％アップする。</div></dd></dl></div></div></div><div>※最大Lv、マナサークル全解放時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6b7dc3a80890f0d2c3bf2d56dff74446.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>ヒノモト国のドラゴンの長・アマテラスを<br>支える十二竜の一柱。別称「戦竜」。<br>好戦的で万の軍を蹴散らす力を持ち、<br>武士たちから勝利の象徴と崇められている。<br>猪を眷属として、己に従わせている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5974417a6448ec840830b1964335c2272.png"></span>
+				<span>暁刃連斬</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に闇属性のダメージを与え、「切り傷」状態にする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】攻撃力＋60％</span></dt><dd><div>装備キャラが闇属性なら<br>装備キャラの攻撃力が60％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 本召喚イベントでピックアップされたキャラ・ドラゴンは、将来開催される召喚イベントで再度登場する可能性があります(★の数が異なったり、提供割合が現在と変わったりする場合があります)。</div><div>2. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>3. その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1558332000; update_time1557991433

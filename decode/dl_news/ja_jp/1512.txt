@@ -1,0 +1,8 @@
+article_id:1512
+category_name:イベント
+title_name:施設イベント【復刻】「Melodious Summer♪」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/3c876e671827ce7a91c31d697733ee96.png
+
+message:<div><span class="local_date" data-local_date="1597730400"></span>から、施設イベント【復刻】「Melodious Summer♪」の開催を予定しております。</div><div>闇属性のボスと戦い、イベント限定の施設を報酬として獲得し、建設できるイベントです。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/3c876e671827ce7a91c31d697733ee96.png"><br></div><div>夏だ！　海だ！　ステージだ！</div><div>渚の歌姫セイレーンの願い――</div><div>それはリサイタルを開いて、皆に歌を届けること。</div><div>願いを叶えるため、ステージ作りと観客集めに奔走する王子たち。</div><div>しかし、その道は苦難の連続で&hellip;&hellip;。</div><div>セイレーンの歌声は人々に届くのか？</div><div>王子たちの夏はまだ終わらない&hellip;&hellip;！</div><div><br></div><div>■イベント期間</div><div><span class="local_date" data-local_date="1597730400"></span> ～ <span class="local_date" data-local_date="1598594399"></span></div><div><br></div><div>■注意事項</div><div>1. イベントクエスト参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。</div><div>2. マルチプレイ参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1597644000; update_time1597308719

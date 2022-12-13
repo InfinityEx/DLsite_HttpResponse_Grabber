@@ -1,0 +1,161 @@
+article_id:2302
+category_name:お知らせ
+title_name:★5ドラゴン確定！「プラチナレジェンド召喚」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1625464800"></span>から、「プラチナレジェンド召喚」を開催中！</div><div><br></div><div>今回の「プラチナレジェンド召喚」では、「10回召喚」の10枠目で、★5ドラゴンが確定で出現します。</div><div>本召喚は、期間中に「10回召喚」を2回までご利用いただけます。</div><div>また、本召喚は「ドラゴンダイヤ」でのみご利用いただけます。</div><div><span style="color: rgb(226, 80, 65);">※本召喚の提供内容に、別途開催中のレジェンド召喚「鐘の音は深き海より ピックアップ」から新規で追加されたキャラは含まれません。</span></div><div><br></div><div>【プラチナレジェンド召喚 開催期間】</div><div><span class="local_date" data-local_date="1625464800"></span> ～ <span class="local_date" data-local_date="1626328799"></span></div><div><br></div><div>「プラチナレジェンド召喚」の10枠目に確定で出現する、対象の★5ドラゴンの一部を、下記にてご紹介いたします。</div><div><br></div><div>【10枠目確定対象★5ドラゴン紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3ac6e4f99ca4c6caeb73574788284247.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>イリア教から存在を抹消されたドラゴン。<br>かつてはイリアの言葉を巫女に伝える役目を<br>担っていたが、秩序に反し封印されていた。<br>封印を解かれてからは、『教会の真実』を<br>知らしめるため秘密裏に活動を行っている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>マーシレスドゥーム</span>
+			</dt>
+			<dd><div>直線上の敵に闇属性のダメージを与え、「毒」状態にする。さらに、40秒間パーティ全員に「毒」状態の敵に与えるダメージが15％アップする効果を付与する。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【闇】HP＋30％</span></dt><dd><div>装備キャラが闇属性なら<br>装備キャラのHPが30％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【闇】スキルブースト＋35％</span></dt><dd><div>装備キャラが闇属性なら<br>スキルゲージの上昇率が35％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/86d1ee4a40fe2a289e8203b4fe87c283.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>南大陸の河川を守護するドラゴン。<br>幼体と成体で姿形が大きく異なる。<br>基本的に友好的な性格だが、幼体の前で<br>人間がタブーを侵すと悪意を持った分身が<br>生まれ、災いをもたらすようになる。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>クリナップウェイヴ</span>
+			</dt>
+			<dd><div>直線上の敵に水属性のダメージを与える。このスキルは、ステュクスの通常攻撃で付与される【ストリームスピリット】の数に応じて強化される。【ストリームスピリット】は3つまで重複可能で、竜化解除またはスキル使用時に全て解除される。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【水】経時スキルダメージⅤ</span></dt><dd><div>装備キャラが水属性なら15秒経過するたび、自身に【次のスキルダメージが50％アップするバフ】を付与する。<br>このバフは最大4つまで重複し、攻撃スキル使用時にすべて解除される。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/03cfd520d44ce79e09a0c66216ed53b4.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>『五大天使』と呼ばれるドラゴンの1体。<br>落ち着いた態度で冷静な分析能力を持つが、<br>時折毒を吐く。元々人間に対して何の感慨も<br>抱いていなかったが、今では聖痕を結ぶ<br>使徒に対し、父性に似た感情を抱いている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cec8794d33276918ce38bfaa577312842.png"></span>
+				<span>マルアハ・コルヤ</span>
+			</dt>
+			<dd><div>前方の敵に闇属性のダメージを与え、「毒」状態にし、15秒間敵の防御力を20％ダウンさせる。この防御力ダウン効果は重複しない。また、装備キャラのスキル2を即時発動可能にする。さらに装備キャラのスキル1、スキル2は90秒間自動的にチャージされる。このチャージは「スキルゲージの上昇量をアップさせる効果」を受けない。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c793d967ec5a1e469bd1b8ed200f254d2.png"></span><span>【闇】攻撃力＆開幕竜化ゲージⅤ</span></dt><dd><div>装備キャラが闇属性なら<br>装備キャラの攻撃力が60％、クエスト開始時に自身の竜化ゲージが50％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 「プラチナレジェンド召喚」についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「プラチナレジェンド召喚」の「提供割合」や「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. 「プラチナレジェンド召喚」開催中も、レジェンド召喚「鐘の音は深き海より ピックアップ」は開催中です。召喚画面タイトル部分の「&lt;」「&gt;」アイコンをタップすると、各召喚の画面に移動できます。</div><div>3. レジェンド召喚「鐘の音は深き海より ピックアップ」にて、10回連続で★5が出現しなかったことにより上昇した提供割合は、「プラチナレジェンド召喚」をご利用いただいても、リセットされません。</div><div>4. その他の注意事項は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブから「注意事項」をご確認ください。</div><div>5. 「プラチナレジェンド召喚」では「竜輝の印」を獲得できません。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1625464800; update_time1624938170

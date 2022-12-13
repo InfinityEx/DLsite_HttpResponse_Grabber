@@ -1,0 +1,8 @@
+article_id:360
+category_name:お知らせ
+title_name:事前登録者数50万人達成！
+image_path:
+
+message:<div>『ドラガリアロスト』の事前登録者数が50万人を達成いたしました！</div><div>ご登録いただいた皆様、ありがとうございます。</div><div><br></div><div>サービス開始時、皆様に竜輝晶1500個(召喚10回分)をプレゼントいたします。</div><div><br></div><div>サービス開始まで、もうしばらくお待ちください。</div><div>事前登録は引き続き受付中です！</div><div><br></div><div>事前登録キャンペーンの詳細は、下記のページからご確認ください。</div><div><br></div><div>▼事前登録キャンペーンページ</div><div>https://dragalialost.com/jp/pre_registration/</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1536127200; update_time1555317638

@@ -1,0 +1,8 @@
+article_id:346
+category_name:お知らせ
+title_name:ドラゴン紹介「ブリュンヒルデ(CV:遠藤綾さん)」
+image_path:
+
+message:<div>火属性のドラゴン「ブリュンヒルデ(CV:遠藤綾さん)」の情報を公開しました。</div><div>下記のページからご覧ください。</div><div>※「VOICE」を押すとセリフが再生されます。</div><div><br></div><div>▼「ブリュンヒルデ」ドラゴンページ</div><div>https://dragalialost.com/jp/dragon/brunhild/</div><div><br></div><div>そのほかのドラゴンも順次公開予定ですので、ぜひご期待ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1528351200; update_time1555292839

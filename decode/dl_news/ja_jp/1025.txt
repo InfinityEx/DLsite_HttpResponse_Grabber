@@ -1,0 +1,8 @@
+article_id:1025
+category_name:お知らせ
+title_name:「春節ログインボーナス」開催中！
+image_path:https://dragalialost.akamaized.net/attached/information/images/6c72a13542912b29ab8b9c5b83c52387.png
+
+message:<div><span class="local_date" data-local_date="1579759200"></span>から、「春節ログインボーナス」を開催中！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/6c72a13542912b29ab8b9c5b83c52387.png"></div><div>開催期間中のログインした日に、下記の豪華報酬をプレゼントします！</div><div><br></div><div>■ログインボーナスの内容</div><div>1日目 ★5竜輝の護符「開春はなやぐ空の華」(上限解放済み) 1枚</div><div>2日目 竜輝晶 200個</div><div>3日目 竜輝晶 200個</div><div>4日目 竜輝晶 200個</div><div>5日目 竜輝晶 200個</div><div>6日目 竜輝晶 200個</div><div>7日目 竜輝晶 200個</div><div><br></div><div>■開催期間</div><div><span class="local_date" data-local_date="1579759200"></span> ～ <span class="local_date" data-local_date="1580709599"></span>まで</div><div><br></div><div>■注意事項</div><div>1. ログインボーナスは、毎日15:00以降にゲームにログインした際に、プレゼントに贈られます。</div><div>2. ログインボーナスとして贈られたプレゼントには、受け取り期限があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1579759200; update_time1579239741

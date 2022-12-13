@@ -1,0 +1,8 @@
+article_id:1196
+category_name:お知らせ
+title_name:レイドイベント「咎人は巡る、竜眼の軌跡」開催直前プレゼント！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1585634400"></span>から、開催予定のレイドイベント「咎人は巡る、竜眼の軌跡」に向けて、プレイヤーの皆様へ下記のプレゼントを順次お贈りいたします！</div><div><br></div><div>■プレゼント内容</div><div>霊鳥の聖灰&times;10</div><div>パワーソウル&times;100</div><div><br></div><div>お贈りしたアイテムの受け取り期限は、「プレゼント」にアイテムが贈られてから7日間です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1585548000; update_time1585300300

@@ -1,0 +1,264 @@
+article_id:1977
+category_name:お知らせ
+title_name:「ドラガリアフェス　エクストラ」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1613109600"></span>から、「ドラガリアフェス　エクストラ」の開催を予定しております。</div><div><br></div><div>【ドラガリアフェスとは】 ※「ドラガリアフェス　エクストラ」含む</div><div>期間限定のキャラがドラガリアフェスから登場します。</div><div>また、★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップします！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><span style="color: rgb(226, 80, 65);">※今回新規で追加される★5ドラゴン「メノイティオス（風）」は、次回のレジェンド召喚からも登場します。</span></div><div><span style="color: rgb(226, 80, 65);">※これまでの「ドラガリアフェス」で追加されたキャラも本召喚から登場する場合があります。登場するキャラの詳細はゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</span></div><div><br></div><div>【新規に期間限定で登場するピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 チェルシー（バレンタインVer.）：風/弓</div><div><br></div><div>【新規で追加されるピックアップ対象のドラゴン】</div><div>■ドラゴン</div><div>★5 メノイティオス：風</div><div><br></div><div>【過去のドラガリアフェスから登場するピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 ランザーヴ（ドラフェスVer.）：風/剣</div><div><br></div><div>また、今回のドラガリアフェスでは下記の期間限定のキャラが再登場します。</div><div><span style="color: rgb(226, 80, 65);">※下記のキャラはピックアップ対象ではございません。</span></div><div><br></div><div>【期間限定で再登場するキャラ】</div><div>■キャラ</div><div>★5 メロディ（バレンタインVer.）：風/斧</div><div>★5 アディス（バレンタインVer.）：闇/弓</div><div><br></div><div>【ドラガリアフェス　エクストラ開催期間】</div><div><span class="local_date" data-local_date="1613109600"></span> ～ <span class="local_date" data-local_date="1613455199"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/18bdfa9b5b70735926736e4c924675a8.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>764</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>494</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>チョコレート菓子のようなドレスを纏った<br>チェルシー。愛しの「リュカきゅん☆」を<br>一途に想い続ける彼女は、バレンタインにも<br>相当な思い入れが。一体どんな強烈な……<br>もとい愛あるプレゼントを贈るのか。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a934f8bcb2c028554f97a353305475732.png"></span>
+				<span>恋の暴走ジェノサイド★</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、「裂風」状態にする。<br>また、自身に【レッツ・デリート★】を付与し、「火傷」状態にする。</div><div class="skill-detail">
+
+威力：906 × 2 Hit<br>威力：1,087 × 1 Hit<br>必要スキルポイント：2,910<br>必要シェアスキルポイント：12,658<br>特殊効果<br>・レッツ・デリート★<br>　攻撃力10%アップ<br>　効果時間：15 秒<br>　重複不可<br>・火傷<br>　効果時間：15 秒<br>　効果間隔：2.9 秒<br>　威力：最大HPの5%<br>・裂風<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0f7c131400617dcb8578eb1114ec52d22.png"></span>
+				<span>愛の力はインフィニティ☆</span>
+			</dt>
+			<dd><div>自身のラッピングゲージを1本チャージする。<br>スキル発動後【スキルシフト】が発生し、スキルの効果が最大で2回変化する。<br>また、ラッピングゲージが5本チャージされているとき、【スキルシフト】に関わらず次のように変化する。<br>パーティ全員に【スイートギフト】、自身に【ビターギフト】を付与し、スキル「恋の暴走ジェノサイド★」を即時発動可能にする。</div><div class="skill-detail">
+
+必要スキルポイント：11,640<br><br>
+
+（スキルシフト1回目）<br>必要スキルポイント：11,640<br>特殊効果<br>・スイートギフト<br>　防御力15％アップ<br>　効果時間：15 秒<br>　対象：パーティ全員<br><br>
+
+（スキルシフト2回目）<br>必要スキルポイント：11,640<br>特殊効果<br>・スイートギフト<br>　防御力15％アップ<br>　効果時間：15 秒<br>　対象：パーティ全員<br>・ビターギフト<br>　スキルダメージ30％アップ<br>　効果回数：1<br>　対象：自身<br>　重複不可<br><br>
+（アビリティ効果発動時）<br>必要スキルポイント：11,640<br>特殊効果<br>・スイートギフト<br>　防御力15％アップ<br>　効果時間：15 秒<br>　対象：パーティ全員<br>・ビターギフト<br>　スキルダメージ30％アップ<br>　効果回数：1<br>　対象：自身<br>　重複不可<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>スキルブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のスキルゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span>
+				<span>【風】背水：逆上でシールドⅤ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが風属性なら、状態異常判定を持つ攻撃を受けた時、【最大HPの25％以下のダメージを無効化するシールド】を付与する。この効果は発動してから20秒間は発動しない。シールドの効果は1回のみで、同種のシールドとは重複しない。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28c11357a92bd55c2e5268bd733d83622.png"></span><span>セルフ☆ラッピングⅡ</span></dt><dd><div>ラッピングゲージを追加する。ラッピングゲージは以下の効果を持つ。<br>①最大5本までチャージでき、5本チャージされている場合は通常攻撃およびスキル2が強化される。<br>②スキル2の効果で1本チャージされる。<br>③スキルによってバフを付与されるたび、1本の12.5％分チャージされる。この効果は発動してから5秒間は発動しない。<br>④チャージされている本数に応じて、自身のスキルダメージ・防御力・最大HP・状態異常になる確率が、それぞれ以下のように変化する。<br>なし：−10％、−10％、−10％、変化なし<br>1本：−5％、−5％、−5％、−20％<br>2本：変化なし、変化なし、変化なし、−40％<br>3本：＋5％、＋5％、＋5％、−60％<br>4本：＋10％、＋10％、＋10％、−80％<br>5本：＋25％、＋15％、＋15％、−100％</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c4b3c1e9ed13f178980bfc77eb8713b52.png"></span><span>キャッチング★ファイアⅡ</span></dt><dd><div>「火傷」判定を持つ攻撃を受けた時、自身のスキル2を25％チャージし、8秒間【激熱ラブ】が発動。<br>この効果中は攻撃速度が15％アップし、最大3回バーストアタックに【敵のバフを1つ解除する効果】が付与される。<br>【激熱ラブ】は重複せず、またこのアビリティの効果は発動してから5秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/50e8f27a8ccb8795c0a52d0417e9e2862.png"></span><span>裂風特効＋30％</span></dt><dd><div>「裂風」状態の敵に与えるダメージが30％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/fc8a6ec87819bf755fb736696ab029b2.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>弱肉強食の思想を持つドラゴン。<br>それゆえに弱者はゴミと切り捨て、<br>たとえ味方であろうとも容赦しない。<br>己が愉しめる戦いを求め、気まぐれに<br>戦乱の嵐を巻き起こしている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>メノイティオスの蹂躙</span>
+			</dt>
+			<dd><div>ターゲットとその周囲の敵にダメージを与え、「裂風」状態にする。</div><div class="skill-detail">
+
+威力：2,304 × 1 Hit<br>特殊効果<br>・裂風<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/916d0547dd866ff9333344c772c14d732.png"></span><span>【風】攻撃＆水耐性アップⅤ</span></dt><dd><div>装備キャラが風属性なら<br>装備キャラの攻撃力が50％、水属性耐性が15％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4fad35ff4b20f3782974df40d9d63f672.png"></span><span>【風】逆上・攻＆反撃Ⅱ</span></dt><dd><div>装備キャラが風属性なら、状態異常判定を持つ攻撃を受けた時、周囲の敵に風属性のダメージを与え、自身に45秒間【狂気の高揚】が発動。<br>この効果中は攻撃力が25％アップする。<br>【狂気の高揚】は重複せず、このアビリティの効果は発動してから20秒間は発動しない。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/4f75b91b0ff74c0daa157ea8849edbcb.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>755</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>504</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>新アルベリア王国の戦闘隊長となった<br>ランザーヴ。仲間が新調してくれた鎧を<br>まとい、武器を傭兵時代の斧から剣に<br>持ち替えた。荒々しい性格は相変わらずだが<br>人を率いる者として威厳と風格が出てきた。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>サイクロンブレイド</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>ターゲットとその周囲の敵に風属性のダメージを与える。</div><div class="skill-detail">
+
+威力：303.6 × 6 Hit<br>必要スキルポイント：2,661<br>必要シェアスキルポイント：9,579<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/862d02981336441f770826c64d15b0162.png"></span>
+				<span>ウインドタクティクス</span>
+			</dt>
+			<dd><div>【風纏剣】を発動。自身のバーストアタックを3回分強化し、10秒間パーティ全員の防御力を10％アップさせる。強化されたバーストアタックは【三連飛剣】となり、遠距離への攻撃が可能となる。</div><div class="skill-detail">
+
+必要スキルポイント：5,800<br>特殊効果<br>・防御力10％アップ<br>　効果時間：10 秒<br>・風纏剣<br>　効果回数：3<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>竜化ブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の竜化ゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>【風】守勢：プロテクトリンク・会心＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが風属性なら防御力アップのバフを受けたとき、【15秒間、クリティカル率を10％アップするバフ】が発動。<br>この効果は発動してから15秒間は発動しない。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>歴戦の業Ⅱ</span></dt><dd><div>アタックゲージとバーストゲージを追加する。ゲージが満タンになっているとその本数に応じて防御力がアップし、スキル「サイクロンブレイド」使用時に満タンになったゲージを消費して威力をアップさせる。<br>アタックゲージ：通常攻撃を敵にヒットさせるとチャージされる。<br>バーストゲージ：バーストアタックを敵にヒットさせるとチャージされる。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/857a2a2fdbc31b188c91fbd6f6eca6b32.png"></span><span>鉄壁の覇気Ⅱ</span></dt><dd><div>「凍結」、「ずぶぬれ」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>スキルダメージ＋30％</span></dt><dd><div>攻撃スキルのダメージが30％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>【注意事項】</div><div>召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1613023200; update_time1612847841

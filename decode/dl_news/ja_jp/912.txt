@@ -1,0 +1,8 @@
+article_id:912
+category_name:お知らせ
+title_name:「アカウントエラー」と表示されログインできない不具合について
+image_path:
+
+message:<div><span class="local_date" data-local_date="1574917200"></span>に開始したメンテナンスの終了後から<span class="local_date" data-local_date="1574927760"></span>までの期間で、一部プレイヤーにて「アカウントエラー」と表示されログインできない不具合が発生しておりました。</div><div><br></div><div>本不具合は、現在解消しております。<br>本不具合のお詫びとして、該当の現象が発生していたプレイヤーの皆様に、下記のアイテムを順次お送りいたします。</div><div><br></div><div>・最高級はちみつ&times;1<br>・霊鳥の聖灰&times;1</div><div><br></div><div>お送りしたアイテムの受け取り期限は、「プレゼント」にアイテムが送られてから7日間です。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div>
+
+start_time:1574996400; update_time1574996972

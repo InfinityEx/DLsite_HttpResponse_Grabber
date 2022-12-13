@@ -1,0 +1,8 @@
+article_id:484
+category_name:お知らせ
+title_name:イベント「FIRE EMBLEM つながる世界」の「防衛戦」にて発生していた不具合について
+image_path:
+
+message:<div><span class="local_date" data-local_date="1556258400"></span> ～ <span class="local_date" data-local_date="1557813599"></span>に開催していた、イベント「FIRE EMBLEM つながる世界」の「防衛戦ハード」と「防衛戦ルナティック」にて、「シャドウナイト」を倒したにもかかわらず、倒したことになっていない場合があるという不具合が発生しておりました。</div><div><br></div><div>イベント期間終了後のご連絡となってしまいましたことをお詫び申し上げます。</div><div><br></div><div>本不具合のお詫びとして、「防衛戦ハード」もしくは「防衛戦ルナティック」を1度でもクリアしたことがあるプレイヤーの皆様に、下記のアイテムを順次お送りいたします。</div><div><br></div><div>・竜輝晶 300個</div><div><br></div><div>お送りしたアイテムは、<span class="local_date" data-local_date="1559282399"></span>までにゲームにログインした際に、「プレゼント」からお受け取りいただけます。</div><div>お送りしたアイテムの受け取り期限は、「プレゼント」にアイテムが送られてから7日間です。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことを、重ねてお詫び申し上げます。</div>
+
+start_time:1558681200; update_time1558681244

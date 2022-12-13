@@ -1,0 +1,8 @@
+article_id:562
+category_name:お知らせ
+title_name:メインストーリーに第9章「Let's Party！」の追加が決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/04137ede9437ffe3ca31d0c960690eeb.png
+
+message:<div><span class="local_date" data-local_date="1563170400"></span>からメインストーリーに、第9章「Let&#39;s Party！」の追加が決定しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/04137ede9437ffe3ca31d0c960690eeb.png"></div><div>最新章をご期待ください！</div><div><br></div><div>■注意事項</div><div>メインストーリー第9章「Let&#39;s Party！」は、メインストーリー第8章 5-4「強さは愛ゆえに」をクリアすると解放されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1562824800; update_time1569489367

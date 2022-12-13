@@ -1,0 +1,8 @@
+article_id:77
+category_name:お知らせ
+title_name:データ更新のお知らせ
+image_path:
+
+message:<div><span class="local_date" data-local_date="1541088900"></span>ごろにデータ更新を行います。</div><div><br></div><div>本データ更新の内容は下記のとおりです。</div><div><br></div><div>■データ更新内容</div><div>イベント「優しき少女と拘囚の守護竜」にて、レイドボス「ヒュプノス」が表示されなくなる不具合の修正。</div><div><br></div><div>■注意事項</div><div>データの更新を行った際「新しいバージョンがあります」と表示される場合があります。</div><div>上記はアプリのバージョンアップではなく、通信によるデータの更新が行われます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1541088000; update_time1542364259

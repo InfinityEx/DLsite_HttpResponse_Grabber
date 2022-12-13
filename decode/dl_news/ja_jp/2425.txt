@@ -1,0 +1,8 @@
+article_id:2425
+category_name:お知らせ
+title_name:マルチプレイに接続しにくい現象について
+image_path:
+
+message:<div><span class="local_date" data-local_date="1629039600"></span>ごろ、一時的な障害が原因でマルチプレイに接続しにくい現象が発生しておりました。</div><div><br></div><div>本現象については、現在は解消しております。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div>
+
+start_time:1629101700; update_time1629177320

@@ -1,0 +1,8 @@
+article_id:668
+category_name:お知らせ
+title_name:「宝竜の挑戦・水」のクエストレベル追加にあわせて「ルピ」をプレゼント！
+image_path:
+
+message:<div>『ドラガリアロスト』を楽しんでいただくために、プレイヤーの皆様へ「ルピ」をお贈りいたしました！</div><div>ルピを使用して武器を強化し、戦力をあげて「宝竜の挑戦」に挑もう！</div><div><br></div><div>■プレゼント内容</div><div>ルピ&times;1000000</div><div><br></div><div>■お贈りする対象の方</div><div><span class="local_date" data-local_date="1565935200"></span>までにゲームを開始されたプレイヤーの皆様</div><div><br></div><div>お贈りしたアイテムの受け取り期限は、「プレゼント」にアイテムが贈られてから7日間です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1565935200; update_time1569482057

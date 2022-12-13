@@ -1,0 +1,8 @@
+article_id:1791
+category_name:お知らせ
+title_name:キャラ「ラピス」のバーストアタックの不具合について【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1606806600"></span>追記】</strong></span></div><div>本不具合は、<span class="local_date" data-local_date="1606456800"></span>ごろに実施したデータ更新にて修正が完了しております。<br>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。<br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><hr><div>キャラ「ラピス」について、下記の不具合が発生しております。</div><div><br></div><div>・バーストアタックを複数の敵にヒットさせると、1体の敵にヒットさせた時より、スキルゲージが多く回復する。</div><div><br></div><div>本不具合は<span class="local_date" data-local_date="1606456800"></span>ごろのデータ更新にて修正いたします。</div><div><br></div><div>本不具合のお詫びとして、<span class="local_date" data-local_date="1606456799"></span>までにゲームを開始されたプレイヤーの皆様に、本不具合の修正後に下記のアイテムを順次お送りいたします。</div><div><br></div><div>・竜輝晶 &times; 120</div><div><br></div><div>※お送りしたアイテムの受け取り期限は、プレゼントにアイテムが送られてから7日間です。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div><div><br></div>
+
+start_time:1605765600; update_time1606806640

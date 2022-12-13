@@ -1,0 +1,8 @@
+article_id:103
+category_name:お知らせ
+title_name:「プラチナレジェンド召喚」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1542866400"></span>から、新たに「プラチナレジェンド召喚」の開催を予定しております。</div><div><br></div><div>プラチナレジェンド召喚は、「10回召喚」の10枠目で、★5が確定する期間限定の召喚です。</div><div>「★5キャラ確定」「★5竜輝の護符確定」「★5ドラゴン確定」の期間があります。それぞれの期間で、「10回召喚」を1回ご利用いただけます。</div><div>本召喚は、ドラゴンダイヤでのみご利用いただけます。</div><div><br></div><div>【プラチナレジェンド召喚の開催期間】</div><div><br></div><div>・★5キャラ確定</div><div><span class="local_date" data-local_date="1542866400"></span> ～ <span class="local_date" data-local_date="1543125540"></span></div><div><br></div><div>・★5竜輝の護符確定</div><div><span class="local_date" data-local_date="1543125600"></span> ～ <span class="local_date" data-local_date="1543384740"></span></div><div><br></div><div>・★5ドラゴン確定</div><div><span class="local_date" data-local_date="1543384800"></span> ～ <span class="local_date" data-local_date="1543643940"></span></div><div><br></div><div>【注意事項】</div><div>1. 本お知らせに掲載されている内容以外の情報や、召喚の提供割合などにつきましては、開催時にゲーム内フッターメニューの「召喚」をタップし、「召喚情報」「提供割合」をご確認ください。</div><div>2. プラチナレジェンド召喚の開催期間および内容は、予告なく変更する場合があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1542780000; update_time1542866532

@@ -1,0 +1,8 @@
+article_id:643
+category_name:お知らせ
+title_name:Ver.1.10.0における不具合についてのお詫び
+image_path:
+
+message:<div><span class="local_date" data-local_date="1564380000"></span>に公開したVer.1.10.0にて、下記の不具合が発生したことを確認しております。</div><div><br></div><div>・「宝竜の挑戦」にてファフニ・ロイIII世が正常な動作をしない。</div><div><br></div><div>・状態異常の効果が正常に発生しない場合がある。</div><div><br></div><div>上記不具合の対応状況に関しましては、各お知らせをご確認ください。</div><div>不具合のお詫びとして、<span class="local_date" data-local_date="1564462800"></span>までにゲームを開始されたプレイヤーの皆様に、下記のアイテムをお送りいたします。</div><div><br></div><div>・竜輝晶 500個</div><div><br></div><div>お送りしたアイテムの受け取り期限は、「プレゼント」にアイテムが送られてから7日間です。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div>
+
+start_time:1564462800; update_time1564462526

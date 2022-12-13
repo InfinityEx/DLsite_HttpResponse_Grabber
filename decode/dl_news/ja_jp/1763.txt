@@ -1,0 +1,8 @@
+article_id:1763
+category_name:お知らせ
+title_name:ポセイドンブレイヴ（ドラフェスVer.）の不具合について
+image_path:
+
+message:<div><span class="local_date" data-local_date="1604037600"></span>より召喚に新規で追加された、ドラゴン「ポセイドンブレイヴ（ドラフェスVer.）」について、下記の不具合が発生しておりました。</div><div><br></div><div>・竜化中の通常攻撃の威力が想定よりも低い</div><div>・スキル「アトランティス・サブマージ」の威力が想定よりも低い</div><div><br></div><div>本不具合は<span class="local_date" data-local_date="1604468400"></span>ごろに実施したデータ更新にて修正いたしました。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div><div><br></div>
+
+start_time:1604468400; update_time1605603084

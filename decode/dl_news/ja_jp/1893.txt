@@ -1,0 +1,171 @@
+article_id:1893
+category_name:お知らせ
+title_name:レジェンド召喚「新春陰陽役 ピックアップ Part2」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1609999200"></span>から、レジェンド召喚「新春陰陽役 ピックアップ Part2」を開催中！</div><div><br></div><div>期間限定のキャラ・ドラゴンがレジェンド召喚から登場します。</div><div>また、ピックアップ対象のキャラ・ドラゴンの提供割合がアップ中です。</div><div><br></div><div>【新規に期間限定で登場するピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 ヨシツネ：水/銃（散弾銃モード）</div><div>※散弾銃モードは、射程が短く、近距離攻撃が得意なモードです。</div><div>扇状に複数の攻撃を同時に射出するため、複数の敵に対して威力を発揮します。</div><div>また、敵に密接して攻撃することでより多くダメージを与えられます。</div><div><br></div><div>【期間限定で再登場するピックアップ対象のドラゴン】</div><div>■ドラゴン</div><div>★5 ゴズテンノウ：火</div><div><br></div><div>今回のレジェンド召喚「新春陰陽役 ピックアップ Part2」では下記の期間限定のキャラ・ドラゴンが再登場します。</div><div><span style="color: rgb(226, 80, 65);"><strong>※下記のキャラ・ドラゴンはピックアップ対象ではございません。</strong></span></div><div><br></div><div>【期間限定で再登場するキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 セイメイ：火/ロッド</div><div>★5 ミツヒデ：光/短剣</div><div>★5 ノブナガ：火/刀</div><div>★5 イエヤス：闇/刀</div><div>★4 チトセ：光/ロッド</div><div>★4 サザンカ：闇/斧</div><div>★4 アディス：風/刀</div><div><br></div><div>■ドラゴン</div><div>★5 ダイコクテン：光</div><div>★5 マリシテン：闇</div><div><br></div><div><span style="color: rgb(226, 80, 65);"><strong>※「竜輝の印」は獲得した召喚のみで消費できます。レジェンド召喚「新春陰陽役 ピックアップ Part1」で獲得した「竜輝の印」をレジェンド召喚「新春陰陽役 ピックアップ Part2」で消費することはできません。</strong></span></div><div><span style="color: rgb(226, 80, 65);"><strong>※レジェンド召喚「新春陰陽役 ピックアップ Part2」の「竜輝の印交換」の対象キャラに★5キャラ「セイメイ」は含まれません。</strong></span></div><div><br></div><div>【レジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1609999200"></span> ～ <span class="local_date" data-local_date="1610603999"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/67ab89da6fa8e8dbee0b4292720cf879.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>757</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>503</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>使用可能モード</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/a3fd3d318f5d1ce860f6d1c41c2d49fb2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/b55a4c2045276a7e557c62c0be3897042.png"><img src="https://dragalialost.akamaized.net/attached/information/images/26f43aab3c39a2bcdadd1b40dd88e7402.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>東方の島国ヒノモトを治める『十二竜氏』の<br>ひとり。酉の竜氏。かつて世界各地を巡り<br>傭兵として活躍していた。実際の齢は100を<br>超えており、戦闘時には若かりし頃の姿に<br>戻るが、それには秘密が隠されていて……。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3ff8afe7f24e035c9231ac49b43bcef2.png"></span>
+				<span>飛鳥翔の閃き</span>
+			</dt>
+			<dd>
+				<div>
+					一定時間構えた後、前方の敵に水属性のダメージを与える。<br>構え中にスキルによって回避可能な攻撃を受けた場合は、周囲の敵に水属性のダメージを与え、30秒間、自身の攻撃速度を15％アップする。この攻撃速度アップ効果は重複しない。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/72e25befea53d59ac679654068fe9a7b2.png"></span>
+				<span>遮那王無双飛撃</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に水属性のダメージを与える。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>ゲージブレイク＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のモードゲージの減少量が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【水】回避：攻撃回避で攻＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが水属性なら攻撃を回避したとき、【15秒間、攻撃力を10％アップするバフ】が発動。<br>この効果は発動してから15秒間は発動しない。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5961c58fe5d1b6f2ba6a264773d3258f2.png"></span><span>欄干回攻Ⅱ</span></dt><dd><div>フリックして回避したとき、ターゲットに追加攻撃を行うようになる。また、敵の攻撃をフリックして回避したとき、30秒間、自身の【攻撃速度を10％アップするバフ】が発動。この効果は重複せず、発動してから5秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>気絶耐性＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾風怒濤・攻＋20％</span></dt><dd><div>ヒット数15以上で、攻撃力が20％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e4ce3bcd15c23565aab381f27af875ac.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>ヒノモト国のドラゴンの長・アマテラスを<br>支える十二竜が一柱、『丑』の竜。<br>いかめしい風貌だが、世話好きな性格。<br>東に空腹の人がいると聞けば飯を作りに行き<br>西に泣く子がいると聞けば飴を与えに走る。<br></li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>牛頭猛炎撃</span>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に火属性のダメージを与え、クエスト中火属性耐性を10％ダウンさせる。この効果は重複しない。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻撃力＋70％</span></dt><dd><div>装備キャラが火属性なら<br>装備キャラの攻撃力が70％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ba1d939f31aa624b013b900d03a48812.png"></span><span>意気の熾火Ⅱ</span></dt><dd><div>装備キャラが火属性ならバーストアタックを3秒以上継続して使用したとき（攻撃中やチャージ中も含む）、自身に【30秒間風属性の敵に対して攻撃したときダメージ倍率が30％アップするバフ】が発動。この効果は重複せず、発動してから15秒間は発動しない。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1609999200; update_time1608884097

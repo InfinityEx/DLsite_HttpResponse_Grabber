@@ -1,0 +1,8 @@
+article_id:1754
+category_name:お知らせ
+title_name:キャラ「ラピス」の不具合について【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1604469600"></span>追記】</strong></span><br>本不具合は<span class="local_date" data-local_date="1604296800"></span>のデータ更新にて修正いたしました。<br>プレイヤーの皆様には、ご迷惑をおかけしましたことを重ねてお詫び申し上げます。</div><div><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><hr><div><span class="local_date" data-local_date="1604037600"></span>より召喚に新規で追加された、キャラ「ラピス」について、下記の不具合が発生していることを確認しております。</div><div><br></div><div>・スキル「ヴォル・ファンタスティック」を麻痺状態の敵に使用すると、ダメージがアップする。</div><div><br></div><div>本不具合は今後修正予定です。</div><div>ご案内できることがございましたら、本お知らせにてご案内いたします。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div>
+
+start_time:1604040600; update_time1604469722

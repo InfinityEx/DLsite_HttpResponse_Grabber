@@ -1,0 +1,8 @@
+article_id:1717
+category_name:お知らせ
+title_name:「アルべリアバトルロイヤル」の開催期間延長と開催スケジュール変更について
+image_path:
+
+message:<div><span class="local_date" data-local_date="1601002800"></span>から開催中の「アルべリアバトルロイヤル」について、下記の通り開催期間を延長したうえで開催スケジュールを変更いたします。</div><div><br></div><div>■開催期間</div><div>変更前：<span class="local_date" data-local_date="1601002800"></span> ～ <span class="local_date" data-local_date="1604123999"></span></div><div>変更後：<span class="local_date" data-local_date="1601002800"></span> ～ <span class="local_date" data-local_date="1609394399"></span></div><div>※期間限定ミッションの開催期間は<span class="local_date" data-local_date="1606456799"></span>まで延長いたします。</div><div><br></div><div>■<span class="local_date" data-local_date="1604124000"></span>以降の開催スケジュール</div><div><span class="local_weekly_time" data-local_date="1670997600"></span> ～ <span class="local_weekly_time" data-local_date="1671170340"></span></div><div>開催</div><div><br></div><div>■注意事項</div><div>開催スケジュールは、予告なく変更する場合があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1603346400; update_time1603347817

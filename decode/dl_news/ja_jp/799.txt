@@ -1,0 +1,167 @@
+article_id:799
+category_name:お知らせ
+title_name:「ドラゴンレジェンド召喚」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1570773600"></span>から、「ドラゴンレジェンド召喚」を開催中！</div><div><br></div><div>ピックアップ対象の★5と★4ドラゴンの提供割合がアップ中です。</div><div><br></div><div>【ドラゴンレジェンド召喚の提供割合】</div><div>★5ピックアップ 合計：2.40％(キャラ：0％ ドラゴン：2.40％)</div><div>★5通常 合計：1.60％(キャラ：0.75％ ドラゴン：0.85％)</div><div>★4ピックアップ 合計：7.00％(キャラ：0％ ドラゴン：7.00％)</div><div>★4通常 合計：9.00％(キャラ：5.05％ ドラゴン：3.95％)</div><div>★3通常 合計：80.00％(キャラ：48.00％ ドラゴン：32.00％)</div><div><br></div><div>【ドラゴンレジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1570773600"></span> ～ <span class="local_date" data-local_date="1571378340"></span></div><div><br></div><div>ピックアップ対象のドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップドラゴン紹介】<br><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/345b9b8851936d8a5825fd080535736b.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>優れた鍛冶の技術と知識を持つドラゴン。<br>熱血な性格で、人間に鍛冶を教え、鍛える<br>ことが喜び。鍛冶屋三姉妹の父も彼の教えを<br>受け、その腕を磨いたという。普段は火山の<br>溶岩に浸かり、心身を鍛えているらしい。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>スクリュー式ドラゴンドロップ</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に火属性のダメージを与え、「気絶」状態にする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻撃力＆会心威力アップⅡ</span></dt><dd><div>装備キャラが火属性なら<br>装備キャラの攻撃力が45％、クリティカル時のダメージ倍率が55％アップする。</div></dd></dl></div></div><br>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。<br>&nbsp;<br><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e8a5819d9cdf98c3d8d7b6959bdcf2ae.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>375</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>120</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>1025</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>愛と豊穣を司る、美しきドラゴン。巨木より<br>編み出した杖を一振りすれば、大地に恵みが<br>訪れる。あらゆる生命から愛され、それらを<br>気ままに愛する。使い魔として2匹の猫を<br>飼っており、とても可愛がっている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>生命の息吹</span>
+			</dt>
+			<dd>
+				<div>
+					味方全員のHPを回復し、さらに20秒間継続回復する。<br>またパーティ全員を【超やる気】にする。<br>【超やる気】は適用スキル使用時に解除される。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【風】HP＋30％</span></dt><dd><div>装備キャラが風属性なら<br>装備キャラのHPが30％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【風】スキルブースト＋35％</span></dt><dd><div>装備キャラが風属性なら<br>スキルゲージの上昇率が35％アップする。</div></dd></dl></div></div><br>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。<br>&nbsp;<br><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ff632a82851ed76e43030b167caa64c1.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>ついに憧れのステージに立った、渚の歌姫<br>ドラゴン。船を難破させるほど美しいと<br>言われる歌声で、人々を楽しませる。<br>ステージ衣装はヒトのお手製。まさに人竜の<br>絆が生み出した、ドラガリア歌姫である。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/77c2ac9b0a7142033bc6402d88c4b32d2.png"></span>
+				<span>ハッピーユニゾン</span>
+			</dt>
+			<dd>
+				<div>
+					20秒間、パーティ全員の攻撃力を20％、防御力を20％アップさせ【やる気】を3段階アップする。<br>このスキルは竜化中に攻撃することで再チャージが可能で、1度の竜化中に最大2回まで使用できる。<br>【やる気】は5段階アップすると【超やる気】になり、攻撃・回復スキルが強化される。<br>【超やる気】は適用スキル使用時に解除。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻撃力＋40％</span></dt><dd><div>装備キャラが光属性なら<br>装備キャラの攻撃力が40％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>ハピエストタイム☆</span></dt><dd><div>装備キャラが光属性なら<br>パーティ全員の竜化時間が3秒アップする。<br>竜化時間は最大5秒までアップする。</div></dd></dl></div></div><br>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>その他のピックアップ対象のドラゴンは下記のとおりです。</div><div>★4ドラゴン：フェニックス、ストリボーグ、ユニコーン</div><div><br></div><div>【注意事項】</div><div>召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1570773600; update_time1570505680

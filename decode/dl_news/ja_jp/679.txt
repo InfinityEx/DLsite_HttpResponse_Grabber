@@ -1,0 +1,8 @@
+article_id:679
+category_name:お知らせ
+title_name:サーバーとの通信に失敗する場合がある不具合について
+image_path:
+
+message:<div>下記の期間、サーバーとの通信に失敗する場合がある不具合が発生しておりました。</div><div><br></div><div>■不具合発生期間</div><div><span class="local_date" data-local_date="1565943120"></span> ～ <span class="local_date" data-local_date="1565943420"></span></div><div><br></div><div>本不具合は、現在解消しております。</div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div>
+
+start_time:1565945400; update_time1565945459

@@ -1,0 +1,8 @@
+article_id:808
+category_name:お知らせ
+title_name:お知らせが表示されない不具合について
+image_path:
+
+message:<div><span class="local_date" data-local_date="1570600800"></span> ～ <span class="local_date" data-local_date="1570601700"></span>ごろまで、ゲーム内および公式サイトにてお知らせが表示されない不具合が発生しておりました。<br>現在は正常に表示されることを確認しております。<br><br>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div>
+
+start_time:1570604100; update_time1570603774

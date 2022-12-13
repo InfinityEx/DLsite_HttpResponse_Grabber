@@ -1,0 +1,8 @@
+article_id:4
+category_name:お知らせ
+title_name:「マルカ」のCV誤表記について
+image_path:
+
+message:<div>「マルカ」のCV表記に誤りがございました。</div><div>プレイヤーおよび関係者の皆様には、ご迷惑をおかけしましたことを、お詫び申し上げます。</div><div><br></div><div>■表記の詳細</div><div>誤:小西 克幸</div><div>正:森田 成一</div><div><br></div><div>本表記は今後のアップデートで修正予定です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1538056800; update_time1538057091

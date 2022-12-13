@@ -1,0 +1,8 @@
+article_id:340
+category_name:お知らせ
+title_name:事前登録者数に応じて最大で竜輝晶1500個(召喚10回分)をプレゼント！
+image_path:
+
+message:<div>本日2018/04/27(金)から、NintendoとCygamesによるスマートフォン向けアクションRPG『ドラガリアロスト』の事前登録を開始いたしました！</div><div>事前登録者数に応じて最大で竜輝晶1500個(召喚10回分)を、ゲームを始めた全員にプレゼントするキャンペーンも実施しておりますので、皆様ぜひご登録ください！</div><div>詳細は、事前登録キャンペーンページからご確認ください。</div><div><br></div><div>▼事前登録キャンペーンページ</div><div>https://dragalialost.com/jp/pre_registration/</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1524808800; update_time1555291021

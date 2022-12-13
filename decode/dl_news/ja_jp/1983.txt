@@ -1,0 +1,8 @@
+article_id:1983
+category_name:お知らせ
+title_name:「バレンタインログインボーナス」開催！
+image_path:https://dragalialost.akamaized.net/attached/information/images/7cf38f466ef77e55c23c4b6b87261d58.png
+
+message:<div><span class="local_date" data-local_date="1613109600"></span>から、「バレンタインログインボーナス」を開催中！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/7cf38f466ef77e55c23c4b6b87261d58.png"></div><div>開催期間中、ログインした日数に応じて、アイテムや竜輝晶をプレゼントいたします！</div><div><br></div><div>■ログインボーナスの内容</div><div>1日目 竜輝晶&times;400</div><div>2日目 ルピ&times;1,000,000</div><div>3日目 霊鳥の聖灰&times;20</div><div>4日目 ルピ&times;1,000,000</div><div>5日目 最高級はちみつ&times;20</div><div>6日目 ルピ&times;1,000,000</div><div>7日目 英雄の証&times;1</div><div><br></div><div>■開催期間</div><div><span class="local_date" data-local_date="1613109600"></span> ～ <span class="local_date" data-local_date="1614319199"></span>まで</div><div><br></div><div>■注意事項</div><div>1. ログインボーナスは、毎日15:00以降にゲームにログインした際、プレゼントに贈られます。</div><div>2. ログインボーナスとして贈られたプレゼントには、受け取り期限があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1613109600; update_time1612839549

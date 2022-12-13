@@ -1,0 +1,8 @@
+article_id:2492
+category_name:お知らせ
+title_name:YouTube プレミア配信にて3rd Anniversary「ナームちゃんねる」配信決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/644fc17e13ed49017669ff3be2af4fae.png
+
+message:<div><span class="local_date" data-local_date="1632452400"></span>ごろから、YouTube プレミア配信にて「ナームちゃんねる」の配信が決定しました！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/644fc17e13ed49017669ff3be2af4fae.png"></div><div><br></div><div>「ナームちゃんねる」では、3rd Anniversaryの情報やアップデートの内容など、さまざまな情報をナームがプレイヤーの皆様にお届けしますので、ぜひご覧ください！</div><div>配信予定のページは、URLが確定しましたらあらためて告知いたします。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1632204000; update_time1631788542

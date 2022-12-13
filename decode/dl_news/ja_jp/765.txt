@@ -1,0 +1,8 @@
+article_id:765
+category_name:イベント
+title_name:レイドイベント「クロノス～廻る運命の針～」エピローグ追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/20f24ccdd01341e61cc2a391a6904640.png
+
+message:<div><span class="local_date" data-local_date="1570773599"></span> まで開催しておりました、レイドイベント「クロノス～廻る運命の針～」に、エピローグを追加しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/20f24ccdd01341e61cc2a391a6904640.png"></div><div>エピローグは、ゲーム内画面下メニューの「マイページ」から、左上の「バナー」をタップし、「レイドイベント」内の「限定クエスト」からご覧いただけます。</div><div><br></div><div>■エピローグ解放期間</div><div><span class="local_date" data-local_date="1570773600"></span> ～ <span class="local_date" data-local_date="1571378399"></span></div><div><br></div><div>■注意事項</div><div>エピローグをご覧いただくには、イベント期間終了時点でイベントのストーリー第5話をクリアしている必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1570773600; update_time1569485372

@@ -1,0 +1,8 @@
+article_id:936
+category_name:お知らせ
+title_name:「星竜祭ログインボーナス」開催！
+image_path:https://dragalialost.akamaized.net/attached/information/images/ce4cc69f8addb1f54b5f9ff2591d8710.png
+
+message:<div><span class="local_date" data-local_date="1576130400"></span>から、「星竜祭ログインボーナス」を開催中！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/ce4cc69f8addb1f54b5f9ff2591d8710.png"></div><div><br></div><div>開催期間中のログインした日に、下記の豪華報酬をプレゼントします！</div><div><br></div><div>■ログインボーナスの内容</div><div>1日目 ★4武器「ウィッシングナイフ(短剣)」上限解放済み 1個<br>2日目 星竜祭ローストチキン 3個</div><div>3日目 スタンプ（じゃじゃーん♪） 1個</div><div>4日目 竜輝晶 300個</div><div>5日目 竜輝晶 300個</div><div>6日目 10回召喚チケット 1枚</div><div>7日目 星竜祭ローストチキン 3個</div><div>8日目 竜輝晶 300個</div><div>9日目 竜輝晶 300個</div><div>10日目 サンメテオールの贈り物 1個</div><div><br></div><div>■開催期間</div><div><span class="local_date" data-local_date="1576130400"></span> ～ <span class="local_date" data-local_date="1577339999"></span>まで</div><div><br></div><div>■注意事項</div><div>1. ログインボーナスは、毎日15:00以降にゲームにログインした際に、プレゼントに贈られます。</div><div>2. ログインボーナスとして贈られたプレゼントには、受け取り期限があります。</div><div>3. 獲得したスタンプは直接スタンプ一覧に付与されます。</div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1576130400; update_time1576457026

@@ -1,0 +1,212 @@
+article_id:1713
+category_name:お知らせ
+title_name:水属性★5キャラ確定！「プラチナレジェンド召喚」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1603346400"></span>から、「プラチナレジェンド召喚」の開催を予定しております。</div><div><br></div><div>「プラチナレジェンド召喚」では、「10回召喚」の10枠目で、水属性の★5キャラが確定で出現します。</div><div><span style="color: rgb(226, 80, 65);">※本召喚の提供内容に、水属性以外のキャラ・ドラゴンは含まれません。</span></div><div>本召喚は、期間中に「10回召喚」を2回までご利用いただけます。</div><div>また、本召喚は「ドラゴンダイヤ」でのみご利用いただけます。</div><div><br></div><div>【プラチナレジェンド召喚 開催期間】</div><div><span class="local_date" data-local_date="1603346400"></span> ～ <span class="local_date" data-local_date="1604037599"></span></div><div><br></div><div>「プラチナレジェンド召喚」の10枠目に確定で出現する、対象の水属性★5キャラの一部を、下記にてご紹介いたします。</div><div><br></div><div>【10枠目確定対象水属性★5キャラ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b576a51e26717465f6ba8ef13d63a604.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>766</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>493</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>北方イリア教会に所属する、『使徒』の<br>少女。使徒の中では最年少で、他の使徒に<br>劣る自分の実力に焦りを感じている。<br>生真面目で潔癖症で自分に厳しい優等生だが<br>戦闘では意外に豪快な戦い方を好む一面も。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0f88cd83ff9aad3d5d35b4aae84420932.png"></span>
+				<span>サンクトゥスアロー</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に水属性のダメージを与え「冷傷」状態にする。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>ソウルベネディクション</span>
+			</dt>
+			<dd>
+				<div>
+					40秒間、自身に【ガブリエルの祝福】を付与する。【ガブリエルの祝福】は重複せず、攻撃を受けると解除される。【ガブリエルの祝福】中は【攻撃力を50％アップ】【防御力を20％アップ】【最大HPの15％以下のダメージを無効化する特殊シールド】の効果が発動する。このシールドの効果は1回のみで、通常のシールドと重複が可能。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>スキルブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のスキルゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>【水】堅守：HP80％で耐火＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが水属性ならHP80％以上のとき、火属性耐性が6％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>ガブリエルの聖約Ⅱ</span></dt><dd><div>クエスト開始時、バーストアタックが変化し、自身に【300秒間、聖痕の枷】デバフを付与する。<br>このバーストアタックは2段階のチャージが可能で、チャージ中は移動速度が低下し、最大までチャージしたとき「冷傷」状態の敵にはダメージがアップする。<br>また最大までチャージされたバーストアタックが敵にヒットすると【聖痕の枷】の残り効果時間が13秒減少する。<br>【聖痕の枷】は竜化や死亡によって解除されない。<br>【聖痕の枷】が解除されると【聖痕解放】状態となり、通常攻撃の最後に追加でタップすることで、<br>与えたダメージの5％分自身のHPを回復し、40％の確率で自身の【やる気】を1段階アップする攻撃が使用可能になる。<br>この効果による回復量の最大値は自身の最大HPの7％となる。<br>この攻撃中にさらにタップすることで連続してこの攻撃を行うことが可能。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>火傷耐性＋100％</span></dt><dd><div>「火傷」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cc3f28b7bfce6dfc1ea65f36822cae7f2.png"></span><span>HP70％以上で攻撃速度アップⅡ</span></dt><dd><div>HP70％以上のとき、【攻撃速度が20％アップするバフ】が発動する。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/fdc15bb32cc8a6a9ede71cb079218b0f.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/960c7daac545c22ad02e9e69f39f670e2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>801</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>474</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>ヒノモトの有名料亭・ナナクサ総本家の娘。<br>真面目で礼儀正しいが、料理に関しては<br>積極的で負けん気が強い。腕は確かで、特に<br>出汁には強いこだわりがある。7人姉弟の<br>三女であり、家族に溺愛されているらしい。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/efd46b913dcbf7a981d5a5ac72ee59ec2.png"></span>
+				<span>割烹匠ごしらえ</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に水属性のダメージを与え、次の効果を与える。<br>船盛りモード：敵を「冷傷」状態にする。<br>天ぷらモード：「冷傷」状態の敵に与えるダメージがアップする。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/52fb94e7033fa9c18241d4aa85a71c102.png"></span>
+				<span>持て成し花一皿</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員に次の効果を与える。<br>船盛りモード：15秒間クリティカル率を10％アップし、【ヒラメキ】を2段階アップする。<br>天ぷらモード：15秒間クリティカル時のダメージ倍率を50％アップし、【ヒラメキ】を3段階アップする。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>クリティカル率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のクリティカル確率が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>【水】背水：ピンチで耐火＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが水属性ならHP40％以下のとき、【火属性耐性が10％アップするバフ】が発動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾風怒濤・攻＋20％</span></dt><dd><div>ヒット数15以上で、攻撃力が20％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>火傷耐性＋100％</span></dt><dd><div>「火傷」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span><span>ヒット数継続時間＋4秒</span></dt><dd><div>攻撃が最後にヒットしてからヒット数がリセットされるまでの時間を4秒延長する。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>【注意事項】</div><div>1. 「プラチナレジェンド召喚」についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「プラチナレジェンド召喚」の「提供割合」や「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. 「プラチナレジェンド召喚」では「竜輝の印」は獲得できません。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1603260000; update_time1603096809

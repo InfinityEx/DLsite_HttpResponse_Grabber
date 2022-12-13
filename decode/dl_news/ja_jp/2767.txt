@@ -1,0 +1,8 @@
+article_id:2767
+category_name:イベント
+title_name:イベント予告【復刻】「舞姫と魔竜の円舞曲」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/108222b5c7d76aac06db75062eb7aef4.png
+
+message:<div><span class="local_date" data-local_date="1647928800"></span>から、レイドイベント【復刻】「舞姫と魔竜の円舞曲」の開催を予定しております。<br>【復刻】「舞姫と魔竜の円舞曲」は、闇属性のレイドボスとマルチプレイで戦うイベントです。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/108222b5c7d76aac06db75062eb7aef4.png"><br><br>■イベント期間<br><span class="local_date" data-local_date="1647928800"></span> ～ <span class="local_date" data-local_date="1648619999"></span><br><br>■注意事項<br>1. イベントクエスト参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br>2. マルチプレイ参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1647496800; update_time1641958751

@@ -1,0 +1,8 @@
+article_id:1367
+category_name:イベント
+title_name:イベント予告「迎撃戦～あーしと私の共同戦線～」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/858f2226b6d026ca9f4950df772fe3ef.png
+
+message:<div><span class="local_date" data-local_date="1591941600"></span>から、イベント「迎撃戦～あーしと私の共同戦線～」の開催を予定しております。</div><div>「迎撃戦～あーしと私の共同戦線～」は、拠点に迫り来る多くの敵を迎え撃つソロプレイ専用のイベントです。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/858f2226b6d026ca9f4950df772fe3ef.png"></div><div><br></div><div>新アルベリア王国、とある辺境に、</div><div>ディアネル帝国が攻めてきた！</div><div>集結した戦士は、それぞれの理由で</div><div>その地を守りたいと願うふたりの少女――</div><div>ナディーンとリナーシュ。</div><div>激戦が続くアルベリアで、今、その地を</div><div>守れるのはきみたちしかいない&hellip;&hellip;！</div><div><br></div><div>■注意事項</div><div>イベントクエスト参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1591768800; update_time1591084103

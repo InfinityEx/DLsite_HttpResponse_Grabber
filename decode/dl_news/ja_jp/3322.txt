@@ -1,0 +1,8 @@
+article_id:3322
+category_name:お知らせ
+title_name:未使用の有償ドラゴンダイヤ払い戻しに関する不具合について
+image_path:
+
+message:<div><span class="local_date" data-local_date="1669788000"></span>ごろから、下記不具合が発生しておりました。<br><br>・日本円で購入した未使用の有償ドラゴンダイヤがあるにもかかわらず、タイトル画面において「払い戻し」を選択した後、「払い戻し対象の有償ドラゴンダイヤはありません。」と表示される場合ある。<br><br>本不具合は、現在解消しております。<br>払い戻しをご希望のお客様は、お手数ですがタイトル画面の「払い戻し」から再度お手続きをお願いいたします。<br><br>払い戻しの詳細な手順につきましては、下記お知らせをご確認ください。<br><a href="https://dragalialost.com/jp/news/detail/3310">https://dragalialost.com/jp/news/detail/3310</a><br><br>お客様にはご迷惑をおかけしましたことをお詫び申し上げます。</div>
+
+start_time:1669808400; update_time1669808652

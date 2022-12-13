@@ -1,0 +1,83 @@
+article_id:475
+category_name:お知らせ
+title_name:「ドラガリアフェス」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1558936800"></span>から、「ドラガリアフェス」の開催を予定しております。</div><div><br></div><div>【ドラガリアフェスとは】</div><div>・★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップします！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div>・ドラガリアフェス開催期間中のみ出現する期間限定キャラ「ドラフェスVer.」が追加されます！</div><div><br></div><div>【ドラガリアフェス ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1558936800"></span> ～ <span class="local_date" data-local_date="1559282340"></span></div><div><br></div><div>ピックアップ対象の「ドラフェスVer.」のキャラを、下記にてご紹介いたします。</div><div><br></div><div>【ドラフェスVer.キャラ紹介】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5b06cebfd7c266dfb87bf13b6f3210c7.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>749</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>510</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>2499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>「愛する人のそばにいたい！」——そんな<br>乙女心から、緋竜ブリュンヒルデが人間に<br>変身した姿。自分を救ってくれた王子を<br>「ダーリン」と呼び慕い、熱い視線を送る。<br>種族の違いなど、彼女にとっては問題なし。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>ドラゴンズラッシュ</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に火属性のダメージを与える。<br>このスキルがヒットすると自身の竜化ゲージが上昇する。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>レッドイグニション</span>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に火属性のダメージを与える。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EXアビリティ</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のHPが15％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b5b8a0971c2940faccafb60e2bb060ab2.png"></span><span>緋竜発現Ⅱ</span></dt><dd><div>「火傷」状態になる確率が100％ダウンする。装備しているドラゴンに関わらずブリュンヒルデに竜化する。竜化時、自身に【クエスト中攻撃力が15％アップし、スキル「レッドイグニション」を強化するバフ】が発動。この効果は1クエスト中1回まで発動する。1クエスト中の竜化2回目からは真ブリュンヒルデに竜化し、竜化中の攻撃速度が15％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ed2537bb247dfd2ad93353a86c3d8c12.png"></span><span>ヴォルテック・ボルテージⅡ</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。<br>気絶判定を持つ攻撃を受けた時、スキル「ドラゴンズラッシュ」を50％チャージする。スキルチャージ効果は発動してから15秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>竜化時間＋20％</span></dt><dd><div>竜化時間が20％延長される。</div></dd></dl></div></div></div><div>※最大Lv、マナサークル全解放時のステータスです。入手時のステータスではありません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「召喚情報」タブ、または、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1558850400; update_time1558603990

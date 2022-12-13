@@ -1,0 +1,8 @@
+article_id:2961
+category_name:イベント
+title_name:イベント予告【復刻】「優しき少女と拘囚の守護竜」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/8500ff0a1e86257d547adbe7a68c3dfb.png
+
+message:<div><span class="local_date" data-local_date="1666245600"></span>から、レイドイベント【復刻】「優しき少女と拘囚の守護竜」の開催を予定しております。<br>【復刻】「優しき少女と拘囚の守護竜」は、風属性のレイドボスとマルチプレイで戦うイベントです。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/8500ff0a1e86257d547adbe7a68c3dfb.png"></div><div>■イベント期間<br><span class="local_date" data-local_date="1666245600"></span> ～ <span class="local_date" data-local_date="1667195999"></span><br><br>■注意事項<br>1. イベントクエスト参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br>2. マルチプレイ参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1665986400; update_time1646625612

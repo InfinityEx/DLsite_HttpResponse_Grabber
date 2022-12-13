@@ -1,0 +1,156 @@
+article_id:1200
+category_name:お知らせ
+title_name:レジェンド召喚「咎人は巡る、竜眼の軌跡 ピックアップ Part 1」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1585807200"></span>から、レジェンド召喚「咎人は巡る、竜眼の軌跡 ピックアップ Part 1」の開催を予定しております。</div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンの提供割合がアップします。</div><div><br></div><div>【レジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1585807200"></span> ～ <span class="local_date" data-local_date="1586757540"></span></div><div><br></div><div>新規で追加されるピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップキャラ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e2cd0ee8c1cc5120254a9df4b3155f90.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>757</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>501</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>2,498</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>世界の裏で暗躍する謎の組織《結社》に、<br>ドラゴンの力を注入された戦闘狂の少女。<br>身体を改造した者たちに対する恨みはなく、<br>己の力を誇示するために力を揮っているが、<br>力を制御しきれず暴走することが間々ある。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>服ワザル狂騒</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に闇属性のダメージを与える。自身の残りHPが少ないほど、与えるダメージが増える。<br>エンハンスモード時、このスキルは「服ワザル狂騒ノ壊落」となり、効果が次のようになる。<br>複数の攻撃対象とその周囲の敵に闇属性のダメージを与え、バフを1つ解除する。自身の残りHPが少ないほど、与えるダメージが増える。このスキルは発動時にエンハンスゲージを25％消費し、再度発動可能にする。【マルチターゲット】スキルは複数の敵をターゲットできる。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>服ワザル惨禍</span>
+			</dt>
+			<dd>
+				<div>
+					自身のエンハンスゲージを40％チャージする。<br>このスキルを使用した時に自身のHPが最大値の30％より多い場合、HPが最大値の30％まで減少しその減少分に応じてエンハンスゲージがチャージされる。<br>エンハンスモード時、このスキルは「服ワザル惨禍ノ暴虐」となり、効果が次のようになる。<br>このスキルを使用した時に自身のHPが最大値の30％より多い場合、HPが最大値の30％まで減少し前方の敵に闇属性のダメージを与える。自身の残りHPが少ないほど、与えるダメージが増える。このスキルは発動時にエンハンスゲージをすべて消費する。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>クリティカル率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のクリティカル確率が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span>
+				<span>【闇】背水：ピンチで耐光＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが闇属性ならHP40％以下のとき、【光属性耐性が10％アップするバフ】が発動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/15ca5a03b679a12193daa8e1b0247ee32.png"></span><span>服わざる伴侶Ⅱ</span></dt><dd><div>エンハンスゲージが追加され、竜化ボタンがエンハンスボタンに変化する。エンハンスモード中は通常攻撃、バーストアタックが変化し、自身の残りHPが少ないほど与えるダメージが増え、これらの攻撃でエンハンスゲージがチャージされるようになる。またこのモード中はスキルダメージが35％、防御力が75％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>暗闇耐性＋100％</span></dt><dd><div>「暗闇」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8c8841b3f5aa35fb71f07f9075152dba2.png"></span><span>ピンチで攻＆攻撃速度アップⅢ</span></dt><dd><div>HP30％以下のとき、攻撃力が20％、攻撃速度が10％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6ff8af3c0662eca5212ddc0d99fd8619.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>《結社》に囚われていたドラゴン。<br>万人の罪を自ら背負い、その身を捧げる<br>ことで罪を浄化する——と伝わるが、<br>《結社》の実験により、記憶を失い、<br>今はアデルペインの旅に協力をしている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>祝福されざる絆の鎖</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に闇属性のダメージを与え、15秒間パーティ全員の防御力を30％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】攻撃力＋40％</span></dt><dd><div>装備キャラが闇属性なら<br>装備キャラの攻撃力が40％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/97a6a9c25dfb5181cf44056f25fad1b82.png"></span><span>【闇】ピンチで攻防アップⅡ</span></dt><dd><div>装備キャラが闇属性なら<br>HP30％以下のとき、攻撃力が40％、防御力が100％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1585720800; update_time1585634552

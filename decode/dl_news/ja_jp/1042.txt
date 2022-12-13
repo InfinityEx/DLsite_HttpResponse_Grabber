@@ -1,0 +1,214 @@
+article_id:1042
+category_name:お知らせ
+title_name:レジェンド召喚「MONSTER HUNTER STRANGELAND ピックアップ Part 1」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1580277600"></span>から、レジェンド召喚「MONSTER HUNTER STRANGELAND ピックアップ Part 1」を開催中！</div><div><br></div><div>期間限定のキャラ・ドラゴンがレジェンド召喚から登場します。</div><div>また、ピックアップ対象のキャラ・ドラゴンの提供割合がアップ中です。</div><div><br></div><div>【新規に期間限定で追加されるピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 ベルザーク(ハンターVer.)：火/剣</div><div>★5 ヴァネッサ(ハンターVer.)：光/槍</div><div><br></div><div>■ドラゴン</div><div>★5 ミラボレアス：闇</div><div><br></div><div>※ピックアップには期間限定以外のキャラ・ドラゴンも含まれます。</div><div>※その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><br></div><div>【レジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1580277600"></span> ～ <span class="local_date" data-local_date="1581919140"></span></div><div><br></div><div>新規に期間限定で追加されるピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップキャラ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/654c0fb1a93c1b738974cc2568a4d347.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>モンスターハンターのリオレウス装備を<br>身にまとったベルザーク。<br>リオレウスを好敵手と見なし、生の実感を<br>味わうため討伐に向かう。その狩りを通じて<br>これまでとは異なる新たな充足を得ていく。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/baadbc57d3e99e79445a18ad93db579c2.png"></span>
+				<span>ムーンブレイク</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に火属性のダメージを与え、防御力を5％ダウンさせる。この防御力ダウン効果は重複しない。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>獣宿し【獅子】</span>
+			</dt>
+			<dd>
+				<div>
+					自身の次のバーストアタックのダメージを80％アップする。この効果は重複しない。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EXアビリティ</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>竜化ブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の竜化ゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/310e78a1d61748e4afe12adb82569b732.png"></span><span>ハンターの心得・大剣＋2</span></dt><dd><div>バーストアタックが変化し、バーストアタックのダメージが30％アップする。このバーストアタックはチャージ中攻撃でのけぞらなくなり、3段階のチャージが可能で段階に応じて威力がアップする。またバーストアタックでブレイク中の敵へ与えるダメージが20％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠耐性＋100％</span></dt><dd><div>「睡眠」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>防御力ダウン特効・会心＋20％</span></dt><dd><div>デバフによって防御力がダウンしている敵に対して攻撃したとき、攻撃がクリティカルになる確率が20％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e2384b5944126b5e911e6747cb1ce18a.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>507</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>2,501</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>モンスターハンターのキリン装備に身を<br>包み、ハンターとして奮闘するヴァネッサ。<br>愛くるしいアイルーとコンビを組み、渓流を<br>森丘を、火山を軽やかに駆け回る。<br>なお、槍さばきはエルフィリス直伝らしい。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3a645de5cd1f0efbde6bb61eaadfb8a62.png"></span>
+				<span>スクリュースラスト</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に光属性のダメージを与え、「麻痺」状態にする。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>ガードレイジ</span>
+			</dt>
+			<dd>
+				<div>
+					3秒間、【ガードレイジ】を発動。この効果中はダメージを受けると自身に【90秒間、攻撃力が30％アップするバフ】が付与される状態になる。【ガードレイジ】によるバフが付与されると【ガードレイジ】は解除される。【ガードレイジ】によって付与されるバフは重複しない。また、スキル発動時自身に【3秒間、1回分のダメージを70％カットするバフ】【3秒間、攻撃でのけぞらなくなるバフ】が付与される。このスキル中は敵からの攻撃を受け付ける状態になる。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EXアビリティ</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のHPが15％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/149db315227d1c055dbcb9ce698e09512.png"></span><span>ハンターの心得・ランス＋2</span></dt><dd><div>バーストアタックが変化し、バーストアタックのダメージが30％アップする。このバーストアタックは2段階のチャージが可能で、チャージが1段階でも完了すると、敵から受けるダメージを軽減し、場合によっては反撃する。また最大までチャージしたときバーストアタックに【15秒間防御力が5％ダウンするデバフ】が発生する。このデバフは重複しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>呪い耐性＋100％</span></dt><dd><div>「呪い」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>防御力ダウン特効・会心＋20％</span></dt><dd><div>デバフによって防御力がダウンしている敵に対して攻撃したとき、攻撃がクリティカルになる確率が20％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/40b7eada6a65f1e9dc85bb5602736697.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>異界から訪れた《伝説の黒龍》。<br>異界では遥かな昔からその名が語り継がれ、<br>一夜で王国を滅ぼしたといわれている。<br>だが、その存在は不確かで、御伽噺や童歌に<br>登場する空想上の生物とされていた。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>粉塵爆発</span>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に闇属性のダメージを与える。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>攻撃力アップ＆竜化解除時付与・呪Ⅱ</span></dt><dd><div>装備キャラの攻撃力が50％アップする。装備キャラの属性に関わらず竜化が解除されたとき、自身に【クエスト中、呪い状態】が発動。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】攻撃力＋30％</span></dt><dd><div>装備キャラが闇属性なら<br>装備キャラの攻撃力が30％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1580277600; update_time1580090486

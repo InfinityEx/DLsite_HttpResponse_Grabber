@@ -1,0 +1,249 @@
+article_id:3000
+category_name:お知らせ
+title_name:「火属性レジェンド召喚」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1647496800"></span>から、「火属性レジェンド召喚」の開催を予定しております。</div><div><br></div><div>「火属性レジェンド召喚」は火属性のキャラ・ドラゴンのみ出現する召喚です。</div><div><span style="color: rgb(226, 80, 65);">※本召喚の提供内容に、火属性以外のキャラ・ドラゴンは含まれません。</span></div><div><br></div><div>【火属性レジェンド召喚 開催期間】</div><div><span class="local_date" data-local_date="1647496800"></span> ～ <span class="local_date" data-local_date="1648360799"></span></div><div><br></div><div>「火属性レジェンド召喚」から出現する★5キャラ・★5ドラゴンの一部を、下記にてご紹介いたします。</div><div><br></div><div>【★5キャラ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/602258e8e74471bc55e1f591371728a2.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>765</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>492</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,497</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>かつて『アギト』に与していた双子の姉妹。<br>黒髪がアヤハで白髪がオトハ。無邪気で<br>残酷な性格で、自分たちの掲げる自由が<br>一番正しいと信じ、『アギト』壊滅後は<br>欲望のまま好き勝手に行動している。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d07d9921bf8130db4dfafb43dde61cc52.png"></span>
+				<span>なべなべそこぬけ</span>
+			</dt>
+			<dd><div>■通常時<br>・ターゲットとその周囲の敵にダメージを与える。このスキルがヒットすると自身の竜化ゲージが上昇する。<br>・パーティ全員の状態異常を解除する。<br>・操作している「アヤハ」と「オトハ」を交代する。<br>・スキル「おにごっこ/かごめかごめ」を使用した直後にこのスキルを使用した場合、スキル「おにごっこ/かごめかごめ」を即時発動可能にする。<br><br>■竜化時<br>スキルが「はないちもんめ」となり、効果が次のようになる。<br>・ターゲットとその周囲の敵にダメージを与え、「気絶」、「火傷」、「劫火」状態にする。また、与えたダメージに応じたHPを回復する。攻撃時に敵を引き寄せる。<br>・パーティ全員に攻撃力アップのバーストオーラと【最大HPをアップするバフ】と【むらさきのはごろも】を付与する。</div><div class="skill-detail">威力：81 × 14 Hit<br>必要スキルポイント：8,364<br>竜化ゲージ回復量：40<br>特殊効果<br>・全状態異常回復<br><br>（竜化時）<br>威力：396 × 7 Hit<br>特殊効果<br>・HP15％アップ<br>・むらさきのはごろも<br>　重複不可<br>　HP継続回復<br>　効果間隔：2.9 秒<br>　効果量：最大HPの2％<br>　気絶特効10％アップ<br>　火傷特効5％アップ<br>　劫火特効5％アップ<br>・気絶<br>　効果時間：7 秒<br>・火傷<br>　効果時間：12 秒<br>　効果間隔：3.9 秒<br>　威力：97<br>・劫火<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41<br>バーストオーラ付与<br>・攻撃力アップ（バーストオーラ上限Lv 1）<br>HPドレイン<br>・回復量：与ダメージの10％<br>　回復上限：各キャラの最大HPの10％<br>　回復対象：パーティ全員</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3171d52c1cdee5d533d25df908ef96252.png"></span>
+				<span>おにごっこ/かごめかごめ</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>このスキルは操作しているキャラによって効果が変化する。<br>■アヤハ操作時<br>スキルが「おにごっこ」となり、効果が次のようになる。<br>・ターゲットとその周囲の敵にダメージを与え、「気絶」状態にする。<br>・パーティ全員のHPを回復し、【あおいはごろも】を付与する。<br><br>■オトハ操作時<br>スキルが「かごめかごめ」となり、効果が次のようになる。<br>・複数の攻撃対象とその周囲の敵にダメージを与え、「火傷」、「劫火」状態にする。この攻撃は同じ対象には重複して発動しない。<br>・パーティ全員のHPを回復し、【追いうちダメージ】と【あかいはごろも】を付与する。</div><div class="skill-detail">（アヤハ操作時）<br>威力：1,395 × 1 Hit<br>回復力：60<br>必要スキルポイント：4,132<br>必要シェアスキルポイント：16,395<br>特殊効果<br>・気絶<br>　効果時間：6 秒<br>・あおいはごろも<br>　効果時間：30 秒<br>　重複上限：3<br>　風属性耐性4％アップ<br>　HP継続回復<br>　効果間隔：2.9 秒<br>　効果量：18<br><br>（オトハ操作時）<br>威力：1,048 × 1 Hit<br>回復力：60<br>必要スキルポイント：4,132<br>特殊効果<br>・あかいはごろも<br>　全状態異常付与率50％アップ<br>　効果時間：30 秒<br>　重複上限：3<br>・追いうちダメージ<br>　効果時間：30 秒<br>　効果量：40％<br>　重複不可<br>・火傷<br>　効果時間：12 秒<br>　効果間隔：3.9 秒<br>　威力：72.7<br>・劫火<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：31</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>竜化中ダメージアップ＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の竜化中のダメージ倍率が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span>
+				<span>【火】連撃：連撃でバフスキル時間＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性ならヒット数10以上のとき、使用するバフスキルの効果時間が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c0668faa3dc59d6a25d13c11b55642532.png"></span><span>ちょうつがいⅡ</span></dt><dd><div>①「アヤハ」と「オトハ」であらゆるステータスを共有する。クエスト開始時は「アヤハ」を操作する。「アヤハ」と「オトハ」で通常攻撃・バーストアタック・ダッシュ攻撃・スキル2の性能が異なり、バーストアタックは次のようになる。<br>・アヤハ：直線上の敵にダメージを与え、20秒間【攻撃力5％ダウン（重複不可）】を付与する。<br>・オトハ：周囲の敵にダメージを与える。<br><br>②装備しているドラゴンに関わらず、「獣化アヤハ＆オトハ」に竜化し、竜化中次の効果が発動する。<br>・自身の竜化時間が25％アップする。<br>・竜化スキルのレベルがキャラ「アヤハ＆オトハ」のスキル1のレベルと同じになる。<br>・通常攻撃で30秒間【火傷耐性20％ダウン（重複不可）】または30秒間【劫火耐性20％ダウン（重複不可）】を付与する。<br>・次の効果のドラゴンバーストが使用できる。周囲の敵にダメージを与え、「気絶」、「劫火」状態にする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6a94f7adaeafadf56700005abbf6d8fe2.png"></span><span>わらべあそびⅡ</span></dt><dd><div>①クエスト中にスキル「なべなべそこぬけ」を使用した回数分、状態異常になる確率が20％ダウンする。この効果は最大5回分まで重複する。<br>②スキル「なべなべそこぬけ」または「おにごっこ/かごめかごめ」を使用するたび、自身に攻撃力アップのオーラ（バーストオーラ上限Lv1）を付与する。この効果は発動してから8秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cb8b9d60b801a6b11eda8d8e40214f1f2.png"></span><span>とおせんぼ＆とおりゃんせⅡ</span></dt><dd><div>①自身に状態異常が付与されていないとき、受けるダメージを10％カットする。<br>②自身に状態異常が付与されていない状態で9秒経過するたび、自身に【あそべやあそべ】を付与する。この効果中は攻撃力が5％、回復スキルの効果量が10％アップする。このバフは最大3つまで重複可能で、自身に状態異常が付与されたときすべて解除される。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5ef1971a5730400e9e5e95e0f875614a.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>謎の悪の組織《結社》の衣装に袖を通した<br>グレース。その姿は研究員として敵の懐に<br>入るための装い。亡き夫と共に犯した罪を<br>償うべく、形見の剣を携えて《結社》の<br>野望を阻止するために活動する。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7d48df2c26370575bbc79e1466561f4c2.png"></span>
+				<span>烈なる慧剣の抑制</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>周囲の敵にダメージを与え、攻撃力をダウンさせる。</div><div class="skill-detail">威力：2,200 × 1 Hit<br>必要スキルポイント：3,000<br>必要シェアスキルポイント：7,350<br>特殊効果<br>・攻撃力10％ダウン<br>　効果時間：10 秒<br>　重複不可</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/35834645c2606a850ecc19943feac5132.png"></span>
+				<span>猛き智剣の解放</span>
+			</dt>
+			<dd><div>複数の攻撃対象とその周囲の敵にダメージを与え、自身に防御力アップのオーラを付与する。このスキルは、【慧剣封印】が付与されている間のみ使用可能で、スキル使用時、【慧剣封印】を全て解除しその数だけ攻撃とオーラ付与を行う。</div><div class="skill-detail">威力：1,000 × 1 Hit<br>必要スキルポイント：6,000<br>オーラ付与<br>・防御力アップ（バーストオーラ上限Lv 2）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>竜化ブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の竜化ゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【火】背水：ピンチで攻＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性ならHP40％以下のとき、【攻撃力が15％アップするバフ】が発動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8635dfbfe7f74f8f76e9d913d1d186922.png"></span><span>聚合せし諸刃の剣Ⅱ</span></dt><dd><div>スキル「烈なる慧剣の抑制」がヒットするたびに自身に【慧剣封印】バフを付与する。<br>【慧剣封印】は最大4つまで重複し、付与されている数に応じて効果が変化する。<br>竜化するとき、【慧剣封印】を全て解除する。<br>1つ：攻撃の威力が10％アップする。<br>2つ：攻撃の威力が15％アップする。<br>3つ：攻撃の威力が20％アップする。<br>4つ：攻撃の威力が80％アップするが、攻撃する度に自身の最大HPの2％分のダメージを受ける。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>気絶耐性＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>バーストオーラ（防）で治癒Ⅱ</span></dt><dd><div>防御力アップのバーストオーラが付与されているとき、HPが継続回復する。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>【★5ドラゴン紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/653ea72397b1ef28ffa1d213be69261c.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,096</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>『五大天使』と呼ばれるドラゴンの1体。<br>厳格な完璧主義者で、自分にも他者にも<br>間違いを決して許さない。他者を採点し、<br>合否を判定する。完璧主義者の気質は、<br>聖痕を結んだ使徒にも受け継がれている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>マルアハ・エシ</span>
+			</dt>
+			<dd><div>ターゲットとその周囲の敵にダメージを与え、「劫火」状態にする。攻撃時に敵を引き寄せる。</div><div class="skill-detail">威力：450 × 5 Hit<br>特殊効果<br>・劫火<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻撃力＋60％</span></dt><dd><div>装備キャラが火属性なら<br>装備キャラの攻撃力が60％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>【火】ウリエルの天佑Ⅱ</span></dt><dd><div>装備キャラが火属性なら<br>敵の攻撃を回避したとき、自身に【ウリエルの熱誠】バフを付与する。<br>【ウリエルの熱誠】はレベルアップする。<br>【ウリエルの熱誠】バフ付与中は、以下のバフ効果が発動する。<br>Lv1：60秒間、攻撃力が10％、敵を「劫火」状態にする確率が20％アップする。<br>Lv2：40秒間、攻撃力が20％、敵を「劫火」状態にする確率が40％アップする。<br>Lv3：20秒間、攻撃力が30％、敵を「劫火」状態にする確率が80％アップする。</div></dd></dl></div></div></div><div>※Lv100、上限解放4段階、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. 提供割合についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1647410400; update_time1647230023

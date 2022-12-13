@@ -1,0 +1,62 @@
+article_id:1254
+category_name:お知らせ
+title_name:「ドラガリアフェス」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1587708000"></span>から、「ドラガリアフェス」を開催中です！</div><div><br></div><div>【ドラガリアフェスとは】</div><div>・★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップ中です！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><br></div><div>【ドラガリアフェスの提供割合】</div><div>★5 合計：6.00％</div><div>★5ピックアップ 合計：0.80％(ドラゴン：0.80％)</div><div>★5通常 合計：5.20％(キャラ：2.40％ ドラゴン：2.80％)</div><div>★4通常 合計：16.00％(キャラ：8.55％ ドラゴン：7.45％)</div><div>★3通常 合計：78.00％(キャラ：47.00％ ドラゴン：31.00％)</div><div><br></div><div>【ドラガリアフェス開催期間】</div><div><span class="local_date" data-local_date="1587708000"></span> ～ <span class="local_date" data-local_date="1588226340"></span></div><div><br></div><div>ピックアップ対象の「ドラフェスVer.」のドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ドラフェスVer.ドラゴン紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/fb551a31bc9be683ff0913a1f109e693.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>1,006</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>有史最強と名高いドラゴン。<br>その炎で百の王国を燃やし尽くしたとされ、<br>人々から『焔竜』と呼ばれ畏れられている。<br>世界最強の火竜となるため、レオニードと<br>契約し、その身に錬金術を施した。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>アルケミックヘルフレア</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に火属性のダメージを与え、20秒間、自身の攻撃力を20％アップする。攻撃時に敵を引き寄せる。このスキルは竜化中に攻撃することで再チャージが可能で、1度の竜化中に最大2回まで使用できる。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻撃力アップ＆HP50％で攻＋20％Ⅱ</span></dt><dd><div>装備キャラが火属性なら<br>装備キャラの攻撃力が70％、HP50％以上のとき、更に攻撃力が20％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>【火】竜化解除時付与・スキルゲージ＋100％</span></dt><dd><div>装備キャラが火属性なら<br>竜化が解除されたとき、自身のスキルゲージが100％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1587708000; update_time1587435166

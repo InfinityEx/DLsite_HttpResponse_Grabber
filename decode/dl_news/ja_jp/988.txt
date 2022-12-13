@@ -1,0 +1,8 @@
+article_id:988
+category_name:お知らせ
+title_name:「ナームのドリームアドベンチャー」開催中！
+image_path:https://dragalialost.akamaized.net/attached/information/images/848f8c79d37283456f62c44e76949af0.png
+
+message:<div>エイプリルフールに1日ディレクターを務めたナームが作成し、好評を博したものの惜しまれながら1日で終了した、ポップなゆるふわシューティングゲーム「ナームのドリームアドベンチャー」を年末年始の6日間限定で復刻開催中です。</div><div>さらに、期間限定のミッションが追加されます。</div><div><br></div><div>森を舞台に再びナームが大あばれ！</div><div>初めての方も、遊んだことがある方も、とことん遊び尽してください！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/848f8c79d37283456f62c44e76949af0.png"></div><div><br></div><div>■あそびかた</div><div>・あれっ、ナームが大きくなっちゃった！？&hellip;&hellip;まぁ、むずかしいことはさておき、胸おどる大冒険に出発しよう！</div><div>・立ちはだかるエネミー達を水玉ショットで蹴散らそう！</div><div>　ときどきあらわれる「金のファフニール」を倒すと「ベリー」が出現！「ベリー」を食べることで水玉ショットがレベルアップ！！</div><div>・エネミーの攻撃を受けるとハートが減って、からっぽになったらゲームオーバー&hellip;&hellip;。だけど、ピンチの時でも耐え続ければ回復できるからがんばって！</div><div>・最後に待ち受けるのは&hellip;&hellip;巨大ドラゴン！？熾烈な攻撃をくぐり抜け、みごと撃破できればキラキラスターを大量ゲット！ハイスコアを目指そう！</div><div><br></div><div>■開催期間</div><div><span class="local_date" data-local_date="1577772000"></span> ～ <span class="local_date" data-local_date="1578290399"></span></div><div><br></div><div>■期間限定ミッション</div><div>「期間限定ミッション」に、下記のミッションが追加されます。</div><div>ミッションを達成すると、竜輝晶を獲得できます。</div><div>・ナームのDreamAdventureをプレイしよう</div><div>・「ふつう」モードをクリアしよう</div><div><br></div><div>■注意事項</div><div>1. 「ナームのドリームアドベンチャー」は、<span class="local_date" data-local_date="1554098400"></span> ～ <span class="local_date" data-local_date="1554184799"></span>に1日限定で開催されたイベントです。</div><div>2. 開催期間中にプレイを開始し、開催期間終了後にクリアした場合、クリアが条件の「期間限定ミッション」は達成されません。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1577772000; update_time1577263343

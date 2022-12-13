@@ -1,0 +1,8 @@
+article_id:557
+category_name:お知らせ
+title_name:特定のクエストにて竜輝の護符がドロップしない不具合について
+image_path:
+
+message:<div>下記の期間、メインストーリー3章 3-5「緋竜防衛戦」(Normal、Hard)にて、★3以上の竜輝の護符がドロップしないという不具合が発生しておりました。</div><div><br></div><div>■不具合発生期間</div><div><span class="local_date" data-local_date="1561701600"></span> ～ <span class="local_date" data-local_date="1561707000"></span></div><div><br></div><div>本不具合は、現在解消しております。</div><div>本不具合のお詫びとして、上記期間中に1度でも該当のクエストをクリアしたプレイヤーの皆様に、下記のアイテムを順次お送りいたします。</div><div><br></div><div>・最高級はちみつ 1個</div><div><br></div><div>お送りしたアイテムの受け取り期限は、「プレゼント」にアイテムが送られてから7日間です。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div>
+
+start_time:1561714200; update_time1561713507

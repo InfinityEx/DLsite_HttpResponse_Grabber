@@ -1,0 +1,8 @@
+article_id:601
+category_name:お知らせ
+title_name:「ゆるがりあ」第137話掲載
+image_path:
+
+message:<div>4コマまんが「ゆるがりあ」第137話を掲載いたしました。</div><div>「ゆるがりあ」の閲覧方法は下記のとおりです。</div><div><br></div><div>【ゲーム内】</div><div>画面下「メニュー」内にある「ゆるがりあ」をタップします。</div><div><br></div><div>【公式サイト】</div><div>公式サイトのトップページから「ゆるがりあ」のバナーを選択します。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1565676000; update_time1569483454

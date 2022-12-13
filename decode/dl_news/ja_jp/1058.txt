@@ -1,0 +1,8 @@
+article_id:1058
+category_name:お知らせ
+title_name:特定のアビリティにおける不具合について
+image_path:
+
+message:<div>現在、特定のアビリティにおいて、下記の不具合が発生することを確認しております。</div><div>&nbsp;</div><div>■対象のアビリティ</div><div>防御力ダウン特効・会心+〇〇%</div><div>&nbsp;</div><div>■不具合内容</div><div>防御デバフがかかったエネミーへの攻撃時に、対象のアビリティの効果が複数回適用されてしまう場合がある。</div><div>&nbsp;</div><div>本不具合は、現在原因を調査中です。</div><div>ご案内できることがございましたら、本お知らせにてご連絡いたします。</div><div>&nbsp;</div><div>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div>
+
+start_time:1580460600; update_time1580467861

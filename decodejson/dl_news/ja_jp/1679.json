@@ -1,0 +1,304 @@
+article_id:1679,category_name:お知らせ,title_name:マナサークルの「第6層」解放キャラを追加！,image_path:,message:<div><span class="local_date" data-local_date="1602481200"></span>から、一部のキャラにおいて、マナサークルの「第6層」を追加いたします。</div><div><br></div><div>今回の対象キャラおよびステータスを、下記にてご紹介いたします。</div><div>※キャラのスキルLvを上げると、シェアスキルに設定した際、スキルゲージが溜まりにくくなります。</div><div><br></div><div>■対象キャラ</div><div>★4 イルテミア（ハロウィンVer.）：光/杖</div><div>★4 オデッタ（ハロウィンVer.）：水/剣</div><div>★3 エドワード（ハロウィンVer.）：光/刀</div><div><br></div><div>■ステータス紹介</div><div>【★4キャラ】</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/6cb63000b5958018b9f67254b0be02282.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">イルテミア（ハロウィンVer.）</div><div class="cv">CV:植田佳奈</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5acf4f3182dfd0356371c43a0b53ad902.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>943</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>542</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>3,175</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>トリート・アンド・トリート</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					味方全員のHPを回復し、「呪い」状態を解除し、60秒間、パーティ全員の攻撃力を15％アップする。この攻撃力アップ効果は重複しない。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/fa4262d1f07145d24ed57719f70feaea2.png"></span>
+				<span>トリック・オア・トリック</span>
+			</dt>
+			<dd>
+				<div>
+					周囲の敵に光属性のダメージを与え、与えたダメージの8％分、パーティ全員のHPを回復する。この回復効果の最大値は各キャラの最大HPの30％となる。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>回復スキル効果＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の回復スキル効果が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>【光】麻痺：麻痺トリガー・会心＋12％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性なら敵を麻痺状態にしたとき、【15秒間、クリティカル率が12％アップするバフ】が発動。<br>この効果は発動してから10秒間は発動しない。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>スキルチャージ＆開幕ゲージ＋100％</span></dt><dd><div>クエスト開始時のスキルゲージが100％アップする。スキルを使用したとき、スキルゲージが5％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/154d2e637eaa966dfad5b6805cfc514f2.png"></span><span>呪い耐性・改＋100％</span></dt><dd><div>「呪い」状態になる確率が100％ダウンする。<br>呪い判定を持つ攻撃を受けた時、自身に【10秒間、攻撃力が15％アップするバフ】が発動。バフを発生させる効果は発動してから15秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP満タンで攻＋20％</span></dt><dd><div>HP満タン時、攻撃力が20％アップする。</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/4ba01e973d5009c419b9b4f2f200c14d2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">オデッタ（ハロウィンVer.）</div><div class="cv">CV:米澤円</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/960c7daac545c22ad02e9e69f39f670e2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>927</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>556</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>3,163</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/eeb26ffbea47f492251b5d3926fb4f1d2.png"></span>
+				<span>エンヴォイ・オブ・ジ・エンド</span>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に水属性のダメージを与え、10秒間、防御力を5％ダウンさせる。この防御力ダウン効果は重複しない。さらに、与えたダメージの4％分のHPを回復する。この回復効果の最大値は自身の最大HPの20％となる。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>ワンダーワールド</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					15秒間、自身と周囲の味方の攻撃力を25％アップする。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>竜化ブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の竜化ゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【水】冷傷：冷傷トリガー・攻＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが水属性なら敵を冷傷状態にしたとき、【15秒間、攻撃力が10％アップするバフ】が発動。<br>この効果は発動してから10秒間は発動しない。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span><span>スキルコネクト・防＋15％</span></dt><dd><div>自分が操作するキャラのスキル1が使用可能になったとき、そのキャラに【10秒間、防御力を15％アップするバフ】が発動。この効果は発動してから15秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f9540aa3b892c485f82bfd1ef78b1b72.png"></span><span>気絶耐性・改＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。<br>気絶判定を持つ攻撃を受けた時、自身に【10秒間、攻撃力が15％アップするバフ】が発動。バフを発生させる効果は発動してから15秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span><span>バフスキル時間＋35％</span></dt><dd><div>使用するバフスキルの効果時間が35％アップする。</div></dd></dl></div></div></div><div><br></div><div>【★3キャラ】</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/a787abe09c9893010526e624414bda162.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/8882a1e2cd557667e16b4245e73d8a6f2.png"></div>
+	<div class="discription">
+		<div class="charaName">エドワード（ハロウィンVer.）</div><div class="cv">CV:寺島拓篤</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>847</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>588</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>3,045</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>バット・スラッシング</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に光属性のダメージを与える。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d2505d7bf23ddf0d4f3b7018d6d996482.png"></span>
+				<span>ナイトメア・ロンド</span>
+			</dt>
+			<dd>
+				<div>
+					周囲の敵に光属性のダメージを与え、与えたダメージの3％分のHPを回復する。この回復効果の最大値は自身の最大HPの10％となる。さらに、自身のHP満タン時は、敵を「切り傷」状態にする。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>攻撃力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の攻撃力が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span>
+				<span>【光】無傷：HP60％以下で治癒Ⅲ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性ならHP60％以下になったとき、【20秒間、HPを継続回復するバフ】が発動。<br>この効果は発動してから45秒間は発動しない。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP満タンで攻＋20％</span></dt><dd><div>HP満タン時、攻撃力が20％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/154d2e637eaa966dfad5b6805cfc514f2.png"></span><span>呪い耐性・改＋50％</span></dt><dd><div>「呪い」状態になる確率が50％ダウンする。<br>呪い判定を持つ攻撃を受けた時、自身に【10秒間、攻撃力が15％アップするバフ】が発動。バフを発生させる効果は発動してから15秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>呪い耐性＋50％</span></dt><dd><div>「呪い」状態になる確率が50％ダウンする。</div></dd></dl></div></div></div><div><br></div><div><br></div><div>■注意事項</div><div>1. 本お知らせに記載されているキャラのステータスは、Lv100、マナサークル70解放時のステータスです。</div><div>2. ステータスに、アビリティで上昇したり減少したりする値は含まれません。</div><div>3. 本お知らせに記載されているキャラの、本お知らせよりも前に掲載されたお知らせや紹介映像などに記載されているステータスは、Lv80、マナサークル50解放時のステータスです。</div><div>4. キャラのスキルLvを上げると、シェアスキルに設定した際、スキルゲージが溜まりにくくなります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>,start_time:1602396000,update_time1602144027

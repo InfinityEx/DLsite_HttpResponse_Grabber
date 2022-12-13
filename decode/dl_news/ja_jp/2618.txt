@@ -1,0 +1,8 @@
+article_id:2618
+category_name:お知らせ
+title_name:メインストーリーに第22章「ふたりの契約者」後半の追加が決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/2aecefa0bb907477dee4d0949f95080f.png
+
+message:<div><span class="local_date" data-local_date="1637560800"></span>から、メインストーリーに第22章「ふたりの契約者」後半の追加が決定しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/2aecefa0bb907477dee4d0949f95080f.png"></div><div><br></div><div>最新章をご期待ください！</div><div><br></div><div>■注意事項</div><div>メインストーリー第22章「ふたりの契約者」後半は、メインストーリー第22章 3-3「本当の契約」をクリアすると解放されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1637215200; update_time1637200272

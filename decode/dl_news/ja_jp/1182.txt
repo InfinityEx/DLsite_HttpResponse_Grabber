@@ -1,0 +1,8 @@
+article_id:1182
+category_name:お知らせ
+title_name:「オリジナル壁紙」を追加！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1585288800"></span>から、『ドラガリアロスト』公式サイトの「スペシャル」内にある「オリジナル壁紙」ページに新しい壁紙を追加しました！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/c5804640cf4fcc548b631efbd28edaa7.jpg"></div><div><br></div><div>▼壁紙のダウンロードはこちら</div><div><a href="https://dragalialost.com/jp/special/wallpaper/">https://dragalialost.com/jp/special/wallpaper/</a></div><div><br></div><div>※追加した壁紙のサイズは1920&times;1080のみになります。</div><div>※これらの画像は個人で楽しむためのものです。加工や無断転載、再配布などは行わないでください。</div><div>※お使いのブラウザーやOSのバージョンによって設定方法が異なる場合があります。くわしい設定方法については、お使いのパソコンのヘルプなどをご覧ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1585288800; update_time1585271418

@@ -1,0 +1,249 @@
+article_id:2739
+category_name:お知らせ
+title_name:期間限定のキャラやドラゴンが再登場！「プライズレジェンド召喚」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1641362400"></span>から、「プライズレジェンド召喚」を開催中！</div><div>「プライズレジェンド召喚」では、期間限定のキャラ・ドラゴンが再登場します。</div><div>また、ピックアップ対象のキャラ・ドラゴンの提供割合がアップします。</div><div><br></div><div>「プライズレジェンド召喚」を行うと、召喚で出現するキャラ・ドラゴンに加えて「プライズ」も獲得できます。</div><div>プライズはプラチナ賞、金賞、銀賞、銅賞、5等、6等の6種類があります。</div><div>「10回召喚」を行った場合の10回目のプライズは、プラチナ賞、金賞、銀賞、銅賞のいずれかが確定で獲得できます。</div><div><span style="color: rgb(226, 80, 65);">獲得したプライズは、プレゼントの「期限なし」に送られます。</span></div><div><br></div><div>※召喚チケットを1度に10枚使用しても、「10回召喚」とは異なり、10回目のプライズで、プラチナ賞、金賞、銀賞、銅賞のいずれかが確定で獲得できるわけではありません。</div><div>※プライズの一覧と提供割合は「プライズレジェンド召喚」開催中に、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「プライズ」からご確認ください。</div><div><br></div><div>【期間限定で再登場するピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 ミツヒデ：光/短剣</div><div>★5 セイメイ：火/ロッド</div><div><br></div><div>■ドラゴン</div><div>★5 ダイコクテン：光</div><div><br></div><div>上記以外にも、これまでの召喚で追加された期間限定のキャラ・ドラゴンが一部再登場します。</div><div>登場するキャラ・ドラゴンの詳細はゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><span style="color: rgb(226, 80, 65);">※上記以外のキャラ・ドラゴンはピックアップ対象ではございません。</span></div><div><span style="color: rgb(226, 80, 65);"><br></span></div><div><span style="color: rgb(226, 80, 65);">※「竜輝の印」は獲得した召喚のみで消費できます。<span class="local_date" data-local_date="1640930400"></span>から<span class="local_date" data-local_date="1641362399"></span>まで開催中の「ドラガリアフェス」で獲得した「竜輝の印」を今回の「プライズレジェンド召喚」で消費することはできません。</span></div><div><br></div><div>【プライズレジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1641362400"></span> ～ <span class="local_date" data-local_date="1642053599"></span></div><div><br></div><div>期間限定で再登場するピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a83c8b3271a92a932940c2b640cd10d8.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>763</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>497</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>東方の島国ヒノモトを治める『十二竜氏』の<br>ひとり。子の竜氏。面倒くさがり屋の姫で、<br>ダイコクテンと契りを交わしている。<br>隙あらば寝る。なくても寝る。睡眠最高。<br>常にゴーイングマイウェイな姫君である。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/59379722d1069610bbd6dca3b98022c12.png"></span>
+				<span>鼠の天誅</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>ターゲットとその周囲の敵に光属性のダメージを与え「麻痺」状態にする。</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>おちゃのこ災々</span>
+			</dt>
+			<dd><div>ターゲットとその周囲の敵に光属性のダメージを与え、10秒間自身の攻撃速度を10％アップする。<br>このスキルは、発動時のヒット数に応じて最大30ヒット分までダメージがアップする。</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>クリティカル率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のクリティカル確率が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span>
+				<span>【光】連撃：ヒット数継続時間延長Ⅵ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性なら攻撃が最後にヒットしてからヒット数がリセットされるまでの時間を2.5秒延長する。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾風怒濤・攻＋20％</span></dt><dd><div>ヒット数15以上で、攻撃力が20％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>呪い耐性＋100％</span></dt><dd><div>「呪い」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28cbbe44c3b9fd009706ad48a7e4e0f52.png"></span><span>麻痺特効＋30％</span></dt><dd><div>「麻痺」状態の敵に与えるダメージが30％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/eb51571434543ae522ac31d7e1c67e68.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>747</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>513</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>東方の島国ヒノモトを治める『十二竜氏』の<br>ひとり。丑の竜氏。天才陰陽師の切れ者で<br>ゴズテンノウと契りを交わしている。<br>どんな難題でもひとりで解決できてしまう<br>力量を持ち、単独行動を好む。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c89df2db77c761dc648329bf7d4410322.png"></span>
+				<span>五神開衢悪鬼祓除</span>
+			</dt>
+			<dd><div>【火精の式鬼】が召喚されていない場合<br>40秒間、【火精の式鬼】を召喚する。【火精の式鬼】は使役ゲージを消費し自動攻撃を行う。【火精の式鬼】の攻撃が15回ヒットすると【火精の式鬼】は1度だけレベルアップし、召喚時間が40秒にリセットされ、自動攻撃が威力アップ。さらに自動攻撃に10秒間、敵の防御力を10％ダウンさせる効果が追加される。この効果は重複しない。【火精の式鬼】による攻撃は、スキルダメージとして扱われない。<br>【火精の式鬼】が召喚されている場合<br>自身に【最大HPの20％以下のダメージを無効化するシールド】を付与する。シールドの効果は1回のみで、同種のシールドとは重複しない。</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0842a5082957e208cf98412b117988412.png"></span>
+				<span>退魔調伏・天刑星</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>前方の敵に火属性のダメージを与え、20秒間、敵の防御力を10％ダウンさせ、さらに「劫火」状態にする。この防御力ダウン効果は重複しない。このスキルは、【火精の式鬼】が召喚されている間のみ使用可能で、スキル使用時、【火精の式鬼】が解除される。【火精の式鬼】がレベルアップしていた場合、威力がアップしさらに敵のバフを1つ解除する。</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/317a0c478ead8a4a39304ffcbf29eda12.png"></span>
+				<span>OD特効＆ゲージブレイクⅧ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のオーバードライブ中の敵へ与えるダメージが15％、モードゲージの減少量が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span>
+				<span>【火】連撃：連撃でバフスキル時間＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性ならヒット数10以上のとき、使用するバフスキルの効果時間が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>式鬼使役之律令Ⅱ</span></dt><dd><div>使役ゲージを追加する。<br>またバーストアタックがチャージ中ターゲットにダメージを与え、使役ゲージを徐々に回復するものに変化する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>気絶耐性＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>式鬼回生之験Ⅱ</span></dt><dd><div>竜化ゲージが10％上昇するたび、使役ゲージを50％回復する。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3249e17358dabd22c5c16c87db7736f7.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>ヒノモト国のドラゴンの長・アマテラスを<br>支える十二竜が一柱、『子』の竜。<br>大変縁起のいいドラゴンで、笑いかけられる<br>だけで運気が上がるという。顔つきは柔和で<br>性格はのんびり雅。お餅は柔らかめが好き。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>開運！こづちあたっく</span>
+			</dt>
+			<dd><div>前方の敵に光属性のダメージを与え、地面に10秒間【攻撃速度バフフィールド】を設置する。</div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻撃力＋55％</span></dt><dd><div>装備キャラが光属性なら<br>装備キャラの攻撃力が55％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】疾風怒濤・攻＋25％</span></dt><dd><div>装備キャラが光属性なら<br>ヒット数15以上で、攻撃力が25％アップする。</div></dd></dl></div></div></div><div>※Lv100、上限解放4段階、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. プライズの一覧と提供割合は、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「プライズ」からご確認ください。</div><div>3. 「10回召喚」や召喚チケットを1度に10枚使用して獲得したアイテムが重複した場合、アイテムごとに個数をまとめて「期限なし」のプレゼントに送られます。</div><div>4. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1641362400; update_time1640590565

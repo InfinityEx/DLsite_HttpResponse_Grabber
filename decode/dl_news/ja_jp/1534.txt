@@ -1,0 +1,322 @@
+article_id:1534
+category_name:お知らせ
+title_name:「ドラガリアフェス」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1598680800"></span>から、「ドラガリアフェス」の開催を予定しております。</div><div><br></div><div>【ドラガリアフェスとは】※「ドラガリアフェス　エクストラ」含む</div><div>・★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップします！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><span style="color: rgb(226, 80, 65);">※今回新規で追加される★5キャラ「ネヴィン（闇）」「ピノン（水）」、★5ドラゴン「ラミエル（闇）」は、次回のレジェンド召喚からも登場します。</span></div><div><br></div><div>【ドラガリアフェス開催期間】</div><div><span class="local_date" data-local_date="1598680800"></span> ～ <span class="local_date" data-local_date="1599112799"></span></div><div><br></div><div>新規で追加されるピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b9ca754ca2a4078b04cfc5b64eeab7dd.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>1,295</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>ヴァルクスの契約竜。雷を司り、自らを<br>雷帝と称する。稲妻ひとつで、戦地の全てを<br>焼き払う強さを持ち、その強さは世界各地で<br>語り継がれている。トールの武人としての<br>考えは、契約主にも影響を与えている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>雷槌</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に光属性のダメージを与え「麻痺」状態にする。このスキルは溜め動作中に画面をタップした回数に応じて3段階まで強化される。攻撃は時間経過か最大まで強化することで発動する。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>【光】戦車を駆る者Ⅴ</span></dt><dd><div>装備キャラが光属性なら下記の効果を発動する。<br>効果1：攻撃力が50％アップする。<br>効果2：5秒経過するたび【やる気】が1段階アップする。<br>効果3：【やる気】の段階に応じて攻撃力がアップする。【超やる気】時に効果は最大となり攻撃力が45％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>【光】轟く者Ⅱ</span></dt><dd><div>装備キャラが光属性なら、竜化解除時に【超やる気】になる。<br>さらにパーティ全員が【超やる気】になる。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>■トール（ドラフェスVer.）の攻撃について</div><div>通常攻撃はコンボの3段目の攻撃中に画面をタップし続けることで、一定数まで連続して3段目での攻撃が可能です。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/03cfd520d44ce79e09a0c66216ed53b4.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>1,096</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>『五大天使』と呼ばれるドラゴンの1体。<br>落ち着いた態度で冷静な分析能力を持つが、<br>時折毒を吐く。元々人間に対して何の感慨も<br>抱いていなかったが、今では聖痕を結ぶ<br>使徒に対し、父性に似た感情を抱いている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cec8794d33276918ce38bfaa577312842.png"></span>
+				<span>マルアハ・コルヤ</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に闇属性のダメージを与え、「毒」状態にし、15秒間敵の防御力を20％ダウンさせる。この防御力ダウン効果は重複しない。また、装備キャラのスキル2を即時発動可能にする。さらに装備キャラのスキル1、スキル2は90秒間自動的にチャージされる。このチャージは「スキルゲージの上昇量をアップさせる効果」を受けない。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c793d967ec5a1e469bd1b8ed200f254d2.png"></span><span>【闇】攻撃力＆開幕竜化ゲージⅤ</span></dt><dd><div>装備キャラが闇属性なら<br>装備キャラの攻撃力が60％、クエスト開始時に自身の竜化ゲージが50％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【ピックアップキャラ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b373e7fdf6f1fcc89d33c3d2b3f8e850.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/960c7daac545c22ad02e9e69f39f670e2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>797</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>477</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>2,504</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>北方イリア教会に所属する、『使徒』の<br>ひとり。普段はだらけた態度を取っているが<br>洞察力に長けており、戦略を立てる事を<br>得意とする。『天使』ラミエルと聖痕を<br>結んでおり、彼を父親のように慕っている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>ウィクトリアストラテジー</span>
+			</dt>
+			<dd>
+				<div>
+					地面に10秒間【攻撃バフフィールド】を設置する。このフィールドの中にいる闇属性の味方は、攻撃力が25％アップする。<br>【聖痕解放】時、このスキルは次のようになる。<br>地面に10秒間【攻撃バフフィールド】を設置し、10秒間、パーティ全員の光属性耐性を20％アップする。このフィールドの中にいる闇属性の味方は、攻撃力が25％アップする。この光属性耐性をアップする効果は重複しない。
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/48ad4816ddb1b05918d1b08ce53e562f2.png"></span>
+				<span>マグヌスアポカリプス</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に闇属性のダメージを与える。このスキルがヒットすると、自身に付与されている【聖痕の枷】の残り効果時間が60秒減少する。<br>【聖痕解放】時、このスキルは次のようになる。<br>ターゲットとその周囲の敵に闇属性のダメージを与え、自身と他キャラが設置したすべてのバフフィールドの中にいる敵に追加ダメージを与える。<br>この追加ダメージは、自身以外が設置したバフフィールド上の敵に対しては与えるダメージが減少する。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>クリティカル率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のクリティカル確率が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span>
+				<span>【闇】連撃：10ヒット以上で耐光＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが闇属性ならヒット数10以上のとき、【光属性耐性が10％アップするバフ】が発動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>ラミエルの聖約Ⅱ</span></dt><dd><div>クエスト開始時、バーストアタックが変化し、自身に【300秒間、聖痕の枷】デバフを付与する。<br>このバーストアタックはダメージを与えずチャージ中自身のHPを徐々に回復する。<br>【聖痕の枷】は竜化や死亡によって解除されない。<br>竜化時、自身に付与されている【聖痕の枷】の残り効果時間が240秒減少する。<br>【聖痕の枷】が解除されると【聖痕解放】状態となり、スキル「ウィクトリアストラテジー」、スキル「マグヌスアポカリプス」が強化され、通常攻撃の最後に追加でタップすることで自身のHPを10％消費し12秒間【告翼の剣】を召喚できるようになる。<br>【告翼の剣】召喚中は【告翼の剣】が自動攻撃を行う。【告翼の剣】による攻撃は通常攻撃として扱われない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>暗闇耐性＋100％</span></dt><dd><div>「暗闇」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>クリティカルダメージ＋20％</span></dt><dd><div>クリティカル時のダメージ倍率が20％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b576a51e26717465f6ba8ef13d63a604.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>766</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>493</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>北方イリア教会に所属する、『使徒』の<br>少女。使徒の中では最年少で、他の使徒に<br>劣る自分の実力に焦りを感じている。<br>生真面目で潔癖症で自分に厳しい優等生だが<br>戦闘では意外に豪快な戦い方を好む一面も。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0f88cd83ff9aad3d5d35b4aae84420932.png"></span>
+				<span>サンクトゥスアロー</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に水属性のダメージを与え「冷傷」状態にする。
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>ソウルベネディクション</span>
+			</dt>
+			<dd>
+				<div>
+					20秒間、自身に【ガブリエルの祝福】を付与する。【ガブリエルの祝福】は重複せず、攻撃を受けると解除される。【ガブリエルの祝福】中は【攻撃力を20％アップ】【防御力を20％アップ】【最大HPの15％以下のダメージを無効化する特殊シールド】の効果が発動する。このシールドの効果は1回のみで、通常のシールドと重複が可能。
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>スキルブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のスキルゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>【水】堅守：HP80％で耐火＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが水属性ならHP80％以上のとき、火属性耐性が6％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>ガブリエルの聖約Ⅱ</span></dt><dd><div>クエスト開始時、バーストアタックが変化し、自身に【300秒間、聖痕の枷】デバフを付与する。<br>このバーストアタックは2段階のチャージが可能で、チャージ中は移動速度が低下し、最大までチャージしたとき「冷傷」状態の敵にはダメージがアップする。<br>また最大までチャージされたバーストアタックが敵にヒットすると【聖痕の枷】の残り効果時間が13秒減少する。<br>【聖痕の枷】は竜化や死亡によって解除されない。<br>【聖痕の枷】が解除されると【聖痕解放】状態となり、通常攻撃の最後に追加でタップすることで、<br>与えたダメージの5％分自身のHPを回復し、40％の確率で自身の【やる気】を1段階アップする攻撃が使用可能になる。<br>この効果による回復量の最大値は自身の最大HPの7％となる。<br>この攻撃中にさらにタップすることで連続してこの攻撃を行うことが可能。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>火傷耐性＋100％</span></dt><dd><div>「火傷」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cc3f28b7bfce6dfc1ea65f36822cae7f2.png"></span><span>HP70％以上で攻撃速度アップⅡ</span></dt><dd><div>HP70％以上のとき、【攻撃速度が20％アップするバフ】が発動する。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>【注意事項】</div><div>召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1598594400; update_time1598507332

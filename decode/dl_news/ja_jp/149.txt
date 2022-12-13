@@ -1,0 +1,344 @@
+article_id:149
+category_name:お知らせ
+title_name:レジェンド召喚「祈り導かれし星竜祭」開催決定！【更新】
+image_path:
+
+message:<div><span class="local_date" data-local_date="1545026400"></span>から、レジェンド召喚「祈り導かれし星竜祭」を予定しております。</div><div><br></div><div>期間限定のキャラ・ドラゴン・竜輝の護符がレジェンド召喚から登場します。</div><div>また、ピックアップ対象のキャラ・ドラゴン・竜輝の護符の提供割合がアップします。</div><div><br></div><div>【期間限定のキャラ・ドラゴン・竜輝の護符】</div><div>■キャラ</div><div>「クラウ(星竜祭Ver.)」、「ネファリエ(星竜祭Ver.)」、「アレクシス(星竜祭Ver.)」</div><div><br></div><div>■ドラゴン</div><div>「ジャンヌダルク(星竜祭Ver.)」</div><div><br></div><div>■竜輝の護符</div><div>「星竜樹に願いを」、「星竜祭の王子様」、「子供たちの星竜祭」、「星降る夜の晩餐」</div><div><br></div><div>【レジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1545026400"></span> ～ <span class="local_date" data-local_date="1546235940"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴン・竜輝の護符の一部を、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップキャラ紹介】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/84245278ed6fa46e1f9f35e37498829f.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>80</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/960c7daac545c22ad02e9e69f39f670e2.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>801</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>474</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>2515</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">キャラ詳細</div>
+			<div class="param">
+				<ul>
+					<li>星竜祭を祝う人々に贈り物を届けるため、<br>サンメテオールの仮装をしたクラウ。<br>料理作りや飾りつけなども率先して行い、<br>星竜祭を盛り上げるために奮闘する。<br>宴を楽しむ仲間たちの笑顔が、彼女の喜び。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ca058650bcc4ff61cb80d7b2f64906fa2.png"></span>
+				<span>トゥインクルギフト</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に水属性のダメージを与え、「凍結」状態にする。また、自身と周囲の味方の【やる気】を1段階アップする。このスキルを敵にヒットさせると【スキルシフト】が発生、シフト1で攻撃力アップ、シフト2でクリティカル率アップが追加される。【スキルシフト】はシフト2のヒットで解除される。【やる気】は5段階アップすると【超やる気】になり、攻撃・回復スキルが強化される。【超やる気】は適用スキル使用時に解除される。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/280872d7979e0e0ee0479187b94e8e2d2.png"></span>
+				<span>スターナイトグレイス</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に水属性のダメージを与える。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EXアビリティ</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>クリティカル率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のクリティカル確率が10％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP70％で攻＋13％</span></dt><dd><div>HP70％以上のとき、攻撃力が13％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>気絶耐性＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>30ヒットでやる気アップ</span></dt><dd><div>攻撃が30ヒットするたびに【やる気】を1段階アップする。</div></dd></dl></div></div></div><div>※最大Lv、マナサークル全解放時のステータスです。入手時のステータスではありません。</div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/23eb27326625aaf3464b838ffe3565df.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>70</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/960c7daac545c22ad02e9e69f39f670e2.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>773</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>450</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>2293</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">キャラ詳細</div>
+			<div class="param">
+				<ul>
+					<li>星竜祭に贈り物を配る聖人サンメテオールに<br>仮装した、異国の元女王。優しく、民思いの<br>女王だった彼女に、この役目はぴったり。<br>皆の笑顔のため、真摯に贈り物を配る姿は、<br>誰もが認める理想のサンメテオールだ。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/561a0539d1bd151beb360108290db24e2.png"></span>
+				<span>スターブリザードショット</span>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に水属性のダメージを与える。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0f9d9359a14bae165ffa90dd928147752.png"></span>
+				<span>プレゼントバースト</span>
+			</dt>
+			<dd>
+				<div>
+					【プレゼント準備】を発動、【プレゼント】を2つ準備する。この効果中はバーストアタックで【プレゼント】を配ることが出来る。【プレゼント】は、その周囲の味方に【最大HPの15％以下のダメージを無効化するシールド】【やる気1段階アップ】を付与する。【やる気】は5段階アップすると【超やる気】になり、攻撃・回復スキルが強化される。【超やる気】は適用スキル使用時に解除される。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EXアビリティ</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>スキルブースト＋11％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のスキルゲージ上昇率が11％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>スキルダメージ＋25％</span></dt><dd><div>攻撃スキルのダメージが25％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>火傷耐性＋100％</span></dt><dd><div>「火傷」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>疾風怒濤・凍結Ⅰ</span></dt><dd><div>ヒット数15以上で、<br>通常攻撃に【6秒間、10％の確率で凍結状態にする効果】が付与される。</div></dd></dl></div></div></div><div>※★5覚醒時、マナサークル全解放時のステータスです。入手時のステータスではありません。</div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/fa93cfbc3144ccd6c2f04753e8024596.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>70</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>719</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>489</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>2318</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">キャラ詳細</div>
+			<div class="param">
+				<ul>
+					<li>星竜祭に贈り物を配る聖人、サンメテオール<br>となった異国の元王。家臣や民へ思いやりの<br>心を持ってはいるが、態度は高慢無礼。<br>サンメテオールになってもそれは変わらず、<br>面白おかしく暴走して、周囲を困らせる。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1f6d0bbf9a2503a371995eae39d200e32.png"></span>
+				<span>スターアイスドーム</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に水属性のダメージを与え、「凍結」状態にする。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c66d36f720c8a46a8288996f833a36202.png"></span>
+				<span>キングズギフト</span>
+			</dt>
+			<dd>
+				<div>
+					10秒間、自身と周囲の味方の攻撃力を15%アップし、【やる気】を1段階アップ。【やる気】は5段階アップすると【超やる気】になり、攻撃・回復スキルが強化される。【超やる気】は適用スキル使用時に解除される。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EXアビリティ</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>スキルダメージ＋11％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のスキルダメージが11％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>バースト撃破・やる気Ⅱ</span></dt><dd><div>バーストアタックで敵を3体倒すたびに【やる気】を2段階アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>気絶耐性＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>スキルブースト＋5％</span></dt><dd><div>スキルゲージの上昇率が5％アップする。</div></dd></dl></div></div></div><div>※★5覚醒時、マナサークル全解放時のステータスです。入手時のステータスではありません。</div><div><br></div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/eafcf5c22fa85d01af75147e24af4b6e.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>370</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>125</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>995</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">ドラゴン詳細</div>
+			<div class="param">
+				<ul>
+					<li>星竜祭を祝うため麗しいドレスを着た<br>ジャンヌダルク。普段着慣れないドレスを<br>恥ずかしがりつつも内心は気に入っている。<br>美しく着飾っても、気高き信念は変わらず、<br>星竜祭を楽しむ人々を静かに見守っている。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/54e02ddb18bf8eda23bb838e53029bfd2.png"></span>
+				<span>ダイヤモンドブラスト</span>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に水属性のダメージを与え、<br>「凍結」状態にする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>星竜祭の加護Ⅱ</span></dt><dd><div>装備キャラが水属性なら<br>装備キャラの攻撃力が45％、クリティカル率が20％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【ピックアップ竜輝の護符紹介】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2e55e633d6382c3d7bd687fb1d84a83c.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>189</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>51</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>380</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span><span>HP70％で防＋10％</span></dt><dd><div>HP70％以上のとき、防御力が10％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>プロテクトリンク・治癒Ⅱ</span></dt><dd><div>防御力アップのバフを受けたとき、<br>【20秒間、HPを継続回復するバフ】が発動。</div></dd><dt class="event 20803"><span><img src="https://dragalialost.akamaized.net/attached/information/images/8039b5cf8a9bb7837a3a4ed563da0d4c2.png"></span><span>星竜祭P＋150％</span></dt><dd class="event 20803"><div>クエストクリア時に獲得する【星竜祭P】が150％増加する。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放時のステータスです。入手時のステータスではありません。</div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/d815a0c8b0f25e4bc15fe42085ca682a.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>177</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>63</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>380</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>クリティカルダメージ＋15％</span></dt><dd><div>クリティカル時のダメージが15％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>【水】疾風怒濤・会心＋10％</span></dt><dd><div>装備キャラが水属性ならヒット数15以上で、攻撃がクリティカルになる<br>確率が10％アップする。</div></dd><dt class="event 20803"><span><img src="https://dragalialost.akamaized.net/attached/information/images/8039b5cf8a9bb7837a3a4ed563da0d4c2.png"></span><span>星竜祭P＋150％</span></dt><dd class="event 20803"><div>クエストクリア時に獲得する【星竜祭P】が150％増加する。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 本お知らせに掲載されている以外のピックアップ対象の情報や、召喚の提供割合は、レジェンド召喚開催時にゲーム内フッターメニューの「召喚」をタップし、「召喚情報」や「提供割合」からご確認ください。</div><div>2. 10回連続で★5のキャラ・ドラゴン・竜輝の護符が召喚されなかった場合、次回召喚時に★5のキャラ・ドラゴン・竜輝の護符の提供割合が上昇する仕組みがあります。召喚の内容が変更される場合は、上昇した提供割合は引き継がれません。提供割合の上昇についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブから、「レジェンド召喚とは」をご確認ください。</div><div>3. レジェンド召喚の開催期間および内容は、予告なく変更する場合があります。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1545297600"></span>更新】</strong></span><br>12/20に掲載したお知らせ『「ネファリエ(星竜祭Ver.)」「アレクシス(星竜祭Ver.)」のステータスの誤りについて』の内容に合わせて、本お知らせの表記の変更を行いました。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1544925600; update_time1545298143

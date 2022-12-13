@@ -1,0 +1,198 @@
+article_id:2636
+category_name:お知らせ
+title_name:「ドラガリアフェス」開催決定！【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1638163200"></span>追記】</strong></span><br>★5キャラ「ネヴィン（星竜祭Ver.）」のスキル「ウェルテクスアポカリプス」について、シェアスキルとして使用した際の効果は下記のとおりとなります。<br><br>必要シェアスキルポイント：7,500<br>コスト：4<br>ターゲットにダメージを与え、「裂風」状態にする。<br><br>※元のスキルとシェアスキルでは、一部の効果が異なります。</div><div><br></div><hr><div><span class="local_date" data-local_date="1638165600"></span>から、「ドラガリアフェス」の開催を予定しております。</div><div><br></div><div>【ドラガリアフェスとは】 ※「ドラガリアフェス　エクストラ」含む</div><div>期間限定のキャラがドラガリアフェスから登場します。</div><div>また、★5のキャラやドラゴンの提供割合の初期値が、通常時の4％から6％にアップします！</div><div>※★5もしくは★5ピックアップが召喚されると、提供割合は初期値の6％に戻ります。</div><div><span style="color: rgb(226, 80, 65);">※今回新規で追加される★5キャラ「ネヴィン（星竜祭Ver.）」は<span class="local_date" data-local_date="1638511200"></span>から<span class="local_date" data-local_date="1639547999"></span>まで開催予定の「プライズレジェンド召喚」にて引き続き登場しますが、ピックアップ対象ではありません。</span></div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 ガトフ（ドラフェスVer.）：火/斧</div><div><br></div><div>【新規に期間限定で追加されるピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 ネヴィン（星竜祭Ver.）：風/短剣</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※「竜輝の印」は獲得した召喚のみで消費できます。今回の「ドラガリアフェス」で獲得した「竜輝の印」を<span class="local_date" data-local_date="1638511200"></span>から<span class="local_date" data-local_date="1639547999"></span>まで開催予定の「プライズレジェンド召喚」で消費することはできません。</span></div><div><br></div><div>【ドラガリアフェス開催期間】</div><div><span class="local_date" data-local_date="1638165600"></span> ～ <span class="local_date" data-local_date="1638511199"></span></div><div><br></div><div>ピックアップ対象のキャラを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/d43fb1d94098e078709c70f090273f21.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>742</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>聖都グラムスで自警団長を務める男。<br>『閃狼ガトフ』の異名で恐れられる元傭兵で<br>アローラス王とは旧知の仲。グラムスでは<br>貧しい者、身寄りのない者たちの面倒を見る<br>など、優しさと強さを併せ持つ。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/db70276619a06b302ebcc35f1ecf47682.png"></span>
+				<span>チャージブレード</span>
+			</dt>
+			<dd><div>【斧牙剛進】状態時<br>自身の二刀流ゲージを100％チャージする。<br><br>【剣爪乱舞】状態時<br>・スキルが「クリムゾンラッシュ」となり、効果が次のようになる。<br>直線上の敵にダメージを与え、「劫火」状態にする。<br>・スキル「アズールレイド」使用直後に使用した場合、スキルが「ダブルフレイム」となり、効果が次のようになる。<br>直線上の敵にダメージを与え、「劫火」状態にし、【防御力ダウン】を付与する。</div><div class="skill-detail">（斧牙剛進）<br>必要スキルポイント：10,450<br><br>（剣爪乱舞）<br>威力：405 × 4 Hit<br>必要スキルポイント：2,240<br>特殊効果<br>・劫火<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6<br><br>（変化後）<br>威力：584 × 4 Hit<br>必要スキルポイント：2,240<br>特殊効果<br>・防御力5％ダウン<br>　効果時間：10 秒<br>　効果量：5％<br>　重複不可<br>・劫火<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b8bc4d0fe334e827bb7fae18c5ca21d62.png"></span>
+				<span>カウンターファング</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>【斧牙剛進】状態時<br>・一定時間構え、その間自身に【ダメージカット】を付与し、攻撃でのけぞらなくなる。<br>・構え中に攻撃を受けた場合（一部の攻撃を除く）、周囲の敵にダメージを与え、バフを1つ解除し、スキル「チャージブレード」を即時発動可能にする。このスキルに超やる気の効果は発動せず、またスキル使用中に受けたダメージの50％を回復する。<br>・構え中に攻撃を受けなかった場合、このスキルを再度発動可能にする。<br><br>【剣爪乱舞】状態時<br>・スキルが「アズールレイド」となり、効果が次のようになる。<br>周囲の敵にダメージを与え、バフを1つ解除する。<br>・スキル「クリムゾンラッシュ」使用直後に使用した場合、スキルが「デュアルデモリション」となり、効果が次のようになる。<br>周囲の敵にダメージを与え、バフを1つ解除する。</div><div class="skill-detail">（斧牙剛進）<br>威力：418 × 6 Hit<br>必要スキルポイント：3,120<br>特殊効果<br>・バフ解除<br>・ダメージ50％カット<br>　重複不可<br><br>（剣爪乱舞）<br>威力：254 × 7 Hit<br>必要スキルポイント：2,240<br>特殊効果<br>・バフ解除<br><br>（変化後）<br>威力：421 × 8 Hit<br>必要スキルポイント：2,240<br>必要シェアスキルポイント：12,544<br>特殊効果<br>・バフ解除</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d78aff22949d45baac014f570ce39bcd2.png"></span>
+				<span>HP＋10％＆防御力＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のHPが10％アップし、防御力が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>【火】回避：攻撃回避で攻＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性なら攻撃を回避したとき、【15秒間、攻撃力を10％アップするバフ】が発動。<br>この効果は発動してから15秒間は発動しない。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cbd90a2cfa2d4d09289458f70c6714262.png"></span><span>二刀の心得Ⅱ</span></dt><dd><div>①クエスト開始時、【斧牙剛進】状態になり、スキル2を即時発動可能にする。<br>②二刀流ゲージを追加する。二刀流ゲージが満タンになると、【剣爪乱舞】状態に変化。二刀流ゲージが時間経過で減少するようになり、0になるまで以下の効果を得る。<br>・【剣爪乱舞】状態になったとき、スキル1とスキル2を即時発動可能にする。<br>・自身に【リアクション無効】バフを付与する。<br>・バーストアタックが変化。周囲の敵にダメージを与えるものになる。<br>・通常攻撃、スキル1、スキル2が変化する。<br>・二刀流ゲージが0になると【剣爪乱舞】状態が解除され、スキル1とスキル2のゲージを0にし、【斧牙剛進】状態に戻る。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea4c47784ca6465117276eb2a3d9a0d92.png"></span><span>不撓の精神Ⅱ</span></dt><dd><div>「気絶」、「睡眠」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/370c33c0e68c950bdaa4ced8721cad5f2.png"></span><span>王護の決意Ⅱ</span></dt><dd><div>・スキル1を使用するたび、自身に防御力アップのオーラ（バーストオーラ上限Lv3）を付与する。この効果は発動してから20秒間は発動しない。<br>・【剣爪乱舞】状態で通常攻撃のコンボの7段目を行った場合、次に使用するスキル「ダブルフレイム」またはスキル「デュアルデモリション」の威力が15％アップする。この効果は重複しない。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/48eb3c8c96c8e77f78571d4e00461abd.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>760</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>499</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>北方イリア教会に所属する、『使徒』の<br>ひとり。常にだらけたい彼にとって、厳しい<br>冬の寒さはできれば避けたい面倒事。<br>星竜祭発祥の地である雪深い街での任務に<br>赴くため、特注の暖かな衣装に身を包む。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6d249a0d03fce6004975e0e34cfc65532.png"></span>
+				<span>ステラナイブズ</span>
+			</dt>
+			<dd><div>通常時<br>【銀翼の剣】を召喚する。<br>【銀翼の剣】召喚中は【銀翼の剣】が自動攻撃を行う。<br>【銀翼の剣】による攻撃は通常攻撃として扱われない。<br><br>【聖痕解放】状態時<br>【銀翼の剣】を全て自身の周囲に戻す。<br>周囲に戻った【銀翼の剣】は自動攻撃を行う。<br>【銀翼の剣】による攻撃は通常攻撃として扱われない。</div><div class="skill-detail">必要スキルポイント：4,800<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9b1277f43913e98993a2da636a9775512.png"></span>
+				<span>ウェルテクスアポカリプス</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>通常時<br>ターゲットにダメージを与え、「裂風」状態にし、自身に攻撃力アップのオーラを付与する。<br><br>【聖痕解放】状態時<br>ターゲットにダメージを与え、「裂風」状態にし、自身に攻撃力アップのオーラを付与する。<br>また、敵に【銀翼の剣】が付与されている場合、その数に応じて、追加ダメージを与える。<br>さらに【銀翼の剣】を全て自身の周囲に戻す。<br>周囲に戻った【銀翼の剣】は自動攻撃を行う。<br>【銀翼の剣】による攻撃は通常攻撃として扱われない。</div><div class="skill-detail">威力：1,620 × 1 Hit<br>必要スキルポイント：7,500<br>必要シェアスキルポイント：7,500<br>特殊効果<br>・裂風<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：31<br>オーラ付与<br>・攻撃力アップ（バーストオーラ上限Lv 3）<br><br>（アビリティ効果発動時）<br>威力：1,800 × 1 Hit<br>追加ダメージ<br>威力：500 × 1 Hit<br>必要スキルポイント：7,500<br>特殊効果<br>・裂風<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：31<br>オーラ付与<br>・攻撃力アップ（バーストオーラ上限Lv 3）</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>クリティカル率＋10％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のクリティカル確率が10％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>【風】裂風：裂風トリガー・耐水＋8％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが風属性なら敵を裂風状態にしたとき、【15秒間、水属性耐性が8％アップするバフ】が発動。<br>この効果は発動してから10秒間は発動しない。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7aa128324b79aa9ac1988efd5f431d8e2.png"></span><span>ラミエルの聖鐘Ⅱ</span></dt><dd><div>通常時<br>・クエスト開始時、自身に【300秒間、聖痕の枷】デバフを付与する。<br>・スキル「ステラナイブズ」は、スキルゲージの獲得量およびスキルチャージ効果が80％カットされる。<br>・スキル「ステラナイブズ」発動時、【聖痕の枷】を解除する。<br>【聖痕解放】状態時<br>・【銀翼の剣】を召喚する。【銀翼の剣】召喚中は【銀翼の剣】が自動攻撃を行う。【銀翼の剣】による攻撃は通常攻撃として扱われない。<br>・バーストアタックが攻撃時「裂風」状態を付与し、周囲の【銀翼の剣】をチャージ段階に応じた数だけ前方に投げるように変化する。<br>・バーストアタックで投げた【銀翼の剣】が敵にヒットするとその敵に、裂風耐性をダウンし継続ダメージを与えるデバフとして付与される。このデバフは最大4つまで重複する。<br>・デバフとして付与されている間、【銀翼の剣】は自動攻撃を行わない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span><span>ずぶぬれ耐性＋100％</span></dt><dd><div>「ずぶぬれ」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f107584de3ec90b9c32f061bdd138512.png"></span><span>裂風付与率＋40％</span></dt><dd><div>敵を「裂風」状態にする確率が40％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1638079200; update_time1638165755

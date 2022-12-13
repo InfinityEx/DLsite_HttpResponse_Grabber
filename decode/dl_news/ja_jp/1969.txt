@@ -1,0 +1,164 @@
+article_id:1969
+category_name:お知らせ
+title_name:レジェンド召喚「PERSONA5 SCRAMBLE Desire Lost ピックアップ Part2」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1612591200"></span>から、レジェンド召喚「PERSONA5 SCRAMBLE Desire Lost ピックアップ Part2」を開催中！</div><div><br></div><div>期間限定のキャラ・ドラゴンがレジェンド召喚から登場します。</div><div>また、ピックアップ対象のキャラ・ドラゴンの提供割合がアップ中です。</div><div><br></div><div>【新規に期間限定で登場するピックアップ対象のキャラ】</div><div>■キャラ</div><div>★5 パンサー：火/槍</div><div><br></div><div>【期間限定で再登場するピックアップ対象のドラゴン】</div><div>■ドラゴン</div><div>★5 アルセーヌ：闇</div><div><br></div><div>今回のレジェンド召喚「PERSONA5 SCRAMBLE Desire Lost ピックアップ Part2」では下記の期間限定のキャラが再登場します。</div><div><span style="color: rgb(226, 80, 65);">※下記のキャラはピックアップ対象ではございません。</span></div><div><br></div><div>【期間限定で再登場するキャラ】</div><div>■キャラ</div><div>★5 ジョーカー：闇/短剣</div><div>★5 モナ：風/剣</div><div><br></div><div><span style="color: rgb(226, 80, 65);">※「竜輝の印」は獲得した召喚のみで消費できます。レジェンド召喚「PERSONA5 SCRAMBLE Desire Lost ピックアップ Part1」で獲得した「竜輝の印」をレジェンド召喚「PERSONA5 SCRAMBLE Desire Lost ピックアップ Part2」で消費することはできません。</span></div><div><br></div><div>【レジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1612591200"></span> ～ <span class="local_date" data-local_date="1613109599"></span></div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e54f627e2ef6a4dc02bd0f911b193ee8.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>749</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>510</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>抜群のルックスを持つ、心優しい少女。<br>親友を守るため自身を犠牲にしていたが、<br>ジョーカーたちと行動を共にし、悪しき<br>大人たちへの反逆を決意。ペルソナ能力を<br>覚醒させ『心の怪盗団』の一人となる。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/043043e46b37ae46cb8ed5b5e9618b112.png"></span>
+				<span>超炎上</span>
+			</dt>
+			<dd><div>通常時<br>前方の敵にダメージを与える。このスキルがヒットすると自身の召喚ゲージが上昇する。さらに、自身に【火炎ブースタ】バフ、【精密射撃】バフを付与する。<br>カルメン召喚時<br>前方の敵にダメージを与える。「劫火」状態の敵にはダメージがアップする。</div><div class="skill-detail">
+
+威力：855 × 1 Hit<br>必要スキルポイント：5,920<br>特殊効果<br>・精密射撃<br>　攻撃力10％アップ<br>　効果時間：15 秒<br>　重複不可<br>・火炎ブースタ<br>　火属性攻撃力10％アップ<br>　効果時間：15 秒<br>　重複不可<br>召喚ゲージ回復量：300<br><br>
+
+（カルメン召喚時）<br>威力：1496.2 × 1 Hit<br>必要スキルポイント：5,920<br>特定状態へのダメージ倍率<br>・劫火：135％</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd5464d0aeb6d41964c19ee25f922b922.png"></span>
+				<span>お熱いのがお好き？</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>通常時<br>前方の敵にダメージを与え、「劫火」状態にする。<br>カルメン召喚時<br>前方の敵にダメージを与え、攻撃力をダウンさせる。この効果は重複しない。さらに、敵のバフを1つ解除する。バフを解除した場合、敵の火属性耐性をダウンさせる。この効果は重複しない。</div><div class="skill-detail">
+
+威力：267.1 × 3 Hit<br>威力：293.9 × 3 Hit<br>必要スキルポイント：11,840<br>必要シェアスキルポイント：10,656<br>特殊効果<br>・劫火<br>　効果時間：21 秒<br>　効果間隔： 2.9 秒<br>　威力：31.1<br>召喚ゲージ回復量：300<br><br>
+
+（カルメン召喚時）<br>威力：997.5 × 1 Hit<br>必要スキルポイント：11,840<br>特殊効果<br>・攻撃力20％ダウン<br>　効果時間：30 秒<br>　重複不可<br>・バフ解除<br>・火属性耐性5％ダウン<br>　効果時間：30 秒<br>　重複不可<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/71d793fb535ac808bdfe31e27ebe9b8b2.png"></span>
+				<span>炎上率UPⅤ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が敵を「劫火」状態にする確率が20％アップし、「劫火」状態の時間が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/132b47160438f5bd6b9ef2830f9358c82.png"></span>
+				<span>【火】情熱の炎舞Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性なら竜化時間が20％延長される。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/029eba960e21943162dd77888930a3d02.png"></span><span>舞い踊る女豹Ⅱ</span></dt><dd><div>・一部の攻撃に「火炎」属性を付与し、竜化ボタンがカルメン召喚ボタンに変化する。カルメンの召喚中は、キャラの攻撃に合わせてカルメンが追加で攻撃を行う。<br>・バーストアタックがマシンガンに変化する。<br>・防御力が6％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠耐性＋100％</span></dt><dd><div>「睡眠」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ba1d939f31aa624b013b900d03a48812.png"></span><span>劫火トリガー：火属性攻撃アップⅡ</span></dt><dd><div>敵を劫火状態にしたとき、自身に【風属性の敵に対して攻撃したときダメージ倍率が10％アップする】バフが発動。このバフは3つまで重複可能で、この効果は発動してから5秒間は発動しない。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/16542ed9af7184674600e9d6a06b5a88.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>ジョーカーのペルソナ、『アルセーヌ』。<br>仮面のような顔と、大きな黒い翼が特徴的。<br>はたしてこのペルソナには一体<br>どんな由来があり、どんな力が<br>秘められているのだろうか？</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2719fe27911749dfccf7afb09adc17d52.png"></span>
+				<span>マハエイガ</span>
+			</dt>
+			<dd><div>ターゲットとその周囲の敵にダメージを与える。</div><div class="skill-detail">
+
+威力：2,540 × 1 Hit<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>攻撃の心得＋90％</span></dt><dd><div>装備キャラの攻撃スキルのダメージが90％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>呪怨ハイブースタ＋90％</span></dt><dd><div>装備キャラが闇属性なら<br>装備キャラの攻撃スキルのダメージが90％アップする。また、装備キャラの攻撃に呪怨属性を付与する。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>■「アルセーヌ」について</div><div>ドラゴン「アルセーヌ」は契約時から信頼度が最大の状態で登場します。</div><div>また、「アルセーヌ」のドラゴンストーリーは契約した時点で解放され、前編・後編を読了することで、「竜の庭」で贈り物をした際の「ドラゴンからのお返し」と同等の報酬を入手することができます。</div><div>※ドラゴンストーリーは前編を読了すると後編が解放されます。</div><div>※「聖城」の「竜の庭」にて「アルセーヌ」はドラゴン一覧に表示されず、選択することができません。</div><div>※「アルセーヌ」と契約しても、「王子育成ドリル」の「ドラゴンの信頼度を10にしよう」「ドラゴンの信頼度を30にしよう」のミッションは達成されません。</div><div><br></div><div>【注意事項】</div><div>召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1612591200; update_time1612492941

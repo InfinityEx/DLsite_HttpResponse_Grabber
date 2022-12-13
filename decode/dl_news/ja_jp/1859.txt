@@ -1,0 +1,8 @@
+article_id:1859
+category_name:イベント
+title_name:イベント予告【復刻】「ゆく年！くる年！大掃除！」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/a6b4b9f51c51cb7cda32c2bed99e749c.png
+
+message:<div><span class="local_date" data-local_date="1608876000"></span>から、期間限定イベント【復刻】「ゆく年！くる年！大掃除！」の開催を予定しております。</div><div><br></div><div>【復刻】「ゆく年！くる年！大掃除！」は、イベント限定のクエストをプレイして、ドロップ報酬の獲得やミッションの達成を目指すイベントです。</div><div>クラウの大掃除を手伝いながら、聖城の仲間たちがどのように年末を過ごしているか、様子を見てみましょう。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a6b4b9f51c51cb7cda32c2bed99e749c.png"></div><div><br></div><div>時は年末。聖城ではクラウ指揮のもと大掃除が進行中。</div><div>しかし、ひょんなことから城内に魔獣の群れが現れて!?</div><div>仲間たちのもとを巡りながら、</div><div>掃除を邪魔する魔獣たちを、徹底お掃除していこう！</div><div><br></div><div>■注意事項</div><div>1. イベントクエスト参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。</div><div>2. マルチプレイ参加には、メインストーリー2章 2-1（Normal）をクリアする必要があります。</div><div>3. 「ゆく年！くる年！大掃除！」には、イベントの開催期間終了後に、ストーリーを読むことができる期間はありません。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1608789600; update_time1608173977

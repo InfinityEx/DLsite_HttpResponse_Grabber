@@ -1,0 +1,8 @@
+article_id:2468
+category_name:お知らせ
+title_name:「ディアボロス封滅戦 水の章」の報酬における不具合について【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1630993500"></span>追記】</strong></span><br><span class="local_date" data-local_date="1630993500"></span>ごろに本補填対応が完了いたしました。<br><br>■補填対象プレイヤー<br><span class="local_date" data-local_date="1630648800"></span> ～ <span class="local_date" data-local_date="1630658700"></span>ごろに「ディアボロス封滅戦 水の章」の「堕天使ウリエル封滅戦」のマルチプレイを開始し、復活回数0回でクエストをクリアしたプレイヤー<br><br>■補填内容<br>復活0回報酬として本来獲得できるはずだった、クリアした回数分の「優美なる冷水の砕片」<br><br>補填としてお送りしたアイテムは、「プレゼント」からお受け取りいただけます。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div><hr><div><span class="local_date" data-local_date="1630648800"></span>から開催された「ディアボロス封滅戦 水の章」の「堕天使ウリエル封滅戦」にて、下記の不具合が発生しておりました。<br>&nbsp;<br>・マルチプレイの復活0回の復活ボーナスに「ヤルダバオト封滅戦」のドロップ報酬が設定されている。<br><br>本不具合については、現在は解消しております。<br><br>なお、本不具合発生期間中に対象クエストをクリアされていたプレイヤーの皆様には、後日補填させていただきます。<br>&nbsp;<br>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div>
+
+start_time:1630658700; update_time1631236050

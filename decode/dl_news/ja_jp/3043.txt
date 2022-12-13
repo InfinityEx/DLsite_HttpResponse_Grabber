@@ -1,0 +1,8 @@
+article_id:3043
+category_name:イベント
+title_name:メモリーイベントにレイドイベント「神竜降臨」を追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/5c35673fc74133cac14b8da9dc1cbf07.png
+
+message:<div><span class="local_date" data-local_date="1653458400"></span>からメモリーイベントとして参加できるイベントに、レイドイベント「神竜降臨」が追加されました。</div><div><br></div><div>■注意事項</div><div>1. 本イベントにて追加されるクエストは、すべてソロ専用のクエストです。マルチプレイはできません。</div><div>2. 本イベントは、メインストーリー14章 4-9（Normal）をクリアすると解放されます。</div><div>3. 参加可能なイベントの種類は、今後のアップデートにて追加する予定です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1653458400; update_time1647419609

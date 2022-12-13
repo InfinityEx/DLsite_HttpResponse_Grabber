@@ -1,0 +1,8 @@
+article_id:211
+category_name:お知らせ
+title_name:「サーカステントで夢の時間を」のEXボスバトルの共闘の翼消費について【追記】
+image_path:
+
+message:<div>イベント「サーカステントで夢の時間を」にて、エクストラボスバトルのクエストにゲストとして参加する際に、「共闘の翼」を1消費する不具合を確認しております。</div><div><br></div><div>本不具合については、現在修正を進めております。</div><div>修正完了後、修正までに該当のクエストで消費された「共闘の翼」をアイテムにて補填いたします。</div><div><br></div><div>ご案内できることがございましたら、本お知らせにてご連絡いたします。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1547550600"></span>追記</strong></span></div><div><span class="local_date" data-local_date="1547548800"></span>に行ったデータ更新にて、本不具合の修正を実施いたしました。</div><div><br></div><div>また、本不具合の補填として、下記のアイテムを配布いたします。</div><div><br></div><div><span class="local_date" data-local_date="1547548800"></span>までにエクストラボスバトルのクエストにゲストとして参加されたプレイヤーの皆様に、参加回数に応じた「霊鳥の灰」を順次お送りいたします。</div><div><br></div><div>補填としてお送りしたアイテムは、「プレゼント」からお受け取りいただけます。</div><div>本件の補填の品は、<span class="local_date" data-local_date="1548153599"></span>までにゲームにログインした際に受け取れます。</div><div>本件のアイテムの受け取り期限は、プレゼントにアイテムが送られてから7日間です。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことを重ねてお詫び申し上げます。</div>
+
+start_time:1547539200; update_time1548396445

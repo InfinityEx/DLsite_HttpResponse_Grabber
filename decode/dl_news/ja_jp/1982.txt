@@ -1,0 +1,41 @@
+article_id:1982
+category_name:お知らせ
+title_name:「竜輝の護符交換所」のラインナップに期間限定で竜輝の護符を追加！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1613109600"></span>から、「竜輝の護符交換所」のラインナップに、期間限定で竜輝の護符を追加しました。</div><div><br></div><div>追加された竜輝の護符は、「竜輝の護符交換所」内の「ピックアップ」タブや、各レアリティのタブから交換できます。</div><div><br></div><div>【新たな竜輝の護符紹介】</div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/2b2d6ea78b8468f3fc623c218704f39b2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/2439af36bc03adcbbc19665e4dcc50802.png"></div>
+	<div class="discription">
+		<div class="charaName">サプライズ・スウィート</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/50e8f27a8ccb8795c0a52d0417e9e2862.png"></span><span>裂風特効＋25％&nbsp;(Max25％)</span></dt><dd><div>「裂風」状態の敵に与えるダメージが25％アップする。&nbsp;(Max25％)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/f13f03d831c49877eecd5220173d31e82.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/06daf043e7e30f0d7df7980e070719352.png"></div>
+	<div class="discription">
+		<div class="charaName">アンビバレント・フレア</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP満タンで攻＋15％&nbsp;(Max20％)</span></dt><dd><div>HP満タン時、攻撃力が15％アップする。&nbsp;(Max20％)</div></dd></dl></div></div></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/797cf41503e9f7c0ca16fee169dee2ad2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/4bc7ceaf11d54996eee5b6ba756bc05f2.png"></div>
+	<div class="discription">
+		<div class="charaName">メイド部隊におまかせ！</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span><span>回復スキル効果＋10％&nbsp;(Max20％)</span></dt><dd><div>回復スキルの効果量が10％アップする。&nbsp;(Max20％)</div></dd></dl></div></div></div><div><br></div><div>※最大上限解放時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【ピックアップ期間】</div><div><span class="local_date" data-local_date="1613109600"></span> ～ <span class="local_date" data-local_date="1614751199"></span></div><div><br></div><div><span style="color: rgb(226, 80, 65);"><strong>※今回追加された期間限定の竜輝の護符は、ピックアップ期間終了後は交換できません。</strong></span></div><div><br></div><div>【注意事項】</div><div>1. 今回ピックアップされた竜輝の護符は、今後再度登場する可能性があります。</div><div>2. 本お知らせに掲載されている内容以外の情報は、マイページ内のショップから「竜輝の護符交換所」をご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1613109600; update_time1612768828

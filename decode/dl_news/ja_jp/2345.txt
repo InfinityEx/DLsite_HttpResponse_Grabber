@@ -1,0 +1,8 @@
+article_id:2345
+category_name:お知らせ
+title_name:メインストーリーに第20章「聖なる樹」後半を追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/a7b46e8dd0a354e139ba9aa98986c38c.png
+
+message:<div><span class="local_date" data-local_date="1626847200"></span>から、メインストーリーに第20章「聖なる樹」後半を追加しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a7b46e8dd0a354e139ba9aa98986c38c.png"></div><div><br></div><div>聖なる樹の上層へと向かうため、自身の出生の秘密を</div><div>語るネデウ。それを聞くゼシアの胸に新たな思いが</div><div>去来する。聖片を守るべく道を急ぐ第七位王子一行の</div><div>行く手を、妖精族の誇り高き王が阻む。各々の思いが</div><div>聖なる樹で交錯するとき、ある人物が姿を現す――。</div><div><br></div><div>最新章をお楽しみください！</div><div><br></div><div>■注意事項</div><div>1. メインストーリー第20章「聖なる樹」後半は、メインストーリー第20章 4-3「王亡き世界に」をクリアすると解放されます。</div><div>2. 今回の後半追加と併せて、新たに「竜玉」を使用して上限解放できるドラゴンの追加はございませんが、獲得できるドラゴンの「竜玉」、現在の所持数、残り獲得回数、および「竜玉」が獲得できるクエストは、メインストーリー各章のエリアマップ内に表示される「竜玉」アイコンから確認できます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1626847200; update_time1626312890

@@ -1,0 +1,8 @@
+article_id:990
+category_name:イベント
+title_name:レイドイベント【復刻】「新春日ノ下招福縁起」エピローグ追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/d3ec97cd06dd32c721638cc40ad6725f.png
+
+message:<div><span class="local_date" data-local_date="1577771999"></span>まで開催しておりました、レイドイベント【復刻】「新春日ノ下招福縁起」にエピローグを追加しました！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/d3ec97cd06dd32c721638cc40ad6725f.png"></div><div>エピローグは、ゲーム内画面下メニューの「マイページ」から、左下の「バナー」をタップし、「レイドイベント」内の「限定クエスト」からご覧いただけます。<br><br>■エピローグ解放期間<br><span class="local_date" data-local_date="1577772000"></span> &nbsp;～ <span class="local_date" data-local_date="1578376799"></span><br><br>■注意事項<br>エピローグをご覧いただくには、イベント期間終了時点でイベントのストーリー第8話をクリアしている必要があります。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。<br><br></div>
+
+start_time:1577772000; update_time1577265650

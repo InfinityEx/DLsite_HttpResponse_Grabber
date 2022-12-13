@@ -1,0 +1,8 @@
+article_id:41
+category_name:お知らせ
+title_name:「召喚」の変更における注意点
+image_path:
+
+message:<div><span class="local_date" data-local_date="1539756000"></span>から、レジェンド召喚の変更を予定しております。</div><div><br></div><div>なお、10回連続で★5が召喚されなかった場合、次回召喚時に★5の提供割合が上昇する仕組みがございますが、召喚の内容が変更される場合は、提供割合の上昇量は引き継がれません。</div><div><br></div><div>提供割合の上昇に関する詳しい説明は、以下をご確認ください。</div><div><br></div><div>[1] ゲーム内の画面下メニューから「召喚」をタップ</div><div>[2] 画面中段の右にある「召喚情報」をタップ</div><div>[3] 「召喚情報」ページの上段にある「詳細」をタップ</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1539747000; update_time1542363527

@@ -1,0 +1,8 @@
+article_id:1174
+category_name:お知らせ
+title_name:1.5Year Anniversary 「ナームちゃんねる」公開！【更新】
+image_path:https://dragalialost.akamaized.net/attached/information/images/0e66a7599bcf9389f5aab36d51a1874d.png
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1585106100"></span>更新】</strong></span></div><div>ナームから、<span class="local_date" data-local_date="1585105199"></span>までにゲームを開始されたプレイヤーの皆様に、以下のプレゼントをお贈りいたしました！</div><div><br></div><div>■プレゼント内容</div><div>・覚醒の雫&times;100,000</div><div>・最高級はちみつ&times;50</div><div>・ルピ&times;10,000,000</div><div><br></div><div>■注意事項</div><div>・お贈りしたアイテムは、順次「プレゼント」へ贈られます。</div><div>・お贈りしたアイテムの受け取り期限は、「プレゼント」にアイテムが贈られてから7日間です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div><hr><div><span class="local_date" data-local_date="1585105200"></span>に、「ナームちゃんねる」を『ドラガリアロスト』公式YouTube Channelにて公開しました。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/0e66a7599bcf9389f5aab36d51a1874d.png"></div><div><br></div><div>1.5Year Anniversaryの情報や新機能の紹介、Ver.1.18.0アップデートの内容など、さまざまな情報をナームがプレイヤーの皆様にお届けします！</div><div><br></div><div>詳細は下記のページをご覧ください。</div><div><br></div><div>▼「ナームちゃんねる」</div><div><a href="https://youtu.be/yaZtC7XkSNQ">https://youtu.be/yaZtC7XkSNQ</a></div><div><br></div><div>▼『ドラガリアロスト』公式YouTube Channel</div><div><a href="http://eng.mg/c0a56">http://eng.mg/c0a56</a></div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1585105200; update_time1585106379

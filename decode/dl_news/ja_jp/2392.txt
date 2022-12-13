@@ -1,0 +1,8 @@
+article_id:2392
+category_name:お知らせ
+title_name:iOS版にてドラゴンダイヤを購入できない現象について【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1627605600"></span>追記】</strong></span><br>本現象は現在解消しております。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div><div><br></div><hr><div>iOS版にてドラゴンダイヤを購入できない現象が発生していることを確認しております。</div><div><br></div><div>現在、原因を調査しております。<br>本現象についてご案内できることがございましたら、本お知らせにてご案内いたしますので、今しばらくお待ちくださいますようお願い申し上げます。</div>
+
+start_time:1627603680; update_time1627605774

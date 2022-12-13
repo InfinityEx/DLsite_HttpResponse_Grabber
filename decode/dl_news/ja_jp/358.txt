@@ -1,0 +1,8 @@
+article_id:358
+category_name:お知らせ
+title_name:ワールドページ、ゲームシステムページ、ムービーページ公開
+image_path:
+
+message:<div>『ドラガリアロスト』公式サイトのワールドページ、ゲームシステムページ、ムービーページを公開しました。</div><div><br></div><div>『ドラガリアロスト』の世界観やゲームシステムの詳細、PVをご覧いただけます。</div><div>下記のページからご覧ください。</div><div><br></div><div>▼ワールドページ</div><div>https://dragalialost.com/jp/world/story/</div><div><br></div><div>▼ゲームシステムページ</div><div>https://dragalialost.com/jp/gamesystem/</div><div><br></div><div>▼ムービーページ</div><div>https://dragalialost.com/jp/special/movie/</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1535608800; update_time1555317193

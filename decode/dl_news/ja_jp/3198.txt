@@ -1,0 +1,198 @@
+article_id:3198
+category_name:お知らせ
+title_name:光属性★5キャラ確定！「プラチナレジェンド召喚」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1662098400"></span>から、「プラチナレジェンド召喚」を開催中！</div><div><br></div><div>「プラチナレジェンド召喚」では、「10回召喚」の10枠目で、光属性の★5キャラが確定で出現します。</div><div><span style="color: rgb(226, 80, 65);">※本召喚の提供内容に、光属性以外のキャラ・ドラゴンは含まれません。</span></div><div>本召喚は、期間中に「10回召喚」を2回までご利用いただけます。</div><div>また、本召喚は「ドラゴンダイヤ」でのみご利用いただけます。</div><div><br></div><div>【プラチナレジェンド召喚 開催期間】</div><div><span class="local_date" data-local_date="1662098400"></span> ～ <span class="local_date" data-local_date="1663307999"></span></div><div><br></div><div>「プラチナレジェンド召喚」の10枠目に確定で出現する、対象の光属性★5キャラの一部を、下記にてご紹介いたします。</div><div><br></div><div>【10枠目確定対象光属性★5キャラ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/581d4646f84fb6d140f030b65e185aba.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>751</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>510</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>絆の力で覚醒したゼシア。<br>巫女とバハムートの力を使い、世界を<br>守るため、兄や仲間たちと共に戦う。<br>戦う力のみならず、心の強さも手に入れた<br>彼女はもう守られるだけの存在ではない。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5299b6045ba548739b1b50f5c8e92a442.png"></span>
+				<span>ブレイジングレイ</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>通常時<br>ターゲットとその周囲の敵にダメージを与え、「閃熱」状態にする。<br><br>絆の力付与時<br>ターゲットとその周囲の敵にダメージを与え、「閃熱」状態にし、バフを1つ解除する。<br>また、スキル発動中に攻撃でのけぞらなくなる。</div><div class="skill-detail">威力：800 × 3 Hit<br>必要スキルポイント：2,800<br>必要シェアスキルポイント：7,980<br>特殊効果<br>・閃熱<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6<br><br>（絆の力付与時）<br>威力：1,800 × 1 Hit<br>威力：360 × 5 Hit<br>必要スキルポイント：2,800<br>特殊効果<br>・閃熱<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6<br>・バフ解除</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0e22dbd42118a954d53624bdb6620ad22.png"></span>
+				<span>アフェクションリング</span>
+			</dt>
+			<dd><div>通常時<br>パーティ全員に【絆の力】を付与する。<br>現在のHP以上のダメージを受けたときそのダメージを無効化し、他のパーティメンバーが最大HPの20％分ダメージを受ける。<br>この効果でダメージを無効化したとき【絆の力】は解除される。<br><br>絆の力付与時<br>パーティ全員のHPを回復する。<br>また、パーティ全員の【絆の力】を解除する。</div><div class="skill-detail">必要スキルポイント：4,200<br>特殊効果<br>・絆の力<br>　重複不可<br><br>（絆の力付与時）<br>必要スキルポイント：0<br>回復力：100</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>スキルダメージ＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のスキルダメージが15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】堅守：HP80％で耐闇＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性ならHP80％以上のとき、闇属性耐性を6％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/591da5c63620a841e49a273e761ada402.png"></span><span>巫女の奇跡Ⅱ</span></dt><dd><div>①HP30％以下になったとき、自身のHPを回復する。<br>自身に【絆の力】が付与されている場合はさらに自身を除くパーティ全員のHPを回復する。<br>これらの効果はそれぞれ発動してから45秒間は発動しない。<br>②スキル「アフェクションリング」を使用したとき、パーティ全員にクリティカル時のダメージ倍率アップのバーストオーラ（バーストオーラ上限Lv3）を付与する。<br>この効果は発動してから30秒間は発動しない。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>不屈の絆Ⅱ</span></dt><dd><div>「毒」、「呪い」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>護るための強さⅡ</span></dt><dd><div>攻撃スキルのダメージが20％アップする。<br>【絆の力】が付与されているとき、さらに攻撃スキルのダメージが40％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div>※「絆の力」についての詳細はヘルプをご確認ください。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5df5f0aeabae77584cdebddfb4ae4ad6.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>747</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>515</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,502</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>アルべリア王国の第四位王子。将軍として<br>己の軍を率い、武人として名高い人物。<br>寡黙だが愚直に国と民を思う心を持つ。<br>ある理由から帝国の将を務めたが、現在は<br>世界を守るため聖城に力を貸している。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd866680ac298f733f360d10f435a23d2.png"></span>
+				<span>ロイヤルブリッツ</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、「麻痺」、「閃熱」状態にする。</div><div class="skill-detail">威力：500 × 4 Hit<br>威力：600 × 1 Hit<br>必要スキルポイント：3,849<br>必要シェアスキルポイント：11,461<br>特殊効果<br>・麻痺<br>　効果時間：13 秒<br>　効果間隔：3.9 秒<br>　威力：97<br>・閃熱<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/81cf3f993b5bd3954266b8f69dffe5392.png"></span>
+				<span>ライトニングランペイジ</span>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、バフを1つ解除する。</div><div class="skill-detail">威力：600 × 3 Hit<br>威力：1,700 × 1 Hit<br>必要スキルポイント：6,296<br>特殊効果<br>・バフ解除<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>防御力＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員の防御力が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span>
+				<span>【光】士気：防勢士気・治癒Ⅴ</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性なら防御力アップのバーストオーラが付与されているとき、【HPを継続回復するバフ】が発動する。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ba285b9620ca098f55337e3c8cdbea182.png"></span><span>ライジングミリタントⅡ</span></dt><dd><div>・装備しているドラゴンに関わらずトールに竜化する。<br>・バーストアタックが変化し、攻撃時、敵を引き寄せるようになる。<br>・クエスト中攻撃でのけぞらず、常に【超やる気】になる。この【超やる気】は虚無や状態異常、スキル発動によって解除されない。<br>・ダメージを受けたとき、自身に20秒間、【反攻の精神】を付与する。この効果中通常攻撃が強化され、威力と攻撃範囲がアップする。この効果は発動してから5秒間は発動しない。<br>・移動、回避を除くアクション中にダメージを受けたとき、受けたダメージの30％分自身のHPを回復する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>戦神の己道Ⅱ</span></dt><dd><div>「毒」、「呪い」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>ロイヤルシールドⅡ</span></dt><dd><div>HPが70％以下になったとき、パーティ全員に防御力アップのバーストオーラ（バーストオーラ上限Lv2）と【最大HPの40％以下のダメージを無効化する特殊シールド】を付与する。このシールドの効果は1回のみで、通常のシールドと重複が可能。この効果は発動してから30秒間は発動しない。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div><br></div><div>【注意事項】</div><div>1. 「プラチナレジェンド召喚」についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「プラチナレジェンド召喚」の「提供割合」や「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. 「プラチナレジェンド召喚」開催中も、「レジェンド召喚」は開催中です。召喚画面タイトル部分の「&lt;」「&gt;」アイコンをタップすると、各召喚の画面に移動できます。</div><div>3. 「レジェンド召喚」にて、10回連続で★5が出現しなかったことにより上昇した提供割合は、「プラチナレジェンド召喚」をご利用いただいても、リセットされません。</div><div>4. その他の注意事項は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブから「注意事項」をご確認ください。</div><div>5. 「プラチナレジェンド召喚」では「竜輝の印」を獲得できません。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1662098400; update_time1649486777

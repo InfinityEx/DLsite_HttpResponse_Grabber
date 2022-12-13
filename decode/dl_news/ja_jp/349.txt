@@ -1,0 +1,8 @@
+article_id:349
+category_name:お知らせ
+title_name:事前登録者数30万人達成！
+image_path:
+
+message:<div>『ドラガリアロスト』の事前登録者数が30万人を達成いたしました！</div><div>ご登録いただいた皆様、ありがとうございます。</div><div><br></div><div>事前登録キャンペーンの詳細は、下記のページからご確認ください。</div><div><br></div><div>▼事前登録キャンペーンページ</div><div>https://dragalialost.com/jp/pre_registration/</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1530511200; update_time1555293486

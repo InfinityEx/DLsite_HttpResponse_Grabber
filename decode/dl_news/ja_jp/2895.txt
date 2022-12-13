@@ -1,0 +1,74 @@
+article_id:2895
+category_name:お知らせ
+title_name:「竜輝の護符交換所」のラインナップに竜輝の護符を追加！
+image_path:
+
+message:<div><span style="color: rgb(0, 0, 0);"><span class="local_date" data-local_date="1655704800"></span>から、「竜輝の護符交換所」のラインナップに竜輝の護符を追加しました。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">今回追加した竜輝の護符については、過去のイベントにて獲得できた一部の竜輝の護符を、「竜輝の護符交換所」のラインナップに定常化して追加したものです。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">追加された竜輝の護符は、「竜輝の護符交換所」内の各レアリティのタブから交換できます。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);"><strong>【定常化した竜輝の護符紹介】</strong></span></div><div><span style="color: rgb(0, 0, 0);">
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/b4b15066d8e57d22523adca3633bab6f2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/b6fe5f7f272fe5c0a9f21d57ac1ec20b2.png"></div>
+	<div class="discription">
+		<div class="charaName">ロイヤル・ティーパーティー</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/83bd9c8302b087a508daec2a8fc9b2cf2.png"></span><span>デバフスキル時間＋25％&nbsp;(Max30％)</span></dt><dd><div>使用するデバフスキルの効果時間が25％アップする。&nbsp;(Max30％)</div></dd></dl></div></div></span></div><div><span style="color: rgb(0, 0, 0);">
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/6f73185ae232a29cfc0a1c74df0e23302.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/4935070b7217938ee929ad4013b12eb12.png"></div>
+	<div class="discription">
+		<div class="charaName">おもてなしハーモニー</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span><span>【杖】回復スキル効果＋20％&nbsp;(Max20％)</span></dt><dd><div>装備キャラの武器種が杖なら<br>回復スキルの効果量が20％アップする。&nbsp;(Max20％)</div></dd></dl></div></div></span></div><div><span style="color: rgb(0, 0, 0);">
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/0816cda12acaee9d2fc12be5a0aa49222.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/5686b974264a7cd2cec543b235471c832.png"></div>
+	<div class="discription">
+		<div class="charaName">ノーブル・デイ・オフ</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/2283bfde4c6d4470a5d1292dea7e514c2.png"></span><span>閃熱特効＋20％&nbsp;(Max25％)</span></dt><dd><div>「閃熱」状態の敵に与えるダメージが20％アップする。&nbsp;(Max25％)</div></dd></dl></div></div></span></div><div><span style="color: rgb(0, 0, 0);">
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/f559c7f52de258c8ee488902dad297f62.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/2439af36bc03adcbbc19665e4dcc50802.png"></div>
+	<div class="discription">
+		<div class="charaName">ふたりは友達♪</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span><span>【水】バフスキル時間＋25％&nbsp;(Max30％)</span></dt><dd><div>装備キャラが水属性なら<br>装備キャラの使用するバフスキルの効果時間が25％アップする。&nbsp;(Max30％)</div></dd></dl></div></div></span></div><div><span style="color: rgb(0, 0, 0);">
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/241a2aafa18d434e4536c3293a27427c2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/46e32a95b191ace87b5481feb93726652.png"></div>
+	<div class="discription">
+		<div class="charaName">バトラーズスマイル☆</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5b8f1930779d870cb69bf678e6b5c28d2.png"></span><span>劫火特効＋20％&nbsp;(Max25％)</span></dt><dd><div>「劫火」状態の敵に与えるダメージが20％アップする。&nbsp;(Max25％)</div></dd></dl></div></div></span></div><div><span style="color: rgb(0, 0, 0);">
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/6ac91375fd3a264d65bb86b86df318642.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/e5150416da5c3dcbbf1e3b94092affc12.png"></div>
+	<div class="discription">
+		<div class="charaName">ハンド・イン・ハンド</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【風】スキルブースト＋7％&nbsp;(Max15％)</span></dt><dd><div>装備キャラが風属性なら<br>スキルゲージの上昇率が7％アップする。&nbsp;(Max15％)</div></dd></dl></div></div></span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">※最大上限解放時のステータスです。入手時のステータスではありません。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">【注意事項】</span></div><div><span style="color: rgb(0, 0, 0);">本お知らせに掲載されている内容以外の情報は、マイページ内のショップから「竜輝の護符交換所」をご確認ください。</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">今後とも『ドラガリアロスト』をよろしくお願いいたします。</span></div>
+
+start_time:1655704800; update_time1645781033

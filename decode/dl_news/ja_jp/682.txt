@@ -1,0 +1,8 @@
+article_id:682
+category_name:お知らせ
+title_name:召喚にあわせて「10回召喚チケット」をプレゼント！【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1566370800"></span>更新</strong></span></div><div>お知らせの内容に誤りがありましたので、一度取り下げ、修正して再度掲載しました。</div><div><br></div><div>■修正内容</div><div>誤：お贈りしました。</div><div>正：順次お贈りします。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div><hr><div><br></div><div>レジェンド召喚の開催にあわせまして、プレイヤーの皆様へ「10回召喚チケット」を順次お贈りします。</div><div>現在開催中の「Melodious Summer♪ ピックアップ」や、開催予定の「紅き薔薇咲くバレンタイン」にぜひお役立てください！</div><div><br></div><div>■プレゼント内容</div><div>10回召喚チケット 1枚</div><div><br></div><div>■お贈りする対象の方</div><div><span class="local_date" data-local_date="1566367200"></span>までにゲームを開始されたプレイヤーの皆様</div><div><br></div><div>お贈りした10回召喚チケットは、「プレゼント」からお受け取りいただけます。</div><div>10回召喚チケットの受け取り期限は、<span class="local_date" data-local_date="1566971999"></span>です。</div><div><br></div><div>※今回お贈りした10回召喚チケットの使用期限は、受け取ってから30日間です。</div><div>※使用期限が設定されている10回召喚チケットは、使用期限の設定されていない10回召喚チケットよりも先に消費されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1566367200; update_time1569481054

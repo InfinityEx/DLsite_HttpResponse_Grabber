@@ -1,0 +1,8 @@
+article_id:2251
+category_name:お知らせ
+title_name:「アヤハ＆オトハ叛逆戦 絶級」の不具合について
+image_path:
+
+message:<div><span class="local_date" data-local_date="1622462400"></span>ごろに行ったデータ更新で、「アヤハ＆オトハ叛逆戦 絶級」にて発生しておりました下記の不具合を修正いたしました。</div><div><br></div><div>・「アヤハ＆オトハ(人型)」が行う「おはいんなさい」の攻撃にて「アヤハ＆オトハ(人型)」に「火傷」が付与された際、付与された火傷によるダメージが、想定しているダメージと異なる場合がある。</div><div><br></div><div>本不具合の修正に伴い、<span class="local_date" data-local_date="1622462400"></span>までにゲームを開始されたプレイヤーの皆様に、下記アイテムを順次お送りいたします。</div><div><br></div><div>・竜輝晶 300個</div><div><br></div><div>プレイヤーの皆様には、本不具合によりご迷惑をおかけしておりますことをお詫び申し上げます。</div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1622462400; update_time1622596458

@@ -1,0 +1,136 @@
+article_id:870
+category_name:お知らせ
+title_name:レジェンド召喚「ヤバすぎ☆愛の火☆チャリで来た」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1573624800"></span>から、レジェンド召喚「ヤバすぎ☆愛の火☆チャリで来た」を開催中！</div><div><br></div><div>ピックアップ対象のキャラ・ドラゴンの提供割合がアップ中です。</div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 チェルシー：火/弓</div><div>★4 ユーヤ：火/短剣</div><div><br></div><div>■ドラゴン</div><div>★5 カグツチ：火</div><div><br></div><div>※その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><br></div><div>【レジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1573624800"></span> ～ <span class="local_date" data-local_date="1574920740"></span></div><div><br></div><div>新規で追加されるピックアップ対象のキャラ・ドラゴンの一部を、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップキャラ紹介】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2807bd3f15332df630e5c253cbc2523e.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>763</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>495</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>2,498</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>リュカが大好きなフォレスティアの女の子。<br>リュカを「リュカきゅん☆」と呼び慕い、<br>世話を焼こうと付きまとう。理性の歯止めが<br>利かず、思わぬ行動に出ることもしばしば。<br>愛する彼のためならば捨て身も厭わない。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/675c04a4767e3334ef726465460e4be62.png"></span>
+				<span>邪魔者はデリート★</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットに火属性のダメージを与える。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>傷だらけヘヴン☆</span>
+			</dt>
+			<dd>
+				<div>
+					60秒間、【デッド・オア・ラブ★】を発動。この効果中は自身の攻撃力が30％アップし、攻撃する度に自身の最大HPの3％分のダメージを受ける。また、スキル「邪魔者はデリート★」に与えたダメージの5％分のHPを回復する効果が付与される。このバフによる回復効果の最大値はキャラの最大HPの49％となる。【デッド・オア・ラブ★】は竜化時に全て解除される。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EXアビリティ</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>スキルブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のスキルゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8c8841b3f5aa35fb71f07f9075152dba2.png"></span><span>ピンチで攻＆攻撃速度アップⅢ</span></dt><dd><div>HP30％以下のとき、攻撃力が20％、攻撃速度が10％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>気絶耐性＋100％</span></dt><dd><div>「気絶」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/94180caecbefc8ce72737608068138b12.png"></span><span>恋心暴走中★★</span></dt><dd><div>【デッド・オア・ラブ★】バフがかかっている間、攻撃力が30％アップ、防御力が20％ダウンする。</div></dd></dl></div></div></div><div>※最大Lv、マナサークル全解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/05d50f309d88aa776a3082befb290462.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>991</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>ヒノモト南方の火山に生まれ、熱湯に<br>浸かって育った、豪快な壮年火竜。何事も<br>受け止める度量と強靭な体を持っており、<br>如何なる猛攻にも動じない。好物は名物<br>『鶏揚げ』で、よく「食え」と勧めてくる。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>豪炎天焼</span>
+			</dt>
+			<dd>
+				<div>
+					周囲の敵に火属性のダメージを与え、「火傷」状態にする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】攻撃力＋45％</span></dt><dd><div>装備キャラが火属性なら<br>装備キャラの攻撃力が45％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【火】スキルコネクト・攻＋15％</span></dt><dd><div>自分が操作するキャラのスキル1が使用可能になったとき、そのキャラが火属性であれば【10秒間、火属性キャラの攻撃力を15％アップするバフ】が発動。この効果は発動してから15秒間は発動しない。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「提供割合一覧」からご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1573624800; update_time1573439442

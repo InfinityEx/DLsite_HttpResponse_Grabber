@@ -1,0 +1,8 @@
+article_id:261
+category_name:お知らせ
+title_name:ヴォイド討伐戦におけるイベントトップページの誤表記について
+image_path:
+
+message:<div><span class="local_date" data-local_date="1550815200"></span>から開始した「ヴォイド討伐戦」のイベントトップページにて、「デイリーボーナス2倍パック」を購入している場合に、「デイリーボーナスのアイコン」と、「獲得量２倍のアイコン」が表示されてしまう不具合を確認しております。</div><div><br></div><div>本アイコンが表示されている場合でも、ヴォイド討伐戦で獲得できる報酬の量は2倍にはなりません。</div><div>また、ヴォイド討伐戦に「デイリーボーナス」はございません。</div><div><br></div><div>本現象については、現在調査を進めております。</div><div>ご案内できることがございましたら、本お知らせにてご連絡いたします。<br><br><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1550835000"></span> 追記</strong></span><br><span class="local_date" data-local_date="1550835000"></span> に実施したデータ更新にて本現象を修正いたしました。</div><div><br></div><div>ご迷惑をおかけしましたことをお詫び申し上げます。</div>
+
+start_time:1550818200; update_time1550835188

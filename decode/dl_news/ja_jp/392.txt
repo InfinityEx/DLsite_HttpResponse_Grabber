@@ -1,0 +1,167 @@
+article_id:392
+category_name:お知らせ
+title_name:「ドラゴンレジェンド召喚」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1555048800"></span>から、「ドラゴンレジェンド召喚」を開催中！</div><div><br></div><div>ピックアップ対象の★5と★4ドラゴンの提供割合がアップ中です。</div><div>※ドラゴン以外に、★5と★4キャラもピックアップします。</div><div><br></div><div>お知らせ「召喚の仕様変更について」にてご案内している、召喚の仕様変更の実施は、2019年04月26日メンテナンス終了後から開催される召喚より予定しております。<br><span style="color: rgb(184, 49, 47);"><strong>本召喚のピックアップ対象に竜輝の護符は含まれておりませんが、提供内容には含まれております。</strong></span></div><div><br></div><div>【ドラゴンレジェンド召喚の提供割合】</div><div>★5ピックアップ 合計：2.00%（キャラ：0.50%　ドラゴン：1.50%）</div><div>★5通常 合計：2.00%（キャラ：0.50%　ドラゴン：1.00%　竜輝の護符：0.50%）</div><div>★4ピックアップ 合計：7.00%（キャラ：1.87%　ドラゴン：5.12%）</div><div>★4通常 合計：9.00%（キャラ：3.07%　ドラゴン：3.95%　竜輝の護符：1.97%）</div><div>★3通常 合計：80.00%（キャラ：33.75%　ドラゴン：28.50%　竜輝の護符：17.75%）</div><div>※表示上小数点第3位にて切り捨てしているため、すべてを合算しても100%にならない場合があります。</div><div><br></div><div>【ドラゴンレジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1555048800"></span> ～ <span class="local_date" data-local_date="1555567140"></span></div><div><br></div><div>ピックアップ対象のドラゴンの一部を、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/59cf7e0fd5ea79a196201bb879cf6f42.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>古より大海の底で眠り続けていたもの。<br>その存在は災いをもたらす竜として、<br>現在も語り継がれている。しかし、<br>伝説とは裏腹に、実際の性格は紳士的。<br>己の大きすぎる力を忌んでいる。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0d671ee9f1118cae073adf924e4165c92.png"></span>
+				<span>メイルストルム・ストリーム</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に水属性のダメージを与え<br>「ずぶぬれ」状態にする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【水】攻撃力＋60％</span></dt><dd><div>装備キャラが水属性なら<br>装備キャラの攻撃力が60％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ceafd06fb6da5f96388a8d714f091284.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>377</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>119</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>恋に悩めるみんなの味方。<br>らぶとハッピーをこよなく愛し、<br>それらを人々に与える。<br>まだ幼く、純粋無垢。<br>愛を持つ全ての者に友好的に接する。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>らぶりぃぽーず</span>
+			</dt>
+			<dd>
+				<div>
+					味方全員のHPを回復する。また、15秒間、パーティ<br>全員のクリティカル率を25％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻撃力＋60％</span></dt><dd><div>装備キャラが光属性なら<br>装備キャラの攻撃力が60％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/15642dfecf04b152031479f9d3a7cf05.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>383</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>114</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>997</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>とある村で、守り神として崇められていた<br>ドラゴン。高慢で素直になれない性格だが、<br>内心では人々と打ち解けることを望んで<br>いる。感情的になることもしばしばだが、<br>根は心優しく、責任感が強い。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>ブロウンキッス</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に風属性のダメージを与え<br>自身のHPを回復する。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【風】HP＋60％</span></dt><dd><div>装備キャラが風属性なら<br>装備キャラのHPが60％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>そのほかのピックアップ対象のキャラ・ドラゴンは下記のとおりです。</div><div>キャラ：★5ザインフラッド、★4セイナー<br>ドラゴン：★4ポリアフ、★4フォーゲル、★4リンドヴルム</div><div>&nbsp;</div><div>【注意事項】<br>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. その他のピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「召喚情報」タブ、または、「提供割合」内の「提供割合一覧」からご確認ください。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1555048800; update_time1555035275

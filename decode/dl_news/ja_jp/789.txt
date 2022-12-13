@@ -1,0 +1,8 @@
+article_id:789
+category_name:イベント
+title_name:すべての「真ドラゴンの試練」に新たな難易度「上級」「超級」の追加が決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/d833c61854cd87c8f53ca3b25340df94.png
+
+message:<div><span class="local_date" data-local_date="1570773600"></span>から、すべての「真ドラゴンの試練」に新たな難易度「上級」を追加します！</div><div>また、<span class="local_date" data-local_date="1571032800"></span>からは、さらなる高難易度「超級」を順次追加します！</div><div>※これまでの各「真ドラゴンの試練」のクエストは、難易度「中級」となります。</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/d833c61854cd87c8f53ca3b25340df94.png"></div><div><br></div><div>【注意事項】</div><div>1. 各属性の「真ドラゴンの試練 上級」に挑戦するには、パーティの戦力が20000以上である必要があります。</div><div>2. 各属性の「真ドラゴンの試練 超級」に挑戦するには、パーティの戦力が24000以上である必要があります。</div><div>3. 各属性の「真ドラゴンの試練 上級・超級」に挑戦するには、該当の属性の「真ドラゴンの試練 中級」をクリアする必要があります。</div><div>例：「真ミドガルズオルムの試練 上級」に挑戦するには、「真ミドガルズオルムの試練 中級」をクリアする必要があります。</div><div>4. マルチプレイ参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1570428000; update_time1570160309

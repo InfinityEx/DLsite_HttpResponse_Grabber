@@ -1,0 +1,8 @@
+article_id:155
+category_name:お知らせ
+title_name:年末感謝ログインボーナス開催！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1545026400"></span>から、「年末感謝ログインボーナス」を開催中！</div><div>&nbsp;<img src="https://dragalialost.akamaized.net/attached/information/images/584d2a0c63cc4eb9dc6c87aeb0a935fb.png"></div><div><span class="local_date" data-local_date="1546322399"></span>までの期間中、ログインするたびに竜輝晶を毎日100個ずつプレゼント！</div><div>最大15日間で竜輝晶1500個をプレゼントいたします。</div><div>詳細は下記のとおりです。</div><div><br></div><div>■開催期間</div><div>・前半</div><div><span class="local_date" data-local_date="1545026400"></span> ～ <span class="local_date" data-local_date="1545631199"></span></div><div>・後半</div><div><span class="local_date" data-local_date="1545631200"></span> ～ <span class="local_date" data-local_date="1546322399"></span></div><div><br></div><div>■注意事項</div><div>1. ログインボーナスは、毎日15:00以降にゲームにログインした際に、プレゼントに送られます。</div><div>2. ログインボーナスとして送られたプレゼントには、受け取り期限があります。</div><div>3. 「年末感謝ログインボーナス」の内容および開催期間は、予告なく変更する場合があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1545026400; update_time1547531410

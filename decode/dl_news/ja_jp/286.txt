@@ -1,0 +1,8 @@
+article_id:286
+category_name:イベント
+title_name:施設イベント「コール・オブ・ビブリア」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1552370400"></span>から、施設イベント「コール・オブ・ビブリア」の開催を予定しております。<br>光属性のボスと戦い、イベント限定の施設を報酬として獲得し、建設できるイベントです。</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/06a249186ed0d4573b042bf3cd1903fb.png"></div><div>ある日、ひとつの村からすべての住人が忽然と消えた。<br>その事件の謎を追って、王子たちは封印された<br>禁忌の図書館を解き放つことに&hellip;&hellip;。<br>しかしそれは、さらなる事件の始まりだった。<br>名状しがたき狂気の園に足を踏み入れた時、<br>彼らの足元に、混沌が這い寄る。<br>謎と恐怖に包まれた図書館で、真実は誰の手に&hellip;&hellip;。<br><br>■イベント期間<br><span class="local_date" data-local_date="1552370400"></span> ～ <span class="local_date" data-local_date="1553061599"></span><br><br>■注意事項<br>1. イベントクエスト参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。<br>2. マルチプレイ参加には、メインストーリー2章 2-1(Normal)をクリアする必要があります。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1552024800; update_time1552021452

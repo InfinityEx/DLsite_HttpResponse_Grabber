@@ -1,0 +1,8 @@
+article_id:2703
+category_name:お知らせ
+title_name:「お正月ログインボーナス」開催決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/6498fc0479a0ffd8f58752f259a647ab.png
+
+message:<div><span class="local_date" data-local_date="1641016800"></span>から、「お正月ログインボーナス」を開催します！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/6498fc0479a0ffd8f58752f259a647ab.png"></div><div><br></div><div>開催期間中、ログインした日数に応じて、アイテムや竜輝晶をプレゼントいたします！</div><div><br></div><div>■ログインボーナスの内容</div><div>1日目 ルピ&times;5,000,000</div><div>2日目 最高級はちみつ&times;20</div><div>3日目 プラチナクリスタル&times;1</div><div>4日目 ルピ&times;5,000,000</div><div>5日目 10回召喚チケット&times;1</div><div>6日目 虹のオーブ&times;50</div><div>7日目 ルピ&times;5,000,000</div><div>8日目 竜輝晶&times;400</div><div>9日目 ルピ&times;5,000,000</div><div>10日目 英雄の証&times;2</div><div><br></div><div>■開催期間</div><div><span class="local_date" data-local_date="1641016800"></span> ～ <span class="local_date" data-local_date="1642053599"></span>まで</div><div><br></div><div>■注意事項</div><div>1. ログインボーナスは、毎日15:00以降にゲームにログインした際、プレゼントに贈られます。</div><div>2. ログインボーナスとして贈られたプレゼントには、受け取り期限があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1640325600; update_time1640059928

@@ -1,0 +1,8 @@
+article_id:2948
+category_name:お知らせ
+title_name:メインストーリーに第24章「原初の力」後半の追加が決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/a3ebdb02b29b9b388df70076e62d7ad1.png
+
+message:<div><span class="local_date" data-local_date="1647496800"></span>から、メインストーリーに第24章「原初の力」後半の追加が決定しました！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a3ebdb02b29b9b388df70076e62d7ad1.png"></div><div><br></div><div>最新章をご期待ください！</div><div><br></div><div>■注意事項</div><div>メインストーリー第24章「原初の力」後半は、メインストーリー第24章 4-2「共に在る」をクリアすると解放されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1646978400; update_time1646885287

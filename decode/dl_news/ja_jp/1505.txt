@@ -1,0 +1,170 @@
+article_id:1505
+category_name:お知らせ
+title_name:「ドラゴンレジェンド召喚」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1597644000"></span>から、「ドラゴンレジェンド召喚」を開催中！</div><div><br></div><div>ピックアップ対象の★5と★4ドラゴンの提供割合がアップ中です。</div><div><br></div><div>【ドラゴンレジェンド召喚の提供割合】</div><div>★5ピックアップ 合計：2.40％（キャラ：0％ ドラゴン：2.40％）</div><div>★5通常 合計：1.60％（キャラ：0.75％ ドラゴン：0.85％）</div><div>★4ピックアップ 合計：7.00％（キャラ：0％ ドラゴン：7.00％）</div><div>★4通常 合計：9.00％（キャラ：5.05％ ドラゴン：3.95％）</div><div>★3通常 合計：80.00％（キャラ：48.00％ ドラゴン：32.00％）</div><div><br></div><div>【ドラゴンレジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1597644000"></span> ～ <span class="local_date" data-local_date="1598680799"></span></div><div><br></div><div>ピックアップ対象のドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップドラゴン紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a80b8acd6a6e4f34729ca37e77c35b66.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>1,095</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>絶世の美貌の持ち主と謳われるドラゴン。<br>その一方で怒ると羅刹のような苛烈さで<br>他者を圧倒するため『羅刹女』の異名を<br>持つ。ギュウマオウの良き妻であるが、<br>彼を尻に敷いているとの噂が絶えない。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/57f18d2e432da8a397d116511dfca4132.png"></span>
+				<span>芭蕉扇檄</span>
+			</dt>
+			<dd>
+				<div>
+					直線上の敵に光属性のダメージを与え、パーティ全員を【超やる気】にする。【超やる気】は適用スキル使用時に解除される。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>【光】HP＋30％</span></dt><dd><div>装備キャラが光属性なら<br>装備キャラのHPが30％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>【光】スキルブースト＋35％</span></dt><dd><div>装備キャラが光属性なら<br>スキルゲージの上昇率が35％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/566adbeaa3e1832c90e1022d815e2333.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>1,095</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>くいしんぼうドラゴン。<br>はらぺこになると拗ねて暴れだすので注意。<br>好きなものは最後に食べる派。<br>最近のマイブームはフレッシュなフルーツと<br>ふわふわパンケーキ。うんまい。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>うんまいふわふわ</span>
+			</dt>
+			<dd>
+				<div>
+					自身のHPを回復する。さらに竜化ゲージを20％上昇し、竜化時間を5秒間延長する。竜化時間の延長は最大値を超えては行われない。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【水】攻撃力＆会心威力アップⅤ</span></dt><dd><div>装備キャラが水属性なら<br>装備キャラの攻撃力が45％、クリティカル時のダメージ倍率が55％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/df345ee8cb2a25f7557e0b48dd6719d5.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+				<span>1,096</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>闇に潜み、影に生きるドラゴン。硬い鱗を<br>鎖帷子のように纏い、独自の術を駆使して<br>敵を討つ。人間が彼に教えを請い、戦術を<br>会得したことが、ヒノモトにおける忍者の<br>始まりだと伝えられている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5347ab03287b73332172842f38879f5a2.png"></span>
+				<span>忍法・影身手裏剣</span>
+			</dt>
+			<dd>
+				<div>
+					ターゲットとその周囲の敵に闇属性のダメージを与え、パーティ全員を【超やる気】にする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【闇】攻撃力＋20％</span></dt><dd><div>装備キャラが闇属性なら<br>装備キャラの攻撃力が20％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>【闇】スキルダメージ＋90％</span></dt><dd><div>装備キャラが闇属性なら<br>装備キャラの攻撃スキルのダメージが90％アップする。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>その他のピックアップ対象のドラゴンは下記のとおりです。</div><div>★4ドラゴン：ポリアフ、リンドヴルム、ジャガーノート</div><div><br></div><div>【注意事項】</div><div>召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1597644000; update_time1597223887

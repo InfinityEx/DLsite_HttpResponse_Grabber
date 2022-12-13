@@ -1,0 +1,8 @@
+article_id:1462
+category_name:お知らせ
+title_name:メインストーリー第14章「動乱の王都」に新たなストーリーを追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/3d8b5b5ec2403d8fa5197571876534fb.png
+
+message:<div><span class="local_date" data-local_date="1595224800"></span>からメインストーリー第14章「動乱の王都」に、新たなストーリーを追加しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/3d8b5b5ec2403d8fa5197571876534fb.png"></div><div><br></div><div>ゼシアを託され王城から脱出したエルフィリス。だが、突如として現れた謎の男に、ゼシアを奪われてしまう。</div><div>王子たちが戦いを繰り広げる裏で、聖騎士が犯した過ちとは――。</div><div><br></div><div>新たなストーリーをお楽しみください！</div><div><br></div><div>■注意事項</div><div>・メインストーリー第14章「動乱の王都」に追加される新たなストーリーは、メインストーリー第14章 4-9「月の浮かぶ夜に」をクリアすると解放されます。</div><div>・新たに追加されるストーリーは、フルボイスではなく一部のボイスのみが再生されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1595224800; update_time1595222083

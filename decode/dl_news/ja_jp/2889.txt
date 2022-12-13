@@ -1,0 +1,8 @@
+article_id:2889
+category_name:お知らせ
+title_name:「カレイドラビリンス」のフロアを移動した際にエラーが発生しタイトル画面に戻される現象について【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1645686000"></span>追記】</strong></span><br><span class="local_date" data-local_date="1645668000"></span>ごろから発生しておりました本現象は、現在解消しております。<br><br>プレイヤーの皆様には、ご迷惑をおかけしましたことを重ねてお詫び申し上げます。</div><div><br></div><hr><div><span class="local_date" data-local_date="1645668000"></span>ごろから、「カレイドラビリンス」にてフロアを移動をした際に「サポートコード：99999」が表示され、タイトルに戻される場合があることを確認しております。<br>※本現象が発生後にダンジョンを再開すると、直前にクリアしたフロアのスタート地点から再開されます。<br><br>本現象についてご案内できることがございましたら、本お知らせにてご連絡いたします。<br><br>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div>
+
+start_time:1645674000; update_time1645687346

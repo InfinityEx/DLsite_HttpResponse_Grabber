@@ -1,0 +1,8 @@
+article_id:1237
+category_name:イベント
+title_name:ヴォイド討伐戦に「テンペストキマイラ」が登場！
+image_path:https://dragalialost.akamaized.net/attached/information/images/2cb72ec03f8d5e2eaebacbc1567b54dd.png
+
+message:<div><span class="local_date" data-local_date="1587362400"></span>から、「ヴォイド討伐戦」に「テンペストキマイラ」が登場！</div><div>「テンペストキマイラ」から獲得できる素材アイテムでクラフトできる武器もあわせて追加します。</div><div><br></div><div>吼え猛る烈風。狂おしき颶風。</div><div>吹き荒ぶ風は『黒いマナ』に染まった。</div><div>それは暴力的な、あまりにも暴力的な意志の現れ。</div><div>のわき。やませ。つむじ。こがらし。</div><div>すべてを呑み込んで、螺合の獣は咆哮する――！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/03b34ded64e7a935b6ce7516d0e12efc.png"></div><div>テンペストキマイラ(風) 必要戦力：13,000</div><div><br></div><div>■「テンペストキマイラ」から獲得できる素材アイテムでクラフトできる武器の追加</div><div><span class="local_date" data-local_date="1587362400"></span>から、「ヴォイドシリーズ」の強力な武器を「クラフト」に追加します。</div><div>「テンペストキマイラ」から獲得できる素材アイテムでクラフトできる武器の生産は、特定の武器を入手したことがある場合に解放されます。</div><div>解放条件となる武器は、「マンティコア・エンヴィ」から獲得できる素材アイテムでクラフトできる風属性の★5武器です。</div><div><br></div><div>解放条件となる武器は、生産する武器の武器種によって異なり、「クラフト」の「生産」内にある「テンペストキマイラ」の各武器の「素材確認」から確認できます。</div><div>※「テンペストキマイラ」から獲得できる素材アイテムでクラフトできる武器は分解することができません。</div><div><br></div><div>【注意事項】</div><div>ヴォイド討伐戦参加には、メインストーリー7章 5-6(Normal)をクリアする必要があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div>
+
+start_time:1587016800; update_time1586858756

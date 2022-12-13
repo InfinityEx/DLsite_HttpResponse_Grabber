@@ -1,0 +1,196 @@
+article_id:3229
+category_name:お知らせ
+title_name:闇属性★5キャラ確定！「プラチナレジェンド召喚」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1663653600"></span>から、「プラチナレジェンド召喚」を開催中！</div><div><br></div><div>「プラチナレジェンド召喚」では、「10回召喚」の10枠目で、闇属性の★5キャラが確定で出現します。</div><div><span style="color: rgb(226, 80, 65);">※本召喚の提供内容に、闇属性以外のキャラ・ドラゴンは含まれません。</span></div><div>本召喚は、期間中に「10回召喚」を2回までご利用いただけます。</div><div>また、本召喚は「ドラゴンダイヤ」でのみご利用いただけます。</div><div><br></div><div>【プラチナレジェンド召喚 開催期間】</div><div><span class="local_date" data-local_date="1663653600"></span> ～ <span class="local_date" data-local_date="1664431199"></span></div><div><br></div><div>「プラチナレジェンド召喚」の10枠目に確定で出現する、対象の闇属性★5キャラの一部を、下記にてご紹介いたします。</div><div><br></div><div>【10枠目確定対象闇属性★5キャラ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/0537f89c8a9508ca0589c43324458411.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,498</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>使用可能モード</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/4805e47916f093eb2b9049cff29e9eb72.png"><img src="https://dragalialost.akamaized.net/attached/information/images/0ea47b25dd52e83055f02a3ca4d545522.png"><img src="https://dragalialost.akamaized.net/attached/information/images/c10d099648b4bc58a4f2bde4fe0dfd752.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>人の姿に変化した闇竜ゾディアーク。<br>愛とは何かを見つめ直すため、<br>人の営みをより間近で観察することにした。<br>姿は変われど無償の愛は健在で、人々の<br>ありのままをすべて受け入れる。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/463fc5ea424ca929ee125304b38e1bd72.png"></span>
+				<span>ヘイトクラスター</span>
+			</dt>
+			<dd><div>自身に【マリスマーレ】を3つ付与する。<br>この効果中、通常攻撃に3段目が追加される。<br>この攻撃をヒットさせるとバフを1つ解除し、敵の至近距離でヒットさせた場合はさらに【怨念】を付与する。<br>【怨念】は最大Lv5までレベルアップする。<br>【マリスマーレ】は通常攻撃の3段目を使用するたびに1つ解除される。</div><div class="skill-detail">必要スキルポイント：4,329<br>特殊効果<br>・マリスマーレ<br>　重複上限：3<br>・怨念Lv1<br>　効果時間：10 秒<br>・怨念Lv2<br>　効果時間：10 秒<br>・怨念Lv3<br>　効果時間：10 秒<br>・怨念Lv4<br>　効果時間：15 秒<br>・怨念Lv5<br>　効果時間：20 秒</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a3661c9bf88bcc1418c169b6451357fb2.png"></span>
+				<span>死の奔流</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>周囲の敵にダメージを与え、「暗黒」状態にする。<br>敵に【怨念】が付与されている場合、そのレベルに応じて防御力を無視した追加ダメージを与える。</div><div class="skill-detail">威力：1,500 × 1 Hit<br>（怨念Lv1）<br>威力：300 × 1 Hit<br>（怨念Lv2）<br>威力：600 × 1 Hit<br>（怨念Lv3）<br>威力：900 × 1 Hit<br>（怨念Lv4）<br>威力：1,200 × 1 Hit<br>（怨念Lv5）<br>威力：1,500 × 1 Hit<br>必要スキルポイント：9,072<br>必要シェアスキルポイント：7,348<br>特殊効果<br>・暗黒<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：31</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>ゲージブレイク＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のモードゲージの減少量が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span>
+				<span>【闇】士気：攻勢士気・暗闇耐性＋100％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが闇属性なら攻撃力アップのバーストオーラが付与されているとき、「暗闇」状態になる確率が100％ダウンする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/2556d0d8a3f335b515df8014f55973332.png"></span><span>闇竜発現Ⅱ</span></dt><dd><div>・「呪い」状態になる確率が100％ダウンする。<br>・装備しているドラゴンに関わらずゾディアークに竜化する。1クエスト中に2回以上竜化した場合は真ゾディアークに竜化する。<br>・【怨念】が付与されている敵に与えるダメージが15％アップする。<br>・スキル1、スキル2を使用したとき、自身に攻撃力アップのオーラ（バーストオーラ上限Lv1）を付与する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痺耐性＋100％</span></dt><dd><div>「麻痺」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3c1105a9ca11c4e91051d5218bc3f2802.png"></span><span>サテライトカウンターⅡ</span></dt><dd><div>ダメージを受けたとき、自身の竜化ゲージが10％アップする。<br>1クエスト中に1回以上竜化していた場合、さらにダメージを受けた地点にダークネスサテライトを設置する。<br>ダークネスサテライトは3秒後に爆発し、周囲の敵にダメージを与え、【怨念】を付与する。<br>これらの効果はそれぞれ発動してから15秒間は発動しない。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※元のスキルとシェアスキルでは、一部の効果が異なる場合があります。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2fbba84429c5e01e7723203b8fcd3525.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,498</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>使用可能モード</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/6312b216795ce6aa08c57851351eeb1b2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/d45c68ecb3b1d88cba2136c949f214772.png"><img src="https://dragalialost.akamaized.net/attached/information/images/c10d099648b4bc58a4f2bde4fe0dfd752.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>大胆セクシー水着に着替えた緋竜。<br>大人の魅力と色気が増した結果、<br>闇のマナが活性化したような気がするとか<br>しないとか。シェスから贈られた銃を<br>片手に王子のハートを狙い撃つ（予定）。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3cc7e63555e75a6121c412637b8b12272.png"></span>
+				<span>トワイライトメモリー</span>
+			</dt>
+			<dd><div>通常時<br>・周囲の敵にダメージを与え、「暗黒」状態にし、防御力をダウンさせる。<br>・攻撃がヒットした場合、自身のエンハンスゲージをチャージする。<br>エンハンスモード時<br>・周囲の敵にダメージを与え、「暗黒」状態にし、防御力をダウンさせる。<br>・自身に【通常攻撃強化】バフを付与。このバフは効果時間の経過かエンハンスモードの解除によって解除される。<br>・スキル発動時にエンハンスゲージを消費し、再度発動可能にする。</div><div class="skill-detail">威力：513 × 2 Hit<br>必要スキルポイント：3,950<br>特殊効果<br>・防御力5％ダウン<br>　効果時間：10 秒<br>　重複不可<br>・暗黒<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41<br>エンハンスゲージ回復量：300<br><br>（エンハンスモード時）<br>威力：624 × 2 Hit<br>必要スキルポイント：3,950<br>特殊効果<br>・防御力5％ダウン<br>　効果時間：10 秒<br>　重複不可<br>・通常攻撃強化<br>　効果時間：10 秒<br>　重複不可<br>・暗黒<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41<br>エンハンスゲージ消費量：850</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7bd001c2146691a592e7e2b4a13d5ca62.png"></span>
+				<span>サマーナイトバレット</span>
+			</dt>
+			<dd><div>直線上の敵にダメージを与え、自身に攻撃力アップのオーラを付与する。</div><div class="skill-detail">威力：1,767 × 1 Hit<br>必要スキルポイント：9,855<br>オーラ付与<br>・攻撃力アップ（バーストオーラ上限Lv 3）<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>ゲージブレイク＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のモードゲージの減少量が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>【闇】竜化：竜化ブースト＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが闇属性なら竜化ゲージ上昇率が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bb78ae882a78ef4449c1181d5399204b2.png"></span><span>真夏の恋心Ⅱ</span></dt><dd><div>エンハンスゲージが追加され、竜化ボタンがエンハンスボタンに変化する。<br>エンハンスモード中は以下の効果を得る。<br>・通常攻撃が変化し、ヒットするとエンハンスゲージがチャージされるようになる。<br>・攻撃力が25％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>麻痺耐性＋100％</span></dt><dd><div>「麻痺」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>開幕スキルゲージ＋100％</span></dt><dd><div>クエスト開始時のスキルゲージが100％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>【注意事項】</div><div>1. 「プラチナレジェンド召喚」についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「プラチナレジェンド召喚」の「提供割合」や「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. 「プラチナレジェンド召喚」開催中も、「レジェンド召喚」は開催中です。召喚画面タイトル部分の「&lt;」「&gt;」アイコンをタップすると、各召喚の画面に移動できます。</div><div>3. 「レジェンド召喚」にて、10回連続で★5が出現しなかったことにより上昇した提供割合は、「プラチナレジェンド召喚」をご利用いただいても、リセットされません。</div><div>4. その他の注意事項は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブから「注意事項」をご確認ください。</div><div>5. 「プラチナレジェンド召喚」では「竜輝の印」を獲得できません。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1663653600; update_time1647956264

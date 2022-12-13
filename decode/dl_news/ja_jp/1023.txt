@@ -1,0 +1,8 @@
+article_id:1023
+category_name:お知らせ
+title_name:メインストーリー第11章「哀しき戦闘人形」に新たなストーリーの追加が決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/3d671dd15a2493f53943835b0fb4b736.png
+
+message:<div><span class="local_date" data-local_date="1579759200"></span>からメインストーリー第11章「哀しき戦闘人形」に、新たなストーリーの追加が決定しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/3d671dd15a2493f53943835b0fb4b736.png"></div><div><br></div><div>新たなストーリーをご期待ください！</div><div><br></div><div>■注意事項</div><div>・メインストーリー第11章「哀しき戦闘人形」に追加される新たなストーリーは、メインストーリー第11章 6-3「ふたりの『心』」をクリアすると解放されます。</div><div>・新たに追加されるストーリーは、フルボイスではなく一部のボイスのみが再生されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1579586400; update_time1579231771

@@ -1,0 +1,8 @@
+article_id:223
+category_name:お知らせ
+title_name:日頃の応援への感謝の気持ちを込めたプレゼント！
+image_path:
+
+message:<div>先週末に開催された「闘会議2019」と「台北ゲームショウ2019(2019 台北國際電玩展)」にて、ドラガリブースへたくさんの応援をありがとうございました。</div><div><br></div><div>日頃から応援してくださるプレイヤーの皆様への感謝の気持ちとして、下記のプレゼントをお贈りいたしました。</div><div>これからの冒険にぜひお役立てください！</div><div><br></div><div>■プレゼント内容</div><div>竜輝晶 1500個</div><div><br></div><div>■お贈りする対象の方</div><div><span class="local_date" data-local_date="1548658800"></span>までにゲームを開始されたプレイヤーの皆様。</div><div><br></div><div><span class="local_date" data-local_date="1549263599"></span>までにゲームにログインした際に受け取れます。</div><div>受け取り期限は、プレゼントにアイテムが送られてから7日間です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1548658800; update_time1548667254

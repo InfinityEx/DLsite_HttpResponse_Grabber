@@ -1,0 +1,8 @@
+article_id:1921
+category_name:お知らせ
+title_name:メインストーリー第17章「聖都グラムス」に新たなストーリーを追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/98b3e5d97e4da21c52a19f7e5ba8eb84.png
+
+message:<div><span class="local_date" data-local_date="1610949600"></span>から、メインストーリー第17章「聖都グラムス」に新たなストーリーを追加しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/98b3e5d97e4da21c52a19f7e5ba8eb84.png"></div><div><br></div><div>とある廃教会にて、使徒ネヴィンと天使サンダルフォンが情報交換を行う。</div><div>ネヴィンは、教会内部に保管されていた封印石が消えた事件について、自身の推理を披露し始める――。</div><div><br></div><div>新たなストーリーをお楽しみください！</div><div><br></div><div>■注意事項</div><div>・メインストーリー第17章「聖都グラムス」に追加される新たなストーリーは、メインストーリー第17章 5-4「妖精たちの場所」をクリアすると解放されます。</div><div>・新たに追加されるストーリーは、フルボイスではなく一部のボイスのみが再生されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1610949600; update_time1610589018

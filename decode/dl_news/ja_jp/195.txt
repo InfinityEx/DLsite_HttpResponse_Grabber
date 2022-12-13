@@ -1,0 +1,82 @@
+article_id:195
+category_name:お知らせ
+title_name:「ドラガリアフェス」開催中！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1547100000"></span>から、「ドラガリアフェス」を開催中です！</div><div><br></div><div>【ドラガリアフェスとは】</div><div>・★5のキャラ、ドラゴン、竜輝の護符の提供割合の初期値が、通常時の4%から6%にアップします！</div><div>・ドラガリアフェス開催期間中のみ出現する期間限定キャラ「ドラフェスVer.」が追加されます！</div><div><br></div><div>【ドラガリアフェス開催期間】</div><div><span class="local_date" data-local_date="1547100000"></span> ～ <span class="local_date" data-local_date="1547531940"></span></div><div><br></div><div>【ドラガリアフェスの提供割合】</div><div>★5 合計：6.00%</div><div>★5ピックアップ 合計：0.50%（キャラ：0.50%）</div><div>★5通常 合計：5.50%（キャラ：1.00%　ドラゴン：1.50%　竜輝の護符：3.00%）</div><div>★4通常 合計：16.00%（キャラ：4.82%　ドラゴン：3.72%　竜輝の護符：7.45%）</div><div>★3通常 合計：78.00%（キャラ：33.25%　ドラゴン：17.25%　竜輝の護符：27.50%）</div><div>※表示上小数点第3位にて切り捨てしているため、すべてを合算しても100%にならない場合があります。</div><div><br></div><div>ピックアップ対象の「ドラフェスVer.」キャラを、下記にてご紹介いたします。</div><div><br></div><div>【ドラフェスVer.キャラ紹介】</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/210ea92fcf6f165a8d8a3545c9fa8dc9.png"></div>
+<div class="status">
+	<div class="title">ステータス</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>80</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/960c7daac545c22ad02e9e69f39f670e2.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>843</span>
+				</li>
+				<li class="atk">
+					<span>攻撃力</span>
+					<span>485</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+			<span>2568</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">キャラ詳細</div>
+			<div class="param">
+				<ul>
+					<li>リュカの妹。フォレスティアの弓使い。<br>実力は兄に負けない。気が強いおてんば娘で<br>必殺技はボディーブロー。よくリュカが<br>その餌食となる。みんなの役に立ちたいと、<br>集落を出て魔獣退治を始めた。</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b33341fc65d15df0dddf43902ed4cf212.png"></span>
+				<span>ブライトチェイサー</span>
+			</dt>
+			<dd>
+				<div>
+					前方の敵に火属性のダメージを与える。攻撃時、自身にかかっているバフの数に応じた【追尾弾】を追加で発射する。【追尾弾】は最大7発まで追加される。
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2b2bc8b0c47c3d2efa57f9e51de8aff02.png"></span>
+				<span>チアフルアシスト</span>
+			</dt>
+			<dd>
+				<div>
+					10秒間、パーティ全員の攻撃力を20％アップする。<br>効果発動後、スキル内容は【15秒間、パーティ全員の防御力を20％アップ】に変化する。スキル内容は変化後のスキルを使用すると元に戻る。
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">EXアビリティ</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>スキルブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のスキルゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>ビビッドテンションⅡ</span></dt><dd><div>攻撃が20ヒットするたびに【15秒間攻撃力が2％アップするバフ】と【15秒間クリティカル率が1％アップするバフ】が発動する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea4c47784ca6465117276eb2a3d9a0d92.png"></span><span>森陽の祝福Ⅱ</span></dt><dd><div>「気絶」、「睡眠」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span><span>バフスキル時間＋30％</span></dt><dd><div>使用するバフスキルの効果時間が30％アップする。</div></dd></dl></div></div></div><div>※最大Lv、マナサークル全解放時のステータスです。入手時のステータスではありません。</div><div>※同じ名前を持つキャラは、同一パーティ内に編成することができませんのでご注意ください。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. ピックアップは、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「召喚情報」タブ、または、「提供割合」内の「提供割合一覧」からご確認ください。</div><div>3. 開催期間および内容は、予告なく変更する場合があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1547100000; update_time1547532377

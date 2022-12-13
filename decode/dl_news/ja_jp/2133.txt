@@ -1,0 +1,8 @@
+article_id:2133
+category_name:お知らせ
+title_name:メインストーリーに第19章「秘せられし真実」前半の追加が決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/5e8b82e99b6bb1241c70bed8081f4406.png
+
+message:<div><span class="local_date" data-local_date="1619071200"></span>から、メインストーリーに第19章「秘せられし真実」前半の追加が決定しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/5e8b82e99b6bb1241c70bed8081f4406.png"></div><div><br></div><div>また、メインストーリー第19章「秘せられし真実」の予告PVを公開いたしました。</div><div>下記のページからご覧ください。</div><div><br></div><div>▼『ドラガリアロスト』公式YouTube Channel メインストーリー第19章「秘せられし真実」予告PV</div><div><a href="https://youtu.be/N58Yy0yB-i4">https://youtu.be/N58Yy0yB-i4</a></div><div><br></div><div>最新章をご期待ください！</div><div><br></div><div>■注意事項</div><div>メインストーリー第19章「秘せられし真実」前半は、メインストーリー第18章 5-3「未来の力を抱いて」をクリアすると解放されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1618898400; update_time1618552526

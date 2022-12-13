@@ -1,0 +1,8 @@
+article_id:2373
+category_name:お知らせ
+title_name:「聖城ワンダフルデイ！」のステージが砂浜に！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1627538400"></span>から、「聖城ワンダフルデイ！」のステージが砂浜になります！</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/2d6f754c55e8fe65c40101707b6bcd54.png"></div><div><br></div><div>犬とさんぽができるクエスト「わんことさんぽ」のステージが</div><div>期間限定で森から砂浜に変更になります。</div><div>砂浜でもいろんなキャラやドラゴンで犬と遊んで</div><div>お気に入りの場面をスクリーンショットに収めましょう！</div><div>クエスト内の光の円の中に入るとクエストクリアです。</div><div><br></div><div>■開催期間</div><div><span class="local_date" data-local_date="1627538400"></span> ～ <span class="local_date" data-local_date="1632722399"></span></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/c72a72f08059f6ba7fb461b05f57ee2b.png"></div><div><br></div><div>【注意事項】</div><div>1.ステージが砂浜に変更になる以外の変更点はございません。</div><div>2. 「聖城ワンダフルデイ！」参加には、メインストーリー第2章 2-1(Normal)をクリアする必要があります。</div><div>3. クエスト「わんことさんぽ」をプレイするには、マイページの「クエスト」から定常イベントの「聖城ワンダフルデイ！」をタップしてください。</div><div>4. 「ドッグフード」は、ドラゴンに使用することはできません。</div><div>5. ミッションは、マイページの「ミッション」をタップし、「ノーマルミッション」タブからご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1627538400; update_time1626838092

@@ -1,0 +1,154 @@
+article_id:2246
+category_name:お知らせ
+title_name:「プライズレジェンド召喚」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1622700000"></span>から、「プライズレジェンド召喚」の開催を予定しております。</div><div>「プライズレジェンド召喚」では、ピックアップ対象のキャラ・ドラゴンの提供割合がアップします。</div><div><br></div><div>「プライズレジェンド召喚」を行うと、召喚で出現するキャラ・ドラゴンに加えて「プライズ」も獲得できます。</div><div>プライズはプラチナ賞、金賞、銀賞、銅賞、5等、6等の6種類があります。</div><div>「10回召喚」を行った場合の10回目のプライズは、プラチナ賞、金賞、銀賞、銅賞のいずれかが確定で獲得できます。</div><div><span style="color: rgb(226, 80, 65);">獲得したプライズは、プレゼントの「期限なし」に送られます。</span></div><div><br></div><div>※召喚チケットを1度に10枚使用しても、「10回召喚」とは異なり、10回目のプライズで、プラチナ賞、金賞、銀賞、銅賞のいずれかが確定で獲得できるわけではありません。</div><div>※プライズの一覧と提供割合は「プライズレジェンド召喚」開催中に、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「プライズ」からご確認ください。</div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 イスハーク：光/弓</div><div><br></div><div>■ドラゴン</div><div>★5 ラファエル：光</div><div><br></div><div>【プライズレジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1622700000"></span> ～ <span class="local_date" data-local_date="1623736799"></span></div><div><br></div><div>プライズの一部を、下記にてご紹介いたします。</div><div><br></div><div>【プライズ一覧の一部】</div><div>■プラチナ賞</div><div>プラチナ賞が排出された場合、下記の中から提供割合に基づいて1種類が獲得できます。</div><div>・金剛晶 1個</div><div>・ダマスカス鋼 1個</div><div>・アダマント 1個</div><div><br></div><div>■金賞</div><div>金賞が排出された場合、下記の中から提供割合に基づいて1種類が獲得できます。</div><div>・金剛原石 3個</div><div>・英雄の証 2個</div><div>・夢想の聖鍵 2個</div><div>・星空の煌めき 7個</div><div><br></div><div>■銀賞</div><div>銀賞が排出された場合、下記の中から提供割合に基づいて1種類が獲得できます。</div><div>・英雄の証 1個</div><div>・金剛原石 1個</div><div>・星空の煌めき 3個</div><div>・ダマスカス骸晶 2個</div><div>・月光晶 2個</div><div>・騎士の証 2個</div><div>・真なる輝竜の尾 3個</div><div>・真なる青竜の尾 3個</div><div>・輝竜のブレイヴスフィア 5個</div><div>・青竜のブレイヴスフィア 5個</div><div>・虹のオーブ 3個</div><div>・金燐光のオーブ 5個</div><div>・青藍水のオーブ 5個</div><div><br></div><div>新規で追加されるピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/72cf8ff5ae650a72601a61486daee258.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/960c7daac545c22ad02e9e69f39f670e2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>808</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>469</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,517</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>北グラスティア大陸に存在する<br>フォレスティアの聖地『イニシオ』と<br>聖地の守り神ユグドラシルを守る番人。<br>フォレスティアの伝統と掟を重んじ、<br>後世へ残すことを己の使命としている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3d61034215be89a7fcc68fb9ccff4c3b2.png"></span>
+				<span>フォレストレイジ</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、以下の効果の内、いずれかの効果のバフを自身に付与する。さらにそれと同じ種類のバフフィールドを地面に設置する。<br>・攻撃力をアップする。<br>・攻撃速度をアップする。<br>・HPを継続回復する。<br>・スキルゲージを継続回復する。</div><div class="skill-detail">威力：800 × 1 Hit<br>威力：75 × 4 Hit<br>必要スキルポイント：2,835<br>必要シェアスキルポイント：13,267<br>特殊効果<br>・神緑の護り（攻撃力アップ）<br>　攻撃力5％アップ<br>　効果時間：10 秒<br>・神緑の護り（攻撃速度アップ）<br>　攻撃速度5％アップ<br>　効果時間：10 秒<br>・神緑の護り（HP継続回復）<br>　効果時間：10 秒<br>　効果間隔：2.9 秒<br>　効果量：10<br>・神緑の護り（スキルゲージ継続上昇）<br>　効果時間：10 秒<br>　効果間隔：1 秒<br>　効果量：2％<br>バフフィールド（10秒）<br>・神緑の護り（攻撃力アップ）<br>　攻撃力10％アップ<br>・神緑の護り（攻撃速度アップ）<br>　攻撃速度10％アップ<br>・神緑の護り（HP継続回復）<br>　効果間隔：2.9 秒<br>　効果量：20<br>・神緑の護り（スキルゲージ継続上昇）<br>　効果間隔：1 秒<br>　効果量：2％</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/90d8cd6109c5aa230672ce95592b1e492.png"></span>
+				<span>ライトニングハント</span>
+			</dt>
+			<dd><div>前方の敵にダメージを与える。</div><div class="skill-detail">威力：1,500 × 1 Hit<br>必要スキルポイント：7,475<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>スキルブースト＋15％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のスキルゲージ上昇率が15％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>【光】領域：順風満帆・耐闇＋7％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが光属性ならキャラがバフフィールド上にいるとき、自身に【闇属性耐性が7％アップするバフ】が発動。
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>神緑の番人Ⅱ</span></dt><dd><div>スキル「フォレストレイジ」を使用したとき、自身に攻撃力アップのオーラ（バーストオーラ上限Lv2）を付与する。また、キャラがバフフィールド上にいるとき、自身に【闇属性耐性が5％アップするバフ】が発動する。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>毒耐性＋100％</span></dt><dd><div>「毒」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>順風満帆・攻＋20％</span></dt><dd><div>キャラがバフフィールド上にいるとき、自身の攻撃力が20％アップする。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/573f1bcf879fbb14be19d92065afbc28.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>『五大天使』と呼ばれるドラゴンの1体。<br>豪放磊落で楽天的な性格。腕っぷしも強い<br>肉体派だが、彼女の本領は治癒の力にこそ<br>あり、手の届く限りすべての命を救いたい<br>という信念で放浪の旅を続けている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>マルアハ・ツェダカ</span>
+			</dt>
+			<dd><div>前方の敵にダメージを与え、装備キャラのスキル2を即時発動可能にする。</div><div class="skill-detail">威力：650 × 1 Hit<br>威力：800 × 1 Hit<br>威力：950 × 1 Hit<br>特殊効果<br>・スキルチャージ<br>　効果量：100％</div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【光】攻撃力＋60％</span></dt><dd><div>装備キャラが光属性なら<br>装備キャラの攻撃力が60％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>【光】ラファエルの天祐Ⅱ</span></dt><dd><div>装備キャラが光属性なら<br>ダメージを受けたとき、自身のHPを回復し【30秒間、ラファエルの天祐】バフが発動。この効果中は防御力が50％アップする。この効果は発動してから60秒間は発動しない。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>1. 召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div>2. プライズの一覧と提供割合は、ゲーム内画面下メニューの「召喚」をタップし、「提供割合」内の「プライズ」からご確認ください。</div><div>3. 「10回召喚」や召喚チケットを1度に10枚使用して獲得したアイテムが重複した場合、アイテムごとに個数をまとめて「期限なし」のプレゼントに送られます。</div><div>4. ピックアップ対象のキャラは、「アルベリアバトルロイヤル」でキャラの見た目を変更できる「キャラスキン」がセール中となり、解放に必要なアイテムが減ります。</div><div>※一部キャラスキンが解放できないキャラもいます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1622613600; update_time1622598673

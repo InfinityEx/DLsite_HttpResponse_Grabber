@@ -1,0 +1,8 @@
+article_id:1511
+category_name:お知らせ
+title_name:メインストーリーに第15章「光を覆う影」を追加＆「竜玉」で上限解放できるドラゴンを追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/646ec6ef4a6dc63a3edb29445425f2ee.png
+
+message:<div><span class="local_date" data-local_date="1597730400"></span>から、メインストーリーに第15章「光を覆う影」を追加しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/646ec6ef4a6dc63a3edb29445425f2ee.png"></div><div><br></div><div>ゼシアを連れ去った謎の男を追い、北グラスティアとの国境へ向かった一行。</div><div>道を急ぐ一行の前に立ちはだかったのは、武の真髄を知るあの将だった。</div><div>峡谷の関所に至った第七位王子を前に、謎の男が静かに語り始める。</div><div>その傍らにゼシアを伴って――。</div><div><br></div><div>最新章をお楽しみください！</div><div><br></div><div>また、<span class="local_date" data-local_date="1597730400"></span>から、「竜玉」を使用して上限解放できるドラゴンを追加しました。</div><div>今回、「竜玉」が追加されたドラゴンは下記の通りです。</div><div>・ケルベロス</div><div>・セイレーン</div><div>・ロンロン</div><div>・ギルガメッシュ</div><div>・ニャルラトホテプ</div><div><br></div><div>■注意事項</div><div>1. メインストーリー第15章「光を覆う影」は、メインストーリー第14章 4-9「月の浮かぶ夜に」をクリアすると解放されます。</div><div>2. 獲得できるドラゴンの「竜玉」、現在の所持数、残り獲得回数、および「竜玉」が獲得できるクエストは、メインストーリー各章のエリアマップ内に表示される「竜玉」アイコンから確認できます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1597730400; update_time1597304117

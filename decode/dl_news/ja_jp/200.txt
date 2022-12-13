@@ -1,0 +1,8 @@
+article_id:200
+category_name:イベント
+title_name:レイドイベント「新春日ノ下招福縁起」エピローグ追加！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1547099999"></span>まで開催しておりました、レイドイベント「新春日ノ下招福縁起」にエピローグを追加しました！</div><div><br></div><div>エピローグは、アプリ内画面下メニューの「マイページ」から、左上の「バナー」をタップし、「レイドイベント」の「限定クエスト」からご覧いただけます。</div><div><br></div><div>■エピローグ解放期間</div><div><span class="local_date" data-local_date="1547100000"></span> ～ <span class="local_date" data-local_date="1547704799"></span></div><div><br></div><div>■注意事項</div><div>1. エピローグは、イベント期間終了時点でイベントのストーリー第8話をクリアしているプレイヤーのみご覧いただけます。</div><div>2. 期間および内容は、予告なく変更する場合があります。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1547100000; update_time1548145761

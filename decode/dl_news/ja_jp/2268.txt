@@ -1,0 +1,8 @@
+article_id:2268
+category_name:お知らせ
+title_name:メインストーリーに第20章「聖なる樹」の前半追加＆「竜玉」で上限解放できるドラゴンを追加！
+image_path:https://dragalialost.akamaized.net/attached/information/images/aa688efdb4bd2b77c7e6a82a70f1bb13.png
+
+message:<div><span class="local_date" data-local_date="1624255200"></span>から、メインストーリーに第20章「聖なる樹」前半を追加しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/aa688efdb4bd2b77c7e6a82a70f1bb13.png"></div><div><br></div><div>ネデウとジンローダを追う第七位王子一行は、</div><div>聖なる樹へと足を踏み入れる。古より大地を見守る</div><div>大樹は、第七位王子への思慮をめぐり葛藤するクラウに</div><div>つかの間の奇跡をもたらす。主への思いと純なる決意を</div><div>胸に、クラウは宿敵へと立ち向かう――。</div><div><br></div><div>最新章をお楽しみください！</div><div><br></div><div>また、<span class="local_date" data-local_date="1624255200"></span>から、「竜玉」を使用して上限解放できるドラゴンを追加しました。</div><div>今回、「竜玉」が追加されたドラゴンは下記の通りです。</div><div>・ホルス</div><div>・ステュクス</div><div>・AC-011 ガーランド</div><div>・テッセンコウシュ</div><div>・ラミエル</div><div><br></div><div>■注意事項</div><div>1. メインストーリー第20章「聖なる樹」前半は、メインストーリー第19章 5-4「聖なる樹へ」をクリアすると解放されます。</div><div>2. 獲得できるドラゴンの「竜玉」、現在の所持数、残り獲得回数、および「竜玉」が獲得できるクエストは、メインストーリー各章のエリアマップ内に表示される「竜玉」アイコンから確認できます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1624255200; update_time1623811221

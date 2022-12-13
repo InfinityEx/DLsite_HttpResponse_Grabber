@@ -1,0 +1,8 @@
+article_id:262
+category_name:お知らせ
+title_name:ヴォイド討伐戦の「交換所」が表示されない現象について【追記】
+image_path:
+
+message:<div>特定の条件下で、ヴォイド討伐戦の「交換所」が表示されない現象を確認しております。<br><br>本現象については、現在調査を進めております。<br>ご案内できることがございましたら、本お知らせにてご連絡いたします。</div><div><br><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1550826900"></span> 追記</strong></span></div><div>本現象が発生した際は、メインストーリーのページで「章選択」や「Hard」のタブをタップすることで解消する場合があるため、お試しいただけますと幸いです。</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong><span class="local_date" data-local_date="1550829600"></span> 追記</strong></span><br>本現象は、<span class="local_date" data-local_date="1550829600"></span>に解消しております。<br>本現象は、アプリを再起動していただくことで正常な状態に戻ります。<br><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div>
+
+start_time:1550818800; update_time1550830262

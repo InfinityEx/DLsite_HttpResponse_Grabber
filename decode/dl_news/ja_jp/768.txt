@@ -1,0 +1,8 @@
+article_id:768
+category_name:お知らせ
+title_name:一部地域における「ナームちゃんねる」の放送のお詫びについて
+image_path:
+
+message:<div><span class="local_date" data-local_date="1569466800"></span>から配信を予定していた「ナームちゃんねる」につきまして、放送トラブルにより一部の地域で生放送を行うことができませんでした。</div><div>お待ちいただいていた皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div><div><br></div><div>本件のお詫びとして、<span class="local_date" data-local_date="1569481200"></span>までにゲームを開始されたプレイヤーの皆様へ下記のアイテムを順次お送りいたします。</div><div><br></div><div>・竜輝晶 300個</div><div><br></div><div>お送りしたアイテムの受け取り期限は、「プレゼント」にアイテムが送られてから7日間です。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことを重ねてお詫び申し上げます。</div>
+
+start_time:1569481200; update_time1569481281

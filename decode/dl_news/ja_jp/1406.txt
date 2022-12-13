@@ -1,0 +1,8 @@
+article_id:1406
+category_name:お知らせ
+title_name:メインストーリーに第14章「動乱の王都」の追加が決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/b47b01d0d3fc1e8d30992790221ee340.png
+
+message:<div><span class="local_date" data-local_date="1592805600"></span>から、メインストーリーに第14章「動乱の王都」の追加が決定しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/b47b01d0d3fc1e8d30992790221ee340.png"></div><div><br></div><div>また、メインストーリー第14章「動乱の王都」の予告PVを公開いたしました。</div><div>下記のページからご覧ください。</div><div><br></div><div>▼『ドラガリアロスト』公式YouTube Channel メインストーリー第14章「動乱の王都」予告PV</div><div><a href="https://youtu.be/69Tf1-uM4EE">https://youtu.be/69Tf1-uM4EE</a></div><div><br></div><div>最新章をご期待ください！</div><div><br></div><div>■注意事項</div><div>メインストーリー第14章「動乱の王都」は、メインストーリー第13章 5-6「決断」をクリアすると解放されます。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1592546400; update_time1592450745

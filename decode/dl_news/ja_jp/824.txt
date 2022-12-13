@@ -1,0 +1,8 @@
+article_id:824
+category_name:お知らせ
+title_name:施設イベント開催にあわせて育成アイテムをプレゼント！
+image_path:
+
+message:<div>施設イベント【復刻】「お菓子なハロウィンパーティーナイト」の開催にあわせまして、プレイヤーの皆様へ育成アイテムを順次お贈りいたします。</div><div>光属性キャラの強化や育成にぜひお役立てください！</div><div><br></div><div>■プレゼント内容</div><div>・ゴールドクリスタル&times;300</div><div>・完熟ドラゴンフルーツ&times;300</div><div>・金の研磨石&times;300</div><div>・祝福の聖水&times;300</div><div>・光のオーブ&times;210</div><div>・閃光のオーブ&times;70</div><div>・聖天のオーブ&times;30</div><div>・虹のオーブ&times;3</div><div>・輝竜の鱗&times;150</div><div>・輝竜の煌鱗&times;50</div><div>・覚醒の雫&times;30000</div><div><br></div><div>■お贈りする対象の方</div><div><span class="local_date" data-local_date="1571378400"></span>までにゲームを開始されたプレイヤーの皆様</div><div><br></div><div>お贈りしたアイテムの受け取り期限は、「プレゼント」にアイテムが贈られてから7日間です。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1571378400; update_time1571656779

@@ -1,0 +1,8 @@
+article_id:1668
+category_name:お知らせ
+title_name:「ドリームセレクトパック」販売開始！
+image_path:https://dragalialost.akamaized.net/attached/information/images/81146c47e32f610c31593b9ef86dfb78.png
+
+message:<div><img src="https://dragalialost.akamaized.net/attached/information/images/81146c47e32f610c31593b9ef86dfb78.png"></div><div><span class="local_date" data-local_date="1601877600"></span>から、ショップにて「ドリームセレクトパック」の販売を開始しました！</div><div><br></div><div>「ドリームセレクトパック」は、10回召喚チケット1枚と、好きなキャラかドラゴン1体を、ドラゴンダイヤ1,200個で購入できるスペシャルなパックです。</div><div>前回販売時のラインナップに、購入可能なキャラやドラゴンが追加されました！</div><div><br></div><div>■販売期間</div><div><span class="local_date" data-local_date="1601877600"></span> ～ <span class="local_date" data-local_date="1604037540"></span></div><div><br></div><div>■注意事項</div><div>1. 「ドリームセレクトパック」は、販売期間中1回のみ購入できます。</div><div>2. すでに獲得しているキャラは、購入することができません。</div><div>3. 購入できるキャラやドラゴンは、マイページの「ドリームセレクトパック」のバナーをタップし、「スペシャルパック」内の「ドリームセレクトパック」から、「購入する」をタップ後に表示されるポップアップ内の「購入ラインナップへ」をご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1601877600; update_time1601862579

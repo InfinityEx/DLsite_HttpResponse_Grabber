@@ -1,0 +1,8 @@
+article_id:2557
+category_name:お知らせ
+title_name:Android端末においてタイトル画面から進めない現象について【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1634522400"></span>追記】</strong></span><br><span class="local_date" data-local_date="1634476500"></span> ～ <span class="local_date" data-local_date="1634513220"></span>ごろに発生しておりました本不具合は、現在解消しております。<br><br>本不具合のお詫びとして、 <span class="local_date" data-local_date="1634513220"></span>までにゲームを開始されたプレイヤーの皆様に、下記のアイテムを順次お送りいたします。<br><br>・竜輝晶&times;300<br>・最高級はちみつ&times;10<br>・霊鳥の聖灰&times;10<br><br>※お詫びとしてお送りしたアイテムは、「プレゼント」からお受け取りいただけます。<br>※お詫びとしてお送りしたアイテムの受け取り期限は、「プレゼント」にアイテムが送られてから7日間です。<br><br>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div><div><br></div><hr><div><span class="local_date" data-local_date="1634476500"></span> ごろから、Android端末でのアプリ起動後、タイトル画面にて「サポートコード：160」が表示され、タイトル画面から進まない現象を確認しております。</div><div>本不具合に関しましては、現在調査を進めております。</div><div>ご案内できることがございましたら本お知らせにて追記いたします。</div><div>プレイヤーの皆様にはご迷惑をおかけしておりますことお詫び申し上げます。</div>
+
+start_time:1634480400; update_time1634536359

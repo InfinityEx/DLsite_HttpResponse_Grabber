@@ -1,0 +1,8 @@
+article_id:2072
+category_name:お知らせ
+title_name:一部のAndroid端末においてアプリが正常に起動できない現象について【更新】
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1616495700"></span>追記】<br></strong></span>本現象につきまして、Google PlayストアからAndroidシステムのWebViewとGoogle Chromeの更新を行うことで解消されることを確認しております。<br>アプリを起動できずに強制終了する場合は、上記を更新後にアプリを起動できるかお試しください。<br>プレイヤーの皆様にはご迷惑をおかけしましたことをお詫び申し上げます。</div><div><br></div><hr><div>現在、Android端末をご利用されている一部のお客様において、推奨端末にも関わらずアプリを起動できずに強制終了する場合があることを確認しております。</div><div>本現象については現在原因を調査中です。<br>ご案内できることがございましたら、ゲーム内や公式サイトのお知らせにてご案内いたします。</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしておりますことをお詫び申し上げます。</div>
+
+start_time:1616467500; update_time1616495876

@@ -1,0 +1,156 @@
+article_id:2011
+category_name:お知らせ
+title_name:レジェンド召喚「悪魔が誘う偽りの楽園 ピックアップ」開催決定！
+image_path:
+
+message:<div><span class="local_date" data-local_date="1614751200"></span>から、レジェンド召喚「悪魔が誘う偽りの楽園 ピックアップ」の開催を予定しております。</div><div>ピックアップ対象のキャラ・ドラゴンの提供割合がアップします。</div><div><br></div><div>【新規で追加されるピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★5 フワラス：火/銃（長銃モード）</div><div><br></div><div>■ドラゴン</div><div>★5 ガブリエル：水</div><div><br></div><div>【ピックアップ対象のキャラ・ドラゴン】</div><div>■キャラ</div><div>★4 エマ：火/槍</div><div><br></div><div>■ドラゴン</div><div>★4 ヴォジャノーイ：水</div><div><br></div><div>【レジェンド召喚 ピックアップ開催期間】</div><div><span class="local_date" data-local_date="1614751200"></span> ～ <span class="local_date" data-local_date="1615528799"></span></div><div><br></div><div>新規で追加されるピックアップ対象のキャラ・ドラゴンを、下記にてご紹介いたします。</div><div><br></div><div>【ピックアップ紹介】</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c4b2a652d97d05f5c603c8a05e7ea94e.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/6f44b12b6629e095465350ad0575fa0d2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>2,499</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>使用可能モード</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/48f0cf6b6186ad0c7fa467c24cc47eea2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/b8a3b3884cac48715702c5bf401cd8b22.png"><img src="https://dragalialost.akamaized.net/attached/information/images/26f43aab3c39a2bcdadd1b40dd88e7402.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">キャラ詳細</div>
+				<div class="param">
+					<ul>
+						<li>北方イリア教会に所属する、『使徒』の<br>ひとり。厳格な性格で、何事も点数化<br>したがる。『天使』ウリエルと聖痕を<br>結んでおり、彼の期待に応えるために<br>完璧になろうと日々努力している。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/45933deb0335e561b2a5a7d32d03583d2.png"></span>
+				<span>カルブンクルスバレット</span>
+				<div class="skill-cost">
+					<span>シェア可能</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>通常時<br>直線上の敵にダメージを与え、「劫火」状態にする。<br>【聖痕解放】状態時<br>直線上の敵にダメージを与え、「劫火」状態にし、【ウリエルの神罰】を付与する。<br>【ウリエルの神罰】は効果時間中に再度【ウリエルの神罰】が付与される事でレベルアップし、効果が強化される。<br>【ウリエルの神罰】は効果時間が過ぎるとレベルダウンし、Lv1のときにレベルダウンすると解除される。<br>Lv1：15秒間、攻撃力が15％ダウンする。<br>Lv2：15秒間、攻撃力が20％ダウンする。<br>Lv3：10秒間、攻撃力が30％、劫火耐性が20％ダウンする。</div><div class="skill-detail">威力：2,709 × 1 Hit<br>必要スキルポイント：3,810<br>特殊効果<br>・劫火<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6<br><br>（アビリティ効果発動時）<br>威力：1,507 × 2 Hit<br>必要スキルポイント：3,810<br>必要シェアスキルポイント：13,144<br>特殊効果<br>・ウリエルの神罰<br>　効果時間：15 秒<br>・劫火<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41.6<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>パルデンスナレッジ</span>
+			</dt>
+			<dd><div>自身に【ウリエルの祝福】を付与する。</div><div class="skill-detail">必要スキルポイント：7,560<br>特殊効果<br>・ウリエルの祝福<br>　特殊回避<br>　効果回数：3<br>　重複不可<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">EXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>ゲージブレイク＋20％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員のモードゲージの減少量が20％アップする。
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">リンクEXアビリティ</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/03585ae11a2b0de283c914026533b3fe2.png"></span>
+				<span>【火】堅守：HP80％で耐風＋6％</span>
+			</dt>
+			<dd>
+				<div>
+					パーティ全員が以下のアビリティを得る。<br>キャラが火属性ならHP80％以上のとき、風属性耐性が6％アップする
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>ウリエルの聖約Ⅱ</span></dt><dd><div>通常時<br>・クエスト開始時、自身に【300秒間、聖痕の枷】デバフを付与する。<br>・敵の攻撃を回避したとき、【聖痕の枷】の残り効果時間が36秒減少する。この効果は発動してから10秒間は発動しない。<br>・バーストアタックが変化。タップの長押し中にスキルによって回避可能な攻撃を受けた場合に、攻撃を自動で回避して直線上の敵に火属性のダメージを与え、【ウリエルの神罰】を付与する。<br>【聖痕解放】状態時<br>・通常時の効果に加え、通常攻撃とバーストアタックが強化。威力とスキルゲージ上昇量がアップし、さらに「劫火」状態の敵に与えるダメージが35％アップする。<br>・【ウリエルの祝福】が付与されている間、スキルゲージ上昇率が12％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>睡眠耐性＋100％</span></dt><dd><div>「睡眠」状態になる確率が100％ダウンする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4fcd5ec5d6fb145301b13016087b14a92.png"></span><span>ウリエルの裁きⅡ</span></dt><dd><div>敵の攻撃を回避したとき、その攻撃を行った敵に【ウリエルの神罰】を付与する。この効果は発動してから15秒間は発動しない。</div></dd></dl></div></div></div><div>※Lv80、マナサークル50解放時のステータスです。入手時のステータスではありません。</div><div>※ステータスにアビリティで上昇したり減少したりする値は含まれません。</div><div><span style="color: rgb(41, 105, 176);"><strong>【<span class="local_date" data-local_date="1614753000"></span>追記】</strong></span><br>フワラスのアビリティ「ウリエルの聖約」および「ウリエルの裁き」について、効果が発動する対象の回避は、下記の通りです。<br>・フリックによる回避<br>・特殊なバーストアタックによる回避<br>・特殊回避<br>※スキルの無敵時間による回避は、対象ではありません。</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/219aee9b08c60bcf96be494e67ec7495.png"></div>
+	<div class="status">
+		<div class="title">ステータス</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>攻撃力</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/19f136b7b8b25f6f141fd1258f4807782.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">ドラゴン詳細</div>
+				<div class="param">
+					<ul>
+						<li>『五大天使』と呼ばれるドラゴンの1体。<br>マイペースなおっとり系だが、物怖じを<br>せず芯の強い性格。聖痕を結んだ使徒である<br>ピノンに母のような愛情を抱いており、時に<br>過保護と言われるほど大切にしている。</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">スキル</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/90d8cd6109c5aa230672ce95592b1e492.png"></span>
+				<span>マルアハ・アハバ</span>
+			</dt>
+			<dd><div>直線上の敵に水属性のダメージを与え、「冷傷」状態にする。</div><div class="skill-detail">威力：1,722 × 1 Hit<br>特殊効果<br>・冷傷<br>　効果時間：21 秒<br>　効果間隔：2.9 秒<br>　威力：41<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">アビリティ</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>【水】攻撃力＋60％</span></dt><dd><div>装備キャラが水属性なら<br>装備キャラの攻撃力が60％アップする。</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>【水】ガブリエルの天佑Ⅱ</span></dt><dd><div>装備キャラが水属性なら、自身のHPが回復するたびに【ガブリエルの愛】が発動。この効果は発動してから10秒間は発動しない。【ガブリエルの愛】は重複せず、以下の効果を持つ。<br>・攻撃力を10％アップする。<br>・防御力を50％アップする。<br>・最大HPの10％以下のダメージを無効化する特殊シールドの効果。このシールドの効果は1回のみで、通常のシールドと重複が可能。<br>・攻撃を受けると解除される。</div></dd></dl></div></div></div><div>※最大Lv、最大上限解放、信頼度が最大時のステータスです。入手時のステータスではありません。</div><div><br></div><div>【注意事項】</div><div>召喚についての詳細は、ゲーム内画面下メニューの「召喚」をタップし、「召喚情報」内の「詳細」タブからご確認ください。</div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1614664800; update_time1614753072

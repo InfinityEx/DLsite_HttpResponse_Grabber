@@ -1,0 +1,8 @@
+article_id:2672
+category_name:お知らせ
+title_name:メインストーリーに第23章「『はじまりの人』」前半の追加が決定！
+image_path:https://dragalialost.akamaized.net/attached/information/images/16474817def7a33e8e3f025d9525c8a2.png
+
+message:<div><span class="local_date" data-local_date="1639980000"></span>から、メインストーリーに第23章「『はじまりの人』」前半の追加が決定しました！</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/16474817def7a33e8e3f025d9525c8a2.png"></div><div>また、メインストーリー第23章「『はじまりの人』」の予告PVを公開いたしました。</div><div>下記のページからご覧ください。</div><div><br></div><div>▼『ドラガリアロスト』公式YouTube Channel メインストーリー第23章「『はじまりの人』」予告PV</div><div><a href="https://youtu.be/9tnrrriAVTs">https://youtu.be/9tnrrriAVTs</a></div><div><br></div><div>最新章をご期待ください！</div><div><br></div><div>■注意事項</div><div>メインストーリー第23章「『はじまりの人』」前半は、メインストーリー第22章 5-4「遺したもの」をクリアすると解放されます。</div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1639720800; update_time1639707796

@@ -1,0 +1,8 @@
+article_id:966
+category_name:お知らせ
+title_name:「ナームちゃんねる」公開！【更新】
+image_path:
+
+message:<div><span style="color: rgb(44, 130, 201);"><strong>【<span class="local_date" data-local_date="1577245200"></span>更新】<br></strong></span>本お知らせに記載しておりましたプレゼント内容と配布対象に誤りがありましたため、下記とおり修正いたしました。</div><div><br></div><div>・プレゼント内容<br>正 竜輝晶&times;500<br>誤 竜輝晶&times;300</div><div><br></div><div>・お送りする対象の方<br>正 <span class="local_date" data-local_date="1581919140"></span>までにゲームを開始されたプレイヤーの皆様<br>誤 <span class="local_date" data-local_date="1550383140"></span>までにゲームを開始されたプレイヤーの皆様</div><div><br></div><div>プレイヤーの皆様には、ご迷惑をおかけしましたことをお詫び申し上げます。</div><div><br></div><hr><div><span style="color: rgb(44, 130, 201);"><strong>【<span class="local_date" data-local_date="1577243700"></span>更新】</strong></span><br>ナームから、<span class="local_date" data-local_date="1581919199"></span>までにゲームを開始されたプレイヤーの皆様に、星竜祭のプレゼントをお贈りいたしました！<br><br>■プレゼント内容<br>・竜輝晶&times;500<br>・覚醒の雫&times;30000<br>・英雄の証&times;3<br><br>■注意事項<br>・お贈りしたアイテムの受け取り期限は、「プレゼント」にアイテムが贈られてから7日間です。<br>・お贈りしたアイテムは、順次「プレゼント」へ贈られます。<br><br>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div><div><br></div><hr><div><span class="local_date" data-local_date="1577242800"></span>に、「ナームちゃんねる」を『ドラガリアロスト』公式YouTube Channelにて公開しました。</div><div><br></div><div>新しいイベントの紹介や年末年始の楽しみ方、Ver.1.15.1アップデートの内容など、さまざまな情報をナームがプレイヤーの皆様にお届けします！</div><div><br></div><div>詳細は下記のページをご覧ください。</div><div><br></div><div>▼「ナームちゃんねる」</div><div><a href="https://youtu.be/9NIFnGDOJtA">https://youtu.be/9NIFnGDOJtA</a></div><div><br></div><div>▼『ドラガリアロスト』公式YouTube Channel</div><div><a href="http://eng.mg/c0a56">http://eng.mg/c0a56</a></div><div><br></div><div>今後とも『ドラガリアロスト』をよろしくお願いいたします。</div>
+
+start_time:1577242800; update_time1577256646
