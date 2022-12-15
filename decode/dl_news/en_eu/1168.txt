@@ -1,0 +1,102 @@
+article_id:1168
+category_name:News
+title_name:Gala Dragalia Is Now Live!
+image_path:
+
+message:<div>Gala Dragalia went live <span class="local_date" data-local_date="1585288800"></span>!</div><div><br></div><div>What is Gala Dragalia?</div><div>・The initial appearance rate for 5★ adventurers and dragons will be boosted to 6% from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div><br></div><div>Gala Dragalia appearance rates:</div><div>5★ total: 6.00%</div><div>5★ featured total: 0.50% (Adventurers: 0.50%)</div><div>5★ standard total: 5.50% (Adventurers: 2.50%, Dragons: 3.00%)</div><div>4★ standard total: 16.00% (Adventurers: 8.55%, Dragons: 7.45%)</div><div>3★ standard total: 78.00% (Adventurers: 47.00%, Dragons: 31.00%)</div><div><br></div><div>Gala Dragalia active period:</div><div><span class="local_date" data-local_date="1585288800"></span> to <span class="local_date" data-local_date="1585807140"></span></div><div><br></div><div>The featured Gala Dragalia adventurer is detailed below.</div><div><br></div><div>Gala Dragalia adventurer:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/4e15abbe1faaac0e59af454b9cd73b2d.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,498</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>With a new outfit, Alex has become Elisanne's<br>personal guard. The white hood represents her<br>leaving the assassin's life, and she swears a<br>vow upon her blade to safeguard her friend<br>and never lose heart, no matter what.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a14e3aeaf8990581545b970f18bf5f82.png"></span>
+				<span>Crisis Edge</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to the target, and reduces<br>their defense by 5% for 15 seconds.<br>This defense reduction will not stack.<br>After using this skill, for a set period<br>of time it will be possible to trigger a<br>"Skill Chain." Using Crisis Edge during<br>this window will make it deal shadow<br>damage to enemies directly ahead,<br>and deal bonus damage afterwards,<br>and in both cases damage is increased<br>against foes with reduced defense.<br><br>Furthermore, if the target meets one of the<br>following conditions when using Umbral Erasure,<br>this will also result in a "Skill Chain," altering<br>the effects of Crisis Edge if it is used during<br>the "Skill Chain" window. In this case, it will deal<br>shadow damage to the target, along with the following<br>bonus effects depending on which condition is met:<br><br>1. If the target has a buff, this skill will dispel<br>one buff from them, and deal bonus damage<br>afterwards. This bonus damage will be increased<br>if the foe's defense is reduced.<br><br>2. If the target is in break state, this skill<br>will deal extra damage to them. It will also deal<br>bonus damage afterwards. This bonus damage will<br>also be increased by the enemy being in break state.<br><br>If an enemy meets both of the above conditions,<br>condition one will be prioritized.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/18bb75cee57f186afb031e6ca02c56f92.png"></span>
+				<span>Umbral Erasure</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to the target, and inflicts<br>poison. After using this skill, for a set period<br>of time it will be possible to trigger a<br>"Skill Chain." Using Umbral Erasure during<br>this window will make it deal shadow<br>damage to the target, and deal bonus<br>damage afterwards, and in both cases<br>damage is increased against<br>poisoned foes.<br><br>Furthermore, if the target meets one of the<br>following conditions when using Crisis Edge,<br>this will also result in a "Skill Chain," altering<br>the effects of Umbral Erasure if it is used during<br>the "Skill Chain" window. In this case, it will deal<br>shadow damage to the target, along with the following<br>bonus effects depending on which condition is met:<br><br>1. If the target has a buff, this skill will dispel<br>one buff from them, and deal bonus damage<br>afterwards. This bonus damage will be increased<br>if the foe is poisoned.<br><br>2. If the target is in break state, this skill<br>will deal extra damage to them. It will also deal<br>bonus damage afterwards. This bonus damage will<br>also be increased by the enemy being in break state.<br><br>If an enemy meets both of the above conditions,<br>condition one will be prioritized.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>Dragon Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases dragon gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Shadow) Poison = User Strength +13%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Shadow:<br>increases their strength by 13% for 15 seconds<br>when they successfully poison an enemy.<br>After activating, this ability will not<br>activate again for 10 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a2241ae1de30904a24117f1388bd71782.png"></span><span>Reduced Defense Punisher +30%</span></dt><dd><div>Increases damage to enemies with reduced<br>defense by 30%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bd7de81c28d0b9c93b0edbfc86b0cb6a2.png"></span><span>Guardian Shadow II</span></dt><dd><div>Reduces susceptibility to blindness<br>and paralysis by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>Poisoned Punisher +30%</span></dt><dd><div>Increases damage to poisoned enemies by 30%.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurer at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Adventurer characteristics:<br>Instead of skill gauges, Gala Alex features a new functionality called the Skill Reservoir, which is consumed when she uses skills.<br>Note: This does not apply to weapon skills.<br><br>The Skill Reservoir fills as you hit enemies with attacks, and it is possible to fill it up enough to unleash skills up to three times. Each use of Alex&#39;s Crisis Edge and Umbral Erasure skills decreases the Skill Reservoir by one level, and hitting enemies with skills consecutively activates Skill Chain. When Skill Chain activates, enemies will suffer additional effects and damage based on the skill combination and the state of the enemy.</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/9b5034aa85befa7183660c01d20afa9c.jpg"></div><div><br>If Skill Chain can be used, the frame around the skill icon will glow blue.<br><br>▼Skill Chain example using Crisis Edge<br>1st use:<br>The Crisis Edge skill is used.<br>&rArr;The target takes shadow damage and enemy defense is decreased.<br><br>2nd use:<br>The following Skill Chains may occur, depending on the state of the enemy and the skill that is used.<br><br>(a) The Crisis Edge skill is used and Skill Chain activates.<br>&rArr;Enemies directly ahead take shadow damage (enemies with decreased defense take extra damage).<br>&rArr;The skill deals bonus damage (enemies with decreased defense take extra damage).<br><br>(b) The Umbral Erasure skill is used while the target is under the effects of a buff (condition 1), and Skill Chain activates.<br>&rArr;The target takes shadow damage and one buff effect ends.<br>&rArr;The skill deals bonus damage (enemies afflicted with poison take extra damage).<br><br>(c) The Umbral Erasure skill is used while the target is in the break state (condition 2), and Skill Chain activates.<br>&rArr;The target takes shadow damage (enemies in the break state take extra damage).<br>&rArr;The skill deals bonus damage (enemies in the break state take extra damage).<br><br>Note: If the target meets both condition 1 and condition 2, then condition 1 will be prioritized.<br><br>▼Skill Chain example using Umbral Erasure<br>1st use:<br>The Umbral Erasure skill is used.<br>&rArr;The target takes shadow damage and is afflicted with poison.<br><br>2nd use:<br>The following Skill Chains may occur, depending on the state of the enemy and the skill that is used.<br><br>(a) The Umbral Erasure skill is used and Skill Chain activates.<br>&rArr;The target takes shadow damage (enemies afflicted with poison take extra damage).<br>&rArr;The skill deals bonus damage (enemies afflicted with poison take extra damage).<br><br>(b) The Crisis Edge skill is used while the target is under the effects of a buff (condition 1), and Skill Chain activates.<br>&rArr;The target takes shadow damage and one buff effect ends.<br>&rArr;The skill deals bonus damage (enemies with decreased defense take extra damage).<br><br>(c) The Crisis Edge skill is used while the target is in the break state (condition 2), and Skill Chain activates.<br>&rArr;The target takes shadow damage (enemies in the break state take extra damage).<br>&rArr;The skill deals bonus damage (enemies in the break state take extra damage).<br><br>Note: If the target meets both condition 1 and condition 2, then condition 1 will be prioritized.</div><div><br></div><div>Note:</div><div>For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1585288800; update_time1585130610

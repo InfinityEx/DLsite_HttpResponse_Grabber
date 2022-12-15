@@ -1,0 +1,8 @@
+article_id:148
+category_name:Maintenance
+title_name:Concerning Maintenance on 12/25 [Addendum]
+image_path:
+
+message:<div>We will be performing overall game maintenance during the period below.</div><div><br></div><div>You will not be able to play the game during the maintenance. Thank you in advance for your understanding.</div><div><br></div><div>Please accept 7-Day Pack (Resources) and 30-Day Pack (Recovery) rewards before the maintenance.</div><div><br></div><div>■ Maintenance period:</div><div><span class="local_date" data-local_date="1545715800"></span> to <span class="local_date" data-local_date="1545717600"></span></div><div><br></div><div>■ Details:</div><div>・ We will change the purchase limit for the Welcome Pack from 1 to 2.</div><div>Note: Those who have already purchased the Welcome Pack will be able to purchase it an additional time after the maintenance is complete.</div><div>・ Lily, Naveed, Louise, and Lucretia will be added to the characters who can be summoned using the 5★ Summon Voucher.</div><div><br></div><div>■ Notes:</div><div>The maintenance period may start and/or end before or after the scheduled times.</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>[Addendum<span class="local_date" data-local_date="1545717600"></span></strong></span><br>The maintenance is now complete.</div><div><br></div><div>Thank you for playing the Dragalia Lost game.</div>
+
+start_time:1544932800; update_time1545991944

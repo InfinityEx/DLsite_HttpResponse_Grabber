@@ -1,0 +1,8 @@
+article_id:2800
+category_name:News
+title_name:Regarding an Issue with Limited Endeavors for Trials of the Mighty
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>[Addendum <span class="local_date" data-local_date="1643767200"></span>]</strong></span><br>This issue, which began on <span class="local_date" data-local_date="1643176800"></span>, has now been resolved.<br><br>During an upcoming maintenance, any incorrect epithets that were awarded will be removed and replaced with the correct epithets.<br><br>Thank you for your patience.</div><div><br></div><hr><div>We have confirmed that the following limited endeavors for Trials of the Mighty award the incorrect epithet upon completion:<br><br>Clear Kamuy&#39;s Trial: Master<br>Clear Chthonius&#39;s Trial: Master<br>Clear Mars&#39;s Trial: Master<br><br>Any further updates regarding this issue will be added to this notice.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1643191200; update_time1643768098

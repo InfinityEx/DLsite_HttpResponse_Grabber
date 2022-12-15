@@ -1,0 +1,196 @@
+article_id:179
+category_name:News
+title_name:Summon Showcase Eastern Emissaries Now Available!
+image_path:
+
+message:<div>The Summon Showcase Eastern Emissaries starts <span class="local_date" data-local_date="1546236000"></span>!</div><div><br></div><div>Event-specific adventurers, dragons, and wyrmprints will make their debuts in the summon showcase. Featured adventurers, dragons, and wyrmprints will also have increased appearance rates!</div><div><br></div><div>Limited-time adventurers, dragons, and wyrmprints:</div><div><br></div><div>■ Adventurers:</div><div>Ieyasu (shadow / blade), Sazanka (shadow / axe), and Addis (wind / blade)</div><div><br></div><div>■ Dragons:</div><div>Marishiten (shadow)</div><div><br></div><div>■ Wyrmprints:</div><div>Happy New Year!, Heralds of Hinomoto, Hanetsuki Rally</div><div><br></div><div>There&#39;s also a new wyrmprint that is not a limited-time wyrmprint called Vio Rhyse Alberia!</div><div><br></div><div>Note:For information about other featured adventurers, dragons, and wyrmprints, tap Summon on the in-game footer menu, then select Showcase Info.</div><div><br></div><div>Featured summons availability period:</div><div><span class="local_date" data-local_date="1546236000"></span> to <span class="local_date" data-local_date="1547099940"></span></div><div><br></div><div>Some of the featured adventurers, dragons, and wyrmprints are detailed below.</div><div><br></div><div>Featured Adventurer:</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c8dc719320c73618c915f0d545b9f0e2.png"></div>
+<div class="status">
+	<div class="title">Stats</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>80</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>739</span>
+				</li>
+				<li class="atk">
+					<span>Strength</span>
+					<span>521</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+			<span>2500</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">Adventurer details</div>
+			<div class="param">
+				<ul>
+					<li>The head of one of the Twelve Wyrmclans who<br>rule the island nation of Hinomoto. He represents<br>the boar, and formed a pact with the dragon<br>Marishiten. Though a master swordsman, he has<br>a soft heart and despises war in all its forms.</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/63ee5e3e76ff44193f35dafa603b95e42.png"></span>
+				<span>Sakura Flurry</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to enemies directly ahead,<br>and inflicts bleeding.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7795adf923ad95d0a2da78ff4a1d96292.png"></span>
+				<span>Blade Formation</span>
+			</dt>
+			<dd>
+				<div>
+					Activates "Blade Formation" for 15 seconds.<br>During Blade Formation, the user's HP gradually<br>recovers, and their critical rate against bleeding<br>enemies is increased by 15%.
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">Co-abilities</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Strength +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases strength by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>HP 70% = Critical Rate +10%</span></dt><dd><div>Increases critical rate by 10% when<br>HP is 70% or above.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>Paralysis Res +100%</span></dt><dd><div>Reduces susceptibility to paralysis by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>Critical Damage +20%</span></dt><dd><div>Adds 20% to the modifier applied to critical damage.</div></dd></dl></div></div></div><div><br></div><div>Note: These are the stats when at maximum level with all mana circles unlocked. They do not represent the stats when first obtained.</div><div><br></div><div>Featured Dragon:</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5df9c5343f48246445538c295cd9b291.png"></div>
+<div class="status">
+	<div class="title">Stats</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>374</span>
+				</li>
+				<li class="atk">
+					<span>Strength</span>
+					<span>121</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+			<span>995</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">Dragon details</div>
+			<div class="param">
+				<ul>
+					<li>One of the twelve great dragons that serve<br>Amaterasu. Warlike and possessed of prodigious<br>strength, she is revered amongst warriors as an<br>icon of certain victory. In a cuter touch, she has<br>a number of little boars that follow her around.</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/63ee5e3e76ff44193f35dafa603b95e42.png"></span>
+				<span>Daybreak Flurry</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to enemies directly ahead,<br>and inflicts bleeding.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Shadow) Strength +60%</span></dt><dd><div>If the user is attuned to Shadow: <br>increases strength by 60%.</div></dd></dl></div></div></div><div><br></div><div>Note: These are the stats when at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Featured Wyrmprints:</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ca53dd05c04f0f1c3cb156e9ef23859d.png"></div>
+<div class="status">
+	<div class="title">Stats</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>195</span>
+				</li>
+				<li class="atk">
+					<span>Strength</span>
+					<span>46</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+			<span>421</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span><span>Light Res +10%</span></dt><dd><div>Reduces light damage taken by 10%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>(Shadow) Paralysis Res +40%</span></dt><dd><div>If the user is attuned to Shadow: <br>reduces susceptibility to paralysis by 40%.</div></dd></dl></div></div></div><div><br></div><div>Note: These are the stats when at maximum level and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/d6f59403a906d70254f653b700c2d3a2.png"></div>
+<div class="status">
+	<div class="title">Stats</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>177</span>
+				</li>
+				<li class="atk">
+					<span>Strength</span>
+					<span>64</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+			<span>381</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>Skill Damage +25%</span></dt><dd><div>Increases attack skill damage by 25%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>Skill Haste +5%</span></dt><dd><div>Increases skill gauge fill rate by 5%.</div></dd></dl></div></div></div><div><br></div><div>Note: These are the stats when at maximum level and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. Featured adventurers, dragons, and wyrmprints from this summoning event may continue to appear in future summoning events. (The ★ number and appearance rates may differ from those shown now.)</div><div>2. To check Summon Showcase appearance rates, tap Summon on the in-game footer menu, then select Appearance Rates.</div><div>3. For information about other featured adventurers, dragons, and wyrmprints, tap Summon on the in-game footer menu, then select Showcase Info.</div><div>4. If a summon results in an adventurer you already have, you will receive Eldwater instead of the adventurer. The amount of Eldwater you receive will vary depending on the adventurer&#39;s ★number.</div><div>5. Only diamantium (purchase required) can be used for Daily Deals. Daily Deals reset every day at 07:00.</div><div>6. If you summon 10 times in a row and do not summon a 5★ adventurer, dragon, or wyrmprint, the appearance rate for 5★ adventurers, dragons, and wyrmprints will increase the next time you summon. For more information, check the What is the Summon Showcase? section of the Details tab in the Showcase Info menu.</div><div>7. For more information, tap Summon on the in-game footer menu, then select Showcase Info, Details, and see the Notes section.</div><div>8. The summon showcase schedule and content may change without warning.</div><div><br></div><div>Thank you for playing the Dragalia Lost game.</div>
+
+start_time:1546236000; update_time1547100011

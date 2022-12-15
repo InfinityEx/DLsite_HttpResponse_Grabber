@@ -1,0 +1,8 @@
+article_id:1687
+category_name:News
+title_name:Issue Regarding Weapons Obtained from Forgotten Truths Endeavors
+image_path:
+
+message:<div>There was an issue where weapons obtained by clearing Forgotten Truths limited endeavors could not be used as a weapon skins.</div><div>Consequently, we will send these weapon skins to all affected players starting <span class="local_date" data-local_date="1602572400"></span>.</div><div>Note: We have confirmed that this issue doesn&#39;t occur if said weapons were obtained from the Weapons/Crafting menu.</div><div><br></div><div>■Eligible Players</div><div>All players that obtained weapons from the following endeavors but couldn&#39;t use them as weapon skins.</div><div>・Endeavor: Participate in the Event</div><div>Reward weapon: Inferno Apogee</div><div>・Endeavor: Unlock 10 of Mordecai&#39;s Mana Nodes</div><div>Reward weapon: Hollow Lightning</div><div>・Endeavor: Defeat Zephyr</div><div>Reward weapon: Firmament Auger</div><div>・Endeavor: Clear Three Raid Battles</div><div>Reward weapon: Dominus of Ever</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1602489600; update_time1602489120

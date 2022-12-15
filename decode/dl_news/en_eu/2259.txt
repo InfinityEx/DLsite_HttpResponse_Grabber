@@ -1,0 +1,340 @@
+article_id:2259
+category_name:News
+title_name:Announcing Gala Dragalia Remix!
+image_path:
+
+message:<div>Gala Dragalia Remix starts on <span class="local_date" data-local_date="1623736800"></span>!</div><div><br></div><div>What are Gala Dragalia and Gala Dragalia Remix?</div><div>The initial appearance rate for 5★ adventurers and dragons will be boosted to 6%, which is up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">The newly added 5★ adventurers Nino (wind) and Faeblessed Tobias (water) will also appear in the next summon showcase.</span></div><div><br></div><div><span style="color: rgb(226, 80, 65);">Adventurers added in past Gala Dragalia summon showcases may appear in this summon showcase as well. For information about which adventurers may appear, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</span></div><div><br></div><div>Newly added featured adventurers:</div><div>5★ Nino (wind/sword)</div><div>5★ Faeblessed Tobias (water/lance)</div><div><br></div><div>Featured adventurer from past Gala Dragalia summon showcases:</div><div>5★ Gala Chelle (shadow/rapid-fire manacaster)</div><div><br></div><div>Featured dragon from past Gala Dragalia summon showcases:</div><div>5★ Gala Reborn Poseidon (water)</div><div><br></div><div>Gala Dragalia Remix event duration:</div><div><span class="local_date" data-local_date="1623736800"></span> to <span class="local_date" data-local_date="1624168799"></span></div><div><br></div><div>Get a closer look at the featured adventurers and dragon below.</div><div><br></div><div>Featured adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3948421d32bab5eacf4a51df217494e2.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>755</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>504</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The sheltered scion of a bloodline with both<br>human and faerie roots. She and her ancestors<br>steward wisdom of history's hidden truths and the<br>so-called "key to perdition." When in danger, her<br>faerie powers awaken in the form of a lone wing.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cec8794d33276918ce38bfaa577312842.png"></span>
+				<span>Faerie Stance</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>and partially fills the user's dragondrive gauge.<br><br>During dragondrive:<br>consumes some of the user's dragondrive gauge,<br>deals damage to enemies directly ahead,<br>then fills 100% of this skill's skill gauge after use.</div><div class="skill-detail">Damage: 1,389 × 1 hit<br>Skill Energy Required: 2,714<br>Dragondrive Energy Gained: 750<br><br><color=#00008B>During Dragondrive:</color><br>Damage: 938 × 1 hit<br>Damage: 79 × 6 hits<br>Skill Energy Required: 2,714<br>Dragondrive Energy Consumed: 650<br>Special Effects:<br>・Skill Prep<br>　　Potency: 100%</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>Crescent Faeria</span>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies,<br>and reduces their strength.<br><br>During dragondrive:<br>deals damage to the target and nearby enemies,<br>and reduces their strength and defense.</div><div class="skill-detail">Damage: 234 × 6 hits<br>Skill Energy Required: 8,415<br>Special Effects:<br>・Strength -10%<br>　　Lasts 30 seconds<br><br><color=#00008B>During Dragondrive:</color><br>Damage: 320 × 6 hits<br>Skill Energy Required: 8,415<br>Special Effects:<br>・Strength -10%<br>　　Lasts 30 seconds<br>・Defense -5%<br>　　Lasts 10 seconds<br>　　Does not stack</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>Dragon Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases dragon gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>(Wind) Combo = Critical Rate V</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind:<br>increases their critical rate by 1%<br>for every 10-hit combo. This effect can<br>stack up to 20 times, but all stacks will<br>be lost when the combo counter resets.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7344393f94e67609d7cd301c7828a5702.png"></span><span>Blessed Bloodline II</span></dt><dd><div>Grants the user a dragondrive gauge, and changes<br>the shapeshift button into a dragondrive button.<br>Tapping this button activates their dragondrive.<br><br>Dragondrive grants the following effects:<br>・The user's standard attacks, dash attacks,<br>and force strikes are changed and fill the<br>user's dragondrive gauge if they connect.<br>・The user's strength is increased by 15%.<br>・The user's attack rate is increased by 10%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>Freeze Res +100%</span></dt><dd><div>Reduces susceptibility to freezing by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>Flurry Devastation +13%</span></dt><dd><div>Increases critical rate by 13% when<br>the combo count is 15 or higher.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/6c846f66558759fb8bf78e7cac45845c.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>508</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Tobias, clad in armor imbued with fae protection.<br>Forged with the prayers of a faerie who broke her<br>own wings to shepherd humankind toward peace,<br>it can manifest a single wing, granting flight to a<br>warrior who would fight for those in need.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>Fae Judgment</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies,<br>inflicts freeze, and partially fills the skill gauge<br>for Fae Lance.</div><div class="skill-detail">Damage: 1,000 × 2 hits<br>Skill Energy Required: 2,738<br>Skill Energy Required (Shared Skill): 11,321<br>Special Effects:<br>・Freeze<br>　　Lasts 6 seconds<br>・Skill Prep<br>　　Potency: 20%</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d451d4a9096cb68b3135a9759eed0b882.png"></span>
+				<span>Fae Lance</span>
+			</dt>
+			<dd><div>Activates "Fae Lance."<br>During Fae Lance, the user's standard attack<br>patterns will change, and the user will be<br>unable to move, use force strikes, or dodge.<br>This skill will also become Spiritual Purge<br>and be immediately readied for use.<br>Fae Lance will end after a set period of time,<br>or after using any skill other than Fae Judgment.<br><br>Spiritual Purge deals damage to surrounding<br>enemies and inflicts frostbite.</div><div class="skill-detail">Skill Energy Required: 20,000<br>Special Effects:<br>・Fae Lance<br>　　Lasts 10 seconds<br>　　Does not stack<br><br><color=#00008B>After Skill Change:</color><br>Damage: 1,750 × 2 hits<br>Skill Energy Required: 20,000<br>Special Effects:<br>・Frostbite<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases HP by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>(Water) Above 10 Hits = Critical Rate +13%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water: <br>increases their critical rate by 13%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>Flurry Devastation +13%</span></dt><dd><div>Increases critical rate by 13% when<br>the combo count is 15 or higher.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/561f0cc02896bcc3c7580180041730282.png"></span><span>Overdrive Punisher +13%</span></dt><dd><div>Increases damage to enemies in overdrive state<br>by 13%.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/382deb1200976c3ef9db8602a88ad6c9.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>506</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,498</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>Available Modes</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/a3fd3d318f5d1ce860f6d1c41c2d49fb2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/b8a3b3884cac48715702c5bf401cd8b22.png"><img src="https://dragalialost.akamaized.net/attached/information/images/448ef7b051c6bcd89db535067691e8b22.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The third scion of Alberia has set her sights on<br>an even bigger stage—the world! As a shrewd<br>diplomat, she has many cards to play when<br>negotiating with other nations, including the<br>manacaster development that she leads.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/775392a8a09a554df496b2a54960c3e62.png"></span>
+				<span>Splendido Dominio</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>inflicts shadowblight, and deals bonus<br>damage based on the number of buffs the<br>user has. The maximum bonus damage is<br>given when the user has 15 or more buffs.</div><div class="skill-detail">Damage: 80 × 11 hits<br>Damage: 25 × 15 hits (MAX)<br>Damage: 1,175 × 1 hit<br>Skill Energy Required: 5,670<br>Skill Energy Required (Shared Skill): 9,072<br>Special Effects:<br>・Shadowblight<br>　Lasts 21 seconds<br>　Triggers every 2.9 seconds<br>　Damage: 41<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/fd28e574510045f9eec04437865b59262.png"></span>
+				<span>Burlone Gatto</span>
+			</dt>
+			<dd><div>Reduces the strength of the target and<br>nearby enemies, and reduces the strength<br>of enemies in buff zones.</div><div class="skill-detail">Skill Energy Required: 15,120<br>Special Effects:<br>・Strength -30%<br>　Lasts 5 seconds<br>・Strength -5%<br>　Lasts 5 seconds<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>Gauge Accelerator +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Speeds the rate the mode gauge decreases<br>by 20%. Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ec72ef8cd42c62205b75088898a601112.png"></span>
+				<span>(Shadow) Poised Shadowblighted Punisher +8%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Shadow: <br>increases damage to shadowblighted enemies<br>by 8% when the adventurer is in a buff zone.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ec6eab0a620c3865e404323b319f0abe2.png"></span><span>Radiant Scion II</span></dt><dd><div>When shapeshifting, Chelle will transform<br>into Cat Sìth regardless of what dragon she<br>is equipped with. In addition, using Burlone<br>Gatto will grant her the "Royal Pride" effect<br>for the remainder of the quest.<br>Royal Pride can stack up to 10 times, and<br>each stack reduces damage taken by 1%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bd7de81c28d0b9c93b0edbfc86b0cb6a2.png"></span><span>Princess's Grace II</span></dt><dd><div>Reduces susceptibility to blindness<br>and paralysis by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/fd589517c61c65312e1509e13a36cd412.png"></span><span>Star of the Dance II</span></dt><dd><div>Increases force strike damage by 45%,<br>increases it up to an additional 30% based<br>on the number of buffs Chelle has, and,<br>when she has five or more Royal Pride<br>stacks, creates a buff zone around her<br>that reduces damage taken by 10%.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/59e0a42f2f02c2e316cbaa9709648c65.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>Poseidon, the wyrm of legend who ruled the seas,<br>is reborn. After receiving the faith of a maiden,<br>he was freed from the miasma eating away at<br>him. While his boisterous persona is unchanged,<br>he is re-examining his view of people's strength.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cec8794d33276918ce38bfaa577312842.png"></span>
+				<span>Atlantean Flood</span>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies.<br>If the user is targeting an enemy and not using a<br>skill when their remaining shapeshift time runs out,<br>this skill will be used automatically, regardless of<br>whether or not the skill gauge is filled.</div><div class="skill-detail">Damage: 534 × 1 hit<br>Damage: 1,246 × 1 hit<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Water) Strength +70%</span></dt><dd><div>If the user is attuned to Water: <br>increases strength by 70%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6a11826292e883b2011a341c28b9c39d2.png"></span><span>(Water) Fury of the Seas II</span></dt><dd><div>If the user is attuned to Water:<br>adds 30% to the modifier applied to damage<br>against flame-attuned enemies and enemies<br>with no attunement for 45 seconds every time<br>the dragon gauge fills by 10%. This increase<br>will not stack, and, after activating, this ability<br>will not activate again for five seconds.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. Alberian Battle Royale skins for adventurers featured in this summon showcase will go on sale, and it will cost fewer items to unlock their skins. Note that some adventurers do not have adventurer skins.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1623650400; update_time1623375443

@@ -1,0 +1,8 @@
+article_id:2884
+category_name:Events
+title_name:Epilogue Added to the Doomsday Getaway Raid Event Revival!
+image_path:https://dragalialost.akamaized.net/attached/information/images/ac9a45a7d167210c3566329226cbdf16.png
+
+message:<div>An epilogue has been added to the Doomsday Getaway raid event revival, which ended on <span class="local_date" data-local_date="1661839199"></span>.</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/ac9a45a7d167210c3566329226cbdf16.png"></div><div>You can view the epilogue by tapping the banner on the lower-left corner of the Home screen, which can be accessed from the in-game footer menu, then by selecting View Quests.<br><br>■Epilogue Availability<br><span class="local_date" data-local_date="1661839200"></span> to <span class="local_date" data-local_date="1662443999"></span><br><br>Note: The epilogue can only be viewed by players who have completed episode 6 of the event&#39;s story.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1661839200; update_time1645513230

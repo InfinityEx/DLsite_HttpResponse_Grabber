@@ -1,0 +1,8 @@
+article_id:1994
+category_name:News
+title_name:Issue Regarding Alberian Battle Royale
+image_path:
+
+message:<div>There is an issue occurring since <span class="local_date" data-local_date="1613282400"></span> in the Alberian Battle Royale mode where ability items with the bog resistance ability don&#39;t work as intended.</div><div><br></div><div>We plan to fix this issue the next time the Alberian Battle Royale mode becomes available on <span class="local_date" data-local_date="1613541600"></span>.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1613367000; update_time1613366113

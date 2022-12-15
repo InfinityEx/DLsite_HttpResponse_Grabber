@@ -1,0 +1,82 @@
+article_id:195
+category_name:News
+title_name:Gala Dragalia, available now!
+image_path:
+
+message:<div>Gala Dragalia started <span class="local_date" data-local_date="1547100000"></span>!</div><div><br></div><div>What is Gala Dragalia?</div><div>・ The initial appearance rate for 5★ adventurers, dragons, and wyrmprints will be increased to 6% from the standard 4%!</div><div>・ Limited-time Gala Dragalia versions of adventurers will be added, available only while Gala Dragalia is active!</div><div><br></div><div>Gala Dragalia active period:</div><div><span class="local_date" data-local_date="1547100000"></span> to <span class="local_date" data-local_date="1547531940"></span></div><div><br></div><div>Gala Dragalia appearance rates:</div><div>5★ total: 6.00%</div><div>5★ featured total: 0.50% (Adventurers: 0.50%)</div><div>5★ standard total: 5.50% (Adventurers: 1.00%, Dragons: 1.50%, Wyrmprints: 3.00%)</div><div>4★ standard total: 16.00% (Adventurers: 4.82%,　Dragons: 3.72%, Wyrmprints: 7.45%)</div><div>3★ standard total: 78.00% (Adventurers: 33.25%, Dragons: 17.25%, Wyrmprints: 27.50%)</div><div>Note: Displayed decimal values have been rounded down to two digits, so the total may not add up to exactly 100%.</div><div><br></div><div>The featured Gala Dragalia adventurer is detailed below.</div><div><br></div><div>Gala Dragalia adventurer:</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/30a9dc99c171f4ea2d7fb856764bb97a.png"></div>
+<div class="status">
+	<div class="title">Stats</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>80</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>843</span>
+				</li>
+				<li class="atk">
+					<span>Strength</span>
+					<span>485</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+			<span>2568</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">Adventurer details</div>
+			<div class="param">
+				<ul>
+					<li>An archer from Woodhaven whose skills are<br>equal to her brother, Luca. Rowdy and loud, her<br>special move is a crushing punch that Luca has<br>experienced more than once. She left her village<br>to fight fiends and provide aid to all in need.</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b33341fc65d15df0dddf43902ed4cf212.png"></span>
+				<span>Brilliant Bolt</span>
+			</dt>
+			<dd>
+				<div>
+					Deals flame damage to enemies directly ahead,<br>and fires extra shots equal to the number of buffs<br>the user has. A maximum of seven additional shots<br>can be fired.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2b2bc8b0c47c3d2efa57f9e51de8aff02.png"></span>
+				<span>Cheerful Assist</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the entire team's strength by 20%<br>for 10 seconds. If used again, the skill will<br>increase the entire team's defense by 20%<br>for 15 seconds instead, after which the skill<br>will revert to its initial effect.
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">Co-abilities</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>Skill Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases skill gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>Sylvan Strength II</span></dt><dd><div>Increases the user's strength by 2% <br>and critical rate by 1% for 15 seconds<br>for every 20-hit combo.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea4c47784ca6465117276eb2a3d9a0d92.png"></span><span>Woodland Blessing II</span></dt><dd><div>Reduces susceptibility to stun and sleep by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span><span>Buff Time +30%</span></dt><dd><div>Increases duration of buff skills by 30%.</div></dd></dl></div></div></div><div><br></div><div>Note: These are the stats when at maximum level with all mana circles unlocked. They do not represent the stats when first obtained. Adventurers with the same name cannot be put into the same party.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For information about featured adventurers, dragons, and wyrmprints, tap Summon on the in-game footer menu, then select Showcase Info and check the More Info tab, or select Appearance Rates and check the Appearance Rates section.</div><div>3. The event schedule and content may change without warning.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1547100000; update_time1547532377

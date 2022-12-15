@@ -1,0 +1,64 @@
+article_id:1870
+category_name:News
+title_name:Gala Dragalia Is Now Live!
+image_path:
+
+message:<div>Gala Dragalia went live at <span class="local_date" data-local_date="1609135200"></span>!</div><div><br></div><div>What are Gala Dragalia and Gala Dragalia Remix?</div><div>・The initial appearance rate for 5★ adventurers and dragons is boosted to 6%, which is up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div><br></div><div>Newly added featured dragon:</div><div>5★ Gala Reborn Zephyr (wind)</div><div><br></div><div>Gala Dragalia appearance rates:</div><div>5★ total: 6.00%</div><div>5★ featured total: 0.80% (Dragons: 0.80%)</div><div>5★ standard total: 5.20% (Adventurers: 3.00%, Dragons: 2.20%)</div><div>4★ standard total: 16.00% (Adventurers: 8.55%, Dragons: 7.45%)</div><div>3★ standard total: 78.00% (Adventurers: 47.00%, Dragons: 31.00%)</div><div><br></div><div>Gala Dragalia event duration:</div><div><span class="local_date" data-local_date="1609135200"></span> to <span class="local_date" data-local_date="1609394399"></span></div><div><br></div><div>Get a closer look at the newly added featured dragon below.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/60e5be4356d184ba3de6142f06fa5054.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>Through the belief of the people of the plains,<br>Zephyr has been reborn. Freed from the noxious<br>miasma eating away at his body, his prudence is<br>now tempered with an unwavering will and an<br>open mind.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>Howling Fury</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to the target and nearby<br>enemies. If the user is targeting an enemy<br>and not using a skill when their remaining<br>shapeshift time runs out, this skill will be used<br>automatically, regardless of whether or not<br>the skill gauge is filled.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Wind) Strength +70%</span></dt><dd><div>If the user is attuned to Wind: <br>increases strength by 70%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/65863989132db80658f5d919573c14e92.png"></span><span>(Wind) Wrath of the Plains II</span></dt><dd><div>If the user is attuned to Wind:<br>adds 30% to the modifier applied to damage<br>against water-attuned enemies for 45 seconds<br>every time the dragon gauge fills by 10%.<br>This increase will not stack, and, after activating,<br>this ability will not activate again for 5 seconds.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Note: For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1609135200; update_time1608617518

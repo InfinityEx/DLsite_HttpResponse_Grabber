@@ -1,0 +1,8 @@
+article_id:1921
+category_name:News
+title_name:An Interlude Has Been Added to Main Campaign Chapter 17: The City of Grams!
+image_path:https://dragalialost.akamaized.net/attached/information/images/f1eb3e5d573545082c4c16d402fecb53.png
+
+message:<div>An interlude was added to main campaign Chapter 17: The City of Grams at <span class="local_date" data-local_date="1610949600"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/f1eb3e5d573545082c4c16d402fecb53.png"></div><div><br></div><div>Upon meeting in an abandoned church, Nevin reveals to Sandalphon the results of his investigation into the whereabouts of the wayward sealing stone that was once tucked safely away within the Church&#39;s innermost vault...</div><div><br></div><div>Please enjoy the interlude!</div><div><br></div><div>Notes:</div><div>・The interlude being added to chapter 17 of the main campaign, The City of Grams, will unlock after you clear Ch. 17 / 5-4, &quot;The Faeries&#39; Home.&quot;</div><div>・The newly added interlude will be partially voiced instead of fully voiced in Japanese.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1610949600; update_time1610589018

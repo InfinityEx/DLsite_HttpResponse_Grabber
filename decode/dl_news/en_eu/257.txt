@@ -1,0 +1,164 @@
+article_id:257
+category_name:News
+title_name:Summon Showcase: Dragon Special Is Now Live!
+image_path:
+
+message:<div>The Summon Showcase: Dragon Special, kicked off <span class="local_date" data-local_date="1550815200"></span>!</div><div><br></div><div>During this showcase, the appearance rates for featured 4★ and 5★ dragons will be increased. On top of that, 4★ and 5★ adventurers and wyrmprints will also be featured!</div><div><br></div><div>Dragon Special Appearance Rates:</div><div>5★ featured - Total: 2% (Adventurers: 0.40%, Dragons: 1.20%, Wyrmprints: 0.40%)</div><div>5★ normal - Total: 2% (Adventurers: 0.40%, Dragons: 1.20%, Wyrmprints: 0.40%)</div><div>4★ featured - Total: 7% (Adventurers: 1.25%, Dragons: 4.50%, Wyrmprints: 1.25%)</div><div>4★ normal - Total: 9% (Adventurers: 3.07%, Dragons: 3.95%, Wyrmprints: 1.97%)</div><div>3★ normal - Total: 80% (Adventurers: 33.75%, Dragons: 28.50%, Wyrmprints: 17.75%)</div><div><br></div><div>This showcase will be available from <span class="local_date" data-local_date="1550815200"></span> to <span class="local_date" data-local_date="1551333540"></span>.</div><div><br></div><div>Get a closer look at some of the featured dragons below.</div><div><br></div><div>Featured Dragons:</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a5981bc6ebe1bd2ce66778c37ab992ea.png"></div>
+<div class="status">
+	<div class="title">Stats</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>369</span>
+				</li>
+				<li class="atk">
+					<span>Strength</span>
+					<span>127</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+			<span>996</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">Dragon details</div>
+			<div class="param">
+				<ul>
+					<li>Known as the Firelord, he describes fire as "an<br>all-consuming greed" and demands offerings<br>from humans to sate his appetite. Dignified on<br>the surface, he's selfish at heart—though he will<br>always protect those who make offerings to him.</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cb241c1bff1c072c2b8450241b15c37b2.png"></span>
+				<span>Devastation</span>
+			</dt>
+			<dd>
+				<div>
+					Deals flame damage to enemies in a line.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Flame) Strength +60%</span></dt><dd><div>If the user is attuned to Flame: <br>increases strength by 60%.</div></dd></dl></div></div></div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1b11ec5c9f2e9414c4e62efc3de3be04.png"></div>
+<div class="status">
+	<div class="title">Stats</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>376</span>
+				</li>
+				<li class="atk">
+					<span>Strength</span>
+					<span>119</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+			<span>995</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">Dragon details</div>
+			<div class="param">
+				<ul>
+					<li>A dragon of legend who dominates the seas of<br>South Grastaea. Worshipped by sailors, his iron<br>confidence gives him a broadminded personality.<br>He particularly likes adventurous youths, giving<br>them both advice (wanted or not) and protection.</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1f6d0bbf9a2503a371995eae39d200e32.png"></span>
+				<span>Poseidon's Trident</span>
+			</dt>
+			<dd>
+				<div>
+					Deals water damage to the target and nearby enemies.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>(Water) HP & Strength +30%</span></dt><dd><div>If the user is attuned to Water:<br>increases strength and HP by 30%.</div></dd></dl></div></div></div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ce316076c2a3a5ef25da86b26837cc3a.png"></div>
+<div class="status">
+	<div class="title">Stats</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>369</span>
+				</li>
+				<li class="atk">
+					<span>Strength</span>
+					<span>126</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+			<span>995</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">Dragon details</div>
+			<div class="param">
+				<ul>
+					<li>A dragon revered by the people of the plains.<br>He protects those who praise his name and <br>smites all who would do him harm. Cautious<br>and mistrustful, he will not permit even a<br>small threat to escape his punishment.</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3b8c6f3c96c407cfbd6115f294a01def2.png"></span>
+				<span>Zephyr's Wrath</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to surrounding enemies,<br>and inflicts stun.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Wind) Strength +60%</span></dt><dd><div>If the user is attuned to Wind: <br>increases strength by 60%.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent each dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>The other featured adventurers, dragons and wyrmprints are as follows.</div><div><br></div><div>Adventurers: 5★ Mikoto, 4★ Vanessa</div><div><br></div><div>Dragons: 4★ Ifrit, 4★ Poli&#39;ahu, 4★ Juggernaut</div><div><br></div><div>Wyrmprints: 5★ Flash of Genius, 4★ One with the Shadows</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For information about featured adventurers, dragons, and wyrmprints, tap Summon on the in-game footer menu, then select Showcase Info and check the More Info tab, or select Appearance Rates and check the Appearance Rates section.</div><div>3. The schedule and content may change without warning.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1550815200; update_time1550812339

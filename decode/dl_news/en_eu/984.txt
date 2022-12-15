@@ -1,0 +1,8 @@
+article_id:984
+category_name:Events
+title_name:A Raid Event Revival, New Year's Tidings: Fortune from Afar, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/31790c9453ccbeb3ffd79cf78bcfcad5.png
+
+message:<div>The New Year&#39;s Tidings: Fortune from Afar raid event revival will begin <span class="local_date" data-local_date="1577340000"></span>!</div><div><br></div><div>During this event, you can use co-op play to fight against the light-attuned raid boss.</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/31790c9453ccbeb3ffd79cf78bcfcad5.png"></div><div>The new year is almost upon the Halidom! A group of people bringing blessings for the new year in samurai attire arrive from Hinomoto, a land to the east. But when a naginata-wielding young woman who was following that group shows up, the Halidom is thrown into an uproar! Will they all be able to safely ring in the new year?</div><div><br></div><div>■Notes</div><div>1. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate in event quests.</div><div>2. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign in order to play co-op.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div><div><br></div>
+
+start_time:1577253600; update_time1577265816

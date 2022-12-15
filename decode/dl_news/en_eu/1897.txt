@@ -1,0 +1,8 @@
+article_id:1897
+category_name:Events
+title_name:A New Event, Fortune's Fray, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/85b9b32ce47305400cb20d82d73dccdf.png
+
+message:<div>The Fortune&#39;s Fray event will start at <span class="local_date" data-local_date="1610517600"></span>. This is a coliseum event in which players compete in a tournament to come out on top! You can earn items used to unlock shared skills and restore stamina as rewards for this event, so be sure to participate!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/85b9b32ce47305400cb20d82d73dccdf.png"></div><div><br></div><div>The new year got off to a rocky start, but Seimei has decided to kick off the celebrations with a tournament! The competitors have already assembled&mdash;some familiar, and some mysterious. And with Luca and Elisanne both determined to claim victory, things are sure to get rowdy!</div><div><br></div><div>Note: Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate in event quests.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1610258400; update_time1609742547

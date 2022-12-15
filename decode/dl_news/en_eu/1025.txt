@@ -1,0 +1,8 @@
+article_id:1025
+category_name:News
+title_name:The Lunar New Year Bonus Is Live!
+image_path:https://dragalialost.akamaized.net/attached/information/images/a2083bade71d3c6b5879c8d7f0432a39.png
+
+message:<div>The Lunar New Year bonus started <span class="local_date" data-local_date="1579759200"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a2083bade71d3c6b5879c8d7f0432a39.png"></div><div>You can get the following fabulous rewards when you log in for the duration of the event!</div><div><br></div><div>■Log-In Bonus Content</div><div>Day 1 5★ Wyrmprint: Blossoms in a New Year&#39;s Sky (Fully Unbound) x1</div><div>Day 2 Wyrmite x200</div><div>Day 3 Wyrmite x200</div><div>Day 4 Wyrmite x200</div><div>Day 5 Wyrmite x200</div><div>Day 6 Wyrmite x200</div><div>Day 7 Wyrmite x200</div><div><br></div><div>■Event Duration</div><div><span class="local_date" data-local_date="1579759200"></span> to <span class="local_date" data-local_date="1580709599"></span></div><div><br></div><div>Notes:</div><div>1. The log-in bonus will be sent to your goodie box every day after 07:00 when you log in.</div><div>2. Gifts sent as log-in bonuses can only be accepted for a limited time.</div><div><br></div><div>Thank you for playing Dragalia Lost!</div>
+
+start_time:1579759200; update_time1579239741

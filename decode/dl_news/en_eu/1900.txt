@@ -1,0 +1,8 @@
+article_id:1900
+category_name:News
+title_name:An Event based on the Persona Series of Games Is Coming!
+image_path:
+
+message:<div>As announced in the preview video broadcast on YouTube around <span class="local_date" data-local_date="1610114400"></span>, an event based on the Persona series of games will take place in late January!</div><div><br></div><div>In this event, Joker and other characters from the Persona series will appear in Dragalia Lost as a part of the event story and as adventurers that players can summon. Once Joker&#39;s dragon gauge is full, he&#39;ll be able to call upon Ars&egrave;ne to fight alongside him in battle. The way he moves and makes use of his weapons in Dragalia Lost takes inspiration from his appearances in his original games. Other members of the Phantom Thieves of Hearts will be available to summon, and one will join your roster as you complete quests in this event too.</div><div><br></div><div>In Dragalia Lost, Joker and his friends will join forces with the Halidom to solve a strange incident in a brand-new story. During this raid event&#39;s battles, players can enjoy graphics and animations that look like they came straight out of the Persona games.</div><div><br></div><div>For further details on this event, please see the notifications posted in-game and on the official website in the near future.</div><div><br></div><div>If you haven&#39;t seen the preview video yet, be sure to give it a watch at the link below.</div><div><br></div><div>▼Video Link</div><div><a href="https://youtu.be/yhuHkk59FCk">https://youtu.be/yhuHkk59FCk</a></div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1610115300; update_time1610087152

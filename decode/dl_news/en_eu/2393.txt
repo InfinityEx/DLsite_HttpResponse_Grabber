@@ -1,0 +1,8 @@
+article_id:2393
+category_name:News
+title_name:Issue Regarding Diamantium Purchase on iOS
+image_path:
+
+message:<div>An issue was temporarily preventing diamantium purchase in the iOS version of the game.</div><div>This issue has now been resolved.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1627609200; update_time1627621991

@@ -1,0 +1,8 @@
+article_id:1412
+category_name:Events
+title_name:A New Facility Event, Rhythmic Resolutions, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/5df44e612a386d525890148011b369cf.png
+
+message:<div>A new facility event, Rhythmic Resolutions, will begin <span class="local_date" data-local_date="1593151200"></span>!</div><div><br></div><div>This event will pit your group of adventurers against bosses of the flame element. You&#39;ll also be able to get an event-related reward facility!</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/5df44e612a386d525890148011b369cf.png"></div><div>The prince and friends arrive at a town where a Hinomotoan summer festival is planned to be held. However, they soon find that the town is in a panic over the appearance of fluffy creatures and their troublesome antics! The prince must work with Eugene and Catherine to bring order to the situation, but they discover that the only solution is to...dance a bon dance?!</div><div><br></div><div>■Event Duration</div><div><span class="local_date" data-local_date="1593151200"></span> to <span class="local_date" data-local_date="1594619999"></span></div><div><br></div><div>Notes:</div><div>1. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate.</div><div>2. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign in order to play co-op.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1592982000; update_time1592977300

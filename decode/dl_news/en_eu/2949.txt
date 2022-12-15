@@ -1,0 +1,8 @@
+article_id:2949
+category_name:News
+title_name: Part Two of Chapter 24: Primal Strength Added to the Main Campaign!
+image_path:https://dragalialost.akamaized.net/attached/information/images/e9f9596f6557bb5498d1c75950bd1317.png
+
+message:<div>Part two of Chapter 24: Primal Strength was added to the main campaign on <span class="local_date" data-local_date="1647496800"></span>!</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/e9f9596f6557bb5498d1c75950bd1317.png"></div><div>The will of wyrms from long ago await the party in the Dragon Necropolis&mdash;as well as the truth about Bahamut and an ancient war. But before they can act, the Holywyrm appears. Corrupted by black mana, he calls forth dragons of legend with his otherworldly ululation!</div><div><br></div><div>We hope you&#39;re looking forward to seeing what&#39;s in store for the prince and his friends!</div><div><br></div><div>■Notes</div><div>1. Part two of Chapter 24 of the main campaign will unlock when you clear Ch. 24 / 4-2 &quot;Together.&quot;</div><div>2. The release of part two does not include additional dragons who can be unbound using draconic essences, but you can use the draconic essence icon displayed on the area map for each chapter in the main campaign to check the dragon whose draconic essence you can obtain, how many draconic essences you currently have, how many more you can obtain, and the quests from which you can obtain draconic essences.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1647496800; update_time1646890225

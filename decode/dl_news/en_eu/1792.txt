@@ -1,0 +1,8 @@
+article_id:1792
+category_name:Events
+title_name:A New Event, Princess Connect! Re: Dive: A Voracious Visitor, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/d0c87d65d7879e4f5d8e3f359fe2a84c.png
+
+message:<div>The Princess Connect! Re: Dive: A Voracious Visitor raid event will begin at <span class="local_date" data-local_date="1606716000"></span>! During this event, you can use co-op play to fight against the shadow-attuned raid boss.</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/d0c87d65d7879e4f5d8e3f359fe2a84c.png"></div><div><br></div><div>While foraging for wild edibles around their forest campsite, Cleo and Mitsuba come across the perpetually peckish Pecorine, a young lady who was transported from her world to hunt down and defeat the fiendish Aether. But just what is Aether, and why was Pecorine of all people called to fight it? The three make for a mana fount in search of answers, and along the way they learn as much about whipping up delectable dishes as they do about whipping pesky fiends!</div><div><br></div><div>This event&#39;s theme song is &quot;Rainbow Riders&quot; by M・A・O.</div><div><br></div><div>We hope you&#39;re looking forward to the Princess Connect! Re: Dive: A Voracious Visitor raid event!</div><div><br></div><div>■Notes</div><div>1. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate in event quests.</div><div>2. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign in order to play co-op.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div><div><br></div>
+
+start_time:1606284000; update_time1605854910

@@ -1,0 +1,8 @@
+article_id:1367
+category_name:Events
+title_name:A New Event, Nadine and Linnea's United Front, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/e34a60349d60aeb80f425f5d5508e975.png
+
+message:<div>A new event, Nadine and Linnea&#39;s United Front, will start <span class="local_date" data-local_date="1591941600"></span>.</div><div>This is a solo-only event where you must take on hordes of attacking enemies.</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/e34a60349d60aeb80f425f5d5508e975.png"></div><div><br></div><div>The Dyrenell Empire has breached our borders!</div><div>And our forces are spread thin already...</div><div>Nadine! Linnea! I hate to ask so much of you,</div><div>but please&mdash;work together and defend New Alberia!</div><div><br></div><div>Note:</div><div>Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1591768800; update_time1591084103

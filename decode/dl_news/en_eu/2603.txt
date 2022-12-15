@@ -1,0 +1,93 @@
+article_id:2603
+category_name:News
+title_name:Adding the Mana Spiral to More Adventurers!
+image_path:
+
+message:<div>A sixth mana circle, the mana spiral, will be added to certain adventurer starting <span class="local_date" data-local_date="1637042400"></span>.</div><div><br></div><div>The adventurer affected this time and his stats are described below.</div><div>Note: Unlocking an eligible adventurer&#39;s mana spiral requires special materials specific to that adventurer that can be earned from the daily bonus of the Trials of the Mighty quest.</div><div><br></div><div>■Affected Adventurers</div><div>5★ Gala Leif (wind/sword)</div><div><br></div><div>■Stats</div><div><br></div><div>・5★ adventurer</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/d9e74325d036fb30285c223295c0c6682.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">Gala Leif</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/e9dfe7dacc80f97bf9aa860adb0b78992.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>1,002</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>546</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,248</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ce18e747f777d979161c063fcf7f13952.png"></span>
+				<span>Feathered Gale</span>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies,<br>reduces their defense, dispels one buff from<br>each target, and inflicts poison.<br>If this skill is used during shielding stance,<br>a variant called Sparrows' Protection will be<br>used instead. Sparrows' Protection increases<br>the entire team's max HP for the remainder<br>of the quest, and greatly increases the user's<br>defense.</div><div class="skill-detail">Damage: 490 × 1 hit<br>Damage: 510 × 1 hit<br>Skill Energy Required: 3,456<br>Special Effects:<br>・Dispels Buffs<br>・Defense -5%<br>　　Lasts 20 seconds<br>　　Does not stack<br>・Poison<br>　　Lasts 15 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 58.2<br><br><color=#00008B>Shielding Stance:</color><br>Skill Energy Required: 3,456<br>Special Effects:<br>・HP +10%<br>・Defense +60%<br>　　Lasts 15 seconds<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/233ea87a2c62ab9174c7715807a245542.png"></span>
+				<span>Pinion Slash</span>
+			</dt>
+			<dd><div>Deals damage to enemies in a line, and reduces<br>their strength. Poisoned foes take extra damage.<br>If this skill is used during shielding stance,<br>a variant called Parrying Slash will be<br>used instead. Parrying Slash deals damage<br>to enemies directly ahead, and inflicts poison.<br>Damage is increased against foes with<br>reduced defense.</div><div class="skill-detail">Damage: 510 × 2 hits<br>Damage: 550 × 1 hit<br>Skill Energy Required: 8,640<br>Special Effects:<br>・Strength -5%<br>　　Lasts 20 seconds<br>　　Does not stack<br>Damage Modifier:<br>・120% against poisoned enemies<br><br><color=#00008B>Shielding Stance:</color><br>Damage: 710 × 1 hit<br>Damage: 780 × 1 hit<br>Damage: 850 × 1 hit<br>Skill Energy Required: 8,640<br>Special Effects:<br>・Poison<br>　　Lasts 15 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 58.2<br>Damage Modifier:<br>・120% against enemies with reduced defense<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f4fe3ec28ab794355638e48f3cdc2b332.png"></span>
+				<span>Reduced Strength & Defense Punisher +8%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases damage to enemies with reduced<br>strength or defense by 8%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Wind) Strength Doublebuff +10%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind: <br>increases their strength by 10% for 15 seconds<br>each time they receive a defense up buff.<br>After activating, this ability will not<br>activate again for 15 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b6ec42443332c9d4fccad02c2c52fbf82.png"></span><span>White Sparrow</span></dt><dd><div>Fills 100% of skill gauges at the start of quests<br>and increases the duration of debuff skills by<br>25%. In addition, using a skill will grant the user<br>a strength amp with a maximum team amp level<br>of three. After this amp is granted, this ability<br>will not grant it again for 30 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1773f9fc2cee21b3daccbd539f0569eb2.png"></span><span>White Sparrow's Vow III</span></dt><dd><div>Reduces susceptibility to freeze and bog by<br>100%. When Leif is hit by an attack that would<br>have inflicted freeze or bog on him, his strength<br>is increased by 15% for 10 seconds.<br>This increase will not stack, and, after activating,<br>this buff cannot be activated again by the same<br>affliction for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8c5efd6ea1a6cf7dccb111f085a0c4242.png"></span><span>Flurry Strength & Poison Edge/Sting I</span></dt><dd><div>When the combo count is 10 or higher,<br>increases strength by 25%, the chances of<br>inflicting poison by 70%, and the duration<br>of poison inflicted on enemies by 30%.</div></dd></dl></div></div></div><div><br></div><div>Notes:</div><div>1. The stats shown here represent the adventurer at level 100 with 70 mana nodes unbound.</div><div>2. The stats shown here do not include increases or decreases due to abilities.</div><div>3. The stats for the adventurer included in this notification shown in any prior notifications or preview videos were the stats at level 80 with 50 mana nodes unbound.</div><div>4. When an adventurer&#39;s skill level increases, the skill gauge will fill more slowly when set as a shared skill.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1636956000; update_time1636602049

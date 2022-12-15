@@ -1,0 +1,8 @@
+article_id:1819
+category_name:News
+title_name:About Handling Inquiries over the New Year
+image_path:
+
+message:<div>We will address inquiries received between <span class="local_date" data-local_date="1609167600"></span> and <span class="local_date" data-local_date="1609685999"></span> as we are able to.</div><div><br></div><div>Depending on the content, replies may not be sent until <span class="local_date" data-local_date="1609722000"></span> or later. Thank you for your understanding.</div><div><br></div><div>Thank you for playing the Dragalia Lost game.</div>
+
+start_time:1609135200; update_time1608878148

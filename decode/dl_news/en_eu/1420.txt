@@ -1,0 +1,262 @@
+article_id:1420
+category_name:News
+title_name:A New Summon Showcase, Water Focus, Is Now Live!
+image_path:
+
+message:<div>A new Summon Showcase, Water Focus, went live <span class="local_date" data-local_date="1593756000"></span>!</div><div><br></div><div>In the Water Focus summon showcase, only water-attuned adventurers and dragons will appear.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Note: The roster for this summon showcase does not include adventurers and dragons that are attuned to elements other than water.</span></div><div><br></div><div>Availability period for featured summons:</div><div><span class="local_date" data-local_date="1593756000"></span> to <span class="local_date" data-local_date="1594792740"></span></div><div><br></div><div>Get a closer look at some of the 5★ adventurers and 5★ dragons who may appear in the Water Focus summon showcase.</div><div><br></div><div>5★ adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2535b21ca64ce405a5d0a53ac3540d7c.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>743</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,501</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A wandering chef of unmatched culinary genius.<br>Once knight retainer to a princess in a small<br>kingdom of northern Grastaea, he sheathed his<br>blade to pursue more...piquant passions.<br>He's out to change the world, one dish at a time.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/52c09a4c9f3e9e09d69ea50e14dce5682.png"></span>
+				<span>Amuse-bouche</span>
+			</dt>
+			<dd>
+				<div>
+					Deals water damage to enemies directly ahead,<br>and applies one of the following effects based<br>on the user's current cooking stance:<br><br>Appetizer Stance: Inflicts frostbite and<br>reduces enemies' defense by 5% for 30 seconds.<br>This defense reduction effect will not stack.<br><br>Entrée Stance: Inflicts stun and<br>reduces enemies' strength by 15% for 30 seconds.<br>This strength reduction effect will not stack.<br><br>Dessert Stance: Inflicts freeze.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/944f49691bf38a5e905697ff03d017ad2.png"></span>
+				<span>Bon Appétit</span>
+			</dt>
+			<dd>
+				<div>
+					Applies one of the following effects to the entire team<br>based on the user's current cooking stance:<br><br>Appetizer Stance: Increases defense by 15% for<br>15 seconds, and inspiration by two stages.<br>This defense increase will not stack.<br><br>Entrée Stance: Increases critical rate by 10% for<br>15 seconds, and inspiration by three stages.<br>This critical rate increase will not stack.<br><br>Dessert Stance: Increases strength by 8% for<br>15 seconds, and inspiration by two stages.<br>This strength increase will not stack.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Strength +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases strength by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>(Water) Above 10 Hits = Flame Res +10%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water: <br>reduces flame damage taken by them by 10%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cc3f28b7bfce6dfc1ea65f36822cae7f2.png"></span><span>Critical Hit = Attack Rate II</span></dt><dd><div>Increases attack rate by 10% for 20 seconds each<br>time one of the user's attacks is a critical hit.<br>After activating, this ability will not activate again<br>for 10 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>Burn Res +100%</span></dt><dd><div>Reduces susceptibility to burning by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span><span>Combo Time +4</span></dt><dd><div>Extends the window between hitting an enemy and<br>the combo counter resetting by four seconds.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/04383ff61769c5d380fc0b8c5bad5661.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>752</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>508</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The daughter of the mayor of the rural town of<br>Quinbell. Her domineering attitude tends to drag<br>people into her affairs, but she's actually quite<br>stoic. Despite her pampered origins, she strives<br>every day to be a perfect version of herself.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1afb4a1e63b9349ff028357edec9da6a2.png"></span>
+				<span>Beck and Call</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the user's strength by 20% for 10 seconds,<br>and grants the user the "Perfect Escort" effect.<br>The Perfection Embodied ability buffs the user<br>based on the number of Perfect Escort stacks<br>they have, up to a maximum of three stacks.
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5df6e7b975d220221d524e55556940f92.png"></span>
+				<span>Perfect Order</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals water damage to the target and nearby<br>enemies. Damage will be increased based on<br>the number of Perfect Escort stacks the user has.<br>Using this skill will consume all Perfect Escort<br>stacks.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases HP by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Water) Above 10 Hits = Strength +13%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water:<br>increases their strength by 13% when<br>the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6ddcc8f713334a535e381df622386dc92.png"></span><span>Perfection Embodied II</span></dt><dd><div>Buffs the user's standard attacks, force strikes,<br>and the "Perfect Order" skill based on the<br>number of Perfect Escort stacks they have.<br>In addition, they will be immune to knockback,<br>and all elementally-attuned damage they take<br>will be reduced by 10% as long as they have at<br>least one stack, but they will lose one stack<br>each time they take damage.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>Skill Damage +30%</span></dt><dd><div>Increases attack skill damage by 30%.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here do not include increases or decreases due to abilities and represent each adventurer at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div><br></div><div>5★ dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7af26af24e2047d23b1bf448c687be09.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon who loves cute, dreamy things and is<br>skilled at mending weapons. She's always at the<br>side of her little sister, Creidhne. If you give her<br>a weapon, you can be certain it will come back<br>adorable!</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>Dazzling Dancefloor</span>
+			</dt>
+			<dd>
+				<div>
+					Creates a buff zone that lasts for 10 seconds and<br>gradually fills the skill gauges of adventurers inside it.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Water) Strength +45%</span></dt><dd><div>If the user is attuned to Water: <br>increases strength by 45%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>(Water) Skill Recharge II</span></dt><dd><div>If the user is attuned to Water: <br>fills 35% of a skill's skill gauge after using<br>that skill.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For information about appearance rates, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1593756000; update_time1593420493

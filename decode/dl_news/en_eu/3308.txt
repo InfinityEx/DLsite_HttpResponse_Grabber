@@ -1,0 +1,8 @@
+article_id:3308
+category_name:Important
+title_name:Regarding the End-of-Service Date for Dragalia Lost
+image_path:
+
+message:<div>Thank you for playing the Dragalia Lost game.</div><div><br></div><div>In a notification that was posted in March 2022, we announced that service for Dragalia Lost will come to a close at a later date. This message is to inform players that the end-of-service date has been decided.</div><div><br></div><div>・Service end date and time</div><div><span class="local_date" data-local_date="1669788000"></span></div><div><br></div><div>We would like to extend our sincere thanks to everyone who has played the game since service began.</div><div><br></div><div>Please note that diamantium is no longer available for purchase as of <span class="local_date" data-local_date="1661839200"></span>. In addition, Upgrade Essentials &amp; Packs, which can be purchased from the in-game Shop using diamantium, will no longer be available for purchase from <span class="local_date" data-local_date="1667196000"></span>. Players may continue to spend diamantium on summoning, constructing the Halidom, recovering stamina, recovering getherwings, and using continues until service comes to a close.</div><div><br></div><div>■After the end of service</div><div>If you start up the Dragalia Lost game after the game&#39;s service has ended, an end-of-service notification will be displayed and you will not be able to play the game.</div>
+
+start_time:1661839200; update_time1661752415

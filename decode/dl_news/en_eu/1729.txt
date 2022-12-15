@@ -1,0 +1,30 @@
+article_id:1729
+category_name:News
+title_name:New Wyrmprints Added to the Treasure Trade for Wyrmprints Lineup!
+image_path:
+
+message:<div>New wyrmprints were added to the Treasure Trade for wyrmprints lineup at <span class="local_date" data-local_date="1603778400"></span>.</div><div><br></div><div>You can trade for the newly added wyrmprints from the Featured tab or from the various rarity tabs in the Treasure Trade for wyrmprints.</div><div><br></div><div>New wyrmprints:</div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/5bec68695800a6e7246d7718255196cf2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">Welcome to the Opera!</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ec72ef8cd42c62205b75088898a601112.png"></span><span>Shadowblighted Punisher +25%&nbsp;(Max 25%)</span></dt><dd><div>Increases damage to shadowblighted enemies by 25%.&nbsp;(Max 25%)</div></dd><dt class="event 20828"><span><img src="https://dragalialost.akamaized.net/attached/information/images/b3291f49dfc69257393b939a7346ff652.png"></span><span>Vibrato +150%&nbsp;(Max 150%)</span></dt><dd class="event 20828"><div>Increases vibrato intake for clearing quests<br>by 150%.&nbsp;(Max 150%)</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/08bc7a2c64ab5efee41d3ce2020d26622.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"></div>
+	<div class="discription">
+		<div class="charaName">Enter the Blue Rose!</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>(Manacaster) Critical Rate +12%&nbsp;(Max 15%)</span></dt><dd><div>If the user wields a Manacaster:<br>increases critical rate by 12%.&nbsp;(Max 15%)</div></dd><dt class="event 20828"><span><img src="https://dragalialost.akamaized.net/attached/information/images/b3291f49dfc69257393b939a7346ff652.png"></span><span>Vibrato +100%&nbsp;(Max 150%)</span></dt><dd class="event 20828"><div>Increases vibrato intake for clearing quests<br>by 100%.&nbsp;(Max 150%)</div></dd></dl></div></div></div><div><br></div><div>Notes:</div><div>・The stats shown here represent the wyrmprints when fully unbound. They do not represent the stats when first obtained.</div><div>・The Shadowblighted Punisher ability increases damage dealt to enemies inflicted with shadowblight. Shadowblight is an affliction that will soon be added to the game.</div><div><br></div><div>Featured period:</div><div><span class="local_date" data-local_date="1603778400"></span> to <span class="local_date" data-local_date="1605247199"></span></div><div><br></div><div>Notes:</div><div>・After the featured period is over, you will still be able to trade for the new wyrmprints from the various rarity tabs.</div><div>・For wyrmprint details other than those included in this notification, see the Wyrmprints section in the Shop.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div><div><br></div>
+
+start_time:1603778400; update_time1603767376

@@ -1,0 +1,249 @@
+article_id:2611
+category_name:News
+title_name:A Water Focus Summon Showcase Is Now Live!
+image_path:
+
+message:<div>A Water Focus summon showcase started on <span class="local_date" data-local_date="1637042400"></span>!</div><div><br></div><div>In the Water Focus summon showcase, only water-attuned adventurers and dragons will appear.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Note: The roster for this summon showcase does not include adventurers and dragons that are attuned to elements other than water.</span></div><div><br></div><div>Availability period for featured summons:</div><div><span class="local_date" data-local_date="1637042400"></span> to <span class="local_date" data-local_date="1638165599"></span></div><div><br></div><div>Get a closer look at some of the 5★ adventurers and a 5★ dragon eligible to appear in the Water Focus summon showcase below.</div><div><br></div><div>5★ adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/12ebbf28f5be589ff8bd82be55cd37a6.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>743</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Commander of the apostles of the Ilian Church<br>of Grams. Observant and charismatic, she's the<br>perfect person for corralling the ragtag group of<br>apostles. A researcher who is gifted at alchemy,<br>she shares a Sigil with the angel Sandalphon.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7d34a362ac8c0f2daffee12a2c8007272.png"></span>
+				<span>Tactical Skewer</span>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies<br>and activates additional effects based on<br>which of the following buffs the user has:<br><br>Preservation Protocol:<br>Grants the user a defense amp.<br><br>Restoration Protocol:<br>Restores the user's HP.<br><br>Purification Protocol:<br>Removes all afflictions from the user.</div><div class="skill-detail">Damage: 2,400 × 1 hit<br>Recovery Potency: 50<br>Skill Energy Required: 2,640<br>Special Effects:<br>・Affliction Recovery (All Afflictions)<br>Amps:<br>・Defense Amp (Team Amp MAX Lv. = 1)<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/73882cbce4ae7690b3bee19bc515ce6f2.png"></span>
+				<span>Imperial Castling</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies,<br>inflicts frostbite, and inflicts two of the following:<br>poison, burn, paralysis, stormlash, flashburn,<br>shadowblight, or scorchrend.</div><div class="skill-detail">Damage: 300 × 7 hits<br>Skill Energy Required: 5,280<br>Skill Energy Required (Shared Skill): 11,431<br>Special Effects:<br>・Frostbite<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br>・Poison<br>　　Lasts 15 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 43<br>・Burn<br>　　Lasts 12 seconds<br>　　Triggers every 3.9 seconds<br>　　Damage: 72<br>・Paralysis<br>　　Lasts 13 seconds<br>　　Triggers every 3.9 seconds<br>　　Damage: 72<br>・Stormlash<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br>・Flashburn<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br>・Shadowblight<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br>・Scorchrend<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Strength +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases strength by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>(Water) HP 80% = Flame Res +6%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water: <br>reduces flame damage taken by them by 6%<br>when their HP is 80% or above.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>Sandalphon's Covenant II</span></dt><dd><div>At the start of quests, inflicts the "Locked Sigil"<br>debuff on the user for 300 seconds, but grants<br>them the "Preservation Protocol" effect. If the<br>user continues to charge their force strike, the<br>effect granted to them will change every 1.5<br>seconds. The effect will cycle through the<br>"Preservation Protocol," "Restoration Protocol,"<br>and "Purification Protocol" effects in that order.<br><br>Locked Sigil's remaining time will be reduced<br>by nine seconds each time the user uses<br>Tactical Skewer and by 30 seconds each time<br>the user removes an affliction from an ally.<br><br>When the Locked Sigil effect wears off, the user<br>will be granted the "Sigil Released" effect instead.<br>Sigil Released grants the user Preservation Protocol,<br>Restoration Protocol, and Purification Protocol.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8831e94809b45e724e1966915c4e75b82.png"></span><span>Afflicted Punisher II</span></dt><dd><div>Increases damage to enemies inflicted with<br>any affliction by 25%. Also, increases damage<br>to enemies with two or more types of afflictions<br>by up to an additional 15% based on the number<br>of different afflictions they are inflicted with,<br>up to a maximum of four.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/252380c83bcad93cfd7d9a8ab084ec36.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/1fc4080420e16a67744809f28590c98b2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>809</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>467</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,516</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The leader of the dragons known as the Five<br>Archangels. She values efficiency and is adept<br>at using information, and can also contact the<br>other Archangels directly. She is the partner<br>of the apostles' commander, Regina.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a71db1032873375d560b5ff8f8b83b682.png"></span>
+				<span>Angelic Praise</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Consumes one level of the user's skill reservoir,<br>restores HP to all teammates, continues<br>gradually healing over time, and activates<br>additional effects based on which of the following<br>buffs the user has:<br><br>Coordination Protocol:<br>Grants overdamage to the entire team.<br><br>Concentration Protocol:<br>Grants the user the "Rapid Analysis" effect.<br><br>If this skill is used while shapeshifted, a variant<br>called Celestial Skewer will be used instead.<br>Celestial Skewer deals damage to surrounding<br>enemies and, if the user has Rapid Analysis,<br>consumes one Rapid Analysis stack, then<br>restores HP to all teammates and immediately<br>readies this skill for use.</div><div class="skill-detail">Recovery Potency: 80<br>Skill Energy Required: 3,450<br>Skill Energy Required (Shared Skill): 15,352<br>Special Effects:<br>・HP Regen<br>　　Lasts 15 seconds<br>　　Triggers every 2.9 seconds<br>　　Potency: 20<br>・Overdamage<br>　　Lasts 30 seconds<br>　　Potency: 40%<br>　　Does not stack<br>・Rapid Analysis<br>　　Stacks up to 3 times<br><br><color=#00008B>When Shapeshifted:</color><br>Damage: 1,329 × 2 hits<br>Recovery Potency: 60</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1d28a4afc36416204e64baab4e2e86d52.png"></span>
+				<span>Angelic Wings</span>
+			</dt>
+			<dd><div>Consumes one level of the user's skill reservoir,<br>restores HP to all teammates, and activates<br>additional effects based on which of the following<br>buffs the user has:<br><br>Coordination Protocol:<br>Removes all afflictions from the entire team<br>and increases the max HP of adventurers<br>from whom afflictions have been removed.<br><br>Concentration Protocol:<br>Partially fills the user's unique shapeshift gauge.<br><br>If this skill is used while shapeshifted, a variant<br>called Celestial Castling will be used instead.<br>Celestial Castling deals damage to surrounding<br>enemies, inflicts frostbite, and inflicts one of<br>the following: poison, burn, paralysis, stormlash,<br>flashburn, shadowblight, or scorchrend.<br>Also, if the user has Rapid Analysis, Celestial<br>Castling consumes one Rapid Analysis stack,<br>then restores HP to all teammates and<br>immediately readies this skill for use.</div><div class="skill-detail">Recovery Potency: 135<br>Skill Energy Required: 3,450<br>Special Effects:<br>・Affliction Recovery (All Afflictions)<br>・HP +30%<br>Shapeshift Energy Gained: 600<br><br><color=#00008B>When Shapeshifted:</color><br>Damage: 313 × 7 hits<br>Recovery Potency: 50<br>Special Effects:<br>・Frostbite<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br>・Poison<br>　　Lasts 15 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 43<br>・Burn<br>　　Lasts 12 seconds<br>　　Triggers every 3.9 seconds<br>　　Damage: 72<br>・Paralysis<br>　　Lasts 13 seconds<br>　　Triggers every 3.9 seconds<br>　　Damage: 72<br>・Stormlash<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br>・Flashburn<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br>・Shadowblight<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br>・Scorchrend<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>Recovery Potency +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the potency of recovery skills by 20%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span>
+				<span>(Water) Vengeful Shield V</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water:<br>grants them a one-use shield that nullifies<br>damage up to 25% of their maximum HP when<br>they are hit by an attack that inflicts an affliction.<br>After activating, this ability will not activate<br>again for 20 seconds. This shield does not stack<br>with any other shields of the same type.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c30c52a11ae52d13521f26afd498251d2.png"></span><span>Heavenly Wings II</span></dt><dd><div>Grants the user a unique shapeshift in which<br>the user unleashes their "heavenly wings"<br>and replaces the dragon gauge with a<br>unique shapeshift gauge. Tapping the gauge<br>after it has filled to a certain threshold will allow<br>the user to shapeshift, and when shapeshifting,<br>the user will unleash their heavenly wings to<br>transform into their unique form regardless of<br>what dragon they are equipped with. By tapping<br>the gauge a second time or after the gauge has<br>been consumed, the user will return to their<br>original form. While shapeshifted, the user's<br>standard attacks will fill their unique shapeshift<br>gauge.<br><br>Also, grants the user a skill reservoir with<br>three levels. This skill reservoir is filled when<br>using standard attacks, when force strikes<br>connect with enemies, or by other conditions<br>that fill skill gauges.<br><br>In addition, at the start of quests, grants the user<br>the "Coordination Protocol" effect. If the user<br>continues to charge their force strike, the effect<br>granted to them will change every 1.5 seconds.<br>The effect will cycle between the "Coordination<br>Protocol" and "Concentration Protocol" effects.<br><br>Using the user's first or second skills, including<br>their skills while shapeshifted, will grant them a<br>defense amp with a maximum team amp level<br>of three. After this amp is granted, this ability<br>will not grant it again for 20 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span><span>Combat Coordinator II</span></dt><dd><div>The user's unique shapeshift gauge is partially<br>filled when their HP is restored.<br>After activating, this ability will not activate<br>again for 10 seconds.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div><br></div><div>5★ dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/73e58152869b6a7e5bc812da1f3ebc5c.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,095</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>One of the dragons known as the Five Archangels.<br>Though gentle and free-spirited, she is strong<br>and dauntless at her core. She feels a motherly<br>love for Pinon, her Sigil-sworn apostle, that<br>occasionally borders on overprotectiveness.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/90d8cd6109c5aa230672ce95592b1e492.png"></span>
+				<span>Angelic Devotion</span>
+			</dt>
+			<dd><div>Deals water damage to enemies in a line,<br>and inflicts frostbite.</div><div class="skill-detail">Damage: 1,722 × 1 hit<br>Special Effects:<br>・Frostbite<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41</div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Water) Strength +60%</span></dt><dd><div>If the user is attuned to Water: <br>increases strength by 60%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>(Water) Gabriel's Favor II</span></dt><dd><div>If the user is attuned to Water: <br>activates the "Gabriel's Love" effect when<br>their HP is restored. Gabriel's Love increases<br>strength by 10% and defense by 50%, and<br>grants a one-use shield that nullifies damage<br>up to 10% of the user's maximum HP.<br>This shield can stack with ordinary shields.<br>Gabriel's Love will not stack, its effects are<br>lost upon taking damage, and, after activating,<br>this ability will not activate again for 10 seconds.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at level 100, maximum bond, and unbound to the fourth stage. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For information about appearance rates, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1637042400; update_time1636449924

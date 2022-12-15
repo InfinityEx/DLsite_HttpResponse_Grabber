@@ -1,0 +1,8 @@
+article_id:3046
+category_name:News
+title_name:The 4th Anniversary Bonus Is Now Live!
+image_path:https://dragalialost.akamaized.net/attached/information/images/9f66e91ddb007cd04e0546f8b6e926bc.png
+
+message:<div>The 4th Anniversary Bonus started on <span class="local_date" data-local_date="1664258400"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/9f66e91ddb007cd04e0546f8b6e926bc.png"></div><div><br></div><div>Log in during the bonus to get gifts such as items and wyrmite.</div><div><br></div><div>■Log-In Bonus Content</div><div>Day 1: Wyrmite &times; 2,000</div><div>Day 2: Blessed Ethon Ashes &times; 40</div><div>Day 3: Rainbow Orb &times; 40</div><div>Day 4: Rupie &times; 40,000,000</div><div>Day 5: Omnicite &times; 1</div><div>Day 6: Damascus Ingot &times; 4</div><div>Day 7: Adamantite Ingot &times; 4</div><div>Day 8: Champion&#39;s Testament &times; 4</div><div>Day 9: Sunlight Stone &times; 4</div><div>Day 10: Wyrmite &times; 2,000</div><div><br></div><div>■Event Duration</div><div><span class="local_date" data-local_date="1664258400"></span> to <span class="local_date" data-local_date="1667195999"></span></div><div><br></div><div>Notes:</div><div>1. The log-in bonus will be sent to your goodie box every day after 07:00 when you log in.</div><div>2. Gifts sent as log-in bonuses can be claimed from your goodie box for up to seven days after reception. If they are not claimed within seven days, they will be lost.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1664258400; update_time1647488196

@@ -1,0 +1,8 @@
+article_id:9
+category_name:News
+title_name:Data update notice
+image_path:
+
+message:<div>Please note that the game data will be updated around <span class="local_date" data-local_date="1538137800"></span>.</div><div><br></div><div>Details are as follows.</div><div><br></div><div>■Details of the data update</div><div>・A banner displayed in the home screen will be updated.</div><div><br></div><div>■Warning</div><div>When the data gets updated, an in-game message saying &quot;A new version is available&quot; may appear. However please note that while new data will be downloaded, there will be no client update.</div><div><br></div><div>Thank you for playing Dragalia Lost!</div>
+
+start_time:1538136000; update_time1539317413

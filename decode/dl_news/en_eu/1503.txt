@@ -1,0 +1,317 @@
+article_id:1503
+category_name:News
+title_name:Gala Dragalia Remix Is Now Live!
+image_path:
+
+message:<div>Gala Dragalia Remix went live <span class="local_date" data-local_date="1597384800"></span>!</div><div><br></div><div>What are Gala Dragalia and Gala Dragalia Remix?</div><div>・The initial appearance rate for 5★ adventurers and dragons will be boosted to 6% from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div><br></div><div>Notes:</div><div><span style="color: rgb(226, 80, 65);">・The newly added 5★ adventurers Yukata Cassandra (flame) and Yukata Curran (light) will also appear in the next summon showcase.</span></div><div><span style="color: rgb(226, 80, 65);">・Adventurers added in past Gala Dragalia summon showcases may appear in this summon showcase as well. For information about which adventurers may appear, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</span></div><div><br></div><div>Featured adventurers:</div><div>■Adventurers</div><div>5★ Yukata Cassandra (flame/staff)</div><div>5★ Yukata Curran (light/dagger)</div><div>5★ Gala Prince (light/sword)</div><div><br></div><div>Gala Dragalia Remix appearance rates:</div><div>5★ total: 6.00%</div><div>5★ featured total: 1.50% (Adventurers: 1.50%)</div><div>5★ standard total: 4.50% (Adventurers: 1.50%, Dragons: 3.00%)</div><div>4★ standard total: 16.00% (Adventurers: 8.55%,　Dragons: 7.45%)</div><div>3★ standard total: 78.00% (Adventurers: 47.00%, Dragons: 31.00%)</div><div><br></div><div>Gala Dragalia Remix active period:</div><div><span class="local_date" data-local_date="1597384800"></span> to <span class="local_date" data-local_date="1597643999"></span></div><div><br></div><div>Get a closer look at the featured adventurers below.</div><div><br></div><div>Featured adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/9f22dda64c1fea99ae1b3aff9ecb1666.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/1fc4080420e16a67744809f28590c98b2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>805</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>469</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,524</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Garbed in a nostalgic yukata, the former court<br>sorceress soothes wandering souls with her staff<br>of healing. What drives her to wreathe herself in<br>such bittersweet memories? Does she seek to<br>overcome old regrets, or is her objective new?</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/3b9d73b6d9d0f95096ff35ca8a12469d2.png"></span>
+				<span>Goldfish of the Hereafter</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Restores HP to all teammates and grants all<br>teammates the "Fluorescent Fish" effect for<br>15 seconds. During Fluorescent Fish, attacks<br>will deal bonus non-elemental damage to foes,<br>based on 20% of the user's strength.<br>This bonus damage is not affected by buffs,<br>abilities, shapeshifting, or punisher effects,<br>and will never deal critical damage or heal<br>the user. The Fluorescent Fish effect will not stack.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>Ritual of Soul Cleansing</span>
+			</dt>
+			<dd>
+				<div>
+					Gradually recovers the entire team's HP for 15 seconds.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>Recovery Potency +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the potency of recovery skills by 20%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Flame) Taking Damage = Strength +13%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Flame: <br>increases their strength by 13% for 15 seconds<br>when they take damage. After activating,<br>this ability will not activate again for 5 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Full HP = Strength +20%</span></dt><dd><div>Increases strength by 20% when HP is full.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Skill 2 Filled = Strength +30%</span></dt><dd><div>Increases the user's strength by 30%<br>while their second skill is available for use.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/babd9571ba037bb889535a4dc6843fb6.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>763</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>497</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Curran, freshly clad in a yukata, strikes out with<br>Lathna to enjoy a Hinomotoan summer festival.<br>His initial trepidation quickly gave way to delight<br>as he acclimated to the garb's breezy fit. Who<br>knew inquiring could be so...comfortable!</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b887546596beb611983baca955777a7d2.png"></span>
+				<span>Ricochet Bolts</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>4</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals light damage to enemies directly ahead.<br>If this skill is used during Maskable Faith Mode,<br>it will also inflict paralysis.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f232ba49bd38a070a9c52e4285f337fe2.png"></span>
+				<span>Maskable Faith</span>
+			</dt>
+			<dd>
+				<div>
+					Activates "Maskable Faith Mode."<br>If this skill is used during Maskable Faith Mode,<br>a variant called Shimmering Pinwheels will be<br>used instead. Shimmering Pinwheels deals<br>light damage to enemies directly ahead,<br>and inflicts stun. This skill can only be used<br>when the user's HP is 50% or above,<br>and Maskable Faith Mode will automatically<br>be deactivated when the user's HP falls<br>below 30% of their maximum HP.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>Critical Rate +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases critical rate by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>(Light) Energy = Shadow Res +8%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Light: <br>reduces shadow damage taken by them by 8%<br>for 15 seconds when their energy level is increased.<br>After activating, this ability will not<br>activate again for 15 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>Multiple Skill Hits = Energy Level Up II</span></dt><dd><div>Energizes the user every time the<br>"Ricochet Bolts" skill hits enemies<br>ten times during the same combo.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>Poison Res +100%</span></dt><dd><div>Reduces susceptibility to poison by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/0ca003e40efaeaec644df1940674fce52.png"></span><span>Energy = Strength & Critical Rate III</span></dt><dd><div>Increases the user's strength and critical rate as their<br>energy level increases. The maximum bonus, given<br>when the user is energized, is strength +20% and<br>critical rate +8%.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a79506cef076ae6b7a28e843dbf6f5a0.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>502</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The seventh heir of Alberia, with fresh resolve<br>to fight on for Alberius's will. His kindness and<br>bravery have attracted many allies to his side,<br>and he will turn these bonds into strength that<br>surpass all legend.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>Rising Circlet</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals light damage to surrounding enemies,<br>and creates a buff zone that lasts for 10 seconds<br>and increases the strength of adventurers inside it<br>by 20%.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e3c8bf74f6e5d50e339f98d82b8411472.png"></span>
+				<span>Exalted Glory</span>
+			</dt>
+			<dd>
+				<div>
+					Deals light damage to enemies directly ahead,<br>inflicts paralysis, increases the entire team's<br>strength and defense by 15% for 15 seconds,<br>and grants all teammates a one-use shield that<br>nullifies damage less than 20% of the user's<br>maximum HP. This does not stack with any other<br>shields. The skill gauge for this skill can be<br>filled by attacking enemies, but it will also<br>gradually fill automatically. Abilities that<br>increase skill gauge fill rate will not affect<br>this automatic increase.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2993ccd3f5c88b4fc376f81999404f672.png"></span>
+				<span>Shapeshifting Boost VIII</span>
+			</dt>
+			<dd>
+				<div>
+					When in dragon form, adds 10% to the damage<br>modifier and extends shapeshift time by 20%.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span>
+				<span>(Light) Shapeshift = HP Regen VI</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Light:<br>each shapeshift grants them an HP regen buff<br>for 20 seconds. Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/62ec54c3111dcff5d7c6fadf0c9e0ae92.png"></span><span>Dragonlight's Resolve II</span></dt><dd><div>Reduces dragon gauge depletion over time by 30%,<br>and increases attack rate when shapeshifted by 10%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>Sacred Shield II</span></dt><dd><div>Reduces susceptibility to poison<br>and curses by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span><span>Draconic Charge II</span></dt><dd><div>Fills 50% of the user's dragon gauge when<br>their HP drops to 30% (once per quest).</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Note:</div><div>For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1597384800; update_time1597197248

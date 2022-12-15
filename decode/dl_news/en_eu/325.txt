@@ -1,0 +1,8 @@
+article_id:325
+category_name:News
+title_name:Regarding an Issue with High Brunhilda's Volcanic Blitz Skill [Addendum]
+image_path:
+
+message:<div>We have confirmed an issue in High Brunhilda&#39;s Trial, where High Brunhilda&#39;s Volcanic Blitz skill deals more hits than expected.</div><div>This issue only occurs in version 1.6.0.</div><div><br></div><div>We are currently investigating this issue. Any further updates will be added to this notice.</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>[Addendum<span class="local_date" data-local_date="1553668800"></span>]</strong></span></div><div>This issue was fixed in the data update applied on <span class="local_date" data-local_date="1553664600"></span>.</div><div>As a token of our appreciation, 300 wyrmite will be sent to players who started playing before <span class="local_date" data-local_date="1553664600"></span>.</div><div>For players who log in before <span class="local_date" data-local_date="1554271199"></span>, this gift can be claimed from your goodie box for up to 7 days after logging in.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1553595000; update_time1553669011

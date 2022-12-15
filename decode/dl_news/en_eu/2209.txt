@@ -1,0 +1,8 @@
+article_id:2209
+category_name:News
+title_name:Part Two of Chapter 19: Hidden Truths Added to the Main Campaign!
+image_path:https://dragalialost.akamaized.net/attached/information/images/34a69919a6ec58c600b171152e147530.png
+
+message:<div>Part two of Chapter 19: Hidden Truths was added to the main campaign on <span class="local_date" data-local_date="1621836000"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/34a69919a6ec58c600b171152e147530.png"></div><div><br></div><div>Truths of the prince&#39;s birth and Notte&#39;s past are revealed, and everyone is forced to grapple with the implications. Meanwhile, Nedrick and Jinlorda begin to ascend the Sacred Tree in order to fulfill a long-cherished ambition...</div><div><br></div><div>We hope you&#39;re looking forward to seeing what&#39;s in store for the prince and his friends!</div><div><br></div><div>Notes:</div><div>1. Part two of chapter 19 will unlock when you clear Ch. 19 / 3-3 &quot;Confession.&quot;</div><div>2. The release of part two does not include additional dragons who can be unbound using draconic essences, but you can use the draconic essence icon displayed on the area map for each chapter in the main campaign to check the dragon whose draconic essence you can obtain, how many draconic essences you currently have, how many more you can obtain, and the quests from which you can obtain draconic essences.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1621836000; update_time1621480244

@@ -1,0 +1,8 @@
+article_id:1954
+category_name:News
+title_name:Issue Regarding the Volk's Wrath: Legend Quest
+image_path:
+
+message:<div>We have confirmed an issue occurring since <span class="local_date" data-local_date="1611633600"></span> in version 2.3.0, where an error is displayed when attempting to play the Volk&#39;s Wrath: Legend quest while equipping dragons which aren&#39;t flame-attuned.</div><div><br></div><div>This issue can be solved by updating to version 2.4.0, or by starting the quest with flame-attuned dragons equipped.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1611637800; update_time1611644484

@@ -1,0 +1,161 @@
+article_id:2568
+category_name:News
+title_name:A Platinum Showcase Is Coming Soon! 5★ Gala Dragalia Dragon Guaranteed!
+image_path:
+
+message:<div>A Platinum Showcase starts on <span class="local_date" data-local_date="1635487200"></span>!</div><div><br></div><div>The Platinum Showcase is a limited summon showcase that works similarly to a tenfold summon in that one summon will get you 10 results. The difference between a regular tenfold summon and this Platinum Showcase is that a 5★ Gala Dragalia dragon available at the start of this summon showcase is guaranteed to appear.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Note: The roster for this summon showcase does not include the limited-time featured adventurers or featured dragon added in the Gala Dragalia showcase that will be live at the same time.</span></div><div><br></div><div>During the period, players are limited to doing the Platinum Showcase summon three times, and these summons can only be performed with diamantium (purchase required).</div><div><br></div><div>Availability period for the Platinum Showcase:</div><div><span class="local_date" data-local_date="1635487200"></span> to <span class="local_date" data-local_date="1637042399"></span></div><div><br></div><div>Get a closer look at some of the 5★ dragons eligible to appear as the guaranteed 5★ summon below.</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/dfcfbefce5e423897fc3f2eeb6e55e3d.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A powerful dragon who has existed since<br>primordial times. He wanted people and dragons<br>to have free will and potential, but he lost his<br>body in the fight against the Progenitor and can<br>no longer interact with the world.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b654508bf60eaeded9b2ecd23db805d32.png"></span>
+				<span>Cataclysm Beam</span>
+			</dt>
+			<dd><div>This skill has a unique gauge with three bars<br>attached to its skill button that is filled by<br>standard attacks and dragon strikes while the<br>user is shapeshifted. Upon use, this skill's effects<br>are based on the number of bars currently filled.<br><br>One bar: Deals damage to the target and<br>nearby enemies.<br><br>Two bars: Deals damage to the target and<br>nearby enemies and grants the entire team<br>a team defense amp.<br><br>Three bars: Deals damage to the target and<br>nearby enemies and grants the entire team<br>a team strength amp and team defense amp.</div><div class="skill-detail"><color=#00008B>One Bar:</color><br>Damage: 410 × 5 hits<br><br><color=#00008B>Two Bars:</color><br>Damage: 516 × 6 hits<br>Team Amps:<br>・Defense Amp (MAX Lv. = 1)<br><br><color=#00008B>Three Bars:</color><br>Damage: 540 × 9 hits<br>Team Amps:<br>・Strength Amp (MAX Lv. = 1)<br>・Defense Amp (MAX Lv. = 1)</div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Shadow) Strength +120%</span></dt><dd><div>If the user is attuned to Shadow: <br>increases strength by 120%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/808223f7e4cd602dd87951cc09df34592.png"></span><span>Almighty Rage II</span></dt><dd><div>Fills 50% of the dragon gauge at the start of<br>quests and extends shapeshift time by 100%,<br>but doubles the amount of dragon energy<br>required to shapeshift. (The user's maximum<br>dragon energy will not be increased.)<br><br>Also, grants the user a dragon strike while<br>shapeshifted as Bahamut. This dragon strike<br>deals damage to multiple targets and enemies<br>near those targets.<br><br>The maximum amount of the dragon gauge<br>that abilities can fill at the start of quests will<br>be limited to 50% for the entire team.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/dcf493cf39fd262d1939a9bf61843c85.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>The vestigial shade of Beast Volk, formed from a<br>portion of the amplified power conferred to him<br>by his Agito mask. His incoherent mumbling<br>retains the familiar bite of Volk's own rancor.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8e762fc1fa1804dc9be5379a14026bd22.png"></span>
+				<span>Lunatic Deliverance</span>
+			</dt>
+			<dd><div>Grants the user the "Blood Moon" effect,<br>grants the entire team a team strength amp,<br>and activates "Skill Shift."<br>This skill will become Lunatic Desolation<br>and be immediately readied for use.<br><br>Lunatic Desolation consumes Blood Moon<br>and all stacks of Moonlit Rage, deals damage<br>to surrounding enemies, and inflicts stun.<br>This attack deals additional damage based on<br>the number of Moonlit Rage stacks consumed.<br>If this skill has become Lunatic Desolation<br>and not yet been used when the user's<br>remaining shapeshift time runs out, it will be<br>used automatically.</div><div class="skill-detail">Special Effects:<br>・Blood Moon<br>　　Does not stack<br>Team Amps:<br>・Team Strength Amp (MAX Lv. = 3)<br><br><color=#00008B>Phase II:</color><br>Damage (Moonlit Rage = 0 to 3 Stacks): 1,098 × 1 hit<br>Damage (Moonlit Rage = 4 to 6 Stacks): 1,618 × 1 hit<br>Damage (Moonlit Rage = 7 to 9 Stacks): 2,244 × 1 hit<br>Damage (Moonlit Rage = 10 Stacks): 3,600 × 1 hit<br>Special Effects:<br>・Stun<br>　　Lasts 7 seconds</div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/65d6cd12143fa0ae6dd9c9d0d7ecd0b12.png"></span><span>(Wind) Fangs of the Fangless V</span></dt><dd><div>If the user is attuned to Wind:<br>increases strength by 100%.<br><br>Also, regardless of their attunement, grants<br>the user a dragon strike while shapeshifted<br>as Beast Volk. This dragon strike deals<br>damage to enemies in a line and reduces<br>their defense by 10% for five seconds.<br>This defense reduction will not stack.<br><br>While charging this dragon strike, the user will<br>be granted a stack of the "Moonlit Rage" effect<br>at set intervals. Moonlit Rage can stack up to<br>ten times.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d704441d2fe504b34ded414abd9ef9b2.png"></span><span>(Wind) Plague of Weakness II</span></dt><dd><div>If the user is attuned to Wind:<br>increases the chances of inflicting any<br>afflictions by 100%, the duration of poison<br>and stormlash inflicted on enemies by 30%,<br>damage to poisoned enemies by 15%, and<br>damage to stormlashed enemies by 15%.<br><br>Also, regardless of their attunement, lowers<br>the user's affliction resistance by 150%, but<br>activates the following effects every 3.5 seconds<br>while they have the "Blood Moon" effect:<br>・The user is granted a stack of the "Moonlit<br>Rage" effect.<br>・Damage is dealt to surrounding enemies,<br>and 10% of the damage inflicted is restored<br>as HP to the entire team. This recovery caps<br>at 10% of each adventurer's maximum HP.<br>The effect of the Dragon's Fierce Rule ability<br>will not apply to this damage.<br><br>When the user's shapeshift is undone, they<br>will be inflicted with poison for 12 seconds,<br>their dragon skill's "Skill Shift" will be reset,<br>and the Blood Moon effect and all stacks of<br>Moonlit Rage will be lost.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/e91b31b3e5da42fa53e4fc2263861963.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>The dragon maiden who guides all, now freed<br>from miasmal corruption, shines with newfound<br>luster. Inspired by the youth's hopes for a<br>radiant future, she hoists the standard of battle<br>to offer steadfast support to her warriors.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>Holy Crusade</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>and increases the user's max HP. If the user<br>is targeting an enemy and not using a skill<br>when their remaining shapeshift time runs out,<br>this skill will be used automatically, regardless<br>of whether or not the skill gauge is filled.</div><div class="skill-detail">Damage: 330 × 5 hits<br>Special Effects:<br>・HP +10%<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Light) Strength +70%</span></dt><dd><div>If the user is attuned to Light: <br>increases strength by 70%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1143744471e52c225083bf356743039b2.png"></span><span>(Light) Oath of the Righteous II</span></dt><dd><div>If the user is attuned to Light:<br>adds 30% to the modifier applied to damage<br>against shadow-attuned enemies and enemies<br>with no attunement for 45 seconds every time<br>the dragon gauge fills by 10%. This increase<br>will not stack, and, after activating, this ability<br>will not activate again for five seconds.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragons at level 100, maximum bond, and unbound to the fourth stage. They do not represent the stats when first obtained.</div><div><br></div><div>Note:</div><div>1. For more information about the Platinum Showcase, tap Summon on the in-game footer menu, then select the Platinum Showcase and check the Appearance Rates section and the Details tab of the Showcase Info section.</div><div>2. Wyrmsigils cannot be earned from summoning on a Platinum Showcase.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1635400800; update_time1635312514

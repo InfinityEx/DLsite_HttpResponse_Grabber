@@ -1,0 +1,8 @@
+article_id:259
+category_name:News
+title_name:Regarding Vida's "Cunning Edge" skill name change
+image_path:
+
+message:<div>We have changed the name of Vida&#39;s &quot;Cunning Edge&quot; skill to &quot;Scheming Slice&quot; in the update performed on <span class="local_date" data-local_date="1550813400"></span>.</div><div>The skill&#39;s effects themselves have not been modified.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1550813400; update_time1550813909

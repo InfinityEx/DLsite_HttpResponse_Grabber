@@ -1,0 +1,8 @@
+article_id:24
+category_name:Events
+title_name:Gameplay Balance Adjustments in Loyalty's Requiem【Modified Oct 6 04:30(PT) 】
+image_path:
+
+message:<div>Gameplay balance adjustments will be made in the current raid event Loyalty&#39;s Requiem opening from <span class="local_date" data-local_date="1538632800"></span>.</div><div>Please read below for details of the adjustments.</div><div><br></div><div>■Dates</div><div><span class="local_date" data-local_date="1538809200"></span></div><div><br></div><div>■Details</div><div>・ Increases the rate of appearance of Phraeganoth Clash: Special.</div><div>・ Increases the amount of gold emblems obtainable from Phraeganoth Clash: Special and Expert.</div><div><br></div><div>We are considering sending supplementary items in association with the adjustments mentioned above. We will keep you updated on the supplementary items in the Notices menu.</div><div><br></div><div>【Modified <span class="local_date" data-local_date="1538825400"></span> 】<br><br>The above-mentioned adjustments in the raid event Loyalty&#39;s Requiem have been made at <span class="local_date" data-local_date="1538809200"></span>.<br>We have sent gold emblems based on the number of times finishing Phraeganoth Clash: Special and Expert to the players who have finished the above-mentioned event before <span class="local_date" data-local_date="1538809200"></span>.<br><br>The gold emblems are sent to your goodies box. &nbsp;Please accept the items by <span class="local_date" data-local_date="1540187999"></span>.<br><br>Thank you for playing Dragalia Lost!</div>
+
+start_time:1538803800; update_time1540518931

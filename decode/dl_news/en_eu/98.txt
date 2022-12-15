@@ -1,0 +1,8 @@
+article_id:98
+category_name:News
+title_name:Announcing the Winter Log-in Bonus!
+image_path:
+
+message:<div>The winter log-in bonus begins <span class="local_date" data-local_date="1542434400"></span>!</div><div><br></div><div>Receive up to 1,200 wyrmite by logging in 7 days during the active period!</div><div><br></div><div>■Gift details:</div><div>Day 1: 300 wyrmite</div><div>Day 2: 150 wyrmite</div><div>Day 3: 150 wyrmite</div><div>Day 4: 150 wyrmite</div><div>Day 5: 150 wyrmite</div><div>Day 6: 150 wyrmite</div><div>Day 7: 150 wyrmite</div><div><br></div><div>■Event duration:</div><div><span class="local_date" data-local_date="1542434400"></span> to <span class="local_date" data-local_date="1544075999"></span></div><div><br></div><div>■Notes:</div><div>1. The log-in bonus will be sent to you every day after 07:00 when you log in.</div><div>2. Gifts sent as log-in bonuses can only be accepted for a limited time.</div><div>3. The winter log-in bonus schedule and content may change without warning.</div><div><br></div><div>Thank you for playing Dragalia Lost!</div>
+
+start_time:1542434400; update_time1545359853

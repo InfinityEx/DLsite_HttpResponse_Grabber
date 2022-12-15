@@ -1,0 +1,8 @@
+article_id:2818
+category_name:Events
+title_name:A Raid Event Revival, New Year's Tidings: A Clawful Caper, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/a614bc85d36138b9f18823541db99a9d.png
+
+message:<div>The New Year&#39;s Tidings: A Clawful Caper raid event revival will begin at <span class="local_date" data-local_date="1656568800"></span>! During this event, you can use co-op play to fight against the shadow-attuned raid boss.</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/a614bc85d36138b9f18823541db99a9d.png"><br><br>Notes:<br>1. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate in event quests.<br>2. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign in order to play co-op.<br><br>Thank you for playing Dragalia Lost.<br><br></div>
+
+start_time:1656309600; update_time1643767941

@@ -1,0 +1,267 @@
+article_id:1955
+category_name:News
+title_name:Announcing the Next Summon Showcase, Caged Desire (Part One)!
+image_path:
+
+message:<div>A summon showcase, Caged Desire (Part One), kicks off on <span class="local_date" data-local_date="1612072800"></span>! This summon showcase will include limited-time adventurers and dragons. Featured adventurers and dragons will also have a boosted appearance rate!</div><div><br></div><div><span style="color: rgb(226, 80, 65);">The newly added 5★ adventurers Joker and Mona and 5★ dragon Ars&egrave;ne will also appear in the upcoming Caged Desire (Part Two) summon showcase starting on <span class="local_date" data-local_date="1612591200"></span>, but of the three only Ars&egrave;ne will be featured in that showcase.</span></div><div><br></div><div>Newly added limited-time featured adventurers and dragon:</div><div>■Adventurers</div><div>5★ Joker (shadow/dagger)</div><div>5★ Mona (wind/sword)</div><div><br></div><div>■Dragon</div><div>5★ Ars&egrave;ne (shadow)</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Wyrmsigils may only be redeemed in the summon showcase from which they were earned. Wyrmsigils earned from the Caged Desire (Part One) showcase cannot be redeemed in the Caged Desire (Part Two) showcase.</span></div><div><br></div><div>Availability period for showcase summons:</div><div><span class="local_date" data-local_date="1612072800"></span> to <span class="local_date" data-local_date="1612591199"></span></div><div><br></div><div>Get a closer look at the featured adventurers and dragon below.</div><div><br></div><div>Featured adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/cc6f2a926e99bee0b12efd660fe9cccd.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>757</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>501</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,498</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A third-year at Shujin Academy in Tokyo who<br>awakened to the power of Persona amidst the<br>so-called psychotic breakdown incidents. Formed<br>the Phantom Thieves of Hearts with his friends to<br>reform the corrupt adults who rule their society.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6d8d8fde4a3346581a1d93ab4d70499d2.png"></span>
+				<span>Marking Shot</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>and partially fills the Persona gauge if the<br>attack connects.<br><br>When Arsène is active:<br>deals damage to enemies directly ahead.</div><div class="skill-detail">
+
+Damage: 354 × 7 hits<br>Skill Energy Required: 3,120<br>Persona Energy Gained: 300<br><br>
+
+<color=#00008B>When Arsène is Active:</color><br>Damage: 354 × 7 hits<br>Damage: 750 × 1 hit<br>Skill Energy Required: 3,120<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9bf3fe22f62e503eadabcd3cbb53adcc2.png"></span>
+				<span>Phantom Barrage</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>reduces their strength, and partially fills<br>the Persona gauge if the attack connects.<br>This strength reduction will not stack.<br><br>When Arsène is active:<br>deals damage to the target and nearby<br>enemies, and reduces their strength.<br>This strength reduction will not stack.</div><div class="skill-detail">
+
+Damage: 448 × 4 hits<br>Damage: 312 × 3 hits<br>Skill Energy Required: 5,450<br>Skill Energy Required (Shared Skill): 9,537<br>Persona Energy Gained: 300<br>Special Effects:<br>・Strength -15%<br>　Lasts 20 seconds<br>　Does not stack<br><br>
+
+<color=#00008B>When Arsène is Active:</color><br>Damage: 3,030 × 1 hit<br>Skill Energy Required: 5,450<br>Special Effects:<br>・Strength -20%<br>　Lasts 20 seconds<br>　Does not stack</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cc3f28b7bfce6dfc1ea65f36822cae7f2.png"></span>
+				<span>Agility Boost +7%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases attack rate by 7%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d8b61eec87e3119719a7e2c57ada4cf42.png"></span>
+				<span>(Shadow) Above 10 Hits = Light Res +10%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Shadow: <br>reduces light damage taken by them by 10%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/60df48c9c73687a9a506bb178e23e1582.png"></span><span>Will of Rebellion II</span></dt><dd><div>Grants the Persona element Curse to certain<br>attacks. Also grants the user a Persona gauge,<br>and changes the shapeshift button into<br>a Persona button. Tapping this button<br>summons Arsène. While summoned, Arsène<br>will attack together with the user.<br><br>Additionally, increases defense by 6%,<br>and grants the user a unique force strike<br>that has two charge levels. At level two,<br>it dispels one enemy buff, and partially fills<br>the Persona gauge if the attack connects.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/350933fc3518d44a2f1ed162f7e191052.png"></span><span>Blindness Res +100%</span></dt><dd><div>Reduces susceptibility to blindness by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>30 Hits = Energy Level Up</span></dt><dd><div>Increases the user's energy level by one stage<br>for every 30-hit combo.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5bc840d3fefe5bc7c0aae87fb15005be.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>755</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>504</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A talking cat (don't say that to his face) who has<br>served as the guide and mascot of the Phantom<br>Thieves ever since Joker saved him from Suguru<br>Kamoshida's Palace. Has a mildly unhealthy<br>obsession with Panther.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/392285144c0d61e839e121ec4c7aa99d2.png"></span>
+				<span>Mona Car</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>and partially fills the Persona gauge if the<br>attack connects. Changing direction is<br>possible during the attack.<br><br>When Zorro is active:<br>deals damage to enemies directly ahead<br>with a high chance of landing critical hits.<br>Occasionally activates a more powerful<br>version of this skill when used.</div><div class="skill-detail">
+
+Damage: 225 × 10 hits<br>Skill Energy Required: 2,715<br>Persona Energy Gained: 300<br><br>
+
+<color=#00008B>When Zorro is Active:</color><br>Damage: 825 × 3 hits<br>Skill Energy Required: 2,715<br>Critical Rate Increase: +30% (this attack only)<br><br><color=#00008B>When Zorro is Active (Random Power Up):</color><br>Damage: 500 × 5 hits<br>Skill Energy Required: 2,715<br>Critical Rate Increase: +50% (this attack only)<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>Beckoning Cat</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies,<br>draws them toward the user, and partially fills<br>the Persona gauge if the attack connects.<br><br>When Zorro is active:<br>deals damage to the target and nearby enemies,<br>and draws them together.</div><div class="skill-detail">
+
+Damage: 600 × 4 hits<br>Skill Energy Required: 5,450<br>Skill Energy Required (Shared Skill): 8,447<br>Persona Energy Gained: 300<br><br>
+
+<color=#00008B>When Zorro is Active:</color><br>Damage: 600 × 5 hits<br>Skill Energy Required: 5,450</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/65863989132db80658f5d919573c14e92.png"></span>
+				<span>Wind Boost +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases wind damage by 20%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>Gentleman Thief V</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind: <br>reduces water damage taken by them by 10%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/de68dfd8e782062e4dfdec817bb1418e2.png"></span><span>Guiding Feline II</span></dt><dd><div>Grants the Persona element Wind to certain<br>attacks. Also grants the user a Persona gauge,<br>and changes the shapeshift button into<br>a Persona button. Tapping this button<br>summons Zorro. While summoned, Zorro<br>will attack and restore HP to all teammates<br>as the user attacks.<br><br>Additionally, grants the user a unique force<br>strike that activates the "Beast Eye" effect for<br>30 seconds. Beast Eye increases the user's<br>Persona gauge fill rate by 20% while active,<br>but is removed when Zorro is summoned, and<br>cannot be granted while Zorro is active.<br><br>While Zorro is not summoned, standard attacks<br>and force strikes will fill the Persona gauge.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>Freeze Res +100%</span></dt><dd><div>Reduces susceptibility to freezing by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>Critical Damage +20%</span></dt><dd><div>Adds 20% to the modifier applied to critical damage.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f0eccb946a066a6a2646b51a8db1dce6.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>Joker's Persona, distinguished by its mask-like<br>face and massive black wings. From where does<br>this Persona fare? And what power does it hold<br>beneath its haunting visage?</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2719fe27911749dfccf7afb09adc17d52.png"></span>
+				<span>Maeiga</span>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies.</div><div class="skill-detail">
+
+Damage: 2,540 × 1 hit<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>Attack Master +90%</span></dt><dd><div>Increases attack skill damage by 90%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>Curse Amp +90%</span></dt><dd><div>If the user is attuned to Shadow:<br>increases attack skill damage by 90%,<br>and grants attacks the Persona element Curse.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>■Regarding Ars&egrave;ne</div><div>Ars&egrave;ne will not appear in the Dragon&#39;s Roost in the Halidom, but his bond will be maximized and part one of his dragon story will be unlocked when he is summoned. Rewards equivalent to the Dragon Thank-Yous granted by other dragons (normally obtained when reaching certain bond levels with them) can be obtained by reading both parts of his dragon story (part two will unlock after reading part one). Summoning Ars&egrave;ne will not complete the &quot;Reach Bond Lv. 10 with a Dragon&quot; or &quot;Reach Bond Lv. 30 with a Dragon&quot; endeavors in the Royal Regimen.</div><div><br></div><div>Note: For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1611986400; update_time1611733688

@@ -1,0 +1,83 @@
+article_id:475
+category_name:News
+title_name:Announcing Gala Dragalia!
+image_path:
+
+message:<div>Gala Dragalia will kick off at <span class="local_date" data-local_date="1558936800"></span>!</div><div><br></div><div>What is Gala Dragalia?</div><div>・The initial appearance rate for 5★ adventurers and dragons will be boosted to 6%, which is up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div>・Limited-time Gala Dragalia versions of adventurers will be added, available only while Gala Dragalia is active!</div><div><br></div><div>Gala Dragalia event duration:</div><div><span class="local_date" data-local_date="1558936800"></span> to <span class="local_date" data-local_date="1559282340"></span></div><div><br></div><div>The featured Gala Dragalia adventurer is detailed below.</div><div><br></div><div>Gala Dragalia adventurer:</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7b6af37b979cad8bdaf142dffeeb854a.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>749</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>510</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The Flamewyrm Brunhilda, who assumed<br>a human form to be closer to her darling,<br>the prince. Her love knows no bounds,<br>and burns hotter than even her own<br>fierce blazes.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>Dragon Claw</span>
+			</dt>
+			<dd>
+				<div>
+					Deals flame damage to enemies directly ahead,<br>and raises the dragon gauge if the attack connects.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>Flames of Passion</span>
+			</dt>
+			<dd>
+				<div>
+					Deals flame damage to enemies in a line.
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">Co-abilities</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases HP by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b5b8a0971c2940faccafb60e2bb060ab2.png"></span><span>Flamewyrm's Nature II</span></dt><dd><div>Reduces susceptibility to burning by 100%.<br>When shapeshifting for the first time, Mym<br>will transform into Brunhilda regardless of what<br>dragon she is equipped with, her strength will<br>increase by 15% for the remainder of the quest,<br>and the skill Flames of Passion will be powered<br>up for the remainder of the quest. The second time<br>onwards, she will transform into High Brunhilda<br>instead, and her attack rate while shapeshifted<br>will increase by 15%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ed2537bb247dfd2ad93353a86c3d8c12.png"></span><span>Flamewyrm's Defiance II</span></dt><dd><div>Reduces susceptibility to stun by 100%. When Mym<br>is hit by an attack that would have stunned her,<br>the skill gauge for the Dragon Claw skill fills by<br>50%. After activating, this gauge-filling effect will<br>not activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f95daa91eaca6e0d41a23320398a9e792.png"></span><span>Dragon Time +20%</span></dt><dd><div>Extends shapeshift time by 20%.</div></dd></dl></div></div></div><div><br></div><div>Notes: These are the stats when at maximum level with all mana circles unlocked. They do not represent the stats when first obtained.</div><div>Adventurers with the same name cannot be put into the same party.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For information about featured adventurers and dragons, tap Summon on the in-game footer menu, then select Showcase Info and check the More Info tab, or select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1558850400; update_time1558603990

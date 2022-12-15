@@ -1,0 +1,8 @@
+article_id:1899
+category_name:News
+title_name:New Event Preview Video Coming to YouTube!
+image_path:
+
+message:<div>A preview video for an upcoming event will be released on YouTube around <span class="local_date" data-local_date="1610114400"></span>. This video will be about two minutes and thirty seconds in length and will present information on the new event scheduled for late January.</div><div><br></div><div>▼URL</div><div><a href="https://youtu.be/r_qbEJFvSrY">https://youtu.be/r_qbEJFvSrY</a></div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1610085600; update_time1610075606

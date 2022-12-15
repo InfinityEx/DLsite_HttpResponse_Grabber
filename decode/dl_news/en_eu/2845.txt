@@ -1,0 +1,8 @@
+article_id:2845
+category_name:Events
+title_name:A Raid Event Revival, Skyborne Spectacle, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/3ad4f173f770e116f48150d16e3aa279.png
+
+message:<div>The Skyborne Spectacle raid event revival will begin <span class="local_date" data-local_date="1653890400"></span>!</div><div><br></div><div>During this event, you can use co-op play to fight against the water-attuned raid boss.</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/3ad4f173f770e116f48150d16e3aa279.png"></div><div>■Event Duration<br><span class="local_date" data-local_date="1653890400"></span> to <span class="local_date" data-local_date="1654840799"></span></div><div><br>■Notes<br>1. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate in event quests.<br>2. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign in order to play co-op.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1653458400; update_time1644472446

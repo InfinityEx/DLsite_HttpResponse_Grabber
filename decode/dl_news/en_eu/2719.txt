@@ -1,0 +1,300 @@
+article_id:2719
+category_name:News
+title_name:Gala Dragalia Is Coming Soon!
+image_path:
+
+message:<div>Gala Dragalia starts on <span class="local_date" data-local_date="1640930400"></span>!</div><div><br></div><div>■What Are Gala Dragalia and Gala Dragalia Remix?</div><div>The initial appearance rate for 5★ adventurers and dragons will be boosted to 6%, which is up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">The newly added 5★ adventurers Shingen and Yukimura and 5★ dragon Fudo Myo-o will also appear in a Prize Showcase available from <span class="local_date" data-local_date="1641362400"></span> to <span class="local_date" data-local_date="1642053599"></span>, but they will not be featured in that showcase.</span></div><div><br></div><div>▼Newly added featured dragon:</div><div>5★ Gala Beast Ciella (water)</div><div><br></div><div>▼Newly added limited-time featured adventurers:</div><div>5★ Shingen (wind/axe)</div><div>5★ Yukimura (shadow/lance)</div><div><br></div><div>▼Newly added limited-time featured dragon:</div><div>5★ Fudo Myo-o (wind)</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Wyrmsigils may only be redeemed in the summon showcase from which they were earned. Wyrmsigils earned from this Gala Dragalia summon showcase cannot be redeemed in the Prize Showcase available from <span class="local_date" data-local_date="1641362400"></span> to <span class="local_date" data-local_date="1642053599"></span>.</span></div><div><br></div><div>Gala Dragalia event duration:</div><div><span class="local_date" data-local_date="1640930400"></span> to <span class="local_date" data-local_date="1641362399"></span></div><div><br></div><div>Get a closer look at the featured dragons and adventurers below.</div><div><br></div><div>Featured dragons:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1e71354596ed99aafae12e4e33cf3353.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>The vestigial shade of Beast Ciella, formed from<br>a portion of the amplified power conferred to her<br>by her Agito mask. The true Ciella despaired<br>over the world's deception, and this version<br>incoherently mumbles of the same.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>Frozen Anguish</span>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies<br>and inflicts frostbite.</div><div class="skill-detail">Damage: 2,400 × 1 hit<br>Special Effects:<br>・Frostbite<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/65d6cd12143fa0ae6dd9c9d0d7ecd0b12.png"></span><span>(Water) Wings of Judgment V</span></dt><dd><div>If the user is attuned to Water:<br>increases strength by 100%.<br><br>Also, regardless of their attunement, grants<br>the user a dragon strike while shapeshifted as<br>Beast Ciella. This dragon strike deals damage to<br>the target and nearby enemies and summons a<br>crystal arrow. Up to two crystal arrows can exist<br>simultaneously, but they will disappear<br>automatically over time. Beast Ciella's standard<br>attacks will bounce off these arrows. In addition,<br>hitting a crystal arrow with Frozen Anguish will<br>cause it to deal damage to surrounding enemies<br>and disappear.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cdd3ed074b225f69183840cb525b5da32.png"></span><span>(Water) Desperate Agony II</span></dt><dd><div>If the user is attuned to Water:<br>increases damage to frostbitten enemies<br>by 15%. In addition, standard attacks will apply<br>the "Vulnerability" debuff while shapeshifted<br>as Beast Ciella when the combo count is 15 or<br>higher. Vulnerability can stack up to 10 times,<br>and each stack reduces defense by 1% and<br>frostbite resistance by 2% for the remainder of<br>the quest unless removed by the enemy.<br><br>Also, regardless of their attunement, reduces the<br>user's defense by 20% and shortens the window<br>between hitting an enemy and the combo counter<br>resetting by one second.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5702dead811ca33f2d1d50cc65867204.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>The dragon of the Tiger clan, one of twelve who<br>serve Amaterasu. Though quiet and withdrawn,<br>Shingen is a flame ever-burning in her heart.<br>On rare occasions, her feelings become strong<br>enough to make folks around her uncomfortable.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>Kurikara Gust</span>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies<br>and grants the user the "Mantra of Compassion"<br>effect.</div><div class="skill-detail">Damage: 417 × 6 hits<br>Special Effects:<br>・Mantra of Compassion<br>　　Charges: 2<br>　　Potency: 100% of max HP<br>　　Does not stack<br>・Stormlash<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Wind) Strength +70%</span></dt><dd><div>If the user is attuned to Wind: <br>increases strength by 70%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f108f85cdce1ed615ebbc32b7d5d6a472.png"></span><span>(Wind) Divine Mantras II</span></dt><dd><div>If the user is attuned to Wind:<br>at the start of quests, grants the user the<br>"Mantra of Compassion" effect. Mantra of<br>Compassion nullifies damage up to 100%<br>of the user's maximum HP up to two times,<br>and it will not stack.<br>When all uses of this effect are consumed,<br>the user will be granted the "Mantra of Wrath"<br>effect and 50% of their dragon gauge will be<br>filled. After activating, this dragon gauge fill<br>effect will not activate again for 180 seconds.<br>Mantra of Wrath increases attack rate by 10%<br>and adds 30% to the modifier applied to damage<br>against water-attuned enemies.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragons at level 100, maximum bond, and unbound to the fourth stage. They do not represent the stats when first obtained.</div><div><br></div><div>Featured adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/d0d9c0fb25c277c691080029f6d16dc3.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/e9dfe7dacc80f97bf9aa860adb0b78992.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>822</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>467</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,529</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The leader of the Tiger Clan, one of the Twelve<br>Wyrmclans who govern Hinomoto. Though he<br>looks the part of a war-weary veteran, he's<br>younger than his imposing visage suggests. With<br>a talent for looking after others, he's loved by<br>vassals, subjects, and Wyrmclan leaders alike.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/70c2617b21338a4e2ca3e2974d53be2d2.png"></span>
+				<span>Furinkazan</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Begins preparing a powerful attack,<br>after which this skill will deal damage to<br>surrounding enemies, apply a burst gambit<br>called "Tiger's Burst," and inflict stormlash.<br>Continually tapping the screen while preparing<br>this attack will result in dealing an additional<br>attack for each tap, up to the total number of<br>Veteran's Mettle stacks the user currently has.<br>If the user deals three additional attacks at once<br>in this way, all stacks of Veteran's Mettle<br>will be consumed, and the user will be granted<br>the "Battle Fervor" effect.<br>The user will be immune to knockback while<br>preparing this skill's attack as well as when<br>executing it.<br><br>If this skill is used while the user has Battle<br>Fervor, the screen can be tapped for up to three<br>additional hits without having or consuming<br>Veteran's Mettle, but it will not grant Battle Fervor.<br><br>When Tiger's Burst is activated, it will restore<br>HP to all teammates.</div><div class="skill-detail">Damage: 1,600 × 1 hit<br>Special Effects:<br>・Stormlash<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br>・Tiger's Burst<br>　　Burst Gambit Counter: 30<br>　　Recovery Potency: 140<br><color=#00008B>First Additional Attack:</color><br>Damage: 800 × 1 hit<br>Special Effects:<br>・Strength -10%<br>　　Lasts 30 seconds<br>　　Does not stack<br><color=#00008B>Second Additional Attack:</color><br>Damage: 800 × 1 hit<br>Special Effects:<br>・Scorchrend<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41.6<br><color=#00008B>Third Additional Attack:</color><br>Damage: 800 × 1 hit<br>Recovery Potency: 35<br>Special Effects:<br>・Knockback Immunity<br>　　Lasts 10 seconds<br>・Battle Fervor<br>　　Lasts 30 seconds<br>Skill Energy Required: 2,040<br>Skill Energy Required (Shared Skill): 15,026</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>Fearless Tiger</span>
+			</dt>
+			<dd><div>Grants the user a defense amp and<br>the "Veteran's Mettle" effect.<br><br>If this skill is used while the user has<br>Battle Fervor, it will grant the user a<br>defense amp, increase their max HP,<br>and reduce damage taken.</div><div class="skill-detail">Skill Energy Required: 7,500<br>Special Effects:<br>・Veteran's Mettle<br>　　Stacks up to 3 times<br>Amps:<br>・Defense Amp (Team Amp MAX Lv. = 3)<br><br><color=#00008B>During Ability Effect:</color><br>Skill Energy Required: 7,500<br>Special Effects:<br>・HP +10%<br>・70% Damage Reduction<br>　　Lasts 3 seconds<br>Amps:<br>・Defense Amp (Team Amp MAX Lv. = 3)</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>Defense +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases defense by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span>
+				<span>(Wind) Team Defense Amp = Bog Res +100%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind:<br>reduces their susceptibility to bog by 100%<br>when they have a team defense amp.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/960f67e40a48d076cbb60f50cf7a4fcd2.png"></span><span>Tiger's Tenacity II</span></dt><dd><div>Grants the user two stacks of the "Veteran's<br>Mettle" effect when they take damage.<br>Veteran's Mettle can stack up to three times,<br>and after it is granted, this ability will not<br>grant it again for 20 seconds.<br><br>Also, grants the user a unique force strike.<br>While charging this force strike, damage taken<br>will be reduced. Damage from some attacks<br>cannot be reduced in this way. After charging,<br>if the user takes damage while executing this<br>force strike, that damage will be reduced,<br>and the user will be granted three stacks of<br>Veteran's Mettle. The user will be immune to<br>knockback while charging this force strike as<br>well as when executing it.<br><br>In addition, when the user has Battle Fervor,<br>the third and fifth attacks in their standard<br>attack combo will create cyclones that pursue<br>the target.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>Freeze Res +100%</span></dt><dd><div>Reduces susceptibility to freezing by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b748da7dce2f5b415c28b297c8ba21592.png"></span><span>Tiger's Ferocity II</span></dt><dd><div>When the user has Battle Fervor, increases<br>the damage dealt by their attacks by 50%<br>and increases their strength by 20%.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b13eacea751bc73aadcf15a8cf9947b1.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>748</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>511</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The leader of the Monkey Clan, one of the Twelve<br>Wyrmclans who govern Hinomoto. Shingen<br>rescued her from clan infighting when she was<br>young, and she immediately threw herself<br>headfirst into martial arts training in the hopes<br>of surpassing his greatness.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>Monkey Overdrive</span>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies and<br>activates "Skill Shift" if the attack connects.<br>Phase II increases the skill's area of effect,<br>while Phase III increases its area of effect even<br>more and unleashes the user's fighting spirit.<br>The user will be immune to knockback during<br>this attack.<br><br>If this skill is used after the user's fighting<br>spirit has been unleashed, a variant called<br>Monkey-Tiger Wrath will be used instead.<br>Monkey-Tiger Wrath deals damage to enemies<br>directly ahead and applies a burst gambit<br>called "Monkey's Burst." Tapping the screen a set<br>number of times during the attack will power up<br>its final hit, which will deal increased damage,<br>apply Monkey's Burst again, and partially fill the<br>skill gauge for Monkey-Tiger Chaos.<br><br>When Monkey's Burst is activated,<br>it will deal damage to the affected target<br>and nearby enemies.</div><div class="skill-detail">Damage: 1,348 × 1 hit<br>Skill Energy Required: 7,800<br><br><color=#00008B>Phase II:</color><br>Damage: 1,722 × 1 hit<br>Skill Energy Required: 7,800<br><br><color=#00008B>Phase III:</color><br>Damage: 987 × 2 hits<br>Skill Energy Required: 7,800<br><br><color=#00008B>When Fighting Spirit Is Unleashed:</color><br>Damage: 375 × 4 hits<br>Damage: 584 × 1 hit (MAX)<br>Skill Energy Required: 2,980<br>Special Effects:<br>・Monkey's Burst<br>　　Burst Gambit Counter: 15<br>　　Damage: 4,300 × 1 hit<br>・Skill Prep<br>　　Potency: 15%</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>Monkey Crossdive</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to the target and nearby<br>enemies and partially fills the skill gauge<br>for Monkey Overdrive.<br><br>If this skill is used after the user's fighting<br>spirit has been unleashed, a variant called<br>Monkey-Tiger Chaos will be used instead.<br>Monkey-Tiger Chaos deals damage to enemies<br>directly ahead and inflicts shadowblight.<br>Tapping the screen a set number of times during<br>the attack will power up its final hit, which will<br>deal increased damage and inflict scorchrend.</div><div class="skill-detail">Damage: 684 × 2 hits<br>Skill Energy Required: 5,120<br>Special Effects:<br>・Skill Prep<br>　Potency: 15%<br><br><color=#00008B>When Fighting Spirit Is Unleashed:</color><br>Damage: 101 × 21 hits<br>Damage: 747 × 2 hits (MAX)<br>Skill Energy Required: 6,120<br>Skill Energy Required (Shared Skill): 13,770<br>Special Effects:<br>・Scorchrend<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br>・Shadowblight<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases HP by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span>
+				<span>(Shadow) Combo Time VI</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Shadow:<br>extends the window between them hitting an enemy<br>and the combo counter resetting by 2.5 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bac19ceb28ad4775b6cadccafd67ccdc2.png"></span><span>Might of the Monkey II</span></dt><dd><div>Activates the following effects once the user's<br>fighting spirit is unleashed:<br>・The user's strength is increased by 10%.<br>・The user's attack skill damage is increased<br>by 40%.<br>・The user is granted immunity to knockback.<br>・The user's standard attack patterns and<br>first and second skills are changed.<br>・The user is granted a unique dodge that<br>deals damage to surrounding enemies.<br>Also, by tapping the screen during this dodge,<br>the user can interrupt it and perform a unique<br>dash attack toward the target.<br>・If a unique dash attack or force strike is<br>followed immediately by a standard attack,<br>the user's combo will begin with the second<br>attack in their standard attack combo.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>Paralysis Res +100%</span></dt><dd><div>Reduces susceptibility to paralysis by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Flurry Strength +20%</span></dt><dd><div>Increases strength by 20% when the combo count is<br>15 or higher.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Some skills have different effects when used as a shared skill.</div><div>・&quot;Burst Gambit&quot; is a type of debuff. For further information, please see the in-game Help section.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. Alberian Battle Royale skins for the adventurers featured in this summon showcase will go on sale and will cost fewer items to unlock. Note that some adventurers do not have adventurer skins.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1640844000; update_time1640689289

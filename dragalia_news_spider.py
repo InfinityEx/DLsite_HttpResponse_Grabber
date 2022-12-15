@@ -69,16 +69,16 @@ for i in range(0,4500):
         title=pd.json_normalize(contents['data']['information'])['title_name'][0]
         updatet=pd.json_normalize(contents['data']['information'])['update_time'][0]
 
-        with open(f"{path}/origin/{lang}/dl_news/{id}.json",'w',encoding='utf-8') as nl:
+        with open(f"{path}/origin/dl_news/{lang}/{id}.json",'w',encoding='utf-8') as nl:
             nl.write(str(response.content).replace("\/","/"))
             nl.close()
-        with open(f"{path}/decode/{lang}/dl_news/{id}.txt",'w',encoding='utf-8') as nt:
+        with open(f"{path}/decode/dl_news/{lang}/{id}.txt",'w',encoding='utf-8') as nt:
             nt.write(f"article_id:{artid}\ncategory_name:{catname}\ntitle_name:{title}\nimage_path:{img}\n\nmessage:{msg}\n\nstart_time:{startt}; update_time{updatet}")
             nt.close()
-        with open(f"{path}/decodejson/{lang}/dl_news/{id}.json",'w',encoding='utf-8') as nj:
+        with open(f"{path}/decodejson/dl_news/{lang}/{id}.json",'w',encoding='utf-8') as nj:
             nj.write(f"article_id:{artid},category_name:{catname},title_name:{title},image_path:{img},message:{msg},start_time:{startt},update_time{updatet}")
             nj.close()
-        with open(f"{path}/dlnews_picres_{lang}.txt",'a+') as pic:
+        with open(f"{path}/res_list/dlnewsimg/dlnews_picres_{lang}.txt",'a+') as pic:
             if img!="":
                 pic.write(f"{img}\n")
             pic.close()

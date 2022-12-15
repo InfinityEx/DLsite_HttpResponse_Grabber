@@ -1,0 +1,8 @@
+article_id:2572
+category_name:News
+title_name:Part One of Main Campaign Chapter 22: Twice Sworn Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/22832823bc10c1f2926fac5538e5d6f0.png
+
+message:<div>Part one of Chapter 22: Twice Sworn will be added to the main campaign on <span class="local_date" data-local_date="1635746400"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/22832823bc10c1f2926fac5538e5d6f0.png"></div><div><br></div><div>We have also released a trailer for this chapter. Check it out at the link below!</div><div><br></div><div>▼Nintendo Mobile YouTube Channel - Chapter 22: Twice Sworn Trailer</div><div><a href="https://youtu.be/am2RLRBSndc">https://youtu.be/am2RLRBSndc</a><br></div><div><br></div><div>We hope you&#39;re looking forward to seeing what&#39;s in store for the prince and his friends!</div><div><br></div><div>Note: Part one of chapter 22 of the main campaign will unlock when you clear Ch. 21 / 6-3 &quot;The Approaching Battle.&quot;</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1635487200; update_time1635488564

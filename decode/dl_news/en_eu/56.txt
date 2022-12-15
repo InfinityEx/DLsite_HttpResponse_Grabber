@@ -1,0 +1,8 @@
+article_id:56
+category_name:News
+title_name:Issue Regarding the Displayed Amount of Trick or Treasure Items
+image_path:
+
+message:<div>We have found an issue which incorrectly displays the amount of Jack Chocolates and Candy Baskets in your inventory as 0.</div><div><br></div><div>If you experience this issue, tap the Trick or Treasure event banner at the top left of the Home screen to go to the event page. The amount held should display correctly afterward.</div><div><br></div><div>The same issue may occur when restarting the game. When this happens, please perform the above steps once more to resolve it.</div><div><br></div><div>We are currently investigating this issue.</div><div><br></div><div>Thank you for playing Dragalia Lost!</div>
+
+start_time:1540548000; update_time1542363677

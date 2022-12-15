@@ -1,0 +1,8 @@
+article_id:939
+category_name:News
+title_name:Very Hard Difficulty Added To The Main Campaign! Daily Free Tenfold Summon Incoming!
+image_path:
+
+message:<div>To celebrate the addition of the Very Hard difficulty to the main campaign, a daily free tenfold summon event, which will allow you to perform a tenfold summon on the applicable summon showcases for free once per day, starts <span class="local_date" data-local_date="1576476000"></span>!</div><div><br></div><div>■Event Duration</div><div><span class="local_date" data-local_date="1576476000"></span> to <span class="local_date" data-local_date="1576648799"></span></div><div><br></div><div>■Applicable Summon Showcase</div><div>・Dragonyule Defenders 2</div><div>Note: You can perform up to two tenfold summons during the two-day period from <span class="local_date" data-local_date="1576476000"></span> to <span class="local_date" data-local_date="1576648799"></span>.</div><div><br></div><div>Notes:</div><div>1. You can perform a tenfold summon for free on an applicable summon showcase once per day (each day is from 07:00 to 06:59 the next day).</div><div>2. The daily free tenfold summon resets each day at 07:00.</div><div>3. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div><div><br></div>
+
+start_time:1576389600; update_time1576227852

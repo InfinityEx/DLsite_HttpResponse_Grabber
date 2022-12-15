@@ -1,0 +1,8 @@
+article_id:503
+category_name:News
+title_name:Issue Regarding Qitian Dasheng Clash: Nightmare Raid Battle
+image_path:
+
+message:<div>We have confirmed an issue in the current Echoes of Antiquity event&#39;s Qitian Dasheng Clash: Nightmare raid battle where an error was displayed upon finishing the battle, preventing the quest from being completed and the rewards from being obtained.</div><div>This issue has now been resolved.</div><div><br></div><div>As a token of our appreciation for your patience, we will be sending 1 blessed ethon ashes to all affected players.</div><div><br></div><div>For players who log in before <span class="local_date" data-local_date="1560146399"></span>, this gift can be claimed from your goodie box for up to 7 days after logging in.</div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1559554200; update_time1559554524

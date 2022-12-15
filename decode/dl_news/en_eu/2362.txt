@@ -1,0 +1,8 @@
+article_id:2362
+category_name:Events
+title_name:A Limited-Time Upgrade Event, Ascent to Eminence, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/29fcde85ffc3aa1385fbc2d7408e18ec.png
+
+message:<div>A limited-time upgrade event, Ascent to Eminence, starts on <span class="local_date" data-local_date="1626674400"></span>!</div><div>During the Ascent to Eminence event, you can play the event-exclusive quests to get drop rewards.</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/29fcde85ffc3aa1385fbc2d7408e18ec.png"></div><div>■Event Duration</div><div><span class="local_date" data-local_date="1626674400"></span> to <span class="local_date" data-local_date="1627624799"></span></div><div><br></div><div>Notes:</div><div>1. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate in event quests.</div><div>2. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to play co-op.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1626415200; update_time1626248830

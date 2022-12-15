@@ -1,0 +1,8 @@
+article_id:2593
+category_name:News
+title_name:Alberian Battle Royale Updated!
+image_path:
+
+message:<div>The following adjustment was made to the Alberian Battle Royale on <span class="local_date" data-local_date="1636696800"></span>.</div><div><br></div><div>■Shapeshifting Dragon Updated</div><div>All adventurers (regardless of weapon type) will now shapeshift into Uriel. Future events may feature a different dragon.</div><div><br></div><div>Before: Bahamut</div><div>After: Uriel</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1636696800; update_time1635326383

@@ -1,0 +1,8 @@
+article_id:271
+category_name:News
+title_name:Regarding an Issue with the Phantom Assault Boss Skill in the Battle in the Dornith Mountains Quests
+image_path:
+
+message:<div>We found an issue in the Imperial Onslaught quests &quot;Battle in the Dornith Mountains&quot; (all difficulties), where the boss&#39; skill Phantom Assault didn&#39;t hit as expected.</div><div><br></div><div>This issue was fixed in the data updated applied on <span class="local_date" data-local_date="1550815200"></span>.</div><div><br></div><div>As a token of our appreciation, the following gift will be sent to players who started playing before <span class="local_date" data-local_date="1550815200"></span>.</div><div><br></div><div>・Wyrmite x100</div><div><br></div><div>For players who log in before <span class="local_date" data-local_date="1551419940"></span>, this gift can be claimed from your goodie box for up to 7 days after logging in.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1551178800; update_time1551178661

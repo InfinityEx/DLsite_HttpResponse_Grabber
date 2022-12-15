@@ -1,0 +1,99 @@
+article_id:2451
+category_name:News
+title_name:Adding the Mana Spiral to More Adventurers!
+image_path:
+
+message:<div>A sixth mana circle, the mana spiral, will be added to certain adventurer starting <span class="local_date" data-local_date="1631512800"></span>.</div><div><br></div><div>The adventurer affected this time and her stats are described below.</div><div>Note: Unlocking an eligible adventurer&#39;s mana spiral requires special materials specific to that adventurer that can be earned from the daily bonus of the Trials of the Mighty quest.</div><div><br></div><div>■Affected Adventurers</div><div>5★ Kirsty (wind/lance)</div><div><br></div><div>■Stats</div><div><br></div><div>・5★ adventurer</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/07a4c9a41e2e328e6e36ea9632b019132.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">Kirsty</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>900</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>610</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,210</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/273e629ce26f9da1d603ff297c2b2bf92.png"></span>
+				<span>Patriot's Charge</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>dispels one buff from each target, and inflicts poison.</div><div class="skill-detail">Damage: 950 × 1 hit<br>Skill Energy Required: 2,930<br>Special Effects:<br>・Dispels Buffs<br>・Poison<br>　　Lasts 15 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 58.2<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>Lethal Operation</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Increases the entire team's strength and<br>grants the user immunity to knockback.</div><div class="skill-detail">Skill Energy Required: 8,534<br>Skill Energy Required (Shared Skill): 13,654<br>Special Effects:<br>・Strength +20%<br>　　Lasts 15 seconds<br>・Knockback Immunity<br>　　Lasts 15 seconds<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases HP by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>(Wind) HP 60% = Critical Rate +8%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind: <br>increases their critical rate by 8%<br>when their HP is 60% or above.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/da5f60b4b73eaa0143835a3ec1cf809d2.png"></span><span>Rebellious Commander</span></dt><dd><div>Grants the user a stack of the "Grand Strategist"<br>effect for every 10 seconds that pass without the<br>user being knocked back by an enemy.<br>Grand Strategist increases strength by 25%<br>and the chances of inflicting poison by 20%.<br>This buff can stack up to three times, but all<br>stacks will be lost upon being knocked back by<br>an enemy.<br><br>Also, using Lethal Operation will grant the user<br>a strength amp with a maximum team amp level<br>of two. After this amp is granted, this ability<br>will not grant it again for 30 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9d77939f4269ebb33ba6b5e2044474042.png"></span><span>Potent Bog Res +100%</span></dt><dd><div>Reduces susceptibility to bog by 100%.<br>When the user is hit by an attack that would have<br>inflicted bog on them, their strength is increased<br>by 15% for 10 seconds. After activating, this buff will<br>not activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d5719ca16fe586e5d8cad76d24b6f2192.png"></span><span>Poisoned Punisher & Poison = Attack Rate I</span></dt><dd><div>Increases damage to poisoned enemies by 30%<br>and, upon successfully poisoning an enemy,<br>increases the user's attack rate by 10% for<br>15 seconds. After activating, this attack rate<br>increase will not activate again for 15 seconds.</div></dd></dl></div></div></div><div><br></div><div>Notes:</div><div>1. The stats shown here represent the adventurer at level 100 with 70 mana nodes unbound.</div><div>2. The stats shown here do not include increases or decreases due to abilities.</div><div>3. The stats for the adventurer included in this notification shown in any prior notifications or preview videos were the stats at level 80 with 50 mana nodes unbound.</div><div>4. When an adventurer&#39;s skill level increases, the skill gauge will fill more slowly when set as a shared skill.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1631426400; update_time1631087488

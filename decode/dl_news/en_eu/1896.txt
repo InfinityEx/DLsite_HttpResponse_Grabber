@@ -1,0 +1,8 @@
+article_id:1896
+category_name:Events
+title_name:Epilogue Added to the Cursed Connections Raid Event!
+image_path:https://dragalialost.akamaized.net/attached/information/images/9709c57bafa1d6b5699cfdf16a569c98.png
+
+message:<div>An epilogue has been added to the raid event Cursed Connections, which ended <span class="local_date" data-local_date="1610517599"></span>.</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/9709c57bafa1d6b5699cfdf16a569c98.png"></div><div>You can view the epilogue by tapping the banner on the lower-left corner of the Home screen, which can be accessed from the in-game footer menu, then selecting View Quests.<br><br>■Epilogue Availability<br><span class="local_date" data-local_date="1610517600"></span> to <span class="local_date" data-local_date="1611122399"></span><br><br>Note:<br>The epilogue can be viewed only by players who have completed up to episode 5 of the event&#39;s story.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1610517600; update_time1609141546

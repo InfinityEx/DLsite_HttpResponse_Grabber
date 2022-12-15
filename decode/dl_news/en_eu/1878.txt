@@ -1,0 +1,8 @@
+article_id:1878
+category_name:News
+title_name:The New Year's Special Bonus Is Live!
+image_path:https://dragalialost.akamaized.net/attached/information/images/63d2e0467e9e9e4fcc4bf5406ff35a1e.png
+
+message:<div>The New Year&#39;s Special Bonus started at <span class="local_date" data-local_date="1609480800"></span>!</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/63d2e0467e9e9e4fcc4bf5406ff35a1e.png"></div><div>Log in during the bonus to get gifts such as items and wyrmite.</div><div><br></div><div>■Log-In Bonus Content</div><div>Day 1: Rupie &times; 5,000,000</div><div>Day 2: Exquisite Honey &times; 20</div><div>Day 3: Blessed Ethon Ashes &times; 20</div><div>Day 4: Tenfold Summon Voucher &times; 1</div><div>Day 5: Rupie &times; 5,000,000</div><div>Day 6: Rainbow Orb &times; 50</div><div>Day 7: Rupie &times; 5,000,000</div><div>Day 8: Wyrmite &times; 400</div><div>Day 9: Rupie &times; 5,000,000</div><div>Day 10: Champion&#39;s Testament &times; 2</div><div><br></div><div>■Event Duration</div><div><span class="local_date" data-local_date="1609480800"></span> to <span class="local_date" data-local_date="1610517599"></span></div><div><br></div><div>Notes:</div><div>1. The log-in bonus will be sent to your goodie box every day after 07:00 when you log in.</div><div>2. Gifts sent as log-in bonuses can only be accepted for a limited time.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1609480800; update_time1608793321

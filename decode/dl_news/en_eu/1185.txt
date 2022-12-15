@@ -1,0 +1,8 @@
+article_id:1185
+category_name:Events
+title_name:Epilogue Added to the Scars of the Syndicate Raid Event!
+image_path:https://dragalialost.akamaized.net/attached/information/images/b4eb7beb4afbf4ff3ac78f894ea0a4fb.png
+
+message:<div>An epilogue has been added to the raid event Scars of the Syndicate, which ended <span class="local_date" data-local_date="1586757599"></span>.</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/b4eb7beb4afbf4ff3ac78f894ea0a4fb.png"></div><div><br></div><div>You can view the epilogue by tapping the banner on the lower-left corner of the Home screen, which can be accessed from the in-game footer menu, then selecting View Quests.<br><br>■Epilogue Availability<br><span class="local_date" data-local_date="1586757600"></span> to <span class="local_date" data-local_date="1587362399"></span><br><br>Note:<br>The epilogue can be viewed only by players who have completed up to chapter 5 of the event&#39;s story.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1586757600; update_time1585209881

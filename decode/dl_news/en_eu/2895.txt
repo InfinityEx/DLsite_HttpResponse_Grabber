@@ -1,0 +1,74 @@
+article_id:2895
+category_name:News
+title_name:Wyrmprints Added to the Wyrmprint Treasure Trade Lineup!
+image_path:
+
+message:<div><span style="color: rgb(0, 0, 0);">Wyrmprints were added to the Treasure Trade for wyrmprints lineup at <span class="local_date" data-local_date="1655704800"></span>.</span></div><div><span style="color: rgb(0, 0, 0);"><strong><br></strong>Some wyrmprints that were previously limited-time have been added as regular wyrmprints.<br>You can trade for these newly added wyrmprints from the various rarity tabs in the Treasure Trade for wyrmprints.<br><br><strong>Wyrmprints that are no longer limited:</strong></span></div><div><span style="color: rgb(0, 0, 0);">
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/b4b15066d8e57d22523adca3633bab6f2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/b6fe5f7f272fe5c0a9f21d57ac1ec20b2.png"></div>
+	<div class="discription">
+		<div class="charaName">A Royal Tea Party</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/83bd9c8302b087a508daec2a8fc9b2cf2.png"></span><span>Debuff Skill Time +25%&nbsp;(Max 30%)</span></dt><dd><div>Increases duration of debuff skills by 25%.&nbsp;(Max 30%)</div></dd></dl></div></div></span></div><div><span style="color: rgb(0, 0, 0);">
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/6f73185ae232a29cfc0a1c74df0e23302.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/4935070b7217938ee929ad4013b12eb12.png"></div>
+	<div class="discription">
+		<div class="charaName">Hospitality & Harmony</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span><span>(Staff) Recovery Potency +20%&nbsp;(Max 20%)</span></dt><dd><div>If the user wields a Staff:<br>increases the potency of recovery skills by 20%.&nbsp;(Max 20%)</div></dd></dl></div></div></span></div><div><span style="color: rgb(0, 0, 0);">
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/0816cda12acaee9d2fc12be5a0aa49222.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/5686b974264a7cd2cec543b235471c832.png"></div>
+	<div class="discription">
+		<div class="charaName">The Nobles' Day Off</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/2283bfde4c6d4470a5d1292dea7e514c2.png"></span><span>Flashburned Punisher +20%&nbsp;(Max 25%)</span></dt><dd><div>Increases damage to flashburned enemies by 20%.&nbsp;(Max 25%)</div></dd></dl></div></div></span></div><div><span style="color: rgb(0, 0, 0);">
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/f559c7f52de258c8ee488902dad297f62.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/2439af36bc03adcbbc19665e4dcc50802.png"></div>
+	<div class="discription">
+		<div class="charaName">BFFs!</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span><span>(Water) Buff Skill Time +25%&nbsp;(Max 30%)</span></dt><dd><div>If the user is attuned to Water:<br>increases duration of buff skills by 25%.&nbsp;(Max 30%)</div></dd></dl></div></div></span></div><div><span style="color: rgb(0, 0, 0);">
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/241a2aafa18d434e4536c3293a27427c2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/46e32a95b191ace87b5481feb93726652.png"></div>
+	<div class="discription">
+		<div class="charaName">A Butler's Smile</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5b8f1930779d870cb69bf678e6b5c28d2.png"></span><span>Scorchrent Punisher +20%&nbsp;(Max 25%)</span></dt><dd><div>Increases damage to scorchrent enemies by 20%.&nbsp;(Max 25%)</div></dd></dl></div></div></span></div><div><span style="color: rgb(0, 0, 0);">
+<div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/6ac91375fd3a264d65bb86b86df318642.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png"><img class="icon-union" src="https://dragalialost.akamaized.net/attached/information/images/e5150416da5c3dcbbf1e3b94092affc12.png"></div>
+	<div class="discription">
+		<div class="charaName">Hand in Hand</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>(Wind) Skill Haste +7%&nbsp;(Max 15%)</span></dt><dd><div>If the user is attuned to Wind: <br>increases skill gauge fill rate by 7%.&nbsp;(Max 15%)</div></dd></dl></div></div></span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">Note: The stats shown here represent the wyrmprints when fully unbound. They do not represent the stats when first obtained.</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">Note:</span></div><div><span style="color: rgb(0, 0, 0);">For other information aside from this notification, see the Wyrmprints section in the Shop.</span></div><div><span style="color: rgb(0, 0, 0);"><br></span></div><div><span style="color: rgb(0, 0, 0);">Thank you for playing Dragalia Lost.</span></div>
+
+start_time:1655704800; update_time1645781033

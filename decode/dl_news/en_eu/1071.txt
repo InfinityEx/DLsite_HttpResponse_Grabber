@@ -1,0 +1,8 @@
+article_id:1071
+category_name:News
+title_name:Chapter 12: Destruction and Domination Added to the Main Campaign!
+image_path:https://dragalialost.akamaized.net/attached/information/images/9c1d249a1e3108a1e4817f5c31e7522b.png
+
+message:<div>Chapter 12: Destruction and Domination was added to the main campaign at <span class="local_date" data-local_date="1582178400"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/9c1d249a1e3108a1e4817f5c31e7522b.png"></div><div>The prince and his allies advance on the capital&mdash;but the combined armies of Leonidas and Chelle bar the way.</div><div><br></div><div>Amidst the intrigue and violence, the prince witnesses firsthand the strength of his siblings&#39; convictions&mdash;and will have to prove his own are stronger to secure victory!</div><div><br></div><div>We hope you&#39;re looking forward seeing what&#39;s in store for the prince and his friends!</div><div><br></div><div>Note:</div><div>Chapter 12: Destruction and Domination, will unlock if you clear Ch. 11 / 6-3 &quot;Two Hearts.&quot;</div><div><br></div><div>Thanks for playing Dragalia Lost.</div>
+
+start_time:1582178400; update_time1581067128

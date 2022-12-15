@@ -1,0 +1,233 @@
+article_id:1137
+category_name:News
+title_name:Adding the Mana Spiral to More Adventurers!
+image_path:
+
+message:<div>A sixth mana circle, the mana spiral, will be added to certain adventurers starting <span class="local_date" data-local_date="1583991000"></span>.</div><div><br></div><div>The adventurers affected this time and their stats are described below.</div><div><br></div><div>■Affected Adventurers</div><div>5★ Hawk (wind/bow)</div><div>5★ Lin You (wind/axe)</div><div>4★ Su Fang (wind/dagger)</div><div><br></div><div><br></div><div><br></div><div>■Stats</div><div>・5★ adventurer</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/9d59f58e316fcc12afba0132b10d1ebc2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">Hawk</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>916</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>592</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,208</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/90d8cd6109c5aa230672ce95592b1e492.png"></span>
+				<span>Savage Hawk</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to enemies in a line.<br>Poisoned or stunned foes take extra damage.<br>This damage increase will stack.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>Hunter's Creed</span>
+			</dt>
+			<dd>
+				<div>
+					Activates "Shackling Arrows." For the next two<br>force strikes, the user will shoot special arrows<br>that deal extra damage and inflict stun and poison.<br>The second time this skill is used, it will instead<br>deal wind damage to enemies in a line, dealing<br>extra damage to poisoned foes.<br>The skill will then alternate between<br>these two effects with every use.
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">Co-abilities</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>Skill Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases skill gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea4faca39c3833970b6f3680520f77bd2.png"></span><span>Poison & Stun Edge +50%</span></dt><dd><div>Increases the chances of inflicting poison and stun<br>by 50%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dfbbb18cd6a812083fd505b275d3a42a2.png"></span><span>Potent Freeze Res +100%</span></dt><dd><div>Reduces susceptibility to freeze by 100%.<br>When the user is hit by an attack that would have<br>inflicted freeze on them, their strength is increased<br>by 15% for 10 seconds. After activating, this buff will<br>not activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d7533edd7150e45d717ea776dd1870602.png"></span><span>Poisoned & Stunned Punisher I</span></dt><dd><div>Increases damage to poisoned enemies by 30%<br>and stunned enemies by 40%.</div></dd></dl></div></div></div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/1ac87d393c741efdeeb13f596958810d2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">Lin You</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>892</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>619</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,211</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd5464d0aeb6d41964c19ee25f922b922.png"></span>
+				<span>Typhoon Fist</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to enemies directly ahead,<br>and inflicts sleep. The user's next three force strikes<br>are powered up, and create cyclones.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>Heaven's Breath</span>
+			</dt>
+			<dd>
+				<div>
+					Restores the user's HP, and activates "Heaven's Breath"<br>for 15 seconds. During Heaven's Breath, the user's<br>attack rate is increased by 20%, and the Typhoon Fist<br>skill is powered up.
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">Co-abilities</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>Defense +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases defense by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>Kung Fu Mastery</span></dt><dd><div>Increases critical rate by 10% when<br>HP is 70% or above. Also increases<br>the user's critical rate by a further<br>20% when the combo count is 25 or higher,<br>and an additional 20% when the combo count<br>is 50 or higher.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9d77939f4269ebb33ba6b5e2044474042.png"></span><span>Potent Bog Res +100%</span></dt><dd><div>Reduces susceptibility to bog by 100%.<br>When the user is hit by an attack that would have<br>inflicted bog on them, their strength is increased<br>by 15% for 10 seconds. After activating, this buff will<br>not activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3b31010cc376553f8da3c5cc5d525c732.png"></span><span>Skill Haste & Combo Time</span></dt><dd><div>Increases skill gauge fill rate by 8%, and extends<br>the window between hitting an enemy and<br>the combo counter resetting by two seconds.</div></dd></dl></div></div></div><div><br></div><div>・4★ adventurer</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/b3eee9c0b362a39639aa1fc79f96815a2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">Su Fang</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>866</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>568</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,134</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>Gale Slice</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to enemies directly ahead.<br>Poisoned foes take extra damage.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>Crackling Pyroblossom</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the user's strength by 30% for 15 seconds.<br>While this skill is active, Gale Slice may inflict stun.<br>Also, the user's next force strike will inflict poison.
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">Co-abilities</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>Critical Rate +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases critical rate by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3ca52a5a5cdcfffd7436b453631da9622.png"></span><span>Therion's Bane +35%</span></dt><dd><div>Increases damage to therions by 35%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9d77939f4269ebb33ba6b5e2044474042.png"></span><span>Potent Bog Res +100%</span></dt><dd><div>Reduces susceptibility to bog by 100%.<br>When the user is hit by an attack that would have<br>inflicted bog on them, their strength is increased<br>by 15% for 10 seconds. After activating, this buff will<br>not activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>Skill Damage +35%</span></dt><dd><div>Increases attack skill damage by 35%.</div></dd></dl></div></div></div><div><br></div><div>Notes:</div><div>1. The stats shown here represent the adventurer at level 100 with 70 mana nodes unbound.</div><div>2. The stats shown here do not include increases or decreases due to abilities.</div><div>3. The stats for the adventurer included in this notification shown in any prior notifications or preview videos were the stats at level 80 with 50 mana nodes unbound.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1583820000; update_time1583735060

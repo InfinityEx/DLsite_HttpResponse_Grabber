@@ -1,0 +1,8 @@
+article_id:2056
+category_name:News
+title_name:Part Two of Main Campaign Chapter 18: The Forest of the Faeries, Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/67bc516dc116ed0a28df5dcb8b468472.png
+
+message:<div>Part two of Chapter 18: The Forest of the Faeries will be added to the main campaign on <span class="local_date" data-local_date="1616392800"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/67bc516dc116ed0a28df5dcb8b468472.png"></div><div><br></div><div>We hope you&#39;re looking forward seeing what&#39;s in store for the prince and his friends!</div><div><br></div><div>■Note</div><div>Part two will unlock if you clear Ch. 18 / 3-5 &quot;Blessed Light.&quot;</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1616133600; update_time1616052705

@@ -1,0 +1,8 @@
+article_id:1929
+category_name:News
+title_name:Regarding the Morsayati Reckoning Weekly Bonus
+image_path:
+
+message:<div>We have confirmed that the number of weekly bonus rewards obtained when clearing the Forgotten Truths: Morsayati Reckoning quest added on <span class="local_date" data-local_date="1610604000"></span> is different between the solo and co-op versions of the quest.</div><div><br></div><div>We plan to fix this issue in a data update on <span class="local_date" data-local_date="1611554400"></span>.</div><div><br></div><div>We will also send the difference in number of weekly bonus rewards to all players who have cleared the solo version of this quest before the fix is applied.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1610700600; update_time1610701391

@@ -1,0 +1,196 @@
+article_id:270
+category_name:News
+title_name:New Summon Showcase, Thunder and Splendor, Is Now Live!
+image_path:
+
+message:<div>A new Summon Showcase, Thunder and Splendor, went live <span class="local_date" data-local_date="1551333600"></span>!</div><div><br></div><div>Featured adventurers, dragons, and wyrmprints have an increased appearance rate.</div><div><br></div><div>Featured Adventurers, Dragons, and Wyrmprints:</div><div><br></div><div>■Adventurers</div><div>5★ Albert (light/sword), 4★ Odetta (light/sword), 3★ Jakob (water/lance)</div><div><br></div><div>■Dragons</div><div>5★ Gilgamesh (light)</div><div><br></div><div>■Wyrmprints</div><div>5★ The Shining Overlord, 5★ A Solitary Light, 4★ New World Escort, 3★ The Davian Wetlands</div><div><br></div><div>Note: For information about other featured adventurers, dragons, and wyrmprints, tap Summon on the in-game footer menu, then check Showcase Info.</div><div><br></div><div>Availability period for featured summons:</div><div><span class="local_date" data-local_date="1551333600"></span> to <span class="local_date" data-local_date="1552370340"></span></div><div><br></div><div>Get a closer look at some of the featured adventurers, dragons, and wyrmprints below.</div><div><br></div><div>Featured Adventurer:</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8002a576e5a127b764981808b2dfef64.png"></div>
+<div class="status">
+	<div class="title">Stats</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>80</span>
+				</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>758</span>
+				</li>
+				<li class="atk">
+					<span>Strength</span>
+					<span>502</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+			<span>2500</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">Adventurer details</div>
+			<div class="param">
+				<ul>
+					<li>Known as the "Thunderswift Lord" for his ability<br>to wield thunder, he also leads the Knights of<br>Levin. He's on a quest to find the seeds of the<br>abyss that nearly decimated his homeland. His<br>calm determination makes him respected by all.</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8ed68e92eeb44273a852b29fb35debab2.png"></span>
+				<span>Lightning Burst</span>
+			</dt>
+			<dd>
+				<div>
+					Deals light damage to the target and nearby enemies.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2b2bc8b0c47c3d2efa57f9e51de8aff02.png"></span>
+				<span>Thunderous Impulse</span>
+			</dt>
+			<dd>
+				<div>
+					Electrifies the user for 20 seconds. When electrified,<br>the user's force strikes may inflict paralysis, and the<br>Lightning Burst skill is powered up. When not<br>electrified, the gauge for this skill will fill gradually.<br>Abilities that increase skill gauge fill rate will not<br>affect this skill.
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">Co-abilities</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>Dragon Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases dragon gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/fd589517c61c65312e1509e13a36cd412.png"></span><span>Force Strike +50%</span></dt><dd><div>Increases force strike damage by 50%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>Poison Res +100%</span></dt><dd><div>Reduces susceptibility to poison by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cb9a79af6cfdc75b0e5d4d610cfbe8c32.png"></span><span>Electrically Charged II</span></dt><dd><div>Increases strength by 25% when electrified.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent the adventurer at maximum level with all mana circles unlocked, not the stats when first obtained.</div><div><br></div><div>Featured Dragon:</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c63563f626aae56490e050fd3b286c80.png"></div>
+<div class="status">
+	<div class="title">Stats</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>371</span>
+				</li>
+				<li class="atk">
+					<span>Strength</span>
+					<span>124</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+			<span>995</span>
+		</div>
+	</div>
+		<div class="status">
+			<div class="title">Dragon details</div>
+			<div class="param">
+				<ul>
+					<li>A dragon known as the king of kings.<br>He is said to have once ruled the world,<br>and his achievements live on in legend.<br>Nary a single shadow can exist before<br>the great power he possesses.</li>
+				</ul>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8ed68e92eeb44273a852b29fb35debab2.png"></span>
+				<span>Subjugating Sword</span>
+			</dt>
+			<dd>
+				<div>
+					Deals light damage to enemies directly ahead.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/916d0547dd866ff9333344c772c14d732.png"></span><span>(Light) Strength & Shadow Res II</span></dt><dd><div>If the user is attuned to Light: <br>increases strength by 50%, and adds 15%<br>to shadow resistance.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Featured Wyrmprints:</div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/588aee015fade97202cecbea9c53c6f7.png"></div>
+<div class="status">
+	<div class="title">Stats</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>176</span>
+				</li>
+				<li class="atk">
+					<span>Strength</span>
+					<span>65</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+			<span>401</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>(Sword) Skill Damage +35%</span></dt><dd><div>If the user wields a Sword:<br>increases attack skill damage by 35%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Dragon's Claws II</span></dt><dd><div>Each shapeshift increases strength for the remainder <br>of the quest (up to three times per quest).</div></dd></dl></div></div></div><div><br></div><div><div class="summonPickUp">
+<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/1a21e4dbbce95666b68f2a9206a799d0.png"></div>
+<div class="status">
+	<div class="title">Stats</div>
+	<div class="param">
+		<div class="base">
+			<ul>
+				<li class="lv">
+					<span>Lv</span>
+					<span>100</span>
+				</li>
+			</ul>
+		</div>
+		<div class="base under">
+			<ul>
+				<li class="hp">
+					<span>HP</span>
+					<span>195</span>
+				</li>
+				<li class="atk">
+					<span>Strength</span>
+					<span>46</span>
+				</li>
+			</ul>
+		</div>
+		<div class="total">
+			<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+			<span>381</span>
+		</div>
+	</div></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3d57efbfc9ee679b982b0fd3ed6495302.png"></span><span>(Light) Affliction Guard II</span></dt><dd><div>If the user is attuned to Light: <br>resists afflictions up to three times per quest.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span><span>Shadow Res +8%</span></dt><dd><div>Reduces shadow damage taken by 8%.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent each wyrmprint at maximum level and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For information about featured adventurers, dragons, and wyrmprints, tap Summon on the in-game footer menu, then select Showcase Info and check the More Info tab, or select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Thank you for playing Dragalia Lost!</div>
+
+start_time:1551333600; update_time1551336303

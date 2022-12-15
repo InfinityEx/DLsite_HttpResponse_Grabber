@@ -1,0 +1,344 @@
+article_id:2402
+category_name:News
+title_name:Announcing Gala Dragalia Remix!
+image_path:
+
+message:<div>Gala Dragalia Remix starts on <span class="local_date" data-local_date="1628834400"></span>!</div><div><br></div><div>What are Gala Dragalia and Gala Dragalia Remix?</div><div>The initial appearance rate for 5★ adventurers and dragons will be boosted to 6%, which is up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">The newly added 5★ adventurers Yukata Lathna (wind) and Yukata Cleo (flame) will also appear in subsequent summon showcases.</span></div><div><span style="color: rgb(226, 80, 65);"><br></span></div><div><span style="color: rgb(226, 80, 65);">Adventurers added in past Gala Dragalia summon showcases may appear in this summon showcase as well. For information about which adventurers may appear, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</span></div><div><br></div><div>Newly added featured adventurers:</div><div>5★ Yukata Lathna (wind/blade)</div><div>5★ Yukata Cleo (flame/wand)</div><div><br></div><div>Featured adventurer from past Gala Dragalia summon showcases:</div><div>5★ Gala Notte (wind/dagger)</div><div><br></div><div>Featured dragon from past Gala Dragalia summon showcases:</div><div>5★ Gala Reborn Agni (flame)</div><div><br></div><div>Gala Dragalia Remix event duration:</div><div><span class="local_date" data-local_date="1628834400"></span> to <span class="local_date" data-local_date="1629179999"></span></div><div><br></div><div>Get a closer look at the featured adventurers and dragon below.</div><div><br></div><div>Featured adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c9bce7c79c65bdf20d39362112f42241.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>742</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>519</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Lathna, clad in an adorable yukata and ready to<br>hit a festival with a special new friend. The thing<br>that sleeps within her has other plans, however.<br>Growing stronger each day, its shackles loosen,<br>lending this sweet girl a most indescribable air...</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/418c5276da76b94d280992a10c04b93a2.png"></span>
+				<span>Summer Moon Howl</span>
+			</dt>
+			<dd><div>Deals damage to enemies in a line, dispels one<br>buff from each target and activates "Skill Shift"<br>if the attack connects. Phase I grants the user<br>a defense amp. Phase II reduces the targets'<br>strength and grants the user a defense amp.<br>Phase III reduces the targets' strength and<br>defense and grants the user a defense amp.</div><div class="skill-detail">Damage: 550 × 3 hits<br>Skill Energy Required: 2,640<br>Special Effects:<br>・Dispels Buffs<br>Amps:<br>・Defense Amp (Team Amp MAX Lv. = 2)<br><br><color=#00008B>Phase II:</color><br>Damage: 575 × 3 hits<br>Skill Energy Required: 2,640<br>Special Effects:<br>・Dispels Buffs<br>・Strength -10%<br>　　Lasts 10 seconds<br>　　Does not stack<br>Amps:<br>・Defense Amp (Team Amp MAX Lv. = 2)<br><br><color=#00008B>Phase III:</color><br>Damage: 600 × 3 hits<br>Skill Energy Required: 2,640<br>Special Effects:<br>・Dispels Buffs<br>・Strength -10%<br>　　Lasts 10 seconds<br>　　Does not stack<br>・Defense -5%<br>　　Lasts 10 seconds<br>　　Does not stack<br>Amps:<br>・Defense Amp (Team Amp MAX Lv. = 2)</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8c815b2f5bf05d5e9d339266756f8dc2.png"></span>
+				<span>Haunter of the Festival</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies,<br>lowers their wind resistance, and deals bonus<br>damage based on the total combined level of the<br>user's current team amps.</div><div class="skill-detail">Damage: 1,753 × 1 hit<br>Bonus Damage (Team Amp Lv. = 1): 316 × 3 hits<br>Bonus Damage (Team Amp Lv. = 2+): 316 × 6 hits<br>Skill Energy Required: 6,000<br>Skill Energy Required (Shared Skill): 15,180<br>Special Effects:<br>・Wind Res -3%<br>　　Lasts 20 seconds<br>　　Does not stack</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Strength +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases strength by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>(Wind) Dragon Haste +20%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind: <br>increases their dragon gauge fill rate by 20%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87a8211ee3972ec0e9034c01845fae922.png"></span><span>Reduced Strength Punisher +20%</span></dt><dd><div>Increases damage to enemies with reduced<br>strength by 20%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>Freeze Res +100%</span></dt><dd><div>Reduces susceptibility to freezing by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>Skill Damage +30%</span></dt><dd><div>Increases attack skill damage by 30%.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f241f554c07bd422ca75fbe6ca6da894.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>786</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>488</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,514</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Cleo dons something breezier to run a candied<br>apple stand at the summer festival. Her sweet,<br>refreshing treats have debuted to rave reviews,<br>but some customers find the quaint proprietress<br>herself to be the real main attraction.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ef2fadd4e5171b8628a69b7295d667602.png"></span>
+				<span>Festival Mirage</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead and<br>creates a debuff zone that adaptively suppresses<br>damage dealt by enemies inside it. Adaptive<br>suppression reduces damage with no elemental<br>attunement as well as elementally attuned damage<br>that the target has an elemental advantage to.</div><div class="skill-detail">Damage: 1,600 × 1 hit<br>Skill Energy Required: 2,648<br>Skill Energy Required (Shared Skill): 7,414<br>Special Effects:<br>・Adaptive Suppression (Modifier -5%)<br>　　Lasts 10 seconds</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>Carnival of Confusion</span>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies,<br>creates a debuff zone that reduces the strength<br>and defense of enemies inside it, and grants the<br>user a defense amp.</div><div class="skill-detail">Damage: 400 × 4 hits<br>Skill Energy Required: 4,400<br>Special Effects:<br>・Captive Catch<br>　　Lasts 10 seconds<br>　　Strength -10%<br>　　Defense -10%<br>Amps:<br>・Defense Amp (Team Amp MAX Lv. = 2)<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>Skill Damage +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases attack skill damage by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/03585ae11a2b0de283c914026533b3fe2.png"></span>
+				<span>(Flame) HP 80% = Wind Res +6%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Flame: <br>reduces wind damage taken by them by 6%<br>when their HP is 80% or above.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/792ea46bdbe14e4119cfc045369534ac2.png"></span><span>Festival Fever II</span></dt><dd><div>Increases the damage dealt by the user's attacks<br>based on the number of active debuff zones.<br>The maximum bonus, given when there are two<br>or more debuff zones, increases damage by 15%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>Sleep Res +100%</span></dt><dd><div>Reduces susceptibility to sleep by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>Dynamic Defense II</span></dt><dd><div>Fills 10% of skill gauges when the user<br>is granted a defense amp.</div></dd></dl></div></div></div><div><br></div><div>■Regarding Yukata Cleo&#39;s Skill Festival Mirage<br>This skill creates a debuff zone that applies the Adaptive Suppression debuff to enemies inside it. When an enemy with this debuff attacks, they will deal reduced damage so long as the attack has no elemental attunement or has an elemental disadvantage against their target.</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b9b805b839eaa287b53557362a769331.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>760</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>499</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Notte awakens to her true power as a faerie,<br>enabling her to change size at will. No longer<br>a tiny being in need of protection, she now<br>fights on the front lines to protect the ones<br>she loves most.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e85e2d5f87af2b9a484d50eb16f8480c2.png"></span>
+				<span>Faerie Punishment</span>
+			</dt>
+			<dd><div>Deals damage to the target and nearby<br>enemies, dispels one buff from each of them,<br>and, if the combo count is 20 or higher,<br>partially fills the metamorphosis gauge.<br><br>When shapeshifted:<br>deals damage to surrounding enemies,<br>and inflicts stormlash.</div><div class="skill-detail">Damage: 107 × 16 hits<br>Skill Energy Required: 2,620<br>Special Effects:<br>・Dispels Buffs<br>Shapeshift Energy Gained: 80<br><br><color=#00008B>When Shapeshifted:</color><br>Damage: 532 × 5 hits<br>Special Effects:<br>・Stormlash<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds <br>　　Damage: 41<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f966791f17e374d3ea12252d10ee6c462.png"></span>
+				<span>Faerie Illusion</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies,<br>dispels one buff from each target, and,<br>if the combo count is 20 or higher,<br>partially fills the metamorphosis gauge.<br>This attack will pursue targets for the<br>duration of the skill.<br><br>When shapeshifted:<br>deals damage to surrounding enemies,<br>then deals damage to enemies in a line.</div><div class="skill-detail">Damage: 82 × 30 hits<br>Skill Energy Required: 5,240<br>Skill Energy Required (Shared Skill): 8,279<br>Special Effects:<br>・Dispels Buffs<br>Shapeshift Energy Gained: 150<br><br><color=#00008B>When Shapeshifted:</color><br>Damage: 700 × 2 hits<br>Damage: 1,092 × 1 hit</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>Critical Rate +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases critical rate by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span>
+				<span>(Wind) Combo = Shapeshift Prep V</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind:<br>fills 3% of their dragon gauge<br>for every 50-hit combo.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6520d144b623d2b7b6131329914ae1a62.png"></span><span>Metamorphosis II</span></dt><dd><div>Grants Notte a unique shapeshift called<br>"metamorphosis," and replaces the dragon gauge<br>with a metamorphosis gauge. Tapping the gauge<br>after it has filled to a certain threshold will allow<br>Notte to shapeshift, and when shapeshifting,<br>Notte will use metamorphosis to transform<br>regardless of what dragon she is equipped with.<br>By tapping the gauge a second time or after the<br>gauge has been consumed, Notte will return to<br>her original form.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/857a2a2fdbc31b188c91fbd6f6eca6b32.png"></span><span>Faerie Blessing II</span></dt><dd><div>Reduces susceptibility to freeze and bog by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Flurry Strength +20%</span></dt><dd><div>Increases strength by 20% when the combo count is<br>15 or higher.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2b260d2b6a1b1c3fff8281591de1e2be.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>127</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,296</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>The rapacious dragon Agni, once feared as the<br>Firelord, reborn. His heart resonated with the<br>people's hunger for peace, freeing him from the<br>miasma that once ate away at him. His hunger<br>only burns hotter now, fit to reduce all to ash.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>Blazing Strike</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>and inflicts scorchrend. Enemies in break state<br>take reduced damage. If the user is targeting<br>an enemy and not using a skill when their<br>remaining shapeshift time runs out, this skill<br>will be used automatically, regardless of<br>whether or not the skill gauge is filled.</div><div class="skill-detail">Damage: 1,078 × 1 hit<br>Damage: 1,470 × 1 hit<br>Special Effects:<br>・Scorchrend<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41.6<br>Damage Modifier:<br>・75% against enemies in break state<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Flame) Strength +70%</span></dt><dd><div>If the user is attuned to Flame: <br>increases strength by 70%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1ba1d939f31aa624b013b900d03a48812.png"></span><span>(Flame) Fervor of the Firelord II</span></dt><dd><div>If the user is attuned to Flame:<br>adds 30% to the modifier applied to damage<br>against wind-attuned enemies and enemies<br>with no attunement for 45 seconds every time<br>the dragon gauge fills by 10%. This increase<br>will not stack, and, after activating, this ability<br>will not activate again for five seconds.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. Alberian Battle Royale skins for adventurers featured in this summon showcase will go on sale, and it will cost fewer items to unlock their skins. Note that some adventurers do not have adventurer skins.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1628748000; update_time1628664882

@@ -1,0 +1,8 @@
+article_id:2148
+category_name:News
+title_name:The Dream Summon Special Is Now Available!
+image_path:https://dragalialost.akamaized.net/attached/information/images/44dd1eff32034501e6e5b7a8b02bd594.png
+
+message:<div><img src="https://dragalialost.akamaized.net/attached/information/images/44dd1eff32034501e6e5b7a8b02bd594.png"></div><div>The Dream Summon Special is available in the shop as of <span class="local_date" data-local_date="1619762400"></span>!<br><br>You can purchase the Dream Summon Special for 1,200 diamantium to get one Tenfold Summon Voucher and one adventurer or dragon of your choosing.<br><br><span style="color: rgb(226, 80, 65);">Adventurers and dragons have been added to the lineup since the last time this pack was available! (This lineup does not include limited-time adventurers or dragons.)</span><br><br>■Availability Period<br><span class="local_date" data-local_date="1619762400"></span> to <span class="local_date" data-local_date="1622181599"></span><br><br>Notes:<br>1. The Dream Summon Special may only be purchased once during the availability period.<br>2. You cannot obtain an adventurer whom you have already obtained.<br>3. To see which adventurers or dragons you can obtain, tap the Dream Summon Special banner on the Home screen, then see Lineup on the pop-up that displays after you tap Purchase for the Dream Summon Special under Value Packs in the Shop.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1619762400; update_time1618983301

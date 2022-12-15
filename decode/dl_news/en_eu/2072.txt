@@ -1,0 +1,8 @@
+article_id:2072
+category_name:News
+title_name:Issue When Starting the Game on Certain Android Devices [Update]
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>[Addendum <span class="local_date" data-local_date="1616495700"></span>]</strong></span><br>We have confirmed that this issue can be resolved by updating the Android System WebView and Google Chrome apps in the Google Play Store.<br>If you have encountered this issue, please try restarting the game after updating these apps.<br><br>Thank you for playing Dragalia Lost.</div><hr><div>We have confirmed an issue where the game crashes when launching it on certain Android devices, regardless of whether they are supported or not.</div><div><br></div><div>We are currently investigating the cause of this issue.</div><div>Any further updates will be posted in the in-game notifications or on the official website.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1616467500; update_time1616495876

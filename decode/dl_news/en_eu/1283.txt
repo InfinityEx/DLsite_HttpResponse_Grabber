@@ -1,0 +1,8 @@
+article_id:1283
+category_name:News
+title_name:The Second Round of Limited-Time Packs Is Here!
+image_path:https://dragalialost.akamaized.net/attached/information/images/2b53690e5faf95374cff269a3d11e54c.png
+
+message:<div>Limited-time packs are available under Limited-Time Deals in the Shop as of <span class="local_date" data-local_date="1588572000"></span>!</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/2b53690e5faf95374cff269a3d11e54c.png"></div><div>■Availability Period</div><div><span class="local_date" data-local_date="1588572000"></span> to <span class="local_date" data-local_date="1589263140"></span></div><div><br></div><div>■Limited-Time Damascus Ingot Pack</div><div>A pack containing diamantium and an item to assist with unbinding a 5★ weapon.</div><div><br></div><div>&lt;Diamantium Included&gt;</div><div>・Diamantium x700 (480 + 220 bonus)</div><div><br></div><div>&lt;Other Items Included&gt;</div><div>・Damascus Ingot x1</div><div><br></div><div>Notes:</div><div>1. For information about each pack, select the Shop on the Home page, and see Limited-Time Deals.</div><div>2. Each limited-time pack may only be purchased once during the availability period.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1588572000; update_time1588237664

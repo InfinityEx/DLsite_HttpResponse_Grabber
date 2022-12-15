@@ -1,0 +1,8 @@
+article_id:2184
+category_name:Events
+title_name:A Facility Event Revival, Agents of the Goddess, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/1c727c549f8a1ecc64926aed2044e71f.png
+
+message:<div>A facility event revival, Agents of the Goddess, begins on <span class="local_date" data-local_date="1621231200"></span>!<br><br>This event will pit your group of adventurers against bosses of the light element. You&#39;ll also be able to get an event-related reward facility!</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/1c727c549f8a1ecc64926aed2044e71f.png"></div><div>■Event Duration<br><span class="local_date" data-local_date="1621231200"></span> to <span class="local_date" data-local_date="1622181599"></span><br><br></div><div>Notes:</div><div>1. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate.</div><div>2. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign in order to play co-op.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1620885600; update_time1623741373

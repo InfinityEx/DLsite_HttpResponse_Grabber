@@ -1,0 +1,8 @@
+article_id:1076
+category_name:Events
+title_name:Epilogue Added to the Valentine's Confections Story Event Revival!
+image_path:https://dragalialost.akamaized.net/attached/information/images/2b36a6006082f0ed9a0a249afdc9760c.png
+
+message:<div>An epilogue has been added to the Valentine&#39;s Confections story event revival, which ended <span class="local_date" data-local_date="1582869599"></span>.</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/2b36a6006082f0ed9a0a249afdc9760c.png"></div><div>You can view the epilogue by tapping the banner on the lower-left corner of the Home screen, which can be accessed from the in-game footer menu, then selecting View Stories.</div><div><br></div><div>■Epilogue Availability</div><div><span class="local_date" data-local_date="1582869600"></span> to <span class="local_date" data-local_date="1583474399"></span></div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1582869600; update_time1581322168

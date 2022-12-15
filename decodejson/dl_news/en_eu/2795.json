@@ -1,0 +1,90 @@
+article_id:2795,category_name:News,title_name:Gala Dragalia Is Now Live!,image_path:,message:<div>Gala Dragalia started on <span class="local_date" data-local_date="1643608800"></span>!</div><div><br></div><div>■What Are Gala Dragalia and Gala Dragalia Remix?</div><div>The initial appearance rate for 5★ adventurers and dragons is boosted to 6%, which is up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div><br></div><div>▼Newly added featured adventurer:</div><div>5★ Gala Emile (water/wand)</div><div><span style="color: rgb(226, 80, 65);">An Alberian Battle Royale skin for the newly added 5★ adventurer Gala Emile will not be available to unlock upon his release, but will be added in a future update.</span></div><div><br></div><div>Gala Dragalia appearance rates:</div><div>5★ total: 6.00%</div><div>5★ featured total: 0.50% (Adventurers: 0.50%)</div><div>5★ standard total: 5.50% (Adventurers: 2.50%, Dragons: 3.00%)</div><div>4★ standard total: 16.00% (Adventurers: 8.55%, Dragons: 7.45%)</div><div>3★ standard total: 78.00% (Adventurers: 47.00%, Dragons: 31.00%)</div><div><br></div><div>Gala Dragalia event duration:</div><div><span class="local_date" data-local_date="1643608800"></span> to <span class="local_date" data-local_date="1643954399"></span></div><div><br></div><div>Get a closer look at the featured adventurer below.</div><div><br></div><div>Featured adventurer:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/400688eebd09c935e5f2313f90322879.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+					<li class="skill">
+						<span>14</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>789</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>486</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The sixth scion of Alberia who became emperor<br>of the Dyrenell Empire after the Other's defeat.<br>Long tormented by comparisons to his siblings,<br>he now looks inward to his own talents as he<br>strives to rebuild the empire with his vassals.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d75750d7a072ef3651ab45c8d2b570812.png"></span>
+				<span>Follow Me, Minions!</span>
+			</dt>
+			<dd><div>This skill can only be used while the user<br>has one or more ego gauge charges.<br><br>Consumes one charge of the ego gauge.<br>If one or more teammates are located behind<br>the user, grants the entire team a team strength<br>amp. Otherwise, grants the user a strength amp.</div><div class="skill-detail">Skill Energy Required: 4,980<br>Team Amps:<br>・Team Strength Amp (MAX Lv. = 2)<br>Amps:<br>・Strength Amp (Team Amp MAX Lv. = 2)</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/add78fbd034f4dcca1ec7411648af6102.png"></span>
+				<span>Protect Me, Peons!</span>
+			</dt>
+			<dd><div>This skill can only be used while the user<br>has one or more ego gauge charges.<br><br>Consumes one charge of the ego gauge<br>and grants the user damage diffusion.<br>If one or more teammates are located in front<br>of the user, grants the entire team a team<br>defense amp. Otherwise, grants the user a<br>defense amp.</div><div class="skill-detail">Skill Energy Required: 4,980<br>Special Effects:<br>・Damage Diffusion<br>　　Charges: 1<br>　　Does not stack<br>Team Amps:<br>・Team Defense Amp (MAX Lv. = 2)<br>Amps:<br>・Defense Amp (Team Amp MAX Lv. = 2)</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>Skill Damage +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases attack skill damage by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span>
+				<span>(Water) Team Strength Amp = Skill Haste V</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water:<br>increases their skill gauge fill rate by 6%<br>when they have a team strength amp.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/67e1d7b7a658af6624ecd3c0af03e0d52.png"></span><span>Waterwyrm's Guidance II</span></dt><dd><div>Grants Emile a dragondrive gauge and changes<br>the shapeshift button into a dragondrive button.<br>Tapping this button activates Emile's dragondrive,<br>consumes some of the dragondrive gauge, and<br>performs a special attack. Emile's dragondrive<br>ends immediately after this attack.<br><br>Also, grants Emile an ego gauge with three<br>charges. The ego gauge fills when standard<br>attacks, dash attacks, and force strikes<br>connect with enemies.<br><br>In addition, grants Emile four more skill points<br>for equipping shared skills and increases<br>his skill gauge fill rate by 40%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f3503b7c11dab7e6111611cb63f010c32.png"></span><span>Immeasurable Majesty II</span></dt><dd><div>Reduces susceptibility to burning and stun by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>The Great and Powerful Emperor Emile II</span></dt><dd><div>Increases damage dealt by shared skills<br>by 150%. Shared skills that deal damage<br>will also inflict frostbite.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities and represent the adventurer at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div><br></div><div>■Regarding Gala Emile&#39;s Abilities The Great and Powerful Emperor Emile I and II<br>The effects of Gala Emile&#39;s abilities The Great and Powerful Emperor Emile I and II will also apply to shared skills and weapon skills in the Kaleidoscape.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. An Alberian Battle Royale skin for the adventurer featured in this summon showcase is on sale and costs fewer items to unlock. Note that some adventurers do not have adventurer skins.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>,start_time:1643608800,update_time1643766039

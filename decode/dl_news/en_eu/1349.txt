@@ -1,0 +1,359 @@
+article_id:1349
+category_name:News
+title_name:Announcing Gala Dragalia!
+image_path:
+
+message:<div>Gala Dragalia will start at <span class="local_date" data-local_date="1590732000"></span>!</div><div><br></div><div>What is Gala Dragalia?</div><div>・The initial appearance rate for 5★ adventurers and dragons will be boosted to 6%, which is up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div><span style="color: rgb(226, 80, 65);">Note: The newly added 5★ adventurers Radiant Xuan Zang (light) and Zhu Bajie (light), 4★ adventurer Sha Wujing (light), and 5★ dragon Tie Shan Gongzhu (light) will also appear in the next summon showcase.</span></div><div><br></div><div>Gala Dragalia event duration:</div><div><span class="local_date" data-local_date="1590732000"></span> to <span class="local_date" data-local_date="1591163940"></span></div><div><br></div><div>Get a closer look at some of the newly featured adventurers and dragons below.</div><div><br></div><div>Featured adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/0b1f1a64bf1c7df4235b5b2b8d31d05f.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/e9dfe7dacc80f97bf9aa860adb0b78992.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>835</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>456</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,531</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Captain of Alberia's Royal Guard. An exemplar<br>of the knights, his love for his country is<br>exceptionally strong. A brilliant swordsman,<br>he also served as an instructor in the way<br>of the blade to the royal children.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ce18e747f777d979161c063fcf7f13952.png"></span>
+				<span>Feathered Gale</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to surrounding enemies,<br>and reduces their defense by 5% for 20 seconds.<br>This defense reduction will not stack.<br>If this skill is used during shielding stance, a variant<br>called Sparrows' Protection will be used instead.<br>Sparrows' Protection increases the user's defense<br>by 60% for 15 seconds.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/233ea87a2c62ab9174c7715807a245542.png"></span>
+				<span>Pinion Slash</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to enemies in a line,<br>and reduces their strength by 5% for 20 seconds.<br>This strength reduction effect will not stack.<br>Poisoned foes take extra damage.<br>If this skill is used during shielding stance, a variant<br>called Parrying Slash will be used instead.<br>Parrying Slash deals wind damage to enemies<br>directly ahead, and inflicts poison. Damage is<br>increased against foes with reduced defense.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f4fe3ec28ab794355638e48f3cdc2b332.png"></span>
+				<span>Reduced Strength & Defense Punisher +8%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases damage to enemies with reduced<br>strength or defense by 8%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Wind) Strength Doublebuff +10%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind: <br>increases their strength by 10% for 15 seconds<br>each time they receive a defense up buff.<br>After activating, this ability will not<br>activate again for 15 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/83bd9c8302b087a508daec2a8fc9b2cf2.png"></span><span>Debuff Skill Time +20%</span></dt><dd><div>Increases the duration of bleeding and debuff skills<br>that reduce strength and defense by 20%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/857a2a2fdbc31b188c91fbd6f6eca6b32.png"></span><span>White Sparrow's Vow II</span></dt><dd><div>Reduces susceptibility to freeze and bog by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Flurry Strength +20%</span></dt><dd><div>Increases strength by 20% when the combo count is<br>15 or higher.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3e71794f45eefabc94f308ee0be71ff3.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>791</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>485</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,516</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A Qilin sealer who uses the power of the relic,<br>Xihe, to manipulate light. Her kindness drove her<br>to break the Sealer code and take an active role<br>in the world at large. Her recent worry is her<br>inability to let go of her pupil.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/848606f9943ed4ee61145d0c801e22e42.png"></span>
+				<span>Surging Light</span>
+			</dt>
+			<dd>
+				<div>
+					Deals light damage to enemies in a line,<br>reduces their strength by 10% for 10 seconds,<br>and inflicts paralysis. If this skill is used after<br>the user's charge gauge has filled, a variant called<br>Brightflash will be used instead. Brightflash deals<br>light damage to enemies in a line, and reduces their<br>strength by 25% for 10 seconds. Paralyzed foes take<br>extra damage.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6ce278e472156d7d2ee36e2d68dab9bc2.png"></span>
+				<span>Coalescent Light</span>
+			</dt>
+			<dd>
+				<div>
+					Partially fills the user's charge gauge,<br>and adds 20% to the user and nearby teammates'<br>shadow resistance for 10 seconds.<br>This shadow resistance increase will not stack.<br>If this skill is used after the user's charge gauge<br>has filled, a variant called Lightstream will be<br>used instead. Lightstream increases the strength<br>of the user and nearby allies by 20% for<br>15 seconds. In addition, Lightstream adds 40% to<br>the user and nearby teammates' shadow resistance,<br>and inspires the entire team.<br>This shadow resistance increase will not stack.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>Skill Damage +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases attack skill damage by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>(Light) HP 80% = Shadow Res +6%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Light: <br>reduces shadow damage taken by them by 6%<br>when their HP is 80% or above.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/674c37f3395413055b58428b3f1421ce2.png"></span><span>Xihe's Radiance II</span></dt><dd><div>Fills 100% of skill gauges at the start of quests,<br>and grants the user a charge gauge.<br>The charge gauge fills when Coalescent Light<br>is used, and the amount the charge gauge fills<br>increases based on the number of team members<br>in Coalescent Light's area of effect when it is used.<br>When the gauge is completely filled, Surging Light,<br>Coalescent Light, and the user's force strike will<br>each be upgraded once. These upgrades will not<br>stack, and will be consumed on use.<br>The upgraded force strike will lower foes'<br>paralysis resistance. This resistance reduction<br>effect will not stack.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>Poison Res +100%</span></dt><dd><div>Reduces susceptibility to poison by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/83bd9c8302b087a508daec2a8fc9b2cf2.png"></span><span>Debuff Skill Time +20%</span></dt><dd><div>Increases the duration of bleeding and debuff skills<br>that reduce strength and defense by 20%.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b7e125b3275fcc37df069aa3ba5391c4.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>747</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>515</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,502</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A military man and a former commander in<br>Taiwu's army. Once arrogant, he reformed after<br>being rebuked by Xuan Zang, and now travels<br>with her uninvited. He's a devoted husband,<br>and often mentions his wife in glowing terms.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7601ad9bfc1bce10ba7d5ccf605695b42.png"></span>
+				<span>Bursting Fury</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals light damage to enemies directly ahead,<br>and inflicts stun. The lower the user's HP,<br>the more damage this skill deals.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e4c4b6c2cda86984ab5b0997b4b26db62.png"></span>
+				<span>Macho Charge</span>
+			</dt>
+			<dd>
+				<div>
+					Makes the user unhealable for 10 seconds.<br>If the user's HP is below 30% of max HP<br>when using this skill, increases the user's<br>strength by 20% for 10 seconds.<br>If the user's HP is above or equal to 30% of max HP,<br>reduces their HP to 20% of max HP and grants them<br>a one-use divergent shield that nullifies damage less<br>than 80% of the user's maximum HP.<br>Divergent shields can stack with ordinary shields.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>Defense +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases defense by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>(Light) Above 10 Hits = Shadow Res +10%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Light: <br>reduces shadow damage taken by them by 10%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b067970c0dc4794d8ad1ad07f3bd61ae2.png"></span><span>Rampaging Boar II</span></dt><dd><div>Grants the user a unique force strike that deals<br>increased damage to paralyzed enemies and<br>has three increasingly powerful charge levels.<br>In addition, they are immune to knockback<br>while charging their force strike.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>Curse Res +100%</span></dt><dd><div>Reduces susceptibility to curses by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Resilient Offense +10%</span></dt><dd><div>Increases strength by 10% for the remainder<br>of the quest when the user's HP drops to 30%<br>(three times per quest).</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f37a9583da19a4f78af46697eb88c75a.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,025</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon famed for her peerless beauty.<br>Her intimidating rage earned her the nickname<br>"Rakshesha," which comes from a similar word<br>for a vicious demon. She is married to Niu<br>Mowang, and clearly runs their relationship.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/57f18d2e432da8a397d116511dfca4132.png"></span>
+				<span>Energizing Fan</span>
+			</dt>
+			<dd>
+				<div>
+					Deals light damage to enemies in a line,<br>and energizes the entire team. Once energized,<br>using any applicable skill will reset that adventurer's<br>energy level to zero.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>(Light) HP +30%</span></dt><dd><div>If the user is attuned to Light: <br>increases HP by 30%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>(Light) Skill Haste +35%</span></dt><dd><div>If the user is attuned to Light:<br>increases skill gauge fill rate by 35%.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For information about featured adventurers and dragons, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1590645600; update_time1590633928

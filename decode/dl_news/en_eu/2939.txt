@@ -1,0 +1,8 @@
+article_id:2939
+category_name:News
+title_name:The Raid Event Bonus Is Now Live!
+image_path:https://dragalialost.akamaized.net/attached/information/images/0ddb792d37d47fc4f6d57ef5e482a281.png
+
+message:<div>The Raid Event Bonus started on <span class="local_date" data-local_date="1653026400"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/0ddb792d37d47fc4f6d57ef5e482a281.png"></div><div><br></div><div>Log in during the bonus to get gifts such as items and wyrmite.</div><div><br></div><div>■Log-In Bonus Content</div><div>Day 1: Wyrmite &times; 400</div><div>Day 2: Blessed Ethon Ashes &times; 20</div><div>Day 3: Rupie &times; 5,000,000</div><div>Day 4: Gold Crystal &times; 200</div><div>Day 5: Rupie &times; 5,000,000</div><div>Day 6: Rainbow Orb &times; 20</div><div>Day 7: Champion&#39;s Testament &times; 1</div><div><br></div><div>■Event Duration</div><div><span class="local_date" data-local_date="1653026400"></span> to <span class="local_date" data-local_date="1653890399"></span></div><div><br></div><div>Notes:</div><div>1. The log-in bonus will be sent to your goodie box every day after 07:00 when you log in.</div><div>2. Gifts sent as log-in bonuses can be claimed from your goodie box for up to seven days after reception. If they are not claimed within seven days, they will be lost.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1653026400; update_time1646377829

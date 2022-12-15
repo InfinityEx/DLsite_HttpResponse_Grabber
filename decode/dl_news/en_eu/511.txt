@@ -1,0 +1,8 @@
+article_id:511
+category_name:News
+title_name:The Wedding Belles Bonus Is Live!
+image_path:
+
+message:<div>The Wedding Belles bonus started <span class="local_date" data-local_date="1560319200"></span>!</div><div><img src="https://dragalialost.akamaized.net/attached/information/images/4aa38bef3a0eaca0d51b074965985ad5.png"></div><div><br></div><div>Until <span class="local_date" data-local_date="1561874399"></span>, you&#39;ll get one Summon Voucher each day when you log in! That&#39;s a maximum of eight days, meaning you can get up to eight Summon Vouchers.</div><div><br></div><div>See below for details.</div><div><br></div><div><strong>■Event Duration</strong></div><div><span class="local_date" data-local_date="1560319200"></span> to <span class="local_date" data-local_date="1561874399"></span></div><div><br></div><div><strong>Notes:</strong></div><div>1. The log-in bonus will be sent to you every day after 07:00 when you log in.</div><div>2. Gifts sent as log-in bonuses can only be accepted for a limited time. If the gift isn&rsquo;t retrieved before it expires, it will be lost.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1560319200; update_time1559894632

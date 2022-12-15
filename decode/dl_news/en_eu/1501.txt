@@ -1,0 +1,8 @@
+article_id:1501
+category_name:News
+title_name:Regarding Summer Patia's Voice
+image_path:
+
+message:<div>The adventurer Summer Patia&#39;s voice, which previously played in Japanese even if English was set as the voice language, as mentioned in the notification titled &quot;Announcing Gala Dragalia Remix!&quot; from July 13, 2020, now plays in English.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div><div><br></div>
+
+start_time:1596780000; update_time1596769519

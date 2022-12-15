@@ -1,0 +1,8 @@
+article_id:1351
+category_name:News
+title_name:Regarding a Display Issue in The Royal Regimen
+image_path:
+
+message:<div>We have confirmed a display issue occurring in the Royal Regimen mode added at <span class="local_date" data-local_date="1590472800"></span>.</div><div>This issue was fixed around <span class="local_date" data-local_date="1590485400"></span>.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1590485400; update_time1590483091

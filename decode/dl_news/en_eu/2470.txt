@@ -1,0 +1,338 @@
+article_id:2470
+category_name:News
+title_name:Gala Dragalia Remix Is Now Live!
+image_path:
+
+message:<div>Gala Dragalia Remix started on <span class="local_date" data-local_date="1631512800"></span>!</div><div><br></div><div>■What Are Gala Dragalia and Gala Dragalia Remix?</div><div>The initial appearance rate for 5★ adventurers and dragons is boosted to 6%, which is up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">The newly added 5★ adventurers Undercover Grace (flame) and Farren (light) will also appear in subsequent summon showcases.</span></div><div><br></div><div><span style="color: rgb(226, 80, 65);">Adventurers added in past Gala Dragalia summon showcases may appear in this summon showcase as well. For information about which adventurers may appear, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</span></div><div><br></div><div>▼Newly added featured adventurers:</div><div>5★ Undercover Grace (flame/sword)</div><div>5★ Farren (light/dagger)</div><div><br></div><div>▼Featured adventurer from past Gala Dragalia summon showcases:</div><div>5★ Gala Mascula (water/blade)</div><div><br></div><div>▼Featured dragon from past Gala Dragalia summon showcases:</div><div>5★ Gala Thor (light)</div><div><br></div><div>Gala Dragalia Remix appearance rates:</div><div>5★ total: 6.00%</div><div>5★ featured total: 2.30% (Adventurers: 1.50%, Dragons: 0.80%)</div><div>5★ standard total: 3.70% (Adventurers: 1.50%, Dragons: 2.20%)</div><div>4★ standard total: 16.00% (Adventurers: 8.55%, Dragons: 7.45%)</div><div>3★ standard total: 78.00% (Adventurers: 47.00%, Dragons: 31.00%)</div><div><br></div><div>Gala Dragalia Remix event duration:</div><div><span class="local_date" data-local_date="1631512800"></span> to <span class="local_date" data-local_date="1631858399"></span></div><div><br></div><div>Get a closer look at the featured adventurers and dragon below.</div><div><br></div><div>Featured adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/432d8cc7dd82f6504f3678f1d485edee.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>754</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>505</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Posing as a researcher for the Syndicate she left<br>behind, Grace infiltrates their ranks with the aim<br>of atoning for the sins she and her late husband<br>committed in their employ. Wielding a sword he<br>designed, she works to stop the evil organization.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/7d48df2c26370575bbc79e1466561f4c2.png"></span>
+				<span>Soul Deprivation</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies<br>and reduces their strength.</div><div class="skill-detail">Damage: 2,200 × 1 hit<br>Skill Energy Required: 3,000<br>Skill Energy Required (Shared Skill): 7,350<br>Special Effects:<br>・Strength -10%<br>　　Lasts 10 seconds<br>　　Does not stack<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/35834645c2606a850ecc19943feac5132.png"></span>
+				<span>Flametongue Unbound</span>
+			</dt>
+			<dd><div>Deals damage to multiple targets and enemies<br>near those targets and grants the user a defense<br>amp.<br><br>This skill can only be used when the user has at<br>least one "Soul Seal," and using it will consume<br>all Soul Seals, then deal hits and grant amps<br>equal to the number of Soul Seals consumed.</div><div class="skill-detail">Damage: 1,000 × 1 hit<br>Skill Energy Required: 6,000<br>Amps:<br>・Defense Amp (Team Amp MAX Lv. = 2)</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>Dragon Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases dragon gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Flame) HP Below 40% = Strength +15%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Flame: <br>increases their strength by 15% when<br>their HP is 40% or below.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/8635dfbfe7f74f8f76e9d913d1d186922.png"></span><span>Double-Edged Revelation II</span></dt><dd><div>Grants the user a "Soul Seal" when<br>Soul Deprivation connects with enemies.<br>This buff's effects are based on the<br>number of Soul Seals the user has, up to<br>a maximum of four.<br><br>One: Increases the damage dealt by the user's<br>attacks by 10%.<br>Two: Increases the damage dealt by the user's<br>attacks by 15%.<br>Three: Increases the damage dealt by the user's<br>attacks by 20%.<br>Four: Increases the damage dealt by the user's<br>attacks by 80%, but the user will take damage<br>equal to 2% of their maximum HP for every attack.<br><br>All Soul Seals will be lost upon shapeshifting.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>Team Defense Amp = HP Regen II</span></dt><dd><div>Gradually recovers the user's HP<br>when they have a team defense amp.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/08887ae7130c4b98b874e6e37bb60dfc.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>763</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>497</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A fiercely positive and good-natured young man<br>who possesses the power to fuse with a dragon.<br>After receiving this boon—burden?—from the<br>dastardly Syndicate, he vows to fight his former<br>captor so that no one else will suffer like he did.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>Mighty Protector</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>grants the user a defense amp, and partially<br>fills the user's dragondrive gauge. During<br>dragondrive, damage will be decreased as<br>the user's HP decreases.</div><div class="skill-detail">Damage: 400 × 5 hits<br>Skill Energy Required: 2,860<br>Amps:<br>・Defense Amp (Team Amp MAX Lv. = 2)<br>Dragondrive Energy Gained: 300<br><br><color=#00008B>During Dragondrive:</color><br>Damage: 520 × 5 hits<br>Skill Energy Required: 2,860<br>Amps:<br>・Defense Amp (Team Amp MAX Lv. = 2)<br>Dragondrive Energy Gained: 300<br>Max Damage Modifier at Reduced HP:<br>・Damage -90%</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>No Holds Barred</span>
+			</dt>
+			<dd><div>Consumes the entire dragondrive gauge<br>and restores HP to the user based on the<br>amount consumed.<br><br>During dragondrive:<br>consumes some of the user's dragondrive<br>gauge, deals damage to enemies directly<br>ahead, then partially fills the skill gauge for<br>this skill. Damage will be decreased as the<br>user's HP decreases.</div><div class="skill-detail">Recovery Potency: 30<br>Recovers up to an additional 140% of max HP<br>Skill Energy Required: 10,725<br><br><color=#00008B>During Dragondrive:</color><br>Damage: 3,250 × 1 hit<br>Skill Energy Required: 10,725<br>Dragondrive Energy Consumed: 1,500<br>Special Effects:<br>・Skill Prep<br>　　Potency: 50%<br>Max Damage Modifier at Reduced HP:<br>・Damage -90%</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>Critical Rate +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases critical rate by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>(Light) HP 80% = Shadow Res +6%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Light: <br>reduces shadow damage taken by them by 6%<br>when their HP is 80% or above.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/15ca5a03b679a12193daa8e1b0247ee32.png"></span><span>Wyrmbound Shell II</span></dt><dd><div>Grants the user a dragondrive gauge and changes<br>the shapeshift button into a dragondrive button.<br>Tapping this button activates their dragondrive.<br><br>Dragondrive grants the following effects:<br>・The user's standard attacks and force strikes<br>are changed, their damage is increased as the<br>user's HP increases, and they fill the user's<br>dragondrive gauge if they connect.<br>・The user's defense is increased by 20%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>Curse Res +100%</span></dt><dd><div>Reduces susceptibility to curses by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/11dcde67080976ea6dd376437cf405042.png"></span><span>Right Hand Dragon II</span></dt><dd><div>Gradually fills the user's dragondrive gauge<br>automatically when they have a team defense amp.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/4924327694d8c3954fcbd2e8ddbad02b.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>743</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Mascula enters the fray with a new body,<br>piloted remotely from his heart within Laxi.<br>Though pained by conflict to the point that it<br>makes him weep—inasmuch as an android<br>can—he resolves to fight for a better future.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e4c4b6c2cda86984ab5b0997b4b26db62.png"></span>
+				<span>Code 03: Rise Generator</span>
+			</dt>
+			<dd><div>Grants the user a shield and immunity to knockback.<br><br>If the user has Master Control, a more powerful<br>version of this skill called Code 08: Execution<br>will be used instead. In addition to this skill's<br>base effects, Code 08: Execution also grants<br>the user the "Amplified Current" effect.<br>During Amplified Current, the user's standard<br>attacks are buffed and hit more times per attack.</div><div class="skill-detail">Skill Energy Required: 3,840<br>Special Effects:<br>・Knockback Immunity<br>　　Lasts 15 seconds<br>・Shield<br>　　Charges: 1<br>　　Potency: 30% of max HP<br><br><color=#00008B>After Skill Change:</color><br>Skill Energy Required: 3,840<br>Special Effects:<br>・Knockback Immunity<br>　　Lasts 15 seconds<br>・Shield<br>　　Charges: 1<br>　　Potency: 30% of max HP<br>・Amplified Current<br>　　Lasts 11 seconds<br>　　Does not stack<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/e6227bb278c077fe5ca2ed4db4bd6ce42.png"></span>
+				<span>Code 36: Coolant Cycle</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Grants the user "Master Control."<br><br>If the user has Master Control, a more powerful<br>version of this skill called Code 06: Conclusion<br>will be used instead. Code 06: Conclusion deals<br>damage to surrounding enemies and dispels<br>one buff from each target.</div><div class="skill-detail">Skill Energy Required: 5,570<br>Special Effects:<br>・Master Control<br>　　Lasts 26 seconds<br><br><color=#00008B>After Skill Change:</color><br>Damage: 489 × 6 hits<br>Skill Energy Required: 2,830<br>Skill Energy Required (Shared Skill): 16,668<br>Special Effects:<br>・Dispels Buffs<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Strength +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases strength by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5a96ba5664709010ecaad36c8d6332792.png"></span>
+				<span>(Water) Combo = Buff Skill Time +15%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water: <br>increases duration of their buff skills by 15%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>Accelerator Unit II</span></dt><dd><div>Using Mascula's initial skill, displayed at the<br>top of his skill list, grants him a strength amp<br>with a maximum team amp level of three.<br>After this amp is granted, this ability will not<br>grant it again for 20 seconds.<br><br>Master Control (granted by his second skill)<br>grants Mascula the following effects:<br><br>・His standard attacks are buffed and deal<br>additional blows to multiple nearby targets.<br>・The fourth attack in his standard attack<br>combo dispels one enemy buff.<br>・His attack rate is increased by 6%. <br>・When the combo count is 30 or higher,<br>his strength is increased by 10%,<br>his critical rate by 8%, and 8% is added<br>to the modifier applied to his critical damage.<br><br>When Master Control is lost, the skill gauge<br>for Mascula's second skill will be filled by 50%.<br>Also, Master Control will be lost upon<br>shapeshifting.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f3503b7c11dab7e6111611cb63f010c32.png"></span><span>Mana Reactor II</span></dt><dd><div>Reduces susceptibility to burning and stun by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5928d08635cbad73278c1391505a73392.png"></span><span>Critical Frenzy II</span></dt><dd><div>Increases critical rate by 4% for every 15-hit combo<br>(up to three times per combo), and adds 4% to the<br>modifier applied to critical damage each time<br>one of the user's attacks is a critical hit<br>(up to 10 times per combo). After activating,<br>this critical damage increase will not activate again<br>for one second. These buffs are removed when the<br>combo counter resets.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/103cfa65410d7cde3cfb560821da3cf5.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>Valyx's pactwyrm commands lightning itself, and<br>has taken the title of Fulminator. Thor possesses<br>power great enough to reduce battlefields to ash,<br>and his beliefs as a warrior also influence the<br>man with whom he has sworn a pact.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>Thor's Hammer</span>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies,<br>and inflicts paralysis. Continually tapping the screen<br>while charging the attack will increase damage,<br>with damage reaching its maximum potential at<br>stage three. The attack will be unleashed after a<br>set time or upon reaching stage three.</div><div class="skill-detail">Damage: 1,780 × 1 hit (MAX)<br>Special Effects:<br>・Paralysis<br>　Lasts 26 seconds<br>　Triggers every 3.9 seconds<br>　Damage: 44.2</div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/212bea9478466c5e63454315256b6a5f2.png"></span><span>(Light) Chariot Rider V</span></dt><dd><div>If the user is attuned to Light: <br>increases strength by 50%, increases the user's<br>energy level by one stage for every 5 seconds<br>that pass, and provides a further increase to<br>the user's strength based on the user's<br>energy level, up to a maximum of 45%<br>when the user is energized.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3a59dbd2051c2865bdfc9245c709a80a2.png"></span><span>(Light) Thunder Bringer II</span></dt><dd><div>If the user is attuned to Light: <br>When the user's shapeshift is undone,<br>energizes the entire team.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. Alberian Battle Royale skins for adventurers featured in this summon showcase are on sale and cost fewer items to unlock. Note that some adventurers do not have adventurer skins.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1631512800; update_time1631151470

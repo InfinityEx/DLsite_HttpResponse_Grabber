@@ -1,0 +1,138 @@
+article_id:977
+category_name:News
+title_name:Announcing a Platinum Showcase!
+image_path:
+
+message:<div>A Platinum Showcase will start <span class="local_date" data-local_date="1577772000"></span>.</div><div><br></div><div>The Platinum Showcase is a limited summon showcase that works similarly to a tenfold summon in that one summon will get you 10 results. The difference between a regular tenfold summon and this Platinum Showcase is that a 5★ adventurer or dragon is guaranteed to appear.</div><div><br></div><div>This time there will be two types of Platinum Showcase: 5★ Adventurer and 5★Dragon.</div><div><br></div><div>A 5★ adventurer is guaranteed to appear in the 5★ Adventurer Platinum Showcase, and a 5★ dragon is guaranteed to appear in the 5★ Dragon Platinum Showcase.</div><div><br></div><div>During the period, players are limited to doing the Platinum Showcase summon three times per showcase type, and these summons can only be performed with diamantium (purchase required).</div><div><br></div><div>Availability period for the Platinum Showcase:</div><div><span class="local_date" data-local_date="1577772000"></span> to <span class="local_date" data-local_date="1578981599"></span></div><div><br></div><div>Get a closer look at some of the 5★ adventurers and 5★ dragons eligible to appear as the guaranteed 5★ summon.</div><div><br></div><div>5★ adventurer eligible for guaranteed appearance as the 10th summon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c5efd0ba96a43225c6f807b8ecf9b809.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>740</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>520</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,500</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The leader of the Horse Clan, one of the Twelve<br>Wyrmclans who govern Hinomoto. Replete with<br>determination, Nobunaga longs to become<br>shogun and unite the country beneath her,<br>and will cut down any who get in her way.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/8546c399dccb9849710f6e84b0dc69352.png"></span>
+				<span>Dream Offensive</span>
+			</dt>
+			<dd>
+				<div>
+					Deals flame damage to enemies in a line, and applies<br>Burning Ambition to enemies. Enemies will take<br>flame damage when Burning Ambition's effect ends.<br>Burning Ambition does not stack, and cannot be<br>reapplied to enemies still affected by it.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd5464d0aeb6d41964c19ee25f922b922.png"></span>
+				<span>Flash of Unity</span>
+			</dt>
+			<dd>
+				<div>
+					Deals flame damage to enemies directly ahead,<br>and dispels one buff from each target.
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">Co-abilities</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Strength +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases strength by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Flurry Strength +20%</span></dt><dd><div>Increases strength by 20% when the combo count is<br>15 or higher.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/1a55c9cd31df1c438cd55d10b0a536742.png"></span><span>Sleep Res +100%</span></dt><dd><div>Reduces susceptibility to sleep by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/874ebb8540cc62459ecedc47628161162.png"></span><span>World's Dream II</span></dt><dd><div>Grants the user's force strikes the ability to dispel<br>one enemy buff when the combo count is 15 or higher.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here do not include increases or decreases due to abilities, and represent the adventurer at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div><br></div><div>5★ dragon eligible for guaranteed appearance as the 10th summon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/53abf26fc7b01c66c5ff04b6fdd7cd2d.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>The Mouse Dragon, one of the Great Twelve<br>chosen to support Amaterasu. He's cheerful and<br>carefree, and his smile is said to bring luck.<br>Oh, and he likes his mochi soft.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>Lucky Mallet</span>
+			</dt>
+			<dd>
+				<div>
+					Deals light damage to enemies directly ahead,<br>and creates a buff zone that lasts for 10 seconds<br>and increases the attack rate of adventurers inside it.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Light) Strength +55%</span></dt><dd><div>If the user is attuned to Light: <br>increases strength by 55%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Light) Whirlwind Strength +25%</span></dt><dd><div>If the user is attuned to Light:<br>increases strength by 25% when<br>the combo count is 15 or higher.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about the Platinum Showcase, tap Summon on the in-game footer menu, then select the Platinum Showcase and check the Appearance Rates section and the Details tab of the Showcase Info section.</div><div>2. This summon showcase includes limited-time 5★ adventurers and limited-time 5★ dragons from the separate New Year&#39;s Tidings: A Clawful Caper summon showcase, but they are not eligible to appear as guaranteed summons.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div><div><br></div>
+
+start_time:1577685600; update_time1577331710

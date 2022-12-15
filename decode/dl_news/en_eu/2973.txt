@@ -1,0 +1,8 @@
+article_id:2973
+category_name:Events
+title_name:A Raid Event Revival, Rage of Chronos, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/914d52cff9aa24b7693f9181e642fbc5.png
+
+message:<div>The Rage of Chronos raid event revival begins on <span class="local_date" data-local_date="1669010400"></span>!<br>During this event, you can use co-op play to fight against a raid boss with no elemental attunement.</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/914d52cff9aa24b7693f9181e642fbc5.png"></div><div>This event&#39;s theme song is &quot;Sample Answer&quot; by Megumi Ogata.<br><br>■Event Duration<br><span class="local_date" data-local_date="1669010400"></span> to <span class="local_date" data-local_date="1669701599"></span><br><br>■Notes<br>1. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate in event quests.<br>2. Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to play co-op.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1668664800; update_time1664520435

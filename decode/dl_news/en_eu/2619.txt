@@ -1,0 +1,8 @@
+article_id:2619
+category_name:News
+title_name:Part Two of Chapter 22: Twice Sworn Added to the Main Campaign!
+image_path:https://dragalialost.akamaized.net/attached/information/images/6e6661fec63330b48abb4d8354b355e5.png
+
+message:<div>Part two of Chapter 22: Twice Sworn was added to the main campaign on <span class="local_date" data-local_date="1637560800"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/6e6661fec63330b48abb4d8354b355e5.png"></div><div><br></div><div>Bahamut takes control of Zethia, which drives Nedrick and the prince to join forces to save their sister. Yet what lurks within the great wyrm creates a rift between the two once more. Destined to be pitted against one another, things will be settled for good and all before a final parting...</div><div><br></div><div>We hope you&#39;re looking forward to seeing what&#39;s in store for the prince and his friends!</div><div><br></div><div>■Notes</div><div>1. Part two of Chapter 22 of the main campaign will unlock when you clear Ch. 22 / 3-3 &quot;The True Pact.&quot;</div><div>2. The release of part two does not include additional dragons who can be unbound using draconic essences, but you can use the draconic essence icon displayed on the area map for each chapter in the main campaign to check the dragon whose draconic essence you can obtain, how many draconic essences you currently have, how many more you can obtain, and the quests from which you can obtain draconic essences.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1637560800; update_time1637545060

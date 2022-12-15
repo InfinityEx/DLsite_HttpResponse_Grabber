@@ -1,0 +1,8 @@
+article_id:985
+category_name:News
+title_name:Lucky Letters Are Coming! Test Your Luck in the New Year!
+image_path:https://dragalialost.akamaized.net/attached/information/images/74036f5655bc69f104029f769bc1ce63.png
+
+message:<div>Test your luck in the new year with lucky letters, which arrive starting <span class="local_date" data-local_date="1577340000"></span>.</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/74036f5655bc69f104029f769bc1ce63.png"></div><div>One day, the prince received a delivery containing a letter and a sealed envelope from Ieyasu and the others in Hinomoto. The letter described a year-end Hinomotoan tradition that involved sending lucky letters to those you received favor from during the year as a way to thank them and share New Year&#39;s greetings.</div><div><br></div><div>According to the letter, the envelope was one such lucky letter, and it contained a paper with writing on it that would bring one of seven blessings to those who were worthy.</div><div>But it also contained a warning, stating that if you read the blessing written on the paper immediately, then it would disappear, taking all of the blessings you would have received in the new year along with it!</div><div><br></div><div>What could possibly be in the lucky letter the prince and friends received?</div><div>Suppressing the urge to open it right away, the group eagerly awaited the start of the new year!</div><div><br></div><div>We will share more information in a future notification.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1577253600; update_time1577241552

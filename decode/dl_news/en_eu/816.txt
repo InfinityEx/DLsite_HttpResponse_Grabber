@@ -1,0 +1,8 @@
+article_id:816
+category_name:News
+title_name:Issue Regarding Locked Mercurial Gauntlet (Flame)
+image_path:
+
+message:<div>We have confirmed an issue where the The Mercurial Gauntlet (Flame) quest gets locked after moving to on of the locked High Dragon Trials Master quests.</div><div>This issue can be resolved by moving to a quest with no locked level of difficulty, as per the example below.</div><div><br></div><div>Assuming all levels of difficulty for Avenue to Power are unlocked:</div><div>1. Tap Events in the home screen.</div><div>2. Tap Avenue to Power.</div><div>3. Go back to the home screen and tap Events once more.</div><div>4. Tap The Mercurial Gauntlet. The Mercurial Gauntlet (Flame) will now be unlocked and playable once again.</div><div><br></div><div>We are currently investigating the cause of this issue.</div><div>Any further updates will be posted in this notice.</div><div><br></div><div>Thank you for playing Dragalia Lost.&quot;</div>
+
+start_time:1571109600; update_time1571109595

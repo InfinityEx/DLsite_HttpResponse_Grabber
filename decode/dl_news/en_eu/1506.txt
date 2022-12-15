@@ -1,0 +1,170 @@
+article_id:1506
+category_name:News
+title_name:Announcing a Platinum Showcase! 5★ Dragon Guaranteed!
+image_path:
+
+message:<div>A Platinum Showcase will start <span class="local_date" data-local_date="1597644000"></span>.</div><div><br></div><div>The Platinum Showcase is a limited summon showcase that works similarly to a tenfold summon in that one summon will get you 10 results. The difference between a regular tenfold summon and this Platinum Showcase is that a 5★ dragon is guaranteed to appear.</div><div><br></div><div>During the availability period, players are limited to doing the Platinum Showcase two times, and these summons can only be performed with diamantium (purchase required).</div><div><br></div><div>Availability period for the Platinum Showcase:</div><div><span class="local_date" data-local_date="1597644000"></span> to <span class="local_date" data-local_date="1598680799"></span></div><div><br></div><div>Get a closer look at some of the 5★ dragons eligible to appear as the guaranteed 5★ summon.</div><div><br></div><div>5★ dragons eligible for guaranteed appearance as the 10th summon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f37a9583da19a4f78af46697eb88c75a.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>371</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>124</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,095</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon famed for her peerless beauty.<br>Her intimidating rage earned her the nickname<br>"Rakshesha," which comes from a similar word<br>for a vicious demon. She is married to Niu<br>Mowang, and clearly runs their relationship.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/57f18d2e432da8a397d116511dfca4132.png"></span>
+				<span>Energizing Fan</span>
+			</dt>
+			<dd>
+				<div>
+					Deals light damage to enemies in a line,<br>and energizes the entire team. Once energized,<br>using any applicable skill will reset that adventurer's<br>energy level to zero.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span><span>(Light) HP +30%</span></dt><dd><div>If the user is attuned to Light: <br>increases HP by 30%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>(Light) Skill Haste +35%</span></dt><dd><div>If the user is attuned to Light:<br>increases skill gauge fill rate by 35%.</div></dd></dl></div></div></div><div><br>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5afcdee090a3ab6564fa880a385c795f.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,095</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon with a gluttonous appetite. Watch out,<br>because when his tummy gets rumbly, he throws<br>a tantrum like you wouldn't believe. He's the type<br>to save his favorite foods for last, and lately he's<br>been vibing hard on fresh fruits and pancakes.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>Pancake Paradise</span>
+			</dt>
+			<dd>
+				<div>
+					Restores HP to the user, raises the dragon gauge<br>by 20%, and extends shapeshift time by 5 seconds.<br>Shapeshift time cannot exceed the maximum<br>permitted time.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Water) Strength & Critical Damage V</span></dt><dd><div>If the user is attuned to Water:<br>increases strength by 45% and adds 55% to the<br>modifier applied to critical damage.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/447aba779ca12d8e3095cefae58a5411.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,096</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon who is at home among darkness and<br>shadow. He fells his foes utilizing an arsenal<br>of unique skills. The first ninjas of Hinomoto are<br>said to have learned their techniques from him.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5347ab03287b73332172842f38879f5a2.png"></span>
+				<span>Shuriken Shower</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to the target and<br>nearby enemies, and energizes the entire team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Shadow) Strength +20%</span></dt><dd><div>If the user is attuned to Shadow: <br>increases strength by 20%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>(Shadow) Skill Damage +90%</span></dt><dd><div>If the user is attuned to Shadow:<br>increases attack skill damage by 90%.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent each dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Note:</div><div>For more information about the Platinum Showcase, tap Summon on the in-game footer menu, then select the Platinum Showcase and check the Appearance Rates section and the Details tab of the Showcase Info section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1597557600; update_time1597224010

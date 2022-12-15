@@ -1,0 +1,325 @@
+article_id:1770
+category_name:News
+title_name:Announcing Gala Dragalia Remix!
+image_path:
+
+message:<div>Gala Dragalia Remix will start at <span class="local_date" data-local_date="1605247200"></span>!</div><div><br></div><div>What are Gala Dragalia and Gala Dragalia Remix?</div><div>The initial appearance rate for 5★ adventurers and dragons will be boosted to 6%, which is up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div><br></div><div>Notes:</div><div><span style="color: rgb(226, 80, 65);">・The newly added 5★ adventurers Formal Noelle (wind) and Formal Joachim (wind) will also appear in the next summon showcase.</span></div><div><span style="color: rgb(226, 80, 65);">・Adventurers added in past Gala Dragalia summon showcases may appear in this summon showcase as well. For information about which adventurers may appear, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</span></div><div><br></div><div>Newly added featured adventurers:</div><div>5★ Formal Noelle (wind/staff)</div><div>5★ Formal Joachim (wind/long-range manacaster)</div><div><br></div><div>Featured adventurer from past Gala Dragalia summon showcases:</div><div>5★ Gala Luca (light/blade)</div><div><br></div><div>Gala Dragalia Remix event duration:</div><div><span class="local_date" data-local_date="1605247200"></span> to <span class="local_date" data-local_date="1605506399"></span></div><div><br></div><div>Get a closer look at the featured adventurers below.</div><div><br></div><div>Featured adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8f99cc321e352dc08d2ccc420e7a9a5b.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/1fc4080420e16a67744809f28590c98b2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>807</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>468</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A messenger from Svenitla, a nation in the north.<br>Her zeal for her duty is unmatched, which is why<br>she was chosen to serve as an ambassador.<br>Dressed in unfamiliar formalwear, she faces an<br>official venue for the very first time.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>Goodwill Mission</span>
+			</dt>
+			<dd>
+				<div>
+					Gradually recovers the entire team's HP for 40<br>seconds, and increases their strength by 15% for<br>60 seconds. This strength increase will not stack.
+				</div>
+			</dd>
+	<dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d7f4ec2a99280e434b8fa318c07a7462.png"></span>
+				<span>Grim Missive</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to enemies directly ahead,<br>dispels one buff from each target, and lowers<br>their poison resistance by 10% for 30 seconds.<br>This resistance reduction will not stack.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>Recovery Potency +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the potency of recovery skills by 20%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Wind) Poison = User Strength +13%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind:<br>increases their strength by 13% for 15 seconds<br>when they successfully poison an enemy.<br>After activating, this ability will not<br>activate again for 10 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>Resolute Ambassador II</span></dt><dd><div>Using Goodwill Mission grants the user the<br>"Friendly Ties" effect. When this effect is active,<br>the user's next force strike will increase the<br>entire team's max HP by 15% for the remainder<br>of the quest. Once HP buffs reach the limit,<br>an HP recovery effect is granted instead.<br>This effect cannot stack, and will be consumed<br>on use.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>Freeze Res +100%</span></dt><dd><div>Reduces susceptibility to freezing by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>Poisoned Punisher +30%</span></dt><dd><div>Increases damage to poisoned enemies by 30%.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8e17e44e4a312c9ee7fdce404da94fb5.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>755</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>504</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,499</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>Available Modes</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/48f0cf6b6186ad0c7fa467c24cc47eea2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/b8a3b3884cac48715702c5bf401cd8b22.png"><img src="https://dragalialost.akamaized.net/attached/information/images/26f43aab3c39a2bcdadd1b40dd88e7402.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A Svenitlan soldier whose keen abilities led to<br>his selection as an ambassador to Chanzelia,<br>where he was newly equipped with a manacaster.<br>Though his superiors have attempted to promote<br>him, he has no desire for such a position.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/fa25143c5b0f10f468895aaa4b0799412.png"></span>
+				<span>Hound Shot</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to enemies in a line,<br>and inflicts stormlash. If this skill is used<br>directly after Ace Operator, Ace Operator's<br>attack will be interrupted, and the following<br>variant of this skill will be used instead:<br>deals wind damage to enemies directly<br>ahead, and inflicts stormlash and poison.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f107ab2211dce199efae9c2791b0f38f2.png"></span>
+				<span>Ace Operator</span>
+			</dt>
+			<dd>
+				<div>
+					Inflicts enemies directly ahead with poison.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>Gauge Accelerator +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Speeds the rate the mode gauge decreases<br>by 20%. Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>(Wind) Stormlash = User Water Res +8%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind:<br>reduces water damage taken by them by 8%<br>for 15 seconds when they successfully inflict<br>an enemy with stormlash. After activating, this<br>ability will not activate again for 10 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/50e8f27a8ccb8795c0a52d0417e9e2862.png"></span><span>Stormlashed Punisher +30%</span></dt><dd><div>Increases damage to stormlashed enemies by 30%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>Freeze Res +100%</span></dt><dd><div>Reduces susceptibility to freezing by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>Poisoned Punisher +30%</span></dt><dd><div>Increases damage to poisoned enemies by 30%.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a0da9b32f04136755eeaa4b283b26192.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>517</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,502</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Wielding his friend's blade as a symbol of their<br>promise and clad in gear forged from the hands<br>of many races, Luca endeavors to create a world<br>where no one has to fight.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cbd8f43df3f5398db1f1d365ac553ca22.png"></span>
+				<span>Shining Slash</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals light damage to enemies in a line.<br>Both this skill's critical rate and the critical rate<br>of attack skills in dragon form will be increased<br>by 10% for each buff with a different icon applied<br>to the user.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>Brilliant Booster</span>
+			</dt>
+			<dd>
+				<div>
+					Adds 80% to the modifier applied to the user's<br>critical damage for 10 seconds.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Strength +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases strength by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>(Light) Above 10 Hits = Shadow Res +10%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Light: <br>reduces shadow damage taken by them by 10%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/daec86e89dfb95ad45d6f68c08c841752.png"></span><span>Connecting Call II</span></dt><dd><div>Increases Luca's critical rate by 4% for<br>every buff with a different icon applied<br>to him (up to 28%). In addition, applies<br>one of the following buffs to Luca every<br>time one of his attacks is a critical hit:<br>Sylvan Secret Arts, Human Wisdom,<br>and Rokkan Expertise. Each of these buffs<br>increase Luca's critical rate by 3% for<br>20 seconds. Only one instance of each<br>buff can be active at the same time. After<br>activating, this ability will not activate again<br>for three seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/2752d5bf66ac339cb32a3adf1a41e1702.png"></span><span>Unforgettable Promise II</span></dt><dd><div>Reduces susceptibility to curses by 100%.<br>When the user is hit by an attack that would have<br>cursed them, their critical rate is increased by 15%<br>for 10 seconds. After activating, this buff will not<br>activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>Flurry Devastation +13%</span></dt><dd><div>Increases critical rate by 13% when<br>the combo count is 15 or higher.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Note: For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1605160800; update_time1604893861

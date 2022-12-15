@@ -1,0 +1,8 @@
+article_id:1965
+category_name:News
+title_name:Increased Maximum Level for Rupie Mines
+image_path:
+
+message:<div>As of <span class="local_date" data-local_date="1611727200"></span>, the maximum level for rupie mines has been raised to 45.<br><br>Thank you for playing Dragalia Lost.<br><br></div><div><br></div>
+
+start_time:1611892800; update_time1612235682

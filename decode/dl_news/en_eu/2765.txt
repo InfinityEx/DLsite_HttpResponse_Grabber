@@ -1,0 +1,186 @@
+article_id:2765
+category_name:News
+title_name:A Platinum Showcase Is Now Live! Light-Attuned 5★ Adventurer Guaranteed!
+image_path:
+
+message:<div>A Platinum Showcase started on <span class="local_date" data-local_date="1642485600"></span>!</div><div><br></div><div>The Platinum Showcase is a limited summon showcase that works similarly to a tenfold summon in that one summon will get you 10 results. The difference between a regular tenfold summon and this Platinum Showcase is that a light-attuned 5★ adventurer is guaranteed to appear.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Note: The roster for this summon showcase does not include adventurers and dragons that are attuned to elements other than light.</span></div><div><br></div><div>During the period, players are limited to doing the Platinum Showcase summon two times, and these summons can only be performed with diamantium (purchase required).</div><div><br></div><div>Availability period for the Platinum Showcase:</div><div><span class="local_date" data-local_date="1642485600"></span> to <span class="local_date" data-local_date="1643608799"></span></div><div><br></div><div>Get a closer look at some of the light-attuned 5★ adventurers eligible to appear as the guaranteed 5★ summon below.</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/08887ae7130c4b98b874e6e37bb60dfc.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>763</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>497</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A fiercely positive and good-natured young man<br>who possesses the power to fuse with a dragon.<br>After receiving this boon—burden?—from the<br>dastardly Syndicate, he vows to fight his former<br>captor so that no one else will suffer like he did.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2a439e8a6e7f03f75118a7b5e2b7049d2.png"></span>
+				<span>Mighty Protector</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>grants the user a defense amp, and partially<br>fills the user's dragondrive gauge. During<br>dragondrive, damage will be decreased as<br>the user's HP decreases.</div><div class="skill-detail">Damage: 400 × 5 hits<br>Skill Energy Required: 2,860<br>Amps:<br>・Defense Amp (Team Amp MAX Lv. = 2)<br>Dragondrive Energy Gained: 300<br><br><color=#00008B>During Dragondrive:</color><br>Damage: 520 × 5 hits<br>Skill Energy Required: 2,860<br>Amps:<br>・Defense Amp (Team Amp MAX Lv. = 2)<br>Dragondrive Energy Gained: 300<br>Max Damage Modifier at Reduced HP:<br>・Damage -90%</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>No Holds Barred</span>
+			</dt>
+			<dd><div>Consumes the entire dragondrive gauge<br>and restores HP to the user based on the<br>amount consumed.<br><br>During dragondrive:<br>consumes some of the user's dragondrive<br>gauge, deals damage to enemies directly<br>ahead, then partially fills the skill gauge for<br>this skill. Damage will be decreased as the<br>user's HP decreases.</div><div class="skill-detail">Recovery Potency: 30<br>Recovers up to an additional 140% of max HP<br>Skill Energy Required: 10,725<br><br><color=#00008B>During Dragondrive:</color><br>Damage: 3,250 × 1 hit<br>Skill Energy Required: 10,725<br>Dragondrive Energy Consumed: 1,500<br>Special Effects:<br>・Skill Prep<br>　　Potency: 50%<br>Max Damage Modifier at Reduced HP:<br>・Damage -90%</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>Critical Rate +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases critical rate by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9d2241ad3a4cf58afa2121060c21dc9c2.png"></span>
+				<span>(Light) HP 80% = Shadow Res +6%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Light: <br>reduces shadow damage taken by them by 6%<br>when their HP is 80% or above.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/15ca5a03b679a12193daa8e1b0247ee32.png"></span><span>Wyrmbound Shell II</span></dt><dd><div>Grants the user a dragondrive gauge and changes<br>the shapeshift button into a dragondrive button.<br>Tapping this button activates their dragondrive.<br><br>Dragondrive grants the following effects:<br>・The user's standard attacks and force strikes<br>are changed, their damage is increased as the<br>user's HP increases, and they fill the user's<br>dragondrive gauge if they connect.<br>・The user's defense is increased by 20%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span><span>Curse Res +100%</span></dt><dd><div>Reduces susceptibility to curses by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/11dcde67080976ea6dd376437cf405042.png"></span><span>Right Hand Dragon II</span></dt><dd><div>Gradually fills the user's dragondrive gauge<br>automatically when they have a team defense amp.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/bd8283abe33323a237477460a1311c32.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>517</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,502</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>To stave off boredom, the Lightwyrm Jupiter<br>takes a human form in order to observe humans<br>more closely. Though his appearance has<br>changed, his personality has not, and he still<br>loves seeing people flustered by his words.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>Thunder Strike</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>inflicts flashburn, and grants the user a strength<br>amp. If this attack hits an enemy that has the<br>"Overcharged" effect, it will deal bonus damage<br>based on the effect's level. If Overcharged<br>is at its maximum level, it will be removed<br>after the bonus damage is dealt.</div><div class="skill-detail">Damage: 1,200 × 1 hit<br>Bonus Damage (Overcharged Lv. 1): 300 × 1 hit<br>Bonus Damage (Overcharged Lv. 2): 300 × 2 hits<br>Bonus Damage (Overcharged Lv. 3): 300 × 3 hits<br>Bonus Damage (Overcharged Lv. 4): 300 × 4 hits<br>Skill Energy Required: 2,640<br>Special Effects:<br>・Flashburn<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41.6<br>Amps:<br>・Strength Amp (Team Amp MAX Lv. = 1)</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/0b6e96a9297308fa346ed1059be779062.png"></span>
+				<span>Spark Ignition</span>
+			</dt>
+			<dd><div>Applies "Overcharged" to the target.<br><br>If the user is hit by an attack that can be<br>avoided with the damage immunity provided<br>by skills while using this skill but before<br>it applies Overcharged, this skill will instead<br>apply four levels of Overcharged to the target<br>and nearby enemies.</div><div class="skill-detail">Skill Energy Required: 10,560<br>Special Effects:<br>・Overcharged Lv. 1<br>　　Lasts 60 seconds<br>・Overcharged Lv. 4<br>　　Lasts 15 seconds</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Strength +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases strength by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a8ec2b478ec8ef017bb1a6ed32684f72.png"></span>
+				<span>(Light) Team Strength Amp = Curse Res +100%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Light:<br>reduces their susceptibility to curses by 100%<br>when they have a team strength amp.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a59180d889cf164d6560fdcbdc5d43a52.png"></span><span>Lightwyrm's Nature II</span></dt><dd><div>Reduces susceptibility to paralysis by 100%.<br><br>When shapeshifting for the first time,<br>the user will transform into Jupiter regardless<br>of what dragon they are equipped with.<br>The second time onwards, they will transform<br>into High Jupiter instead.<br><br>Also, when the user dodges an enemy's attack,<br>applies "Overcharged" to the attacking enemy<br>and grants the user a strength amp with a<br>maximum team amp level of one.<br>After activating, this effect will not activate<br>again for 10 seconds.<br><br>Overcharged has four levels and deals damage<br>to the affected target and nearby enemies when<br>the effect is lost. This damage and its area of<br>effect increase with its level, and when removed<br>at level four, it also inflicts paralysis and stun.<br><br>Lv. 1: Lasts 60 seconds.<br>Lv. 2: Lasts 45 seconds.<br>Lv. 3: Lasts 30 seconds.<br>Lv. 4: Lasts 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c43a6915f92c8c57a2d124df899670c72.png"></span><span>Poison Res +100%</span></dt><dd><div>Reduces susceptibility to poison by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cb9a79af6cfdc75b0e5d4d610cfbe8c32.png"></span><span>Arc Absorption II</span></dt><dd><div>Fills the dragon gauge by 20% and restores the<br>user's HP if they are in range of the attack dealt<br>by the "Overcharged" effect when it is lost.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about the Platinum Showcase, tap Summon on the in-game footer menu, then select the Platinum Showcase and check the Appearance Rates section and the Details tab of the Showcase Info section.</div><div>2. The Platinum Showcase will be available during other summon showcases. You can move between showcases by using the left/right icons on the Summon screen.</div><div>3. Performing a Platinum Showcase summon will not reset the appearance rate modifier increase for when a 5★ fails to appear after summoning 10 times on another summon showcase.</div><div>4. For more information, tap Summon on the in-game footer menu, then select Showcase Info, Details, and see the Notes section.</div><div>5. Wyrmsigils cannot be earned from summoning on a Platinum Showcase.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1642485600; update_time1641985057

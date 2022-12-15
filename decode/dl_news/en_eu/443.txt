@@ -1,0 +1,8 @@
+article_id:443
+category_name:News
+title_name:Issue Regarding Showcase Info in 5★ Adventurer Summon Screen
+image_path:
+
+message:<div>We have corrected the following error in the Details tab of the Showcase Info menu in the 5★ Adventurer Summon screen:</div><div><br></div><div>[Before correction]</div><div>You may summon an adventurer you already own. If this happens, you will obtain 3,000 eldwater instead.</div><div>[After correction]</div><div>You may summon an adventurer you already own. If this happens, you will obtain 8,500 eldwater instead.</div><div><br></div><div>As this was merely a text issue, players who summoned an already owned adventurer did receive 8,500 eldwater as expected.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1557208800; update_time1557203445

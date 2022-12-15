@@ -1,0 +1,8 @@
+article_id:50
+category_name:News
+title_name:Data Update Notice
+image_path:
+
+message:<div>Please note that the game data will be updated around <span class="local_date" data-local_date="1539927000"></span>.</div><div><br></div><div>■Details of the data update</div><div>・Fixed an issue where characters can&#39;t attack certain enemies near pumpkin scarecrows set in the daily battle &quot;Nightly Haunts&quot;.</div><div>・Fixed some character animations in the home screen.</div><div><br></div><div>■Warning</div><div>When the data gets updated, an in-game message saying &quot;A new version is available&quot; may appear. However, please note that while new data will be downloaded, there will be no client update.</div><div><br></div><div>Thank you for playing Dragalia Lost!</div>
+
+start_time:1539925200; update_time1542363565

@@ -1,0 +1,8 @@
+article_id:2702
+category_name:News
+title_name:A Dragonyule Gift from the Dragalia Lost Team
+image_path:
+
+message:<div>Today we sent out a gift of 1 omnicite to show our gratitude for your continued support. We hope that it comes in handy as you continue your adventures! You can claim the gift from your goodie box for up to seven days after reception.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1640325600; update_time1640223342

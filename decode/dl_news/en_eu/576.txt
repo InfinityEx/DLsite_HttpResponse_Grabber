@@ -1,0 +1,167 @@
+article_id:576
+category_name:News
+title_name:Announcing the Next Summon Showcase: Dragon Special!
+image_path:
+
+message:<div>The next Summon Showcase: Dragon Special kicks off <span class="local_date" data-local_date="1563602400"></span>!</div><div><br></div><div>During this showcase, the appearance rates for featured 4★ and 5★ dragons will be boosted. On top of that, 4★ and 5★ adventurers will also be featured!</div><div><br></div><div>This showcase will be available from <span class="local_date" data-local_date="1563602400"></span> to <span class="local_date" data-local_date="1564120740"></span>.</div><div><br></div><div>Get a closer look at some of the featured dragons below.</div><div><br></div><div>Featured dragons:</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ae76e99b9a251d8813aecf33dd460d65.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A mysterious dragon who dwells in the Library<br>Obscura. His words are difficult to parse;<br>his conduct inscrutable. He claims to be an<br>Emissary for something called the Ancient One,<br>and that his name is but a word for many beings.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/01acd2bf5c9cc9faf3d5d038afad04732.png"></span>
+				<span>All-Encompassing Darkness</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to enemies directly ahead.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Shadow) HP 30% = Strength +50%</span></dt><dd><div>If the user is attuned to Shadow: <br>increases strength by 50% when HP is 30% or above.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>(Shadow) Last Bulwark Ⅱ</span></dt><dd><div>If the user is attuned to Shadow: <br>grants the user a one-use shield that nullifies<br>damage less than 60% of their maximum HP<br>when HP drops to 30%. This does not stack<br>with any other shields.</div></dd></dl></div></div></div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/b0b8c3229f87c3af9787a2f5a9ed5780.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon who births disaster from his wings.<br>While he rarely involves himself with humans,<br>he respects any who meet and overcome the<br>destruction and disease his storms carry.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>Catastrophic Winds</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to enemies in a line,<br>reduces their defense by 5%, and inflicts poison.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Wind) Strength +50%</span></dt><dd><div>If the user is attuned to Wind: <br>increases strength by 50%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>(Wind) Poisoned Punisher +20%</span></dt><dd><div>If the user is attuned to Wind: <br>increases damage to poisoned enemies by 20%.</div></dd></dl></div></div></div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5c3cc79a3124b0611ebca25941d1acdf.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>374</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>121</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon that rules over death. It's not so much<br>that he enjoys murder, but he does thrive off the<br>strong emotions of the doomed. As such, he <br>appears in times of plague, war, and disaster, <br>making him much feared as an ill omen.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1dc2f6f0f6e043a02de111856f4d5c092.png"></span>
+				<span>Total Eclipse</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to the target and nearby<br>enemies, and inflicts blindness.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea2c76b89e826d659c4d6efe2a3970092.png"></span><span>(Shadow) HP & Strength +30%</span></dt><dd><div>If the user is attuned to Shadow:<br>increases strength and HP by 30%.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent each dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For information about featured adventurers and dragons, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1563429600; update_time1563359186

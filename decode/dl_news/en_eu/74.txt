@@ -1,0 +1,8 @@
+article_id:74
+category_name:News
+title_name:Issue Regarding Storm Sentinel Clash [Addendum]
+image_path:
+
+message:<div>During the Storm Sentinel Clash event boss battle, Storm Sentinel using Orbital Drones can cause the game to hang.</div><div>We have found that this issue occurs across all difficulty levels.</div><div><br></div><div>We are currently investigating this issue.</div><div>Any further updates regarding this issue will be added to this notice.</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>[Addendum <span class="local_date" data-local_date="1540989600"></span>]</strong></span><br>This issue can be resolved by closing and reopening the game.<br>We are currently investigating this issue. Any further update regarding this issue will be added to this notice.<br><br>Thank you for playing Dragalia Lost.</div>
+
+start_time:1540979100; update_time1542364217

@@ -1,0 +1,8 @@
+article_id:2143
+category_name:News
+title_name:Regarding Finlorda's Japanese Voice Actor
+image_path:
+
+message:<div>This notification is to inform players using Japanese voice data that the voice actor for Finlorda will be changed starting with chapter 19 of the main campaign. Voice data for chapter 18 will not be updated.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1618984800; update_time1618966912

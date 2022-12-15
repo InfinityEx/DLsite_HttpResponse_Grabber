@@ -1,0 +1,8 @@
+article_id:2822
+category_name:Events
+title_name:An Event Revival, Romance Under Siege, Is Coming Soon!
+image_path:https://dragalialost.akamaized.net/attached/information/images/63b7a476c76073d324d51366c8867cbc.png
+
+message:<div>An event revival, Romance Under Siege, starts on <span class="local_date" data-local_date="1644818400"></span>.</div><div><br></div><div>This is an onslaught event where you must take on hordes of attacking enemies. You can earn items used to unlock shared skills and restore stamina as rewards for this event, so be sure to participate!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/63b7a476c76073d324d51366c8867cbc.png"></div><div><br></div><div>Note: Players must have completed up to Chapter 2 / 2-1 (Normal) of the main campaign to participate.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1644386400; update_time1643782987

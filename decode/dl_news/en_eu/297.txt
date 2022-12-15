@@ -1,0 +1,8 @@
+article_id:297
+category_name:News
+title_name:Regarding a Connection Issue in Co-op
+image_path:
+
+message:<div>We found an issue in co-op where using Valentine&#39;s Hildegarde&#39;s force strike resulted in being disconnected from the game.</div><div><br></div><div>This issue was fixed on <span class="local_date" data-local_date="1552296060"></span>.</div><div><br></div><div>&nbsp;Thank you for playing Dragalia Lost.</div>
+
+start_time:1552307100; update_time1552307023

@@ -1,0 +1,8 @@
+article_id:1733
+category_name:News
+title_name:Twinkling Sand Has Been Added to the Unbind Pack (Weapons) in the Shop!
+image_path:
+
+message:<div>Ten twinkling sand was added to the Unbind Pack (Weapons) available under the This Month tab of the Upgrade Essentials &amp; Packs section of the Shop at <span class="local_date" data-local_date="1604210400"></span>.</div><div><br></div><div>See below for details about the updated Unbind Pack (Weapons).</div><div><br></div><div>■Unbind Pack (Weapons)</div><div>This pack contains diamantium and items useful for unbinding 5★ weapons.</div><div><br></div><div>&lt;Diamantium Included&gt;</div><div>・Diamantium &times; 2,000 (1,920 + 80 bonus)</div><div><br></div><div>&lt;Other Items Included&gt;</div><div>・Damascus Ingot &times; 1</div><div>・Twinkling Sand &times; 10</div><div><br></div><div>Note: For further information about the pack, select the Shop on the Home page, then tap Upgrade Essentials &amp; Packs and see the This Month tab.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1604210400; update_time1603869766

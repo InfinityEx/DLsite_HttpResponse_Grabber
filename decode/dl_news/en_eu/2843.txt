@@ -1,0 +1,192 @@
+article_id:2843
+category_name:News
+title_name:A Platinum Showcase Is Coming Soon! Wind-Attuned 5★ Adventurer Guaranteed!
+image_path:
+
+message:<div>A Platinum Showcase starts on <span class="local_date" data-local_date="1645077600"></span>!</div><div><br></div><div>The Platinum Showcase is a limited summon showcase that works similarly to a tenfold summon in that one summon will get you 10 results. The difference between a regular tenfold summon and this Platinum Showcase is that a wind-attuned 5★ adventurer is guaranteed to appear.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Note: The roster for this summon showcase does not include adventurers and dragons that are attuned to elements other than wind.</span></div><div><br></div><div>During the period, players are limited to doing the Platinum Showcase summon two times, and these summons can only be performed with diamantium (purchase required).</div><div><br></div><div>Availability period for the Platinum Showcase:</div><div><span class="local_date" data-local_date="1645077600"></span> to <span class="local_date" data-local_date="1646027999"></span></div><div><br></div><div>Get a closer look at some of the wind-attuned 5★ adventurers eligible to appear as the guaranteed 5★ summon below.</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/745b6679d6f7b282c247e6a2ddf826af.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>748</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>512</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Basileus is an apostle of the Northern Church<br>who betrayed his comrades by seeking to revive<br>Satan. Calm and collected, he is admired for his<br>combat expertise. He walks the path of<br>vengeance alongside his angel Michael.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/120e337b87db017cf609bde65d5268d72.png"></span>
+				<span>Ventus Impalement</span>
+			</dt>
+			<dd><div>During close-quarters combat:<br>deals damage to surrounding enemies,<br>reduces their strength, and grants the user<br>a defense amp.<br><br>During ranged combat:<br>deals damage to the target and nearby enemies<br>and inflicts stormlash.<br><br>During Sigil Released:<br>deals damage to surrounding enemies,<br>reduces their strength, inflicts stormlash,<br>and grants the user a defense amp.</div><div class="skill-detail"><color=#00008B>Close-Quarters Combat:</color><br>Damage: 1,734 × 1 hit<br>Skill Energy Required: 3,148<br>Special Effects:<br>・Strength -20%<br>　　Lasts 15 seconds<br>　　Does not stack<br>Amps:<br>・Defense Amp (Team Amp MAX Lv. = 2)<br><br><color=#00008B>Ranged Combat:</color><br>Damage: 280 × 4 hits<br>Skill Energy Required: 3,148<br>Special Effects:<br>・Stormlash<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br><br><color=#00008B>During Sigil Released:</color><br>Damage: 313 × 7 hits<br>Skill Energy Required: 3,148<br>Special Effects:<br>・Strength -20%<br>　　Lasts 15 seconds<br>　　Does not stack<br>・Stormlash<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br>Amps:<br>・Defense Amp (Team Amp MAX Lv. = 2)<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d399018ee13f5d48fd26211fd9b829e2.png"></span>
+				<span>Spiritus Sanction</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>During close-quarters combat:<br>deals damage to enemies directly ahead,<br>dispels one buff from each target, and<br>creates a debuff zone around the user that<br>reduces the defense of enemies inside it.<br><br>During ranged combat:<br>deals damage to enemies in a line<br>and inflicts stormlash.<br><br>During Sigil Released:<br>deals damage to enemies directly ahead,<br>dispels one buff from each target,<br>reduces their defense, and inflicts stormlash.</div><div class="skill-detail"><color=#00008B>Close-Quarters Combat:</color><br>Damage: 1,903 × 1 hit<br>Skill Energy Required: 5,520<br>Special Effects:<br>・Defense -5%<br>　　Lasts 10 seconds<br>・Dispels Buffs<br><br><color=#00008B>Ranged Combat:</color><br>Damage: 307 × 5 hits<br>Skill Energy Required: 5,520<br>Special Effects:<br>・Stormlash<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br><br><color=#00008B>During Sigil Released:</color><br>Damage: 453 × 5 hits<br>Skill Energy Required: 5,520<br>Skill Energy Required (Shared Skill): 13,413<br>Special Effects:<br>・Dispels Buffs<br>・Defense -10%<br>　　Lasts 10 seconds<br>　　Does not stack<br>・Stormlash<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>Skill Damage +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases attack skill damage by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>(Wind) Above 10 Hits = Water Res +10%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind: <br>reduces water damage taken by them by 10%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bf8a70ee189288b824a2ee144022af702.png"></span><span>Michael's Covenant II</span></dt><dd><div>At the start of quests, inflicts the "Locked Sigil"<br>debuff on the user for 300 seconds and grants the<br>user a unique force strike that deals damage to<br>multiple targets and enemies near those targets<br>and has three charge levels. The number of<br>enemies this force strike targets increases based<br>on how many levels are charged.<br><br>Also, creates a combat zone around the user<br>and grants the user one of two combat styles:<br>close quarters or ranged. If there are any<br>enemies within this combat zone, the user will<br>engage in close-quarters combat, otherwise they<br>will default to ranged combat. The user's standard<br>attack patterns and the effects activated by their<br>first and second skills will change based on their<br>combat style.<br><br>Locked Sigil's remaining time will be reduced<br>by 15 seconds for every 25-hit combo.<br>After activating, this effect will not activate again<br>for eight seconds.<br><br>When the Locked Sigil effect wears off, the user<br>will be granted the "Sigil Released" effect instead.<br>Sigil Released removes the user's combat zone<br>and combat styles and grants them a unique<br>force strike with one charge level. This force<br>strike has the same effects as the user's force<br>strike at level three during Locked Sigil.<br>Also during Sigil Released, the user's standard<br>attack patterns will change, and the user's first<br>and second skills will activate different effects.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/19f5e640f779cde1b60a70eedaaca10e2.png"></span><span>Bog Res +100%</span></dt><dd><div>Reduces susceptibility to bog by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a46ca506488cb69b9c2501d8e22b5a722.png"></span><span>15 Hits = Overdamage</span></dt><dd><div>For every 15-hit combo, grants overdamage<br>based on 30% of the user's strength. This<br>effect will not stack, and is removed when<br>the combo counter resets.</div></dd></dl></div></div></div><div><br>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3948421d32bab5eacf4a51df217494e2.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>755</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>504</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,499</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The sheltered scion of a bloodline with both<br>human and faerie roots. She and her ancestors<br>steward wisdom of history's hidden truths and the<br>so-called "key to perdition." When in danger, her<br>faerie powers awaken in the form of a lone wing.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/cec8794d33276918ce38bfaa577312842.png"></span>
+				<span>Faerie Stance</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>and partially fills the user's dragondrive gauge.<br><br>During dragondrive:<br>consumes some of the user's dragondrive gauge,<br>deals damage to enemies directly ahead,<br>then fills 100% of this skill's skill gauge after use.</div><div class="skill-detail">Damage: 1,389 × 1 hit<br>Skill Energy Required: 2,714<br>Dragondrive Energy Gained: 750<br><br><color=#00008B>During Dragondrive:</color><br>Damage: 938 × 1 hit<br>Damage: 79 × 6 hits<br>Skill Energy Required: 2,714<br>Dragondrive Energy Consumed: 650<br>Special Effects:<br>・Skill Prep<br>　　Potency: 100%</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b3eeeb36b0d4aed9820f32abb1dd51022.png"></span>
+				<span>Crescent Faeria</span>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies,<br>and reduces their strength.<br><br>During dragondrive:<br>deals damage to the target and nearby enemies,<br>and reduces their strength and defense.</div><div class="skill-detail">Damage: 234 × 6 hits<br>Skill Energy Required: 8,415<br>Special Effects:<br>・Strength -10%<br>　　Lasts 30 seconds<br><br><color=#00008B>During Dragondrive:</color><br>Damage: 320 × 6 hits<br>Skill Energy Required: 8,415<br>Special Effects:<br>・Strength -10%<br>　　Lasts 30 seconds<br>・Defense -5%<br>　　Lasts 10 seconds<br>　　Does not stack</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>Dragon Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases dragon gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>(Wind) Combo = Critical Rate V</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind:<br>increases their critical rate by 1%<br>for every 10-hit combo. This effect can<br>stack up to 20 times, but all stacks will<br>be lost when the combo counter resets.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7344393f94e67609d7cd301c7828a5702.png"></span><span>Blessed Bloodline II</span></dt><dd><div>Grants the user a dragondrive gauge, and changes<br>the shapeshift button into a dragondrive button.<br>Tapping this button activates their dragondrive.<br><br>Dragondrive grants the following effects:<br>・The user's standard attacks, dash attacks,<br>and force strikes are changed and fill the<br>user's dragondrive gauge if they connect.<br>・The user's strength is increased by 15%.<br>・The user's attack rate is increased by 10%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>Freeze Res +100%</span></dt><dd><div>Reduces susceptibility to freezing by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>Flurry Devastation +13%</span></dt><dd><div>Increases critical rate by 13% when<br>the combo count is 15 or higher.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Some skills have different effects when used as a shared skill.</div><div><br></div><div>Notes:</div><div>1. For more information about the Platinum Showcase, tap Summon on the in-game footer menu, then select the Platinum Showcase and check the Appearance Rates section and the Details tab of the Showcase Info section.</div><div>2. Wyrmsigils cannot be earned from summoning on a Platinum Showcase.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1644991200; update_time1644477165

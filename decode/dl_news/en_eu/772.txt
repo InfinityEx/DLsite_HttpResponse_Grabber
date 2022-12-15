@@ -1,0 +1,8 @@
+article_id:772
+category_name:News
+title_name:Issue Regarding Some First Anniversary Voice Lines[Update]
+image_path:
+
+message:<div>We have confirmed an issue where some of the special first anniversary voice lines available since <span class="local_date" data-local_date="1569564000"></span> for a limited time are not playing as intended.<br>This issue affects Edward and Halloween Edward.<br><br>We are currently investigating this issue.<br>Any further updates will be added to this notice.<br><br>Thank you for playing Dragalia Lost.</div><div><br></div><div><span style="color: rgb(44, 130, 201);"><strong>[Addendum <span class="local_date" data-local_date="1569585300"></span>]<br></strong></span>This issue only happens when the voice language is set to Japanese.</div>
+
+start_time:1569583200; update_time1569585436

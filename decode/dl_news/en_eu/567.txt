@@ -1,0 +1,8 @@
+article_id:567
+category_name:News
+title_name:Regarding an Issue in High Mercury's Trial [Addendum]
+image_path:
+
+message:<div>We have confirmed an issue where High Mercury sometimes performs an attack that cannot be dodged if you inflict the break status on High Mercury in a short amount of time after starting the quest.</div><div><br></div><div>We are currently fixing this issue.</div><div>Any further updates will be added to this notice.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>[Addendum <span class="local_date" data-local_date="1562824800"></span>]</strong></span></div><div>This issue was fixed in a data update applied <span class="local_date" data-local_date="1562824800"></span>.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1562824800; update_time1562211289

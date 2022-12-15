@@ -1,0 +1,211 @@
+article_id:755
+category_name:News
+title_name:Announcing the Next Summon Showcase, Fractured Futures!
+image_path:
+
+message:<div>The next Summon Showcase, Fractured Futures, kicks off <span class="local_date" data-local_date="1570168800"></span>!</div><div><br></div><div>Appearance rates for featured adventurers and dragons will be boosted during this showcase!</div><div><br></div><div>Availability period for featured summons:</div><div><span class="local_date" data-local_date="1570168800"></span> to <span class="local_date" data-local_date="1571378340"></span></div><div><br></div><div>Get a closer look at some of the featured adventurers and dragons below.</div><div><br></div><div>Featured adventurers:</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/3df29bb0592041701984c1d059bf5f4a.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>797</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>477</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2514</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A young man from the tribe of the Tutelaries,<br>who served the Alberian royal family by watching<br>over ancient ruins. After losing his parents in<br>childhood, his only remaining relative is a young<br>brother whom he loves with blind devotion.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ef2fadd4e5171b8628a69b7295d667602.png"></span>
+				<span>Ruination Cage</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to the target and nearby<br>enemies, and creates a debuff zone that lasts for<br>10 seconds and reduces the defense of enemies<br>inside it by 15%. The skill gauge for this skill can<br>be filled by attacking enemies, but it will also<br>gradually fill automatically. Abilities that<br>increase skill gauge fill rate will not affect<br>this automatic increase.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/039cfa967e4d53892ad176be62ccec312.png"></span>
+				<span>Corrosive Cage</span>
+			</dt>
+			<dd>
+				<div>
+					Summons "Heaven's Cage," then deals shadow damage<br>to the target and nearby enemies, inflicts poison,<br>and reduces the strength of light-attuned enemies<br>by 15% for 15 seconds. This strength reduction effect<br>will not stack. Additional bonus damage will be dealt<br>relative to the damage taken while "Heaven's Cage"<br>is active. The skill gauge for this skill can be filled by<br>attacking enemies, but it will also gradually fill<br>automatically. Abilities that increase skill gauge<br>fill rate will not affect this automatic increase.
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">Co-abilities</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>Critical Rate +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases critical rate by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/23ae18cd8060a46a0a68845975c9804b2.png"></span><span>Poisonous Cage II</span></dt><dd><div>The user's strength is lowered by 60% during<br>quests. Using Ruination Cage grants the user<br>the "Poisonous Cage" effect. When this effect<br>is active, the user's next force strike will inflict<br>poison. This effect cannot stack, and will be<br>consumed on use.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>Paralysis Res +100%</span></dt><dd><div>Reduces susceptibility to paralysis by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b1818728cd52cb7975bdbae455bd05582.png"></span><span>Flurry Poison Edge +60%</span></dt><dd><div>Increases chances of inflicting poison by 60%<br>when the combo count is 15 or higher.</div></dd></dl></div></div></div><div><br></div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/65d9ee86d8b2662263927366c7bce5fa.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>514</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A former royal court sorceress with a carefree<br>personality who served Aurelius from the time<br>of his childhood in both an official and personal<br>capacity. Her greatest concern is now the prince.<br>While she looks young, she's actually over 60.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/664ab15021624233c6463200327f209d2.png"></span>
+				<span>Umbral Assault</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to enemies directly ahead,<br>and increases the user's max HP by 5% for the<br>remainder of the quest. Once HP buffs reach the<br>limit, an HP recovery effect is granted instead.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9ea8a32b7cfc8137849e156a527c44202.png"></span>
+				<span>Violet Uproar</span>
+			</dt>
+			<dd>
+				<div>
+					Summons "Twilight Wreath," then deals shadow damage<br>to the target and nearby enemies. Additional bonus<br>damage will be dealt relative to the damage taken<br>while "Twilight Wreath" is active.
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">Co-abilities</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>Skill Damage +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases attack skill damage by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>Skill Prep +100%</span></dt><dd><div>Fills 100% of skill gauges at the start of quests.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/f1b1dac8108a7960100a7a9673e66f772.png"></span><span>Paralysis Res +100%</span></dt><dd><div>Reduces susceptibility to paralysis by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Resilient Offense +10%</span></dt><dd><div>Increases strength by 10% for the remainder<br>of the quest when the user's HP drops to 30%<br>(three times per quest).</div></dd></dl></div></div></div><div><br></div><div>The stats shown here do not include increases or decreases due to abilities, and represent the adventurer at maximum level with all mana circles unlocked, not the stats when first obtained.</div><div><br></div><div>Featured dragon:</div><div><div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/aadbcea0b8fb0ed6be29d52317837773.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>368</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>128</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>996</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>One of the six legendary Greatwyrms who once<br>accompanied the Founder King. Also known as<br>the Netherwyrm, he wandered the abyss of death<br>after his defeat, but now spreads his wings to<br>stop the Other and fulfill his liege's dearest wish.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>Immortal Spirit</span>
+			</dt>
+			<dd>
+				<div>
+					Deals shadow damage to the target<br>and nearby enemies, and inflicts poison.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Shadow) Strength & Dragon's Might II</span></dt><dd><div>If the user is attuned to Shadow: <br>increases strength by 55%, and increases strength<br>by a further 10% for the remainder of the quest upon<br>shapeshifting, up to twice per quest.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For information about featured adventurers and dragons, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1569477600; update_time1570168802

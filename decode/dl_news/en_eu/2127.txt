@@ -1,0 +1,198 @@
+article_id:2127
+category_name:News
+title_name:Halloween Melsa Makes Her Return! A Summon Showcase, Halloween Fantasia, Is Back!
+image_path:
+
+message:<div>A returning Summon Showcase, Halloween Fantasia, kicked off on <span class="local_date" data-local_date="1618812000"></span>!</div><div><br></div><div>The Summon Showcase once again features limited-time adventurers and dragons. Featured adventurers and dragons also have a boosted appearance rate!</div><div><br></div><div>Featured adventurers and dragons returning for a limited time:</div><div>■Adventurers</div><div>5★ Halloween Melsa (wind/lance)</div><div>5★ Halloween Akasha (water/blade)</div><div>5★ Halloween Mym (flame/axe)</div><div>5★ Halloween Elisanne (light/lance)</div><div>4★ Halloween Lowen (flame/staff)</div><div>4★ Halloween Odetta (water/sword)</div><div>4★ Halloween Althemia (light/staff)</div><div>3★ Halloween Edward (light/blade)</div><div><br></div><div>■Dragons</div><div>5★ Halloween Maritimus (water)</div><div>4★ Halloween Silke (light)</div><div><br></div><div>Availability period for featured summons:</div><div><span class="local_date" data-local_date="1618812000"></span> to <span class="local_date" data-local_date="1619589599"></span></div><div><br></div><div>Get a closer look at some featured adventurers returning for a limited time below:</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ac77707699753f91696428b758eb80bb.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>790</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>485</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A sylvan girl who dressed up as the living dead<br>for Halloween. It would be hard to tell how gentle<br>she usually is in this outfit, save for how she is<br>unable to hide her excitement about the<br>upcoming festivities.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/11558585106c5018e7f5f984e61288292.png"></span>
+				<span>Spooky Revival</span>
+			</dt>
+			<dd><div>Increases the entire team's strength by 25%<br>for 15 seconds.</div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/b6dadd2717890e18594f663a9069c9bf2.png"></span>
+				<span>Venom Bite</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals wind damage to enemies directly<br>ahead, inflicts poison, and lowers their<br>poison resistance by 20% for 30 seconds.<br>This resistance reduction will not stack,<br>but changing direction is possible during<br>the attack.</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases HP by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Wind) HP 60% = Strength +6%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind: <br>increases their strength by 6%<br>when their HP is 60% or above.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3c77eb4ce89d7a87424b9733969ae7282.png"></span><span>Endurance of the Dead II</span></dt><dd><div>Upon revival, the user will come back with 80% of<br>their HP (once per quest).</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>Freeze Res +100%</span></dt><dd><div>Reduces susceptibility to freezing by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Poison = Team Strength +10%</span></dt><dd><div>Buffs the entire team's strength by 10%<br>for 10 seconds upon successfully poisoning<br>an enemy. After activating, this ability will<br>not activate again for five seconds.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/f85fbd424433cd2832bcda4df8087410.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>743</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,501</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A priestess from the Church-of-All, now dressed<br>as a vampire. She seems almost childlike as she<br>cavorts about town, but sometimes shows a<br>smile as bewitching as the full moon. Is her<br>heart empty, or is there something there...?</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2d436213ee1d25605303354b04cb18e92.png"></span>
+				<span>Nameless Abductor</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals water damage to enemies in a line, and<br>reduces their defense by 3% for 10 seconds.</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/10fc81680bc1c3cbf52e7271e7cfdf5f2.png"></span>
+				<span>Coffin of Madness</span>
+			</dt>
+			<dd><div>Deals water damage to the target and nearby<br>enemies, and inflicts bleeding.</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Strength +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases strength by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span>
+				<span>(Water) HP 80% = Flame Res +6%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water: <br>reduces flame damage taken by them by 6%<br>when their HP is 80% or above.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e915bc581ed54d29f06ebfc9f8eed8252.png"></span><span>Defense Reduced = Debuff Edge II</span></dt><dd><div>Increases the chances of inflicting debuffs<br>by 50% for five seconds upon successfully<br>reducing an enemy's defense. After activating,<br>this ability will not activate again for five seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>Bleeding = HP Recovery II</span></dt><dd><div>Restores the user's HP upon successfully<br>inflicting an enemy with bleeding.<br>After activating, this ability will not<br>activate again for five seconds.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. Alberian Battle Royale skins for the adventurers featured in this summon showcase are on sale and cost fewer items to unlock. (Not all adventurers have skins.)</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1618812000; update_time1618302309

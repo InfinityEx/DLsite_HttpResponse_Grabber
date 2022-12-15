@@ -1,0 +1,8 @@
+article_id:506
+category_name:News
+title_name:Regarding adjustments to AI behavior during Advanced Dragon Trials [Update]
+image_path:
+
+message:<div>With Version 1.8.0, we adjusted the AI for adventurers in your team and the adventurer being controlled when playing with Auto enabled so that the AI would do its best to avoid enemy attack markers. However, we have confirmed an issue in which the AI behaves unexpectedly toward some enemy attack markers and ensuing attacks during Advanced Dragon Trials.</div><div><br></div><div>In order to address this issue, we have made adjustments so that AI behavior for the following applicable quests reverts to as it was prior to Version 1.8.0.</div><div><br></div><div>■Applicable Quests</div><div>・High Midgardsormr&#39;s Trial</div><div>・High Midgardsormr&#39;s Trial: Prelude</div><div>・High Brunhilda&#39;s Trial</div><div>・High Brunhilda&#39;s Trial: Prelude</div><div><br></div><div>■Implementation Date</div><div>We will update the data at approximately <span class="local_date" data-local_date="1560319200"></span>.</div><div><br></div><div><span style="color: rgb(41, 105, 176);"><strong>[Addendum <span class="local_date" data-local_date="1560319200"></span>]</strong></span></div><div>We have adjusted AI behavior during applicable quests with the data update at <span class="local_date" data-local_date="1560319200"></span>.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1559800800; update_time1560319804

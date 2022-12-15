@@ -1,0 +1,8 @@
+article_id:1654
+category_name:News
+title_name:[Updated] Issue Regarding the Forgotten Truths Raid Event
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>[Addendum <span class="local_date" data-local_date="1604028180"></span>]</strong></span><br>The issue mentioned in this notice was fixed in the 2.1.0 version update.<br>Thank you for your patience.<br><br></div><hr><div>We have confirmed an issue in the Forgotten Truths raid event&#39;s raid battles where part of the adventurer voices, enemy voices and stamps voices aren&#39;t played.</div><div><br></div><div>We are currently investigating this issue.</div><div>Any further updates will be added to this notice.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1601445600; update_time1604028127

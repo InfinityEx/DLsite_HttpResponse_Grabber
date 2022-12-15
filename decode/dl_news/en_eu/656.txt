@@ -1,0 +1,41 @@
+article_id:656
+category_name:News
+title_name:Wyrmprints Added to the Wyrmprint Treasure Trade Lineup for a Limited Time!
+image_path:
+
+message:<div>Wyrmprints were added to the wyrmprint Treasure Trade lineup for a limited time starting <span class="local_date" data-local_date="1566453600"></span>.</div><div><br></div><div>You can trade for the newly added wyrmprints from the Featured tab or from the various rarity tabs in the Treasure Trade for wyrmprints.</div><div><br></div><div>New wyrmprints:</div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/046a2f4dc6206cfcd819142fa235725f2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">The Chocolatiers</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>Skill Prep +100%&nbsp;(Max 100%)</span></dt><dd><div>Fills 100% of skill gauges at the start of quests.&nbsp;(Max 100%)</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/1e39861b96cb5fc27bbec8bd2d3bfa752.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">The Rose Prince</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/3d57efbfc9ee679b982b0fd3ed6495302.png"></span><span>(Flame) Affliction Guard III&nbsp;(Max 3 Times)</span></dt><dd><div>If the user is attuned to Flame: <br>resists afflictions up to three times per quest.&nbsp;(Max 3 Times)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>Shield Prep Ⅲ&nbsp;(Max III)</span></dt><dd><div>Grants the user a one-use shield that nullifies<br>damage less than 30% of their maximum HP<br>at the start of quests. This does not stack with<br>any other shields.&nbsp;(Max III)</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/d6bc13368807bf13a0b2c660c3cbf1932.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/8882a1e2cd557667e16b4245e73d8a6f2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">To My Beloved</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/24dc1983d110ed627df93dd3e6322d962.png"></span><span>Skill Prep +20%&nbsp;(Max 100%)</span></dt><dd><div>Fills 20% of skill gauges at the start of quests.&nbsp;(Max 100%)</div></dd></dl></div></div></div><div><br></div><div>Note: The stats shown here represent the wyrmprints when fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Featured period:</div><div><span class="local_date" data-local_date="1566453600"></span> to <span class="local_date" data-local_date="1567231199"></span></div><div><br></div><div><span style="color: rgb(226, 80, 65);"><strong>Note: You will not be able to trade for these limited-time wyrmprints after the featured period is over.</strong></span></div><div><br></div><div>Notes:</div><div>1. Featured wyrmprints may become available again in the future.</div><div>2. For other information aside from this notification, see the Wyrmprints section in the Shop.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1566453600; update_time1565170187

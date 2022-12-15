@@ -1,0 +1,8 @@
+article_id:2772
+category_name:News
+title_name:Alberian Battle Royale Updated!
+image_path:
+
+message:<div>The following adjustments were made to the Alberian Battle Royale on <span class="local_date" data-local_date="1648706400"></span>.</div><div><br></div><div>■Shapeshifting Dragon Updated</div><div>All adventurers (regardless of weapon type) will now shapeshift into High Chthonius. Future events may feature a different dragon.</div><div><br></div><div>Before: Menoetius</div><div>After: High Chthonius</div><div><br></div><div>■Monthly Battle Point Rewards Updated</div><div>Monthly battle point rewards were updated on <span class="local_date" data-local_date="1648706400"></span> and will be available until <span class="local_date" data-local_date="1651298399"></span>. Players can obtain various rewards based on the amount of battle points they earn each month.</div><div><br></div><div>■Treasure Trade Lineup Updated</div><div>The monthly lineup in the Alberian Battle Royale Treasure Trade was updated on <span class="local_date" data-local_date="1648706400"></span> and will be available until <span class="local_date" data-local_date="1651298399"></span>.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1648706400; update_time1642131178

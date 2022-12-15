@@ -1,0 +1,8 @@
+article_id:1991
+category_name:News
+title_name:Issue Regarding Trials Quests in the Caged Desire Event
+image_path:
+
+message:<div>We have confirmed an issue that momentarily prevented some players from playing Trials quests in the Caged Desire event since <span class="local_date" data-local_date="1613097000"></span>.&nbsp;</div><div><br></div><div>This issue has now been fixed.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1613100600; update_time1613106774

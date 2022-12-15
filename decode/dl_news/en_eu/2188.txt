@@ -1,0 +1,340 @@
+article_id:2188
+category_name:News
+title_name:Announcing Gala Dragalia Remix!
+image_path:
+
+message:<div>Gala Dragalia Remix starts on <span class="local_date" data-local_date="1620885600"></span>!</div><div><br></div><div>What are Gala Dragalia and Gala Dragalia Remix?</div><div>The initial appearance rate for 5★ adventurers and dragons will be boosted to 6%, which is up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div><br></div><div><span style="color: rgb(226, 80, 65);">The newly added 5★ adventurers Saiga (wind) and Armored Yachiyo (flame) will also appear in the next summon showcase.</span></div><div><span style="color: rgb(226, 80, 65);"><br></span></div><div><span style="color: rgb(226, 80, 65);">Adventurers added in past Gala Dragalia summon showcases may appear in this summon showcase as well. For information about which adventurers may appear, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</span></div><div><br></div><div>Newly added featured adventurers:</div><div>5★ Saiga (wind/close-range manacaster)</div><div>5★ Armored Yachiyo (flame/blade)</div><div><br></div><div>Featured adventurer from past Gala Dragalia summon showcases:</div><div>5★ Gala Leif (wind/sword)</div><div><br></div><div>Featured dragon from past Gala Dragalia summon showcases:</div><div>5★ Gala Reborn Zephyr (wind)</div><div><br></div><div>Gala Dragalia Remix event duration:</div><div><span class="local_date" data-local_date="1620885600"></span> to <span class="local_date" data-local_date="1621231199"></span></div><div><br></div><div>Get a closer look at the featured adventurers and dragon below.</div><div><br></div><div>Featured adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/a7ca633c668f43726e147064193f21b2.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>755</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>504</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,499</span>
+                </div><div class="available-mode">
+                        <div class="txt"><span>Available Modes</span></div>
+                        <div class="icon"><img src="https://dragalialost.akamaized.net/attached/information/images/a3fd3d318f5d1ce860f6d1c41c2d49fb2.png"><img src="https://dragalialost.akamaized.net/attached/information/images/b55a4c2045276a7e557c62c0be3897042.png"><img src="https://dragalialost.akamaized.net/attached/information/images/26f43aab3c39a2bcdadd1b40dd88e7402.png"></div></div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>An ex-Mukuroshu assassin seeking absolution.<br>Once married to Yachiyo's sister, Momoyo, he<br>now aims his manacaster at his former employer<br>for robbing him of both his wife and master.<br>Regret guides his hand; resolve pulls the trigger.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/9bf3fe22f62e503eadabcd3cbb53adcc2.png"></span>
+				<span>Dirge Shot</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead, inflicts<br>stormlash, and, when used directly next to foes,<br>grants the user the "Enemy Insight" effect.<br>Enemy Insight has three levels.<br><br>When Enemy Insight Lv. 3 is active:<br>consumes Enemy Insight Lv. 3, deals damage<br>to enemies directly ahead, and inflicts stormlash.<br>Stormlashed foes take extra damage.</div><div class="skill-detail">Damage: 225 × 5 hits<br>Skill Energy Required: 4,080<br>Skill Energy Required (Shared Skill): 5,100<br>Special Effects:<br>・Enemy Insight<br>・Stormlash<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br><br><color=#00008B>After Skill Change:</color><br>Damage: 400 × 5 hits<br>Skill Energy Required: 4,080<br>Skill Energy Required (Shared Skill): 5,100<br>Special Effects:<br>・Stormlash<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41<br>Damage Modifier:<br>・120% against stormlashed enemies<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c647b2eda36017a59e14b795bff8ee772.png"></span>
+				<span>Karmic Quietus</span>
+			</dt>
+			<dd><div>Dispels one buff from multiple targets,<br>and grants the user the "Enemy Insight" effect.<br>This skill will only affect each target once per use.<br><br>When Enemy Insight Lv. 3 is active:<br>consumes Enemy Insight Lv. 3, dispels one buff<br>from multiple targets, and grants the user the<br>"Calculated Shots" effect. This skill will only affect<br>each target once per use.</div><div class="skill-detail">Skill Energy Required: 4,080<br>Special Effects:<br>・Dispels Buffs<br>・Enemy Insight<br><br><color=#00008B>After Skill Change:</color><br>Skill Energy Required: 4,080<br>Special Effects:<br>・Dispels Buffs<br>・Calculated Shots<br>　　Lasts 30 seconds<br>　　Does not stack<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/85285afa2a77c2880c1c006d8d0d214c2.png"></span>
+				<span>Gauge Accelerator +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Speeds the rate the mode gauge decreases<br>by 20%. Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>(Wind) Above 10 Hits = Water Res +10%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind: <br>reduces water damage taken by them by 10%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea922b635a37decf344b656b97ed01672.png"></span><span>Know Thine Enemy II</span></dt><dd><div>When the "Enemy Insight Lv. 3" effect is active,<br>increases the amount the user's next force strike<br>lowers the mode gauge by 300%. This force strike<br>will consume Enemy Insight Lv. 3.<br><br>Also, when the "Calculated Shots" effect is active,<br>increases the power of standard attacks by 10%,<br>the amount skill gauges are filled by standard<br>attacks by 10%, and the critical rate of standard<br>attacks by 10%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>Freeze Res +100%</span></dt><dd><div>Reduces susceptibility to freezing by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>HP 70% = Strength +13%</span></dt><dd><div>Increases strength by 13% when HP is 70% or above.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ba52a9088a1d7d6b9caeed36d380f51d.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>740</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>520</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,500</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Yachiyo dons armor bequeathed unto her by her<br>grandfather and sister to settle her score with the<br>Mukuroshu. She now wields her sword as a blade<br>of righteousness to protect those she holds dear.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/4a7025c31c5d89c3fa80184027f3d2172.png"></span>
+				<span>Peerless Eternity</span>
+			</dt>
+			<dd><div>Activates "Peerless Flourish."<br>The user's next three force strikes are powered up<br>and deal extra damage to scorchrent foes.</div><div class="skill-detail">Skill Energy Required: 2,710<br>Special Effects:<br>・Peerless Flourish<br>　　Charges: 3<br>　　Does not stack<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d3af4f1ab044b41d520ded30cc37f22a2.png"></span>
+				<span>Blossom Dance</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>inflicts scorchrend, and grants the user<br>immunity to knockback.</div><div class="skill-detail">Damage: 165 × 6 hits<br>Damage: 523 × 1 hit<br>Damage: 267 × 3 hits<br>Skill Energy Required: 5,460<br>Skill Energy Required (Shared Skill): 10,101<br>Special Effects:<br>・Knockback Immunity<br>　　Lasts 15 seconds<br>・Scorchrend<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31.1<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Strength +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases strength by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/03585ae11a2b0de283c914026533b3fe2.png"></span>
+				<span>(Flame) Scorchrend = Wind Res +8%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Flame:<br>reduces wind damage taken by them by 8%<br>for 15 seconds when they successfully inflict<br>an enemy with scorchrend. After activating,<br>this ability will not activate again for 10 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b72edb54980cd6da0def40b65cddfe1a2.png"></span><span>Unrelenting Blade II</span></dt><dd><div>Increases strength by 20% for every 15 seconds<br>that pass without the user being knocked back<br>by an enemy. This buff can stack up to three times.<br>All stacks will be lost upon being knocked back<br>by an enemy.<br><br>Also, grants the user a unique force strike<br>that has two increasingly powerful charge levels<br>and dispels one enemy buff when the combo<br>count is 15 or higher. The user will be immune<br>to knockback while charging this force strike.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/fd589517c61c65312e1509e13a36cd412.png"></span><span>Force Strike +50%</span></dt><dd><div>Increases force strike damage by 50%.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/556ddff788c0ba1261e2166b761b978b.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/e9dfe7dacc80f97bf9aa860adb0b78992.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>835</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>456</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,531</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>Captain of Alberia's Royal Guard. An exemplar<br>of the knights, his love for his country is<br>exceptionally strong. A brilliant swordsman,<br>he also served as an instructor in the way<br>of the blade to the royal children.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/ce18e747f777d979161c063fcf7f13952.png"></span>
+				<span>Feathered Gale</span>
+			</dt>
+			<dd><div>Deals damage to surrounding enemies,<br>and reduces their defense.<br>If this skill is used during shielding stance,<br>a variant called Sparrows' Protection will be<br>used instead. Sparrows' Protection greatly<br>increases the user's defense.</div><div class="skill-detail">Damage: 480.4 × 1 hit<br>Damage: 504 × 1 hit<br>Skill Energy Required: 3,456<br>Special Effects:<br>・Defense -5%<br>　Lasts 20 seconds<br>　Does not stack<br><br><color=#00008B>Shielding Stance:</color><br>Skill Energy Required: 3,456<br>Special Effects:<br>・Defense +60%<br>　Lasts 15 seconds<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/233ea87a2c62ab9174c7715807a245542.png"></span>
+				<span>Pinion Slash</span>
+			</dt>
+			<dd><div>Deals damage to enemies in a line, and reduces<br>their strength. Poisoned foes take extra damage.<br>If this skill is used during shielding stance,<br>a variant called Parrying Slash will be<br>used instead. Parrying Slash deals damage<br>to enemies directly ahead, and inflicts poison.<br>Damage is increased against foes with<br>reduced defense.</div><div class="skill-detail">Damage: 491 × 2 hits<br>Damage: 540 × 1 hit<br>Skill Energy Required: 8,640<br>Special Effects:<br>・Strength -5%<br>　Lasts 20 seconds<br>　Does not stack<br>Damage Modifier:<br>・120% against poisoned enemies<br><br><color=#00008B>Shielding Stance:</color><br>Damage: 702 × 1 hit<br>Damage: 772 × 1 hit<br>Damage: 842 × 1 hit<br>Skill Energy Required: 8,640<br>Special Effects:<br>・Poison<br>　Lasts 15 seconds<br>　Triggers every 2.9 seconds<br>　Damage: 58.2<br>Damage Modifier:<br>・120% against enemies with reduced defense</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/f4fe3ec28ab794355638e48f3cdc2b332.png"></span>
+				<span>Reduced Strength & Defense Punisher +8%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases damage to enemies with reduced<br>strength or defense by 8%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Wind) Strength Doublebuff +10%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind: <br>increases their strength by 10% for 15 seconds<br>each time they receive a defense up buff.<br>After activating, this ability will not<br>activate again for 15 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/83bd9c8302b087a508daec2a8fc9b2cf2.png"></span><span>Debuff Skill Time +20%</span></dt><dd><div>Increases the duration of bleeding and debuff skills<br>that reduce strength and defense by 20%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/857a2a2fdbc31b188c91fbd6f6eca6b32.png"></span><span>White Sparrow's Vow II</span></dt><dd><div>Reduces susceptibility to freeze and bog by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Flurry Strength +20%</span></dt><dd><div>Increases strength by 20% when the combo count is<br>15 or higher.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ab4960d508720739de1a856c948dc01f.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>1,295</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>Through the belief of the people of the plains,<br>Zephyr has been reborn. Freed from the noxious<br>miasma eating away at his body, his prudence is<br>now tempered with an unwavering will and an<br>open mind.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/930e79020344385658dbc5220432cb572.png"></span>
+				<span>Howling Fury</span>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies.<br>If the user is targeting an enemy and not using a<br>skill when their remaining shapeshift time runs out,<br>this skill will be used automatically, regardless of<br>whether or not the skill gauge is filled.</div><div class="skill-detail">Damage: 1,923 × 1 hit<br></div></dd></dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Wind) Strength +70%</span></dt><dd><div>If the user is attuned to Wind: <br>increases strength by 70%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/65863989132db80658f5d919573c14e92.png"></span><span>(Wind) Wrath of the Plains II</span></dt><dd><div>If the user is attuned to Wind:<br>adds 30% to the modifier applied to damage<br>against water-attuned enemies and enemies<br>with no attunement for 45 seconds every time<br>the dragon gauge fills by 10%. This increase<br>will not stack, and, after activating, this ability<br>will not activate again for five seconds.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. Alberian Battle Royale skins for adventurers featured in this summon showcase will go on sale, and it will cost fewer items to unlock their skins. Note that some adventurers do not have adventurer skins.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1620799200; update_time1620609962

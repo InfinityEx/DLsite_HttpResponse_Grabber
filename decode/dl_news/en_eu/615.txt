@@ -1,0 +1,8 @@
+article_id:615
+category_name:News
+title_name:High Jupiter's Trial Is Coming Soon to Advanced Dragon Trials!
+image_path:https://dragalialost.akamaized.net/attached/information/images/b17e914a9122b2e6c4ff1b05fc5240b9.png
+
+message:<div>High Jupiter&#39;s Trial will be added to the Advanced Dragon Trials, the most challenging of event quests, at <span class="local_date" data-local_date="1564120800"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/b17e914a9122b2e6c4ff1b05fc5240b9.png"></div><div>The Lightwyrm releases his true powers. The vast mana flowing from his body clashes with itself in the air, cloaking his body in flashing light. His lightning makes the sky tremble and is feared as &quot;wrath of the heavens.&quot;</div><div><br></div><div>Notes:</div><div>1. In order to challenge High Jupiter&#39;s Trial, a player&#39;s team must have 13,000 might or higher.</div><div>2. Players must have completed Jupiter&#39;s Trial: Master to challenge High Jupiter&#39;s Trial.</div><div>3. Players must have completed up to Chapter 2 / 2-1 (Normal) of the campaign in order to play co-op.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1563861600; update_time1569486373

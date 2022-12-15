@@ -1,0 +1,364 @@
+article_id:1474,category_name:News,title_name:Announcing Gala Dragalia!,image_path:,message:<div>Gala Dragalia will start at <span class="local_date" data-local_date="1596088800"></span>!</div><div><br></div><div>What are Gala Dragalia and Gala Dragalia Remix?</div><div>・The initial appearance rate for 5★ adventurers and dragons will be boosted to 6%, which is up from the standard 4%! If you get a 5★ summon or 5★ featured summon, the appearance rate will return to the initial 6%.</div><div><span style="color: rgb(226, 80, 65);">Note: The newly added 5★ adventurers Summer Sinoa (wind) and Summer Norwin (wind), as well as 5★ dragon Summer Konohana Sakuya (wind), will also appear in the next summon showcase.</span></div><div><br></div><div>Gala Dragalia event duration:</div><div><span class="local_date" data-local_date="1596088800"></span> to <span class="local_date" data-local_date="1596520740"></span></div><div><br></div><div>Get a closer look at the newly featured adventurers and dragon below.</div><div><br></div><div>Featured adventurers:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/ebb7953632f93b44c6de6d0ed943cd45.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>758</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>500</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,498</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>As Laxi acquires new power in Eden mode and<br>Mascula resolves to join the fight, the two throw<br>themselves into the raging fires of battle in order<br>to see their maestro's wish fulfilled. Once polar<br>opposites, their hearts now begin to converge.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/db0ecaba45b202d4c8bc6be2ec207a572.png"></span>
+				<span>Code 14: Conviction</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals flame damage to enemies directly ahead.<br>If this skill is used during Eden mode, a variant<br>called Eden Code 05: Gevurah will be used instead.<br>Eden Code 05: Gevurah deals flame damage to<br>enemies directly ahead and inflicts burn.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c31716617139519d6cf9b46ed104cb822.png"></span>
+				<span>Eden Mode</span>
+			</dt>
+			<dd>
+				<div>
+					Grants the user the "Fig" effect and activates<br>Eden mode for 20 seconds. During Eden mode,<br>Fig will automatically attack foes.<br>This automatic damage will not be treated as<br>skill damage. If this skill is used during Eden mode,<br>a variant called Eden Code 01: Keter will be used<br>instead. Eden Code 01: Keter deals flame damage<br>to enemies directly ahead.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/d84b02c496bd915cc9ca72d7b486190a2.png"></span>
+				<span>Standard Attack Damage +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the power of standard attacks by 20%.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/03585ae11a2b0de283c914026533b3fe2.png"></span>
+				<span>(Flame) Above 10 Hits = Wind Res +10%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Flame: <br>reduces wind damage taken by them by 10%<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>Resonant Hearts II</span></dt><dd><div>Grants Laxi a charge gauge with three bars.<br>The charge gauge fills when standard attacks,<br>force strikes, and dash attacks are used,<br>and grants cumulative buffs to Laxi based<br>on the number of bars filled.<br>Filling one bar increases defense by 20%,<br>filling two bars increases attack skill damage<br>by 15%, and filling three bars increases strength<br>by 15%. Laxi's charge gauge will not fill<br>when she has the Fig effect, and the gauge<br>will be reset and all of the above buffs lost<br>when the Fig effect is removed.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ea4c47784ca6465117276eb2a3d9a0d92.png"></span><span>Mana Kiln II</span></dt><dd><div>Reduces susceptibility to stun and sleep by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5928d08635cbad73278c1391505a73392.png"></span><span>Critical Frenzy II</span></dt><dd><div>Increases critical rate by 4% for every 15-hit combo<br>(up to three times per combo), and adds 4% to the<br>modifier applied to critical damage each time<br>one of the user's attacks is a critical hit<br>(up to 10 times per combo). After activating,<br>this critical damage increase will not activate again<br>for one second. These buffs are removed when the<br>combo counter resets.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/78bc82e3f0ead24fa938a0df1bd97c12.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/9aad909ba3c17275f9fd58ab5d60b7522.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>788</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>487</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,515</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A scholar's seaside sojourn. Her research into<br>space-time physics means everything to her,<br>and no failed experiment can keep her down.<br>But even the best researchers need a break,<br>which calls for a new theory: vacation!</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/74798abffd9249b4acc0e828ab82f3cf2.png"></span>
+				<span>Chrono Trial</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to the target and nearby enemies,<br>draws them together, inflicts poison, and grants<br>the user one stack of Overload. Overload decreases<br>skill gauge fill rate for the Chrono Trial skill by 30%.<br>Overload can stack up to three times, and is not<br>removed by shapeshifting.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6c0d33ea3eb33415241d8f0ee34c041a2.png"></span>
+				<span>Bracing Summer</span>
+			</dt>
+			<dd>
+				<div>
+					Consumes all stacks of Overload, and applies one<br>of the following buffs at random to the user for<br>each stack of Overload consumed:<br><br>Increases inspiration by two stages<br><br>Adds 15% to the modifier applied to<br>critical damage for 30 seconds<br><br>Increases critical rate by 20% for 30 seconds<br><br>The same buff will not be granted multiple<br>times by one use of this skill.<br>If this skill is used when the user has<br>three stacks of Overload, all three buffs<br>will be granted to the entire team.<br>If this skill is used when the user has<br>no stacks of Overload, one random buff<br>from the above will be granted to the user.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span>
+				<span>Skill Damage +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases attack skill damage by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/6aacb8c21a85605e809b59402526f9492.png"></span>
+				<span>(Wind) Poison = User Water Res +8%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind:<br>reduces water damage taken by them by 8%<br>for 15 seconds when they successfully poison<br>an enemy. After activating, this ability will not<br>activate again for 10 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c0445f978345989c82032f191eb199602.png"></span><span>Determination II</span></dt><dd><div>Increases damage dealt by the skill Chrono Trial<br>based on the number of Overload stacks the user<br>has. The first stack will increase damage by 20%,<br>with additional stacks increasing damage by 5%<br>each.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>Freeze Res +100%</span></dt><dd><div>Reduces susceptibility to freezing by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>Skill Damage +30%</span></dt><dd><div>Increases attack skill damage by 30%.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5d4d26af27c9182e059f0b9199910f6d.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>760</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>499</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,499</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The Halidom's resident picture book author dons<br>swim trunks, putting his new ability to write<br>happy endings to use on a sunny summer's tale.<br>The stark white page takes on the blue hues of<br>sea and sky as tragedy gives way to joy.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/09ae602fbcb6c90d7a043eb6c3ef72882.png"></span>
+				<span>Summer Memories</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>7</span>
+					</div>
+				</div>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to the target and nearby enemies,<br>and activates "Skill Shift" for both this skill and the<br>skill Ephemeral Love. Phases II and III both increase<br>the damage dealt by this skill. Phase IV does not<br>deal damage, and instead removes all stacks of<br>Doleful Spirit applied by Ephemeral Love IV<br>and energizes the entire team.
+				</div>
+			</dd>
+	<dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/09ae602fbcb6c90d7a043eb6c3ef72882.png"></span>
+				<span>Ephemeral Love</span>
+			</dt>
+			<dd>
+				<div>
+					Deals wind damage to the target and nearby enemies,<br>and activates "Skill Shift" for both this skill and the<br>skill Summer Memories. Phases II and III both<br>increase the damage dealt by this skill. Phase IV<br>inflicts poison on foes, and inflicts one stack of<br>Doleful Spirit on the user, up to a maximum<br>of four stacks. While the user has one or more<br>stacks of Doleful Spirit, their energy level will not<br>increase, and using this skill during Phase IV<br>will cause them to take damage. The more stacks<br>of Doleful Spirit the user has, the more damage<br>they will take. Stacks of Doleful Spirit will not<br>be removed by shapeshifting.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span>
+				<span>Critical Rate +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases critical rate by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span>
+				<span>(Wind) Above 10 Hits = HP Regen VI</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind: <br>gradually regenerates their HP<br>when the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>Energy = Skill Haste III</span></dt><dd><div>Increases the user's skill gauge fill rate as their<br>energy level increases. The maximum bonus, given<br>when the user is energized, is 25%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>Freeze Res +100%</span></dt><dd><div>Reduces susceptibility to freezing by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/d3edea4a52a651ab75575f278704b8a82.png"></span><span>Poisoned Punisher +30%</span></dt><dd><div>Increases damage to poisoned enemies by 30%.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities, and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Adventurers with the same name cannot be put into the same team.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7aea3875629a028c64ed925dfe45f3b1.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>369</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>126</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>1,095</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>Konohana Sakuya trades her robes for swimwear,<br>and the gentle scent of tropical flowers mix with<br>salty air to soothe the hearts of fellow beach-<br>goers. Though she came alone, the scene soon<br>blossoms into a garden of friendly smiles.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>Seashore Dance</span>
+			</dt>
+			<dd>
+				<div>
+					Restores the user's HP, and grants the user a<br>"Smiling Flower." The Summer Flowers ability<br>buffs the user based on the number of<br>Smiling Flowers they have, up to a<br>maximum of six stacks.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/7ea00c46aa6b565d6054e18deab891fa2.png"></span><span>(Wind) Summer Flowers V</span></dt><dd><div>If the user is attuned to Wind:<br>grants the user a "Smiling Flower" at the start<br>of quests, and grants an additional Smiling Flower<br>every 60 seconds, up to a maximum of six.<br>The user will receive the following buffs based<br>on their total number of Smiling Flowers.<br>One Flower: Increases strength by 40%<br>Two Flowers: Increases defense by 20%<br>Three Flowers: Increases skill damage by 50%<br>Four Flowers: Reduces water damage taken by 5%<br>Six Flowers: Grants an HP regen buff</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Note:</div><div>For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>,start_time:1596002400,update_time1595989889

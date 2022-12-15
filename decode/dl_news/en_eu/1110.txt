@@ -1,0 +1,138 @@
+article_id:1110
+category_name:News
+title_name:Announcing the Next Summon Showcase, A Dash of Disaster (Part One)!
+image_path:
+
+message:<div>The next Summon Showcase, A Dash of Disaster (Part One), kicks off <span class="local_date" data-local_date="1582869600"></span>!</div><div><br></div><div>Appearance rates for featured adventurers and dragons will be boosted during this showcase!</div><div><br></div><div>Availability period for featured summons:</div><div><span class="local_date" data-local_date="1582869600"></span> to <span class="local_date" data-local_date="1583992740"></span></div><div><br></div><div>Get a closer look at some of the newly featured adventurers and dragons below.</div><div><br></div><div>Featured adventurer:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/2535b21ca64ce405a5d0a53ac3540d7c.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>743</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>518</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,501</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A wandering chef of unmatched culinary genius.<br>Once knight retainer to a princess in a small<br>kingdom of northern Grastaea, he sheathed his<br>blade to pursue more...piquant passions.<br>He's out to change the world, one dish at a time.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/52c09a4c9f3e9e09d69ea50e14dce5682.png"></span>
+				<span>Amuse-bouche</span>
+			</dt>
+			<dd>
+				<div>
+					Deals water damage to enemies directly ahead,<br>and applies one of the following effects based<br>on the user's current cooking stance:<br><br>Appetizer Stance: Inflicts frostbite and<br>reduces enemies' defense by 5% for 30 seconds.<br>This defense reduction effect will not stack.<br><br>Entrée Stance: Inflicts stun and<br>reduces enemies' strength by 15% for 30 seconds.<br>This strength reduction effect will not stack.<br><br>Dessert Stance: Inflicts freeze.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/944f49691bf38a5e905697ff03d017ad2.png"></span>
+				<span>Bon Appétit</span>
+			</dt>
+			<dd>
+				<div>
+					Applies one of the following effects to the entire team<br>based on the user's current cooking stance:<br><br>Appetizer Stance: Increases defense by 15% for<br>15 seconds, and inspiration by two stages.<br>This defense increase will not stack.<br><br>Entrée Stance: Increases critical rate by 10% for<br>15 seconds, and inspiration by three stages.<br>This critical rate increase will not stack.<br><br>Dessert Stance: Increases strength by 8% for<br>15 seconds, and inspiration by two stages.<br>This strength increase will not stack.
+				</div>
+			</dd>
+	</dl></div><div class="exAbility explanation">
+	<div class="title">Co-abilities</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>Strength +10%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases strength by 10%.<br>Benefits your whole team.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cc3f28b7bfce6dfc1ea65f36822cae7f2.png"></span><span>Critical Hit = Attack Rate II</span></dt><dd><div>Increases attack rate by 10% for 20 seconds each<br>time one of the user's attacks is a critical hit.<br>After activating, this ability will not activate again<br>for 10 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>Burn Res +100%</span></dt><dd><div>Reduces susceptibility to burning by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9313ae9aa920e91dfb0863136ae5dc042.png"></span><span>Combo Time +4</span></dt><dd><div>Extends the window between hitting an enemy and<br>the combo counter resetting by four seconds.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here do not include increases or decreases due to abilities, and represent the adventurer at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div><br></div><div>Adventurer characteristics:</div><div>Valerio features a new functionality: stances you can actively change. This allows you to adapt your fighting style based on the situation.</div><div>By tapping a special icon that displays during battle, you can switch between Appetizer Stance, Entr&eacute;e Stance, and Dessert Stance. These stances change Valerio&#39;s attacks and skill effects.</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/7d9adce60bdbc33ec53d29339b11d4f5.png"></div><div><br></div><div>▼Appetizer Stance</div><div>When Valerio&#39;s combo count is 20 or higher, his normal attacks will change so that he attacks enemies as if he were chopping vegetables.</div><div>His Amuse-bouche skill can inflict frostbite on enemies and decrease their defense.</div><div>With his Bon App&eacute;tit skill, he can increase the entire team&#39;s defense and apply inspiration.</div><div><br></div><div>▼Entr&eacute;e Stance</div><div>When Valerio&#39;s combo count is 20 or higher, his normal attacks will change so that he attacks enemies as if he were doing prep work.</div><div>His Amuse-bouche skill can inflict stun on enemies and decrease their strength.</div><div>With his Bon App&eacute;tit skill, he can increase the entire team&#39;s critical rate and apply inspiration.</div><div><br></div><div>▼Dessert Stance</div><div>When Valerio&#39;s combo count is 20 or higher, his normal attacks will change so that he attacks enemies as if he were stirring.</div><div>His Amuse-bouche skill can inflict freeze on enemies.</div><div>With his Bon App&eacute;tit skill, he can increase the entire team&#39;s strength and apply inspiration.</div><div><br></div><div>・Valerio&#39;s normal attacks will change the next time he makes a normal attack when his combo count is 20 or higher.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/5afcdee090a3ab6564fa880a385c795f.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon with a gluttonous appetite. Watch out,<br>because when his tummy gets rumbly, he throws<br>a tantrum like you wouldn't believe. He's the type<br>to save his favorite foods for last, and lately he's<br>been vibing hard on fresh fruits and pancakes.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/19c706c3440276a68b516e5597e4e0c32.png"></span>
+				<span>Pancake Paradise</span>
+			</dt>
+			<dd>
+				<div>
+					Restores HP to the user, raises the dragon gauge<br>by 20%, and extends shapeshift time by 5 seconds.<br>Shapeshift time cannot exceed the maximum<br>permitted time.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Water) Strength & Critical Damage II</span></dt><dd><div>If the user is attuned to Water:<br>increases strength by 45% and adds 55% to the<br>modifier applied to critical damage.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For information about featured adventurers and dragons, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1582783200; update_time1582771745

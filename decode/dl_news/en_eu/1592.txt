@@ -1,0 +1,8 @@
+article_id:1592
+category_name:News
+title_name:2nd Anniversary Countdown Bonus Is Live!
+image_path:https://dragalialost.akamaized.net/attached/information/images/3ef08a892d60f982f47ff792392a1204.png
+
+message:<div>The 2nd anniversary countdown bonus started <span class="local_date" data-local_date="1600668000"></span>!</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/3ef08a892d60f982f47ff792392a1204.png"></div><div><br></div><div>For the duration, you&#39;ll get multiple Summon Vouchers each day when you log in! That&#39;s a maximum of six days, meaning you can get up to 14 Summon Vouchers.</div><div><br></div><div>■Gift Details</div><div>Day 1: Summon Voucher x2</div><div>Day 2: Summon Voucher x2</div><div>Day 3: Summon Voucher x2</div><div>Day 4: Summon Voucher x2</div><div>Day 5: Summon Voucher x2</div><div>Day 6: Summon Voucher x4</div><div><br></div><div>■Event Duration</div><div><span class="local_date" data-local_date="1600668000"></span> to <span class="local_date" data-local_date="1601186399"></span></div><div><br></div><div>Notes:</div><div>1. The log-in bonus will be sent to your goodie box every day after 07:00 when you log in.</div><div>2. Gifts sent as log-in bonuses can only be accepted for a limited time.</div><div><br></div><div>Thank you for playing Dragalia Lost!</div>
+
+start_time:1600668000; update_time1600330064

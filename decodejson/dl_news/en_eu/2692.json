@@ -1,0 +1,92 @@
+article_id:2692,category_name:News,title_name:Adding the Mana Spiral to More Adventurers!,image_path:,message:<div>A sixth mana circle, the mana spiral, will be added to certain adventurer starting <span class="local_date" data-local_date="1641362400"></span>.</div><div><br></div><div>The adventurer affected this time and her stats are described below.</div><div>Note: Unlocking an eligible adventurer&#39;s mana spiral requires special materials specific to that adventurer that can be earned from the daily bonus of the Trials of the Mighty quest.</div><div><br></div><div>■Affected Adventurers</div><div>5★ Catherine (water/lance)</div><div><br></div><div>■Stats</div><div><br></div><div>・5★ adventurer</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/0d7a68d932c648ac3eeda15b6d90458b2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">Catherine</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>902</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>608</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,210</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1afb4a1e63b9349ff028357edec9da6a2.png"></span>
+				<span>Beck and Call</span>
+			</dt>
+			<dd><div>Increases the user's strength and grants them the<br>"Perfect Escort" effect. The Perfection Embodied<br>ability buffs the user based on the number of<br>Perfect Escort stacks they have.</div><div class="skill-detail">Skill Energy Required: 5,400<br>Special Effects:<br>・Perfect Escort<br>　　Stacks up to 3 times<br>・Strength +30%<br>　　Lasts 10 seconds<br></div></dd><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5df6e7b975d220221d524e55556940f92.png"></span>
+				<span>Perfect Order</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to the target and nearby enemies<br>and dispels one buff from each of them.<br>Damage will be increased based on the number<br>of Perfect Escort stacks the user has. Using this<br>skill will consume all Perfect Escort stacks.</div><div class="skill-detail">Damage: 60 × 46 hits<br>Skill Energy Required: 23,400<br>Skill Energy Required (Shared Skill): 5,616<br>Special Effects:<br>・Dispels Buffs<br><br><color=#00008B>Perfect Escort = 1 Stack(s):</color><br>Damage: 60 × 58 hits<br>Skill Energy Required: 23,400<br>Special Effects:<br>・Dispels Buffs<br><br><color=#00008B>Perfect Escort = 2 Stack(s):</color><br>Damage: 60 × 66 hits<br>Skill Energy Required: 23,400<br>Special Effects:<br>・Dispels Buffs<br><br><color=#00008B>Perfect Escort = 3 Stack(s):</color><br>Damage: 60 × 37 hits<br>Damage: 130 × 37 hits<br>Skill Energy Required: 23,400<br>Special Effects:<br>・Dispels Buffs<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/756879fc2f94c1df98ecd39bf3dd90ae2.png"></span>
+				<span>HP +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases HP by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Water) Above 10 Hits = Strength +13%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water:<br>increases their strength by 13% when<br>the combo count is 10 or higher.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/6ddcc8f713334a535e381df622386dc92.png"></span><span>Perfection Embodied III</span></dt><dd><div>Buffs the user's standard attacks, force strikes,<br>and the "Perfect Order" skill based on the<br>number of Perfect Escort stacks they have<br>and increases the user's attack rate by 5%<br>for each stack. In addition, they will be immune<br>to knockback, and all elementally-attuned<br>damage they take will be reduced by 10% as<br>long as they have at least one stack.<br><br>Also, using Beck and Call will grant the user a<br>defense amp with a maximum team amp level<br>of two. After this amp is granted, this ability will<br>not grant it again for 30 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f9540aa3b892c485f82bfd1ef78b1b72.png"></span><span>Potent Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.<br>When the user is hit by an attack that would have<br>stunned them, their strength is increased by 15%<br>for 10 seconds. After activating, this buff will not<br>activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>Skill Damage +35%</span></dt><dd><div>Increases attack skill damage by 35%.</div></dd></dl></div></div></div><div><br></div><div>Notes:</div><div>1. The stats shown here represent the adventurer at level 100 with 70 mana nodes unbound.</div><div>2. The stats shown here do not include increases or decreases due to abilities.</div><div>3. The stats for the adventurer included in this notification shown in any prior notifications or preview videos were the stats at level 80 with 50 mana nodes unbound.</div><div>4. When an adventurer&#39;s skill level increases, the skill gauge will fill more slowly when set as a shared skill.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>,start_time:1641276000,update_time1640663092

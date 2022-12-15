@@ -1,0 +1,8 @@
+article_id:415
+category_name:News
+title_name:Limited-Time Upgrade Pack and Limited-Time Champion's Pack Incoming!
+image_path:
+
+message:<div>The Limited-Time Upgrade Pack and Limited-Time Champion&#39;s Pack will be available for a limited time in the Shop starting after the maintenance starting at <span class="local_date" data-local_date="1556247600"></span>.</div><div><br></div><div>■Availability Period</div><div><span class="local_date" data-local_date="1556258400"></span> to <span class="local_date" data-local_date="1557813599"></span></div><div><br></div><div>The Limited-Time Upgrade Pack contains diamantium and items to assist with upgrading adventurers, weapons, wyrmprints, and dragons.</div><div><br></div><div>The Limited-Time Champion&#39;s Pack contains diamantium and items to assist with upgrading adventurers and unlocking mana nodes.</div><div><br></div><div>For pricing and other information, see the notification when the packs become available, or tap Shop on the home page, then check Value Packs.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1556172000; update_time1555911797

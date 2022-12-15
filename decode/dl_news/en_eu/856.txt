@@ -1,0 +1,8 @@
+article_id:856
+category_name:News
+title_name:Dragalia Life #168, Now Available!
+image_path:
+
+message:<div>Issue #168 of the comic strip Dragalia Life is now available!</div><div>Follow the steps below to read it.</div><div><br></div><div>In-Game: Tap the More icon at the bottom of the screen, then tap Comic Strip Dragalia Life to view it.</div><div><br></div><div>Official Website: Select the Dragalia Life banner on the main page of the official website.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1572933600; update_time1572255028

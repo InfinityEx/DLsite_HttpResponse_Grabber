@@ -1,0 +1,8 @@
+article_id:2497
+category_name:News
+title_name:Regarding an Issue with Text Display on iOS 15 [Update]
+image_path:
+
+message:<div><span style="color: rgb(41, 105, 176);"><strong>[Addendum <span class="local_date" data-local_date="1632217500"></span>]</strong></span><br><br>This issue was addressed around <span class="local_date" data-local_date="1632217500"></span>.<br><br>Thank you for your patience and understanding.</div><div><br></div><hr><div>We have confirmed an issue with devices running iOS 15 that may cause text on certain screens in-game, including the User Agreement and notifications, to appear smaller than intended.</div><div><br></div><div>Any further updates regarding this issue will be posted to this notice.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1632190500; update_time1632217513

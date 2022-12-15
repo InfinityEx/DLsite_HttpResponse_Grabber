@@ -1,0 +1,74 @@
+article_id:921
+category_name:News
+title_name:Wyrmprints Added to the Wyrmprint Treasure Trade Lineup for a Limited Time!
+image_path:
+
+message:<div>Wyrmprints were added to the wyrmprint Treasure Trade lineup for a limited time starting <span class="local_date" data-local_date="1576130400"></span>.</div><div><br></div><div>You can trade for the newly added wyrmprints from the Featured tab or from the various rarity tabs in the Treasure Trade for wyrmprints.</div><div><br></div><div>New wyrmprints:</div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/dbbf65263ab738134f0e9fff2a03897b2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">Spirit of the Season</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>Full HP = Strength +15%&nbsp;(Max 20%)</span></dt><dd><div>Increases strength by 15% when HP is full.&nbsp;(Max 20%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/28cbbe44c3b9fd009706ad48a7e4e0f52.png"></span><span>Paralyzed Punisher +20%&nbsp;(Max 25%)</span></dt><dd><div>Increases damage to paralyzed enemies by 20%.&nbsp;(Max 25%)</div></dd><dt class="event 20813"><span><img src="https://dragalialost.akamaized.net/attached/information/images/8039b5cf8a9bb7837a3a4ed563da0d4c2.png"></span><span>Holiday Cheer +150%&nbsp;(Max 150%)</span></dt><dd class="event 20813"><div>Increases Holiday Cheer intake for clearing quests<br>by 150%.&nbsp;(Max 150%)</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/fa4774747b8fa5ee2e8ccc38d935e8262.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">A Wish Upon the Yuletree</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span><span>HP 70% = Defense +13%&nbsp;(Max 20%)</span></dt><dd><div>Increases defense by 13% when HP is 70% or above.&nbsp;(Max 20%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span><span>Healing Doublebuff Ⅲ&nbsp;(Max III)</span></dt><dd><div>Grants an HP regen buff for 20 seconds each<br>time a defense up buff is received.&nbsp;(Max III)</div></dd><dt class="event 20813"><span><img src="https://dragalialost.akamaized.net/attached/information/images/8039b5cf8a9bb7837a3a4ed563da0d4c2.png"></span><span>Holiday Cheer +150%&nbsp;(Max 150%)</span></dt><dd class="event 20813"><div>Increases Holiday Cheer intake for clearing quests<br>by 150%.&nbsp;(Max 150%)</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/283c538657e46268bf9e7873b89ddf4b2.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">The Prince of Dragonyule</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>Critical Damage +20%&nbsp;(Max 25%)</span></dt><dd><div>Adds 20% to the modifier applied to critical damage.&nbsp;(Max 25%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/25ef50e0a0cfce84d2ec98ed78c188702.png"></span><span>(Water) Flurry Devastation +12%&nbsp;(Max 15%)</span></dt><dd><div>If the user is attuned to Water:<br>increases critical rate by 12% when<br>the combo count is 15 or higher.&nbsp;(Max 15%)</div></dd><dt class="event 20813"><span><img src="https://dragalialost.akamaized.net/attached/information/images/8039b5cf8a9bb7837a3a4ed563da0d4c2.png"></span><span>Holiday Cheer +150%&nbsp;(Max 150%)</span></dt><dd class="event 20813"><div>Increases Holiday Cheer intake for clearing quests<br>by 150%.&nbsp;(Max 150%)</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/7768ea742b1918cb584adfd4cbabb4422.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">Glittering Dragonyule</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/2eacc0ecdcae8474365161935d0e38232.png"></span><span>Flame Res +10%&nbsp;(Max 15%)</span></dt><dd><div>Reduces flame damage taken by 10%.&nbsp;(Max 15%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/a9a2062688b0dab674737420e3f389b72.png"></span><span>Critical Damage +13%&nbsp;(Max 25%)</span></dt><dd><div>Adds 13% to the modifier applied to critical damage.&nbsp;(Max 25%)</div></dd><dt class="event 20813"><span><img src="https://dragalialost.akamaized.net/attached/information/images/71ca6f198687c952036797855e36daa92.png"></span><span>Astral Ornament +75%&nbsp;(Max 75%)</span></dt><dd class="event 20813"><div>Increases astral ornament intake for clearing quests<br>by 75%.&nbsp;(Max 75%)</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/b3fde8cbfc2be75addf35eb60ad117262.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/47fba4e88c847aedf042d16dec0b31542.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">Saintly Delivery</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>Stun Res +50%&nbsp;(Max 100%)</span></dt><dd><div>Reduces susceptibility to stun by 50%.&nbsp;(Max 100%)</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>Skill Damage +20%&nbsp;(Max 40%)</span></dt><dd><div>Increases attack skill damage by 20%.&nbsp;(Max 40%)</div></dd><dt class="event 20813"><span><img src="https://dragalialost.akamaized.net/attached/information/images/71ca6f198687c952036797855e36daa92.png"></span><span>Astral Ornament +75%&nbsp;(Max 75%)</span></dt><dd class="event 20813"><div>Increases astral ornament intake for clearing quests<br>by 75%.&nbsp;(Max 75%)</div></dd></dl></div></div></div><div><div class="summonPickUp">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/b658654c62c46f22897152c204bb6c772.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/8882a1e2cd557667e16b4245e73d8a6f2.png">
+	</div>
+	<div class="discription">
+		<div class="charaName">Roast Feast</div></div>
+</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span><span>Recovery Potency +8%&nbsp;(Max 20%)</span></dt><dd><div>Increases the potency of recovery skills by 8%.&nbsp;(Max 20%)</div></dd><dt class="event 20813"><span><img src="https://dragalialost.akamaized.net/attached/information/images/71ca6f198687c952036797855e36daa92.png"></span><span>Astral Ornament +75%&nbsp;(Max 75%)</span></dt><dd class="event 20813"><div>Increases astral ornament intake for clearing quests<br>by 75%.&nbsp;(Max 75%)</div></dd></dl></div></div></div><div><br></div><div>Note: The stats shown here represent the wyrmprints when fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Featured period:</div><div><span class="local_date" data-local_date="1576130400"></span> to <span class="local_date" data-local_date="1577339999"></span></div><div><br></div><div><span style="color: rgb(226, 80, 65);"><strong>Note: You will not be able to trade for these limited-time wyrmprints after the featured period is over.</strong></span></div><div><br></div><div>Notes:</div><div>1. Featured wyrmprints may become available again in the future.</div><div>2. For other information aside from this notification, see the Wyrmprints section in the Shop.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1576130400; update_time1575881017

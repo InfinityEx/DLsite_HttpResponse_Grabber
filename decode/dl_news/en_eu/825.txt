@@ -1,0 +1,8 @@
+article_id:825
+category_name:News
+title_name:Regarding Adjustments to Certain Dragons' Abilities
+image_path:
+
+message:<div>The abilities of certain dragons will be adjusted around <span class="local_date" data-local_date="1572501600"></span>.</div><div>See below for details.</div><div><br></div><div>■Dragons and Adjustments</div><div>・Nyarlathotep</div><div>Before</div><div>Before Unbinding: (Shadow) HP 30% = Strength +35%, (Shadow) Last Bulwark I</div><div>Fully Unbound: (Shadow) HP 30% = Strength +50%, (Shadow) Last Bulwark II</div><div>After</div><div>Before Unbinding: (Shadow) HP 30% = Strength +35%, Moonlit Howl I</div><div>Fully Unbound: (Shadow) HP 30% = Strength +50%, Moonlit Howl II</div><div><br></div><div>Ability Details</div><div>Moonlit Howl I: If the user is attuned to Shadow: grants the user the &quot;Bloody Tongue&quot; effect for 20 seconds when HP drops to 30%. This effect grants the user a one-use shield that nullifies damage less than 50% of their maximum HP, and increases their strength by 20%. These effects do not stack, and are lost upon taking damage.</div><div><br>Moonlit Howl II: If the user is attuned to Shadow: grants the user the &quot;Bloody Tongue&quot; effect for 20 seconds when HP drops to 30%. This effect grants the user a one-use shield that nullifies damage less than 60% of their maximum HP, and increases their strength by 30%. These effects do not stack, and are lost upon taking damage.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1571896800; update_time1571895736

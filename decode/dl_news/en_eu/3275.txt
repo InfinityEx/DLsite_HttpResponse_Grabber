@@ -1,0 +1,293 @@
+article_id:3275
+category_name:News
+title_name:A Platinum Showcase Deluxe Is Coming Soon!
+image_path:
+
+message:<div>A Platinum Showcase Deluxe starts on <span class="local_date" data-local_date="1661752800"></span>!</div><div><br></div><div><span style="color: rgb(226, 80, 65);">Please note that this summon showcase does not include dragons. It also does not include Gala adventurers that may appear in the Gala Dragalia that will be live at the same time as this summon showcase.</span></div><div><br></div><div>The Platinum Showcase Deluxe is a limited summon showcase that works similarly to a tenfold summon in that one summon will get you 10 results. The difference between a regular tenfold summon and this Platinum Showcase Deluxe is that a 5★ adventurer is guaranteed to appear as your tenth summon. <span style="color: rgb(226, 80, 65);">Additionally, unlike a regular Platinum Showcase, the Platinum Showcase Deluxe allows you to exclude adventurers that are already in your roster.</span></div><div><br></div><div>Tap the Tenfold Summon button for the Platinum Showcase Deluxe to display the Platinum Showcase Deluxe Lineup Selection pop-up. From this pop-up, adventurers added to your encyclopedia in Notte&#39;s Notes can be excluded from the lineup of adventurers that may appear as your tenth summon. <span style="color: rgb(226, 80, 65);">(5★ adventurers not yet in your roster cannot be excluded from this lineup.)</span></div><div><br></div><div>During the availability period, players are limited to doing the Platinum Showcase Deluxe summon two times, and these summons can only be performed with diamantium (purchase required).</div><div><br></div><div>Availability period for the Platinum Showcase Deluxe:</div><div><span class="local_date" data-local_date="1661752800"></span> to <span class="local_date" data-local_date="1662098399"></span></div><div><br></div><div>Get a closer look at some of the 5★ adventurers eligible to appear as the guaranteed 5★ summon below.</div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/aa28cb8ae0db49821c0731a6451aa886.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/1fc4080420e16a67744809f28590c98b2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>807</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>468</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,515</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A bright and cheerful woman who runs a shop in<br>South Grastaea. She earnestly serves any<br>customer who comes her way, but is merciless<br>when it comes to shoplifters or those who make<br>unreasonable demands.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/febed52c0bbb22852312ef8a69f450cb2.png"></span>
+				<span>Pop-up Shop</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Restores HP to all teammates. This recovery is<br>increased to ten times its normal potency for<br>teammates who are at 30% of their maximum HP<br>or less. Then, gradually recovers the entire team's<br>HP.<br><br>In addition, activates the following cumulative<br>effects based on the number of charges the<br>shopkeeper gauge has.<br><br>One or more: This skill's recovery potency is<br>increased.<br>Two or more: Removes all afflictions from the<br>entire team.<br>Three: Grants the entire team a team strength amp.</div><div class="skill-detail"><color=#00008B>Shopkeeper Gauge = 0 Charge(s):</color><br>Recovery Potency: 10<br>Skill Energy Required: 5,916<br>Skill Energy Required (Shared Skill): 9,169<br>Special Effects:<br>・HP Regen<br>　　Lasts 40 seconds<br>　　Triggers every 2.9 seconds<br>　　Potency: 25<br><br><color=#00008B>Shopkeeper Gauge = 1 Charge(s):</color><br>Recovery Potency: 21<br>Special Effects:<br>・HP Regen<br>　　Lasts 40 seconds<br>　　Triggers every 2.9 seconds<br>　　Potency: 25<br><br><color=#00008B>Shopkeeper Gauge = 2 Charge(s):</color><br>Recovery Potency: 21<br>Special Effects:<br>・HP Regen<br>　　Lasts 40 seconds<br>　　Triggers every 2.9 seconds<br>　　Potency: 25<br>・Affliction Recovery (All Afflictions)<br><br><color=#00008B>Shopkeeper Gauge = 3 Charge(s):</color><br>Recovery Potency: 21<br>Special Effects:<br>・HP Regen<br>　　Lasts 40 seconds<br>　　Triggers every 2.9 seconds<br>　　Potency: 25<br>・Affliction Recovery (All Afflictions)<br>Team Amps:<br>・Strength Amp (MAX Lv. = 1)</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/275a89229a56fc552cb6eaa8508951262.png"></span>
+				<span>Everything Must Go!</span>
+			</dt>
+			<dd><div>This skill can only be used when the<br>shopkeeper gauge is completely filled.<br><br>Completely consumes the shopkeeper gauge,<br>revives any incapacitated teammates, and<br>completely restores their HP. Also, restores HP<br>to all teammates and removes all afflictions<br>from the entire team.<br><br>Furthermore, partially fills the skill gauges of all<br>teammates, excluding the user and dragons.<br>During this skill, the user will be immune to<br>knockback.</div><div class="skill-detail">Recovery Potency: 300<br>Skill Energy Required: 8,352<br>Special Effects:<br>・Revival<br>・Recovered from Afflictions<br>・Skill Prep<br>　　Potency: 100%</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>Recovery Potency +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the potency of recovery skills by 20%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span>
+				<span>(Wind) Team Strength Amp = HP Regen V</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Wind:<br>gradually recovers their HP when they<br>have a team strength amp.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/cabfd8229c6af11c5b1f4e6ea9115ed42.png"></span><span>Sharp Shopkeeping II</span></dt><dd><div>Grants the user a shopkeeper gauge that has<br>three charges and is completely filled at the<br>start of quests. The shopkeeper gauge is filled<br>by using Pop-up Shop.<br><br>Also, grants the user a unique force strike that<br>deals damage to the target and nearby enemies.<br>When the shopkeeper gauge has one or more<br>charges, this force strike will also dispel enemy<br>buffs.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/42aad01fa9cb510052712a9ef6882f4b2.png"></span><span>Freeze Res +100%</span></dt><dd><div>Reduces susceptibility to freezing by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/77e6a5d022e8d9cc368641382287ea682.png"></span><span>Ceaseless Sales II</span></dt><dd><div>Grants Pop-up Shop a skill gauge attached<br>to its skill button.<br><br>When the shopkeeper gauge has one or more<br>charges, Pop-up Shop can be used even if its<br>skill gauge is not filled. Using Pop-up Shop in<br>this way will consume one charge of the<br>shopkeeper gauge.<br><br>Also, consuming one or more charges of the<br>shopkeeper gauge will grant the entire team<br>a team strength amp with a maximum team amp<br>level of one. After this amp is granted, this ability<br>will not grant it again for 45 seconds.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/c8d12a7d164240fd71fe6a29e7f48f27.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>747</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>515</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,502</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The fourth scion of Alberia, and a man renowned<br>for his military and leadership prowess. Though<br>he generally keeps to himself, his love for his<br>country and people speaks volumes. After serving<br>the empire for a time, he now works with the<br>Halidom in order to save the world.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dd866680ac298f733f360d10f435a23d2.png"></span>
+				<span>Royal Blitz</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>5</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead<br>and inflicts paralysis and flashburn.</div><div class="skill-detail">Damage: 500 × 4 hits<br>Damage: 600 × 1 hit<br>Skill Energy Required: 3,849<br>Skill Energy Required (Shared Skill): 11,461<br>Special Effects:<br>・Paralysis<br>　　Lasts 13 seconds<br>　　Triggers every 3.9 seconds<br>　　Damage: 97<br>・Flashburn<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 41.6<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/81cf3f993b5bd3954266b8f69dffe5392.png"></span>
+				<span>Lightning Rampage</span>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead<br>and dispels one buff from each target.</div><div class="skill-detail">Damage: 600 × 3 hits<br>Damage: 1,700 × 1 hit<br>Skill Energy Required: 6,296<br>Special Effects:<br>・Dispels Buffs<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>Defense +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases defense by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span>
+				<span>(Light) Team Defense Amp = HP Regen V</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Light:<br>gradually recovers their HP when they<br>have a team defense amp.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/ba285b9620ca098f55337e3c8cdbea182.png"></span><span>Stalwart Warrior II</span></dt><dd><div>When shapeshifting, the user will transform<br>into Thor regardless of what dragon they<br>are equipped with.<br><br>Grants the user a unique force strike that<br>draws enemies toward the user.<br><br>In addition, grants the user immunity to<br>knockback for the duration of quests,<br>permanently energizes the user, and,<br>when the user takes damage, grants them<br>the "Defiant Spirit" effect for 20 seconds.<br>Curse of Nihility and afflictions will not reset<br>the user's energy level, nor will using skills.<br>During Defiant Spirit, damage dealt by the<br>user's standard attacks and their area of<br>effect are increased. After Defiant Spirit is<br>granted, this ability will not grant it again<br>for five seconds.<br><br>Also, restores 30% of damage taken during<br>skills or attacks as HP. This effect also activates<br>while charging skills or attacks and during the<br>transformation sequence when shapeshifting.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/5d2fb975c50c8d82b92b435c6ba55b762.png"></span><span>Unconstrained Fate II</span></dt><dd><div>Reduces susceptibility to poison<br>and curses by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span><span>Royal Shield II</span></dt><dd><div>When the user's HP drops to 70%,<br>grants the entire team a team defense amp<br>with a maximum team amp level of two<br>and a one-use divergent shield that nullifies<br>damage up to 40% of the user's maximum HP.<br>This shield can stack with ordinary shields.<br>After activating, this ability will not activate<br>again for 30 seconds.</div></dd></dl></div></div></div><div><br></div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/252380c83bcad93cfd7d9a8ab084ec36.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/1fc4080420e16a67744809f28590c98b2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>809</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>467</span>
+					</li>
+				</ul>
+			</div>
+            <div class="lower-area">
+                <div class="total">
+                    <span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+                    <span>2,516</span>
+                </div>
+            </div>
+        </div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>The leader of the dragons known as the Five<br>Archangels. She values efficiency and is adept<br>at using information, and can also contact the<br>other Archangels directly. She is the partner<br>of the apostles' commander, Regina.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a71db1032873375d560b5ff8f8b83b682.png"></span>
+				<span>Angelic Praise</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Consumes one level of the user's skill reservoir,<br>restores HP to all teammates, continues<br>gradually healing over time, and activates<br>additional effects based on which of the following<br>buffs the user has:<br><br>Coordination Protocol:<br>Grants overdamage to the entire team.<br><br>Concentration Protocol:<br>Grants the user the "Rapid Analysis" effect.<br><br>If this skill is used while shapeshifted, a variant<br>called Celestial Skewer will be used instead.<br>Celestial Skewer deals damage to surrounding<br>enemies and, if the user has Rapid Analysis,<br>consumes one Rapid Analysis stack, then<br>restores HP to all teammates and immediately<br>readies this skill for use.</div><div class="skill-detail">Recovery Potency: 80<br>Skill Energy Required: 3,450<br>Skill Energy Required (Shared Skill): 15,352<br>Special Effects:<br>・HP Regen<br>　　Lasts 15 seconds<br>　　Triggers every 2.9 seconds<br>　　Potency: 20<br>・Overdamage<br>　　Lasts 30 seconds<br>　　Potency: 40% of strength<br>　　Does not stack<br>・Rapid Analysis<br>　　Stacks up to 3 times<br><br><color=#00008B>When Shapeshifted:</color><br>Damage: 1,329 × 2 hits<br>Recovery Potency: 60</div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/1d28a4afc36416204e64baab4e2e86d52.png"></span>
+				<span>Angelic Wings</span>
+			</dt>
+			<dd><div>Consumes one level of the user's skill reservoir,<br>restores HP to all teammates, and activates<br>additional effects based on which of the following<br>buffs the user has:<br><br>Coordination Protocol:<br>Removes all afflictions from the entire team<br>and increases the max HP of adventurers<br>from whom afflictions have been removed.<br><br>Concentration Protocol:<br>Partially fills the user's unique shapeshift gauge.<br><br>If this skill is used while shapeshifted, a variant<br>called Celestial Castling will be used instead.<br>Celestial Castling deals damage to surrounding<br>enemies, inflicts frostbite, and inflicts one of<br>the following: poison, burn, paralysis, stormlash,<br>flashburn, shadowblight, or scorchrend.<br>Also, if the user has Rapid Analysis, Celestial<br>Castling consumes one Rapid Analysis stack,<br>then restores HP to all teammates and<br>immediately readies this skill for use.</div><div class="skill-detail">Recovery Potency: 135<br>Skill Energy Required: 3,450<br>Special Effects:<br>・Affliction Recovery (All Afflictions)<br>・HP +30%<br>Shapeshift Energy Gained: 600<br><br><color=#00008B>When Shapeshifted:</color><br>Damage: 313 × 7 hits<br>Recovery Potency: 50<br>Special Effects:<br>・Frostbite<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br>・Poison<br>　　Lasts 15 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 43<br>・Burn<br>　　Lasts 12 seconds<br>　　Triggers every 3.9 seconds<br>　　Damage: 72<br>・Paralysis<br>　　Lasts 13 seconds<br>　　Triggers every 3.9 seconds<br>　　Damage: 72<br>・Stormlash<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br>・Flashburn<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br>・Shadowblight<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31<br>・Scorchrend<br>　　Lasts 21 seconds<br>　　Triggers every 2.9 seconds<br>　　Damage: 31</div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/799d30d618475a89802dad3d29b6ca252.png"></span>
+				<span>Recovery Potency +20%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the potency of recovery skills by 20%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/56d70bf4301ddd426cda4dd38363ef872.png"></span>
+				<span>(Water) Vengeful Shield V</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water:<br>grants them a one-use shield that nullifies<br>damage up to 25% of their maximum HP when<br>they are hit by an attack that inflicts an affliction.<br>After activating, this ability will not activate<br>again for 20 seconds. This shield does not stack<br>with any other shields of the same type.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/c30c52a11ae52d13521f26afd498251d2.png"></span><span>Heavenly Wings II</span></dt><dd><div>Grants the user a unique shapeshift in which<br>the user unleashes their "heavenly wings"<br>and replaces the dragon gauge with a<br>unique shapeshift gauge. Tapping the gauge<br>after it has filled to a certain threshold will allow<br>the user to shapeshift, and when shapeshifting,<br>the user will unleash their heavenly wings to<br>transform into their unique form regardless of<br>what dragon they are equipped with. By tapping<br>the gauge a second time or after the gauge has<br>been consumed, the user will return to their<br>original form. While shapeshifted, the user's<br>standard attacks will fill their unique shapeshift<br>gauge.<br><br>Also, grants the user a skill reservoir with<br>three levels. This skill reservoir is filled when<br>using standard attacks, when force strikes<br>connect with enemies, or by other conditions<br>that fill skill gauges.<br><br>In addition, at the start of quests, grants the user<br>the "Coordination Protocol" effect. If the user<br>continues to charge their force strike, the effect<br>granted to them will change every 1.5 seconds.<br>The effect will cycle between the "Coordination<br>Protocol" and "Concentration Protocol" effects.<br><br>Using the user's first or second skills, including<br>their skills while shapeshifted, will grant them a<br>defense amp with a maximum team amp level<br>of three. After this amp is granted, this ability<br>will not grant it again for 20 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/e23fa30b574bf7f565547e4d26946c1f2.png"></span><span>Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/de137cf7302f5717d1be863dbd4a45e62.png"></span><span>Combat Coordinator II</span></dt><dd><div>The user's unique shapeshift gauge is partially<br>filled when their HP is restored.<br>After activating, this ability will not activate<br>again for 10 seconds.</div></dd></dl></div></div></div><div><br></div><div>・The stats shown here do not include increases or decreases due to abilities and represent the adventurers at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div>・Some skills have different effects when used as a shared skill.</div><div><br></div><div>Notes:</div><div>1. Adventurers that can appear on your tenth summon will be based on the adventurers excluded in the Platinum Showcase Deluxe Lineup Selection pop-up. To view which adventurers can be summoned on your tenth summon, tap Appearance Rates from the Summon Confirmation pop-up, then tap 5★ Guaranteed.</div><div>2. Adventurers listed under Normal Summons in the Appearance Rates pop-up will appear in the first nine summons of each Tenfold Summon, regardless of whether they have been added to your encyclopedia.</div><div>3. Wyrmsigils cannot be earned from summoning on a Platinum Showcase Deluxe.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1661666400; update_time1648641517

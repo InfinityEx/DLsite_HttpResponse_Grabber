@@ -1,0 +1,156 @@
+article_id:1226
+category_name:News
+title_name:Announcing the Next Summon Showcase!
+image_path:
+
+message:<div>The next Summon Showcase kicks off <span class="local_date" data-local_date="1586757600"></span>!</div><div><br></div><div>Appearance rates for featured adventurers and dragons will be boosted during this showcase!</div><div><br></div><div>Availability period for featured summons:</div><div><span class="local_date" data-local_date="1586757600"></span> to <span class="local_date" data-local_date="1587362340"></span></div><div><br></div><div>Get a closer look at some of the newly featured adventurers and dragons below.</div><div><br></div><div>Featured adventurer:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/8c98906f7374a83880347caca76d446d.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>80</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>745</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>516</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>2,501</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Adventurer Details</div>
+				<div class="param">
+					<ul>
+						<li>A rokkan blacksmith passionate about her craft.<br>Inside her workshop in a human town, she plied<br>her trade alone, but her contact with the<br>blacksmith sisters and others has helped<br>her to reach new heights as a smith.</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>Smithy Spin</span>
+			</dt>
+			<dd>
+				<div>
+					Deals water damage to enemies directly ahead,<br>and inflicts frostbite. If this skill is used when<br>the user is in high power mode, a variant called<br>Hyper Smithy Spin will be used instead.<br>Hyper Smithy Spin deals water damage<br>to the target and nearby enemies,<br>and increases the damage dealt by<br>the user's next skill by 20%.
+				</div>
+			</dd>
+	
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/20cad8e4fa011f9a61e0e16c16dc42ba2.png"></span>
+				<span>Smithy Arm: Forge Mode</span>
+			</dt>
+			<dd>
+				<div>
+					Increases the entire team's strength by 15%<br>for 15 seconds, and their critical rate by 10%<br>for 15 seconds. If this skill is used when the user<br>is in high power mode, a variant called<br>Smithy Arm: Power Mode will be used instead.<br>Smithy Arm: Power Mode deals water damage<br>to the target and nearby enemies, and<br>immediately readies the Smithy Spin<br>(or Hyper Smithy Spin) skill for use.
+				</div>
+			</dd>
+	</dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/dffb0cc210e6ca60f7b0ec47d24543562.png"></span>
+				<span>Defense +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases defense by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span>
+				<span>(Water) Frostbite = User Strength +13%</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Water:<br>increases their strength by 13% for 15 seconds<br>when they successfully inflict an enemy with<br>frostbite. After activating, this ability will not<br>activate again for 10 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/45e56814cd3c293c83f5513d3dc5800b2.png"></span><span>Frostbitten Punisher +30%</span></dt><dd><div>Increases damage to frostbitten enemies by 30%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/bab649a2d7880f4756f50ead7de5e8292.png"></span><span>Burn Res +100%</span></dt><dd><div>Reduces susceptibility to burning by 100%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/318c94807552d34eb43eebac3f21952f2.png"></span><span>HP 70% = Skill Damage +35%</span></dt><dd><div>Increases attack skill damage by 35% when<br>HP is 70% or above.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here do not include increases or decreases due to abilities, and represent the adventurer at level 80 with 50 mana nodes unlocked, not the stats when first obtained.</div><div><br></div><div>Featured dragon:</div><div>
+<div class="summonPickUp">
+<div class="imageStatusWrap">
+	<div class="mainImage"><img src="https://dragalialost.akamaized.net/attached/information/images/7af26af24e2047d23b1bf448c687be09.png"></div>
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>370</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>125</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>995</span>
+			</div>
+		</div>
+			<div class="status">
+				<div class="title">Dragon Details</div>
+				<div class="param">
+					<ul>
+						<li>A dragon who loves cute, dreamy things and is<br>skilled at mending weapons. She's always at the<br>side of her little sister, Creidhne. If you give her<br>a weapon, you can be certain it will come back<br>adorable!</li>
+					</ul>
+				</div>
+			</div>
+		</div></div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/c8617d88f15afc0758a831a32f276e572.png"></span>
+				<span>Dazzling Dancefloor</span>
+			</dt>
+			<dd>
+				<div>
+					Creates a buff zone that lasts for 10 seconds and<br>gradually fills the skill gauges of adventurers inside it.
+				</div>
+			</dd>
+	</dl></div><div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/87595b7438e74e5502d8b830d6bd16832.png"></span><span>(Water) Strength +45%</span></dt><dd><div>If the user is attuned to Water: <br>increases strength by 45%.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>(Water) Skill Recharge II</span></dt><dd><div>If the user is attuned to Water: <br>fills 35% of a skill's skill gauge after using<br>that skill.</div></dd></dl></div></div></div><div><br></div><div>The stats shown here represent the dragon at maximum level, maximum bond, and fully unbound. They do not represent the stats when first obtained.</div><div><br></div><div>Notes:</div><div>1. For more information about summoning, tap Summon on the in-game footer menu, then select Showcase Info and check the Details tab.</div><div>2. For information about featured adventurers and dragons, tap Summon on the in-game footer menu, then select Appearance Rates and check the Appearance Rates section.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1586671200; update_time1586422304

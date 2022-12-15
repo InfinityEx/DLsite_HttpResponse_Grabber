@@ -1,0 +1,8 @@
+article_id:450
+category_name:News
+title_name:New Prelude Difficulty Added to High Brunhilda's Trial!
+image_path:
+
+message:<div>Greetings, adventurers!</div><div><br></div><div>We&#39;re happy to let you know that a new difficulty, Prelude, was added to High Brunhilda&#39;s Trial at <span class="local_date" data-local_date="1557813600"></span>.</div><div><br></div><div><img src="https://dragalialost.akamaized.net/attached/information/images/cfb90037496c1d0cbd726974b45a5758.png"></div><div>Use this difficulty to test your skills before challenging the Mistress of Crimson, the Inferno Clad, in her true form!</div><div><br></div><div>■You cannot obtain the epithet by clearing Prelude difficulty.</div><div>■The weekly bonus for Advanced Dragon Trials also applies to High Brunhilda&#39;s Trial: Prelude.</div><div>■Rewards differ from those for High Brunhilda&#39;s Trial.</div><div><br></div><div>Notes:</div><div>1. In order to challenge High Brunhilda&#39;s Trial: Prelude, a player&#39;s team must have 11,000 might or higher.</div><div>2. Players must have completed Brunhilda&#39;s Trial: Master to challenge High Brunhilda&#39;s Trial: Prelude.</div><div>3. Players must have completed up to Chapter 2 / 2-1 (Normal) of the campaign in order to play co-op.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1557813600; update_time1557371352

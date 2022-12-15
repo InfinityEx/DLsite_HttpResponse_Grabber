@@ -1,0 +1,8 @@
+article_id:3732
+category_name:News
+title_name:Regarding an Issue in Asura's Trial (Wind) in Trials of the Mighty [Update]
+image_path:
+
+message:<div><span style="color: rgb(44, 130, 201);">[Addendum <span class="local_date" data-local_date="1649937600"></span>]</span><br>This issue, which began on <span class="local_date" data-local_date="1649829600"></span>, has now been resolved.<br><br>Thank you for playing Dragalia Lost.</div><div><br></div><hr><div><br></div><div>We have confirmed an issue in Asura&#39;s Trial (Wind) in Trials of the Mighty, which started <span class="local_date" data-local_date="1649829600"></span>, in which Asura&#39;s Weak Points are water-attuned and the text is incorrectly displayed as Bats of Isolation.</div><div><br></div><div>We are currently investigating this issue. Any further updates will be added to this notice.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1649844000; update_time1650019022

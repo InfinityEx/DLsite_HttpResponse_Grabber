@@ -1,0 +1,99 @@
+article_id:2401
+category_name:News
+title_name:Adding the Mana Spiral to More Adventurers!
+image_path:
+
+message:<div>A sixth mana circle, the mana spiral, will be added to certain adventurer starting <span class="local_date" data-local_date="1629180000"></span>.</div><div><br></div><div>The adventurer affected this time and her stats are described below.</div><div>Note: Unlocking an eligible adventurer&#39;s mana spiral requires special materials specific to that adventurer that can be earned from the daily bonus of the Trials of the Mighty quest.</div><div><br></div><div>■Affected Adventurers</div><div>5★ Lea (flame/sword)</div><div><br></div><div>■Stats</div><div><br></div><div>・5★ adventurer</div><div>
+<div class="summonPickUp adjust">
+<div class="thumbList">
+	<div class="thumbnail">
+		<img src="https://dragalialost.akamaized.net/attached/information/images/e238d46f84c4927d8ef69a92f4f3a3612.png">
+		<img class="rarity" src="https://dragalialost.akamaized.net/attached/information/images/23b8fc2cd656aa0d5ef96984f257ce7e2.png"></div>
+	<div class="discription">
+		<div class="charaName">Lea</div></div>
+</div>
+
+	<div class="status">
+		<div class="title">Stats</div>
+		<div class="param">
+			<div class="base">
+				<ul>
+					<li class="lv">
+						<span>Lv</span>
+						<span>100</span>
+					</li><li class="type"><img src="https://dragalialost.akamaized.net/attached/information/images/5d54775020f2b8c24e8e1d445b58d2ad2.png"></li>
+					<li class="skill">
+						<span>10</span>
+					</li>
+				</ul>
+			</div>
+			<div class="base under">
+				<ul>
+					<li class="hp">
+						<span>HP</span>
+						<span>904</span>
+					</li>
+					<li class="atk">
+						<span>Strength</span>
+						<span>605</span>
+					</li>
+				</ul>
+			</div>
+			<div class="total">
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/a8a2cd128481266e95fd4fbbbac90fbd2.png" alt=""></span>
+				<span>3,209</span>
+			</div>
+		</div>
+	</div><div class="skill explanation">
+	<div class="title">Skills</div>
+	<dl><dt class="skill-cost-wrap"
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/920923e69aae379e2a99edc5a25385712.png"></span>
+				<span>Road to Glory</span>
+				<div class="skill-cost">
+					<span>Shareable</span>
+					<div class="txt-num">
+						<span>6</span>
+					</div>
+				</div>
+			</dt>
+			<dd><div>Deals damage to enemies directly ahead,<br>dispels one buff from each target, and inflicts burn.<br>Burning foes take extra damage.</div><div class="skill-detail">Damage: 330 × 5 hits<br>Skill Energy Required: 2,325<br>Skill Energy Required (Shared Skill): 13,601<br>Special Effects:<br>・Dispels Buffs<br>・Burn<br>　　Lasts 12 seconds<br>　　Triggers every 3.9 seconds<br>　　Damage: 97<br>Damage Modifier:<br>・150% against burning enemies<br></div></dd><dt
+				>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/5ef2817471c49d7609bc504a5b8841db2.png"></span>
+				<span>Floral Revolution</span>
+			</dt>
+			<dd><div>Summons "Crimson Garden," then deals damage<br>to enemies directly ahead. Additional bonus damage<br>will be dealt relative to the damage taken while<br>Crimson Garden is active. If the user's HP is above<br>60% of max HP when using this skill, they will take<br>damage equal to 20% of their maximum HP.</div><div class="skill-detail">Damage: 820 × 2 hits<br>Skill Energy Required: 4,730<br>Counterattack Damage: 1,100% of damage taken<br></div></dd></dl></div>
+	<div class="exAbility explanation">
+		<div class="title">Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/af68964937fa01084c3d0747e6c77dda2.png"></span>
+				<span>Dragon Haste +15%</span>
+			</dt>
+			<dd>
+				<div>
+					Increases dragon gauge fill rate by 15%.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+
+	<div class="exAbility explanation">
+		<div class="title">Chain Co-ability</div>
+		<dl>
+			<dt>
+				<span><img src="https://dragalialost.akamaized.net/attached/information/images/368330649dd4e9c07abc8582ae510ece2.png"></span>
+				<span>(Flame) HP Below 60% = HP Regen VI</span>
+			</dt>
+			<dd>
+				<div>
+					If a team member is attuned to Flame: <br>grants them an HP regen buff for 20 seconds<br>when their HP drops to 60%. After activating,<br>this ability will not activate again for 30 seconds.<br>Benefits your whole team.
+				</div>
+			</dd>
+		</dl>
+	</div>
+<div class="ability explanation">
+	<div class="title">Abilities</div>
+	<dl><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/fd589517c61c65312e1509e13a36cd412.png"></span><span>Crimson Oath</span></dt><dd><div>Increases damage to scorchrent enemies<br>by 15% and force strike damage by 50%.<br><br>Using Road to Glory grants the user the<br>"Crimson Glory" effect and a strength amp<br>with a maximum team amp level of two.<br>After this amp is granted, this ability<br>will not grant it again for 30 seconds.<br><br>When Crimson Glory is active, the user's<br>next force strike will deal additional damage<br>and inflict scorchrend.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/9f9540aa3b892c485f82bfd1ef78b1b72.png"></span><span>Potent Stun Res +100%</span></dt><dd><div>Reduces susceptibility to stun by 100%.<br>When the user is hit by an attack that would have<br>stunned them, their strength is increased by 15%<br>for 10 seconds. After activating, this buff will not<br>activate again for 15 seconds.</div></dd><dt><span><img src="https://dragalialost.akamaized.net/attached/information/images/b2f1d14494e80343f38734ca9a2b72842.png"></span><span>Striking Haste +15%</span></dt><dd><div>Increases skill gauge fill rate by 15%<br>when the user's force strikes connect.</div></dd></dl></div></div></div><div><br></div><div>Notes:</div><div>1. The stats shown here represent the adventurer at level 100 with 70 mana nodes unbound.</div><div>2. The stats shown here do not include increases or decreases due to abilities.</div><div>3. The stats for the adventurer included in this notification shown in any prior notifications or preview videos were the stats at level 80 with 50 mana nodes unbound.</div><div>4. When an adventurer&#39;s skill level increases, the skill gauge will fill more slowly when set as a shared skill.</div><div><br></div><div>Thank you for playing Dragalia Lost.</div>
+
+start_time:1629093600; update_time1628743763
