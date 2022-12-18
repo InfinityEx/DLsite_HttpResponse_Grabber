@@ -1,0 +1,140 @@
+id:115  episode_num:20
+title:乌尔嘉、王子、肉干
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/be2cee65bb0ff39b8fbc85633fb6dc72.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/961ff611c80b97dc151d23b33ce54c19.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/13d1bea276782bbdaff546fd55fc86e6.png
+
+id:111  episode_num:19
+title:伊露缇米娅很坦率？
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/63ddd7d8652108b45b55ca58b6ccbdf7.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/2c3ff6b154b9c48bbd464f1f172034b1.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/bc4a10c022415cdbd1d0045736991c53.png
+
+id:107  episode_num:18
+title:恶作剧要适可而止
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/460b92dcedc04373582d49fb287b5b1a.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/9ede2951a3e7847dddef347ce8a5116f.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/c53e387c73befe288f19822bd859eabc.png
+
+id:103  episode_num:17
+title:艾缪尔的个人剧场
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/de138fd663e99cba93c8363d5a65d42c.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/26128d899fa852605aeaa9e612ff2ad9.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/aad7b413fd6edafd45576dbef816f6a2.png
+
+id:99  episode_num:16
+title:逞强的朱丽叶
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/68a7eafd4cec468edd6ee48fa5730238.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/d87d8f68563d6eb3a9a6c20e69048e8a.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/91cc210aeebd968fa2e364aeeab5d241.png
+
+id:95  episode_num:15
+title:寻猫的米科特
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/92caca60a72c3bab4a3ca392478fe1d6.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/eed2dda8b694ba5a85e3c0b072915087.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/75ecc02eb6022e6daf09010df33223b7.png
+
+id:91  episode_num:14
+title:训练有方的赛丽艾拉
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d161395f049443f24254d911f2d31a20.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/3b271e950e2aa6329372ac6de18ca8a7.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/0750f6085c0b0cbd57fd3a4b7b42418e.png
+
+id:85  episode_num:13
+title:最爱滑冰的奥尔森！
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/a9097d2654db3068dd152a4c89e7e106.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/fcf419980b29dad1dc0a6f0f4af62b0f.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f9203b33c0c19eea3ece01a544984acd.png
+
+id:84  episode_num:12
+title:寒冰少女莉莉
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/a3730225e10226ee32a1373a7ef24c90.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/c26ee45255a7433dbd10cd2e76e3238e.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/7d91fd26d7351325ce2a68671a656972.png
+
+id:83  episode_num:11
+title:孤身一人的奈法利耶
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/234422ed232777864be420424ad8d281.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ac82bace601db2b9ccb12c9eccd45f4c.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/102e94ee6d44958c0367937b214397a9.png
+
+id:72  episode_num:10
+title:“诚实”的卢卡
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/e60ef8e77429bfa623925838fca7f4c9.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/a3a22a4df31496786baac89e47d71329.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/1edd69b9abe4607936c6b7991e85bb08.png
+
+id:71  episode_num:9
+title:交给库菈乌吧
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/f33351f0ffdc6b5cabe51b3ba6d6876e.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/526b9207ce86d45af60a752bc8c40e5d.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/902830ca7f6253e58b02642ed0832841.png
+
+id:24  episode_num:8
+title:阿莱克西斯 想要自己的房间
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/3938f8c29571535d7376daf1dad7f910.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/10450ca57d0d3a03d2f9412066487d19.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/d64e693e45c9daae9619bfb7a9c0c542.png
+
+id:23  episode_num:7
+title:无所不能的艾赛莉特
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/a40ccf6f92c0e8b1f49e420c6d3fdc74.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/6916c28eb05b20c874a676c5b243bd2e.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/a327a5f74117e18c9f83aa48203f35c0.png
+
+id:22  episode_num:6
+title:才不烫啊！兰扎卜
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/e282188995b12d585e59f882be9e89c0.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/2651d32c0e9856263efd044cced35664.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/9829c32e04c238bee5e39a4a50254bf8.png
+
+id:21  episode_num:5
+title:埃尔菲莉丝的喜爱之物
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/c61b04725788a97cc8e245853292e05d.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/37df04fc4904a4d5fae6bad9cbd43bdc.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/5b0fb64368c07eac22eb6df4e7c26313.png
+
+id:20  episode_num:4
+title:无比温柔的巫女 塞西娅
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/30a9f9287395c2dbf77eaf4ea7ea080f.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/9ea6b393664cc7aeae25d31cfec77266.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/65725b5f10b7e6263d8bcfad7e59aad4.png
+
+id:19  episode_num:3
+title:元气满满的精灵纳姆
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/431c4a9ef7ea6cf30029c647bd5c53d3.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/43a6f1726c4a5197546e82e44f7b8357.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/2742eadbd19a147b96e3a059252477b0.png
+
+id:18  episode_num:2
+title:背负使命的王子——尤蒂尔
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/2022524aa66b0e2b23c73eab2381e6f0.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f5561a4efb50441a211d8083ef64ad6a.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/98591fbd92dac72ea2e93968daa34e2c.png
+
+id:17  episode_num:1
+title:出发！“选龙试炼”！
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/8e3668458cf92e5324d23239d0a2976c.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/e166dde0e567c9d190b81ce3827b5ae7.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/406ad1dc60ff981a666860f4275ade2c.png
+
