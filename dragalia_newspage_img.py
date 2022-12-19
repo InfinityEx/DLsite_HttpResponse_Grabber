@@ -26,7 +26,7 @@ for i in lang:
             tf_text=tf_text.strip('\n')
             temptx+=tf_text
         # print(temptx)
-        findimg=re.findall(r'<img src="(.*?)">',temptx)
+        findimg=re.findall(r'<img src="(.*?)"',temptx)
 
         for j in findimg:
             ss=j
