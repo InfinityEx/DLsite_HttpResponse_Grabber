@@ -15,7 +15,8 @@ There has three folders about the response :
 <table>
 	<tr align="center">
 		<th rowspan="2">News Items</th>
-		<th colspan="5">Languages</th>
+        <th rowspan="2">Platform</th>
+		<th colspan="6">Languages</th>
 	</tr>
 	<tr align="center">
 		<td>zh_cn</td>
@@ -25,14 +26,15 @@ There has three folders about the response :
 		<td>jp</td>
 	</tr>
     <tr align="center">
-        <td>News_Banners</td>
+        <td rowspan=2"">News_Banners</td>
+        <td>PC</td>
         <td>√</td>
         <td>√</td>
         <td colspan="2">√</td>
         <td>√</td>
     </tr>
     <tr align="center">
-        <td>NewsPage_Images</td>
+    	<td>Mobile</td>
         <td></td>
         <td></td>
         <td></td>
@@ -40,7 +42,31 @@ There has three folders about the response :
         <td></td>
     </tr>
     <tr align="center">
+        <td rowspan="2">NewsPage_Images</td>
+        <td>PC</td>
+        <td>√</td>
+        <td>√</td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+    	<td>Mobile</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+</table>
+
+
+
+
+<table>
+    <tr align="center">
 		<th rowspan="2">Comic Items</th>
+        <th rowspan="2">Platform</th>
 		<th colspan="5">Languages</th>
 	</tr>
 	<tr align="center">
@@ -51,7 +77,8 @@ There has three folders about the response :
 		<td>ja_jp</td>
 	</tr>
     <tr align="center">
-    	<td>DragaliaLife</td>
+    	<td rowspan="2">DragaliaLife</td>
+        <td>PC</td>
         <td></td>
         <td></td>
         <td></td>
@@ -59,7 +86,7 @@ There has three folders about the response :
         <td></td>
     </tr>
     <tr align="center">
-    	<td>AdventurersGuide</td>
+    	<td>Mobile</td>
         <td></td>
         <td></td>
         <td></td>
@@ -67,7 +94,33 @@ There has three folders about the response :
         <td></td>
     </tr>
     <tr align="center">
-    	<td>Plotsynopsis</td>
+    	<td rowspan="2">AdventurersGuide</td>
+        <td>PC</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+    	<td>Mobile</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+    	<td rowspan="2">Plotsynopsis</td>
+        <td>PC</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+    	<td>Mobile</td>
         <td></td>
         <td></td>
         <td></td>
@@ -76,3 +129,8 @@ There has three folders about the response :
     </tr>
 </table>
 
+
+
+**Update Infomation:**
+
+**20221221**：News 1943 has been found a mistake.(Image not found in en/en-gb/zh_tw page, wrong image in zh_cn page, Non image in jp page)
