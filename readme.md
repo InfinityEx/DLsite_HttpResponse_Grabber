@@ -46,9 +46,8 @@ There has three folders about the response :
         <td>PC</td>
         <td>√</td>
         <td>√</td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td colspan="2">√</td>
+        <td>√</td>
     </tr>
     <tr align="center">
     	<td>Mobile</td>
