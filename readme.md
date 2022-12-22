@@ -39,7 +39,7 @@ There has three folders about the response :
         <td></td>
         <td></td>
         <td></td>
-        <td></td>ja_
+        <td></td>
     </tr>
     <tr align="center">
         <td rowspan="2">NewsPage_Images</td>
@@ -61,15 +61,13 @@ There has three folders about the response :
 
 
 
-
-
 <table>
     <tr align="center">
 		<th rowspan="2">Comic Items</th>
         <th rowspan="2">Platform</th>
-		<th colspan="5">Languages</th>
+		<th colspan="5" width="100">Languages</th>
 	</tr>
-	<tr align="center" width="20">
+	<tr align="center">
 		<td>chs</td>
         <td>cht</td>
         <td>en</td>
@@ -128,6 +126,7 @@ There has three folders about the response :
         <td></td>
     </tr>
 </table>
+
 
 
 
