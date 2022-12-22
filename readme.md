@@ -23,7 +23,7 @@ There has three folders about the response :
         <td>zh_tw</td>
         <td>en-us</td>
         <td>en-eu</td>
-		<td>jp</td>
+		<td>ja_jp</td>
 	</tr>
     <tr align="center">
         <td rowspan=2"">News_Banners</td>
@@ -39,7 +39,7 @@ There has three folders about the response :
         <td></td>
         <td></td>
         <td></td>
-        <td></td>
+        <td></td>ja_
     </tr>
     <tr align="center">
         <td rowspan="2">NewsPage_Images</td>
@@ -62,18 +62,19 @@ There has three folders about the response :
 
 
 
+
 <table>
     <tr align="center">
 		<th rowspan="2">Comic Items</th>
         <th rowspan="2">Platform</th>
 		<th colspan="5">Languages</th>
 	</tr>
-	<tr align="center">
+	<tr align="center" width="20">
 		<td>chs</td>
         <td>cht</td>
         <td>en</td>
         <td>en-gb</td>
-		<td>ja_jp</td>
+		<td>jp</td>
 	</tr>
     <tr align="center">
     	<td rowspan="2">DragaliaLife</td>
@@ -127,6 +128,7 @@ There has three folders about the response :
         <td></td>
     </tr>
 </table>
+
 
 
 
