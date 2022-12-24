@@ -1,0 +1,140 @@
+id:1015  episode_num:240
+title:尤里烏斯的失算
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/285bc30a72ef0346072ed0e7b80b8028.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/a35dec8f5205e8d40697751ac0f1e207.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f141fa1a7f2733c06e781f684805f671.png
+
+id:1014  episode_num:239
+title:戀愛占卜
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/be6a0c90cfcb50a6b8e7ac15bf4c034c.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/68324f170fd8459988ed7aa41a925753.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/7e91f329a5c76111d59bf6171dabf2ac.png
+
+id:1013  episode_num:238
+title:龍果的使用方法
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/13d318eae710232157d0b048f612d29c.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/de95a35a29e4df5ff83a4d29139eaaf8.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/35a0dd17e1d93e6f217f4ccd030f6d0a.png
+
+id:1012  episode_num:237
+title:可愛的武器
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/8eb417b9c1068d84b4f0b10a2717939a.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/8e7a0cdc800ce93ddfdfcfc1dd5a1483.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f59c602a3d658ad2e8547eb5ee9a4cd5.png
+
+id:996  episode_num:236
+title:雷擊按摩再度開張
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/9f7cf0b259863856009efac5c8138548.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/8ff60177c6e251953c3388b6d0abe899.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/4fdf4acc3d63ee9fe8b2830595c05f31.png
+
+id:992  episode_num:235
+title:霍克和弗羅里戴爾
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/30f93384d1c0b5d5b5a21e366c43909c.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/0cf5f80b1d1a3c7d39650d1e17dca042.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/d2b3e9c4f8dd6355736c6de019ee19d5.png
+
+id:987  episode_num:234
+title:心神不定的夏儂
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/2b221a6eee2ec661cc3846c04cba5a89.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ec773327c0a22e865d25df9f16f85ef3.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/086d5b3ccfdf0b611eceeb64ec99a3c6.png
+
+id:983  episode_num:233
+title:允許的底線
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/daaea7d3c887252202794a778adf1f01.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/09570eacd1da22119c96b1d3b44f8b6b.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/9f88aea67ed0f0d9869aec1ffbfb30fd.png
+
+id:979  episode_num:232
+title:來觀測瑪納的混亂吧
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/2255403fedeb979498c4f9e6b34bc9d0.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/0106e730e6048f8ccf8459f998b6292c.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/c29587b4a673105a061de97a3a71cd1d.png
+
+id:974  episode_num:231
+title:格爾多的安心場所
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/78e2d9091b036c81cf3a42e6ac8361b7.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/5470ecfaaf7af5458ecb85f28d0631a0.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/eef67c1a16ab35a350e57198a54fae53.png
+
+id:970  episode_num:230
+title:有借有還
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/eb8fc4ebcdd6cd29ecb815aa3ad48b2e.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/0d7e5810d05b17f65a346e6c6be9eb0f.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/cf3ed06ea26e8551ac96475144bac65f.png
+
+id:966  episode_num:229
+title:法魯艾斯的煩惱
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/85440a3f15f748e5c7a30df96ecb4114.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ac424d041e280e9fc6458b62b3e67a6d.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/babf74d7bcff451d388faa0550c1c79e.png
+
+id:962  episode_num:228
+title:花滿開
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/e3eac7cb281eeb760908b6eb74f856ed.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/44ccb50a0a72fda9122b6970580d36d4.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/33a8c1ded4a588beebb629d053f14f20.png
+
+id:958  episode_num:227
+title:尋求救贖的葛雷絲
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/93ab726b5653609446df89044c436d63.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/c4f28f72ac5624723ef437e6165cf850.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/5f1c32b0d950c3968e34984836f66cc7.png
+
+id:954  episode_num:226
+title:阿戴爾潘因的利爪
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/c4043422938833d82f6dcc05c50ff8bf.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/95fa6cc7242d5d94eb378d4296f4d46d.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/c1b13e316fb83280e68112965a634d59.png
+
+id:946  episode_num:225
+title:最強的貝麗娜
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/6069459ceae5b9d94cbfe9aff7766259.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/cbff127308dbfb10c39344f4eec7d9bd.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/ef444aad47e6b250429dbb709b0a1c85.png
+
+id:942  episode_num:224
+title:華麗的夏儂
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/f513482339850ae81ff710b84e6d3ebc.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/d98dc38529bf7458153bb68ef09282b2.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/cc326b2199d55adf1fe616b63cd13c78.png
+
+id:938  episode_num:223
+title:毛茸茸被害者集會
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/2e7d9fb89d489603405a39e5412d3e95.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/b563b6d82549726274fcda1d976d6c20.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/2f18925cb4c31962089f2970fea3a0d3.png
+
+id:934  episode_num:222
+title:禁斷症狀
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/06393487336a9a18ecbebb188d875dc8.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/396e3959fea38c0aed163d018e9769c4.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/2876fcf9d732658dd380525a42438d9a.png
+
+id:930  episode_num:221
+title:花與單戀
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/61c91bd667e52ef489955b88474546c2.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/0b0fbe65a6d411c5fe107422f2241582.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/6793588d063386fbbbc03f1b1485f6c9.png
+

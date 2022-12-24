@@ -1,0 +1,140 @@
+id:1739  episode_num:420
+title:The New Year's Ball
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/2f5bcc5c4abb2bb0a4e0406a0eb7f87d.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/98f23ad8ea8efee4c0f3b8e9161676ca.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/2683130bca16a592a3341cffe8fd1f7f.png
+
+id:1714  episode_num:419
+title:Can We Keep Him?!
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/1c79b7d74b66b76dcffffda054a2aea8.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/87930f87e1e09a65cb2d94772736750b.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/74cf7cbd72f1fa7cce918b236a45ee4f.png
+
+id:1713  episode_num:418
+title:A Dragonyule Charm Offensive
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/b15fc030fc96d8d29e39b6e5b4602fdf.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/0568f2c38f359a6380ba1a79dabe6b6b.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/e946c19dcf73d64eb37770909344d20f.png
+
+id:1712  episode_num:417
+title:Cuteness Wins Out
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/c4a97474e1f046c08c50d62bfb40704e.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ad8967cef013f406d0f701e5979b5fd0.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/11c5b279d8becc3104d7791c68b0bce1.png
+
+id:1711  episode_num:416
+title:Dinner Hell
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/6ef7ac3cbd3f2b089891f18483b34b89.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/9ce249f3a87fbe2b417f9e0b93e23339.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/03b90d6388f3d9592521b28288ff0ad6.png
+
+id:1710  episode_num:415
+title:Shoulder Pad Fad
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/5b3bcc292b72515068337f5089e4d987.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/1a9799c389b6cf104d4a0177ef760a55.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/31355a42c04c7ff526fa5af708a851fe.png
+
+id:1709  episode_num:414
+title:Who Let the Dogs Skate?
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/69b527f6db3f60efb75d946befa29dc0.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/984153b82162243da9815714665e54c6.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f4837be3e73941dd041d40c659ef2298.png
+
+id:1708  episode_num:413
+title:The Curry-Out Window
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/c4ef4120a2414506ac6b9b9b2ce6f02b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/29dd78f6943cd57a23baf4bc6de77144.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/42e441f1d65290357d2e8a318d1fd155.png
+
+id:1707  episode_num:412
+title:Papa Bear's Got a Brand New Coat
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/78d168ffb336392f51492baebc9fe282.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/81da8676f13476dacfee208cd2063136.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/39daf8ed6755f9cf181d6054b079fcd1.png
+
+id:1682  episode_num:411
+title:Contains Spoilers for Chapter 20
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/ecbe55bd4d7f949276a1fec89b923531.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ce747e12ad9c42047e5ac8f44f5d7159.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/efac4480a416c6f6d8c573caa6da29a1.png
+
+id:1681  episode_num:410
+title:Drumming Up Enthusiasm
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/359df360ce7d81fe8f2c44506049cf89.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/38cc19b7df642813c056bc67f1fde064.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/1b2cdcc32f251538c6bbd76e740f44d1.png
+
+id:1680  episode_num:409
+title:Another Call to Order
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/7d3f6bc305f587a323e9c9794d62ee18.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/686899fee4d7e0d3806778be83b80276.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/5e7bede1cf73202f24e44c86e9ecaeac.png
+
+id:1679  episode_num:408
+title:Mission: Impurse-ible
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/8b110f7d13f8026ba3b6ca336f2cdb71.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/2c778a2eaf105462f92f583bbafb9aae.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/396d651ee7ff49a9d863f143860faaee.png
+
+id:1678  episode_num:407
+title:Postal Panic
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/f6b5c8fe52b472fc32ccfc330c5aeb6a.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/a9b2da60c13c530ca10cd28141983e5f.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/349ee934e9d8eab50119a713746f6720.png
+
+id:1677  episode_num:406
+title:A Flaming Good Time
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/bc99f5a206e18018836afd906c5f10d8.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/970fcf6a4c426c3ad28c82b96c613828.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/e8bb6cd47b385912e5c1702f9cc04f27.png
+
+id:1676  episode_num:405
+title:Laxi's Trick or Trick
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/cc9113bd074a1d17d0c6416562fe732b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/5eda47ac731cae9745fbc1265d0e3d15.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/ee31afcd3d3b38262471cc0a47d7ad9e.png
+
+id:1675  episode_num:404
+title:A Master of Disguise
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/fbc5cbb6304416c346dcff148ab6e3dd.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/22b179a1369607bdcff5c02c20c15251.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f2399a18947bfd8c1628aa5bd177a701.png
+
+id:1650  episode_num:403
+title:A Just Solution
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/5ce215e551d73ae734dd183ca8d670c4.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/26fcb1897ecee5fde445b9a1b59371e1.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/ac9119f39e7519352be9058a51fd59b8.png
+
+id:1649  episode_num:402
+title:Arrow Errors
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/95a2dbf029d8faf14198db729d78d8d1.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/007639fc490d66ad8e9d9bec8ffefda3.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/76ab20c62691fd171c6f7d707762eb3a.png
+
+id:1648  episode_num:401
+title:Sandalphon's Superfood
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/4f45118b3b1869f189cfc01150ee284e.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/7258501bd2948553ba6e440d091539c8.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/0099707f6d9b167e3726cf89a8e8f1a9.png
+

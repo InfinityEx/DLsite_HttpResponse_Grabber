@@ -1,0 +1,140 @@
+id:195  episode_num:40
+title:耶歷亞斯的興趣
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/57a582c400ba56590141772bf0fbbcd4.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/9d89009a76a79c48733c2a861d1a0363.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/b4e4ff8934ee5c2586b471df60a981d3.png
+
+id:191  episode_num:39
+title:琵雅雀和她的朋友
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/630b198600f059cd51823e564ba0400b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/713f6bc7b485d3d20152953d7f2a4a37.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/e8196a9624a71d9d00323157e325b066.png
+
+id:187  episode_num:38
+title:魏克賽爾來打蛋
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/e96f45bd6f1539f2c1c42a60887e053e.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/02a9622f5e2d4e7a5d0d95f1aec72759.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/5f553f4872433fdb7f87aa880b9c7ac8.png
+
+id:183  episode_num:37
+title:快樂歌唱的歌姬露克雷齊亞
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/0dd44bf665eae0b505db11cc245e0ed0.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f4ee187e3a0821c769a46e15808df5c5.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/bda0c1243cad1fd77ffa97c3cec59cac.png
+
+id:179  episode_num:36
+title:男人的羅曼‧貝爾薩克
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/265c92e7242569fe36dceb4c8947521c.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/6387c931dc11d25ef32417a129219f99.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/49f34e5b26ea3cf7a1256e667d10038b.png
+
+id:175  episode_num:35
+title:布倫希爾德的愛
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/a01a15b076c616d9b965aa8133c0a6cc.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/515204ad8c357f1a23b1f662f058fe17.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/a026ff4cdd8bc60923107416c307457d.png
+
+id:171  episode_num:34
+title:卡麗娜船長的秘密
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/1f2b11a5e181aa454b9bdfbbe5a6f69a.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/bfaf743ef249dc1c96ef23095aae514f.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f77c722fe0e661ee4403b7a1953cb0fe.png
+
+id:167  episode_num:33
+title:琉卡的妹妹‧西莉絲
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/60c3a20da11b025e4cebaeb1aaa1cfe6.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/084da75584b7aba984e0e835ef37077b.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/fad82e62eedd483a108e5aa14af22939.png
+
+id:164  episode_num:32
+title:名弓箭手！霍克
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/fcfb8820dbbb105ff7559be45cdbcdb9.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/5dfd86e62dc4c2074c420bf41d12c40a.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/160d686390e1e2b9f5d40f345f8b1364.png
+
+id:159  episode_num:31
+title:顫抖的路恩
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/e38ac48d0f6c327e7a64e539527975b4.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/d75b188b0466cf6b142e04164fe3384c.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/7d187b718fdfb04ecffe73eb1980475f.png
+
+id:155  episode_num:30
+title:路易潔與姊弟的回憶
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/eeb2d7a3dda6e92d943609280623451b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/622b31895cb63546b4fadf1ef36f0882.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/deb5b4f1d305bf4ca42666e5efcaf7c7.png
+
+id:151  episode_num:29
+title:被愚弄的赫德嘉
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/227f7d2a238f45fbb773abed7a680397.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/d13afbcb647acde7307b3dcd8ffb41c7.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/7d97ec993ee6907cb1729c456663cf64.png
+
+id:147  episode_num:28
+title:龍之守護者塞因福蘭德
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/f1ec4f0b6653e02bad42b01e07e11cb4.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/8f00230948f876c60999032200daea41.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/3d41ff3991be8eb481e0a2a8dd30015d.png
+
+id:143  episode_num:27
+title:梅莉貝爾的突擊！
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/5967ed70d9e79fdc6ad4e638a5d9c2c8.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/d680fabca91df03ac67aad7afe439843.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/d2be1348b19f46de5adf860e71e614a0.png
+
+id:139  episode_num:26
+title:記憶力驚人的梅兒莎
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/83f2f5f1df333e5eac219650694ef52b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/4560984d687a292cc2e1e4142e83ea00.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/35b84b48342c64a012ba9d425f152362.png
+
+id:136  episode_num:25
+title:爆炎筱婭
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/69c17f433df098b998d4925f530ff30e.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/3ccf44d4bc06b75d213e8d43c58315f5.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/29ba01997a07a3614671ec26819f4637.png
+
+id:132  episode_num:24
+title:高級男子納杰夫
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/53874942c0df249ca6418102e6947dd5.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/07bb8602eed68bc86eab18f493f605b2.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/d9614781767a0e3b294dcf7d272255ed.png
+
+id:128  episode_num:23
+title:李弗很擔心
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/8ea229f12b1a777c89cb86d8c73d7481.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/4cef29c742d033833c2dad9a2bf1599c.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f68dc70c49992427b9882a0319653856.png
+
+id:124  episode_num:22
+title:天音大人的證據
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/859db805c8e9d2f0731780d819eb13ab.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/b4d5e1b7ef8580c484c766b5719f0f75.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/3780ef9e519464fa395d03bb962cd8a9.png
+
+id:120  episode_num:21
+title:哈魯的魔術秀
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/77da27029d6a2e631e9bcb49210fdc61.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/a3164cfe7bf97e8506789872d1ea9a39.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/d75810932d33d1a0ef5f2ff9ba948fbc.png
+

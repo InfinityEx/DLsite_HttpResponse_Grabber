@@ -1,0 +1,140 @@
+id:518  episode_num:120
+title:Yaten the Festival Planner
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d2ba042275707b6c5d7ff5cb0ba578ca.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/a244fcc4cce234a16a2d943afe21a1c6.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/187e9d79fc051351e4f419bc2dcb2225.png
+
+id:514  episode_num:119
+title:A Sleepless Night
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/cf497989d318030a1ec088787e9d3a90.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/7fc8b8128039df7e683c2c71112a8ed4.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/a3b589a586023fa2c3ef760973d8dc22.png
+
+id:510  episode_num:118
+title:Purity and the Merchant
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/645cb2b1a136eafc03312c948001d605.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/de9fd224f6e0ce326698ed01f790dc40.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/d1c8e4ce36590f09a5fa45810bf60109.png
+
+id:506  episode_num:117
+title:Bridal Basics
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/75b53462ce7fb9ef5c9b22a85b45c945.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/b1b86b6cfe1fefb2690fdb21716e8a22.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/ffd0cd731e28489ed1fde047cdc37a2a.png
+
+id:502  episode_num:116
+title:The Newlywed Ninja
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/5ddf0213683c9ee93c45c2e978071b29.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ce750dd6499180e024b1747712d6e8b6.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/c5332c2de60e12070c1a39804b72b55d.png
+
+id:498  episode_num:115
+title:Elisanne the Bride
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/fea1061d9deb66310b71bd2ae3cece2c.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f00faaf125414a2d8fa2a5f1b28c89bd.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/50164143187846127015d216ae24f505.png
+
+id:494  episode_num:114
+title:Puddle-Loving Vodyanoy
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/879da87eda03da79179366a569274492.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/216c2040597cfc517a36676130106e93.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/faad4f69a966a4b277e7f67184229408.png
+
+id:490  episode_num:113
+title:In Search of a Knife
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/116747d8f8db1eeddf5f02f7fa5ebedb.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/4e900dee2e14edb2b4909227cd9fdead.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/dc165005a144624a480190362c6f62e3.png
+
+id:486  episode_num:112
+title:The Legendary Knife
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/1a007910fe2be541c9378faf4d539724.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f88a0d39e5e1b3536d658fb4867ae35d.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f3b75b8b9a28d8f5e652f76771a1a21c.png
+
+id:482  episode_num:111
+title:Xuan Zang the Teacher
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/a9cb203f8e79805530b956d9f2d18f73.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/69ce7c43aecdcde3d7bf13a192acc309.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/68c21049d557d664c1c0400c290b2986.png
+
+id:478  episode_num:110
+title:Serena the Easily Fooled
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/4fb3a20500cdbc1c72fe1f5d51eae572.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/35f462f7855b708bd2f3e6614a25796f.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/82adc6601254de0f4c8b30855d758f7b.png
+
+id:474  episode_num:109
+title:Life as a Nurse
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/8e714e87f9b7e6fc522ac11a0b7cce1d.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ed7525110864a4b0ca6b1b43d178ac0d.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/cfce8b01c750d9a25237c4bb7a5f2f9e.png
+
+id:470  episode_num:108
+title:Maribelle's First Day
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/6920132a986c8d553cd53df548fdcabc.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/91ed6af07f8e23f05b78bc7d3f0b49fe.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/4f975a4947791a32810c909e12a40022.png
+
+id:466  episode_num:107
+title:Knight Necessities
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/c39024eda96aa5d550b07ea340f3b079.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f91c747e7164d560569a765d633ae7ec.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/e3d43ee58a173145ba7d2a1580fef34e.png
+
+id:462  episode_num:106
+title:Mym the Warrior
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/4f060d1e2461b8c0fad0caf769b8ec19.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/e0fadb6e2db0aad7ec54959257f53c41.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/9d4a3c229526ca77edae78876de5312c.png
+
+id:458  episode_num:105
+title:Juggernaut's Bottomless Stomach
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/115a9f8490ff92ccc8013514dd9bb1df.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/32e0c234fe6daf47bd28ec241c8a2b04.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/97a0e8115dbf678045b99d5503767d8c.png
+
+id:454  episode_num:104
+title:Emile's Grape Juice
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/46c800ee493fceec32ed0fb953dd1ffa.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/4d671492b30019c1facbbfac8a25b431.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/4d817a71f64b0824e5fe5b6d112a61d7.png
+
+id:450  episode_num:103
+title:Training Time!
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/07e464fc663e7297652db09c869048bd.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/411424d7e8e90f76bc24d57b992b3978.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/4464fcc68d3addf17917d560e49caf98.png
+
+id:446  episode_num:102
+title:Yachiyo's Accessories
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/2705f88b9ff76f5acc7674a3787c45b4.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/866863c727c334523974f330f98e3dcf.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/e77d5f37dc02bb9b4a6e5d9ad1e9089b.png
+
+id:442  episode_num:101
+title:Norwin the Author
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d81be0765361010ec5655f41e9529ddf.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/8a3dc13fb517c160be9c3899ef1b920a.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/76a1ea223d6459c80078b475d95d6b71.png
+

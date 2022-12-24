@@ -1,0 +1,140 @@
+id:517  episode_num:120
+title:祭典職人夜天
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/bd3c599b69e155bebb586789a22fce52.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/af4d2f11e970f7a01dda09bc5a4e6766.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/44453097a9f3ab9c615584a06f666604.png
+
+id:513  episode_num:119
+title:失眠之夜
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/c1d9300b65f798096711a93f87bbcafe.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/80a70feb67ee9580eab0dc23206be6c9.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/4e9b4e4608b0dca66625b3742b29cf27.png
+
+id:509  episode_num:118
+title:純真與商人
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/940148a895dfd86945bc8d280b04d6f7.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/a1825229a3e8cb6ea8ee2eedf13149ec.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/da5e39e3afd6563d4b790f30c803e936.png
+
+id:505  episode_num:117
+title:新娘入門
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/400c074885ec08a4420034a5fd071e26.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/b1b86b6cfe1fefb2690fdb21716e8a22.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/ffd0cd731e28489ed1fde047cdc37a2a.png
+
+id:501  episode_num:116
+title:花嫁忍術開始囉
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/c0538d4e69697a968166c33a0d868b4b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/cf26c5c18029e7f5e717350725cefb6d.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/2d072d420cf648a57470d092ed0967a2.png
+
+id:497  episode_num:115
+title:新娘耶魯菲莉絲
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/f41867376e56132dd0e8af330beced10.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/229cf93603ec3b38eaf106b03fb7e689.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/09b5c86d1808fa963e01bcb08fe54feb.png
+
+id:493  episode_num:114
+title:喜歡水窪的沃加諾伊
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/17589262b4ecf835313b09dd742ff186.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/800c084168d7c7f5cc6a829a12f58cf5.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/dcb013a7e7881d711164f78310da3ab0.png
+
+id:489  episode_num:113
+title:尋找短刀
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/b45daf6b46ae6177641fff6a3a50e8c6.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/2fcb4c2b6534ca698263ac408af61972.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/8c490eac22e1fb9090509984f889ddb3.png
+
+id:485  episode_num:112
+title:尋找傳說之刃
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/dc5f4c3b1cefebeea7bae8ed1ce4a27e.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/e746254c930f61812460d380d5ad70a6.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/bfaa4f6c8b084a43c6db657908069acf.png
+
+id:481  episode_num:111
+title:師父三藏
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/1edad2b206a33d3fc6a2c05a69a2ac90.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/69ce7c43aecdcde3d7bf13a192acc309.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/68c21049d557d664c1c0400c290b2986.png
+
+id:477  episode_num:110
+title:席琳娜被騙了
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/dcfc4acc9b7e8e3335a9b7af8606b286.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/35f462f7855b708bd2f3e6614a25796f.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/82adc6601254de0f4c8b30855d758f7b.png
+
+id:473  episode_num:109
+title:身為護理師
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/59ff69ad8e88e28099ffcf2784ad8e5a.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/0d5e6009936b7bef72283a80523102ba.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/cd568c4551f662bb0d87c2ac7993be83.png
+
+id:469  episode_num:108
+title:梅莉貝爾上學去
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/53628b3234dca8246147b399024a7154.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/9515ede34a81d2164422746abc1cd828.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/3116236b372d4c6a33f764d941b36d9a.png
+
+id:465  episode_num:107
+title:騎士之必需品
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/23c01ad4fd4a97ca2da3e560f8077fbd.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/6be4ce5d5fede4791ac8167adbe33371.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/b338b3090610184bc9fa713445892bc1.png
+
+id:461  episode_num:106
+title:戰鬥吧慕慕
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/b6d0d459d61f86d5b7d86b0ac469a406.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/7b130da7db6a45f967f2051f5b8bcfa0.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/adc13ceae56b1e2b9ab8812b60a9733e.png
+
+id:457  episode_num:105
+title:貪吃鬼迦喀諾特
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/0728ae567e4826a28df67473391f5a1d.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/32e0c234fe6daf47bd28ec241c8a2b04.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/97a0e8115dbf678045b99d5503767d8c.png
+
+id:453  episode_num:104
+title:埃米爾與葡萄汁
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/1ec91e490e475a40081809c4e10c78ca.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/576947943f698761d1024f0db4734e73.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/31d17aab44b91adbea363eed23d10ea2.png
+
+id:449  episode_num:103
+title:來鍛鍊身體吧！
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/22226aa0258df226f0627e11984e6baa.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/8f6cac033576b5bd4313c3df62b4d512.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/65d617452fdfe368a128eb097ec6f4c1.png
+
+id:445  episode_num:102
+title:八千代的髮飾
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/1199d66e289140c695f7e105faf41963.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/2324aa3b1f402c6b3a3e565f81707593.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/a81433296c19567d8b7acfb42035d647.png
+
+id:441  episode_num:101
+title:繪本作家諾斯敦
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/61169f8b52587faf75bd90a1a965050f.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/80dfa1cb3d2b33d4128e8842c4310dc3.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f1d8e268628a5387e1cba57889e62090.png
+

@@ -182,5 +182,6 @@ def pc():
         print(f"{d} page {z}'s detail Saved.")
 
 if __name__=='__main__':
+    pr()
     # ps()
-    pc()
+    # pc()

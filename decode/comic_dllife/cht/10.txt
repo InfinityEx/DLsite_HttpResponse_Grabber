@@ -1,0 +1,140 @@
+id:1179  episode_num:280
+title:說話真難
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d82e1e237830820a8ec24edade06f151.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/9a92b4300c45a6d1aa146e740e831cc4.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/ce8bf620e2eccfc257cbeab469558e50.png
+
+id:1178  episode_num:279
+title:理卡特的克服？訓練
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/59605c011a710fe89c2437ea18fe6786.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/7d0f7f865ff4df3f92487dbeed41e268.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/b80d39be03ea7e5382b229e7656169e0.png
+
+id:1177  episode_num:278
+title:理卡特的克服訓練
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/094c710784206a43feebecd08100e3ce.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/c7025f491979606049bd8294ecf00908.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/21d97ee49820750714c947a8bf2dd487.png
+
+id:1176  episode_num:277
+title:想要嘗試的移動方式
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/e01208bb3c2389d0e4f99e0d542e47c2.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/aeccc597219191a866e99f65fc39b65b.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/25d56979c7d99b64b2cf041094956fb8.png
+
+id:1156  episode_num:276
+title:卡珊德拉大受打擊
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/10df20004dd0764dd4492d3c3f567e85.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/d2cf46022e0b27d1f221c62738fd7c95.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/631fc0904cf5e4b7a3368cdecc3e7ae4.png
+
+id:1155  episode_num:275
+title:攤販陷阱！
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/206631cf1fbc999bf2debbe7fc3b5775.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/5148ff5527ff411c6d27e6d158ec7ca0.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/c6217587aa8a7195e145088d34600ad2.png
+
+id:1154  episode_num:274
+title:酷暑的咖哩與刺激
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/dd6ab6ffda356e915a65f753a63dcb90.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/3c3b83d8fbbf44fcd3f3c1472308c20b.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/daa0d1befcb9c3efecc2376dc9aeff07.png
+
+id:1153  episode_num:273
+title:看板娘天音
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/ca02a9fef266ac67d2ad838be054d9d2.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/0d0ae9a6ed2c42ba2870fda8be6355fa.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/3a285606957796087e3449d603edf6a7.png
+
+id:1152  episode_num:272
+title:筱婭與實驗與度假
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/6f78d6085d06e3d182c893dab5fd1e2e.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/b2002d43f3b993570a8b446303178260.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/25cde2cde92aed18bda526172f14f287.png
+
+id:1136  episode_num:271
+title:諾斯敦很介意
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/e5eb00e769a9fc97f50055c5e5c2b8b9.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/9a0c0a0fdd2bd60863aa3f4934a751b2.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/5e5a858a8780f0f518a80a0476176ba6.png
+
+id:1135  episode_num:270
+title:拉契希拉相聲表演
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/043cb263dff7280746de0574cb9b8735.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f7c2a5acb63c3ded71f26ab77aaa460f.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/df77e9c02f1afacec2e138126c1f2058.png
+
+id:1134  episode_num:269
+title:無論如何
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/ad26f305b5b29265d3ff5bb437adc904.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/785380520f2ee2bb36e16df2cdc84bdf.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f07b2bb6c8d21fcb5b8b727f2c73a50a.png
+
+id:1133  episode_num:268
+title:新的小馬兒
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/c2fa5e2847c7ebdeb7ebb3475ccc4081.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/c4a3949008dcff210689424ee06209b4.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/45554c9fa5a787c77d2604fcf829575b.png
+
+id:1132  episode_num:267
+title:騎士之證
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d2ed2236026c459af92defc547381bb7.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/d384cfee797e90379b6bd348c67a16bc.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/c62736f5ad020295be095a198d91c73f.png
+
+id:1131  episode_num:266
+title:帕媞亞的試煉
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/2423a7dfe7fa434a3acb9f71b38079ea.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/74dfe79b9bed865cb7ea717e21f962f4.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/98c8b3d8461285bc7d08c44d23f9d658.png
+
+id:1112  episode_num:265
+title:衝浪者‧尊
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/936cffdb762eea21ca9e2b29bcc0671b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/e5785e2873a66844ae9d154f4bcd636c.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/7512d6767118ea46e184f368072a3925.png
+
+id:1111  episode_num:264
+title:大家的尤帝爾
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/b82d4a0976fcb0b3dd094f480217ca98.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/1d048b14574ee1a13279d17055cdd391.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/cb238f31799e541d2b797a4175f1414b.png
+
+id:1110  episode_num:263
+title:牡丹‧思鄉
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/6e755eaa766a22e8f996718713d5ebcd.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/4e110552a637f4544076a336becb8813.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/6f87ea72c5a5ce35cad7245376e451d9.png
+
+id:1109  episode_num:262
+title:太郎‧思鄉
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/2bc37f8c12451d8d2042b79b409c1862.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/b540a8d00abbd463a6b53bfb5c5bf568.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/0e7c56f71ac6015e33405f7fb97721e9.png
+
+id:1108  episode_num:261
+title:故鄉日初之國
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/26ceec4c330d8ed2d9e0b8e80c43a52f.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/7a867d53cf2a177447ca89d84f480e0b.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/bda07e167448bfb47afb10f5b8bf1a04.png
+

@@ -1,0 +1,140 @@
+id:274  episode_num:60
+title:エレオノーラは興味深々
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/ce68c07a163626827bde5b6c8ce4f887.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/fa5437ec6ecee108c710e151bb855544.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/d8e08e14bf44dfd3f76a21304a495ba7.png
+
+id:270  episode_num:59
+title:ファルエス、鎧を研究する
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/c6bf4a816216f7f81acc4ffb6b8eb100.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/d20fdd0bda9f19455037fdb065818d0a.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/b748b25d6179b974e4ce9daa9021504c.png
+
+id:266  episode_num:58
+title:オリオンへの依頼
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/3694fccc5fb18201491adadda58f9d3a.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/38079d224d96a90c8203c05c12cc6dd7.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/b607f9d335f82cc092011e842efbc77e.png
+
+id:262  episode_num:57
+title:フリッツの得意技
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/e7d59c3e80589c60cebad42f7707a0de.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/2a3e09479f1d43fe2119a76f23490cc4.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/ae99b8d842b6d7c90afb20146116628c.png
+
+id:258  episode_num:56
+title:アンネリーエのお礼
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/821266075caa39afcf7249b0e9ca9d6d.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/65a9a1061457e48d41d88b42519057b9.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/8d30b571d6abd75463d19b19915fb951.png
+
+id:255  episode_num:55
+title:的当て上手なシーリス
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/3d8f27d9d83a99fdad48fc1c5a6e478b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/3109a49058483644f69b094674b6fa20.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/a31d5440f8c491f0d8e6a6eda7c3c9d2.png
+
+id:250  episode_num:54
+title:ボタンとナギナタ
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/15c2cf82b62e778958d8631a79ada18e.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/3e2b1b6cec1a984bb36e07013d0665ff.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/3cd7cfd9206cca6e90bbab86562cff5e.png
+
+id:246  episode_num:53
+title:アディスの作法
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/db648178239f5842014ae5fc06373e5a.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ecab04c03e743d4278089df535a45e7f.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/2fb3f73a35b6e9d971fb00c7c434e6aa.png
+
+id:242  episode_num:52
+title:サザンカのかるた布教
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/f2c977de337188ca35837fa8f8e4f2c8.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/2bdb854d9cf460a31a6d57c2cbd8917b.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/fa1b436e74acd72319c444df98d85d64.png
+
+id:238  episode_num:51
+title:あけましておめでとう！
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d955e6028eeb165c9e881a3c0de37723.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/fe6657ce43b53ed64e1829546dee1c8d.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/8b491a46cead2d959aa73d52ef8da9dc.png
+
+id:234  episode_num:50
+title:イエヤス、おもてなしをする
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/4ee8c6ac494742e57b86e62fa7c11f63.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/116f6457c4b009802789844579ae6c8d.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/55ba8cf7929e2dc31da586d811580bec.png
+
+id:230  episode_num:49
+title:クレイマンの仮面
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/c87c003f1f43408495790ccdcc25115c.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ad7424d0f8f55a0d7b4a35f2188a32a3.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/282b68f5eeb1f443d2a2a1da6b8ae29b.png
+
+id:226  episode_num:48
+title:優しさ半分、エイル
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/0f44355a0a8088190c96de0e140b6caf.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/47572f00c03651b16b271cf9464fa9d9.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/9197e3b32514ee8428fd4f96c1cd0795.png
+
+id:222  episode_num:47
+title:ヴァルクスの軍旗
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/9188c54c780515ae8eea604120be3c3f.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/d54e6b10301d235403991cbbb30abe33.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/e97294691aff7ae16d3f46835f80b805.png
+
+id:218  episode_num:46
+title:ネファリエ、プレゼントを配る
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/b6fa735ba3e63f64b15cdbbf7cbe8d46.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/6390bf47ccc363dd9cd59a063b90fa17.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/dcf9372518ed39361529f0a6b974d277.png
+
+id:214  episode_num:45
+title:アレクシス、ソリが欲しい
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/02963dd26606837cb63149354e7ab2ff.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/172e28cd476f52bdd5aff20a05605abb.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/ca0aebdf62757938f4ca4f6b7c5e27a0.png
+
+id:210  episode_num:44
+title:クラウ、飾り付ける
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/7624841fc3d4b54d1afbd924ebd6bd73.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/d4ec025c6db17dd77a69b2c17aa2b4c6.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/7affe371eae602d333d9df0d3256335d.png
+
+id:206  episode_num:43
+title:器用なヴァネッサ
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/fdfa8c6ce25b62a6298743d0d724bf0a.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/18f4316bb428ae66df6ddba63cac8b78.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/512d5eca234c92e89c402160e5713641.png
+
+id:202  episode_num:42
+title:正義のジャスティス、カール
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/3b0913fca36bdbea7187ac0a3dfeadee.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/30dc0cb0662b4c823f79deab3ba424dc.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/8d2b961725cc289fef8a23fa129da645.png
+
+id:198  episode_num:41
+title:となりのウェルシェラお姉さん
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/68fd604b8bd98c8793bd607f127618c9.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/7e10928af805ebbac55158ca2955adac.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/68b6cb5bb262f3b79a9a17ff283bf875.png
+

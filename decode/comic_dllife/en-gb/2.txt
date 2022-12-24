@@ -1,0 +1,140 @@
+id:1807  episode_num:440
+title:Never Meet Your Heroes
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/73181eaccb7bac4c9527c2e54c8621f0.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/c09fcb7af15c2ab651c2b9575f51a9a1.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/09a947b259e48a7acf0956d36111dd81.png
+
+id:1806  episode_num:439
+title:Grin and Bear It
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/5d8ac1691fa7079e94a5402738a372f3.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/b88e9a3eb580e6bff04aff36f2bb341a.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/e7ce53c157c48cd1f7587bd94e42536b.png
+
+id:1805  episode_num:438
+title:Cuteness Overload
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/3ece17065477df0f5ed2dd3cb701f3f4.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ddb33111399a021821e13ca6797131d4.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/976b427f7e351ea8ee3d71f5e5d21e8f.png
+
+id:1804  episode_num:437
+title:Art from the Heart
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/69677886c1235e6188b97b102d6d0ce0.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/6891c496b08c3eb1a0f580b6bf0e4a25.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/a0ea2c40a2c66dc104003528cd5a01c2.png
+
+id:1803  episode_num:436
+title:Zodiark's Love
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/559a8c6842e1883d974f0017b14163f5.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/250bfc5a0de6651701e1e19223ac9b5f.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/b6cff3e5a0c8546b6bb93ade95d021c5.png
+
+id:1778  episode_num:435
+title:The Spring Has Sprung
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/80b2bda90d0ee93ac17c9330cdb622af.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/57e935826819c5933ac648d38e590881.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/ecc9b7623d740d7c8b7ae145e33e1037.png
+
+id:1777  episode_num:434
+title:Kitchen Consequential
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/dbccb06665a1854915b91e72970bef9e.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ca2df4f7e7549ce6dba67d237dfa70d8.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/b08b951975391996d2f655b869e166c0.png
+
+id:1776  episode_num:433
+title:A Hairy Situation
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/e93bc5975030a3e5e6372c322800ad56.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/d3d3bd6afeaf66c84bd63427bc5051b6.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/284d5918699420ca9b66b102a77ffd8b.png
+
+id:1775  episode_num:432
+title:The Swole Shopkeep
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/9b76e8271a803cf99ace8db14b83687f.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/db459f570865bad68ffd39efad8583b0.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/44f145e0370523989c42de84bba5db63.png
+
+id:1774  episode_num:431
+title:A Genius's Valentine
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/8f851e0625ab1f540154e20c6f5220d6.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f0a473b0b7fc241d2906c389d312b233.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/2ab9ad495f88c4af1d81fff33759a6d1.png
+
+id:1773  episode_num:430
+title:Curiosities and the Cats
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/a9cc4c0d5e0305a8850669efa5c5cc14.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/8e4e61b951892b5b46a04b46b98eec7e.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/a788a68c71e6287f8ca5973e16f10b50.png
+
+id:1772  episode_num:429
+title:Valyx's Grand Tour
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/5f2985ccfadcefbf143e83e2cc72fc79.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/3d68153d64fa5612e3f05b6aeaedd3e5.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/721ce3fcd27a4329b5d111e913e0d641.png
+
+id:1771  episode_num:428
+title:Ultra Secret Weapon!
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/6f5e3e15e6d044ccf7d9715e272f37d4.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/570920e81fc334c5bd7a71d3abe6c8df.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/9a03e3c0005cab2229e89245480e1b22.png
+
+id:1746  episode_num:427
+title:Emile's Soapy Situation
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/749a9173112c2ff9f3845ccaf5dfd504.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f0b396ab95001b8b4f6cb0d226d9f1c2.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/1c04e94e4b46fd1c9b6d1ac00ac03294.png
+
+id:1745  episode_num:426
+title:The Trouble with Trends
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/199afbfcb28372d99300728803049baa.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/0e84f16019a684140fc2651b04e7b72e.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/115052c55f42dd71eefb0040d328e0d1.png
+
+id:1744  episode_num:425
+title:A Heartpounding Chase
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/8919efbd4e96710584a4aca8d91806ac.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/1f69d125c11078bab3bd9ae3f10a20c4.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/5ddccec46097bfd22c93cac7984812e8.png
+
+id:1743  episode_num:424
+title:Mochi Mochi Everywhere
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/0a78d5ac85700c28c47966e3e5792758.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/d36a9ff17d312a80952cdff4994f3eee.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/54653240a4bc8db54631bb8cf134c28a.png
+
+id:1742  episode_num:423
+title:Izumo's Disappearing Act
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/ddebfdc454722c5bf9df0e115e24ef8e.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ee95c2192b7994ab0e2dffade198d494.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/186e914a21c37f95d51fe1db2fe19f0e.png
+
+id:1741  episode_num:422
+title:Yukimura's Power Moves
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/feac716f23cdcbb761ed5e25b79edcd2.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/38b40ebc78a0a48e68cd2a3c3131f7ab.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/420c7714f9f3e367456c3612df3219cd.png
+
+id:1740  episode_num:421
+title:The Trusting Man
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/637d2d56e09aeb38d7f2e478bf773d66.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/42b317b7f0d5402e02a5ba66162e21b0.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/cb2b278c1acc1def47389bcabc45d091.png
+

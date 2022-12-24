@@ -1,0 +1,140 @@
+id:1647  episode_num:400
+title:Basileus's Punishment
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/97d998482cccfa2a0f9b34f4180a25ee.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/3d6e55c061d24f3e96d8d1030df5c244.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/5a986dee0bc3664dfb32c6c2c66b68cc.png
+
+id:1646  episode_num:399
+title:Contains Spoilers for Chapter 21
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/73d448ccf2a766885ef6d4f8fd34f1ae.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/772f06364d8b290414f7cb272fd20fed.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/a5da735adbdab55d5d079c5514107792.png
+
+id:1645  episode_num:398
+title:Best Friends Forever
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/ebd29d76f22dc45e5d92449074ad19e1.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/617eea2f9776a9e46065df48a96ac7e1.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/2e7c81bdda1cf8eab1f2c92b85eb7ba7.png
+
+id:1644  episode_num:397
+title:One Sweet Honey
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/b2296a7e904aa154b5c6c27a66f03952.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/77971ba819ad9fc5f13e8c670caa9ddb.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/808510ff3b8576f9df254eec78037aa7.png
+
+id:1643  episode_num:396
+title:Dreamin' of Steamin'
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/52b51d1efe4c60ddd11f54e08824cca8.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f586080e1be3b23b808b6734f4781174.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/3a56b219d5c31c0bd5658b1992b36b8f.png
+
+id:1618  episode_num:395
+title:Thanks for Three Great Years!
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/fc72cefcb8b5809a45d493a330854dea.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/5ba5769637d081107ccd02b289f14673.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/92baba81f0b75ae982d195a8b66876ae.png
+
+id:1617  episode_num:394
+title:Pancake Panic
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/39a6252a36dae0810d0d3c1288c12195.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/4762dd8046807a6493e6fece947fafda.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/b59bf3e0690515a17943aff6b501d7bd.png
+
+id:1616  episode_num:393
+title:The Nemesis
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/8f5e98a0daf8a096362c2d9d89e33964.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/79c0090503f826d1a4aec3420bbe8ca4.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/89807f7801c90818500416eebf10209a.png
+
+id:1615  episode_num:392
+title:The Pie Guys
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/eba31e6bc6524d1f1e813e7c2d8530ca.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/a396d1588fd96918d1381309c186fb55.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/26047c446888d75f72b29e0df9717a70.png
+
+id:1614  episode_num:391
+title:Shocking Memories
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/6cad30adb34fde794a3cf654a4b60076.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/af2d9a01aaf8ee00c51cdaa6451a8f31.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/24f42904704123022766afdf08e095fc.png
+
+id:1613  episode_num:390
+title:Waitress Distress
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/f579d3feed2d138e08cc96929ff2f408.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/261e72931d3ed0e664db0ba75cd16db6.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/1d4d29a28a7afe5b2ace1bc313c662c7.png
+
+id:1612  episode_num:389
+title:A Slovenly Spectacle
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/464c2378cf0eb003cf7d5556097bce44.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/d9c35501b91379281e85857317eb8d23.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/ae34858a592a17b066fa9ea4859cb0cb.png
+
+id:1611  episode_num:388
+title:The Unbearable Lightness of Fleeing
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/5ea40e35a794a5263bbe178b5c6295c9.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/d02bb9e4e1e5de4455144c7c61527c76.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/549a804acab8cf5e0dbca7ffb47544a5.png
+
+id:1584  episode_num:387
+title:The Lunchtime Have-Nots
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/65ab2395a24b27cc8d813f78c8c8310f.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/66625a6237bc6eb3ae202b75bbca9303.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/22d7fbbc62477c4b5f9173b0a820ac1e.png
+
+id:1583  episode_num:386
+title:Cecile's Nemesis
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/326f285bf5cb9655d439b7ff33cdc603.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/a297080910a125f703824dd54d22438e.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/4aca2746db8c08d9bf916d5a97011795.png
+
+id:1582  episode_num:385
+title:Mikoto in Love
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/995fae43f8852b896d7566126f4cc44a.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/4a8a8d1dadb45ed64a316855f4cff294.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/c0d8c69a75f8846d384df26567186c1c.png
+
+id:1581  episode_num:384
+title:The Candy Ma'am
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/aefdd8fd188b7102ba4a44e3500061be.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/97b2f5787605dc6e0a78f4f4d7939588.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/282bbe34277a47f6a7d70e7d70536774.png
+
+id:1580  episode_num:383
+title:The Need for Speed
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/4e4708c12fd76ba72e914db5a46f6abf.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/953ad9074e4cc74a5bd9a6fd1bb494a3.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/93d564dbcf5d86e08eff2200f9dc86dd.png
+
+id:1579  episode_num:382
+title:Currying Favor
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/bf681f2950893d2da705a76181e551c0.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/c4668fc3a49676e60c79aff3b10f3c02.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/ea7fa3df4450d9d87f6646535647375b.png
+
+id:1578  episode_num:381
+title:Rumor Has It...
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/539878513116b8e14cb0b19569e8f340.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/351f9dc063c774f9f67fde55fe701e2d.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/77c7f02deb61da5df174254dd8904999.png
+

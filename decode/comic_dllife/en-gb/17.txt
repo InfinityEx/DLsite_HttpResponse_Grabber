@@ -1,0 +1,140 @@
+id:599  episode_num:140
+title:Night Terrors
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/15996239d1fe5bf9edda74095468763c.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/9c1f3adfa2d79f06e3752af1b7f99e28.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/13fe262195ad9bf703af01ed872a64de.png
+
+id:595  episode_num:139
+title:Luca's Shell Game
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d2a4051aabee780f7a484c6e3c706c94.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/8dd28534ccf5d539bf0de50fe22dee3a.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/95077fd28e3377f080957bf483cba91d.png
+
+id:591  episode_num:138
+title:Verica's Endless Struggle
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/26b239865acbd2b549901d2aab5e43d8.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/9e31733fce3ac5dcf179e21b9b82cbe6.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/7b37848933f5358c64cb219c75c18f97.png
+
+id:587  episode_num:137
+title:Cleo's Clams
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/e55cb531ebb3f5d4f64de3da9b4d99aa.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/4bb46c9c6e0128c87f86feb2bb3114e6.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/1f33121c5effdf748258776fcac9337a.png
+
+id:575  episode_num:136
+title:Karina Goes Scouting
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/8d9851489f803bcf7324af19ff453335.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/3d6e23c733f63b1459edaedd37a624da.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f90a97db99b7bb291dd60503a6ce8a32.png
+
+id:574  episode_num:135
+title:Estelle's Moral Minority
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/a9b36ef2061c2199daaab942a987efba.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/e01208341486ad3f475dc7a7c86ca55f.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/3df2cd948972a1a977a304575886c5e9.png
+
+id:573  episode_num:134
+title:Ranzal's Suspicious Skewers
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/0c7ff1b68404a1c7b97e6fd0e663de0b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/86748c12c763232977d552250cef4a89.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/d6caec0c14a53b5399ad9fc833281e73.png
+
+id:572  episode_num:133
+title:Celliera the Melon Splitter
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/9fca256ad57986f652b1b459d607bb45.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/7aeb45a435cab2f33dc4cdf663c589c9.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/8d1a6edcea0cc1290a9c3508bfd1d9e8.png
+
+id:567  episode_num:132
+title:Sunny Daze
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/0e43d5bc1fee2c1446e3ef717e53b74e.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/015a9af15d0431a60e2f705cfd2b1af9.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/0977427afb732e016488044f37d204ff.png
+
+id:562  episode_num:131
+title:Stewing in the Sun
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/5f8a85663146d47c4061841acfed9dd5.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/9bca0eb36ea07233701bfae639df6e9a.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/198a9e2c72653af2ee4b02110701d058.png
+
+id:558  episode_num:130
+title:Cleo's New Skills
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/543f24e496faf8d56b2ae658dc8e7591.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/7b939a92fb0f6dbe60131d45ff961291.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/b6d22d2463aac5a6e736e26491b2114d.png
+
+id:554  episode_num:129
+title:Mym's Scheme
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/fcd80dba68d4e48071794c4ba9d52c7b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/1cfd9fc0dbe54bc7818ebf901035beab.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/337d52bb2375c7d342c925bc62c5351d.png
+
+id:550  episode_num:128
+title:Chelle's Letter
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/7f71ca9bae3dd61c0d7c40a4c9eb2730.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/5a78eec1383417322fd2acf447a3cef2.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/dff5059f3daaba23c2170a71aa5361ef.png
+
+id:546  episode_num:127
+title:Renee the Crybaby
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/8fdaf5e86b56c5b70dcd1c690cb70d58.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/889721e8a35153443f1bf1483380b5a9.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/82d5f90d5670e3880accbc87a511770a.png
+
+id:542  episode_num:126
+title:Rena's Sibling Love
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/a3f264255e003d1b196ade11aaefda69.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/412f775e01cbc98dccbb56a0290bb5b0.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/cf5da18b9ac553f4d943d5e0da345afa.png
+
+id:538  episode_num:125
+title:Ramona's Many Talents
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/3b532a19c033a3dad2435ceb24b51b14.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/165101e61fdaa9ba222911690bf5a4de.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/9f33e6f81828838f62c78fffa5c1fbf6.png
+
+id:534  episode_num:124
+title:The Courage to Try
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/8608ecbc9c9f50128bf818807025ff6a.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/2da6f45a5214832980a1ca4406b59cea.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/5677bb4d2817c2834b14bcf599484b01.png
+
+id:530  episode_num:123
+title:The Fashionista
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/926c60032a4fdfadfa5d526b8b7d2527.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/34d8cd0624837e14ee992c7b4047f3df.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/22b0bf3371a37d955a38ccb13281c7f8.png
+
+id:526  episode_num:122
+title:Fish On!
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/99160a35dc94b2cc68795704036d1721.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f83b726b3c542c6d5583203f1ed1caff.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/faa30cbd7ea6ac60d4d930a71a2a71d9.png
+
+id:522  episode_num:121
+title:A Festival of Embarrassment
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d16807da50cea3ddb60df97c075c1fea.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/3323908895e450de187d4efaa09a401a.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/471c62a298b7ebd2c16ae2aeefecc5ef.png
+

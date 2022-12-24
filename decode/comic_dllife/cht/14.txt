@@ -1,0 +1,140 @@
+id:844  episode_num:200
+title:刀使琉卡
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d3bf2db3e3a0a22218a20fcf40abfff8.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f5fdb8359ab2b9b8cd6e2420d8252c08.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/53e72fcd40e0ace9b2565d49e9b10ea5.png
+
+id:840  episode_num:199
+title:朱庇特☆大變身
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/4bcb3c0be533c1f04bb3f9a7218cb3cf.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/66145899aa2fc60c52a87b112f0c39c1.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/981aaafec1150316286e2a1a01882920.png
+
+id:837  episode_num:198
+title:身心俱疲
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/aa0510414b1985e51c7e43e05a948490.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ba2a4248f8f7c6011d091f01a3a799c9.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/fc60cf6d16c78790fbd914e745450fd2.png
+
+id:833  episode_num:197
+title:基魯姐的部下‧約爾希姆
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/8b97a888d28901921f76f938604cab71.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/6a491ae2302ca98a827bce0db5e61f05.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/48ab71f303899ff56b7f979a4609d95b.png
+
+id:829  episode_num:196
+title:將軍基魯斯緹
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/bcb95afd5df6fb5e95ffa6b9b5b87b7d.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/c5f4ae7b5e148dd1059806017f815c6a.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/dc03b6f9d1abc9f6a0840a258469308b.png
+
+id:824  episode_num:195
+title:人類的文化‧烏龍麵篇
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/56de72fe77a3fc3e61b03a4f143eae79.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/fb9ded8d8c987a31a47c18e0478573f5.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/d9a8755539b5f60af4f1f2413204414d.png
+
+id:820  episode_num:194
+title:花房漫舞
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/6d19150133727bb552e22b3eed32a15b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/682c049717b8b040145239c897d9dab7.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/6fd0f581dc072c27ce58b7cefdfe7dff.png
+
+id:816  episode_num:193
+title:千歲的女子力
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/e00364fbde6dfef622219ff997eb157a.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ed954f108ed5cf7351f2f0e9d25768f5.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/266d016916c2f36793f3a6a17fc4ff5e.png
+
+id:811  episode_num:192
+title:十二龍氏‧信長
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/fff31a0476c7b62ae9d944b1632f0131.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/5fdcc8d1ec5f58e3746760f943a68e88.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/bfc447b39a74487a4bfd1a38ef8a6afb.png
+
+id:807  episode_num:191
+title:新年快樂!!
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/73e51a4c19c2c56176182a67979ff201.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/cc6c7bd5141dcb65701855e865c6f8d2.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/850b6c6d0b1a5c921bd6626918f9b695.png
+
+id:802  episode_num:190
+title:十二龍氏光秀
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/9ec28ac16a51bde7b4fb8910c95dfc05.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/5ca0a488d9a29ade6764efcd9c97baa2.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/663a609accf8f39c8072f0deab9a9119.png
+
+id:798  episode_num:189
+title:戰鬥兵器拉契希
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/85018dc1dabdb605c0cc57b942ae4b8f.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/d09311e146209f2acfc26efdb39c707f.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/5c35150d811f5e61fc0b8a6efab948b6.png
+
+id:794  episode_num:188
+title:幸福蛋糕
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/897d7f6dd433dedfb3309b72e8d62484.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f317dc0e9d0af7fc8ac7f9abbd7e55c7.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f0af138274e35beab31f1748df62ae62.png
+
+id:790  episode_num:187
+title:禮物的用途
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/22dfa938901d6513b9d5ab04f8a88b80.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/abe7a0e96e7e540de707d76d7c374ddc.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/c9db60cbaa2f48c34ef75185394027d3.png
+
+id:786  episode_num:186
+title:便利的耳飾
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/f188bf3b0b893eb6e239dc8fd459379b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ea0aa23bd697438d28c7254f3964a1a9.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/e69776c588c8552f0225f982c288f5d4.png
+
+id:782  episode_num:185
+title:幾乎不對
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/cc04a87d87fa48100b9911f683ea84f8.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/69a9e5876ecc38c77896805d1b583243.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/493212f9cb242a1dc25305fcc3ba198f.png
+
+id:778  episode_num:184
+title:幸運占卜
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/8cbc87c95f3778ba2d7cfab870c038f4.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ca687b1d4789b63854311791541446db.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/d14e6f3932fe03aa45500dbf3f605628.png
+
+id:774  episode_num:183
+title:聖夜使者‧佩羅與奇羅
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/15604b437b5ad8e8cd0972a424ac91d4.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/8a6b420ae2c471c0f7ee551551d47d84.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/85af3e49f0a4a6875dae727f18f90824.png
+
+id:770  episode_num:182
+title:瑪洛菈的服裝
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/4be521c144a39d424f2c180fa0cfc792.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/4a51ebcbcc9be190dbde2d90dc2fff40.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/ac88dc287f30531794b8903141a93af4.png
+
+id:766  episode_num:181
+title:葵的鴿子
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/88a9c0c08879f340fd77f451772d9005.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/da0d95534113b90f0ddfa2de3c45302b.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/b1f626eeb5638e9eda0147b4d69a56db.png
+

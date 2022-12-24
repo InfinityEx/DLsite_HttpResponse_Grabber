@@ -1,0 +1,140 @@
+id:1000  episode_num:240
+title:ユリウスの誤算
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d54577e9b3dede6085288425aa8b899b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/47c308668b16dc12244e6c3f8ab49fd5.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/0054a422e256ed28dd382e9f7271eb1b.png
+
+id:999  episode_num:239
+title:こいうらない
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/f5d5bd9545dd9d8a1c65a1e1581a2aec.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/38f1ec28cfd9e69d7b2faad5b3312c3f.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/bec649c57f6dc7ba4ae5fdf3d806ff07.png
+
+id:998  episode_num:238
+title:ドラフルの使い方
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d73e43cacdf070d76259e462dbb09082.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/a27d6d0b7ed8d8d49ead5a811ea43f51.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f76274e0c03c54649d044a8dd983b2fc.png
+
+id:997  episode_num:237
+title:かわいい武器
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/b5b6c5d6c44fea4967bcbdf51acfda04.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/6ae860b367d919d4b0cfa7c26292da09.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/00dbfa47f63b50a0cec53477d3642df7.png
+
+id:993  episode_num:236
+title:ビリビリマッサージ再び
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/7ee230d3e1aaee7d9d41332dd29649c2.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/6323d146b77a9c6d2109d91764091144.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/36873e75662a6165eecf9b7284e5bb93.png
+
+id:989  episode_num:235
+title:ホークとフローリデル
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/effa04b627611d186af741fccd622369.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/b60869b836b54d3437b22d3b9d65309d.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/8b0ececbcee0b132b5c99602c565c9c5.png
+
+id:984  episode_num:234
+title:そわそわシャノン
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/3ea270a51ed280900d7d8998ad0637ac.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/edd53dc34fc8738e0fa128e8315c7172.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/550c2034f2743408defa26cdbb4ee0d5.png
+
+id:980  episode_num:233
+title:滑り込みセーフ
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/1cf17946194d83d07a1052dc979b5fcd.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/0c14b2769c51438fb42fea2ffe3393be.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f06c07ec7590885d6ea000392724ec56.png
+
+id:975  episode_num:232
+title:マナの乱れを観測しよう
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/cc30754fe3c5e9b52ba9fe16aed3a360.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/95fef3ed42279ff5fc2d72f7d5c20f18.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/54d247c27b32024fb3e15d4bcc7be759.png
+
+id:971  episode_num:231
+title:ゴルドの落ち着く場所
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/3c695d987d1fa6dd6fa49db27ccc1845.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/be7ae4285f6a19ab81854c59ddd02ba4.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/6b8dcb4ce1dab567af9c8e816bb3163f.png
+
+id:967  episode_num:230
+title:借りは忘れない
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/f37ea685d3b2afe9db8dc01795d76ee4.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/c9b9ff88d81b8f8e545bc3956237cca4.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/2f829c90ecdd44c5037ff399d4f3c03e.png
+
+id:963  episode_num:229
+title:お悩みファルエス
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/c387df3a0ccc01023cccdc6ecd538276.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/6b2f632a5e432caee729d805eadd4518.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/3c40f594b59f2c4d758fe13a5fa6b688.png
+
+id:959  episode_num:228
+title:花盛り
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/8a444d0b830fd09ac80902a1187c494f.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ca08d986b156fabbca600ad4ac06bf77.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/272fae3a31ec03a5d26bde0c182a324e.png
+
+id:955  episode_num:227
+title:救いを求めるグレース
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/b81691d7455e7382bf98720d4267a931.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/4e155c5ac661f90dbe601b7de5d56522.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/e85252ee74b6a9561b141fb2bc8970eb.png
+
+id:951  episode_num:226
+title:アデルペインの爪
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/b3fa7d44a65f80da0130f919a91c36f0.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/212ea54eee6d6ed5a2ba4690b37c3ee4.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/7a2f22f83ed5106fdc0e0626bd6b1fbb.png
+
+id:943  episode_num:225
+title:最強はベリーナ
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/4219b48e4a962dc9e09ec48d4051e95e.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/41de34c87f3c2d4138c97f912d1054ee.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/99e775f94c2db560985f6428fe969b28.png
+
+id:939  episode_num:224
+title:華麗なるシャノン
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/9ef29e0e126950277a3688c8eb0c54e8.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/fee780a1f1c9f9a83346aca7f3e9c0e8.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/ff5d98505e0df4f9a90f2701c1c9ce31.png
+
+id:935  episode_num:223
+title:モフモフ被害者の会
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/823c7fa98fe306f419cc133c8bfba165.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/095098e223af8271e816823c720f4541.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/cd27f4b71b70f30e4c8bfde2710a3a84.png
+
+id:931  episode_num:222
+title:禁断症状
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/c5844ceb53cedb4d06106fb6e4903eff.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/b04cff1e4e52e73e48e01c2bc16325d0.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f4bf2033a88000ca068abd3cbbaa09a5.png
+
+id:926  episode_num:221
+title:花と片思い
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/cde7005103b55dc2dff922020579be05.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/e738fb871a99fff2e2156b4e6d94c59c.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/b71108963ad865df5fad78bd589cdcd6.png
+

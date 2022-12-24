@@ -1,0 +1,140 @@
+id:683  episode_num:160
+title:アスラムの読み聞かせ
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/59131f5b899e4a0e9d9e47fd03089837.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/86b9070c30f1546604a5c710bb160397.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/298c6db3da1c52b7ddbdcb1ce88f52fd.png
+
+id:675  episode_num:159
+title:元宮廷魔術師カサンドラ
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/1172d89d47de5eed2a01fa46ee76e87a.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/92a4a8fd8876192b65ec60e812234eeb.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/de222b32d8b31eec919b939be0ab4797.png
+
+id:671  episode_num:158
+title:奉護者デルフィ
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/eabd0f34ab8e2158f9906c9f27f44d1e.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/7dc08dd8fc50dd72ecbdcecedc984c95.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/4e8ca77800abb85330c9439d7e5d3225.png
+
+id:667  episode_num:157
+title:タロウの鎧
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/621bd699073787dc1499439c9931282b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f1612f50362bafe8a77e3360efde1024.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/07634fd6e03a4d9708de47cc39f7eaa1.png
+
+id:664  episode_num:156
+title:ユーディルの新たな装い
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/ae6d6030d16eea1cc6d3ffd0b1e7fc7e.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/dd916453a22760ce8931e76707995d10.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/5a4bb05ac25154b7142132f1f89d4513.png
+
+id:659  episode_num:155
+title:1周年ありがとうございます！
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/4424afc2ff230a47333bc6b984a0b8d8.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/b28ee239d5b63ad0cf0ad41dcf79a50e.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/99b299a9ace574963513857a3abf60b9.png
+
+id:654  episode_num:154
+title:魅惑の…
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/518e7e9b3f1c52ec03d8f12039e4c07d.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/19c94c8f8c763a5934f7f7bbc8defbb0.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/98ee7575b824c64734476e995205bfbe.png
+
+id:651  episode_num:153
+title:竜化のじゅもん！2
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/faeb67cc3a9974c436de62664e22b5e0.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/884d4516d8ec9272a12afa3c39727f4a.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/e104f6a06d896167bd82ebfa260b837e.png
+
+id:647  episode_num:152
+title:竜化のじゅもん！
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d3ec949a18a7c633082dfde7578815ab.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/058883912a407cc393509f843549feb9.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/5da38e10ea0a36a8f9086141eeb46987.png
+
+id:643  episode_num:151
+title:応援団員エマ
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d4fa5f77369b03ada4a83ee448369ebe.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/cf847f1f57fcfc7848e0ce92f7c10fcf.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/22c8e7b8df7df8f803f06dfdbbdf7b2f.png
+
+id:638  episode_num:150
+title:元アルベリア王国騎士リア
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/5afa2e4629efbf0c0746b2a1d7e6eaa9.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/625b2125f900f6de9500e6c4a1d00a38.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/6dc49807fd6a6dcb54980911da31d7a2.png
+
+id:633  episode_num:149
+title:とくべつな報酬
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/400cd9db85726fe5b2acc8d41498e8a8.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/0fc12817819623b75bed69fc6db62006.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/cf76bf9c5e7cfe59eeb06116e6eb67fa.png
+
+id:629  episode_num:148
+title:ヒリつくスリル
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/a984598282fd133132a67593531b1d76.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f8ee95106e88c8e6c3a3e8287b0e7767.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/2fe0aec00e8e74f1c1bf2c06dd4e0c6f.png
+
+id:625  episode_num:147
+title:運命の人たち
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/26aa26579d8e5e1a69c43ecede4cfeda.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/d918dca103415f34fdaa54de1186094b.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/b9f3bd24041c235cd8fc1c3993b84f4b.png
+
+id:620  episode_num:146
+title:伝令兵ノエル
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/09e7cb9492a32951cea47289a5c97f63.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/4440efaf7b7040bed8a53da30d130f33.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/71ba19571cc6646b84bb7c9b5e1f4bb5.png
+
+id:616  episode_num:145
+title:幻狼傭兵団ヴィクター
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/287871261bbd4c68aac80c518516f58b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/85c86687b0baf46741a3c7ab8dc401c7.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/e3a58276cfa848752d9b89711bf014de.png
+
+id:612  episode_num:144
+title:ミコトの幸せ
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/809b3715b4732eabfdae106ac89ac092.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/d71227dfd160d2858283995c63269af4.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/57e121f43b44cc0852ce23cc6d59cecc.png
+
+id:608  episode_num:143
+title:エリックの木彫り人形
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/5a48a335d8d62ac5a7eedf630497cc09.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/6743eee41967340ff82d61db8facc9df.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/0fc25b54d0864b9ba9e5e721b4f97af1.png
+
+id:604  episode_num:142
+title:ムム、大作戦
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/732a2853ee44226f018681fcf0a9306a.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/1ea9512c30c56bbdb92e8287ca6b43b0.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/0106757ee6a242ca3bc56cadb113fcbf.png
+
+id:600  episode_num:141
+title:ベルザークの悩み
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/83c1d8479ad9f932c5b22988fc509465.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/18047f573a987d27fa4e4a293cfe8b89.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/7c17ab2cfe18b0254e06f08c7beaf100.png
+

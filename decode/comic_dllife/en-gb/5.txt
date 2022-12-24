@@ -1,0 +1,140 @@
+id:1577  episode_num:380
+title:Fun at Sea
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/8c92b2317234380f25289c6579203932.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/e907eaf10ce70ece53a85172035b1bb2.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/73e04f1b19e615dc219302d56ea3b1fa.png
+
+id:1576  episode_num:379
+title:A Brief Interruption
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/7ab3924fc630501be48709bd9a7da283.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/856c41f17b43df7ecd642ef5e30444a6.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/d1bbc7d5a7c3c41f00d68d08b1ec5a29.png
+
+id:1548  episode_num:378
+title:The Forgotten Man
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/db926c1d8fb1a9a812b5231c0abd4eec.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/96450edc155f6db15364dbf8d47c1c84.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/021e354498de316ee80e7febafa82fcc.png
+
+id:1547  episode_num:377
+title:The Agito Lunch Meeting
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/cb448a8e85be41f8168b4fbc19ec2131.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/c4d40f6d35586c36d40f859c3203f198.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/2e6cda1490a5592d43b84f2f3470610d.png
+
+id:1546  episode_num:376
+title:The Dangers of Hunger
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/2cf7f447314b63d2f18b9c9921031838.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/e710ccc6a0180fd243a3d2cfd185ebd8.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/1f4758f22211edb829ecf81a2cdab3bc.png
+
+id:1545  episode_num:375
+title:Lazy Summer
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/b99eb923ea4ed7f891f67edcc6f4270a.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/dcc8b21e3e316851052f2e7f572bd61c.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/5e443156886810e987807d3e884966c9.png
+
+id:1544  episode_num:374
+title:Don't Knock the Knock-Offs
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/0117098906f5de6de936cb95c706e806.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f7e00efcaedb8db471e986856c793af3.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/358dabd317f575fa8e76791a7c613ff0.png
+
+id:1543  episode_num:373
+title:A Harsh Truth
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/1883085aeef3db4a6ba9ddb0d15dae90.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/a75f1ee0a8a8896f6cbc0e85b58b1056.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/aab8e6704d38a860aacf5ac5a80e59e8.png
+
+id:1542  episode_num:372
+title:Love and Wrasslin'
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/9c29791ca76f904b4097e299934eef53.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/b83359a2c11c1f3ce17d29d9d1c8c94a.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/d6b1719d74253e8a357e5c5d7b9973ae.png
+
+id:1541  episode_num:371
+title:Fire Work It
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/26c5a205b9a454b0c6dbb293782e670c.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/5bc96391aa5fe082fefc3e985de0dde8.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/bc164cae8005eaa7b83e37114d860658.png
+
+id:1540  episode_num:370
+title:A Triple Dose of Pipple
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d3fe49590e20ae13cf27188a27ce86b5.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/0a0153ad3453c716a08ebf829a01caca.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/69902916d898a23e1081c357b8c0df87.png
+
+id:1510  episode_num:369
+title:A Clean Break
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/44a9c2d373a857dc040bf65facf2896c.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/1e339f624707651c3fa5b4dc2e5a9074.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/c42fe1fa606857538dd0ea33d92001bf.png
+
+id:1509  episode_num:368
+title:Fighting the Frizzies
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/855a3566ed82df3272e2498a5ed8835c.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/48df92d37b38f687f92e05aa809f67dd.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/8ac5c2e0267b56be6c939ad153c84232.png
+
+id:1508  episode_num:367
+title:A Short-Term Solution
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d8db8ab16fe551ade640c485b987f3da.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f56f987aaca99d7a6d5610de2737100d.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/8e422f5e5b98a95cb3d252b213ad5715.png
+
+id:1507  episode_num:366
+title:Washing Woes
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/04e260d09820f3a1f8bbd5bf19b9c41a.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/82268ba38c9f481495552472950efb06.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f690ff492d9e4ac2e644875a25253670.png
+
+id:1506  episode_num:365
+title:Tobias's Kindness
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/f8fb5a77a3e1eb415a3f80ba7d98b5b9.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/b5f9d946a3f1e140c77039df1ae22591.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/0799db6ead1d60c344fe068a7b3ceae9.png
+
+id:1505  episode_num:364
+title:Nino's Cheeky Response
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/888379f4537bb68eb75adbb30f7437e6.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/61398d72600443d7969962053d8522d9.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/a69f107d04f2f7fe01d0d9980a6bcf1c.png
+
+id:1504  episode_num:363
+title:Epimetheus the Hungry
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/a673054cc23664f30dd8cb8852a75610.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f67e47af2d6fc51a2d062eccaa94d38b.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/ca0fba75fb96711ede69f3e0ec1b5767.png
+
+id:1503  episode_num:362
+title:A Day in the Life of a Smithwyrm
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/6f71794caa1bba680a00cacb818da3c9.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/c02e8cae50f1fda2561c23d397199c91.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/bcb9a16ab39ac9d06546f746249dfdd5.png
+
+id:1502  episode_num:361
+title:Contains Spoilers for Chapter 19
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/93b01de51f85fed8fe4e4179a6073d80.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/9d977bbe3696fbafe3ef3bb91091dbe5.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/37243a2bb3d5dc137dc771bb00d5282d.png
+

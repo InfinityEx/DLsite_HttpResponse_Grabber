@@ -1,0 +1,140 @@
+id:354  episode_num:80
+title:お返しするなら
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/885a86b6a2b877160acd70f94166d58f.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/2e46b0c1cb268be82bd65cc39b06af12.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/3180644a56d5ebb967d8ca3e25191dc4.png
+
+id:350  episode_num:79
+title:ハインヴァルトと本
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/b9d2283dbd887d8f74841871b4f167a2.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/4587823a8c34b560fc89b830981bd600.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/335b00fed10df36db231e6b53ce38b32.png
+
+id:346  episode_num:78
+title:パパ、アローラス王
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/93bcba05de31f88b6ccc7e108adc516a.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/a454f8efb6cd35f5cb513e865ae251f7.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/a5f476ced480b7093a22df946e70d631.png
+
+id:342  episode_num:77
+title:ムサシ、苦戦する
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/ce0a51e151eb52f16dd9231f29b4917d.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ed6c1d826e9d774271ee9c3bef7fb6bc.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/3287c43dbcb55872c06941452587c743.png
+
+id:338  episode_num:76
+title:フェリーチャとファントム
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/403c3778f282b9addb08519d512290ee.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/3176cd8abfdb2b909b9ae8ba04fc08a5.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/55deee0ad6ad5a0e3ab5e62951e0aa75.png
+
+id:334  episode_num:75
+title:オデッタと新しい世界
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/50f4891a75cc7de2f91ec1367d68b0c3.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/a09e3badb1191ee9a62468101a3fee3d.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/589c62a51b9787c051478b3cb4982905.png
+
+id:330  episode_num:74
+title:ビリビリおじさんアルベール
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/9deba6497264cd3298329708260a6fde.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/c5eb6e874396c1418cf68d4bfb60bf3e.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/a54be4d1398697628381e7a50f6fad6b.png
+
+id:326  episode_num:73
+title:日常茶飯事です
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/0d7860c33a5bef1c21c425382f65dea9.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ae1436f3427ee4cde6c1e1b8b7e0b00f.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/806993286fe285c0ad84f4ccb35e0d16.png
+
+id:322  episode_num:72
+title:ドラゴンに食べさせたいユーディル
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/aebedfd4e2c22c034412c21ede5484bf.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/4914fe913b5eb48d95b30159c0e94671.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/af2f87221435562c976d2dd43ff59d5d.png
+
+id:318  episode_num:71
+title:ついうっかりリョウゼン
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/bf86566f775136262403428b9054e21d.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/b7a564c7cc8b67327a1475b6991abf7c.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/ea4de76fd8bf4037c892756c08b5a5d7.png
+
+id:314  episode_num:70
+title:ナームのバレンタイン
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/9e396cf67e7d08366f4db2991d46025f.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/cb29e548d3e6a3c7cffbd884f3fcf662.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/579c2ef47fabe4b4668fdfab8b821cee.png
+
+id:310  episode_num:69
+title:お熱いエゼリット
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/5313e3c4b31e798feee2b914c288948a.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/0ab5e22a5f2de2f77b1b05a1f4bb8936.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/e88c389de81e1744c20d723854167e5b.png
+
+id:306  episode_num:68
+title:落ち着かないヒルデガルド
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/c989adde4a9570a5a6d883172c802547.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/6237a3f51a17eb6817d5a10d702c7aad.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/20f1137e1b9fb7c0302e886e754ab6b5.png
+
+id:302  episode_num:67
+title:おさかなセイナー
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/94e0aba27b40bc358113d7c900aed463.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/b8b580b27435a023790b8cc25985c32c.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/03c2a056d2444c37af3049c9918557f1.png
+
+id:298  episode_num:66
+title:最強！ニーナショップ
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/40f4774aec05449e4e83b52221e89c5b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/c3bb77432a6df72ec2200e513bb251cd.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/6821dffd291281fa1ad9d64356dbb24c.png
+
+id:294  episode_num:65
+title:スオウ、派手さを求める
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/ca6bec45460cef25245aa9db3d3c7059.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/3b5e36b0e2fd44e3b3f19e1a61c528fa.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/b7e7edcd2ca59655b3f936cc05e9296b.png
+
+id:290  episode_num:64
+title:クガイの被り笠
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/3ec7fd21a7a545c2041f2bb805fd5ee9.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/cb9eca440a7f43811e65210ea97f8f4a.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/e14cb2b9d5bdad876ef2598339d7245a.png
+
+id:286  episode_num:63
+title:今年２回目のお正月
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/8f5dd9501d432427767e29fc0df2c46b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/3a0bcd8c55cb4d801fc7ef4de0c35767.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/d3a2c26a82d899f3445732a201e764d0.png
+
+id:282  episode_num:62
+title:リンユーのむしゃ修行
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/ee3aca49f138fa4042b8994ca973ea92.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/2ca297b291f24c3fac3ae4b8e09eb6b2.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/2b4cec425a131bbe7142377e5d4123c9.png
+
+id:278  episode_num:61
+title:ルタが踊れば
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d56027333a2d89a14e02829a7e647feb.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/816f96dae85e8ad601b62c71f3bad17e.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/9ad56275f317623602650c9f25676b0f.png
+

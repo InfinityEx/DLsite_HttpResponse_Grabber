@@ -1,0 +1,140 @@
+id:1095  episode_num:260
+title:Catherine the Perfect Lady
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/8ee2a1ac6b3d3150887d9592c54897de.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/4ef5bd05ee969711eea0af4819a43bf0.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/5731faa650ddc438f5771970772e9489.png
+
+id:1076  episode_num:259
+title:Eugene the Introvert
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/1eb79e182e1da485e22682bb68a80cc8.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f63d72c95b1ea4870fd8dbcc8c996d08.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/e99f5a1a22f1189de713880f346e025f.png
+
+id:1075  episode_num:258
+title:Valyx's Kindness
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d76bc4753acb08a2e10fca324b41c0e0.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/423dfe0454f47be33c6227012a289d93.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/7005e8781a1303454eda725454edac43.png
+
+id:1074  episode_num:257
+title:Contains Spoilers for Chapter 11
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/a56a843776361c7f6be3f89be664a2df.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/c19464848c5132cbca3200547ec3d3dd.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/308731fe1d8fd2ab5254217cf9195e2d.png
+
+id:1073  episode_num:256
+title:Kisses for Zena
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/19be46393753de4fc706687c7d9f6093.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/59d50205f7f33440d3b8c44f8921cb3a.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/871661912648840e9379ced90f2b3f02.png
+
+id:1072  episode_num:255
+title:Cut That Rug!
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/1c66723e7dd0b9c746a9d298972cd737.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/7f46f21e9ad18580fc19efb0c3f8c464.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/07297e2bc20481abbdcaceb89dd8feee.png
+
+id:1071  episode_num:254
+title:Glasses
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/b6af1e5565a03512dcb1306ef20e47e1.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/c118c8647e74e023aa8055543bf299b1.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/1f56cbc9b5b282d7ade59765fcc602e0.png
+
+id:1052  episode_num:253
+title:Linnea's Grim Conclusion
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/a399f9533624b2c504b0907f6eb1138e.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f64a379606459a8f2b148257d4d57c87.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/7815c5fa79dd4d347fa37985fbbd8b3f.png
+
+id:1051  episode_num:252
+title:Nadine the Filter Fanatic
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/15bc0a1ce331b755b43dfc20babc9997.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/af5ec4f8084c3f1a3a1544b7bc1268ea.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/71640c658423d0526b30bf86e32bbc53.png
+
+id:1050  episode_num:251
+title:The Training of Wu Kong
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/0ebf7e32d002360ea24d09874ad1f334.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/8d6925c230f3da1f4ebacb4de51c5c01.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f2ea3ebb6abbc92d407b2297239eaf76.png
+
+id:1049  episode_num:250
+title:Crazed Engineer Sha Wujing
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/e86fc58af5756b27b578fb74fc699f02.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/4fff9c300366f1a9b9debebc104ab7f8.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/5ba2deac66f0d0a2c260902c19095114.png
+
+id:1048  episode_num:249
+title:Zhu Bajie the Heartthrob
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/82d31139fd72fdecce28646fbdc22f5b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/10ee120ffb18010a20e41895208e58d3.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/12a13896d7d42e360a4d28605a382157.png
+
+id:1047  episode_num:248
+title:Xuan Zang's Handy Horns
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d89b83c07ea86c37a01284e1855dd2d7.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/fceed6e2e6ae51d868abadc985e3aa4d.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/80eea35f3069fae61613b0ab919deeeb.png
+
+id:1030  episode_num:247
+title:Leif, Captain of the White Sparrows
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/868ffdc639a1f1f331f659ad8e628ec9.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/71e39f6e43435ecd72241e76a169e658.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/2db3b5db3366beda810f61e41a282420.png
+
+id:1029  episode_num:246
+title:High Midgardsormr
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/bd9c75c54dfb8481cdae5d5fe5eb6a01.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/d0b7528419b2e900401fadbe594b7ab0.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f4ee36eeb5aa531977058594c74e8a56.png
+
+id:1028  episode_num:245
+title:A Running Gag
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/b266e2e05fb1071a24e91b46148f1a62.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/f164cc4f401b3d0d18eaf9b29faca28a.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/6a4c10da67bafa684777b59d6110216c.png
+
+id:1027  episode_num:244
+title:Operation Fluffy Patrol
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/dcd2b2bb08ffd712d6e23e347d05ed46.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ab366a49fcda82ee97b3cd271b73064f.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/c736a7b4addb801a8693bbad6b011385.png
+
+id:1026  episode_num:243
+title:A Dignified Ruler...?
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d2e300f11da46e71b1ee3f423ff479e1.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/9eb40999680d6093adaccb63cf8b8737.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/ac57169a3ef28dd173f08df05df2d350.png
+
+id:1023  episode_num:242
+title:An Eccentric Bunch
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/2c73eab60312e56e9bc726486e6fa887.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/2732333155df550d6558ab9bff323333.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/6dfa2168a9d4513401cb401f21495fdb.png
+
+id:1006  episode_num:241
+title:Forte's Food
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/c805005882397c982be85b8dce071401.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/242f8dd8d51396186d02f82c667ac0e9.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/603e051ba27687c074705019f493da58.png
+

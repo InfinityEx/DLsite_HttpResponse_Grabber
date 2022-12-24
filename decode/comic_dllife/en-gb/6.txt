@@ -1,0 +1,140 @@
+id:1501  episode_num:360
+title:Isaac the Corporate Watchman
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/ac015a0b21ceaa4a8f917bd7038345e8.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/78dbb81dcd65b9a193223c26729bd7a8.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/4badad30d35ea291896b4fed325bd41f.png
+
+id:1468  episode_num:359
+title:The Secret of the Slimes
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/957fd640d9516434defd4ab0b9ddad32.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/6d059b40abc9e1d75c7dffafb690e3f4.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/a105c3e1cc0ef7da146136ea69fd4a25.png
+
+id:1467  episode_num:358
+title:A Real Jam
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/7bab91a7e69063f95bd55dc042fb8a4e.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/77ba8118ef1857dcdc8c861eb548f374.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/ca23292f5a5e5d15188485c40f42e87d.png
+
+id:1466  episode_num:357
+title:The Interrogation
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/5ce8342f360a983e005739b01faceb6b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/de9a79fe5a580529232f871507a398cf.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/63029c4f967c8f41c121eb22d3f05a49.png
+
+id:1465  episode_num:356
+title:Dressed for Battle
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/a7b2878ae9c5004e53f956e63d5b054b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/ae52fe41dc68a4151bd91bbc97b91cbb.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/cb6458a4a2275d61e8a2b0d2383edc78.png
+
+id:1464  episode_num:355
+title:Paw Proposal
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/5a2dc76fb2a42f69225f0a9a6bf0b32e.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/70e6cd980fdb72de63922d5e057eb1d6.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/523419499ae9946f52adfd6e89635cf5.png
+
+id:1463  episode_num:354
+title:Notteshifting
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/d999575cead31843dadd77defb49a858.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/364d4002ad5bdb01eaf47e42673d6d33.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/6eccdec9154b2f2a06b340a9154bb5e3.png
+
+id:1462  episode_num:353
+title:Yachiyo's Mistake
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/8c60dfea05edb049afc1fe4180ac0854.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/a064ca80271971ad3c2630f80e64e680.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/355ecf39056e6785ffc5ad850f8db3fe.png
+
+id:1461  episode_num:352
+title:Saiga's Path
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/15e44f8511daa811e37990d575b04a66.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/a77711709a6fe1aecbd98367ab2053ac.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f8fa498c082e5dea445e2ef29f487fb7.png
+
+id:1460  episode_num:351
+title:Halidom Horrors
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/51bdb9e85dd0771e7fee9f68893ea912.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/56c5d9f8c924b5d955fd2d0e99aee208.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/228ec8e53ae89d4a90451e590dcca7e0.png
+
+id:1459  episode_num:350
+title:Vania Vants a Bite!
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/c2a418e1d5ee936b99c8fb6a235136e1.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/c00047a969d0bd38b550d632b5702221.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/557cd5bba4d4535ed14be3b7dd1a3607.png
+
+id:1458  episode_num:349
+title:Greetings, Grimnir
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/420f9c193677325e42a4c27e71dd9588.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/7142b7a126c6385ca5975d2eb0ced899.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/fb0fd1cd88eb818c9fa8697a7dbb3fa8.png
+
+id:1424  episode_num:348
+title:The Machinery of Joy
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/f5c375a07dcfcc959a2c158d53b5d03b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/6e9b406637a894cd83209edb0e15e57a.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/3dda6ffc82c77057b486a406139b7a8f.png
+
+id:1423  episode_num:347
+title:The Castaways
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/f546f1f814b9ca3dbe00bda14f28db1f.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/0b4b3966fb74970d96b355ba7de9634d.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/005e87351491b9d5e7a70c1effa3edab.png
+
+id:1422  episode_num:346
+title:A Muddled Victory
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/f4c85827588b653d1ca3bd7488f8a41f.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/80be8f612e1c6a02f4771eb606a6beaa.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/a32c5306ebf229ba21775c6bed9e748d.png
+
+id:1421  episode_num:345
+title:A Rare Find
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/a75a992ef5ae558ee49f23cf4f1abf0f.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/88b3a6aa3058835244fbda25ec89408c.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/a44c4ce7f9eb370fe42fba8224df91e0.png
+
+id:1420  episode_num:344
+title:Ms. Mercury Investigates
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/47f19a8a3eb8fe0a020ff51bd568f80b.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/9c46222f69c665593148d34da14b8a39.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/9cca2d9d31dbdbd37ce4a9613f61553f.png
+
+id:1419  episode_num:343
+title:His Secret Weapon
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/ef833b51415bb70fef7400467b441d8a.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/7717e05b688aa8d28cc86575a9052f4b.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f056ec042459182cf2c1656f169b2666.png
+
+id:1418  episode_num:342
+title:Contains Spoilers for Chapter 18
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/0666a1e1b2cbd0564fda7d8cc2c3f454.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/85bb0126176de038f20fa3c59c066b7c.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/2419b75b339f0f25dda3a606a76dc047.png
+
+id:1417  episode_num:341
+title:The Power of Pretend
+
+main:https://dragalialost.akamaized.net/attached/cartoon/images/bd8c296346746bc8eb8065451e554ac8.png
+thumbnail_s:https://dragalialost.akamaized.net/attached/cartoon/images/6b0a62b5a783d0c83ab20b634ecd026d.png
+thumbnail_l:https://dragalialost.akamaized.net/attached/cartoon/images/f04b4789a6bb0597d6a720889fab8976.png
+
