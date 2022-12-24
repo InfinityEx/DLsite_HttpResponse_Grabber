@@ -45,7 +45,7 @@ def pr():
                 pmain=ljdata['main']
                 pts=ljdata['thumbnail_s']
                 ptl=ljdata['thumbnail_l']
-                plen=len(ljdata['id'])
+                plen=len(ljdata)
 
                 # write index data
                 with open(f'{path}/origin/comic_dllife/{a}/index.json','w',encoding='utf-8') as origin:
@@ -64,20 +64,20 @@ def pr():
                 with open(f'{path}/decodejson/comic_dllife/{a}/index.json','w',encoding='utf-8') as decjs:
                     decjs.write('{')
                     for j in range(0,plen):
+                        d1=pid[j]
+                        d2=pepnum[j]
+                        d3=ptitle[j]
+                        d4=pmain[j]
+                        d5=pts[j]
+                        d6=ptl[j]
                         if j==plen-1:
-                            d1=pid[l]
-                            d2=pepnum[l]
-                            d3=ptitle[l]
-                            d4=pmain[l]
-                            d5=pts[l]
-                            d6=ptl[l]
                             decjs.write('{'+f'id:{d1},episode_num:{d2},title:{d3},main:{d4},thumbnail_s:{d5},thumbnail_l:{d6}'+'}')
                         else:
                             decjs.write('{'+f'id:{d1},episode_num:{d2},title:{d3},main:{d4},thumbnail_s:{d5},thumbnail_l:{d6}'+'},')
                     decjs.write('}')
                     decjs.close()
             elif x>=0:
-                lresponse=rqs.post(f'https://comic.dragalialost.com/api/thumbnail_list/{x}',headers=headers,data=test_ly)
+                lresponse=rqs.post(f'https://comic.dragalialost.com/api/thumbnail_list/{x}',headers=headers,data=params)
                 ljson=lresponse.json()
                 ljdata=pd.json_normalize(ljson)
 
@@ -88,7 +88,7 @@ def pr():
                 pmain=ljdata['main']
                 pts=ljdata['thumbnail_s']
                 ptl=ljdata['thumbnail_l']
-                plen=len(ljdata['id'])
+                plen=len(ljdata)
 
                 # write data
                 with open(f'{path}/origin/comic_dllife/{a}/{x}.json','w',encoding='utf-8') as origin:
@@ -107,16 +107,16 @@ def pr():
                 with open(f'{path}/decodejson/comic_dllife/{a}/{x}.json','w',encoding='utf-8') as decjs:
                     decjs.write('{')
                     for j in range(0,plen):
-                        if j==plen-1:
-                            d1=pid[l]
-                            d2=pepnum[l]
-                            d3=ptitle[l]
-                            d4=pmain[l]
-                            d5=pts[l]
-                            d6=ptl[l]
-                            decjs.write('{'+f'id:{d1},episode_num:{d2},title:{d3},main:{d4},thumbnail_s:{d5},thumbnail_l:{d6}'+'}')
-                        else:
-                            decjs.write('{'+f'id:{d1},episode_num:{d2},title:{d3},main:{d4},thumbnail_s:{d5},thumbnail_l:{d6}'+'},')
+                            d1=pid[j]
+                            d2=pepnum[j]
+                            d3=ptitle[j]
+                            d4=pmain[j]
+                            d5=pts[j]
+                            d6=ptl[j]
+                            if j==plen-1:
+                                decjs.write('{'+f'id:{d1},episode_num:{d2},title:{d3},main:{d4},thumbnail_s:{d5},thumbnail_l:{d6}'+'}')
+                            else:
+                                decjs.write('{'+f'id:{d1},episode_num:{d2},title:{d3},main:{d4},thumbnail_s:{d5},thumbnail_l:{d6}'+'},')
                     decjs.write('}')
                     decjs.close()
                 with open(f'{path}/res_list/comic_dllife/dlcomic_dllife_{a}_main.txt','a+',encoding='utf-8') as ma:
