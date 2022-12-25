@@ -1,5 +1,7 @@
 # DLwebsite_HttpResponse_Grabber
 
+### **Introduction:**
+
 A python script for grabbing the DragaliaLost.com/api/index.php parameter's response.
 
 Now the repository has included the part of img resources.
@@ -11,6 +13,38 @@ There has three folders about the response :
 **decode** is the source response has been decoded to Unicode_Escape. It's saved as txt file.
 
 **decodejson** is the source response has been decode to Unicode_Escape and saved as json file(But it was not formatting json)
+
+------
+
+### **Response:**
+
+##### Dragalia_News:
+
+There have two types requests founded:
+
+```php+HTML
+//Type 1:Get newest news list in Homepage
+https://dragalialost.com/api/index.php?format=json&type=information&category_id=&priority_lower_than=&action=information_list&article_id=&lang=jp&td=%2B08%3A00
+
+//Type 2:Get detail news page
+https://dragalialost.com/api/index.php?format=json&type=information&category_id=&priority_lower_than=&action=information_detail&article_id=2945&lang=lang=jp&td=%2B08%3A00
+```
+
+Now,Let's analyze these parameters next:
+
+**`type`**:which type request to server,there's only know one type is information.
+
+**`category_id`**:Unknow parameters, No usage found.
+
+**`priority_lower_than`**:Unknow parameters, No usage found.
+
+**`action`**:Differentiate of which type client action, `information_list` means get news list, `information_detail` means get detail page data from server
+
+
+
+------
+
+### **Download Progress:**
 
 <table>
 	<tr align="center">
@@ -130,7 +164,6 @@ There has three folders about the response :
 
 
 
-
-**Update Infomation:**
+### **Update Infomation:**
 
 **20221221**：News 1943 has been found a mistake.(Image not found in en/en-gb/zh_tw page, wrong image in zh_cn page, Non image in jp page)
