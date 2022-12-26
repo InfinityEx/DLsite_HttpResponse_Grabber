@@ -40,7 +40,11 @@ Now,Let's analyze these parameters next:
 
 **`action`**:Differentiate of which type client action, `information_list` means get news list, `information_detail` means get detail page data from server
 
+**`article_id`**:Detail article id number. The same news is the same in different languages.(It is known that news id may begin with 2 and end with 3732**(But jp news is end with 4000)**)
 
+**`lang`**:Languages, the news page supports `zh_cn`(Chinese Simplified), `zh_tw`(Chinese Traditional), `en_us`(American English), `en_eu`(Euro-English?), `ja_jp`(Japanese)
+
+**`time_delta`**:It seems likely to distinguish time zones, but the wrong time delta has no sense to result in error.
 
 ------
 
