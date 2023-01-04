@@ -36,7 +36,7 @@ Now,Let's analyze these parameters next:
 
 **`category_id`**:Unknow parameters, No usage found.
 
-**`priority_lower_than`**:Unknow parameters, No usage found.
+**`priority_lower_than`**:It will be used in News Page "More", for check newsid in head of next 6 news list.
 
 **`action`**:Differentiate of which type client action, `information_list` means get news list, `information_detail` means get detail page data from server
 
