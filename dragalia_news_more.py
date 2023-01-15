@@ -23,13 +23,57 @@ td=uri.quote('+08:00')
 # fake UA headers
 headers={'user-agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36'}
 
-# webpage address
-for a in range(0,1):
-    lang=lang[0]
-    priority=3742
-    while(priority!='null'):
-        if priority==3742:
-            # priority_lower_than=None is equivalent to priority_lower_than=3742
-            mainhp=f"https://dragalialost.com/api/index.php?format=json&type=information&category_id=&priority_lower_than=&action=information_list&article_id=&lang={lang}&td={td}"
-        else:
-            mainhp=f"https://dragalialost.com/api/index.php?format=json&type=information&category_id=&priority_lower_than={priority}&action=information_list&article_id=&lang={lang}&td={td}"
+def json2file(recont,rejson):
+    # contents: original response data
+    # djson: original json data
+    contents=recont
+    djson=rejson
+    # plt means priority_lower_than
+    if djson['data']['category']['priority_lower_than']==None:
+        plt=-1
+    else:
+        plt=djson['data']['category']['priority_lower_than']
+        jslen=len(djson['data']['category']['contents'])
+        jsdata=djson['data']['category']['contents']
+        for a in range (0,jslen):
+            article_id=jsdata[a]['article_id']
+            priority=jsdata[a]['priority']
+            category_name=jsdata[a]['category_name']
+            pr_category_id=jsdata[a]['pr_category_id']
+            caption_type=jsdata[a]['caption_type']
+            pr_thumb_type=jsdata[a]['pr_thumb_type']
+            title_name=jsdata[a]['title_name']
+            image_path=jsdata[a]['image_path']
+            date=jsdata[a]['date']
+            is_new=jsdata[a]['is_new']
+            is_update=jsdata[a]['is_update']
+            update_time=jsdata[a]['update_time']
+
+            # save data
+            with open(f"{path}/origin/dl_news_more/{lang}/{priority_m}.json",'w',encoding='utf-8') as nl:
+                nl.write(str(recont).replace("\/","/"))
+                nl.close()
+            with open(f"{path}/decode/dl_news_more/{lang}/{priority_m}.txt",'a+',encoding='utf-8') as nt:
+                nt.write(f"contents_order:{a}\narticle_id:{article_id}\npriority:{priority}\ncategory_name:{category_name}\npr_category_id:{pr_category_id}\ncaption_type:{caption_type}\npr_thumb_type:{pr_thumb_type}\ntitle_name:{title_name}\nimage_path:{image_path}\ndate:{date}\nis_new:{is_new}\nis_update:{is_update}\nupdate_time:{update_time}")
+                nt.close()
+            with open(f"{path}/res_list/dlnewsmore/newsm_img_{lang}.txt",'a+') as pic:
+                if image_path!="":
+                    pic.write(f"{image_path}\n")
+                pic.close()
+    return plt
+
+if __name__=='__main__':
+    # webpage address
+    priority_m=3742
+    for a in range(0,1):
+        lang=lang[0]
+        while(priority_m!=-1):
+            if priority_m==3742:
+                # &priority_lower_than= is equivalent to &priority_lower_than=3742
+                mainhp=f"https://dragalialost.com/api/index.php?format=json&type=information&category_id=&priority_lower_than=&action=information_list&article_id=&lang={lang}&td={td}"
+                response=rqs.post(url=mainhp,headers=headers)
+                defrt=json2file(response.content,response.json())
+            else:
+                mainhp=f"https://dragalialost.com/api/index.php?format=json&type=information&category_id=&priority_lower_than={priority_m}&action=information_list&article_id=&lang={lang}&td={td}"
+                response=rqs.post(url=mainhp,headers=headers)
+                defrt=json2file(response.content,response.json())
