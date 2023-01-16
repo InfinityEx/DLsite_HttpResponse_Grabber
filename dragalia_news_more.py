@@ -53,6 +53,10 @@ def json2file(recont,rejson):
             with open(f"{path}/origin/dl_news_more/{lang}/{priority_m}.json",'w',encoding='utf-8') as nl:
                 nl.write(str(contents).replace("\/","/"))
                 nl.close()
+            with open(f"{path}/decodejson/dl_news_more/{lang}/{priority_m}.json",'w',encoding='utf-8') as kl:
+                ktx=bytes(contents).decode('unicode_escape').replace("\/","/")
+                kl.write(str(ktx))
+                kl.close()
             with open(f"{path}/decode/dl_news_more/{lang}/{priority_m}.txt",'a+',encoding='utf-8') as nt:
                 nt.write(f"contents_order:{a}\narticle_id:{article_id}\npriority:{priority}\ncategory_name:{category_name}\npr_category_id:{pr_category_id}\ncaption_type:{caption_type}\npr_thumb_type:{pr_thumb_type}\ntitle_name:{title_name}\nimage_path:{image_path}\ndate:{date}\nis_new:{is_new}\nis_update:{is_update}\nupdate_time:{update_time}\n\n")
                 nt.close()
