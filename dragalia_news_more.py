@@ -15,7 +15,7 @@ import pandas as pd
 path=os.path.split(os.path.realpath(__file__))[0]
 
 # languages
-lang=['zh_cn','zh_tw','en_us','en-eu','ja_jp']
+languages=['zh_cn','zh_tw','en_us','en-eu','ja_jp']
 
 # timedelta
 td=uri.quote('+08:00')
@@ -45,7 +45,6 @@ def json2file(recont,rejson):
         jslen=len(djson['data']['category']['contents'])
         jsdata=djson['data']['category']['contents']
         print(f'content length:{jslen}')
-        time.sleep(2)
         for a in range (0,jslen):
             article_id=jsdata[a]['article_id']
             priority=jsdata[a]['priority']
@@ -74,8 +73,8 @@ def json2file(recont,rejson):
 if __name__=='__main__':
     # webpage address
     priority_m=3742
-    for a in range(0,5):
-        lang=lang[0]
+    for a in range(1,5):
+        lang=languages[a]
         while(priority_m!=-1):
             if priority_m==3742:
                 # &priority_lower_than= is equivalent to &priority_lower_than=3742
