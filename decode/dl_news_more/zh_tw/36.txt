@@ -1,0 +1,14 @@
+contents_order:0
+article_id:100002
+priority:35
+category_name:公告
+pr_category_id:1
+caption_type:summon
+pr_thumb_type:None
+title_name:「傳說召喚」舉辦公告(09/28更新)
+image_path:
+date:1538028000
+is_new:False
+is_update:False
+update_time:1539317351
+
