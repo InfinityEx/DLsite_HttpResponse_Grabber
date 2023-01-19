@@ -32,7 +32,8 @@ def json2file(recont,rejson):
     try:
         plta=djson['data']['category']['priority_lower_than']
     except KeyError:
-        plta=-1
+        plta=-5
+        print('KeyError! Check response.')
     if plta==None:
         plt=-1
         print(f'End of {lang}')
@@ -77,7 +78,7 @@ def json2file(recont,rejson):
 
 if __name__=='__main__':
     # default setting:(0,5)
-    for a in range(3,4):
+    for a in range(0,5):
         lang=languages[a]
         print(lang)
         # webpage address
