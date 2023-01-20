@@ -1,5 +1,11 @@
 # DLwebsite_HttpResponse_Grabber
 
+<p align="center">
+	<a href="/readme.md">English</a>
+	•
+	<a>简体中文(即将更新)</a>
+</p>
+
 ### **Introduction:**
 
 A python script for grabbing the DragaliaLost.com/api/index.php parameter's response.
@@ -85,6 +91,23 @@ Now,Let's analyze these parameters next:
         <td>√</td>
         <td>√</td>
         <td colspan="2">√</td>
+        <td>√</td>
+    </tr>
+    <tr align="center">
+    	<td>Mobile</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr align="center">
+        <td rowspan=2"">NewsMore_Json</td>
+        <td>PC</td>
+        <td>√</td>
+        <td>√</td>
+        <td>√</td>
+	<td>√</td>
         <td>√</td>
     </tr>
     <tr align="center">
