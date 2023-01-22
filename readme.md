@@ -3,7 +3,7 @@
 <p align="center">
 	<a href="/readme.md">English</a>
 	•
-	<a>简体中文(即将更新)</a>
+	<a href="/readme_cn.md">简体中文</a>
 </p>
 
 ### **Introduction:**
