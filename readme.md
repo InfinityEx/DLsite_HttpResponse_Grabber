@@ -31,12 +31,16 @@ There have two types requests founded:
 ```php+HTML
 //Type 1:Get newest news list in Homepage
 https://dragalialost.com/api/index.php?format=json&type=information&category_id=&priority_lower_than=&action=information_list&article_id=&lang=jp&td=%2B08%3A00
+//Attention:When you click "More", [priority_lower_than] will return an index,example:
+https://dragalialost.com/api/index.php?format=json&type=information&category_id=&priority_lower_than=3796&action=information_list&article_id=&lang=jp&td=%2B08%3A00
 
 //Type 2:Get detail news page
 https://dragalialost.com/api/index.php?format=json&type=information&category_id=&priority_lower_than=&action=information_detail&article_id=2945&lang=lang=jp&td=%2B08%3A00
 ```
 
 Now,Let's analyze these parameters next:
+
+<p style="color:red";><b>(Attention: Sorry for my poor English,the analyze will update later.)</b></p>
 
 **`type`**:which type request to server,there's only know one type is information.
 
@@ -50,7 +54,7 @@ Now,Let's analyze these parameters next:
 
 **`lang`**:Languages, the news page supports `zh_cn`(Chinese Simplified), `zh_tw`(Chinese Traditional), `en_us`(American English), `en_eu`(Euro-English?), `ja_jp`(Japanese)
 
-**`time_delta`**:It seems likely to distinguish time zones, but the wrong time delta has no sense to result in error.
+**`td`**:It seems likely to disuostinguish time zones, but the wrong time delta has no sense to result in error.
 
 ------
 
