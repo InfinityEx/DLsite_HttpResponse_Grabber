@@ -12,7 +12,60 @@ $action = $_GET['action'];
 $article_id = $_GET['article_id'];
 $lang = $_GET['lang'];
 $td = $_GET['td'];
-
+if($type=='information'){
+    switch($action)
+    {
+        case 'information_list':
+            switch($lang)
+            {
+                case 'zh_cn':
+                    if($priority_lower_than==''){
+                        $priority_lower_than = 3742;
+                    }
+                    $plt=strval($priority_lower_than);
+                    $fstr=dirname(__FILE__).'/newsmore/zh_cn/'.$plt.'.json';
+                    $json_data = file_get_contents($fstr);
+                    break;
+                case 'zh_tw':
+                    break;
+                case 'en_us':
+                    break;
+                case 'en_eu':
+                    break;
+                case 'ja_jp':
+                    break;
+                default:
+                    $json_data = '{error code:122}';
+            }
+            break;
+        case 'information_detail':
+            switch($lang)
+            {
+                case 'zh_cn':
+                    if($article_id<>''){
+                        $aid=strval($article_id);
+                        $gstr=dirname(__FILE__).'/detail/zh_cn/'.$aid.'.json';
+                        $json_data = file_get_contents($gstr);
+                    }else{
+                        $json_data = '{error code:122}';
+                    }
+                    break;
+                case 'zh_tw':
+                    break;
+                case 'en_us':
+                    break;
+                case 'en_eu':
+                    break;
+                case 'ja_jp':
+                    break;
+                default:
+                    $json_data = '{error code:122}';
+            }
+            break;
+        default:
+            $json_data = '{error code:122}';
+    }
+}
 // Return data
 header('Content-Type:application/json');
 $jsoncallback=htmlspecialchars($_REQUEST['jsoncallback']);
