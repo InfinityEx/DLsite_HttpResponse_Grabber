@@ -4,7 +4,7 @@
 // --時無_ShiWu
 
 // receive parameters
-// priority: type > action > lang > article_id > priority_lower_than
+// priority: type > action > lang > article_id = priority_lower_than
 $type=$_GET['type'];
 $category_id = $_GET['category_id'];
 $priority_lower_than = $_GET['priority_lower_than'];
@@ -27,12 +27,36 @@ if($type=='information'){
                     $json_data = file_get_contents($fstr);
                     break;
                 case 'zh_tw':
+                    if($priority_lower_than==''){
+                        $priority_lower_than = 3742;
+                    }
+                    $plt=strval($priority_lower_than);
+                    $fstr=dirname(__FILE__).'/newsmore/zh_cn/'.$plt.'.json';
+                    $json_data = file_get_contents($fstr);
                     break;
                 case 'en_us':
+                    if($priority_lower_than==''){
+                        $priority_lower_than = 3742;
+                    }
+                    $plt=strval($priority_lower_than);
+                    $fstr=dirname(__FILE__).'/newsmore/zh_cn/'.$plt.'.json';
+                    $json_data = file_get_contents($fstr);
                     break;
                 case 'en_eu':
+                    if($priority_lower_than==''){
+                        $priority_lower_than = 3742;
+                    }
+                    $plt=strval($priority_lower_than);
+                    $fstr=dirname(__FILE__).'/newsmore/zh_cn/'.$plt.'.json';
+                    $json_data = file_get_contents($fstr);
                     break;
                 case 'ja_jp':
+                    if($priority_lower_than==''){
+                        $priority_lower_than = 3742;
+                    }
+                    $plt=strval($priority_lower_than);
+                    $fstr=dirname(__FILE__).'/newsmore/zh_cn/'.$plt.'.json';
+                    $json_data = file_get_contents($fstr);
                     break;
                 default:
                     $json_data = '{error code:122}';
@@ -51,12 +75,40 @@ if($type=='information'){
                     }
                     break;
                 case 'zh_tw':
+                    if($article_id<>''){
+                        $aid=strval($article_id);
+                        $gstr=dirname(__FILE__).'/detail/zh_cn/'.$aid.'.json';
+                        $json_data = file_get_contents($gstr);
+                    }else{
+                        $json_data = '{error code:122}';
+                    }
                     break;
                 case 'en_us':
+                    if($article_id<>''){
+                        $aid=strval($article_id);
+                        $gstr=dirname(__FILE__).'/detail/zh_cn/'.$aid.'.json';
+                        $json_data = file_get_contents($gstr);
+                    }else{
+                        $json_data = '{error code:122}';
+                    }
                     break;
                 case 'en_eu':
+                    if($article_id<>''){
+                        $aid=strval($article_id);
+                        $gstr=dirname(__FILE__).'/detail/zh_cn/'.$aid.'.json';
+                        $json_data = file_get_contents($gstr);
+                    }else{
+                        $json_data = '{error code:122}';
+                    }
                     break;
                 case 'ja_jp':
+                    if($article_id<>''){
+                        $aid=strval($article_id);
+                        $gstr=dirname(__FILE__).'/detail/zh_cn/'.$aid.'.json';
+                        $json_data = file_get_contents($gstr);
+                    }else{
+                        $json_data = '{error code:122}';
+                    }
                     break;
                 default:
                     $json_data = '{error code:122}';
