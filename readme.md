@@ -44,7 +44,7 @@ Now,Let's analyze these parameters next:
 
 **`type`**:which type request to server,there's only know one type is information.
 
-**`category_id`**:Unknow parameters, No usage found.
+**`category_id`**:Differentiate of news that which type in News Page. category_id in range 0 to 5. 0=All, 1=News, 2=Updates, 3=Maintenance, 4=Events, 5=Important.
 
 **`priority_lower_than`**:It will be used in News Page "More", for check newsid in head of next 6 news list.
 

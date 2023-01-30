@@ -42,7 +42,7 @@ https://dragalialost.com/api/index.php?format=json&type=information&category_id=
 
 **`type`**:即从服务器接收何种请求，目前只知道可以向服务器请求information，也就是新闻
 
-**`category_id`**:未知参数，也无法确定用途
+**`category_id`**:用于区分用户在新闻页面选择哪个分类的新闻查看，数字范围在0-5之间，0代表全部新闻，1代表公告，2代表更新，3代表维护，4代表活动，5代表重要事项。
 
 **`priority_lower_than`**:当请求新闻列表时，回传的json会从服务器查询新闻列表和下标ID，当再次请求时会从该下标ID开始，以该ID向服务器请求从该ID开始的新闻列表(默认加载更多请求的新闻都是6个)
 
