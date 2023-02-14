@@ -26,8 +26,8 @@ td=uri.quote('+08:00')
 headers={'user-agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.52'}
 
 def json2file(pid,la,rescont,resjson,pltm):
-    if not os.path.isdir(f'{path}/origin/dl_news_a/{la}/{pid}'):
-        os.makedirs(f'{path}/origin/dl_news_a/{la}/{pid}')
+    if not os.path.isdir(f'{path}/origin/dl_news_ex/{la}/{pid}'):
+        os.makedirs(f'{path}/origin/dl_news_ex/{la}/{pid}')
 
     # plt means priority_lower_than
     try:
@@ -40,13 +40,13 @@ def json2file(pid,la,rescont,resjson,pltm):
         plt=-1
         print(f'End of {lang}')
     else:
-        with open(f"{path}/origin/dl_news_a/{la}/{pid}/{pltm}.json",'w',encoding='utf-8') as nl:
+        with open(f"{path}/origin/dl_news_ex/{la}/{pid}/{pltm}.json",'w',encoding='utf-8') as nl:
             nl.write(str(rescont).replace("\/","/"))
             nl.close()
 
-        with open(f"{path}/decodejson/dl_news_a/{la}/{pid}/{pltm}.json",'w',encoding='utf-8') as kl:
+        with open(f"{path}/decodejson/dl_news_ex/{la}/{pid}/{pltm}.json",'w',encoding='utf-8') as kl:
             ktx=bytes(rescont).decode('unicode_escape').replace("\/","/")
-            kl.write(str(ktx))
+            kl.write(str(ktx,'utf-8'))
             kl.close()
             
         plt=resjson['data']['category']['priority_lower_than']
@@ -54,8 +54,7 @@ def json2file(pid,la,rescont,resjson,pltm):
     return plt
 
 def category(nid):
-    id=cateid[nid]
-    for a in range(0,1):
+    for a in range(0,5):
         lang=languages[a]
         print(lang)
         # webpage address
@@ -63,20 +62,20 @@ def category(nid):
         while True:
             if priority_m==3742:
                 # &priority_lower_than= is equivalent to &priority_lower_than=3742
-                mainhp=f"https://dragalialost.com/api/index.php?format=json&type=information&category_id={id}&priority_lower_than=&action=information_list&article_id=&lang={lang}&td={td}"
+                mainhp=f"https://dragalialost.com/api/index.php?format=json&type=information&category_id={nid}&priority_lower_than=&action=information_list&article_id=&lang={lang}&td={td}"
                 response=rqs.post(url=mainhp,headers=headers)
-                defrt=json2file(id,lang,response.content,response.json(),priority_m)
+                defrt=json2file(nid,lang,response.content,response.json(),priority_m)
                 priority_m=int(defrt)
                 time.sleep(random.randrange(0,1))
             elif priority_m==-1:
                 break
             else:
-                mainhp=f"https://dragalialost.com/api/index.php?format=json&type=information&category_id={id}&priority_lower_than={priority_m}&action=information_list&article_id=&lang={lang}&td={td}"
+                mainhp=f"https://dragalialost.com/api/index.php?format=json&type=information&category_id={nid}&priority_lower_than={priority_m}&action=information_list&article_id=&lang={lang}&td={td}"
                 response=rqs.post(url=mainhp,headers=headers)
-                defrt=json2file(id,lang,response.content,response.json(),priority_m)
+                defrt=json2file(nid,lang,response.content,response.json(),priority_m)
                 priority_m=int(defrt)
                 time.sleep(random.randrange(0,1))
     
 if __name__=='__main__':
-    for zx in range(1,2):
+    for zx in range(1,6):
         category(zx)
