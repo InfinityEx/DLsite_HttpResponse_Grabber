@@ -25,9 +25,19 @@ td=uri.quote('+08:00')
 # fake UA headers
 headers={'user-agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.52'}
 
+s=0
+
 def json2file(pid,la,rescont,resjson,pltm):
-    if not os.path.isdir(f'{path}/origin/dl_news_ex/{la}/{pid}'):
-        os.makedirs(f'{path}/origin/dl_news_ex/{la}/{pid}')
+    tid=cateid[pid]
+    if not os.path.isdir(f'{path}/origin/dl_news_ex'):
+        os.makedirs(f'{path}/origin/dl_news_ex')
+        os.makedirs(f'{path}/origin/dl_news_ex/{la}')
+        os.makedirs(f'{path}/origin/dl_news_ex/{la}/{tid}')
+    
+    if not os.path.isdir(f'{path}/decodejson/dl_news_ex'):
+        os.makedirs(f'{path}/decodejson/dl_news_ex')
+        os.makedirs(f'{path}/decodejson/dl_news_ex/{la}')
+        os.makedirs(f'{path}/decodejson/dl_news_ex/{la}/{tid}')
 
     # plt means priority_lower_than
     try:
@@ -38,25 +48,26 @@ def json2file(pid,la,rescont,resjson,pltm):
 
     if plta==-5:
         plt=-1
-        print(f'End of {lang}')
     else:
-        with open(f"{path}/origin/dl_news_ex/{la}/{pid}/{pltm}.json",'w',encoding='utf-8') as nl:
+        with open(f"{path}/origin/dl_news_ex/{la}/{tid}/{pltm}.json",'w',encoding='utf-8') as nl:
             nl.write(str(rescont).replace("\/","/"))
             nl.close()
 
-        with open(f"{path}/decodejson/dl_news_ex/{la}/{pid}/{pltm}.json",'w',encoding='utf-8') as kl:
+        with open(f"{path}/decodejson/dl_news_ex/{la}/{tid}/{pltm}.json",'w',encoding='utf-8') as kl:
             ktx=bytes(rescont).decode('unicode_escape').replace("\/","/")
-            kl.write(str(ktx,'utf-8'))
+            kl.write(str(ktx))
             kl.close()
             
         plt=resjson['data']['category']['priority_lower_than']
-    print(f'File saved. lang:{la}, priority:{pltm}')
+    # print(f'File saved. lang:{la}, priority:{pltm}')
+    msg_update(la,tid,pltm)
     return plt
 
 def category(nid):
     for a in range(0,5):
         lang=languages[a]
-        print(lang)
+        # ntype=cateid[nid]
+        # print(f'languages:{lang}, Type:{ntype}')
         # webpage address
         priority_m=3742
         while True:
@@ -75,7 +86,11 @@ def category(nid):
                 defrt=json2file(nid,lang,response.content,response.json(),priority_m)
                 priority_m=int(defrt)
                 time.sleep(random.randrange(0,1))
+
+def msg_update(lang,type,pri):
+    print(f'\rLanguages:{lang}, Type:{type}, Priority:{pri}',end='')
     
 if __name__=='__main__':
     for zx in range(1,6):
         category(zx)
+    print(f'Download Complete.')
