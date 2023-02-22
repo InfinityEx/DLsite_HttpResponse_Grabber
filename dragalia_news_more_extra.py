@@ -29,15 +29,6 @@ s=0
 
 def json2file(pid,la,rescont,resjson,pltm):
     tid=cateid[pid]
-    if not os.path.isdir(f'{path}/origin/dl_news_ex'):
-        os.makedirs(f'{path}/origin/dl_news_ex')
-        os.makedirs(f'{path}/origin/dl_news_ex/{la}')
-        os.makedirs(f'{path}/origin/dl_news_ex/{la}/{tid}')
-    
-    if not os.path.isdir(f'{path}/decodejson/dl_news_ex'):
-        os.makedirs(f'{path}/decodejson/dl_news_ex')
-        os.makedirs(f'{path}/decodejson/dl_news_ex/{la}')
-        os.makedirs(f'{path}/decodejson/dl_news_ex/{la}/{tid}')
 
     # plt means priority_lower_than
     try:
@@ -46,7 +37,7 @@ def json2file(pid,la,rescont,resjson,pltm):
         plta=-5
         print('KeyError! Check response.')
 
-    if plta==-5:
+    if plta==-5 or plta==None:
         plt=-1
     else:
         with open(f"{path}/origin/dl_news_ex/{la}/{tid}/{pltm}.json",'w',encoding='utf-8') as nl:
