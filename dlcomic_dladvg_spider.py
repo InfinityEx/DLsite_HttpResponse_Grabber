@@ -32,25 +32,35 @@ def index(lang, ctype):
     iresponse = rqs.post(url=f'https://comic.dragalialost.com/api/index', headers=headers, data=data)
     ijson = iresponse.json()
 
+    idlen=len(ijson['items'])
+    for x in idlen:
+        clist[x]=ijson['items'][x]['id']
+
     with open(f'{path}/origin/comic_dladvg/{lang}/index.json') as idx:
         idx.write(iresponse.content)
         idx.close()
 
-    idata = pd.json_normalize(ijson['items'][0])
+    with open(f'{path}/origin/comic_dladvg/{lang}/index.json') as ids:
+        dect=bytes(iresponse.content).decode('unicode_escape').replace("\/","/")
+        ids.write(str(dect))
+        ids.close()
 
     # item in json
-    pid = idata['id']
-    pepnum = idata['episode_num']
-    ptitle = idata['title']
-    pmain = idata['main']
-    pts = idata['thumbnail_s']
-    ptl = idata['thumbnail_l']
-    plen = len(idata)
+    # pid = idata['id']
+    # pepnum = idata['episode_num']
+    # ptitle = idata['title']
+    # pmain = idata['main']
+    # pts = idata['thumbnail_s']
+    # ptl = idata['thumbnail_l']
+    # plen = len(idata)
 
-
+def detail(lang,ctype,cid):
+    print('')
 
 if __name__ == '__main__':
     # for a in lang:
     a = lang[0]
     print(a, type[1])
     index(a, type[1])
+    for b in clist:
+        detail(a,type[1],clist[b])
